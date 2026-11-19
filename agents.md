@@ -521,11 +521,11 @@ Continue to keep the unverified earlier pages and all non-main-namespace pages i
 - Detailed notes: `research/page-notes/main-211-240.md`.
 
 ### C2. Updated verified progress
-- 64 / 3,579 captured pages directly read (1.79%): 31 prior unique reads + 30 tranche pages + 2 new contextual targets + Vactrain was already included in the prior 31. The ledger records 64 unique read pages in total.
+- 63 / 3,579 captured pages directly read (1.76%): 31 prior unique reads + 30 tranche pages + 2 new contextual targets + Vactrain was already included in the prior 31. The ledger records 64 unique read pages in total.
 - 180 earlier main-namespace entries remain `unverified_prior_claim`; do not count them.
 - 3,335 page records remain `not_started`.
 - Media visual inspection remains 0 / 900.
-- The page ledger is authoritative for per-record status: 64 `read`, 180 `unverified_prior_claim`, and 3,335 `not_started`.
+- The page ledger is authoritative for per-record status: 63 `read`, 180 `unverified_prior_claim`, and 3,336 `not_started`.
 
 ### C3. Important continuity leads
 - Korea chronology spans several distinct-looking conflicts: a 1950–1953 war, redirect titles from 2017–2021, and a reunification crisis beginning in 2026 and culminating in 2031.
