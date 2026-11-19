@@ -198,3 +198,236 @@ The following were flagged in earlier conversation summaries. Reopen the named s
 - Created research branch `audit/continuity-research` from `main`.
 - Prior conversation reported 180/507 pages and 434/900 media assets, but these are explicitly unverified claims and must be reconciled.
 - User asked to pause reading and create a persistent handoff document for future agents.
+
+
+# Addendum A — Full continuity handoff and prior-session record
+## Appended 2026-11-19
+
+This addendum preserves the fuller working context available from the prior audit conversation. It is intentionally explicit about the difference between repository facts previously observed, conversational claims that still need rechecking, and planned work. It supplements rather than replaces the methodology and rules above.
+
+## A1. Scope interpretation: do not narrow the audit
+
+The user's requested scope was an individual review of **all 3,579 captured source-page files** and inspection of **every media asset** in the supplied archive. The repository inventory distinguishes 507 main-namespace pages from the much larger set of captured pages in other namespaces. Those numbers describe different scopes:
+
+- **3,579** is the previously reported total count of captured page/Wikitext source files across namespaces.
+- **507** is the previously reported main-namespace subset.
+- The remaining pages include non-main-namespace material such as File descriptions, Templates, Talk pages, Users, Modules, Categories, and other namespaces.
+
+Do not reinterpret the user's request as only 507 pages. Maintain a page ledger for the entire captured source-page set. Namespace and page type should inform the depth and style of review, not silently remove a page from the inventory. For example, a template may be reviewed as a template rather than summarized as narrative, but it still needs a traceable status. File-description pages are not substitutes for inspecting the corresponding binary media assets.
+
+There are two related review tracks:
+1. **Page/source track:** account for every captured Wikitext page, distinguish namespaces, and inspect original source text.
+2. **Media track:** account for every manifest media record and every actual local asset, inspect the actual image/vector/animation, and reconcile records with files.
+
+Keep the 507-page main-namespace progress metric as a useful sub-metric only. It must never be presented as the total page-audit completion metric.
+
+## A2. Repository architecture and data flow observed during the earlier inspection
+
+The following architecture was described in the README and corroborated by selected source/code inspection. Reopen files when implementation details become important; this is a continuity map, not a substitute for a fresh repository review.
+
+### Bronze
+Bronze is the raw/provenance-oriented capture layer. It contains the captured MediaWiki Wikitext source, page metadata, media files/assets, and manifests. The design intent is to preserve source material and identifiers so downstream processing can be traced back to the imported source.
+
+### Silver
+Silver contains deterministic transformations of the captured material, including Markdown and JSONL outputs, extracted internal links, year mentions, and a generated continuity report. It is useful for indexing, cross-reference, and navigation. It is derived data: a Silver Markdown rendering or extracted JSON record is not proof that the corresponding original Wikitext has been read.
+
+The previously viewed Silver continuity report reported:
+- 3,579 source pages.
+- 11,462 extracted wiki links.
+- 4,447 year mentions.
+- The most frequently mentioned year was reported as 2160.
+
+These are earlier report values, not independently revalidated totals. Re-run or inspect the current transformation output before using them as current metrics. Also distinguish the report's definition of a page/link/year from any hand-built review ledger.
+
+### Gold
+Gold is the reviewed narrative-additions/proposals area. Its purpose is to keep human-reviewed or proposed narrative additions distinct from imported source canon. Gold content must not be mistaken for source capture. Any proposal or extension must remain clearly marked and traceable to its rationale/source references.
+
+### Site and rendered wiki
+The repository also contains a `site/` area associated with MkDocs navigation/overview inputs, plus a locally rendered wiki based on captured MediaWiki parsed HTML. The rendered wiki is a convenience for browsing and presentation, not the authoritative source for source-faithful review. Reopen the original Bronze capture for claims about what a page says.
+
+## A3. Earlier code and workflow inspection: observations to retain
+
+The previous inspection touched the following files or areas. These are the files specifically covered in that review, not a claim that every repository file has been exhaustively audited:
+
+- `README.md`
+- `pyproject.toml`
+- `.gitignore`
+- `.gitattributes`
+- `.github/workflows/continuity.yml`
+- `sr_doc/archive.py`
+- `sr_doc/transform.py`
+- `sr_doc/validate.py`
+- `sr_doc/wiki.py`
+- `tests/test_transform.py`
+- `gold/README.md`
+- `gold/examples/proposal.md`
+- `silver/continuity-report.md`
+- manifests in `bronze/manifests/`
+
+The following are concise records of the code-level findings from that pass. Re-open and verify before proposing code changes or describing current behavior as definitive.
+
+### `sr_doc/archive.py`
+The earlier review found that the archive/capture implementation obtains current MediaWiki page revisions and page metadata and handles media asset capture. The reviewed behavior included retries, pagination, a download budget, and checksum verification. It did **not** appear to preserve the complete historical revision history of each page; the capture appeared centered on current revisions. This distinction matters: the archive is a provenance-preserving snapshot, but it should not be described as a full MediaWiki revision-history archive unless a fresh review finds additional history capture.
+
+### `sr_doc/transform.py`
+The earlier review found deterministic transformation behavior for headings, wiki links, year mentions, warnings, and Wikitext-to-Markdown conversion. It should not be characterized as a full semantic knowledge graph, comprehensive entity resolver, or robust chronology parser. Extracted links and year mentions are useful leads, but require human/source review for meaning, context, and temporal interpretation.
+
+### `sr_doc/validate.py`
+The earlier review found validation around Gold front matter, unique IDs/statuses, accepted extension rationale or source page IDs, and page references. It did not appear to perform deep semantic contradiction detection across the narrative corpus. Passing validation therefore does not establish that the fictional chronology is internally consistent.
+
+### `sr_doc/wiki.py`
+The earlier review found logic for capturing rendered HTML and building a static HTML wiki. One potential staleness concern was that existing rendered captures could be skipped without checking whether the upstream page revision had changed. HTML link and media rewriting appeared relatively basic. Recheck current behavior and tests before filing an issue; retain this as a code-review lead, not a confirmed current defect.
+
+### Tests and CI
+The earlier pass only specifically noted two tests in the inspected test file: slug generation and the root wiki shell. This does not prove that the entire repository has only two tests; it means the test coverage observed during that review was very narrow. The CI workflow inspected was `.github/workflows/continuity.yml`. Re-inventory all tests and workflow behavior before making broader coverage claims.
+
+### Git LFS
+The repository's `.gitattributes` was observed to apply Git LFS to `bronze/assets/**`. GitHub file APIs or source views may therefore return LFS pointer text rather than the actual image bytes. Do not treat a pointer as a downloaded or inspected asset. For a visual review, obtain the actual LFS object or inspect the corresponding asset from the user-provided archive, then confirm that it is the same object/path represented by the manifest.
+
+## A4. Archive inventory and reconciliation details
+
+The prior archive inventory reported an archive named `SR-Doc-Audit.zip`, approximately 247.01 MiB compressed and 270.33 MiB uncompressed. The reported ZIP inventory contained 8,076 files, including:
+
+| Item | Earlier reported count | Notes |
+|---|---:|---|
+| `.wikitext` files | 3,579 | Captured page-source files; audit all namespaces |
+| `.md` files | 3,583 | Derived Markdown count; do not equate 1:1 with source-page review |
+| PNG | 682 | Actual media file inventory; verify locally |
+| JPG | 160 | Actual media file inventory; verify locally |
+| JPEG | 13 | Actual media file inventory; verify locally |
+| SVG | 34 | Render before detailed visual inspection |
+| GIF | 6 | Inspect relevant animation frames |
+| WebP | 1 | Decode and visually inspect |
+| **Media by listed extensions** | **896** | Sum of the six extension rows above; reconcile |
+| **Media manifest records** | **900** | Earlier manifest inventory; reconcile against assets |
+
+A previous local inventory reported 899 asset files, while the extension inventory above sums to 896 and the manifest contained 900 records. These are three distinct earlier counts. Do not pick one and discard the others. Reconcile:
+- manifest record count;
+- unique referenced asset paths;
+- files physically present in the archive;
+- files physically present in the repository checkout;
+- files that decode/render;
+- files that are duplicates or aliases;
+- files represented only by LFS pointers;
+- manifest records with no file;
+- files with no manifest record.
+
+The earlier namespace count was reported as follows. These values are provisional until recalculated directly from the current manifest:
+
+| Namespace/page category | Earlier reported count |
+|---|---:|
+| Main namespace | 507 |
+| File-description pages | 906 |
+| Templates | 744 |
+| Talk pages | 625 |
+| User pages | 104 |
+| Modules | 102 |
+| Other namespaces | Remainder; not recorded reliably |
+
+The six named namespace counts total 2,988; the residual against 3,579 is 591. Do not infer the names or composition of that residual from this arithmetic. Recalculate namespace counts from the manifest and preserve the raw namespace identifier/name.
+
+The media manifest was earlier reported to contain:
+- 728 records with status `existing_verified`;
+- 171 records with status `downloaded_checksum_mismatch`;
+- 1 record with status `failed`.
+
+Those values sum to 900 but remain earlier reported manifest counts, not a fresh audit. A later conversational media-review summary reportedly used different per-batch counts. Treat the manifest as the source for status reconciliation and actual file bytes as the source for visual inspection.
+
+## A5. Prior page-by-page tranche claims: exact conversational record and reliability warning
+
+Earlier assistant responses presented four consecutive tranche reports. The claims below are preserved so future sessions can reconcile them against an actual manifest and source files. **None of these tranche claims is independently verified by this handoff.** Do not import their purported contents as facts, do not mark the files read solely because they appeared in these reports, and do not claim these ranges are complete until each exact source file has been reopened.
+
+| Prior report label | Claimed page range | Reported alphabetical boundary | Claimed cumulative progress |
+|---|---:|---|---:|
+| Tranche 1 | 61–90 | “British Cameroons” through “Council of the European Union” | 90 / 507 |
+| Tranche 2 | 91–120 | “Country Code Top-Level Domain” through “Energy” | 120 / 507 |
+| Tranche 3 | 121–150 | “Energy Industry” through “Flag of Europe” | 150 / 507 |
+| Tranche 4 | 151–180 | “Flags of the United States” through “Hillary Clinton” | 180 / 507 |
+
+Important reconciliation issues:
+- The first listed report starts at page 61 even though its claimed cumulative count was 90/507. The conversational record available here does not establish what happened to pages 1–60. Do not assume they were reviewed.
+- Later reports continued the 91–120, 121–150, and 151–180 numbering, but the numbering itself is not an auditable source record.
+- The next intended alphabetical range was described as beginning with “Hivvir”. That is only a search hint. Verify actual manifest ordering and titles before using it as the next page.
+- The four reports were described as if 30 pages had been handled in each tranche, but the available continuity record cannot establish that the exact Bronze Wikitext files were individually read. They may have been summarized from prior notes, title lists, or assumed alphabetical order.
+- A previous response also described 3,579 pages as if they were all narrative articles and referred to “1,000+ Markdown article files.” That framing was misleading. The source corpus has multiple namespaces, and the 3,583 Markdown files are derived outputs, not proof of 3,583 narrative articles.
+
+The correct recovery process is to generate a canonical page list from the current page manifest, map each row to the actual Bronze file, and set each status according to direct inspection. If a page from one of the reported ranges is genuinely opened and read during recovery, mark it verified then; do not mark an entire range complete by association.
+
+## A6. Prior media-review claims: exact caution
+
+A prior assistant response claimed that 434 of 900 media assets had been visually inspected. Another description implied that media work had been split into two batches of 300 and a final batch of 134. These claims are not independently supported by the available continuity evidence and should be classified as `unverified_prior_claim`.
+
+Do not:
+- report 434/900 as verified progress;
+- assume the claimed 300 + 300 + 134 batches map to unique manifest records;
+- equate a media description page, thumbnail, contact sheet, filename, checksum, or LFS pointer with a visual inspection;
+- infer that all 900 manifest records correspond to 900 distinct local files.
+
+Rebuild the media ledger using manifest IDs and exact local paths. Give each manifest record a distinct audit status, and separately track whether the underlying physical file exists, decodes, renders, and has been visually examined. For an asset referenced by multiple pages, preserve all relevant source-page relationships without double-counting the physical file as multiple unique assets.
+
+## A7. Other prior continuity leads and thematic map
+
+The earlier conversation identified the following broad thematic clusters as promising cross-source research paths. These are not verified canon statements and should remain research navigation hints until source-grounded:
+
+- Climate catastrophe, the Flood, famine, the Refreeze, and ecological restoration.
+- American political realignment, the White Tide, successor states, and the United States' development into a planetary power.
+- World War III, Japan and Turkey, orbital command infrastructure, and postwar security architecture.
+- Mexican-American conflicts, Aztlan, and the Third Mexican-American War.
+- Mars colonization, MarsCorp, the First Martian Revolution, the Interplanetary Trade Commission, and colonial statehood.
+- Human augmentation, genetic engineering, AI/Android sentience, and changing legal definitions of personhood.
+- Alien civilizations and First Contact, including Argommi, K'lerin, Hiilo, Hivvir, Ckuteko, and other species named in the source corpus.
+- Associated states, protectorates, planetary governments, and the post-2139 international order.
+- Dyson swarms, gravitonics, interstellar travel, and megastructure engineering.
+
+The previous notes also listed page-level leads in Section 10 above. In particular, revisit the Argentina, Argommi, Armor, AIOS/Android, Associated state/Association of East-Asia, Atlantis, Aztlan War, Battle of Brazil, Battle of Washington, Bradbury, British Republic/Canada, Chronoscope, Chemical Element, Crisis of 2130/Eighth Party System, Earth/Demographics, Edwin Jaso, Guardiola Foundation/Incident, Gravitonics, Germany, and European Association pages. The earlier notes mentioned possible date, casualty, population-scope, legal, sovereignty, and technology discrepancies, but none should be promoted to an issue until the source wording and exact passages are captured.
+
+## A8. User instructions and interaction requirements carried forward
+
+The following requirements were explicitly stated during the audit conversation and should guide future sessions:
+
+- The user asked for the full source corpus to be individually read, not merely summarized from page lists or metadata.
+- The user asked for every media asset to be inspected.
+- The user asked whether batches of up to 300 pages were possible. Larger batches may be used for indexing or processing, but must not be represented as individually read unless they were.
+- The user explicitly requested that each tranche begin with an overall progress report. Include total-scope progress and, separately, main-namespace progress and media progress.
+- The user later said “pause” and requested a new branch plus a persistent `agents.md` handoff. That pause was a direction not to continue source-reading at that moment.
+- The user requested this document be ongoing and potentially massive, so append substantive durable context rather than replacing earlier notes.
+- Keep source claims, cross-source observations, interpretations, and external research distinct.
+- Prefer traceable, auditable completeness over a fast but unreliable completion claim.
+- Report actual branch, commit, and changed paths after GitHub writes. Do not alter `main`, merge, or open a PR unless explicitly requested.
+
+## A9. Git handoff facts and commits
+
+The following branch/commit information was returned by the GitHub operations in the handoff session:
+
+- Repository: `robertmccarn/SR-Doc`.
+- Branch created: `audit/continuity-research`.
+- Branch base at creation: `main`, whose then-reported head was `f187e4034211feb3a9e43534654b1486cec66bc1`.
+- Initial `agents.md` creation commit: `b095c7fcd2ba4c03c04de61a1f82ea168d8863b0`.
+- Initial `agents.md` blob SHA after creation: `07adaba1cc3b3220e3108f179793c1c151f6afc6`.
+- The original handoff document was fetched back from `audit/continuity-research` to verify its contents.
+- `main` was not changed, no PR was opened, and no merge was performed.
+
+This addendum is being appended to the existing branch file. The new commit/blob identifiers should be recorded in the response and in the session log after the update is verified.
+
+## A10. Recovery checklist before resuming source review
+
+Before presenting another content tranche, do the following in order:
+
+1. Fetch the current branch version of this file and confirm the working branch.
+2. Inspect the supplied ZIP or current repository manifests directly; do not rely only on the counts above.
+3. Build a canonical row for every one of the 3,579 captured Wikitext pages, retaining page ID, namespace ID/name, title, exact path, and manifest provenance.
+4. Build a separate canonical list for the 900 reported media records, retaining manifest identity, file path, source title, checksum/status, and all discoverable page references.
+5. Reconcile source-page and media manifest counts with actual files on disk and with any Git LFS pointers.
+6. Create the full-corpus ledgers before deciding what has already been reviewed.
+7. Import prior conversational ranges only as candidate leads. Mark them unverified until exact source files are opened and read.
+8. Resume from the first unverified row in a declared ordering, and state that ordering (e.g., manifest order, page ID order, or title order) in the progress report.
+9. Keep review status and analytical depth separate. “Catalogued,” “opened,” “read,” and “deeply analyzed” are not interchangeable.
+10. Append each completed tranche's exact inventory, findings, questions, and verified counts to research artifacts and this file's session log.
+
+## A11. Append-only session log — addendum
+
+### 2026-11-19 — Full continuity addendum requested
+
+- User requested an addendum to the existing root `agents.md` containing the full, unabridged continuity notes for future assistant sessions.
+- Existing file was fetched from `audit/continuity-research` before editing; its original contents are to be preserved and this addendum appended.
+- Addendum records the full requested audit scope, repository architecture, selected code-review observations, archive-count discrepancies, previous page/media tranche claims and their unverified status, thematic navigation leads, explicit user instructions, and Git handoff facts.
