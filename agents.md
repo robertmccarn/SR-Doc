@@ -661,3 +661,10 @@ Continue with manifest entries 1201–1500 in original manifest order, all names
 Updated 2026-11-19. All 300 Bronze Wikitext files at manifest entries 1201–1500 were opened and read in original manifest order, across all namespaces. SHA-256 matched the manifest for all 300 files. This adds 290 unique verified reads (10 were already read; 25 unverified prior claims and 265 not-started records were newly verified). The ledger now records all 300 rows as `read`; detailed notes are in `research/page-notes/manifest-1201-1500.md`.
 
 Cumulative page-ledger status after this tranche: 1538 read; 92 unverified prior claims; 1949 not started, out of 3,579. Main namespace: 269/507 read. Manifest entries 1501–1800 are next. Media visual inspection remains 0/900; no binary asset was viewed in this tranche. Continue to keep all work on `audit/continuity-research`, preserve source contradictions, and do not merge or open a PR without user approval.
+
+
+# Addendum I — Manifest tranche 1501–1800
+
+Updated 2026-11-19. All 300 original Bronze Wikitext files at manifest entries 1501–1800 were opened and read in original manifest order across all namespaces. SHA-256 matched the manifest for all 300 files. This adds 292 unique verified reads (8 already read; 27 prior unverified claims and 265 not-started records were newly verified). The ledger now marks all 300 rows read; detailed notes are in research/page-notes/manifest-1501-1800.md.
+
+Cumulative page-ledger status: 1830 read; 65 unverified prior claims; 1684 not started, out of 3,579. Main namespace: 341/507 read. Manifest entries 1801–2100 are next. Media visual inspection remains 0/900; no binary asset was viewed in this tranche. Continue on audit/continuity-research; do not merge or open a PR without user approval.
