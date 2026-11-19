@@ -43,3 +43,13 @@ A page redirect is still a reviewed source page. Its target is recorded separate
 - Latest all-namespace tranche: manifest entries 1201–1500; 300/300 source hashes matched; 290 new unique verified reads.
 - Media: 0 / 900 visually inspected. File-description pages do not count as visual inspection.
 - Latest notes: [manifest-1201-1500.md](page-notes/manifest-1201-1500.md). Next tranche: 1501–1800.
+
+
+## Current audit progress — 2026-11-19
+
+- Directly read 1830 / 3,579 captured source pages (51.13%).
+- Main namespace: 341 / 507 pages read (67.26%).
+- Ledger status: 1830 read; 65 unverified prior claims; 1684 not started.
+- Latest all-namespace tranche: manifest entries 1501–1800; 300/300 source hashes matched; 292 new unique verified reads.
+- Media: 0 / 900 visually inspected. File-description pages do not count as visual inspection.
+- Latest notes: [manifest-1501-1800.md](page-notes/manifest-1501-1800.md). Next tranche: 1801–2100.
