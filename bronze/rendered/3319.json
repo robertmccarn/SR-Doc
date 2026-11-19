@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "*": "Federalist_Party",
+      "missing": "",
+      "sortkey": ""
+    },
+    {
+      "*": "United_States_political_party_color_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": "Federalist Party/meta/color"
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>#EA9978\n</p>\n<h2><span class=\"mw-headline\" id=\"Examples\">Examples</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<table>\n\n<tbody><tr style=\"color:#EA9978\">\n<td><b>This color</b>\n</td></tr>\n<tr style=\"background:#EA9978; color:white\">\n<td><b>White on this color</b>\n</td></tr>\n<tr style=\"background:#EA9978; color:black\">\n<td><b>Black on this color</b>\n</td></tr></tbody></table>\n<h2><span class=\"mw-headline\" id=\"Use\">Use</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p><tt>| style=\"background-color:{{ Federalist Party/meta/color }};\" |</tt>\n</p>\n<h2><span class=\"mw-headline\" id=\"See_also\">See also</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><span class=\"new\" title=\"Federalist Party (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvRmVkZXJhbGlzdF9QYXJ0eT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Federalist Party </span></li>\n<li><span class=\"new\" title=\"Template:Party shading/Federalist (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6UGFydHlfc2hhZGluZy9GZWRlcmFsaXN0P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">Template:Party shading/Federalist</span></li></ul>\n\n<!-- \nNewPP limit report\nCached time: 20261119205947\nCache expiry: 2592000\nReduced expiry: false\nComplications: [vary‐revision‐sha1]\nCPU time usage: 0.007 seconds\nReal time usage: 0.010 seconds\nPreprocessor visited node count: 178/1000000\nPost‐expand include size: 379/2097152 bytes\nTemplate argument size: 20/2097152 bytes\nHighest expansion depth: 5/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 32/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    2.622      1 -total\n 86.35%    2.264      2 Template:Political_party_color\n 14.19%    0.372      3 Template:Federalist_Party/meta/color\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:3319-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205947 and revision id 9438. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Federalist Party",
+      "ns": 0
+    },
+    {
+      "*": "Template:Party shading/Federalist",
+      "ns": 10
+    }
+  ],
+  "page_id": 3319,
+  "revision_id": 9438,
+  "title": "Template:Federalist Party/meta/color"
+}

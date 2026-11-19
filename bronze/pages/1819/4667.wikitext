@@ -1,0 +1,12 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Republic of Quebec
+| flag alias = Flag_of_Quebec.svg.png
+| alt attribute = Flag of Quebec
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+}}
+
+[[Category: Templates]]

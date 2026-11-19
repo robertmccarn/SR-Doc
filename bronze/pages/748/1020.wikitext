@@ -1,0 +1,15 @@
+-- This module contains messages used to generate the documentation for
+-- [[Module:Protection banner]].
+
+return {
+
+-- Reason table headings.
+['documentation-heading-reason'] = 'Reason',
+['documentation-heading-action'] = 'Action',
+['documentation-heading-description'] = 'Description',
+
+-- Blurb to display if no reasons were found in the module config.
+['documentation-blurb-noreasons'] = 'No reason values were found in the module'
+	.. ' configuration.',
+
+}

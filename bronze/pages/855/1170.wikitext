@@ -1,0 +1,76 @@
+{{Documentation subpage}}
+===List of flag variants===
+{| class="wikitable" style="text-align:center"
+! Year !! Flag image (40px) !! Number !! Notes
+|-
+| 1794 || {{Flagdeco|United States Navy|1794|size=40px}} || 1 || Naval jack with 13 stars. Used by the U.S. Navy from March 27, 1794 to May 1, 1795.
+|-
+| 1795 || {{Flagdeco|United States Navy|1795|size=40px}} || 2 || Naval jack with 15 stars. Used from May 1, 1795 to July 3, 1818.
+|-
+| 1818 || {{Flagdeco|United States Navy|1818|size=40px}} || 3 || Naval jack with 20 stars. Used from July 4, 1818 to July 3, 1819.
+|-
+| 1819 || {{Flagdeco|United States Navy|1819|size=40px}} || 4 || Naval jack with 21 stars. Used from July 4, 1819 to July 3, 1820.
+|-
+| 1820 || {{Flagdeco|United States Navy|1820|size=40px}} || 5 || Naval jack with 23 stars. Used from July 4, 1820 to July 3, 1822.
+|-
+| 1822 || {{Flagdeco|United States Navy|1822|size=40px}} || 6 || Naval jack with 24 stars. Used from July 4, 1822 to July 3, 1836.
+|-
+| 1836 || {{Flagdeco|United States Navy|1836|size=40px}} || 7 || Naval jack with 25 stars. Used from July 4, 1836 to July 3, 1837.
+|-
+| 1837 || {{Flagdeco|United States Navy|1837|size=40px}} || 8 || Naval jack with 26 stars. Used from July 4, 1837 to July 3, 1845.
+|-
+| 1845 || {{Flagdeco|United States Navy|1845|size=40px}} || 9 || Naval jack with 27 stars. Used from July 4, 1845 to July 3, 1846.
+|-
+| 1846 || {{Flagdeco|United States Navy|1846|size=40px}} || 10 || Naval jack with 28 stars. Used from July 4, 1846 to July 3, 1847.
+|- 
+| 1847 || {{Flagdeco|United States Navy|1847|size=40px}} || 11 || Naval jack with 29 stars. Used from July 4, 1847 to July 3, 1848.
+|-
+| 1848 || {{Flagdeco|United States Navy|1848|size=40px}} || 12 || Naval jack with 30 stars. Used from July 4, 1848 to July 3, 1851.
+|-
+| 1851 || {{Flagdeco|United States Navy|1851|size=40px}} || 13 || Naval jack with 31 stars. Used from July 4, 1851 to July 3, 1858.
+|-
+| 1858 || {{Flagdeco|United States Navy|1858|size=40px}} || 14 || Naval jack with 32 stars. Used from July 4, 1858 to July 3, 1859.
+|-
+| 1859 || {{Flagdeco|United States Navy|1859|size=40px}} || 15 || Naval jack with 33 stars. Used from July 4, 1859 to July 3, 1861.
+|-
+| 1861 || {{Flagdeco|United States Navy|1861|size=40px}} || 16 || Naval jack with 34 stars. Used from July 4, 1861 to July 3, 1863.
+|-
+| 1863 || {{Flagdeco|United States Navy|1863|size=40px}} || 17 || Naval jack with 35 stars. Used from July 4, 1863 to July 3, 1865.
+|-
+| 1864 || {{Flagdeco|United States Navy|1864|size=40px}} || 18 || ''De facto'' flag of the U.S. Navy from 1864 to 1959. Please use this flag to represent the U.S. Navy from December 9, 1864 to April 24, 1959 in articles pertaining to it within this time period.
+|-
+| 1865 || {{Flagdeco|United States Navy|1865|size=40px}} || 19 || Naval jack with 36 stars. Used from July 4, 1865 to July 3, 1867.
+|-
+| 1867 || {{Flagdeco|United States Navy|1867|size=40px}} || 20 || Naval jack with 37 stars. Used from July 4, 1867 to July 3, 1877.
+|-
+| 1877 || {{Flagdeco|United States Navy|1877|size=40px}} || 21 || Naval jack with 38 stars. Used from July 4, 1877 to July 3, 1890.
+|-
+| 1879 || [[File:Seal of the United States Department of the Navy (1879-1957).png|42px]] || 22 || Seal of the United States Department of the Navy from 1879 to 1957.
+|-
+| 1890 || {{Flagdeco|United States Navy|1890|size=40px}} || 23 || Naval jack with 43 stars. Used from July 4, 1890 to July 3, 1891.
+|-
+| 1891 || {{Flagdeco|United States Navy|1891|size=40px}} || 24 || Naval jack with 44 stars. Used from July 4, 1891 to July 3, 1896.
+|-
+| 1896 || {{Flagdeco|United States Navy|1896|size=40px}} || 25 || Naval jack with 45 stars. Used from July 4, 1896 to July 3, 1908.
+|-
+| 1908 || {{Flagdeco|United States Navy|1908|size=40px}} || 26 || Naval jack with 46 stars. Used from July 4, 1908 to July 3, 1912.
+|-
+| 1912 || {{Flagdeco|United States Navy|1912|size=40px}} || 27 || Naval jack with 48 stars. Used from July 4, 1912 to July 3, 1959.
+|-
+| 1957 || [[File:Seal of the United States Department of the Navy.svg|42px]] || 28 || Seal of the United States Department of the Navy from 1957 to the present day.
+|-
+| 1959<br /><small>(default)</small>|| {{Flagdeco|United States Navy|size=40px}} || 29 || The current ''de jure'' flag of the U.S. Navy, adopted on April 24, 1959. Please use this flag to represent the U.S. Navy from April 24, 1959 to the present day in articles that pertain to this time period.
+|-
+| 1959 || {{Flagdeco|United States Navy|1959|size=40px}} || 30 || Naval jack with 49 stars. Used from July 4, 1959 to July 3, 1960.
+|-
+| 1960 || {{Flagdeco|United States Navy|1960|size=40px}} || 31 || Naval jack with 50 stars. Adopted on July 4, 1960.
+|-
+| 1975 || {{Flagdeco|United States Navy|1975|size=40px}} || 32 || Naval jack with 13 stripes. Used from October 13, 1975 to December 31, 1976.
+|-
+| 1977 || {{Flagdeco|United States Navy|1960|size=40px}} || 33 || Naval jack with 50 stars. Re-adopted on January 1, 1977.
+|-
+| 2002 || {{Flagdeco|United States Navy|2002|size=40px}} || 34 || Naval jack with 13 stripes. Used since 2002 to the present day.
+|}
+<includeonly><!-- CATEGORIES HERE, THANKS -->
+[[Category:Country data templates of the United States|Navy, United States of America]]
+</includeonly>

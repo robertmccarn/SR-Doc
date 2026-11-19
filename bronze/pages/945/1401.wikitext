@@ -1,0 +1,12 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = New Virginia
+| flag alias = New Virginia Flag.png
+| alt attribute = Flag of New Virginia
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+}}
+
+[[Category: Templates]]

@@ -1,0 +1,1837 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "3565": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9973,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 3565,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9973,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-12-13T11:05:04Z"
+          }
+        ],
+        "title": "Message Wall:Ancylostomiasis",
+        "touched": "2020-12-13T11:05:04Z"
+      },
+      "3566": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9974,
+        "length": 484,
+        "links": [
+          {
+            "ns": 0,
+            "title": "European Association"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Contents"
+          },
+          {
+            "ns": 1200,
+            "title": "Message Wall:YNot1989"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 3566,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9974,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:European Association]]!\n\nIf you need help getting started, check out our [[Help:Contents|help pages]] or [[Message Wall:YNot1989|contact me]] or another admin here. \n\nFor general help, you could also stop by Community Central to explore the [[w:forums|help forum]] and [[w:sblog|blog]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-12-13T11:05:04Z"
+          }
+        ],
+        "title": "Thread:Ancylostomiasis/@comment-32769624-20201213110504",
+        "touched": "2020-12-13T11:05:04Z"
+      },
+      "3567": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 9975,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 3567,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9975,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-12-13T11:05:04Z"
+          }
+        ],
+        "title": "User:Ancylostomiasis",
+        "touched": "2020-12-13T11:05:04Z"
+      },
+      "3568": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9977,
+        "length": 217,
+        "ns": 1,
+        "pageid": 3568,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9976,
+            "revid": 9977,
+            "slots": {
+              "main": {
+                "*": "A sensible American taxpayer would not love this. The US has to foot every bill on the planet and yield the least profit from their investment. It's what we called 'imperial overstretch' which sanked the Roman Empire.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-12-13T11:14:53Z"
+          }
+        ],
+        "title": "Talk:Associated state/@comment-159021-20201213111234",
+        "touched": "2020-12-13T11:14:53Z"
+      },
+      "3569": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9978,
+        "length": 171,
+        "new": "",
+        "ns": 1,
+        "pageid": 3569,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9978,
+            "slots": {
+              "main": {
+                "*": "Andrew YOUNG (Congressman,Atlanta mayor,UN ambassador) is 88 years old (born 1932).\n\nAndrew YANG (recent presidential candidate) was born in 1975 and is not a Californian.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-12-16T04:14:06Z"
+          }
+        ],
+        "title": "Talk:Dylan J. Price/@comment-38877588-20200701005344/@comment-12.144.5.2-20201216041406",
+        "touched": "2020-12-16T04:14:06Z"
+      },
+      "3570": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9984,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3570,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9984,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-12-18T14:02:58Z"
+          }
+        ],
+        "title": "File:V5xoftjt8i901.png",
+        "touched": "2020-12-18T14:21:42Z"
+      },
+      "3571": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10018,
+        "length": 61,
+        "new": "",
+        "ns": 6,
+        "pageid": 3571,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10018,
+            "slots": {
+              "main": {
+                "*": "== Summary ==\nAlexandria Ocasio-Cortez\n== Licensing ==\n{{PD}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-01-06T18:44:38Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:PD"
+          }
+        ],
+        "title": "File:Alexandria Ocasio-Cortez.png",
+        "touched": "2021-01-10T16:26:18Z"
+      },
+      "3572": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10027,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3572,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10027,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-01-07T13:43:41Z"
+          }
+        ],
+        "title": "File:Joe Biden.jpg",
+        "touched": "2021-01-09T15:53:46Z"
+      },
+      "3575": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10055,
+        "length": 612,
+        "new": "",
+        "ns": 10,
+        "pageid": 3575,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10055,
+            "slots": {
+              "main": {
+                "*": "<infobox>\n  <title source=\"title1\"/>\n  <image source=\"image1\">\n    <caption source=\"caption1\"/>\n  </image>\n  <data source=\"row1\">\n    <label>Label</label>\n  </data>\n  <data source=\"row2\">\n    <label>Label</label>\n  </data>\n</infobox>\n<noinclude>\nExample usage:\n<pre>\n{{Country data France\n\n  | title1=Example\n\n  | image1=Example\n\n  | caption1=Example\n\n  | row1=Example\n\n  | row2=Example\n\n}}\n</pre>\n<templatedata>\n{\"params\":{\"title1\":{\"suggested\":true},\"image1\":{\"suggested\":true},\"caption1\":{\"suggested\":true},\"row1\":{\"suggested\":true},\"row2\":{\"suggested\":true}},\"sets\":[],\"maps\":{}}\n</templatedata>\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-01-16T00:49:34Z"
+          }
+        ],
+        "title": "Template:Country data France",
+        "touched": "2021-01-16T00:49:34Z"
+      },
+      "3576": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10058,
+        "length": 112,
+        "ns": 0,
+        "pageid": 3576,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10056,
+            "revid": 10058,
+            "slots": {
+              "main": {
+                "*": "== Events ==\n\n* Rio is a summer Olympics\n* The United Kingdom votes in a referendum to leave the European Union.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-01-17T00:41:39Z"
+          }
+        ],
+        "title": "2016",
+        "touched": "2021-01-17T00:41:39Z"
+      },
+      "3577": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10059,
+        "length": 90,
+        "new": "",
+        "ns": 0,
+        "pageid": 3577,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10059,
+            "slots": {
+              "main": {
+                "*": "October 1st 2021 California State Route 905 will take down sign to replace Interstate 905.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-01-18T05:28:03Z"
+          }
+        ],
+        "title": "October 1",
+        "touched": "2021-01-18T05:28:03Z"
+      },
+      "3578": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:China"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Countries in Asia"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Flag of the Republic of China.png"
+          }
+        ],
+        "lastrevid": 10822,
+        "length": 710,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Second Chinese Civil War"
+          }
+        ],
+        "ns": 0,
+        "pageid": 3578,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10819,
+            "revid": 10822,
+            "slots": {
+              "main": {
+                "*": "[[File:Flag of the Republic of China.png|thumb|Republic of China]]\n\nThe '''Republic of China''' was a country in East Asia that ran from 1912 to 2058.\n== History ==\n\n=== '''Xinhai Revolution''' ===\n''Main article: [https://en.wikipedia.org/wiki/1911_Revolution 1911 Revolution]'' \n\n=== '''First Civil War''' ===\n''Main article: [https://en.wikipedia.org/wiki/Chinese_Civil_War Chinese Civil War]''\n\n=== '''Japanese Invasion and World War II''' ===\n''Main article: [https://en.wikipedia.org/wiki/Second_Sino-Japanese_War Second Sino-Japanese War]''\n\n=== '''Post-World War II''' ===\n\n=== '''Second Civil War''' ===\n''Main article: [[Second Chinese Civil War]]'' \n[[Category:Countries in Asia]]\n[[Category:China]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2022-07-20T13:29:36Z"
+          }
+        ],
+        "title": "Republic of China",
+        "touched": "2022-07-20T13:29:36Z"
+      },
+      "3579": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10077,
+        "length": 27,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Kamala Harris"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 3579,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10077,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Kamala Harris]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-01-22T02:44:53Z"
+          }
+        ],
+        "title": "Cory Booker",
+        "touched": "2025-06-17T00:52:21Z"
+      },
+      "3580": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Technology"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 12001,
+        "length": 2232,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Chronoscope"
+          },
+          {
+            "ns": 0,
+            "title": "Dyson Sphere"
+          },
+          {
+            "ns": 0,
+            "title": "Hyperion (interstellar vehicle)"
+          },
+          {
+            "ns": 0,
+            "title": "NASA"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 3580,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10592,
+            "revid": 12001,
+            "slots": {
+              "main": {
+                "*": "A '''quantum capacitor''' (also referred to as an QC, or a q-chip) is a device that stores information in a quantum field. It is a passive electronic component with two terminals. The effect of a quantum capacitor is known as quantum capacitance, which at the most basic level is the ability to store and discharge quantum information at desired rates. \n\nQCs are now used in virtually all electronic equipment and have revolutionized the world of electronics. Computers, batteries, imprinters, non-localized recorders (NLRs), quantum navigation, [[Chronoscope]]s, entanglement arrays, and indeed [[Dyson Sphere]]s are now inextricable parts of the structure of modern life, made possible by ubiquitous applications of QCs.\n\nQuantum capacitors were the result of military research programs initiated during the [[World War III|Third World War]] in direct response to the Thanksgiving attacks. These R&D programs sought to create a means to detect seemingly undetectable swarms of small projectiles launched at random intervals to strike a single target, better known as \"brilliant pebbles\". The first quantum capacitor was successfully tested in 2056 as part of the Argus program that led to the launch of the Quantum Acquisition Object Detection (QAOD) system. However, the technology was not declassified until the 2060s when it was employed by [[NASA]] for the [[Hyperion (interstellar vehicle)|Hyperion program]].\n\nBy the early 22nd Century, quantum capacitance came to be used for transferring energy instantaneously between two points in space. This led to the rise of a new type of Brilliant Pebble weapon, one where each \"warhead\" could have its own propulsion in the form of high frequency light powered from a remote source. This enabled pebble mob attacks where the warheads could be fired by a conventional missile or railgun, deploy at a desired distance and gain additional speed and maneuver using laser propellants. While chemical propellants had been used in a similar fashion for decades, this new technology allowed high speed brilliant pebbles to shrink dramatically and carry a proportionately more destructive warhead in the form of their own propulsion system.\n[[Category:Technology]]\n[[Category:21st Century]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2026-06-24T14:26:42Z"
+          }
+        ],
+        "title": "Quantum Capacitor",
+        "touched": "2026-06-24T14:26:42Z"
+      },
+      "3581": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10088,
+        "length": 22,
+        "new": "",
+        "ns": 6,
+        "pageid": 3581,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10088,
+            "slots": {
+              "main": {
+                "*": "Kamala Harris Portrait",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-01-26T16:04:10Z"
+          }
+        ],
+        "title": "File:Download.jpg",
+        "touched": "2021-01-26T16:04:22Z"
+      },
+      "3582": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10090,
+        "length": 72,
+        "new": "",
+        "ns": 6,
+        "pageid": 3582,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10090,
+            "slots": {
+              "main": {
+                "*": "== Summary ==\nKamala Harris portrait.\n== Licensing ==\n{{From Wikimedia}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-01-26T16:08:17Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:From Wikimedia"
+          }
+        ],
+        "title": "File:3500.jpg",
+        "touched": "2021-01-29T05:36:42Z"
+      },
+      "3583": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10094,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3583,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10094,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-01-26T17:05:23Z"
+          }
+        ],
+        "title": "File:Trump.jpg",
+        "touched": "2021-01-29T05:36:42Z"
+      },
+      "3584": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10490,
+        "length": 3909,
+        "ns": 0,
+        "pageid": 3584,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10104,
+            "revid": 10490,
+            "slots": {
+              "main": {
+                "*": "{{Infobox election\n| election_name     = \n| country           = \n| flag_year         = \n| flag_image        = \n| type              = <!-- presidential, legislative, or parliamentary -->\n| vote_type         = Popular <!-- default -->\n| ongoing           = \n| party_colour      = \n| party_name        = \n| alliance_name     = \n| previous_election = \n| previous_year     = \n| previous_mps      = \n| election_date     = <!-- {{Start date|2020|11|03}} -->\n| elected_mps       = \n| next_election     = <!-- link to file. If red link, then it will not be linked-->\n| next_year         = \n| next_mps          = \n| votes_for_election= \n| needed_votes      = \n| seats_for_election= \n| majority_seats    = \n| opinion_polls     = \n| registered        = \n| turnout           = \n<!--        person 1        -->\n| image1            = \n| colour1           = \n| nominee1          = <!-- presidential only, when appropriate, candidate1 can be used instead -->\n| candidate1        = <!-- any type of election -->\n| leader1           = <!-- legislative or parliamentary only-->\n| party1            = \n| alliance1         = \n<!-- presidential -->\n| home_state1       = \n| running_mate1     = \n| electoral_vote1   = \n| delegate_count1   = \n| states_carried1   = \n| districts_won1    = \n<!-- legislative or parliamentary -->\n| leader_since1     = \n| leaders_seat1     = \n| last_election1    = \n| seats_before1     = \n| seats_needed1     = \n| seats1            = \n| seats_after1      = \n| seat_change1      = \n<!-- any -->\n| popular_vote1     = \n| percentage1       = \n| swing1            = <!-- legislative or parliamentary only-->\n<!--        person 2        -->\n| image2            = \n| colour2           = \n| nominee2          = <!-- presidential only, when appropriate, candidate2 can be used instead -->\n| candidate2        = <!-- any type of election -->\n| leader2           = <!-- legislative or parliamentary only-->\n| party2            = \n| alliance2         = \n<!-- presidential -->\n| home_state2       = \n| running_mate2     = \n| electoral_vote2   = \n| delegate_count2   = \n| states_carried2   = \n| districts_won2    = \n<!-- legislative or parliamentary -->\n| leader_since2     = \n| leaders_seat2     = \n| last_election2    = \n| seats_before2     = \n| seats_needed2     = \n| seats2            = \n| seats_after2      = \n| seat_change2      = \n<!-- any -->\n| popular_vote2     = \n| percentage2       = \n| swing2            = <!-- legislative or parliamentary only-->\n<!-- polls -->\n| poll1_date        = \n| poll1_source      = \n| poll1_nominee1    = <!-- presidential only, when appropriate, poll1_candidate1 can be used instead -->\n| poll1_party1      = <!-- legislative or parliamentary only-->\n| poll1_nominee2    = <!-- presidential only, when appropriate, poll1_candidate2 can be used instead -->\n| poll1_party2      = <!-- legislative or parliamentary only-->\n| poll2_date        = \n| poll2_source      = \n| poll2_nominee1    = <!-- presidential only, when appropriate, poll2_candidate1 can be used instead -->\n| poll2_party1      = <!-- legislative or parliamentary only-->\n| poll2_nominee2    = <!-- presidential only, when appropriate, poll2_candidate2 can be used instead -->\n| poll2_party2      = <!-- legislative or parliamentary only-->\n<!-- auxiliary rows -->\n| 1blank            = \n| 1data1            = \n| 1data2            = \n| 2blank            = \n| 2data1            = \n| 2data2            = \n<!-- map -->\n| map_image         = \n| map_size          = \n| map_alt           = \n| map               = \n| map_caption       = \n<!-- bottom -->\n| title             = \n| before_election   = \n| before_party      = \n| posttitle         = \n| after_election    = \n| after_party       = \n}}The '''2020 United States Presidential Election''' was the 59th quadrennial presidential election, held on Tuesday, November 3, 2020.\n\nJoseph R. Biden Jr. was the victor of the election and was inaugurated on January 21st 2021.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-07-19T01:35:03Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!-"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ifempty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/row"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:If empty"
+          }
+        ],
+        "title": "United States presidential election, 2020",
+        "touched": "2021-07-19T01:35:03Z"
+      },
+      "3585": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10105,
+        "length": 22,
+        "new": "",
+        "ns": 6,
+        "pageid": 3585,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10105,
+            "slots": {
+              "main": {
+                "*": "Kamala Harris pointing",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-01-30T05:16:08Z"
+          }
+        ],
+        "title": "File:KamalaHarrisPoint.jpg",
+        "touched": "2021-02-02T01:13:23Z"
+      },
+      "3586": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10106,
+        "length": 3,
+        "new": "",
+        "ns": 6,
+        "pageid": 3586,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10106,
+            "slots": {
+              "main": {
+                "*": "map",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-01-30T06:10:27Z"
+          }
+        ],
+        "title": "File:2024electoralmap.png",
+        "touched": "2022-09-28T00:16:18Z"
+      },
+      "3587": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10114,
+        "length": 31,
+        "links": [
+          {
+            "ns": 2,
+            "title": "User:DarthVad1856"
+          }
+        ],
+        "new": "",
+        "ns": 2,
+        "pageid": 3587,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10114,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[User:DarthVad1856]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-02-07T10:04:38Z"
+          }
+        ],
+        "title": "User:DarthVader1786",
+        "touched": "2021-02-07T10:04:38Z"
+      },
+      "3588": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10116,
+        "length": 39,
+        "links": [
+          {
+            "ns": 1200,
+            "title": "Message Wall:DarthVad1856"
+          }
+        ],
+        "new": "",
+        "ns": 1200,
+        "pageid": 3588,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10116,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Message Wall:DarthVad1856]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-02-07T10:04:38Z"
+          }
+        ],
+        "title": "Message Wall:DarthVader1786",
+        "touched": "2021-02-07T10:04:38Z"
+      },
+      "3590": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10127,
+        "length": 26,
+        "new": "",
+        "ns": 6,
+        "pageid": 3590,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10127,
+            "slots": {
+              "main": {
+                "*": "AOC Congressional Portrait",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-02-19T16:47:50Z"
+          }
+        ],
+        "title": "File:Alexandria Ocasio-Cortez Official Portrait.jpg",
+        "touched": "2021-02-25T14:58:30Z"
+      },
+      "3591": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10128,
+        "length": 20,
+        "new": "",
+        "ns": 6,
+        "pageid": 3591,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10128,
+            "slots": {
+              "main": {
+                "*": "VP Harris Photo 2021",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-02-19T16:50:11Z"
+          }
+        ],
+        "title": "File:Kamala Harris Vice President.jpg",
+        "touched": "2021-02-25T15:01:37Z"
+      },
+      "3592": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Alexandria Ocasio-Cortez Official Portrait.jpg"
+          }
+        ],
+        "lastrevid": 11998,
+        "length": 25932,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Biotech bubble"
+          },
+          {
+            "ns": 0,
+            "title": "Donald Trump"
+          },
+          {
+            "ns": 0,
+            "title": "Dylan J. Price"
+          },
+          {
+            "ns": 0,
+            "title": "Great Reset"
+          },
+          {
+            "ns": 0,
+            "title": "Political parties in the United States"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Progress Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Seventh Party System"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "White Tide"
+          }
+        ],
+        "ns": 0,
+        "pageid": 3592,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11997,
+            "revid": 11998,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|border\n|name = Alexandria Ocasio-Cortez\n|image = Alexandria Ocasio-Cortez Official Portrait.jpg\n|imagesize = 265px\n|deputy2 = \n|office2 = \n|order2 = \n|successor2 = \n|party = [[Political_parties in the United States|Democrat]] <small>(2004–2027)</small><br />[[Progress Party (United States)|Progress]] <small>(2027-death)</small>\n|office = President of the United States\n|order = [[President of the United States|48th]]\n|predecessor = [[Donald Trump]]\n|successor = [[Dylan J. Price]]\n|vicepresident = Dylan J. Price\n|birth_date = October 13, 1989\n|birth_place = New York City, NY, Earth\n|death_date = August 6, 2112\n|death_place = San Juan, Puerto Rico, Earth\n|nationality = American\n|spouse = Riley Roberts\n|profession = Politician\n|religion = Roman Catholicism\n|term_start = January 20th, 2029\n|term_end = January 20th, 2037\n|term_start2 = \n|term_end2 = \n}}'''Alexandria Ocasio-Cortez''' (October 13, 1989 - August 6, 2112) also known by her initials, '''AOC''', was an American stateswoman and political leader who served as the 48th [[President of the United States]], the first ever female, Latin American, and Millennial to hold the office. She was also the youngest President when elected, at the age of 39, beating [https://en.wikipedia.org/wiki/John_F._Kennedy John F. Kennedy] when he was elected in 1960 at the age of 43. A Progressive, she served from 2029 to 2037. AOC led the nation through the worst days of the [[The Flood|Flood]], [[Great Reset|the subsequent economic crisis]], and the [[White Tide]]. She succeeded in putting down the rebellion, reasserting the power of the federal government, and modernizing the U.S. economy.\n\nAOC's landmark Renewal program saw the complete restructuring of the US economy and social welfare system to deal with the myriad of crises that came from the Flood. A dominant leader of the [[Progress Party (United States)|Progress Party]], she built the left-wing coalition that united working-class whites and nonwhites, labor unions, professional and unskilled urban and rural workers. The Coalition realigned American politics after the election of 2032, creating the [[Seventh Party System]] and defining American leftism for the middle third of the 21st century.\n\n== U.S. Representative (2019-2029) ==\nDuring her time serving as the Democratic U.S. representative for New York's 14th congressional district, she would frequently spend time on social media, occasionally posting 'vlogs' about her work and stream Q&A sessions (sometimes while playing a video game) to better connect with supporters and directly answer any questions. This would also later carry over to her presidency, although not as frequently. Her supporters would often compare this to fireside chats during the Franklin D. Roosevelt era.\n\nThe most famous stream during Ocasio-Cortez's tenure as U.S. Representative is when she streamed her thoughts on [https://en.wikipedia.org/wiki/2021_United_States_Capitol_attack 2021 U.S. Capitol Attack] on Instagram Live (which was later reuploaded to Youtube). This became a subject matter of debate during her campaign in the 2028 presidential election.\n\n==2028 Presidential Election==\nOcasio-Cortez's success in Congress immediately elevated her to the top ranks of Progressive politicians under consideration for the presidency in 2028. The Progressive National Convention was united behind her, and Senator Nina Turner did all in her power to bring Ocasio-Cortez the nomination. In June 2028, the national primary elections took place and Ocasio-Cortez received the second highest number of votes. In her speech launching her general election campaign, Ocasio-Cortez declared, \"I offer you this solemn vow, that America shall have a Renewal... This is more than a political campaign. It is a call to arms.\" The election campaign was conducted under the shadow of the Labor Crisis and the [[The Flood|Flood]], and the new alliances which they created. Ocasio-Cortez and the Progress Party mobilized the expanded ranks of the poor as well as organized labor, ethnic minorities, urbanites, and rural whites, crafting the Renewal Coalition. Ocasio-Cortez's support among members of the Labor and Green parties, as well as progressive Democrats, led him to an easy victory over her Democratic rival. On the night of her nomination, Ocasio-Cortez chose Governor [[Dylan J. Price]] of California to be her running mate, who would continue her path and laid the roots of the [[Seventh Party System|New Progressive Era]] which would dominate American politics for the next decade.\n\n==Presidency (2029-37)==\nWhen Ocasio-Cortez was inaugurated on January 20, 2029, the U.S. faced three major crises: the Flood, the Labor Crisis, and what would become the White Tide. Nearly 90 million Americans remained displaced or in refugee camps. Food and fuel shortages were threatening the country with mass starvation. The dollar was on its knees as companies fought to hold onto their workforce with higher wages and benefits. Productivity had stagnated and the housing market had ground to a halt as people sold off property out of desperation. By the evening of November 30th, 39 states were facing some form of domestic terrorism and armed insurrection.\n\nHistorians categorized Ocasio-Cortez's program as \"resist, relief, and renewal.\" Resist meant directly combating the most immediate threats to people's survival: insurrectionists and some flooding, in both cases through direct action via the military. Relief was urgently needed by tens of millions of retirees, homeowners, and still displaced climate refugees. Renewal meant fundamental changes to the government and economy. Ocasio-Cortez utilized short form social media to communicate directly with the public, using her persistent optimism to promote even the smallest victories to renew the national spirit.\n\n==='''Rebellion and inauguration'''===\nConservatives were outraged by AOC's election, and in response alt-right groups implemented plans to overthrow the government before she took office. On December 20, 2028, on the anniversary of South Carolina's ordinance of secession, armed members of the Sovereign Citizen's Alliance stormed the Ohio state capitol and declared its rebellion against the federal government. Several other anti-government and white nationalist groups formed pretender governments in the following weeks, none of whom were recognized by AOC who upon taking office invoked the Insurrection Act of 1807 and federalizing the national guard units of every state. By February 1st, 2029 the Posse Comitatus Act was abolished by Congress at AOC's urging, given the number of police departments that proved either unable or unwilling to resist the rebels, while many other cops went so far as to join the insurrectionists. On February 3rd, Ocasio-Cortez ordered fully two-thirds of America's overseas forces back to the homeland to combat the insurrection.\n\nOcasio-Cortez took executive control of the war and shaped the Federal military strategy. Along with the previous Congressional measures, she invoked presidential war powers, imposed a blockade on rebel controlled ports, extended the state of emergency that began under the Harris administration, suspended ''habeas corpus'', and arrested and imprisoned thousands of suspected white nationalists and their sympathizers. She even went so far as to order the arrest of members of Congress and state legislatures that expressed support for the rebels, but had yet to flee to join the rebel governments. Congress even went so far as to declare the Republican Party a terrorist organization and banned its members from ever holding public office.\n\nAt no point during her presidency did Ocasio-Cortez refer to the insurrection as a \"civil war\" and she actively encouraged members of her administration to never use the term either, as she argued it would validate the apocalyptic fantasies of the rebels and undermine confidence in the government.\n\n==='''Green New Deal'''===\nOcasio-Cortez's \"First 100 Days\" also saw progress on providing immediate relief to those impacted by the Flood and directly resisting rising sea-levels wherever possible. From January 24 to June 16, 2029, she sent Congress a record number of bills, all dealing with the resist and relief elements of her agenda. Many of these bills empowered her administration to take direct control of failing or failed businesses and nationalize what resources were necessary to combat climate change. By the summer of 2029 the AOC administration had transitioned to introducing bills concerned with the final characteristic of her agenda: renewal, or fundamental changes to the country that would last decades. Among these proposals included efforts to directly reduce the buildup of CO2 in the atmosphere and fresh water in the oceans via agencies like AmeriCorps Climate, the Civilian Climate Corps, the Colorado River Authority, the Gulf Reclamation Corporation, and many others.\n\n===='''Refugees and housing'''====\nThe issue of housing had become a persistent problem prior to Ocasio-Cortez's election, going back as far as the Great Recession, the number of Americans able to afford homes continually declined after the Crash of 2008. By the Crash of 2027, the housing market had collapsed in the face of tens of millions of climate refugees. Ocasio-Cortez initially addressed this through a series of federal loan buybacks, rent assistance, and limited nationalization to provide immediate relief. Following the initial relief programs, more radical approaches to the housing crisis were proposed. Most home builders had gone bankrupt after the crash of '27, and wealthier immigrants took to new cottage communities and residential malls that were popular among the current generation of homeowners, but with so many foreign and domestic climate refugees many states faced the possibility of temporary camps turning into massive slums. Ocasio-Cortez introduced the National Housing Act of 2029 to foster urban development, funding billions for the HUD to build new residential malls in rural communities and public works projects to support these new communities with infrastructure. Further, the NHA gave HUD the power to compel state an local authorities to adopt \"Sprawl Repair\" projects to create more affordable, high-density housing by rezoning thousands of square miles of low density suburbs. The federal government built these structures, but transitioned administrative control to the cities and states. Later reforms would see HUD transition the bulk of construction and management powers to state and local urban planning departments. Reforms were also made to renters rights that made it easier for people to move to a new job in a new city. To address the challenge of rebuilding much of the Eastern Seaboard, most of HUD's projects were funded in concert with redevelopment programs through the Army Corps of Engineers.\n\n===='''Financial Service Acts'''====\nOcasio-Cortez's inauguration on January 20, 2029, occurred in the middle of a bank panic, the very next day she declared a \"trading holiday\" and called for a special session of Congress to start January 24, at which Congress passed the first Financial Services Act of 2029, which among other things, created a series of public-credit unions through the US Postal Service and absolved much of the country of its credit history. These credit unions were modeled off of several pilot projects created in California, Washington, New York, and Massachusetts that made use of machine learning AI to reduce waste and corruption. This was her first proposed step to recovery. To give Americans confidence in the financial system,  Ocasio-Cortez signed the William-Duvall Act that gave the FDIC the power to underwrite non-speculator investments.\n\nOcasio-Cortez also signed several bills to close corporate tax loopholes, raising the effective tax rate on major corporations from 2% to 20% in 2029, extending taxes on capital gains and personal income, and establishing the first national wealth tax. The bulk of these tax revenues were targeted at supporting new social services and funding public works.\n\nIn 2031 the next major Financial Services Act ended the printing of physical currency by the US mint and transitioned the country to an all-digital encrypted currency. This reform also created the Federal Creditworthiness Index, which replaced private credit scoring as the means of measuring credit worthiness for consumers. Federal reserve banking terminals, which had seen a great deal of success in their first two years, were expanded to all federal buildings and could be requested by State and Local governments.\n\n===='''Public Infrastructure'''====\nShortly after her housing reform package, Ocasio-Cortez moved her legislative agenda toward infrastructure redevelopment, nationalizing local and state hyperloop networks, and funding the construction of connecting lines that would allow anyone in America to easily travel to anywhere else on the continent in the National Transportation Act of 2033. Most of these lines were privately owned before the crash, and the few that were state-owned only ran along historic transit corridors. The new National Hyperloop Network would connect every city and town with more than 25,000 residents to each other, enabling anyone in the country to travel to anywhere else in the continental US in 30 minutes or less. By the time the first national lines were completed, coupled with Ocasio-Cortez's housing reforms, this act served as a major redistribution of wealth from urban areas to rural communities, and made it much easier to manage the new workforce. The Midwest, which during the Great Reset had become known as the \"Rust Belt\" and/or \"the Flyover\" would grow into one of the wealthier regions of the country as urban workers would relocate to buy cheap land around residential malls and create high-density residential developments for citizens commuting to major cities and back. This reform would be critical to the [[Biotech bubble|Biotech Boom of the 2030s and 40s]], as it made it easier for businesses to expand or be created on cheap land while still efficiently reaching customers and investors nationwide.\n\n===='''Labor reforms'''====\nPerhaps no part of Ocasio-Cortez's legacy is more important than the immigration reforms she took shortly after the first Financial Services Acts. The Labor Shortage was the defining challenge of Ocasio-Cortez's presidency. Full employment and high wages had driven inflation to record highs. With demand outstripping production in almost every sector of the economy, cost of living rates were also at record highs. Shortly after taking office, Ocasio-Cortez created the Employment Census and signed several executive orders to empty the nations' climate refugee camps and get the displaced back to work where they were deemed most needed. The Employee Relocation Voucher (ERV) was created in which workers can now be moved to other parts of the country besides their homes much cheaper, making it easier to find jobs nationally, or places that are in dire needs for every sources of labor. Concurrently, the Community Self Sufficiency Program (CSSP) was created to retrain unemployed manufacturers and white-collar workers for trade-skill jobs and help them relocate to where they were most needed through the ERV or other means, using similar project management AIs as had been used in New York when Ocasio-Cortez was still governor. The bulk of this labor force was tasked with rebuilding the effected areas along the North East or standing up public housing. However, even with the relocation and retraining programs, there simply weren't enough workers to get productivity up to acceptable levels.\n\nThe obvious solution was to encourage foreign workers to emigrate to the United States, and it became the single most hotly opposed program of the Ocasio-Cortez administration. Mass protests broke out by rural whites when the Labor Relief Act of 2029 was introduced to congress, automatically granting citizenship to any green card holders in the US, amnesty to any illegal immigrants who were not incarcerated, and significantly reduced barriers to entry for new immigrants. The bill passed with a single vote majority in the Senate, and it was met with outright hostility by a vocal minority of the country's Caucasian population.\n\nOn February 3, 2030, Ocasio-Cortez signed the Refugee Resettlement Act, making it much easier for climate refugees to gain Green Cards and work in the United States. Additionally, the act also provided public housing for the first year of an immigrant's residence in the United States, along with beneficial social services to reduce the cost of living. Furthermore, Ocasio-Cortez introduced the Immigration Modernization and Reform Act, which catered to skilled and in-training immigrants and international students with higher education, allowing them to easily and smoothly immigrated, become US citizens, or just get a Green Card. The IMRA also created a new open door immigration system that attracted many more immigrants, boosting the amount of labor direly by the country to relieved the economic crisis caused by the Labor Shortages. The LRA, the RRA and the IMRA resulted in millions of refugees and immigrants pouring into the country by the spring and the next few years, winning Ocasio-Cortez a Nobel Peace Prize for reducing the burden of the Refugee crisis on the rest of the planet. However these acts, including the Progressive control over the government after the 2028 election, sparked a wave of civil unrest and conflict on a scale never seen before since the Civil War of the 1860s, which would last for the remainder of Ocasio-Cortez's presidency as Far-right White Nationalist militant groups and secessionist organizations across the country committed acts of domestic terrorism against minority groups and government centers as well as created pretender republics in opposition to the federal government. None of these groups were strong enough or densely packed enough to form a coherent opposition force, but the conflict, known as the [[White Tide]], would be a defining challenge for Ocasio-Cortez's first term.\n\n===='''Welfare Reform'''====\nBy the time President Ocasio-Cortez had taken office, 25% of all homeless citizens were over the age of 75. Many were illegally squatting in homes that had been repossessed by banks, and some were lucky enough to be in homes that couldn't be repossessed because the bank that owned it had gone bankrupt. Social Security was all but exhausted of funds, and younger people were screaming for tax relief. Ocasio-Cortez enacted a series of major reforms to reduce the burden on retirees (though many people saw their generation as the cause of the Crash). Public housing programs for the elderly were put into effect, and millions of foreclosed homes were seized by the government to serve as retirement communities. The Social Security Amendments of 2029 created a progressive tax to cover the cost of these reforms, while also extending Medicare as a right of birth and instituted new COLA and chained CPI methods to calm resentful members of the Flood Generation. The retirement age was progressively raised and ultimately removed for people under 50 to be replaced with a requirement that a citizen must demonstrate that they are infirm to receive benefits.\n\nOcasio-Cortez's most lasting change to public welfare was the Medicare For All Act of 2029, also known as the Medicare Reform Act or the National Health Care Act, and the Income Freedom Act of 2029. The MFAA extended Medicare to every citizen, created a single-payer universal healthcare system that many Americans have desired after many years and charged the Department of Health and Human Services to build public hospitals and pharmacy services. The IFA dissolved many of the nation’s welfare programs and created a regressive basic income system dependent on income level and progressively drawing down benefits rather than simply cutting them off. Ocasio-Cortez's goal was to reform the economy to allow the major of workers who were freelancers or independent contractors to have a sustainable career choice by effectively taxing companies the revenue they would have spent on employee pensions and healthcare, and covering those services as government programs; while the RBI would give the unemployed a cushion that would not trap people into the inter-generational welfare system of the previous generations.\n\n===='''Foreign policy, 2029–2033'''====\nDespite Ocasio-Cortez's more moderate background, she acted with great care not to provoke neoliberal and globalist sentiment. Ocasio-Cortez's landmark message to the International Monetary Fund in 2029 effectively ended any major efforts by the international community to collaborate on ending the worldwide depression, and allowed Ocasio-Cortez a free hand in economic policy. Ocasio-Cortez, like many other Progressives, being at her core a serious economic progressive, economic nationalist, protectionist, a proponent of limited fair trade and potentially a mutually beneficial trade system, was a lifelong critic of the free-for-all international system free trade. As a result, securing American economic dominance and crafting advantageous trade deals for the US and its allies if needed was among many of her objectives.\n\nThe main foreign policy initiative of Ocasio-Cortez's first term was the New Community Policy, which was a re-evaluation of U.S. policy towards Latin America. Since the Monroe Doctrine of 1823, this area had been seen as an American sphere of influence. American forces were deployed across the Gulf of Mexico and Caribbean and many former island nations were functionally U.S. protectorates. Many Latin American nations believed this to be the prelude to renewed American intervention in their countries. Ocasio-Cortez organized and shepherded the passage of the Rio de la Plata Treaty, which re-affirmed American commitment to the sovereignty and stability of Latin American, providing economic aids and organized the first joint task forces for regional security with South American Nations that would lead to a series of war games with Latin American nations.\n\n===='''Foreign policy, 2033–2037'''====\nOcasio-Cortez was the first President to recognize the dangers of Japan and Turkey's expansionist policies in Eurasia. While most of the public was sympathetic to Japan's refugee policy, Ocasio-Cortez saw the risk of Japan's Extraterritorial Districts in the North Pacific, and remarked privately to her Secretary of State, \"this is gonna lead to another world war if we're not careful.\" Ocasio-Cortez publicly supported Turkish, Polish and Japanese peacekeeping efforts in the former Eurasian Union, but maintained limited involvement by the United States in favor of supporting regional/local powers to balance each-other. Ocasio-Cortez believed that by supporting unification factions in China and bolstering Korea an effective counterweight could be created to keep Japan in check, but found little support from the public who were largely glad to be rid of nation-building adventurism in Eurasia.\n\nIn 2034, Ocasio-Cortez quietly supported the Defense Department's Project ASGARD as a last option against Japanese and Turkish expansion in Eurasia. Ocasio-Cortez believed that a strong orbital defense network would be the best way to coordinate a truly global military and counter any expansive powers. Ocasio-Cortez supported heavy investments in defense programs that moved US military power back to American territory, effectively completing the transition from a military with a global presence to a force that could easily and rapidly be deployed globally while being stationed at home.\n\n==After her Presidency==\nFollowing her Presidency, Ocasio-Cortez took over leadership of Habitat for Humanity, becoming its most high profile member and retooling the organization to focus on refugee resettlement in the 2040s. In the lead up to WWIII, Ocasio-Cortez became more outspoken about Japanese actions in the North Pacific, and was briefly considered for the position of Secretary of State by President Jacobi. During the war, she became a major proponent of the Jacobi administration's policies and campaigned for her in 2052. Ocasio-Cortez also brought Habitat in as one of the founding organizations of the Earth Working Group, and led the charge on adopting colonial construction techniques for terrestrial housing problems.\n\nOcasio-Cortez was one of Oscar Lachman's most outspoken critics, and during the leadup to the election of 2084, the Progress party introduced an amendment to the constitution that would have removed term limits for Presidents who'd been out of office for more than 20 years, in a clear bid to draft Ocasio-Cortez. Ocasio-Cortez actually opposed this amendment, and it never successfully passed the House. Ocasio-Cortez argued that Lachman's deportations were unconstitutional and unethical, and hotly opposed his privatization campaigns for many government services. She positioned Habitat to aid the Mexican government in resettling the millions of Mexican Americans in northern Mexico, but later distanced the organization as Mexico began its occupation of Central America.\n\nOcasio-Cortez spent her last years trying to convince Congress to lighten immigration policy for Mexicans. Her death in 2112, at the age of 122, was met with a national day of mourning and thousands turned out for her funeral. Ocasio-Cortez was regarded as a hero to Millennials, Generation Z, and the broad working-class. Historians consider her to be one of the 21st Century's greatest Presidents, and one of its most successful post-Presidents, while also compared her to Teddy Roosevelt, Franklin D. Roosevelt, and Dwight D. Eisenhower.    \n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2026-05-28T13:00:54Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          }
+        ],
+        "title": "Alexandria Ocasio-Cortez",
+        "touched": "2026-05-28T13:00:54Z"
+      },
+      "3593": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Under Construction"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Christian Separatist Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Confederate-rebel-flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Canada.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Mexico (2074).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Texas.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Northwest Territorial Imperative flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:SCA Flag (2030-2031).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 51stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Under contruction icon-red.png"
+          }
+        ],
+        "lastrevid": 11507,
+        "length": 12001,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Alexandria Ocasio-Cortez"
+          },
+          {
+            "ns": 0,
+            "title": "Canada"
+          },
+          {
+            "ns": 0,
+            "title": "Donald Trump Jr."
+          },
+          {
+            "ns": 0,
+            "title": "Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "Sovereign Citizen's Alliance"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          }
+        ],
+        "ns": 0,
+        "pageid": 3593,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11483,
+            "revid": 11507,
+            "slots": {
+              "main": {
+                "*": "{{WIP}}\n{{Infobox Military Conflict\n|conflict= White Tide\n|image= \n|caption=Military situation in 2024\n|date=2028 - 2035\n|place=United States of America, (with spillovers into Mexico and Canada)\n|causes=2020, 2024 and 2028 US presidential elections<br>\nLaws against a women's right to choose<br>\nThe spread of LGBT grooming conspiracy theories<br>\nJanuary 6th 2021 Capitol insurrection\n|territory=\n|result=US Federal Victory\n*Rebellions and Secessions crushed\n*Pretender states dissolved \n*Federal raids against extremist groups continued into mid 2030s\n|combatant1='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\"></span>'''\n[[File:US flag 51stars.png|20px]] '''[[United States of America|United States]]''' <small></small><br>\n[[File:Flag_of_Canada.png|20px]] '''[[Canada]]'''<br>\n[[File:Flag_of_Mexico_(2074).png|20px]] '''[[Mexico]]'''\n\n|combatant2='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\"></span>'''\n'''Far-right pretender states'''<br>\n[[File:SCA Flag (2030-2031).png|20px]] [[Sovereign Citizen's Alliance|SCA]] (2028-2031)<br/>\n[[File:Northwest Territorial Imperative flag.png|20px]] American Redoubt (2031-2035)<br/>\n[[File:Christian Separatist Flag.png|20px]] Christian Republic (from 2031-2033)<br/>\n[[File:Flag of Texas.png|20px]] 2nd Republic of Texas (2031-2032)<br/>\n[[File:Confederate-rebel-flag.png|20px]]Neo-Confederates (2031-2034)<br/>\nDisorganized Far-right Militants’ Remnant<br>\nRebel Police Forces\n\n|combatant3='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\"></span>'''\n'''Far-left rebel groups'''<br>\n\n|commander1='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\"></span>'''\n[[File:US flag 51stars.png|20px]] [[Alexandria Ocasio-Cortez]]<br>\n\n|commander2='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\"></span>'''\n[[File:SCA Flag (2030-2031).png|20px]] [[Donald Trump Jr.]]<br/>\n[[File:SCA Flag (2030-2031).png|20px]] Michael Wallace †<br/>\n[[File:SCA Flag (2030-2031).png|20px]] Michael Flynn †\n\n|commander3='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\"></span>'''\n<br>\n<br>\n\n|strength1= 8.9 million\n|strength2= 8.1 million\n|casualties1= 8.55 million\n|casualties2= 4.45 million\n}}\n\nThe '''Second American Civil War,''' also referred to as '''Civil War II''', '''CWII'', and occasionally the '''White Tide''', was a multi-sided insurrection in the United States fought between the forces of the Federal Government, along with domestic and foreign allies, and various domestic pretender and secessionist governments opposing both the Federal government and each other in varying combinations. The conflict began in late 2028 with the Columbus Insurrection, Ohio, and is usually deemed to have ended with the Battle of Salmon, Idaho in 2033.\n\nAfter Alexandria Ocasio-Cortez won the November 2028 presidential election on an anti-racism platform, several militia coalitions stormed the state capitols of 18 states, successfully capturing the capitols of Alabama, Texas, Idaho, Ohio, and Kansas. Before the inauguration of Ocasio-Cortez, the state governments of Indiana, Nebraska, and South Dakota voted to secede from the Union and pledged loyalty to the rebel governments in Columbus and Topeka. The Federal Government responded shortly after AOC's inauguration in January of 2029 when Federal troops repelled an attack on Fort Wayne, Indiana. Additional rebel state governments arose in the following months, either joining one of the existing pretender republics or creating new ones. \n\nThe conflict was primarily political and nationalistic, fueled by ethnic and religious tension. A key issue was the Ocasio-Cortez administration's open door immigration policy to attract skilled labor, and in general the United States adoption of more egalitarian social policies towards non-whites. White-nationalists in turn wanted to expel all non-white immigrants from the US, or failing to accomplish this, establish a \"white homeland\" via political secession.\n\n== Background ==\n==='''The Great Reset'''===\nThe Great Recession and later COVID-19 pandemic upended many economic norms that had been in place since the 1980s, made worse by the mass retirement of the Baby Boomer generation. The result of these events was a labor shortage and a cycle of inflation that significantly reduced the buying power of most Americans. Attempts to mitigate inflation by raising interest rates were unsuccessful, however most Americans remained opposed to increasing immigration as a means to free up the money supply. Leftists opposed this policy believing it was a deliberate attempt to drive down wages, and Conservatives opposed it on racist grounds.\n\nAs a result the 2020s saw inflation grow with limited relief and the buying power of businesses and consumers continued to decline as productivity continued to fall, leading to ever growing supply chain interruptions. This created the economic conditions that drove a new cycle of political radicalization.\n\n===Police radicalization===\nBeginning in the 2010s and intensifying in the 2020s violence by police against African Americans became an increasingly visible issue, largely due to the increased prevalence of cell phone and body cameras. Prior to this, police were able to carry out violence with impunity, particularly against African Americans. On May 25, 2020 George Floyd was chocked to death by Minneapolis police officer Derek Chauvin while four other police officers watched. The murder of Floyd, which was recorded in its entirety, sparked a national outcry and a wave of protests and riots against police brutality that would last until the early 2030s; and brought three distinct movements against police violence to the forefront of American politics: \n\n===The Flood===\n''Main article: [[The Flood]]''\n\nWith the calving of the South Greenland Ice Sheet, the Federal government was forced to divert resources and political attention away from combatting extremist groups and seek political cooperation with many right-wing politicians. In the lead up to the sheet's loss, popular perception was one of renewed bipartisanship, however extremist politicians only doubled down on their rhetoric. There was a fear that the purported temporary resettlement of refugees were little more than an attempt by the coastal cities to \"colonize the heartland,\" and many far-right leaders claimed the calving was a hoax even after the initial wave of flooding made landfall on the eastern seaboard.\n\nMost domestic climate refugees were temporarily resettled to camps in their home states, or simply returned to their families out of state. The greatest exception to this was the Warren Camp in Ohio, which serviced the populations from New Jersey, Maryland, and Delaware that could not be resettled in New York or Pennsylvania. The strongest opposition to resettlement actually came from states that had the smallest number of climate refugees.\n\n===Elections of 2028===\n\nThe displacement of tens of millions of refugees from the coasts of the country, regions predominantly more leftist than the interior, caused a political crisis as many right-leaning states found themselves with an surge of voters who tipped the scales in favor of Progressive candidates. Patriot Party voters in these states found the results of these elections unacceptable and almost universally cried fraud. The most visible example of this was with the Gubernatorial elections in Ohio and the Presidential Election which saw Alexandria-Ocasio Cortez not only sweep the Midwest which in the previous election had nearly gone to the Patriot party, but also put a Progressive in the Ohio statehouse.\n\n\n== Aftermath ==\nThe town of Salmon Idaho was abandoned save for a small memorial marking the end of hostilities. The Federal Government occupied much of the midwest for the remainder of the 2030s and suspended the Posse Comitatus Act in order to directly enforce civil rights. Institutional racism was expunged from government at every level over the 2030s, while refugees and new immigrant groups were directly settled in the occupied states to drown out the remaining political influence of white supremacists. Several wartime and post-war constitutional amendments worked to expand voting rights and the government's power to enforce those rights, while new laws and court decisions curtailed gun rights. Prior to the war there were over 400 million firearms in civilian hands. Post-war the number was less than 100 million, largely due to capturing the arms of rebel troops and their stockpiles and the National Firearm Licensing Act.\n\n==Impact==\n===Genocide, concentration camps, and slave labor===\nThe rebel states were responsible for series of human rights abuses and crimes against humanity that ranged from suppression of basic freedoms to acts of genocide. Prior to the war, many of the states that would come under rebel control passed increasingly draconian laws against voting rights and against queer youth, particularly trans youth and their parents, many of whom were forcibly separated prior to the war. During the conflict, many of these states rounded up trans people into concentration camps either to be held as prisoners, used as slave labor, forcibly given hormone therapy to \"correct their gender,\" and near the end of the war outright killed in mass executions. The worst perpetrators of these crimes were the Sovereign Citizens' Alliance, who by the end of the war had perpetrated the industrialized murder of some 700,000 LGBTQIA, non-Christian, and non-white citizens. All told, a total of 1.5 million Americans were killed by the various pretender governments and separatist states, while 4 million people were forced into slave labor or concentration camps of some kind, including many POWs and refugees. Such atrocities and countless of acts of injustice have further inflamed the already immense hatred of many Americans toward many conservatives and the far-right to the boiling point as the war began, one that has been built over the years since 2016 and especially during the 2020s since the 2021 Capitol Riot, when increasing reactionary attitudes are demonstrated by the right in general. During and after the war has saw many act of vengeance against many Republicans who people held as the enablers of the years-long crisis, and the centrist neoliberal conservative Democrats who is complacent and out-out-touch with the matters, as well as against other conservatives, libertarians, fascists, conservative Christians and their organizations, being treats with contempt at best and revenge killing at worse. In fact, the relatively large surge in domestic enlistment that continuously swells the ranks of the military, as well as the increase in leftist, loyalist militias before and during the years of war has been considered to be the result of vindictive attitudes from liberals and progressives. In the many interviews conducted by the Associated Press, it was revealed that many militia fighters and military service-members have friends or loved one that are non-whites, non-Christians, LGBTQIAs, oppositional and loyalist liberals or progressives, and so on, or they just despise the injustice while having no close connections to the people that have either been massacred or not. But there is also a notable amount of soldiers who were actually victims that managed to escape into federal and loyalist territories, making the war a very personal thing to many. This kind of anger has been compared and considered to be even far eclipsed the one seen after 9/11, with many going so far as to compared them to hatred against Germans and Japanese by the Allies during and after World War II.\n\n==Human displacement==\nDuring the war, over 50 million people were displaced from their homes that had not prior been displaced by the Flood.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-06-08T12:45:34Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox Military Conflict"
+          },
+          {
+            "ns": 10,
+            "title": "Template:WIP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:WPMILHIST Infobox style"
+          }
+        ],
+        "title": "White Tide",
+        "touched": "2024-06-08T12:45:34Z"
+      },
+      "3594": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10154,
+        "length": 25,
+        "new": "",
+        "ns": 6,
+        "pageid": 3594,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10154,
+            "slots": {
+              "main": {
+                "*": "Ben Ray Lujan, US Senator",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-02-21T06:04:11Z"
+          }
+        ],
+        "title": "File:Benraylujan2032.png",
+        "touched": "2021-02-27T09:21:12Z"
+      },
+      "3595": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10155,
+        "length": 35,
+        "new": "",
+        "ns": 6,
+        "pageid": 3595,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10155,
+            "slots": {
+              "main": {
+                "*": "Gretchen Whitmer, Michigan Governor",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-02-21T06:06:16Z"
+          }
+        ],
+        "title": "File:Gretchen Whitmer.jpg",
+        "touched": "2021-02-27T09:21:47Z"
+      },
+      "3596": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10184,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3596,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10184,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-02-22T10:45:58Z"
+          }
+        ],
+        "title": "File:40B28EA5-B8C7-4D21-BA45-2DB4A95CE904.jpeg",
+        "touched": "2021-03-01T04:38:51Z"
+      },
+      "3597": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10185,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3597,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10185,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-02-22T10:46:51Z"
+          }
+        ],
+        "title": "File:Madison-Cawthorn.jpeg",
+        "touched": "2021-03-01T04:39:21Z"
+      },
+      "3598": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10214,
+        "length": 52,
+        "new": "",
+        "ns": 6,
+        "pageid": 3598,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10214,
+            "slots": {
+              "main": {
+                "*": "Represents the cold southern area of Planum Australe",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-02-25T15:20:12Z"
+          }
+        ],
+        "title": "File:Southern Territories.png",
+        "touched": "2021-02-25T15:26:12Z"
+      },
+      "3599": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Southern Territories.png"
+          }
+        ],
+        "lastrevid": 10217,
+        "length": 88,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Mars"
+          }
+        ],
+        "ns": 0,
+        "pageid": 3599,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10215,
+            "revid": 10217,
+            "slots": {
+              "main": {
+                "*": "#\n\n* [[Mars|rs]]\n\n<br />[[File:Southern Territories.png|thumb|{{Southern Territories}}]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-02-25T15:29:18Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Southern Territories"
+          }
+        ],
+        "title": "Southern Territories",
+        "touched": "2021-02-25T15:29:18Z"
+      },
+      "3600": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10216,
+        "length": 1898,
+        "new": "",
+        "ns": 10,
+        "pageid": 3600,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10216,
+            "slots": {
+              "main": {
+                "*": "<infobox>\n  <title source=\"title1\">\n    <default>{{PAGENAME}}</default>\n  </title>\n  <image source=\"image1\">\n    <caption source=\"caption1\"/>\n  </image>\n  <data source=\"row1\">\n    <label>Label</label>\n  </data>\n  <data source=\"row2\">\n    <label>Label</label>\n  </data>\n  <data source=\"row3\">\n    <label>Label</label>\n  </data>\n  <data source=\"row4\">\n    <label>Label</label>\n  </data>\n  <data source=\"row5\">\n    <label>Label</label>\n  </data>\n  <data source=\"row6\">\n    <label>Label</label>\n  </data>\n  <data source=\"row7\">\n    <label>Label</label>\n  </data>\n  <data source=\"row8\">\n    <label>Label</label>\n  </data>\n  <data source=\"row9\">\n    <label>Label</label>\n  </data>\n  <data source=\"row10\">\n    <label>Label</label>\n  </data>\n  <data source=\"row11\">\n    <label>Label</label>\n  </data>\n  <data source=\"row12\">\n    <label>Label</label>\n  </data>\n  <data source=\"row13\">\n    <label>Label</label>\n  </data>\n  <data source=\"row14\">\n    <label>Label</label>\n  </data>\n</infobox>\n<noinclude>\nExample usage:\n<pre>\n{{Southern Territories\n\n  | title1=Example\n\n  | image1=Example\n\n  | caption1=Example\n\n  | row1=Example\n\n  | row2=Example\n\n  | row3=Example\n\n  | row4=Example\n\n  | row5=Example\n\n  | row6=Example\n\n  | row7=Example\n\n  | row8=Example\n\n  | row9=Example\n\n  | row10=Example\n\n  | row11=Example\n\n  | row12=Example\n\n  | row13=Example\n\n  | row14=Example\n\n}}\n</pre>\n<templatedata>\n{\"params\":{\"title1\":{\"suggested\":true},\"image1\":{\"suggested\":true},\"caption1\":{\"suggested\":true},\"row1\":{\"suggested\":true},\"row2\":{\"suggested\":true},\"row3\":{\"suggested\":true},\"row4\":{\"suggested\":true},\"row5\":{\"suggested\":true},\"row6\":{\"suggested\":true},\"row7\":{\"suggested\":true},\"row8\":{\"suggested\":true},\"row9\":{\"suggested\":true},\"row10\":{\"suggested\":true},\"row11\":{\"suggested\":true},\"row12\":{\"suggested\":true},\"row13\":{\"suggested\":true},\"row14\":{\"suggested\":true}},\"sets\":[],\"maps\":{}}\n</templatedata>\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-02-25T15:28:28Z"
+          }
+        ],
+        "title": "Template:Southern Territories",
+        "touched": "2021-02-25T15:28:28Z"
+      },
+      "3601": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10322,
+        "length": 15,
+        "new": "",
+        "ns": 6,
+        "pageid": 3601,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10322,
+            "slots": {
+              "main": {
+                "*": "space elevators",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-03-14T02:18:36Z"
+          }
+        ],
+        "title": "File:The great experiment by ynot1989 d95e933.png",
+        "touched": "2021-03-25T07:05:32Z"
+      },
+      "3604": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10337,
+        "length": 33,
+        "new": "",
+        "ns": 0,
+        "pageid": 3604,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10337,
+            "slots": {
+              "main": {
+                "*": "Lithuania is a country in Europe.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-03-26T21:04:24Z"
+          }
+        ],
+        "title": "Lithuania",
+        "touched": "2021-03-26T21:04:24Z"
+      },
+      "3607": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10377,
+        "length": 1838,
+        "ns": 0,
+        "pageid": 3607,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10376,
+            "revid": 10377,
+            "slots": {
+              "main": {
+                "*": "'''{{PAGENAME}}''' was a Baltic Sea nation independent from 1918 to 1940 and again starting in 1991.\n\nThroughout the 20th century, Latvia was under control as a part of the Soviet Union, which consisted of many nations and held a large influence across the globe. In the 1980's, the decline of the Soviet Union and rising nationalism allowed Latvia and other countries to gain independence following the fall of the Soviet Union.\n\nLatvia quickly integrated itself with the rest of Europe. Joining the European Union and Eurozone, Latvia prospered as a rich country for much of its pre-Flood existence. However, the county suffered economically as the core and capital of the county, Riga, flooded. Unable to build a sea wall, the capital moved to Daugavpils. Meanwhile, Latvia managed to annex territory belonging to the former Russian Federation after its collapse in the 2020s.\n\nAs Europe began to collapse from the Flood, Latvia integrated itself with Poland, then a rising power. After Poland's victory in WWIII, it held a level of superiority not seen in Europe since the days of the Polish-Lithuanian Commonwealth more than 4 centuries ago. Rising nationalism and the retreating of the sea levels during the Flood led to Poland annexing Latvia. Despite this, the Federalist Party in Poland gave the Latvians more representation by re-forming Poland into the Federation of Poland and the Baltic in 2076. \n\nPoland's era of strength came crashing down in the 2130s, after the loss of Poland in the Third Mexican-American War. This war gave America a level of total superiority across the globe not seen since WWIII in the mid 2050s. All of Europe entered the American domain, and as the European Association formed, Latvia was granted as an official province of the EA. Today, Latvia remains a province within the Association. \n\n<br />",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-04-09T21:44:04Z"
+          }
+        ],
+        "title": "Latvia",
+        "touched": "2021-04-09T21:44:04Z"
+      },
+      "3608": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10372,
+        "length": 31,
+        "links": [
+          {
+            "ns": 2,
+            "title": "User:SimplyJake15"
+          }
+        ],
+        "new": "",
+        "ns": 2,
+        "pageid": 3608,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10372,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[User:SimplyJake15]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-04-08T19:54:56Z"
+          }
+        ],
+        "title": "User:TheJake123",
+        "touched": "2021-04-08T19:54:56Z"
+      },
+      "3609": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10374,
+        "length": 39,
+        "links": [
+          {
+            "ns": 1200,
+            "title": "Message Wall:SimplyJake15"
+          }
+        ],
+        "new": "",
+        "ns": 1200,
+        "pageid": 3609,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10374,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Message Wall:SimplyJake15]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-04-08T19:54:56Z"
+          }
+        ],
+        "title": "Message Wall:TheJake123",
+        "touched": "2021-04-08T19:54:56Z"
+      },
+      "3610": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10442,
+        "length": 2729,
+        "links": [
+          {
+            "ns": 0,
+            "title": "21st Century"
+          },
+          {
+            "ns": 0,
+            "title": "22nd Century"
+          }
+        ],
+        "ns": 0,
+        "pageid": 3610,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10441,
+            "revid": 10442,
+            "slots": {
+              "main": {
+                "*": "{| align=\"right\" cellpadding=\"4\" cellspacing=\"0\" width=\"350\" style=\"margin: 0 0 1em 1em; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;\"\n|-\n| colspan=\"3\" align=\"center\" |'''Centuries'''\n|20th Century • [[21st Century|'''21st Century''']] • [[22nd Century]]\n|-\n| colspan=\"3\" |'''Decades'''\n|2000 • 2010 • 2020 • 2030 • 2040 •\n2050 • '''2060''' • 2070 • 2080 • 2090\n|}\nThe 2060s was a decade spanning from January 1, 2060, to December 31, 2069. \n\nThe 2060s were a period of recovery. Thanks to efforts of the Earth Working Group, the global climate began to rapidly cool, reversing the effects of the Flood decades before. By 2066, the ocean level was so low, it was at levels not seen since the Industrial Revolution. This changed the physical geography of the world yet again, as not only were the coastlines reclaimed, but new lakes in Africa formed to make the Sahara region no longer an uninhabitable desert. This geographical shift was known as the Refreeze. Also, the world began to grow out of the destruction of the Third World War. The United States saw an era of unprecedented power over the world, despite engaging in war. The 2060s also saw a new era in space travel, and contact with aliens was made for the first time in 2064. The warp drive, a revolutionary technology pioneered by American scientists, further allowed astronauts to explore the cosmos unlike previous eras of history. However, America's dominance, especially in space, was seen as tyrannical by other governments. \n\nThroughout the 2060s, the Japanese and Turkish spheres of influence continued to decline. Even though they were shut down in 2055 (following the aftermath of the Third World War), the two nations gradually weakened through this decade and beyond.  \n\n==Events==\n\n===North America ===\n2060: Start of the \"Epical Period\", a unique era of music which blended different sorts of rock music together. This music would become very popular during the 2060s.   \n\n2063: Closure of the Northwest Passage. After opening up for trade with the Arctic region decades prior, this closed after the climate cooled. This cut off trade with the Arctic states, causing them to suffer economically. This would later prompt them to start the First Nations War.  \n\n2064: Start of the First Nations War. Following the Refreeze, the economy of the Arctic crashed following the closing of the vital Northwest Passage. These desperate nations invaded Canada in the south, prompting America to intervene to protect American interests. Following American victory, Canada was put under the American jurisdiction. \n\n==Births==\n2066: Christopher Reagan, 63rd President of the United States\n\n\n\n<br />",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-06-09T14:04:56Z"
+          }
+        ],
+        "title": "2060s",
+        "touched": "2021-06-09T14:04:56Z"
+      },
+      "3612": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10477,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3612,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10477,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-06-29T02:53:53Z"
+          }
+        ],
+        "title": "File:1200px-TerraformedVenus.jpg",
+        "touched": "2021-06-29T02:56:04Z"
+      },
+      "3613": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10482,
+        "length": 0,
+        "ns": 6,
+        "pageid": 3613,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10481,
+            "revid": 10482,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-07-13T15:42:56Z"
+          }
+        ],
+        "title": "File:Site-logo.png",
+        "touched": "2021-07-26T23:34:18Z"
+      },
+      "3614": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10484,
+        "length": 0,
+        "ns": 6,
+        "pageid": 3614,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10483,
+            "revid": 10484,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-07-13T15:42:57Z"
+          }
+        ],
+        "title": "File:Site-favicon.ico",
+        "touched": "2021-07-26T23:34:18Z"
+      },
+      "3615": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Countries in Asia"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former counties in Asia"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 10839,
+        "length": 119,
+        "ns": 0,
+        "pageid": 3615,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10489,
+            "revid": 10839,
+            "slots": {
+              "main": {
+                "*": "Hunan is a country in East Asia.\n\n== History ==\nTBA\n[[Category:Countries in Asia]]\n[[Category:Former counties in Asia]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2022-07-20T15:47:30Z"
+          }
+        ],
+        "title": "Hunan",
+        "touched": "2022-07-20T15:47:30Z"
+      },
+      "3616": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10494,
+        "length": 0,
+        "new": "",
+        "ns": 0,
+        "pageid": 3616,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10494,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-07-24T12:21:41Z"
+          }
+        ],
+        "title": "New Lion City",
+        "touched": "2021-07-24T12:21:41Z"
+      },
+      "3617": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10526,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3617,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10526,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-08-29T20:45:49Z"
+          }
+        ],
+        "title": "File:Confederate-rebel-flag.png",
+        "touched": "2023-03-02T16:36:27Z"
+      },
+      "3619": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Religious Events"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11394,
+        "length": 3569,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Chronoscope"
+          },
+          {
+            "ns": 0,
+            "title": "Fifth Great Awakening"
+          },
+          {
+            "ns": 0,
+            "title": "Scientific Schism"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          }
+        ],
+        "ns": 0,
+        "pageid": 3619,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11096,
+            "revid": 11394,
+            "slots": {
+              "main": {
+                "*": "The '''Sixth Great Awakening''' also known as the '''Second Reformation,''' in many nations and communities, was a global period of Abrahamic religious history that began with the first successful imaging of the Birth of Christ via [[Chronoscope]] in 2088. While it began as a primarily Christian religious awakening, the impact of the Chronoscope spread to every religion causing religious restructures and schisms the world over from the end of the 2080s until at least the 2120s.\n\n==History==\nOne of the earliest adopters of commercially available chronoscopes was Fordham University who would be the first of many Jesuit universities to adopt chronoscopes to directly image lost religious texts and events. Initially perused as a continuation of the [[Fifth Great Awakening]] early research by Jesuit universities into Abrahamic history had the aim of further demystifying religious history, however it had the opposite effect giving rise to new religious literalists. Wealthy literalists served as benefactors to religious research universities demanding they aggressively pursue the original translations of biblical stories and if possible their inspiring events.\n\nBy the 2100s, the movement had directly or indirectly aided in the discovery of many original texts and stories from the Abrahamic faiths causing a great deal of upheaval among the faithful. It is believed by some that this was key to the disintegration of the Turkish empire in the mid 2090s, and aided the rise of traditionalists in many neo-feudal societies. The 2100s saw the Catholic Church in particular be divided more than at any time in recent history, as Pope Adrian VII organized an ecumenical council to integrate source material into a new Catholic Bible. The council led to the [[Scientific Schism]], in which Catholics loyal to Pope Adrian VII adopted the bible based on direct translations of source material from the chronoscope (mostly worshipers from the Americas), while conservative Catholics rejected the Chronoscope itself as heretical and rallied around the first major antipope since the 15th century, electing Pope Pius XIII and basing the church in Basilica of Our Lady of Licheń. The schism would remain in force until near the end of the [[Third Mexican-American War]] as Polish and Mexican leaders pressured the two Catholic branches to reunify so as to improve the factions' respective support for the war.\n\nAmong Muslims, the Chronoscope ignited a furious debate over whether images of the Prophet violated many muslims' attitudes toward aniconism in the faith. The divide permeated every denomination regardless of how liberal or conservative. Many Islamic Scholars shared their Christian colleagues' enthusiasm for the Chronoscope as a means of establishing primary sources for many of the Prophet's quotations, and considered that since the Chronoscope was not a drawing or an artificially generated image, it was definitionally not a form of aniconism. Those centers of learning that pursued this line of thinking worked with their partners to eventually draft a version of the Quran with quotations edited to reflect the Prophet's actual words, while some quotations were entirely omitted after years and teams of chronographers failing to find reference to them. The Direct Soured Quran, or DSQ, often known as the Algiers Quran, effectively codified a new schism within Islam with Sunnis and Shiites becoming common members of the Mukhlis denomination while adherents to the DSQ became part of the new Maerifiun denomination.\n\n[[Category: Religious Events]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-11-03T17:05:14Z"
+          }
+        ],
+        "title": "Sixth Great Awakening",
+        "touched": "2023-11-03T17:05:14Z"
+      },
+      "3620": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mexican-American Cold War"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexico"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Space stations"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Technology"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Third Mexican War"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 10613,
+        "length": 4563,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Colonial Fleet"
+          },
+          {
+            "ns": 0,
+            "title": "Edwin Jaso"
+          },
+          {
+            "ns": 0,
+            "title": "Mercury"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican Vacuum Command"
+          },
+          {
+            "ns": 0,
+            "title": "Orbitals"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 3620,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10612,
+            "revid": 10613,
+            "slots": {
+              "main": {
+                "*": "'''Project Ahuiateteo''' was a crash program started by [[Mexican Vacuum Command]] in the 2080s that produced Mexico's five Super-[[Orbitals]]. From 2097 to 2112, the project was under the direction of Major General [[Edwin Jaso]], who would later be promoted and given command of the stations themselves. The project was named Ahuiateteo after the five Aztec gods of excess and pleasure, and employed one of the most successful media disinformation campaigns in history to convince the public that these habitats would be extravagant tourist destinations to disguise the true intent of the project. Project Ahuiateteo began modestly in 2087, but grew to the point that it caused Mexico to achieve near-full employment and cost nearly US$650 billion (over US$1.2 trillion in 2140). Over 90 percent of the cost was for building the actual stations, with only 10% toward military R&D efforts.\n\nThe Ahuiateteo Orbitals, often called the Ahuiateteo Fortresses, served as the backbone of Mexico's space economy and forces. From these stations Mexico was able to construct a space fleet at parity with the United States and defend its operations on [[Mercury]].\n\n==History==\nMexican policy think-tanks worked in secret during the 2080s to draft a plan for creating a credible counter to US power in Space. US power in Earth-Luna space was seen as unassailable, and the US had enforced a policy of military dominance since the end of [[World War III]]. Mexican defense policy analysts argued that the only way Mexico could credibly counter the US in space was to build several military defense platforms in the Earth-Solar Lagrangian points, and use them as platforms to launch an expanded space force.\n\nThe project would be taken over by Vacuum Command veteran Edwin Jaso in 2097, who began funneling money through AEM research grants to several industrial mining operations to capture a series of asteroids to serve as fortified platforms to deploy and command Mexico's military forces in Space. Mexico had a respectable space mining industry, but were completely dependent on US controlled space elevators for space access. Dummy companies were set up to finance the development of these asteroids for the military under the guise of civilian space colonies. Covert organizations like the Sunlight Manufacturing Company were established under a civilian guise in order to build combat drones for space warfare. According to statistics at the time, the massive Mexican space-armament policy almost led to full employment during the 2090s, with industrial production briefly outpacing that of the Earth-Luna sphere of the United States in 2099. The re-armament began a sudden change in fortune for many corporations in Mexico, who's recovery had been sluggish by most estimates.\n\nFor ten years Project Ahuiateteo was conducted in total secrecy, with most observers convinced it was yet another ambitious vanity project by an upstart power. The US military had virtually no assets positioned at Earth-Solar Lagragian orbit beyond asteroid collision early warning satellites, and thus Mexican engineers and robots were able to work without interruption. By 2112 Mexico had five habitats completed and over a million of its citizens began flocking to these resorts with Vacuum Command recruits and their families slipping into the population. After a series of shakedown tests, Mexican President Miguel Caso publicly disclosed that these platforms, while indeed home to thousands of civilian families, included a sizable military garrison, and to demonstrate their capabilities a single kinetic strike from one of the Earth-Luna [[Orbitals]] was carried out on a small island in the South Pacific. While the yield of the impact was impressive, 2 killotonnes, the distance terrified the American public and escalated the Mexican-American Cold War.\n\nMexico then used these heavily armed platforms to build and maintain a larger and more nimble space force, deploying a few thousand drones and attack satellites upon their debut, and training its in-space commandos from this position. The threat of planetary bombardment and the political fallout that would come from killing hundreds of thousands of civilians forced the US to accept these orbitals as a reality for a quarter century.\n\n==Fate==\nMexico's orbitals were all captured or depressurized during the [[Third Mexican-American War]] by the [[Colonial Fleet|Colonial fleet]].\n[[Category:Space stations]]\n[[Category:Mexico]]\n[[Category:Mexican-American Cold War]]\n[[Category:Third Mexican War]]\n[[Category:Technology]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-10-09T16:51:00Z"
+          }
+        ],
+        "title": "Project Ahuiateteo",
+        "touched": "2021-10-09T17:08:39Z"
+      },
+      "3621": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Planets"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 10976,
+        "length": 2134,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Latin American Union"
+          },
+          {
+            "ns": 0,
+            "title": "Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "Project Ahuiateteo"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          }
+        ],
+        "ns": 0,
+        "pageid": 3621,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10615,
+            "revid": 10976,
+            "slots": {
+              "main": {
+                "*": "'''Mercury '''is the smallest planet in the Solar System and the closest to the Sun. Its orbit around the Sun takes 87.97 Earth days, the shortest of all the Sun's planets. It is named after the Roman god Mercurius (Mercury), god of commerce, messenger of the gods, and mediator between gods and mortals, corresponding to the Greek god Hermes (Ἑρμῆς).\n\n==History==\nIn the 2080s, [[Mexico]] began a program to develop an alternative to reliance on the [[United States of America|American]] monopoly on Helium-3 for fusion power. Alternatives using Tritium-Deuterium Fusion using terrestrially harvested sources of Tritium, however advances in quantum power transfer technology made the prospect of space-based solar power a viable option. Partially supported by [[Project Ahuiateteo|Mexico's efforts to establish a military presence in space]], Mexico established a research colony at Chao Meng-Fu crater at the Mercurial South Pole, later renamed Ōmeyōcān.\n\nOver the next 20 years Mexico's colonies on the South pole grew to host a population of 6 million people controlling and maintaining a fleet of tens of millions of drones all dedicated to stripping the Mercurial surface of usable materials for the ultimate goal of building a Solar Power Dyson Swarm. By the time Project Ahuiateteo's true purpose was revealed, Mexico had successfully deployed enough solar power satellites to double the total energy out of the [[Latin American Union]].\n\nFearing Mexico potentially supplanting the US as the premier world power, the United States Space Force commanded its colonists at Borealis to commence a similar effort to catch up to Mexico. This led to a literal competition for resources between American and Mexican drones that has severely hindered both country's efforts to increase the capacity of their respective Dyson Swarm as a relative stalemate on the planet's terminator between dueling swarms of drones prevents the access to the bulk of Mercury's resources.\n\nPost-war the Mexican and American Dyson Swarms were amalgamated into the Sol Dyson Sphere, and planetary mining rapidly accelerated.\n[[Category:Planets]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2022-12-10T00:51:42Z"
+          }
+        ],
+        "title": "Mercury",
+        "touched": "2022-12-10T00:51:42Z"
+      },
+      "3622": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11977,
+        "length": 6499,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Australia"
+          },
+          {
+            "ns": 0,
+            "title": "British Republic"
+          },
+          {
+            "ns": 0,
+            "title": "Canada"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          }
+        ],
+        "ns": 0,
+        "pageid": 3622,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11964,
+            "revid": 11977,
+            "slots": {
+              "main": {
+                "*": "The '''president of Canada''' (French: president du Canada) was the head of state and government of [[Canada]] from 2047 and the commander-in-chief of the Canadian Armed Forces. The president acted as the head of government for Canada,\nchairs and selects the membership of the Cabinet. As presidents hold office by virtue of their ability to command the confidence of the elected House of Commons, they typically sit as a member of Parliament (MP) and lead the largest party or a coalition in the House of Commons.\n\nThe office of President was preceded by that of Prime Minister, which once existed only per long-established convention (originating in Canada's former colonial power, the United Kingdom) that stipulated the monarch's representative, the governor general, must select as prime minister the person most likely to command the confidence of the elected House of Commons; this individual was typically the leader of the political party that holds the largest number of seats in that chamber. Under the Constitution Act, 1867, government power was vested in the monarch (who was the head of state), but in practice the role of the monarch—or their representative, the governor general (or the administrator)—was largely ceremonial and only exercised on the advice of a Cabinet minister. The prime minister also provided advice to the monarch of Canada for the selection of the governor general.Canadian prime ministers were appointed to the Privy Council and styled as the Right Honourable (French: Le très honorable), a privilege maintained for life. \n\nHowever, when Canada was established as a Republic in 2029, the offices of Governor-general and prime minister were dissolved and the office of President (elected by the parliament) served as both the head of state and as head of government, separated from the British crown. The president is supported by the Prime Minister's Office and heads the Privy Council Office. The president also effectively appoints individuals to the Senate of Canada and to the Supreme Court of Canada and other federal courts, along with choosing the leaders and boards, as required under law, of various national (formerly Crown) corporations. \n\n==Dominion Period (1867 - 2029)==\n\nThe office is not outlined in any of the documents that constitute the written portion of the Constitution of Canada; executive authority is formally vested in the sovereign and exercised on their behalf by the governor general. The prime ministership is part of Canada's constitutional convention tradition. The office was modelled after that which existed in Britain at the time. John A. Macdonald was commissioned by the Viscount Monck on 24 May 1867, to form the first government of the Canadian Confederation. On 1 July 1867, the first ministry assumed office.\n\nThe date for which a prime minister begins their term has been determined by the date that he or she is sworn into their portfolio, as an oath of office as prime minister is not required. However, since 1957, the incoming prime minister has sworn an oath as prime minister. Before 1920, prime ministers' resignations were accepted immediately by the governor general and the last day of the ministries were the date he died or the date of resignation. Since 1920, the outgoing prime minister has only formally resigned when the new government is ready to be formed.\n\nThe Interpretation Act of 1967 states that \"where an appointment is made effective or terminates on a specified day, that appointment is considered to be effective or to terminate after the end of the previous day\". Thus, although the outgoing prime minister formally resigns only hours before the incoming ministry swears their oaths, both during the day, the ministries are effectively changed at midnight the night before. Some sources, including the Parliament of Canada, apply this convention as far back as 1917. Two prime ministers have died in office: John A. Macdonald (1867–1873, 1878–1891), John Thompson (1892–1894), and Faith Ollie Reedan (2058-2063). All others have resigned, either after losing an election or upon retirement.\n\n===Prime Ministers===\n\n\n==Republican Period (2029 to 2073)==\n\nAt the Liberal Party of Canada convention in January 2012, its members debated on a motion to include severing ties with the monarchy as a party platform. The proposed motion was rejected by 67%. However, the debate was held again in 2027 in the reign of King Charles III, and the motion was passed by a meagre 53%. Following increasingly onset problems as a result from the [[The Flood|Flood]], an emergency government was declared and the plans for full separation from the crown was set in motion after 3 July, 2029. This was met by widespread protests and fierce resistance from Conservatives.\n\nThe country would see itself weaken politically as a result of the resurgent nationalism which gripped the world at the time, culminating in Canada dropping the monarchy in favor of a new Constitution in 2029 that turned the country into a Republic. It also resulted in the secession of Quebec and the First Nations in 2028 and 2048 respectively. The office outlined in the Constitution of 2029, established a president elected by the House of Commons as both head of state and head of government, modeled off of that in South Africa. The Deputy President was also empowered by this new constitution, having authority in the Canadian Parliament.\n\nJohn Edwick was the last President of Canada, having served from 24 October, 2070 until the Union Act of 2073 (10 January, 2073), which formally annexed Canada into the United States along with [[British Republic|Britain]], New Zealand, and [[Australia]].\n\n===Presidents===\n{| class=\"fandom-table\"\n|+\n!'''No.'''\n!Portrait\n!'''Name'''\n'''(birth-death)'''\n\n'''district'''\n!Term of Office\n!Electoral Mandates (Parliaments)\n!Political Party\n!Deputy President\n!Min.\n|-\n|26\n|\n|BLANK\n|14 April 2028 \n– 1 July 2029\n\n(Dominion)\n\n1 July 2029 \n\n– 3/4 July 2034 (Republic)\n|\n|Liberal\n|\n|\n|-\n|27\n|\n|BLANK\n|4 July 2034 – 12 March 2036\n|\n|New Democratic\n|\n|\n|-\n|28\n|\n|BLANK\n|2036 – 2039\n|\n|Liberal\n|\n|\n|-\n|29\n|\n|BLANK\n|2039 – 2044\n|\n|\n|\n|\n|-\n|30\n|\n|BLANK\n|2044 – 2047\n|\n|\n|\n|\n|-\n|31\n|\n|BLANK\n|2047 – 2050\n|\n|\n|\n|\n|-\n|32\n|\n|Jay Cortes\n|2050 – 2057\n|\n|\n|\n|\n|-\n|33\n|\n|Fred Johnson\n|2057 – 2060\n|\n|\n|\n|\n|-\n|34\n|\n|BLANK\n|2060 – 2062\n|\n|\n|\n|\n|-\n|(33)\n|\n|Fred Johnson\n|2062 – 2067\n|\n|\n|\n|\n|-\n|35\n|\n|BLANK\n|2067 – 2070\n|\n|\n|\n|\n|-\n|36\n|\n|John Edwick\n|2070 – 2073\n|\n|\n|\n|\n|}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2026-02-18T20:02:11Z"
+          }
+        ],
+        "title": "Prime Minister of Canada",
+        "touched": "2026-02-18T20:02:11Z"
+      },
+      "3623": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10658,
+        "length": 32,
+        "new": "",
+        "ns": 6,
+        "pageid": 3623,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10658,
+            "slots": {
+              "main": {
+                "*": "== Summary ==\nManhattan in 2050.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2022-01-09T03:46:44Z"
+          }
+        ],
+        "title": "File:FloodWalls Manhattan.png",
+        "touched": "2022-01-09T10:52:34Z"
+      }
+    }
+  }
+}

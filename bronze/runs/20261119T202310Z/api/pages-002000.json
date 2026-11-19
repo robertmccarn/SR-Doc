@@ -1,0 +1,1896 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "2080": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5548,
+        "length": 136,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2080,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5548,
+            "slots": {
+              "main": {
+                "*": "One of my ideas was for a radially symmetrical sapient race that evolved from starfish-like creatures, if you don't mind me adding them.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-08T19:43:38Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170908033658/@comment-24.224.66.196-20170908194338",
+        "touched": "2017-09-08T19:43:38Z"
+      },
+      "2081": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5550,
+        "length": 73,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2081,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5550,
+            "slots": {
+              "main": {
+                "*": "Oh,  you mean like the Mintervans from \"A World of Difference.\" Go nuts.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-08T20:18:57Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170908033658/@comment-899576-20170908201857",
+        "touched": "2017-09-08T20:18:58Z"
+      },
+      "2082": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5551,
+        "length": 142,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2082,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5551,
+            "slots": {
+              "main": {
+                "*": "I think that, as octopuses, crows, parrots, and dolphins readily demonstrate, having a non-humanoid shape is no great barrier to intelligence.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-08T23:16:07Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170908033658/@comment-68.71.189.59-20170908231607",
+        "touched": "2017-09-08T23:16:07Z"
+      },
+      "2083": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5552,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2083,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5552,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-08T23:16:08Z"
+          }
+        ],
+        "title": "Message Wall:68.71.189.59",
+        "touched": "2017-09-08T23:16:08Z"
+      },
+      "2084": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5553,
+        "length": 772,
+        "links": [
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          },
+          {
+            "ns": 1201,
+            "title": "Thread:2075"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2084,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5553,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Thread:2075#8|extraterrestrial rivals to Terrans?]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-08T23:16:08Z"
+          }
+        ],
+        "title": "Thread:68.71.189.59/@comment-32769624-20170908231608",
+        "touched": "2017-09-08T23:16:08Z"
+      },
+      "2085": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5556,
+        "length": 1059,
+        "ns": 1201,
+        "pageid": 2085,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5555,
+            "revid": 5556,
+            "slots": {
+              "main": {
+                "*": "What is the term for an overall territory of a group of people/nations/countries that shares ties under a political system or sphere of influence?\n\nLike I noticed that the United States (and Mexico at one point in the past) in this timeline becoming increasingly expansionist in outer space (and also colonizing or protectorating other planets/species), but at the same time there are nations that are not directly or indirectly controlled by the United States but are interconnected? It is kind of hard to describe really. I wanted to describe a specific \"inter-global\" shared group, culture, or population of a certain region of space rather than describing it on the whole with the galactic bubble.\n\nLike what would be the term for this type of shared culture/political sphere regarding interstellar space? the -Sphere? Bubble?\n\n(Ex: Terransphere/Terran Bubble to describe the current human dominated system and not just Americans)\n\n(Ex2:  Volorumsphere/Volorum Bubble to describe inhabitants and co. from Volorum colonizing several planets their system.)",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-08T23:34:07Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170908033658/@comment-5590986-20170908233141",
+        "touched": "2017-09-08T23:34:07Z"
+      },
+      "2086": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5558,
+        "length": 85,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2086,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5558,
+            "slots": {
+              "main": {
+                "*": "Sphere is an appropriate term, as in sphere of influence. Bloc is also commonly used.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-08T23:48:50Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170908033658/@comment-899576-20170908234850",
+        "touched": "2017-09-08T23:48:50Z"
+      },
+      "2087": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5559,
+        "length": 237,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2087,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5559,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">YNot1989 wrote:<br />Sphere is an appropriate term, as in sphere of influence. Bloc is also commonly used.</div>\nI guess sphere then since Bloc is more military based rather than cultural, at least in my first thoughts",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-09T00:01:12Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170908033658/@comment-5590986-20170909000112",
+        "touched": "2017-09-09T00:01:12Z"
+      },
+      "2088": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5563,
+        "length": 15,
+        "new": "",
+        "ns": 1,
+        "pageid": 2088,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5563,
+            "slots": {
+              "main": {
+                "*": "Lol. Go Serbia!",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-10T13:02:43Z"
+          }
+        ],
+        "title": "Talk:European Association/@comment-33193012-20170910130243",
+        "touched": "2017-09-10T13:02:43Z"
+      },
+      "2089": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8352,
+        "length": 303,
+        "links": [
+          {
+            "ns": 0,
+            "title": "African Commonwealth"
+          },
+          {
+            "ns": 0,
+            "title": "Association of East-Asia"
+          },
+          {
+            "ns": 0,
+            "title": "European Association"
+          },
+          {
+            "ns": 0,
+            "title": "Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "Second Vietnam War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          }
+        ],
+        "ns": 2,
+        "pageid": 2089,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5933,
+            "revid": 8352,
+            "slots": {
+              "main": {
+                "*": "Hello. I find the Second Renaissance to be a very interesting and well-thought scenario, so I decided to help add details to it.\n\n== My Favorite Pages ==\n*[[Third Mexican-American War]]\n*[[Mexico]]\n*[[Second Vietnam War]]\n*[[European Association]]\n*[[Association of East-Asia]]\n*[[African Commonwealth]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-17T12:03:53Z"
+          }
+        ],
+        "title": "User:X3ccBliTzz",
+        "touched": "2018-08-17T12:03:53Z"
+      },
+      "2090": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:German flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5802,
+        "length": 26,
+        "ns": 6,
+        "pageid": 2090,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5575,
+            "revid": 5802,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:German flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T15:54:30Z"
+          }
+        ],
+        "title": "File:East Germany Flag.png",
+        "touched": "2017-11-08T00:09:48Z"
+      },
+      "2091": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:German flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6412,
+        "length": 114,
+        "ns": 6,
+        "pageid": 2091,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6411,
+            "revid": 6412,
+            "slots": {
+              "main": {
+                "*": "Credit to DeathPwnie: https://deathpwnie.deviantart.com/art/Kingdom-of-Hanover-361701763\n[[Category:German flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-15T04:01:10Z"
+          }
+        ],
+        "title": "File:Flag of Hanover.png",
+        "touched": "2017-11-15T13:53:49Z"
+      },
+      "2092": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:German flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5800,
+        "length": 45,
+        "ns": 6,
+        "pageid": 2092,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5577,
+            "revid": 5800,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:German flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T15:54:11Z"
+          }
+        ],
+        "title": "File:Flag of Bavaria.png",
+        "touched": "2017-12-03T16:32:50Z"
+      },
+      "2093": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:European flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:German flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6092,
+        "length": 73,
+        "ns": 6,
+        "pageid": 2093,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5799,
+            "revid": 6092,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:German flags]]\n[[Category:European flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:43:24Z"
+          }
+        ],
+        "title": "File:Saxony Flag.png",
+        "touched": "2017-12-03T16:32:08Z"
+      },
+      "2094": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Coats of arms"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5621,
+        "length": 27,
+        "ns": 6,
+        "pageid": 2094,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5587,
+            "revid": 5621,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Coats of arms]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-11T20:22:46Z"
+          }
+        ],
+        "title": "File:Great Seal of the United States.png",
+        "touched": "2017-11-08T00:11:26Z"
+      },
+      "2095": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Coat of Arms"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Coat of arms"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Coats of arms"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5619,
+        "length": 79,
+        "ns": 6,
+        "pageid": 2095,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5618,
+            "revid": 5619,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Coat of Arms]]\n[[Category:Coat of arms]]\n[[Category:Coats of arms]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-11T20:22:08Z"
+          }
+        ],
+        "title": "File:European CoA.png",
+        "touched": "2017-11-08T00:09:48Z"
+      },
+      "2096": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Coat of arms"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Coats of arms"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5620,
+        "length": 53,
+        "ns": 6,
+        "pageid": 2096,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5616,
+            "revid": 5620,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Coat of arms]]\n[[Category:Coats of arms]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-11T20:22:21Z"
+          }
+        ],
+        "title": "File:East Asia CoA.png",
+        "touched": "2017-11-08T00:09:49Z"
+      },
+      "2097": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5598,
+        "length": 313,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2097,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5598,
+            "slots": {
+              "main": {
+                "*": "As much as I do not like the idea of Earth being unified under the United States, I do hope to see this scenario go beyond 2160. The detail and amount of time you have spent building it is amazing.\n\nSo, have you got any plans to continue the scenario?<ac_metadata title=\"Continuation Beyond 2160?\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-11T08:39:39Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-33193012-20170911083939",
+        "touched": "2017-09-11T15:37:00Z"
+      },
+      "2098": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5599,
+        "length": 360,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2098,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5599,
+            "slots": {
+              "main": {
+                "*": "Btw, I really like this map of Africa you made on DeviantArt. It shows the biomes, and the interesting forest greening in the Sahara.\n\nI was wondering if I could be given permission by you to use it at some point in the future. I have so far failed to create an in-depth scenario, but I intend to. The Second Renaissance has helped me think outside of the box.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-11T09:24:47Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-33193012-20170911083939/@comment-33193012-20170911092447",
+        "touched": "2017-09-11T09:24:47Z"
+      },
+      "2099": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5600,
+        "length": 77,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2099,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5600,
+            "slots": {
+              "main": {
+                "*": "You can use it as a base map or reference it as the driver for your scenario.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-11T15:09:01Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-33193012-20170911083939/@comment-899576-20170911150901",
+        "touched": "2017-09-11T15:09:01Z"
+      },
+      "2100": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5602,
+        "length": 446,
+        "ns": 1201,
+        "pageid": 2100,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5601,
+            "revid": 5602,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">FirestormBlizzard wrote:<br />As much as I do not like the idea of Earth being unified under the United States, I do hope to see this scenario go beyond 2160. The detail and amount of time you have spent building it is amazing.\n\nSo, have you got any plans to continue the scenario?\n</div>\nHe implied its possible to continue someday but not rn. The timeline once stopped at like 2135 a year ago before being extended to 2160 so",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-11T15:38:05Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-33193012-20170911083939/@comment-5590986-20170911153700",
+        "touched": "2017-09-11T15:38:05Z"
+      },
+      "2101": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Alien species"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11066,
+        "length": 2078,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Hiilo"
+          },
+          {
+            "ns": 0,
+            "title": "Uplifted Animals"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2101,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11045,
+            "revid": 11066,
+            "slots": {
+              "main": {
+                "*": "The '''Hivvir''' are one of two intelligent inhabitants of the planet Ivrilu in the Kepler-452 system, the other being the [[Hiilo]]. The Hivvir are natural gliders, with winglike lateral extensions of skin called patagia that allow them to soar great distances in the low gravity, higher pressure atmosphere of Ivrilu.\n\n== Evolution ==\nIvrilu has a surface gravity only 63% that of Earth, and 125% the atmospheric pressure, enabling far more avenues for evolution to enable powered flight. The Hivvir's distant ancestors--and the common ancestors of all \"vertebrates\" on Ivrilu-- were six limbed amphibious cephalopods featuring gliding membranes. Later descendants of these ancestors evolved a more tetrapod-esque body plan, with two of the limbs becoming vestigial, but the membranes remained.  \n\nThe Hivvir, like the Hillo are bipedal, standing roughly 1.9 meters tall and are noticeably more slender than humans, with no hair or other integument to speak of. They posses eyesight far superior to natural humans, with eyes that can move independently of each other and possess seven color receptors compared to human's natural three. \n\n==History==\n===Society===\nThe Hivvir are organized into interconnected tree or cliff dwelling family groups. These troops are capable of using stone hand tools, and express their history and culture through wood carving and cave art, but no troops have been found with a written language. It has also been observed that the Hivvir have a far more rudimentary spoken language than their Hiilo cousins, attributed to smaller brain cavities.\n\n==='''First Contact'''===\nAt the time of First Contact, the Hivvir and Hiilo had fairly limited contact with one another, with the Hivvir proving to be the more difficult of the two species to communicate with. Efforts to give the Hivvir access to terran education have been extremely difficult, with some scientists suggesting that the only way the Hivvir will ever achieve any kind of written civilization will be if they're [[Uplifted Animals|artificially uplifted.]]\n\n[[Category:Alien species]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-01-29T00:14:19Z"
+          }
+        ],
+        "title": "Hivvir",
+        "touched": "2023-01-29T00:14:19Z"
+      },
+      "2102": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Coats of arms"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5614,
+        "length": 27,
+        "ns": 6,
+        "pageid": 2102,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5606,
+            "revid": 5614,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Coats of arms]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-11T20:19:49Z"
+          }
+        ],
+        "title": "File:Emblem of India.png",
+        "touched": "2017-11-08T00:09:49Z"
+      },
+      "2103": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Alien species"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11067,
+        "length": 2024,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Hivvir"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2103,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11044,
+            "revid": 11067,
+            "slots": {
+              "main": {
+                "*": "The '''Hiilo''' are one of two intelligent inhabitants of the planet Ivrilu in the Kepler-452 system, the other being the [[Hivvir]]. The Hiilo split off from their Hivvir ancestors around 700k years ago. Unlike their cousins, the Hiilo are not able to glide, and instead dwell primarily in temperate savannas.\n\n== Evolution ==\nIvrilu has a surface gravity only 63% that of Earth, and 125% the atmospheric pressure, enabling far more avenues for evolution to enable powered flight. The Hivvir's distant ancestors--and the common ancestors of all \"vertebrates\" on Ivrilu-- were six limbed amphibious cephalopods featuring gliding membranes. Later descendants of these ancestors evolved a more tetrapod-esque body plan, with two of the limbs becoming vestigial, but the membranes remained.  \n\nThe Hiilo, like the Hivvir are bipedal, standing roughly 2.2 meters tall and are noticeably more slender than humans, with no hair or other integument to speak of. Their eyesight is superior to natural humans, but inferior to that of the Hivvir, with eyes that can move independently of each other and possess seven color receptors compared to human's natural three. Their patagia is far less developed than the Hivvir, making it impossible for them to achieve any form of flight beyond reducing their rate of fall.\n\n==History==\n===Society===\nThe Hiilo were organized into several largely pastoral tribes prior to first contact, almost entirely dwelling within a large valley in the temperate south of the planet's largest continental mass. At the time of first contact, it was estimated that there were around 18,000 individuals at time of first contact, compared to the 70,000 of the Hivvir.\n\n==='''First Contact'''===\nThe Hiilo have been fairly receptive to human education and technology transfer, having crafted their own written language by 2125, and adopting many terran agricultural practices. This has led to a population boom, and the elevation of the Hiilo to the dominant species on the planet.\n[[Category:Alien species]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-01-29T00:21:19Z"
+          }
+        ],
+        "title": "Hiilo",
+        "touched": "2023-01-29T00:21:19Z"
+      },
+      "2104": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Coats of arms"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5613,
+        "length": 27,
+        "ns": 6,
+        "pageid": 2104,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5611,
+            "revid": 5613,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Coats of arms]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-11T20:19:37Z"
+          }
+        ],
+        "title": "File:Siberia CoA.png",
+        "touched": "2017-11-08T00:11:26Z"
+      },
+      "2105": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Coats of arms"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5626,
+        "length": 27,
+        "ns": 6,
+        "pageid": 2105,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5624,
+            "revid": 5626,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Coats of arms]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-11T20:25:44Z"
+          }
+        ],
+        "title": "File:Seal of the State of Japan.png",
+        "touched": "2017-11-08T00:11:27Z"
+      },
+      "2106": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Associated states"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Coats of arms"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5633,
+        "length": 58,
+        "ns": 6,
+        "pageid": 2106,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5629,
+            "revid": 5633,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Coats of arms]]\n[[Category:Associated states]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-12T04:38:16Z"
+          }
+        ],
+        "title": "File:Africa CoA.png",
+        "touched": "2017-11-08T00:09:49Z"
+      },
+      "2107": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Coats of arms"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5706,
+        "length": 27,
+        "ns": 6,
+        "pageid": 2107,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5636,
+            "revid": 5706,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Coats of arms]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-16T21:21:34Z"
+          }
+        ],
+        "title": "File:Arabia CoA.png",
+        "touched": "2017-11-08T00:09:49Z"
+      },
+      "2108": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Coats of arms"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5641,
+        "length": 27,
+        "ns": 6,
+        "pageid": 2108,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5639,
+            "revid": 5641,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Coats of arms]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-12T05:56:57Z"
+          }
+        ],
+        "title": "File:Ural CoA.png",
+        "touched": "2017-11-08T00:11:27Z"
+      },
+      "2109": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5653,
+        "length": 24,
+        "new": "",
+        "ns": 1,
+        "pageid": 2109,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5653,
+            "slots": {
+              "main": {
+                "*": "Yeah I was probaby right",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-13T20:40:25Z"
+          }
+        ],
+        "title": "Talk:Lionel Halvidar/@comment-5590986-20161230003307/@comment-5590986-20170913204025",
+        "touched": "2017-09-13T20:40:25Z"
+      },
+      "2110": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5656,
+        "length": 258,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2110,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5656,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">YNot1989 wrote:\n\nThere is another civilization I created in an earlier version of the timeline, but they won't be introduced until the main sequence of events from present day to 2160 are more or less populated.\n</div>\n(The Hakari-Hakari?)",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-13T21:30:25Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170908033658/@comment-5590986-20170913213025",
+        "touched": "2017-09-13T21:30:25Z"
+      },
+      "2111": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5657,
+        "length": 4,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2111,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5657,
+            "slots": {
+              "main": {
+                "*": "Yup.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-13T21:32:41Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170908033658/@comment-899576-20170913213241",
+        "touched": "2017-09-13T21:32:42Z"
+      },
+      "2112": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5659,
+        "length": 137,
+        "ns": 1201,
+        "pageid": 2112,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5658,
+            "revid": 5659,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">YNot1989 wrote:<br />Yup.</div>\nWoah. Would they be introduced post-2160 or pre-2160? Either way I'm hyped already lol",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-13T21:50:56Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170908033658/@comment-5590986-20170913213606",
+        "touched": "2017-09-13T21:50:56Z"
+      },
+      "2113": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st Century explorers"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6286,
+        "length": 1253,
+        "links": [
+          {
+            "ns": 0,
+            "title": "NASA"
+          },
+          {
+            "ns": 0,
+            "title": "Squirrel Wars"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2113,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6285,
+            "revid": 6286,
+            "slots": {
+              "main": {
+                "*": "'''Abram Kaplan''' was the commanding officer of the ISV-03 ''Constitution'' and defacto leader of the Confederation of Free States during the [[Squirrel Wars|Morak First Contact Wars]].\n\n==History==\n==='''Early life and education'''===\n==='''Military service'''===\n==='''Captain of the ''Constitution'''''===\nKaplan's service during [[World War III]] placed him in the running for the captain's chair of the ISV-01 ''Enterprise'', and many believed he was passed over for Jin Musgrave because [[NASA]] wanted a civilian to be the first person to make First Contact, and Musgrave was an accomplished scientist as well as a commander of spacecraft.\n\n==='''Actions on Tu'''===\n===='''Squirrel Wars'''====\n===='''Return to Earth and Investigation'''====\nKaplan was severely reprimanded for his actions on Tu by NASA, but avoided court-marshal by the Space Force and was given a desk job at NASA Armstrong Space Center. In his autobiography, ''Contact: An Account of the First Interstellar War'' Kaplan defended his actions, but admitted that he felt the only reason he was not stripped of his rank and forced to resign in disgrace was because of the testimony of Commander Musgrave during the hearings.\n===Later life===\n[[Category:21st Century explorers]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-06T04:19:30Z"
+          }
+        ],
+        "title": "Abram Kaplan",
+        "touched": "2017-10-06T04:19:30Z"
+      },
+      "2114": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5662,
+        "length": 312,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2114,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5662,
+            "slots": {
+              "main": {
+                "*": "Post. The point of the Hakari-Hakari is to illustrate just how exceedingly rare it is for a civilization to survive long enough to develop faster than lite travel, and to postulate the worst case scenario where the species that achieves FTL outside of humanity is a bunch of tough as nails warlike megalomaniacs.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-13T23:09:24Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170908033658/@comment-899576-20170913230924",
+        "touched": "2017-09-13T23:09:24Z"
+      },
+      "2115": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5665,
+        "length": 412,
+        "ns": 1201,
+        "pageid": 2115,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5664,
+            "revid": 5665,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">YNot1989 wrote:<br />Post. The point of the Hakari-Hakari is to illustrate just how exceedingly rare it is for a civilization to survive long enough to develop faster than lite travel, and to postulate the worst case scenario where the species that achieves FTL outside of humanity is a bunch of tough as nails warlike megalomaniacs.</div>\nHumanity's greatest challenge yet. oohh I can't wait!",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-14T00:17:23Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170908033658/@comment-5590986-20170914001335",
+        "touched": "2017-09-14T00:17:23Z"
+      },
+      "2116": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Associated states"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6046,
+        "length": 49,
+        "ns": 6,
+        "pageid": 2116,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5666,
+            "revid": 6046,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Maps]]\n[[Category:Associated states]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:30:44Z"
+          }
+        ],
+        "title": "File:Association of East Asia.png",
+        "touched": "2017-11-08T00:10:06Z"
+      },
+      "2117": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6037,
+        "length": 18,
+        "ns": 6,
+        "pageid": 2117,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5695,
+            "revid": 6037,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Maps]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:28:19Z"
+          }
+        ],
+        "title": "File:East Asian Association.png",
+        "touched": "2017-11-08T00:10:06Z"
+      },
+      "2118": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5685,
+        "length": 133,
+        "new": "",
+        "ns": 1,
+        "pageid": 2118,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5685,
+            "slots": {
+              "main": {
+                "*": "Hakoda Halvidar died during Operation Sunrise (the Mexican nuclear attack anad invasion along the border). Come up with another name.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-15T21:28:01Z"
+          }
+        ],
+        "title": "Talk:Association of East-Asia/@comment-899576-20170915212800",
+        "touched": "2017-09-15T21:28:01Z"
+      },
+      "2119": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5686,
+        "length": 15,
+        "new": "",
+        "ns": 1,
+        "pageid": 2119,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5686,
+            "slots": {
+              "main": {
+                "*": "sry didn't know",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-15T22:03:05Z"
+          }
+        ],
+        "title": "Talk:Association of East-Asia/@comment-899576-20170915212800/@comment-5590986-20170915220305",
+        "touched": "2017-09-15T22:03:05Z"
+      },
+      "2120": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Associated states"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Person.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Iran.png"
+          }
+        ],
+        "lastrevid": 10761,
+        "length": 3728,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Abdul-Habibi Sarrans"
+          },
+          {
+            "ns": 0,
+            "title": "Associated state"
+          },
+          {
+            "ns": 0,
+            "title": "Conservative Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Demographics of Iran"
+          },
+          {
+            "ns": 0,
+            "title": "Earth"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Iran"
+          },
+          {
+            "ns": 0,
+            "title": "Hassan-Ali Estahfani"
+          },
+          {
+            "ns": 0,
+            "title": "Moham al-Ghorbani"
+          },
+          {
+            "ns": 0,
+            "title": "Muhammed Estahfani"
+          },
+          {
+            "ns": 0,
+            "title": "Politics of Iran"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Union Party (United States)"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2120,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6276,
+            "revid": 10761,
+            "slots": {
+              "main": {
+                "*": "{{Infobox country\n|conventional_long_name = Republic of Iran\n|national_motto = \n|national_anthem = \n|capital = Tehran\n|largest_city = Tehran\n|languages = English (official), Persian (de facto)\n|languages_type = National languages\n|languages2 = Azerbaijani, Kurdish, Georgian, Armenian\n|languages2_type = Regional languages\n|government_type = Federal presidential constitutional republic\n|leader_title1 = President\n|leader_name1 = Hassan-Ali Estahfani\n|legislature = Congress\n|upper_house = Consultative Assembly\n|lower_house = Guardian Council\n|established_event1 = Median Empire\n|sovereignty_type = Unification\n|established_event2 = Safavid Dynasty\n|established_date1 = 678 BCE\n|established_event3 =  Islamic Republic\n|established_date2 = 1501 \n|established_event4 = Free Association\n|established_date3 = April 1, 1979\n|established_date4 = December 4, 2140\n|area_rank = \n|area_sq_mi = \n|population_estimate = >103 Million\n|population_estimate_year = 2160\n|population_estimate_rank = \n|currency = United States Dollar (USD)\n|currency_code =\n|image_flag = Flag of Iran.png\n|image_map = \n|image_coat = \n|leader_title2 = Vice President\n|leader_name2 = Abol Sarrans }}\n\nThe '''Republic of Iran''' or '''Iran''' is an [[Associated state]] that fell under the influence of the United States in December 4, 2140 after the [[Third Mexican-American War]]. The United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas of Iran. \n\nIt was also the last country on [[Earth]] that became secularized.\n\n==History==\n==='''Early History'''===\n\n==='''Islamic Republic'''===\n\n\n=== '''Free Association''' ===\n\n\n==Demographics==\n\n==Politics==\n==='''Government'''===\n===='''President'''====\n\n{| class=\"wikitable\" style=\"text-align: center;\"\n|-\n! style=\"background:#C0C0C0; color:black;\" | №<br />\n! colspan=\"2\" style=\"background:#C0C0C0; color:black;\" | President\n! style=\"background:#C0C0C0; color:black;\" | Took office\n! style=\"background:#C0C0C0; color:black;\" | Left office\n! style=\"background:#C0C0C0; color:black;\" | Political Party\n! style=\"background:#C0C0C0; color:black;\" | Vice President\n! style=\"background:#C0C0C0; color:black;\" | Notes\n|-\n! style=\"background:{{Union Party (United States)/meta/color}};\" | {{color|white|1}}\n| [[File:Blank_Person.jpg|160x150px]]\n| '''[[Moham al-Ghorbani|Moham al-Ghorbani]]'''<br /><small>(2079–)</small>\n| December 4, 2140\n| August 3, 2141\n| [[Union Party (United States)|Union Party]]\n| Habibi Sarrans\n| style=\"width:30%;\" | <small> Last President of the Islamic Republic, became the first President of the Republic after joining the United States.</small>\n|-\n! style=\"background:{{Conservative Party (United States)/meta/color}};;\" | {{color|white|2}}\n| [[File:Blank_Person.jpg|160x150px]]\n| '''[[Muhammed Estahfani]]'''<br /><small>(2096–)</small>\n| August 3, 2141\n| August 3, 2145\n| [[Conservative Party (United States)|Conservative Party]]\n| Ali Estahfani\n| <small> notes </small>\n|-\n! style=\"background:{{Union Party (United States)/meta/color}};;\" | {{color|white|3}}\n| [[File:Blank_Person.jpg|160x150px]]\n| '''[[Abdul-Habibi Sarrans]]'''<br /><small>(2091–)</small>\n| August 3, 2145\n| August 3, 2153\n| [[Union Party (United States)|Union Party]]\n| Achmed Peshmir \n| <small> Notes. </small>\n|-\n! style=\"background:{{Conservative Party (United States)/meta/color}};;\" | {{color|white|4}}\n| [[File:Blank_Person.jpg|160x150px]]\n| '''[[Hassan-Ali Estahfani]]'''<br /><small>(2110–)</small>\n| August 3, 2153\n| Present\n| [[Conservative Party (United States)|Conservative Party]]\n| Abol Sarrans\n| <small>  Notes </small>\n|-\n|}\n\n=='''Administrative divisions'''==\n[[Category:Associated states]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2022-06-14T14:03:52Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative Party (United States)/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Union Party (United States)/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          }
+        ],
+        "title": "Iran",
+        "touched": "2022-06-14T14:03:52Z"
+      },
+      "2121": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Associated states"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Flag of Indonesia.png"
+          }
+        ],
+        "lastrevid": 6277,
+        "length": 140,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Associated state"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2121,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5705,
+            "revid": 6277,
+            "slots": {
+              "main": {
+                "*": "Indonesia is an [[associated state]] of the [[United States]].\n[[File:Flag of Indonesia.png|thumb|220x220px]]\n[[Category:Associated states]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-06T03:14:18Z"
+          }
+        ],
+        "title": "Indonesia",
+        "touched": "2017-10-06T03:14:18Z"
+      },
+      "2122": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Literature"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11965,
+        "length": 11372,
+        "links": [
+          {
+            "ns": 0,
+            "title": "A State of Merit"
+          },
+          {
+            "ns": 0,
+            "title": "American Empire"
+          },
+          {
+            "ns": 0,
+            "title": "Carla Anderson"
+          },
+          {
+            "ns": 0,
+            "title": "Conservative Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Corey Marshall"
+          },
+          {
+            "ns": 0,
+            "title": "Earth Working Group"
+          },
+          {
+            "ns": 0,
+            "title": "Fifth Great Awakening"
+          },
+          {
+            "ns": 0,
+            "title": "Fukuyama's Black Box"
+          },
+          {
+            "ns": 0,
+            "title": "Future of Datasize"
+          },
+          {
+            "ns": 0,
+            "title": "Generational Chaos"
+          },
+          {
+            "ns": 0,
+            "title": "Humanity's Garden"
+          },
+          {
+            "ns": 0,
+            "title": "Inevitable Tetrapods"
+          },
+          {
+            "ns": 0,
+            "title": "Inventing the Afterlife"
+          },
+          {
+            "ns": 0,
+            "title": "K'lerin"
+          },
+          {
+            "ns": 0,
+            "title": "Mars"
+          },
+          {
+            "ns": 0,
+            "title": "Non-Human Civil Rights Movement"
+          },
+          {
+            "ns": 0,
+            "title": "Other People"
+          },
+          {
+            "ns": 0,
+            "title": "Postnaturalism"
+          },
+          {
+            "ns": 0,
+            "title": "Second Depression"
+          },
+          {
+            "ns": 0,
+            "title": "Skinning the Elephant: The Life and Death of the Republican Party"
+          },
+          {
+            "ns": 0,
+            "title": "Starbound"
+          },
+          {
+            "ns": 0,
+            "title": "Sushi and Apple Pie"
+          },
+          {
+            "ns": 0,
+            "title": "Tanning the Donkey: The Life and Death of the Democratic Party"
+          },
+          {
+            "ns": 0,
+            "title": "The Aerophany"
+          },
+          {
+            "ns": 0,
+            "title": "The Crisis of Faith"
+          },
+          {
+            "ns": 0,
+            "title": "The Day They Took My Parents Away"
+          },
+          {
+            "ns": 0,
+            "title": "The End of Civilization"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "The Great Deluge"
+          },
+          {
+            "ns": 0,
+            "title": "The Refreeze"
+          },
+          {
+            "ns": 0,
+            "title": "The Sagittarius Explosion"
+          },
+          {
+            "ns": 0,
+            "title": "The Second Renaissance"
+          },
+          {
+            "ns": 0,
+            "title": "Third Manifest Destiny"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Through a Dark Mirror"
+          },
+          {
+            "ns": 0,
+            "title": "White Tide"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2122,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11180,
+            "revid": 11965,
+            "slots": {
+              "main": {
+                "*": "As has been the case throughout the history of the United States, the 21st and 22nd centuries saw the publication of numerous influential and popular literature, many of which played significant roles in the great social changes that characterized these eras, such as [[The Flood]], [[World War III]], and [[The Second Renaissance]]. From the late 21st century onward, a majority of books were published electronically. Here is a partial list of some of the most significant writings regarding state of the world from the early 21st century onward.\n\n==Political Science and International relations==\n* '''[[Skinning the Elephant: The Life and Death of the Republican Party]] '''(Susan Tuttle, 2034)-- Describes the series of circumstances that led to the fracturing and ultimate demise of the Republican party, from the Reagan era to its fatal shaming as a result of the [[White Tide]].\n* '''[[American Empire]] '''(Stephen Michaels, 2031)-- A geopolitical text putting forth the notion that, due to the Flood, the United States has become an \"unintentional empire\" and must start behaving in a more mature fashion befitting of such a nation.\n* '''[[Tanning the Donkey: The Life and Death of the Democratic Party |Tanning the Donkey: The Life and Death of the Democratic Party]]''' (Sasha Megumi, 2034) -- Created in conjunction with 'Skinning the Elephant', the book describes the series of circumstances that led to the rise of competing factions and the ultimate fracturing of the Democrat party after the fall of the Republican party. The book describes the Clinton Era to the last pitch of Julian Castro in 2032.\n* '''[[A State of Merit]]''' (Brandon Tran, 2037) -- A political manifesto that would be the basis of many post-flood policies that would define the early identity [[Conservative Party (United States)|Conservative Party]] of the United States before the Lachman Era.\n* '''[[Sushi and Apple Pie]] '''([[Carla Anderson]], 2087) -- An autobiography by ex-President Carla Anderson detailing her entry into politics, her complex feelings about World War III, and her role in rebuilding relationships with Japan. The title refers to her relationship with Heather Suzuki, a Japanese-American who was killed in the Thanksgiving Attacks. The book is widely considered a classic by young liberals, well into the 22nd century.\n* '''[[Third Manifest Destiny]]''' (2130) -- This book outlines recent American acquisitions and predicts the creation of two future doctrines in relation to the first manifest destiny, which was conceived in 1845. The book describes the Second Manifest Destiny (which was currently ongoing) as the eventual American expansion and complete pacification of Earth, bringing forth new technologies that can improve the global population. While the Third Manifest Destiny (the author claims as the final Manifest Destiny) describes American expansion and exploration of outer space, along with the human race's pacification and assisted ascension of extraterrestrial species. Some claim the book to be the inspiration of US President Lionel Halvidar's policy to unite Earth.\n* '''[[Fukuyama's Black Box]] '''(2159)-- (Dr. Václav Andor)-- Discusses the implications for the future of a completely American-dominated world with few, if any, rival powers. Andor's analysis focuses on the similarities between contemporary 22nd-century geopolitics and the theories of 20th century political scientist Francis Fukuyama, who famously (but incorrectly) predicted that the end of the Cold War would result in \"the end of history,\" and a world dominated by a western neo-liberal government.\n\n==History and Economics==\n* '''[[Starbound]]''' (Dr. Amelia Firenze, 2043) -- Describes the invention and evolution of early terran space travel along with several scenarios and short stories of possible events leading up to and the results from its invention. It was influential to the creation of one of the first versions of the space warp drive.\n* '''[[The Great Deluge]]''' (Dr. Nate Valdez, 2033) -- A scientific and sociological analysis of the Flood ending with several proposals of various solutions. Many of these proposals would go on to be the basis of several goals of the [[Earth Working Group]]. The term 'Great Deluge' was also popularized by the book.\n* '''[[Generational Chaos]]''' (Dr. Yazmin Bhattaru, 2071) -- An in depth breakdown of the phenomenon of economic and institutional cycles of American generations, and a prediction of two coming generational cycles that proved to be the most accurate predictions of the [[Second Depression]] and the [[Third Mexican-American War]]. Bhattaru offered several deviations from the Strauss–Howe generational theory and the Friedman generational theory, but most significantly was her thesis on how institutional cycles would last much longer as a result in the increase in human lifespans. Claiming the current cycle that began around 2020 would last 100 years, not the usual 80. And the next cycle would most likely last closer to 200 years.\n\n==Science==\n* '''[[Other People]]''' (2048) -- Considered the most foundational work on non-human personhood. It rejected many ideas around personhood, particularly brain size, sentience, sapience, and environmental manipulation as singular qualifiers. The book summarized research into the sociology and neuroscience research of apes, cetaceans, cephalopods, corvids, elephants, and other organisms.  It established an emergent theory of personhood that would go on to heavily influence NASA's First Contact protocols, animal rights movements, and the [[Non-Human Civil Rights Movement]].\n* '''[[The Sagittarius Explosion]]''' (2097) -- Lays out the theory that Sagittarius A* or Sgr A* was last active some ~550 million years ago, as that has been the furthest back complex multi-cellular life has been identified on any of the exoplanets humans have encountered. It is believed that Sgr A* produced sufficient radiation that it effectively made it impossible for life to advance beyond the single celled stage in the deep oceans or under a planet's crust. A counterpoint has been pushed, arguing that Sgr A*'s last cycle of activity may have actually been the trigger for life to advance beyond a single celled phase across the galaxy, by creating mutations at scales and speeds not previously attainable. The book's theories were hotly debated even after 30 years of interstellar exploration, but by the mid 2110s it had been widely accepted across the scientific community that Sgr A*'s last cycle of activity is somehow connected to the nearly universal \"state date\" for advanced life in the Milky Way.\n* '''[[Inevitable Tetrapods|Inevitable Tetrapods]]''' (University of New Virginia, 2113) -- A composition of various theories attempting to explain the commonality of tetrapod-esque (four-limbed) body plans on planets with complex animal-like life. It studies convergent evolution in complex alien life across the stars, particularly those that are coincidentally tetrapod-esque.\n* '''[[Future of Datasize]] '''(Rick Esteban, 2028) -- A book analyzing the future of growth of the size of digital information beyond the Petabyte age of common computers. The book was known to popularize several terms for units of digital information beyond Yottabytes (1024^8 bytes) such as brontobyte (1024^9 bytes) or even Coperbytes  (1024^30 bytes)\n* '''[[The End of Civilization]] '''(2148) -- (Prof. Mamoru White) -- Builds on the work of Robin Hanson in the early 21st century, specifically the \"Hard Steps Model.\" White identifies several great filters/hard steps based on various studies of planets with dead civilizations or civilizations with histories of repeated destruction and rebirth. Also suggests that interstellar civilization is not an inherent guarantee of survivability. White concludes that humanity must be the first successful interstellar civilization.\n\n==Philosophy==\n*'''[[The Aerophany]]''' -- A religious text published in the early days of human colonization of [[Mars]], outlining humanity's place in the universe and laying the foundations for the religious traditions of the Aerophanic faiths. The book established the concept of gods as an act of collective thoughtform, and influenced the [[Fifth Great Awakening]] in its concepts on a post-theist religious structure.\n*'''[[The Crisis of Faith]]''' -- An anthropological study of the origins of religious thought, both historically and on an individual basis. One of the most controversial books of the 2040s, the book offers a theory that depression and anxiety are the true origins of religion, rather than purported spiritual experiences, or the fear of death. The author argues that depression and anxiety stem from the fact that to live without a God or church is to place the full burden of one's destiny on the individual and those around them, whereas religion offers a guaranteed community and a protector figure that removes some of the sense of risk and personal responsibility from life.\n\n* '''[[Humanity's Garden]]''' (Peter Shay, 2029)-- A treatise on [[Postnaturalism]], which argued for humanity to directly intervene rather than simply setting aside protected areas when conserving endangered species and habitats.\n\n*'''[[Inventing the Afterlife]]''' -- A pseudo-scientific treatise by futurist Daymond Ma outlining the concept of \"Quantum Resurrection.\" Ma argues that as humans become more proficient with quantum entanglement technologies, specifically the chronoscope, it will become possible to resurrect every person who has ever lived by transporting their minds at the moment of death to the present, effectively creating a digital afterlife.\n\n==Fiction==\n* '''[[The Second Renaissance ]]'''(Sean McKnight, 2027) -- A novel taking the form of a future timeline, describing a possible future for the United States and the rest of the world along with Humanity's journey across the stars. It was famously known for accurately predicting the future.\n* '''[[Through a Dark Mirror]] (2160)''' - An alternate future history novel set in a world where Lionel Halvidar dies during the Guardiolla Incident. The Union Party is never consolidated and Masie Luong and the \"Independence Party\" become a mainstream political movement that leads to Martian Independence in the 2120s. The Third Mexican War ends in the defeat of the United States and a new era of prolonged hostility between Mars and a Mexican empire over the Western Hemisphere of Earth lasts through the 24th Century.\n* '''[[The Day They Took My Parents Away]] '''(Julio Suarez, 2092) -- A popular but controversial children's book telling the story of a fictional, anonymous, 4-year-old Hispanic girl who loses her mother and father in the Lachman deportations. While a bestseller, it was heavily criticized for its perceived \"anti-American\" stance, and many libraries in conservative states banned it.\n*'''The Brickhead Brothers Trilogy''' ([[Corey Marshall]], 2055-2063)-- A series of satirical comedy novels published by infamous political cartoonist Corey Marshall, featuring a pair of dim-witted young men who, through sheer ignorance, become involved in various famous contemporary events (the [[World War III|Third World War]], the [[The Refreeze|Refreeze]], and first contact with the [[K'lerin]]). Later adapted into a trilogy of adult animated films. \n[[Category:Literature]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2026-01-11T23:39:11Z"
+          }
+        ],
+        "title": "Notable Literature",
+        "touched": "2026-01-11T23:39:11Z"
+      },
+      "2123": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5720,
+        "length": 32,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Notable Literature"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 2123,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5720,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Notable Literature]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-19T20:23:09Z"
+          }
+        ],
+        "title": "Notable Books",
+        "touched": "2026-01-11T23:39:12Z"
+      },
+      "2124": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5731,
+        "length": 174,
+        "ns": 1,
+        "pageid": 2124,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5728,
+            "revid": 5731,
+            "slots": {
+              "main": {
+                "*": "Maybe you could put Seth Moulton as a Vice President during the first term but it was switched to John Bel Edwards on the second which causes a fracture by the 2024 election?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-19T21:01:15Z"
+          }
+        ],
+        "title": "Talk:Cory Booker/@comment-5590986-20170919205008",
+        "touched": "2017-09-19T21:01:15Z"
+      },
+      "2125": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5729,
+        "length": 33,
+        "new": "",
+        "ns": 1,
+        "pageid": 2125,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5729,
+            "slots": {
+              "main": {
+                "*": "Let's leave it to YNot to decide.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-19T20:52:44Z"
+          }
+        ],
+        "title": "Talk:Cory Booker/@comment-5590986-20170919205008/@comment-30470028-20170919205244",
+        "touched": "2017-09-19T20:52:45Z"
+      },
+      "2126": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5730,
+        "length": 2,
+        "new": "",
+        "ns": 1,
+        "pageid": 2126,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5730,
+            "slots": {
+              "main": {
+                "*": "ok",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-19T21:00:53Z"
+          }
+        ],
+        "title": "Talk:Cory Booker/@comment-5590986-20170919205008/@comment-5590986-20170919210052",
+        "touched": "2017-09-19T21:00:53Z"
+      },
+      "2127": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Map of New Virginia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:New Virginia Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:New Virginia Seal.png"
+          }
+        ],
+        "lastrevid": 8529,
+        "length": 6423,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Coat of arms of New Virginia"
+          },
+          {
+            "ns": 0,
+            "title": "Demographics of New Virginia"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of New Virginia"
+          },
+          {
+            "ns": 0,
+            "title": "Flora and Fauna of Mars"
+          },
+          {
+            "ns": 0,
+            "title": "ISO 4217"
+          },
+          {
+            "ns": 0,
+            "title": "List of countries by population"
+          },
+          {
+            "ns": 0,
+            "title": "Mars"
+          },
+          {
+            "ns": 0,
+            "title": "New Virginian people"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2127,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5747,
+            "revid": 8529,
+            "slots": {
+              "main": {
+                "*": "{{Infobox country\n|conventional_long_name = State of New Virginia\n|national_motto = \"Sic Itur Ad Astra\"\n|national_anthem = \n|capital = Aram\n|largest_city = New Richmond\n|languages = English (de facto)\n|demonym = New Virginian\n|languages_type = \n|lang_others= Chinese, Tamil, Bengal, Japanese, French, Spanish, etc.\n|government_type =\n|leader_title1 = Governor\n|leader_name1 = Chandri Wei\n|legislature = New Virginia State Legislature\n|upper_house = Senate\n|lower_house = State Assembly\n|established_event1 = Formation \n|sovereignty_type = Admitted to the Union\n|established_date1 = December 1, 2134\n|area_rank =\n|area_sq_mi = \n|population_estimate = 44,934,231\n|population_estimate_year = 2160\n|population_estimate_rank = 1st\n|currency = United States dollar ($)\n|currency_code = USD\n|image_flag = New_Virginia_Flag.png\n|image_coat = New_Virginia_Seal.png\n|image_map = Map_of_New_Virginia.png\n|leader_title2 = Lieutenant Governor\n|leader_name2 = Kim C. Hotchkiss\n}}\n'''New Virginia''' is a state in the Chryse Sound region of [[Mars]] located between just North of the Margartifer lowlands. New Virginia is nicknamed the \"Gateway to Mars\" because of its status as the home state of the first and by far the most developed space elevator. The geography and climate of the State are shaped by the lowland plains and marshlands of the Aram peninsula, which provide habitat for much of its [[Flora and Fauna of Mars|flora and fauna]]. The capital of the State is Aram; New Richmond is the most populous city, and Praxis County is the most populous political subdivision. The State's estimated population as of 2160 is over 44.9 million.\n\n==History==\nOne of the original Martian colonies, New Virginia was first settled in 2031 by the Praxis Group, a collection of venture capitalists hoping to capitalize on the value of the Margaritifer lowlands that would form an equatorial peninsula once terraforming gifted Mars with Oceans. Its first settlement of New Richmond would go on to become one of the most important settlements on Mars after the construction of the first space elevator just outside of settlement proper in 2039. The Praxis Group aggressively pushed for greater expansion of the Mars Transit Network from New Richmond, which became a central hub for new settlers seeking lives across the planet. Naturally, many simply chose to remain in New Richmond and serve the needs of the millions that would descend from the elevator.\n\nIn many respects, the First Martian Revolution was born in New Virginia. Where most of Mars's founding corporations had ceded more and more power to the populace throughout the first half of the 21st Century, the Praxis Group maintained private control of the New Richmond Elevator and the colony itself, leveraging its position as the primary landing site and interplanetary trade port to always be exempt from MarsCorp reforms. When Martians began to formally call for Representation in the US Congress it was in New Virginia where the first calls were made, not by Praxis, but by the Delegation of New Richmond, an unrecognized political group that had been quietly gathering support with the other colonies for some time. However, where most of the colonies who joined in the calls for representation did so out of a desire to see their new citizens granted all the rights and privileges they had done without for so long, the Delegation had an ulterior motive: to unseat the Hegemony of the Praxis Group before the Second Wave began. When MarsCorp Chairman Kanzaki, a former CEO of Praxis, announced the plan to impose planet wide fees on products imported from Earth and travel between the territories, Mars finally spoke up. Protests, boycotts, and strikes broke out planet-wide, and Mars seemed poised for Revolution against MarsCorp, and potentially the United States on Earth. But it was Praxis where the only real hatred was directed. Fighting between colonists and Praxis security forces broke out whenever a protest was held and assemblies were often broken up by raids. In 2078 members of the Delegation held one of the largest sit-ins in recorded history. 25,000 people surrounded the base of the New Richmond Elevator and stopped all unloading and loading of the most critical supply line for Mars. With freeze packed food from shipping containers at their disposal, and a wall of people that the security forces could not penetrate, the protest lasted months. MarsCorp's shareholders were reeling from profit losses and the potential loss on their territorial claims, Galileo Development's President, Adrian Hayer proposed a solution. Galileo Development was an offshoot of Lunar Energy Ltd, and while it did not have a direct stake in MarsCorp, it had been shipping Nitrogen down system from Titan to Mars for four decades. Through LE, Galileo agreed to broker a deal with the colonists and Earth, and purchase 35% of MarsCorp's holdings, in exchange for continued trade between the colonies. Praxis agreed, and ceded all claims to New Virginia to the newly created Interplanetary Trade Commission. Praxis would only hold ownership of a financial district in the heart of New Richmond. To prevent any future monopolization of trade, the first order of the ITC was the creation of 12 additional elevators, and improvements to the existing three outside of New Richmond.\n\nThe New Virginia Colony was partitioned in 2085, but the core of the colony around the New Richmond Elevator remained intact. By 2100 New Richmond surpassed every city in the system for size and population; despite its new competition with the other elevators, most colonists still came through New Richmond. The terraforming process left the peninsula in a perfect position for colonists to easily reach the fertile coats of Araby and the farmland stretching from the Chryse Gulf to the Argyre Sea. The wealth of Mars all flowed through New Richmond and New Virginia prospered, so much so that when the Luongists tried to gain a foothold in the colony where the first Revolution had started, they found no support for as Second. New Virginia was comfortable and sought integration over separation. When the first calls for statehood went out in 2134, New Virginia was one of the first to be accepted to join the Union along with 50 other territories across the system. And when the call for colonial reinforcements came down, it was from New Richmond that they ascended to help.\n[[Category:Mars]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-10-03T05:18:24Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          }
+        ],
+        "title": "New Virginia",
+        "touched": "2019-01-25T19:04:50Z"
+      },
+      "2128": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Coats of arms"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mars"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5797,
+        "length": 45,
+        "ns": 6,
+        "pageid": 2128,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5796,
+            "revid": 5797,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Coats of arms]]\n[[Category:Mars]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T15:53:06Z"
+          }
+        ],
+        "title": "File:New Virginia Seal.png",
+        "touched": "2017-11-08T00:11:42Z"
+      },
+      "2129": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mars"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6127,
+        "length": 36,
+        "ns": 6,
+        "pageid": 2129,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5737,
+            "revid": 6127,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Mars]]\n[[Category:Maps]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:52:17Z"
+          }
+        ],
+        "title": "File:Map of New Virginia.png",
+        "touched": "2017-11-08T00:11:42Z"
+      }
+    }
+  }
+}

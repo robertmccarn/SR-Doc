@@ -1,0 +1,42 @@
+The list of minor military conflicts within the universe of the [[Second Renaissance Wikia|Second Renaissance]].   
+{| class="article-table" style="width: auto;" border="0" cellpadding="1" cellspacing="1"
+|-
+! scope="col" |Conflict
+! scope="col" |Year(s)
+! scope="col" style="width: 150px;" |Side 1
+! scope="col" style="width: 150px;" |Side 2
+! scope="col" |Result
+|-
+|[[User:SolaceEaSw/ManchurianRebellions|Manchurian Rebellions]]
+|2057-2065
+|
+*Manchuria
+----
+*Japan 
+*Mongolia
+*Mongol Republic
+|
+*China
+----
+*United States
+*Korea
+|Sino-Allied Victory
+*Manchurian rebellions suppressed
+*Re-institution of Manchuria into China
+|-
+|[[User:SolaceEaSw/ArabianAssyrianWar|Arabian-Assyrian War]]
+|2064-2071
+|
+*[[File:Flag of Assyria.png|25px]] Assyria
+*[[File:Flag of Iran-0.png|25px]] Iran
+*[[File:Flag of Lebanon-0.png|25px]] Lebanon
+|
+*[[File:Flag of Saudi Arabia.png|25px]] Arabia
+*[[File:Flag of Aden-0.png|25px]] Aden
+*[[File:Flag of Oman.png|25px]] Oman
+*[[File:Flag of Qatar.png|25px]] Qatar
+*[[File:Flag of the United Arab Emirates.png|25px]] UAE
+|Assyrian Victory
+*[[Treaty of Mosul]]
+*Territorial changes.
+|}

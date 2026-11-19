@@ -1,0 +1,2053 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "2541": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7298,
+        "length": 226,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Spain/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2541,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7298,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Spain\n| flag alias = Flag_of_Spain.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:47:16Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Spain/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Spain",
+        "touched": "2018-02-04T19:47:16Z"
+      },
+      "2542": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7299,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2542,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7299,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:47:28Z"
+          }
+        ],
+        "title": "File:Flag of South Sudan.png",
+        "touched": "2018-02-04T20:00:55Z"
+      },
+      "2543": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7300,
+        "length": 238,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data South Sudan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2543,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7300,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = South Sudan\n| flag alias = Flag_of_South_Sudan.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:47:36Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data South Sudan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data South Sudan",
+        "touched": "2018-02-04T19:47:36Z"
+      },
+      "2544": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7301,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2544,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7301,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:49:52Z"
+          }
+        ],
+        "title": "File:Flag of South Africa.png",
+        "touched": "2018-02-15T11:00:27Z"
+      },
+      "2545": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7302,
+        "length": 240,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data South Africa/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2545,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7302,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = South Africa\n| flag alias = Flag_of_South_Africa.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:49:58Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data South Africa/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data South Africa",
+        "touched": "2018-02-04T19:49:58Z"
+      },
+      "2546": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7303,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2546,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7303,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:50:05Z"
+          }
+        ],
+        "title": "File:Flag of the Solomon Islands.png",
+        "touched": "2018-02-15T11:00:27Z"
+      },
+      "2547": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7304,
+        "length": 250,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Solomon Islands/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2547,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7304,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Solomon Islands\n| flag alias = Flag_of_the_Solomon_Islands.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:50:11Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Solomon Islands/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Solomon Islands",
+        "touched": "2018-02-04T19:50:11Z"
+      },
+      "2548": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7305,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2548,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7305,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:51:11Z"
+          }
+        ],
+        "title": "File:Flag of Slovenia.png",
+        "touched": "2021-05-09T06:14:28Z"
+      },
+      "2549": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7306,
+        "length": 232,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Slovenia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2549,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7306,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Slovenia\n| flag alias = Flag_of_Slovenia.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:51:17Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Slovenia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Slovenia",
+        "touched": "2018-02-04T19:51:17Z"
+      },
+      "2550": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7307,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2550,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7307,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:51:22Z"
+          }
+        ],
+        "title": "File:Flag of Somalia.png",
+        "touched": "2018-02-04T20:06:06Z"
+      },
+      "2551": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7308,
+        "length": 230,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Somalia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2551,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7308,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Somalia\n| flag alias = Flag_of_Somalia.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:51:28Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Somalia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Somalia",
+        "touched": "2018-02-04T19:51:29Z"
+      },
+      "2552": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7311,
+        "length": 202,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Austria/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2552,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7311,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Austria\n| flag alias = Flag_of_Austria.jpg\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:39:34Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Austria/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Austria",
+        "touched": "2018-02-04T20:39:34Z"
+      },
+      "2553": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7312,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2553,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7312,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:43:49Z"
+          }
+        ],
+        "title": "File:Flag of Armenia.png",
+        "touched": "2018-02-04T21:01:39Z"
+      },
+      "2554": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7313,
+        "length": 202,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Armenia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2554,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7313,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Armenia\n| flag alias = Flag_of_Armenia.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:43:55Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Armenia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Armenia",
+        "touched": "2018-02-04T20:43:55Z"
+      },
+      "2555": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7314,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2555,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7314,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:44:11Z"
+          }
+        ],
+        "title": "File:Flag of Aruba.png",
+        "touched": "2018-02-04T21:01:42Z"
+      },
+      "2556": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7315,
+        "length": 198,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Aruba/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2556,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7315,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Aruba\n| flag alias = Flag_of_Aruba.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:44:19Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Aruba/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Aruba",
+        "touched": "2018-02-04T20:44:19Z"
+      },
+      "2557": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7316,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2557,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7316,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:44:35Z"
+          }
+        ],
+        "title": "File:Flag of Azerbaijan.png",
+        "touched": "2018-02-04T21:02:52Z"
+      },
+      "2558": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7317,
+        "length": 208,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Azerbaijan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2558,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7317,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Azerbaijan\n| flag alias = Flag_of_Azerbaijan.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:44:43Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Azerbaijan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Azerbaijan",
+        "touched": "2018-02-04T20:44:43Z"
+      },
+      "2559": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7318,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2559,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7318,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:47:56Z"
+          }
+        ],
+        "title": "File:Flag of Bahrain.png",
+        "touched": "2018-02-15T11:35:46Z"
+      },
+      "2560": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7319,
+        "length": 202,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Bahrain/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2560,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7319,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Bahrain\n| flag alias = Flag_of_Bahrain.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:48:01Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Bahrain/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Bahrain",
+        "touched": "2018-02-04T20:48:01Z"
+      },
+      "2561": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7320,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2561,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7320,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:48:22Z"
+          }
+        ],
+        "title": "File:Flag of Bangladesh.png",
+        "touched": "2018-02-15T11:35:49Z"
+      },
+      "2562": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7321,
+        "length": 208,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Bangladesh/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2562,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7321,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Bangladesh\n| flag alias = Flag_of_Bangladesh.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:48:30Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Bangladesh/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Bangladesh",
+        "touched": "2018-02-04T20:48:30Z"
+      },
+      "2563": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7322,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2563,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7322,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:48:53Z"
+          }
+        ],
+        "title": "File:Flag of Barbados.png",
+        "touched": "2018-02-04T21:06:39Z"
+      },
+      "2564": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7323,
+        "length": 204,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Barbados/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2564,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7323,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Barbados\n| flag alias = Flag_of_Barbados.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:48:58Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Barbados/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Barbados",
+        "touched": "2018-02-04T20:48:59Z"
+      },
+      "2565": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7324,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2565,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7324,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:49:16Z"
+          }
+        ],
+        "title": "File:Flag of Belarus.png",
+        "touched": "2018-02-04T21:07:54Z"
+      },
+      "2566": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7325,
+        "length": 202,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Belarus/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2566,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7325,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Belarus\n| flag alias = Flag_of_Belarus.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:49:23Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Belarus/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Belarus",
+        "touched": "2018-02-04T20:49:23Z"
+      },
+      "2567": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7326,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2567,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7326,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:50:28Z"
+          }
+        ],
+        "title": "File:Flag of Belgium.png",
+        "touched": "2021-05-09T06:14:28Z"
+      },
+      "2568": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7327,
+        "length": 202,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Belgium/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2568,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7327,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Belgium\n| flag alias = Flag_of_Belgium.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:50:36Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Belgium/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Belgium",
+        "touched": "2018-02-04T20:50:36Z"
+      },
+      "2569": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7328,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2569,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7328,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:50:51Z"
+          }
+        ],
+        "title": "File:Flag of Benin.png",
+        "touched": "2018-02-15T11:35:42Z"
+      },
+      "2570": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7329,
+        "length": 198,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Benin/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2570,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7329,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Benin\n| flag alias = Flag_of_Benin.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:50:57Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Benin/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Benin",
+        "touched": "2018-02-04T20:50:57Z"
+      },
+      "2571": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7330,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2571,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7330,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:51:09Z"
+          }
+        ],
+        "title": "File:Flag of Bermuda.png",
+        "touched": "2018-02-15T11:35:50Z"
+      },
+      "2572": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7331,
+        "length": 202,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Bermuda/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2572,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7331,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Bermuda\n| flag alias = Flag_of_Bermuda.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:51:16Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Bermuda/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Bermuda",
+        "touched": "2018-02-04T20:51:16Z"
+      },
+      "2573": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7332,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2573,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7332,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:51:27Z"
+          }
+        ],
+        "title": "File:Flag of Bhutan.png",
+        "touched": "2018-02-04T21:09:10Z"
+      },
+      "2574": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7333,
+        "length": 200,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Bhutan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2574,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7333,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Bhutan\n| flag alias = Flag_of_Bhutan.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:51:33Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Bhutan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Bhutan",
+        "touched": "2018-02-04T20:51:33Z"
+      },
+      "2575": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7334,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2575,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7334,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:52:03Z"
+          }
+        ],
+        "title": "File:Flag of Bosnia and Herzegovina.png",
+        "touched": "2021-09-14T06:38:33Z"
+      },
+      "2576": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7335,
+        "length": 216,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Bosnia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2576,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7335,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Bosnia\n| flag alias = Flag_of_Bosnia_and_Herzegovina.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:52:09Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Bosnia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Bosnia",
+        "touched": "2018-02-04T20:52:09Z"
+      },
+      "2577": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7336,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2577,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7336,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:52:18Z"
+          }
+        ],
+        "title": "File:Flag of Botswana.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2578": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7337,
+        "length": 204,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Botswana/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2578,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7337,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Botswana\n| flag alias = Flag_of_Botswana.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:52:24Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Botswana/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Botswana",
+        "touched": "2018-02-04T20:52:24Z"
+      },
+      "2579": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7346,
+        "length": 48,
+        "new": "",
+        "ns": 1,
+        "pageid": 2579,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7346,
+            "slots": {
+              "main": {
+                "*": "So this is basically  futuristic plastic surgery",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-06T22:29:37Z"
+          }
+        ],
+        "title": "Talk:Genetic Engineering/@comment-90.255.60.141-20180206222937",
+        "touched": "2018-02-06T22:29:37Z"
+      },
+      "2580": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7347,
+        "length": 58,
+        "new": "",
+        "ns": 1,
+        "pageid": 2580,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7347,
+            "slots": {
+              "main": {
+                "*": "Perfect humans today could be the ugly ones in the future.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-07T00:01:40Z"
+          }
+        ],
+        "title": "Talk:Genetic Engineering/@comment-90.255.60.141-20180206222937/@comment-5590986-20180207000140",
+        "touched": "2018-02-07T00:01:40Z"
+      },
+      "2581": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States Congress"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11034,
+        "length": 3336,
+        "links": [
+          {
+            "ns": 0,
+            "title": "House of Representatives"
+          },
+          {
+            "ns": 0,
+            "title": "Politics of United States Congress"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "United States Capitol"
+          },
+          {
+            "ns": 0,
+            "title": "Washington, D.C."
+          }
+        ],
+        "ns": 0,
+        "pageid": 2581,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11032,
+            "revid": 11034,
+            "slots": {
+              "main": {
+                "*": "{{Infobox country\n|image_flag = \n|image_map = \n|conventional_long_name = United States Congress\n|national_motto = \n|national_anthem = \n|capital = \n|largest_city = \n|languages = \n|languages_type = \n|government_type = 185th Congress (2159-2161)\n|upper_house = Senate\n|lower_house = House of Representatives\n|leader_title1 = President of the Senate & Vice President\n|leader_name1 = Horace Fitzgerald (NR)\n|leader_title2 = Speaker of the House \n|leader_name2 = Cadance Ordin (NR)\n|leader_title3 = President pro tem\n|leader_name3 = Babeli Haigs (NR)\n|legislature = Bicameral\n|established_event1 = Formation \n|sovereignty_type = Formation\n|established_date1 = March 4, 1789\n|area_rank = \n|area_sq_mi = \n|population_estimate = \n|population_estimate_year = \n|population_estimate_rank = \n|currency = \n|currency_code = \n\n}}The '''United States Congress''' is the bicameral legislature of the federal government of the [[United States]] consisting of two chambers: the Senate and the House of Representatives.\n\nThe Congress meets in the [[United States Capitol]] in [[Washington, D.C.]] Both senators and representatives are chosen through direct election, though vacancies in the Senate may be filled by a gubernatorial appointment. Congress has over 1016 voting members: About 1000 Representatives and 16 Senators. The number of members in Congress had once peaked to over 1500, but due to the establishment of the U.S. Planetary Commonwealths in 2133, the number of senators had been reduced to represent the Commonwealths rather than states. The current Congress is the 185th US Congress.\n\nThe members of the [[House of Representatives]] serve two-year terms, with a maximum of 6, representing the people of a single constituency, known as a \"district\". Congressional districts are apportioned to states by population using the United States Census results, provided that each state has at least one congressional representative. Each state, regardless of population or size, has two senators. Currently, there are 16 senators representing the 8 Planetary Commonwealths. Each senator is elected at-large in their state for a six-year term at a maximum of 2, with terms staggered, so every two years approximately one-third of the Senate is up for election.\n\nTo be eligible for election, a candidate must be aged at least 25 (House) or 30 (Senate), have been a citizen of the United States for seven (House) or nine (Senate) years, and be an inhabitant of the state which they represent.\n\nThe Congress was created by the Constitution of the United States and first met in 1789, replacing in its legislative function the Congress of the Confederation. Although not legally mandated, in practice since the 19th century. The 172nd Congress (2133-2135) has passed reforms that led to the creation of the 4 Tiered Republic in 2133 with the 35th Amendment. It establishes Planetary Commonwealths as an intermediate level of government between states and the federal government and replaced states represented in congress with planetary commonwealths. Each planet has their own houses of Congress that act as an off Earth extension of the US Congress. In almost all cases, executive and legislative officials are elected by a plurality vote of citizens. There is no proportional representation at the federal level.\n[[Category:United States Congress]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-01-15T08:19:47Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox country"
+          }
+        ],
+        "title": "United States Congress",
+        "touched": "2023-01-15T08:19:47Z"
+      },
+      "2582": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7355,
+        "length": 220,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Sidebar with collapsible lists/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2582,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7355,
+            "slots": {
+              "main": {
+                "*": "{{#invoke: Sidebar | collapsible }}<noinclude>\n{{documentation}}\n<!-- Please add category and language links to the section at the bottom of [[Template:Sidebar with collapsible lists/doc]] page, not here -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-09T18:25:55Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Sidebar with collapsible lists/doc"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:No globals"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Sidebar"
+          }
+        ],
+        "title": "Template:Sidebar with collapsible lists",
+        "touched": "2018-02-09T18:25:56Z"
+      },
+      "2583": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:History navigational boxes"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7360,
+        "length": 1812,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Great Reset"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Seventh Party System"
+          },
+          {
+            "ns": 0,
+            "title": "Space Age"
+          },
+          {
+            "ns": 0,
+            "title": "Terran diaspora"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Timeline of major events"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 10,
+        "pageid": 2583,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7358,
+            "revid": 7360,
+            "slots": {
+              "main": {
+                "*": "{| style=\"clear:right; float:right; width:19.0em; margin-left:1.0em; padding:0.2em; border:1px solid #000000; background:#f2f2f2; font-size:90%; text-align:center; line-height:1.4em;\" cellspacing=\"0\" cellpadding=\"2\"\n|-\n|style=\"background:white; font-size:85%; line-height:1.8em;\"|\n<span style=\"font-size:155%;\">'''Periods in [[United States of America|United States]] history'''</span>\n|-\n|style=\"padding:0.2em 0.5em;\"|\n {{aligned table|fullwidth=y|leftright=y|cols=2|nowrap2=y\n  |[[Wikipedia:Colonial history of the United States|Colonial era]]| 1607–1775\n  |[[Wikipedia:American Revolution|American Revolution]]| 1765–1783\n  |[[Wikipedia:Confederation Period|Confederation]]| 1783–1788\n  |[[Wikipedia:Federalist Era|Federalist Era]]| 1788–1801\n  |[[Wikipedia:Jeffersonian democracy|Jeffersonian Era]]|1801–1825\n  |[[Wikipedia:Jacksonian democracy|Jacksonian Era]]|1825–1849\n  |[[Wikipedia:American Civil War|Civil War]] Era| 1849–1865\n  |[[Wikipedia:Reconstruction Era|Reconstruction]]| 1865–1877\n  |[[Wikipedia:Gilded Age|Gilded Age]]| 1877–1897\n  |[[Wikipedia:Progressive Era|Progressive Era]]| 1897–1920\n  |[[Wikipedia:Great Depression in the United States|Great Depression]]| 1929–1939\n  |[[Wikipedia:World War II|World War II]]| 1941–1945\n  |[[Wikipedia:Cold War|Amero-Soviet Cold War]]| 1945–1989\n  |[[Wikipedia:Reagan Era|Reagan Era]]| 1981–2009\n  |[[Great Reset]] | 2009-2027\n  |[[Seventh Party System|New Progressive Era]] | 2027-2051\n  |[[World War III]] | 2051-2055\n  |[[Space Age]] | 2055-2092\n  |[[Mexican-American Cold War|Mex-Amero Cold War]] | 2092-2132\n  |[[Third Mexican-American War|Third Mexican War]] |2132-2139\n  |[[Terran diaspora]] |2139-Present\n}}\n|-\n|[[Timeline of major events|Timeline]]\n|}<noinclude>\n\n[[Category:History navigational boxes]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-09T18:55:59Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Aligned table"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Aligned table"
+          }
+        ],
+        "title": "Template:Periods in US history",
+        "touched": "2021-03-29T19:41:22Z"
+      },
+      "2584": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7367,
+        "length": 361,
+        "new": "",
+        "ns": 1,
+        "pageid": 2584,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7367,
+            "slots": {
+              "main": {
+                "*": "Here's a thought. The US adopts an updated version of the French style of Presidential elections, where as many candidates as you like can run in what is essentially a national-primary election, and the top two get to run in the General, only this time the primary election uses approval voting to down select the number of candidates to the two most agreeable.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-12T00:48:51Z"
+          }
+        ],
+        "title": "Talk:United States presidential election, 2028/@comment-899576-20180212004851",
+        "touched": "2018-02-12T00:48:51Z"
+      },
+      "2585": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7368,
+        "length": 38,
+        "new": "",
+        "ns": 1,
+        "pageid": 2585,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7368,
+            "slots": {
+              "main": {
+                "*": "That is the system used in California.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-12T01:07:39Z"
+          }
+        ],
+        "title": "Talk:United States presidential election, 2028/@comment-899576-20180212004851/@comment-27084453-20180212010739",
+        "touched": "2018-02-12T01:07:39Z"
+      },
+      "2586": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7369,
+        "length": 83,
+        "new": "",
+        "ns": 1,
+        "pageid": 2586,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7369,
+            "slots": {
+              "main": {
+                "*": "I think the US is more likely to lean towards STV/Ranked voting rather than French",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-12T03:07:09Z"
+          }
+        ],
+        "title": "Talk:United States presidential election, 2028/@comment-899576-20180212004851/@comment-5590986-20180212030709",
+        "touched": "2018-02-12T03:07:09Z"
+      },
+      "2587": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7370,
+        "length": 138,
+        "new": "",
+        "ns": 1,
+        "pageid": 2587,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7370,
+            "slots": {
+              "main": {
+                "*": "I'm confused, does it refer pats terraforming as in building or build a a big bubble around the moon in order to make the moon earth like?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-12T07:25:57Z"
+          }
+        ],
+        "title": "Talk:Uranus/@comment-90.254.51.176-20180212072557",
+        "touched": "2018-02-12T07:25:57Z"
+      },
+      "2589": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Alien species"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 8024,
+        "length": 2537,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Chronoscope"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2589,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7407,
+            "revid": 8024,
+            "slots": {
+              "main": {
+                "*": "\n'''\"Constructors\" '''is the common name given to the only sapient species known to have lived on the colony moon Valhalla, which orbits a gas giant planet around the star Upsilon Andromedae. Unlike most alien vanished species, which are known only from a handful of ancient ruins and fossils, the biology, culture, and even languages of the Constructors are quite well known. Their civilization seemingly disappeared less than 400 years before humans arrived on Valhalla, and the reason why has yet to be adequately explained. The invention of the [[chronoscope]] has been proposed as solution to this.\n==Evolution ==\nMuch of what is known about the Constructors biologically is based on their nearest living relatives, which are as close to them as chimpanzees are to humans. All \"vertebrates\" on Valhalla descended from a radially symmetrical ancestor not unlike a starfish, with a mouth on the end of a ventral proboscis and five eyes on stalks. Some of these creature developed secondary bilateral symmetry, moving on only four limbs and using the fifth as a supportive \"tail\", but others retained the ancestral five-limbed body plan. One of the latter evolved into a clade of flexible, intelligent omnivores, capable of manipulating tools with all five of their limbs, and this quickly led to sapience. \n==Culture ==\nFrom what is known about the Constructors, it is believed that they originated around 1 million years ago, making them as a species significantly older than humanity. However, their technological progress was much more slow-paced--they evidently went several centuries between their first powered flight and their first spacecraft. This was largely due to their cultural fear of the unknown, which is evident in much of their writing and art that has survived. They also did not develop nuclear weapons, so the means by which they exterminated themselves (if that is indeed what happened) are unclear.\n==Theories of Disappearance ==\nThe Constructors, despite being a long-lived and advanced species, inexplicably disappeared from Valhalla around 1700 AD. The conventional explanation is that a disease outbreak--perhaps facilitated by biological warfare-- killed them off. However, other explanations have also been suggested from time to time. Since the Constructors apparently were developing space travel at the time of their extinction, it has been proposed by some archaeologists that perhaps they are ''not'' extinct, but merely evacuated their planet for unknown reasons.\n[[Category:Alien species]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-06-27T22:53:07Z"
+          }
+        ],
+        "title": "Constructors",
+        "touched": "2018-06-27T22:53:07Z"
+      },
+      "2593": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century economic history"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Military Technology"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Technology"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 10519,
+        "length": 5063,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Alexandria Ocasio-Cortez"
+          },
+          {
+            "ns": 0,
+            "title": "Biorobotics boom"
+          },
+          {
+            "ns": 0,
+            "title": "Genetic Engineering"
+          },
+          {
+            "ns": 0,
+            "title": "Great Famine"
+          },
+          {
+            "ns": 0,
+            "title": "Third Agricultural Revolution"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2593,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9632,
+            "revid": 10519,
+            "slots": {
+              "main": {
+                "*": "The '''biotech bubble''' (also known as the '''biotech boom''', the '''biotech crash''', the '''Storm crash''', the '''bio bubble,''' and the '''GM bubble''') was a historic economic bubble and period of excessive speculation that occurred roughly from 2042 to 2045, a period of extreme growth in the usage and adaptation of bio-science by businesses and consumers. During this period, many biotech companies were founded, many of which failed.\n\n==Background==\n''Main article: [[Third Agricultural Revolution]]''\n\nBiotech research in the 2000s and 2010s led to numerous groundbreaking discoveries, none more so significant than CRISPR, a family of DNA sequences found in the genomes of bacteria that made it possible to quickly, cheaply, and accurately analyze and splice genetic code. Several CRISPR based tools were pushed into service during the Coronavirus pandemic of 2020, but the technology's applications were limited for most of the decade due to limitations on the technology and government regulations. Yet it does not stop further researches, with the creation of Retron Library Recombineering(RLR) at the Wyss Institute for Biologically Inspired Engineering at Harvard University and Harvard Medical School (HMS) only makes gene editing even more revolutionizing.\n\nThe [[Great Famine]] led to many governments adopting looser restrictions on genetic engineering and increased funding toward biotech research to increase crop durability and food production; as well as general improvements to the access of health and bio-science education.\n\n==='''Growth in healthcare labor force'''===\nOne of the primary in-demand services of the late 2020s and 30s was in healthcare labor, the bulk of which was being imported through immigration incentives pioneered during the [[Alexandria Ocasio-Cortez|Ocasio-Cortez administration.]] However, on top of immigration incentives, the US government created education incentives for the domestic and immigrant workforce to expand the size and quality of the healthcare and bioscience workforce, leading to a rapid increase in the population of health and biotech workers. The increase and personalization of healthcare services during this period, made bio-science and healthcare training more attractive and incentivesed companies to innovate to remain competitive in a more democratized market.\n\n==Increases in stem-cell usage and genetic engineering==\n''Main article: [[Genetic Engineering]]''\n\nThe commercial growth of the biotech industry was sparked by the advent of new bio-science technologies approved for human use throughout the 2030s. In the mid 2040s, increased availability of diagnostic services, increases in the number of healthcare workers, and better education on the use of stem-cell and genetic therapies led to further increases in biotech usage.\n\nTechnologies developed to make up for the labor shortage and Great Famine transferred into more common consumer services. Companies rapidly expanded to introduce exotic produce and protein previously unavailable to the public in the New Domestication movement, while cloning companies were able to create previously inaccessible exotic animals for local zoos and pet owners. Stem cell/biotech 3D printing technologies also entered the market for cosmetic applications, after a slow growth period in the public healthcare system. The fast healing times of stem cell therapies made it easier for private clinics to add cosmic surgery services, and by 2045, 75% of all private clinic revenue was being generated through cosmetic surgery, with 1/3rd of all clinics having fully changed over to an entirely cosmetic biotech model, similar to modern Body-Shops.\n\n==Space biotech==\nBy the mid 2020s low volume manufacturing operations in LEO and GEO were largely dominated by the biotech industry as certain biocompounds could be grown more efficiently in microgravity than on Earth. The overwhelming bulk of this was bio-production capacity was targeted toward medical compounds.\n\n==Stock market bubble==\nThe explosion in demand for genetically modified pets and consumables, and cosmetic augmentations led to investors taking greater risks in the market, leading to a stock market bubble. During the bubble, the valuations of companies in the quaternary sector of the economy increased rapidly, however while entrepreneurs were able to raise a great deal of capital to fuel these new enterprises, it was not comparable to the hyper-investment of other eras like the dotcom bubble.\n\n==Aftermath==\nBiotech companies continued to emerge after the crash of 2045, however, the industry began to see a consolidation of technologies. Genetic engineering, senescence therapies, and stem cell technology became far more intertwined as single solutions rather than three separate business avenues.\n\nDuring [[World War III]] these technologies continued to converge with robotics leading to the [[Biorobotics boom|second biotech boom]] in the 2060s.\n[[Category:Technology]]\n[[Category:Military Technology]]\n[[Category:21st-century economic history]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-08-29T03:14:48Z"
+          }
+        ],
+        "title": "Biotech bubble",
+        "touched": "2021-08-29T03:14:48Z"
+      },
+      "2594": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7422,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2594,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7422,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-26T00:57:46Z"
+          }
+        ],
+        "title": "File:Luna Flag.png",
+        "touched": "2018-03-07T21:18:28Z"
+      }
+    }
+  }
+}

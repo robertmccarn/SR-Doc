@@ -1,0 +1,24 @@
+
+
+A '''chemical element''' is a substance that contains only one type of atom. If a substance contains more than one type of atom, it is a compound. An element can be a solid, liquid or gas. The smallest particle of such an element is an atom. 
+
+Atoms are made up of protons, neutrons, and electrons. Each element contains only one kind of atom. The number of protons in an atom is called the atomic number. The number of protons in the nucleus causes its electric charge. This fixes the number of electrons in its normal (unionized) state. The electrons in their atomic orbitals determine the atom's various chemical properties. Chemical elements constitute all of the ordinary matter of the universe. However astronomical observations suggest that ordinary observable matter makes up only about 15% of the matter in the universe: the remainder is dark matter; the composition of this is unknown, but it is not composed of chemical elements. The two lightest elements, hydrogen and helium, were mostly formed in the Big Bang and are the most common elements in the universe. The next three elements (lithium, beryllium and boron) were formed mostly by cosmic ray spallation, and are thus rarer than heavier elements. Formation of elements with from 6 to 26 protons occurred and continues to occur in main sequence stars via stellar nucleosynthesis. The high abundance of oxygen, silicon, and iron on Earth reflects their common production in such stars. Elements with greater than 26 protons are formed by supernova nucleosynthesis in supernovae, which, when they explode, blast these elements as supernova remnants far into space, where they may become incorporated into planets when they are formed. 
+
+Elements are summarized on the Period Table, which tells us about their properties relative to the other elements. The Period Table organizes the elements by increasing atomic number into rows ("periods") in which the columns ("groups") share recurring ("periodic") physical and chemical properties. Save for unstable radioactive elements with short half-lives, all of the elements are available industrially, most of them in low degrees of impurities. Elements are the basic building blocks for all types of substances. When they are combined with each other, they can form molecules.
+
+There are currently 172 known chemical elements as of 2160, 4 of which were yet to be named and added to the periodic table. The most recent discoveries were man-made or through spacetravel, thanks to recent advancements in technology.
+
+==Description==
+==='''Atomic Number'''===
+==='''Types'''===
+==='''Properties'''===
+
+==[[Periodic Table]]==
+(insert picture here)
+
+The '''periodic table''' is a tabular arrangement of the chemical elements, ordered by their atomic number, electron configurations, and recurring chemical properties. This ordering shows periodic trends, such as elements with similar behaviour in the same column. It also shows four rectangular blocks with some approximately similar chemical properties. In general, within one row (period) the elements are metals on the left, and non-metals on the right. 
+
+All elements from atomic numbers 1 (Hydrogen) to 172 (Unseptbium) have been discovered or synthesized, but only 168 are named on the periodic table. With the most recent named additions to the periodic table (165 to 168) (Halvidine/Halvidite, Byzanium, Dovahkium, and Jovium) being confirmed by the International Union of Pure and Applied Chemistry (IUPAC) in 2158 and officially named by 2159. All 172 elements complete the first eight rows of the periodic table. 
+
+==History==
+[[Category:Under Construction]]

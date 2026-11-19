@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "*": "Political_parties_in_the_United_States",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>The <b>Horizon Party</b> commonly known as <b>Horizon</b> is an American political party founded to unite the ideologies of <a href=\"/wiki/Neo-Jeffersonianism\" title=\"Neo-Jeffersonianism\">Neo-Jeffersonian</a> and <a href=\"/wiki/Postnaturalism\" title=\"Postnaturalism\">Postnaturalism</a>. The party was a merger of the <a href=\"/wiki/Liberal_Party_(United_States)\" title=\"Liberal Party (United States)\">Liberal party</a> and the <a href=\"/wiki/Conservative_Party_(United_States)\" title=\"Conservative Party (United States)\">Conservative party</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20261110020533\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.007 seconds\nReal time usage: 0.014 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:3689-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261110020533 and revision id 11352. Rendering was triggered because: page-view\n -->\n</div>",
+  "links": [
+    {
+      "*": "Conservative Party (United States)",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Liberal Party (United States)",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Neo-Jeffersonianism",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Postnaturalism",
+      "exists": "",
+      "ns": 0
+    }
+  ],
+  "page_id": 3689,
+  "revision_id": 11352,
+  "title": "Horizon Party (United States)"
+}

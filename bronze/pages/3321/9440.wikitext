@@ -1,0 +1,6 @@
+{{Political party color|Whig}}<noinclude>
+
+Sample:
+<span style="padding:1px 20px; background:{{Whig Party (US)/meta/color}}">&nbsp;</span>
+[[Category:United States political party color templates|{{PAGENAME}}]]
+</noinclude>

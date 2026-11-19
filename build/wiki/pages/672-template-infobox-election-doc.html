@@ -1,0 +1,2821 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Template:Infobox election/doc | Second Renaissance</title><link rel="stylesheet" href="../assets/wiki.css"></head><body><header class="top"><a class="brand" href="../index.html">Second Renaissance Wikia</a><a href="../all-pages.html">Explore</a><a href="../categories.html">Categories</a><input id="search" class="search" placeholder="Search this wiki" oninput="findPage(this.value)"></header><div class="layout"><aside><h3>Navigation</h3><a href="../index.html">Main page</a><a href="../all-pages.html">All pages</a><a href="../categories.html">Categories</a><h3>Archive</h3><a href="../continuity.html">Continuity report</a><a href="../source-corpus.html">Source provenance</a></aside><main><h1 class="title">Template:Infobox election/doc</h1><article class="article"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><table class="plainlinks ombox ombox-notice" style="margin-bottom:1.0em;">
+<tbody><tr>
+<td class="mbox-image">
+  <span typeof="mw:File"><span><img alt="" src="../assets/150-Edit-copy green.svg" decoding="async" loading="lazy" width="40" height="40" class="mw-file-element" data-image-name="Edit-copy green.svg" data-image-key="Edit-copy_green.svg" data-relevant="0" /></span></span></td>
+<td class="mbox-text" style=""> <b>This is a <a href="https://en.wikipedia.org/wiki/Template_documentation" class="extiw" title="wikipedia:Template documentation">documentation</a> <a href="https://en.wikipedia.org/wiki/Subpages" class="extiw" title="wikipedia:Subpages">subpage</a> for <a href="pages/294-template-infobox-election.html" title="Template:Infobox election">Template:Infobox election</a></b>.<br />It contains usage information, <a href="https://en.wikipedia.org/wiki/Categorization" class="extiw" title="wikipedia:Categorization">categories</a> and other content that is not part of the original template page. </td>
+</tr>
+</tbody></table>
+<table class="plainlinks ombox ombox-style" style="">
+<tbody><tr>
+<td class="mbox-image">
+  <span typeof="mw:File"><span><img alt="" src="../assets/321-Ambox warning yellow.png" decoding="async" loading="lazy" width="40" height="34" class="mw-file-element" data-image-name="Ambox warning yellow.png" data-image-key="Ambox_warning_yellow.png" data-relevant="0" /></span></span></td>
+<td class="mbox-text" style=""> <b>This template employs intricate features of template syntax.</b>
+<div style="font-size:95%; padding-bottom:2px;">You are encouraged to familiarise yourself with its setup and <a href="https://meta.wikimedia.org/wiki/Help:Parser_function" class="extiw" title="m:Help:Parser function">parser functions</a> before editing the template. If your edit causes unexpected problems, please <a href="https://community.fandom.com/wiki/Help:Reverting" title="Help:Reverting">undo</a> it quickly, as this template may appear on a large number of pages.<br />
+Remember that you can conduct experiments, and should test all improvements, in either the <span class="nowraplinks"><a href="pages/681-template-template-sandbox.html" title="Template:Template sandbox">general Template sandbox</a></span> or your user space before changing anything here.</div> </td>
+</tr>
+</tbody></table>
+<p>This infobox describes a presidential, legislative or parliamentary election.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Usage"><span class="tocnumber">1</span> <span class="toctext">Usage</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Notes"><span class="tocnumber">2</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Examples"><span class="tocnumber">3</span> <span class="toctext">Examples</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Presidential"><span class="tocnumber">3.1</span> <span class="toctext">Presidential</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Ongoing_presidential"><span class="tocnumber">3.2</span> <span class="toctext">Ongoing presidential</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Legislative_or_parliamentary"><span class="tocnumber">3.3</span> <span class="toctext">Legislative or parliamentary</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Ongoing_legislative_or_parliamentary"><span class="tocnumber">3.4</span> <span class="toctext">Ongoing legislative or parliamentary</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#By-election"><span class="tocnumber">3.5</span> <span class="toctext">By-election</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Microformat"><span class="tocnumber">4</span> <span class="toctext">Microformat</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Template_Data"><span class="tocnumber">5</span> <span class="toctext">Template Data</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Usage">Usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Remove fields for different types of election.
+</p>
+<pre style="overflow:auto;">{{Infobox election
+| election_name     = 
+| country           = 
+| flag_year         = 
+| flag_image        = 
+| type              = &lt;!-- presidential, legislative, or parliamentary --&gt;
+| vote_type         = Popular &lt;!-- default --&gt;
+| ongoing           = 
+| party_colour      = 
+| party_name        = 
+| alliance_name     = 
+| previous_election = 
+| previous_year     = 
+| previous_mps      = 
+| election_date     = &lt;!-- {{Start date|YYYY|MM|DD}} --&gt;
+| elected_mps       = 
+| next_election     = &lt;!-- link to file. If red link, then it will not be linked--&gt;
+| next_year         = 
+| next_mps          = 
+| votes_for_election= 
+| needed_votes      = 
+| seats_for_election= 
+| majority_seats    = 
+| opinion_polls     = 
+| registered        = 
+| turnout           = 
+&lt;!--        person 1        --&gt;
+| image1            = 
+| colour1           = 
+| nominee1          = &lt;!-- presidential only, when appropriate, candidate1 can be used instead --&gt;
+| candidate1        = &lt;!-- any type of election --&gt;
+| leader1           = &lt;!-- legislative or parliamentary only--&gt;
+| party1            = 
+| alliance1         = 
+&lt;!-- presidential --&gt;
+| home_state1       = 
+| running_mate1     = 
+| electoral_vote1   = 
+| delegate_count1   = 
+| states_carried1   = 
+| districts_won1    = 
+&lt;!-- legislative or parliamentary --&gt;
+| leader_since1     = 
+| leaders_seat1     = 
+| last_election1    = 
+| seats_before1     = 
+| seats_needed1     = 
+| seats1            = 
+| seats_after1      = 
+| seat_change1      = 
+&lt;!-- any --&gt;
+| popular_vote1     = 
+| percentage1       = 
+| swing1            = &lt;!-- legislative or parliamentary only--&gt;
+&lt;!--        person 2        --&gt;
+| image2            = 
+| colour2           = 
+| nominee2          = &lt;!-- presidential only, when appropriate, candidate2 can be used instead --&gt;
+| candidate2        = &lt;!-- any type of election --&gt;
+| leader2           = &lt;!-- legislative or parliamentary only--&gt;
+| party2            = 
+| alliance2         = 
+&lt;!-- presidential --&gt;
+| home_state2       = 
+| running_mate2     = 
+| electoral_vote2   = 
+| delegate_count2   = 
+| states_carried2   = 
+| districts_won2    = 
+&lt;!-- legislative or parliamentary --&gt;
+| leader_since2     = 
+| leaders_seat2     = 
+| last_election2    = 
+| seats_before2     = 
+| seats_needed2     = 
+| seats2            = 
+| seats_after2      = 
+| seat_change2      = 
+&lt;!-- any --&gt;
+| popular_vote2     = 
+| percentage2       = 
+| swing2            = &lt;!-- legislative or parliamentary only--&gt;
+&lt;!-- polls --&gt;
+| poll1_date        = 
+| poll1_source      = 
+| poll1_nominee1    = &lt;!-- presidential only, when appropriate, poll1_candidate1 can be used instead --&gt;
+| poll1_party1      = &lt;!-- legislative or parliamentary only--&gt;
+| poll1_nominee2    = &lt;!-- presidential only, when appropriate, poll1_candidate2 can be used instead --&gt;
+| poll1_party2      = &lt;!-- legislative or parliamentary only--&gt;
+| poll2_date        = 
+| poll2_source      = 
+| poll2_nominee1    = &lt;!-- presidential only, when appropriate, poll2_candidate1 can be used instead --&gt;
+| poll2_party1      = &lt;!-- legislative or parliamentary only--&gt;
+| poll2_nominee2    = &lt;!-- presidential only, when appropriate, poll2_candidate2 can be used instead --&gt;
+| poll2_party2      = &lt;!-- legislative or parliamentary only--&gt;
+&lt;!-- auxiliary rows --&gt;
+| 1blank            = 
+| 1data1            = 
+| 1data2            = 
+| 2blank            = 
+| 2data1            = 
+| 2data2            = 
+&lt;!-- map --&gt;
+| map_image         = 
+| map_size          = 
+| map_alt           = 
+| map               = 
+| map_caption       = 
+&lt;!-- bottom --&gt;
+| title             = 
+| before_election   = 
+| before_party      = 
+| posttitle         = 
+| after_election    = 
+| after_party       = 
+}}
+</pre>
+<dl><dd>*Non-optional fields.</dd>
+<dd>&#8224; only displayed if the election is yet to take place.</dd>
+<dd>&#8225; only displayed if the election has finished.</dd></dl>
+<table class="wikitable" cellpadding="2">
+<tbody><tr>
+<th>Field</th>
+<th>Type</th>
+<th>Description
+</th></tr>
+<tr>
+<td><b>election_name</b>
+</td>
+<td>*
+</td>
+<td>Name given to the election. If this field is left empty the page name is displayed
+</td></tr>
+<tr>
+<td><b>country</b>
+</td>
+<td>
+</td>
+<td>Country where the election took place.
+</td></tr>
+<tr>
+<td><b>flag_year</b>
+</td>
+<td>
+</td>
+<td>For historical elections when an older flag design was in effect, enter the year the flag came into effect (not the election year).  Default is to use the current flag.
+</td></tr>
+<tr>
+<td><b>flag_image</b>
+</td>
+<td>
+</td>
+<td>For non-country elections, specify the full name of the flag, coat-of-arms, or seal image to display.
+</td></tr>
+<tr>
+<td><b>type</b>
+</td>
+<td>*
+</td>
+<td>The type of election. Must be one of four: presidential, legislative, parliamentary or by-election. Legislative after the election will display majority and minority party, rather than first and second party.
+</td></tr>
+<tr>
+<td><b>vote_type</b>
+</td>
+<td>
+</td>
+<td>The type of votes recorded at popular_vote<i>n</i>. Defaults to "Popular".
+</td></tr>
+<tr>
+<td><b>ongoing</b>
+</td>
+<td>*
+</td>
+<td>Must be either yes or no, whether the election is yet to take place, or completed.  Fields marked with a &#8224; are only displayed if the election is yet to take place. Fields marked with a &#8225; are only displayed if the election has finished. (Default no.)
+</td></tr>
+<tr>
+<td><b>party_colour</b>
+</td>
+<td>
+</td>
+<td>Also spelled <b>party_color</b>. To turn off the party colours enter 'no'.
+</td></tr>
+<tr>
+<td><b>party_name</b>
+</td>
+<td>
+</td>
+<td>To turn off linking to the parties enter 'no'.
+</td></tr>
+<tr>
+<td><b>alliance_name</b>
+</td>
+<td>
+</td>
+<td>To turn off linking to the alliances enter 'no'.
+</td></tr>
+<tr>
+<td><b>previous_election</b>
+</td>
+<td>
+</td>
+<td>The page name of the last election of this type.
+</td></tr>
+<tr>
+<td><b>previous_year</b>
+</td>
+<td>
+</td>
+<td>The year the last election of this type took place.
+</td></tr>
+<tr>
+<td><b>previous_mps</b>
+</td>
+<td><i>legislative</i><br /><i>parliamentary</i>
+</td>
+<td>Also spelled <b>previous_MPs</b> or <b>previous_members</b>, page name for the members elected in the last election.
+</td></tr>
+<tr>
+<td><b>election_date</b>
+</td>
+<td>
+</td>
+<td>Date of election - use <div style="clear:both">
+</div></td></tr>
+<tr>
+<td><b>elected_mps</b>
+</td>
+<td><i>legislative</i><br /><i>parliamentary</i>
+</td>
+<td>Wikilink to the MPs elected in this election.
+</td></tr>
+<tr>
+<td><b>next_election</b>
+</td>
+<td>
+</td>
+<td>The page name of the next election of this type.   If red link (it doesn't exist), then it will appear unlinked.
+</td></tr>
+<tr>
+<td><b>next_year</b>
+</td>
+<td>
+</td>
+<td>The year the next election of this type took place.
+</td></tr>
+<tr>
+<td><b>next_mps</b>
+</td>
+<td><i>legislative</i><br /><i>parliamentary</i>
+</td>
+<td>Also spelled <b>next_MPs</b> or <b>next_members</b>, page name for the members elected in the next election.
+</td></tr>
+<tr>
+<td><b>votes_for_election</b>
+</td>
+<td><i>presidential</i>
+</td>
+<td>The number of votes for election and the system of voting (e.g. Electoral College).
+</td></tr>
+<tr>
+<td><b>needed_votes</b>
+</td>
+<td><i>presidential</i>
+</td>
+<td>The number of votes required to win. If there is an even number of votes, use the number that is said by the media.
+</td></tr>
+<tr>
+<td><b>seats_for_election</b>
+</td>
+<td><i>legislative</i><br /><i>parliamentary</i><br /><i>by-election</i>
+</td>
+<td>The number of seats for election and the house or chamber the seats are for.
+</td></tr>
+<tr>
+<td><b>majority_seats</b>
+</td>
+<td><i>legislative</i><br /><i>parliamentary</i>
+</td>
+<td>The number of seats required for a <span class="new" title="Majority government (page does not exist)" data-uncrawlable-url="L3dpa2kvTWFqb3JpdHlfZ292ZXJubWVudD9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">majority government</span>. If there is an even number of seats in the house or chamber, use the number that is said by the media.
+</td></tr>
+<tr>
+<td><b>opinion_polls</b>
+</td>
+<td>
+</td>
+<td>Pagename or section anchor of <span class="new" title="Opinion poll (page does not exist)" data-uncrawlable-url="L3dpa2kvT3Bpbmlvbl9wb2xsP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">opinion polls</span>.
+</td></tr>
+<tr>
+<td><b>registered</b>
+</td>
+<td>
+</td>
+<td>Number of <span class="new" title="Voter registration (page does not exist)" data-uncrawlable-url="L3dpa2kvVm90ZXJfcmVnaXN0cmF0aW9uP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">registered voters</span> for this election.
+</td></tr>
+<tr>
+<td><b>turnout</b>
+</td>
+<td>
+</td>
+<td><span class="new" title="Voter turnout (page does not exist)" data-uncrawlable-url="L3dpa2kvVm90ZXJfdHVybm91dD9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Voter turnout</span> for this election.
+</td></tr>
+<tr>
+<td><b>image1</b>
+</td>
+<td>
+</td>
+<td>Image of Nominee, head of Party list or Party Leader. The number can be changed up to nine to display different Nominees, heads of Party list or Leaders at the same time. In order to work, colour1 or party1 must be entered.
+</td></tr>
+<tr>
+<td><b>colour1</b>
+</td>
+<td>
+</td>
+<td>Also spelt <b>color1</b>. Enter a hex colour code (without the #) to override the border colour of image1. The number can be changed up to nine to display different Nominees, heads of Party list or Leaders at the same time.
+</td></tr>
+<tr>
+<td><b>nominee1</b>
+</td>
+<td><i>presidential</i><br /><i>by-election</i>
+</td>
+<td>Name of Nominee. When appropriate, candidate1 can be used instead. The number can be changed up to nine to display different Nominees or Candidates at the same time.
+</td></tr>
+<tr>
+<td><b>candidate1</b>
+</td>
+<td>
+</td>
+<td>Name of Candidate. The number can be changed up to nine to display different Candidates at the same time.
+</td></tr>
+<tr>
+<td><b>leader1</b>
+</td>
+<td><i>legislative</i><br /><i>parliamentary</i>
+</td>
+<td>Name of head of Party list or Party Leader. The number can be changed up to nine to display different Parties at the same time.
+</td></tr>
+<tr>
+<td><b>party1</b>
+</td>
+<td>
+</td>
+<td>Political Party using <span class="new" title="Category:Political party shortname templates (page does not exist)" data-uncrawlable-url="L3dpa2kvQ2F0ZWdvcnk6UG9saXRpY2FsX3BhcnR5X3Nob3J0bmFtZV90ZW1wbGF0ZXM/YWN0aW9uPWVkaXQmcmVkbGluaz0x">Political party shortname templates</span>. The number can be changed up to nine to display different Parties at the same time.
+</td></tr>
+<tr>
+<td><b>alliance1</b>
+</td>
+<td>
+</td>
+<td>Political alliance in elections where coalition politics is common.
+</td></tr>
+<tr>
+<td><b>home_state1</b>
+</td>
+<td><i>presidential</i>
+</td>
+<td>The state the Nominee or Candidate represents. The number can be changed up to nine to display different Nominees at the same time.
+</td></tr>
+<tr>
+<td><b>running_mate1</b>
+</td>
+<td><i>presidential</i>
+</td>
+<td>The Nominee's <span class="new" title="Running mate (page does not exist)" data-uncrawlable-url="L3dpa2kvUnVubmluZ19tYXRlP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Running mate</span>. The number can be changed up to nine to display different Nominees at the same time.
+</td></tr>
+<tr>
+<td><b>electoral_vote1</b>
+</td>
+<td><i>presidential</i><br />&#8225;
+</td>
+<td>The <span class="new" title="Electoral vote (page does not exist)" data-uncrawlable-url="L3dpa2kvRWxlY3RvcmFsX3ZvdGU/YWN0aW9uPWVkaXQmcmVkbGluaz0x">electoral votes</span> obtained by the Nominee. The number can be changed up to nine to display different Nominees at the same time.
+</td></tr>
+<tr>
+<td><b>delegate_count1</b>
+</td>
+<td><i>presidential</i>
+</td>
+<td>The aggregate number of <span class="new" title="Delegate (page does not exist)" data-uncrawlable-url="L3dpa2kvRGVsZWdhdGU/YWN0aW9uPWVkaXQmcmVkbGluaz0x">delegates</span> obtained by the candidate. The number can be changed up to nine to display different candidates at the same time. Intended for use in pre-election processes such as selection of delegates to <span class="new" title="United States presidential nominating convention (page does not exist)" data-uncrawlable-url="L3dpa2kvVW5pdGVkX1N0YXRlc19wcmVzaWRlbnRpYWxfbm9taW5hdGluZ19jb252ZW50aW9uP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">United States presidential nominating conventions</span>. Intended to be used instead of electoral_vote1 for these cases.
+</td></tr>
+<tr>
+<td><b>states_carried1</b>
+</td>
+<td><i>presidential</i><br />&#8225;
+</td>
+<td>The states carried or won by the Nominee. The number can be changed up to nine to display different Nominees at the same time.
+</td></tr>
+<tr>
+<td><b>districs_won1</b>
+</td>
+<td><i>presidential</i><br />&#8225;
+</td>
+<td>The number of districts won by the Nominee. The number can be changed up to nine to display different Nominees at the same time.
+</td></tr>
+<tr>
+<td><b>leader_since1</b>
+</td>
+<td><i>legislative</i><br /><i>parliamentary</i>
+</td>
+<td>The date the Leader took office. The number can be changed up to nine to display different Parties at the same time.
+</td></tr>
+<tr>
+<td><b>leaders_seat1</b>
+</td>
+<td><i>legislative</i><br /><i>parliamentary</i>
+</td>
+<td>The seat the Leader represents. The number can be changed up to nine to display different Parties at the same time.
+</td></tr>
+<tr>
+<td><b>last_election1</b>
+</td>
+<td><i>legislative</i><br /><i>parliamentary</i>
+</td>
+<td>The seat count and percentage of the vote received at the previous election. The number can be changed up to nine to display different Parties at the same time.
+</td></tr>
+<tr>
+<td><b>seats_before1</b>
+</td>
+<td><i>legislative</i><br /><i>parliamentary</i>
+</td>
+<td>The seat count before the election, labeled 'current seats' if the election is yet to take place. The number can be changed up to nine to display different Parties at the same time.
+</td></tr>
+<tr>
+<td><b>seats_needed1</b>
+</td>
+<td><i>legislative</i><br /><i>parliamentary</i><br />&#8224;
+</td>
+<td>The seats required to gain an overall majority. The number can be changed up to nine to display different Parties at the same time.
+</td></tr>
+<tr>
+<td><b>seats1</b>
+</td>
+<td><i>legislative</i><br /><i>parliamentary</i><br />&#8225;
+</td>
+<td>The seats won at the election. The number can be changed up to nine to display different Parties at the same time.
+</td></tr>
+<tr>
+<td><b>seats_after1</b>
+</td>
+<td><i>legislative</i><br /><i>parliamentary</i><br />&#8225;
+</td>
+<td>The seat count after the election. The number can be changed up to nine to display different Parties at the same time.
+</td></tr>
+<tr>
+<td><b>seat_change1</b>
+</td>
+<td><i>legislative</i><br /><i>parliamentary</i><br />&#8225;
+</td>
+<td>The change in the number of seats won at the election compared to the previous election. The number can be changed up to nine to display different Parties at the same time.
+</td></tr>
+<tr>
+<td><b>popular_vote1</b>
+</td>
+<td>&#8225;
+</td>
+<td>The number of votes obtained by the Nominee or Party. The number can be changed up to nine to display different Nominees or Parties at the same time.
+</td></tr>
+<tr>
+<td><b>percentage1</b>
+</td>
+<td>&#8225;
+</td>
+<td>The percentage of the popular vote obtained by the Nominee or Party. The number can be changed up to nine to display different Nominees or Parties at the same time.
+</td></tr>
+<tr>
+<td><b>swing1</b>
+</td>
+<td><i>legislative</i><br /><i>parliamentary</i><br />&#8225;
+</td>
+<td>The <span class="new" title="Swing (politics) (page does not exist)" data-uncrawlable-url="L3dpa2kvU3dpbmdfKHBvbGl0aWNzKT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">swing</span> or change in popular vote at the election compared to the previous election. The number can be changed up to nine to display different Parties at the same time.
+</td></tr>
+<tr>
+<td><b>poll1_date</b>
+</td>
+<td>&#8224;
+</td>
+<td>The date of an opinion poll. The number can be changed up to five to display different polls at the same time.
+</td></tr>
+<tr>
+<td><b>poll1_source</b>
+</td>
+<td>&#8224;
+</td>
+<td>The source or URL of the opinion poll. The number can be changed up to five to display different polls at the same time.
+<p>poll1_nominee1
+</p>
+</td></tr>
+<tr>
+<td><b>poll1_nominee1</b>
+</td>
+<td><i>presidential</i><br />&#8224;
+</td>
+<td>The percentage poll 1 gave to nominee 1. When appropriate, <b>poll1_candidate1</b> can be used instead. The poll number can be changed up to five to display different polls at the same time. The nominee or candidate number can be changed up to nine to display different Nominees or Candidates at the same time.
+</td></tr>
+<tr>
+<td><b>poll1_party1</b>
+</td>
+<td><i>legislative</i><br /><i>parliamentary</i><br />&#8224;
+</td>
+<td>The percentage poll 1 gave to party 1. The poll number can be changed up to five to display different polls at the same time. The party number can be changed up to nine to display different Nominees at the same time.
+</td></tr>
+<tr>
+<td><b>1blank</b>
+</td>
+<td>
+</td>
+<td>Title of an auxiliary row. The number can be changed up to six to display six extra rows.
+</td></tr>
+<tr>
+<td><b>1data1</b>
+</td>
+<td>
+</td>
+<td>Data 1 for nominee or party 1. The first number can be changed up to six to display six extra rows. The second number can be changed up to nine to display different Nominees or Parties at the same time.
+</td></tr>
+<tr>
+<td><b>map_image</b>
+</td>
+<td>
+</td>
+<td>Page name for the election map file.
+</td></tr>
+<tr>
+<td><b>map_size</b>
+</td>
+<td>
+</td>
+<td>Size of image of the election map to be displayed. (Default 300px).
+</td></tr>
+<tr>
+<td><b>map_alt</b>
+</td>
+<td>
+</td>
+<td><a href="https://en.wikipedia.org/wiki/Alternative_text_for_images" class="extiw" title="wp:Alternative text for images">Alt text</a> for the election map.
+</td></tr>
+<tr>
+<td><b>map</b>
+</td>
+<td>
+</td>
+<td>A freeform replacement for the above, which can be used to insert <a href="https://mediawiki.org/wiki/extension:ImageMap" class="extiw" title="mw:extension:ImageMap">extension:ImageMaps</a> or templates instead of images.
+</td></tr>
+<tr>
+<td><b>map_caption</b>
+</td>
+<td>
+</td>
+<td>Caption on image of the election map to be displayed.
+</td></tr>
+<tr>
+<td><b>title</b>
+</td>
+<td>
+</td>
+<td>Title of the leader before the election. (President, Speaker, Government, Prime Minister...)
+</td></tr>
+<tr>
+<td><b>before_election</b>
+</td>
+<td>
+</td>
+<td>The leader in power before the election, labeled <span class="new" title="Incumbent (page does not exist)" data-uncrawlable-url="L3dpa2kvSW5jdW1iZW50P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">incumbent</span> if the election is yet to take place.
+</td></tr>
+<tr>
+<td><b>before_party</b>
+</td>
+<td>
+</td>
+<td>The party in power before the election. This can be set to "Acting (law)" (which will display as "<span class="new" title="Acting (law) (page does not exist)" data-uncrawlable-url="L3dpa2kvQWN0aW5nXyhsYXcpP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Acting</span>") if necessary.
+</td></tr>
+<tr>
+<td><b>posttitle</b>
+</td>
+<td>&#8225;
+</td>
+<td>Title of the victor of the election (President-elect, Prime Minister-designate...), only if different than before.
+</td></tr>
+<tr>
+<td><b>after_election</b>
+</td>
+<td>&#8225;
+</td>
+<td>The leader in power as a result of the election.
+</td></tr>
+<tr>
+<td><b>after_party</b>
+</td>
+<td>&#8225;
+</td>
+<td>The party in power as a result of the election.
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The template can display up to nine parties or nominees at the same time, three per row. If exactly four are needed, use the first two on the top and bottom lines. This is done by only using the numbers 1, 2, 4 and 5 on the fields that require a number.
+</p><p>All the fields that work for Legislative will also work for Parliamentary. The only difference between the two is the titles above the images.
+</p><p>The template uses the party fields to display the party colour in the background of the images and some text. To turn this function off, input:
+</p>
+<pre>| party_colour      = no
+</pre>
+<p>To override the calling of the party short name templates, input:
+</p>
+<pre>| party_name        = no
+</pre>
+<p>To override the calling of the alliance short name templates, input:
+</p>
+<pre>| alliance_name     = no
+</pre>
+<p>To override the colour for party1 or nominee1, input:
+</p>
+<pre>| colour1           = [HEX OF COLOUR, MINUS #]
+</pre>
+<p>The hex number must be entered without the hash for the field to work. The number (colour<b>1</b>) can be changed up to nine for different parties or Nominees. The fields work with both spellings of the word 'color'.
+</p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Presidential">Presidential</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="infobox vevent" style="font-size: 88%; line-height: 1.5em; width:px">
+
+<caption class="summary" style="font-size: 125%; font-weight: bold">United States presidential election, 2004
+</caption>
+<tbody><tr>
+<td colspan="4" style="text-align:center;"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><a href="pages/806-united-states.html" title="United States"><img alt="United States" src="../assets/578-Flag of the United States.png" decoding="async" loading="lazy" width="50" height="26" class="mw-file-element" data-image-name="Flag of the United States.png" data-image-key="Flag_of_the_United_States.png" data-relevant="1" /></a></span></span><hr />
+</td></tr>
+<tr>
+<td colspan="4">
+<table cellspacing="0" cellpadding="0" style="background:transparent; width:100%;">
+<tbody><tr>
+<td style="width:25%;text-align:left;" class="noprint">2000&#160;←<br />
+</td>
+<td style="width:50%;text-align:center;"><b>November&#160;2,&#160;2004<span style="display:none">&#160;(<span class="bday dtstart published updated">2004-11-02</span>)</span></b>
+</td>
+<td style="width:25%;text-align:right;" class="noprint">→&#160;2008<br />
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td colspan="4">
+<table style="background:transparent; width:100%;">
+
+<tbody><tr>
+<td colspan="4"><hr />
+</td></tr>
+<tr>
+<th colspan="4" style="text-align:center"><small>All <span class="new" title="List of United States presidential electors, 2004 (page does not exist)" data-uncrawlable-url="L3dpa2kvTGlzdF9vZl9Vbml0ZWRfU3RhdGVzX3ByZXNpZGVudGlhbF9lbGVjdG9ycyxfMjAwND9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">538 electoral votes</span> of the <span class="new" title="Electoral College (United States) (page does not exist)" data-uncrawlable-url="L3dpa2kvRWxlY3RvcmFsX0NvbGxlZ2VfKFVuaXRlZF9TdGF0ZXMpP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Electoral College</span></small><br /><small>270 electoral votes needed to win</small>
+</th></tr>
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td>&#160;
+</td>
+<td style="text-align:center;border-bottom: 6px solid #FF3333"><span typeof="mw:File"><a href="../assets/243-George-W-Bush.jpeg" class="mw-file-description image"><img alt="George-W-Bush" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="113" height="150" class="mw-file-element lazyload" data-image-name="George-W-Bush.jpeg" data-image-key="George-W-Bush.jpeg" data-relevant="1" data-src="../assets/243-George-W-Bush.jpeg" /></a></span>
+</td>
+<td style="text-align:center;border-bottom: 6px solid #3333FF"><span typeof="mw:File"><a href="../assets/797-John Kerry headshot with US flag.jpg" class="mw-file-description image"><img alt="John Kerry headshot with US flag" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="97" height="150" class="mw-file-element lazyload" data-image-name="John Kerry headshot with US flag.jpg" data-image-key="John_Kerry_headshot_with_US_flag.jpg" data-relevant="1" data-src="../assets/797-John Kerry headshot with US flag.jpg" /></a></span>
+</td></tr>
+<tr>
+<th style="width:75px;text-align:left">Nominee
+</th>
+<td style="width:75px;text-align:center"><a href="https://en.wikipedia.org/wiki/George_W._Bush" class="extiw" title="wikipedia:George W. Bush">George W. Bush</a>
+</td>
+<td style="width:75px;text-align:center"><a href="https://en.wikipedia.org/wiki/John_Kerry" class="extiw" title="wikipedia:John Kerry">John Kerry</a>
+</td>
+<td style="text-align:center">
+</td></tr>
+
+
+<tr>
+<th style="width:75px;text-align:left">Party
+</th>
+<td style="width:75px;text-align:center"><a href="pages/690-republican-party-united-states.html" class="mw-redirect" title="Republican Party (United States)">Republican</a>
+</td>
+<td style="width:75px;text-align:center"><a href="pages/691-democratic-party-united-states.html" class="mw-redirect" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+
+
+<tr>
+<th style="text-align:left">Home&#160;state
+</th>
+<td style="width:75px;text-align:center"><a href="pages/1001-texas.html" class="mw-redirect" title="Texas">Texas</a>
+</td>
+<td style="width:75px;text-align:center"><span class="new" title="Massachusetts (page does not exist)" data-uncrawlable-url="L3dpa2kvTWFzc2FjaHVzZXR0cz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Massachusetts</span>
+</td></tr>
+<tr>
+<th style="text-align:left">Running&#160;mate
+</th>
+<td style="width:75px;text-align:center"><a href="https://en.wikipedia.org/wiki/Dick_Cheney" class="extiw" title="wikipedia:Dick Cheney">Richard B. Cheney</a>
+</td>
+<td style="width:75px;text-align:center"><a href="https://en.wikipedia.org/wiki/John_Edwards" class="extiw" title="wikipedia:John Edwards">John Edwards</a>
+</td></tr>
+<tr>
+<th style="text-align:left">Electoral&#160;vote
+</th>
+<td style="width:75px;text-align:center">286
+</td>
+<td style="width:75px;text-align:center">251
+</td></tr>
+
+
+<tr>
+<th style="text-align:left">States&#160;carried
+</th>
+<td style="width:75px;text-align:center">31
+</td>
+<td style="width:75px;text-align:center">19 + <a href="pages/679-washington-d-c.html" title="Washington, D.C.">DC</a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th style="text-align:left">Popular&#160;vote
+</th>
+<td style="width:75px;text-align:center">62,040,610
+</td>
+<td style="width:75px;text-align:center">59,028,444
+</td></tr>
+<tr>
+<th style="text-align:left">Percentage
+</th>
+<td style="width:75px;text-align:center">50.7%
+</td>
+<td style="width:75px;text-align:center">48.3%
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="4" style="text-align:center"><hr />
+<p><span typeof="mw:Error mw:File"><a href="https://second-renaissance.fandom.com/wiki/Special:Upload?wpDestFile=ElectoralCollege2004.svg" class="new" title="File:ElectoralCollege2004.svg"><span class="mw-file-element mw-broken-media" data-width="270">File:ElectoralCollege2004.svg</span></a></span>
+</p>
+</td></tr>
+<tr>
+<td colspan="4" style="text-align:center">Presidential election results map
+</td></tr>
+
+
+
+<tr>
+<td colspan="4" style="text-align:center"><hr />
+<table cellspacing="0" cellpadding="0" style="background:transparent; width:100%;">
+<tbody><tr>
+<td style="width:50%; text-align:left; text-size: 80%"><b>President before election</b><br />
+<p><a href="https://en.wikipedia.org/wiki/George_W._Bush" class="extiw" title="wikipedia:George W. Bush">George W. Bush</a><br />
+<a href="pages/690-republican-party-united-states.html" class="mw-redirect" title="Republican Party (United States)">Republican</a>
+</p>
+</td>
+<td style="width:50%; text-align:right; text-size: 80%"><b>Elected President</b><br />
+<p><a href="https://en.wikipedia.org/wiki/George_W._Bush" class="extiw" title="wikipedia:George W. Bush">George W. Bush</a><br />
+<a href="pages/690-republican-party-united-states.html" class="mw-redirect" title="Republican Party (United States)">Republican</a>
+</p>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<pre style="overflow: auto">{{Infobox election
+| election_name     = United States presidential election, 2004
+| country           = United States
+| type              = presidential
+| previous_election = United States presidential election, 2000
+| previous_year     = 2000
+| election_date     = {{Start date|2004|11|02}}
+| next_election     = United States presidential election, 2008
+| next_year         = 2008
+| votes_for_election= All [[List of United States presidential electors, 2004|538 electoral votes]] of the [[Electoral College (United States)|Electoral College]]
+| needed_votes      = 270 electoral
+&lt;!-- George W. Bush --&gt;
+| image1            = [[File:George-W-Bush.jpeg|160x150px]]
+| nominee1          = [[Wikipedia:George W. Bush|George W. Bush]]
+| party1            = Republican Party (United States)
+| home_state1       = [[Texas]]
+| running_mate1     = [[Dick Cheney|Richard B. Cheney]]
+| electoral_vote1   = 286
+| states_carried1   = 31
+| popular_vote1     = 62,040,610
+| percentage1       = 50.7%
+&lt;!-- John Kerry --&gt;
+| image2            = [[File:John Kerry headshot with US flag.jpg|160x150px]]
+| nominee2          = [[John Kerry]]
+| party2            = Democratic Party (United States)
+| home_state2       = [[Massachusetts]]
+| running_mate2     = [[John Edwards]]
+| electoral_vote2   = 251
+| states_carried2   = 19 + [[Washington, D.C.|DC]]
+| popular_vote2     = 59,028,444
+| percentage2       = 48.3%
+&lt;!-- map --&gt;
+| map_image         = ElectoralCollege2004.svg
+| map_size          = 270px
+| map_caption       = Presidential election results map
+&lt;!-- bottom --&gt;
+| title             = President
+| before_election   = [[George W. Bush]]
+| before_party      = Republican Party (United States)
+| after_election    = [[George W. Bush]]
+| after_party       = Republican Party (United States)
+}}</pre>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Ongoing_presidential">Ongoing presidential</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="infobox vevent" style="font-size: 88%; line-height: 1.5em; width:px">
+
+<caption class="summary" style="font-size: 125%; font-weight: bold">United States presidential election, 2008
+</caption>
+<tbody><tr>
+<td colspan="4" style="text-align:center;"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><a href="pages/806-united-states.html" title="United States"><img alt="United States" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="50" height="26" class="mw-file-element lazyload" data-image-name="Flag of the United States.png" data-image-key="Flag_of_the_United_States.png" data-relevant="1" data-src="../assets/578-Flag of the United States.png" /></a></span></span><hr />
+</td></tr>
+<tr>
+<td colspan="4">
+<table cellspacing="0" cellpadding="0" style="background:transparent; width:100%;">
+<tbody><tr>
+<td style="width:25%;text-align:left;" class="noprint">2004&#160;←<br />
+</td>
+<td style="width:50%;text-align:center;"><b>November&#160;4,&#160;2008<span style="display:none">&#160;(<span class="bday dtstart published updated">2008-11-04</span>)</span></b>
+</td>
+<td style="width:25%;text-align:right;" class="noprint">→&#160;2012<br />
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td colspan="4">
+<table style="background:transparent; width:100%;">
+
+<tbody><tr>
+<td colspan="4"><hr />
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td>&#160;
+</td>
+<td style="text-align:center;border-bottom: 6px solid #3333FF"><span typeof="mw:Error mw:File"><a href="https://second-renaissance.fandom.com/wiki/Special:Upload?wpDestFile=Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg" class="new" title="File:Hillary Clinton official Secretary of State portrait crop.jpg"><span class="mw-file-element mw-broken-media" data-width="160" data-height="150">File:Hillary Clinton official Secretary of State portrait crop.jpg</span></a></span>
+</td>
+<td style="text-align:center;border-bottom: 6px solid #3333FF"><span typeof="mw:Error mw:File"><a href="https://second-renaissance.fandom.com/wiki/Special:Upload?wpDestFile=Official_portrait_of_Barack_Obama.jpg" class="new" title="File:Official portrait of Barack Obama.jpg"><span class="mw-file-element mw-broken-media" data-width="160" data-height="150">File:Official portrait of Barack Obama.jpg</span></a></span>
+</td>
+<td style="text-align:center;border-bottom: 6px solid #3333FF"><span typeof="mw:Error mw:File"><a href="https://second-renaissance.fandom.com/wiki/Special:Upload?wpDestFile=John_Edwards,_official_Senate_photo_portrait.jpg" class="new" title="File:John Edwards, official Senate photo portrait.jpg"><span class="mw-file-element mw-broken-media" data-width="160" data-height="150">File:John Edwards, official Senate photo portrait.jpg</span></a></span>
+</td></tr>
+<tr>
+<th style="width:75px;text-align:left">Candidate
+</th>
+<td style="width:75px;text-align:center"><a href="pages/1296-hillary-clinton.html" class="mw-redirect" title="Hillary Clinton">Hillary Clinton</a>
+</td>
+<td style="width:75px;text-align:center"><span class="new" title="Barack Obama (page does not exist)" data-uncrawlable-url="L3dpa2kvQmFyYWNrX09iYW1hP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Barack Obama</span>
+</td>
+<td style="width:75px;text-align:center"><span class="new" title="John Edwards (page does not exist)" data-uncrawlable-url="L3dpa2kvSm9obl9FZHdhcmRzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">John Edwards</span>
+</td></tr>
+
+
+<tr>
+<th style="width:75px;text-align:left">Party
+</th>
+<td style="width:75px;text-align:center"><a href="pages/691-democratic-party-united-states.html" class="mw-redirect" title="Democratic Party (United States)">Democratic</a>
+</td>
+<td style="width:75px;text-align:center"><a href="pages/691-democratic-party-united-states.html" class="mw-redirect" title="Democratic Party (United States)">Democratic</a>
+</td>
+<td style="width:75px;text-align:center"><a href="pages/691-democratic-party-united-states.html" class="mw-redirect" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+
+
+<tr>
+<th style="text-align:left">Home&#160;state
+</th>
+<td style="width:75px;text-align:center"><a href="pages/1022-new-york.html" class="mw-redirect" title="New York">New York</a>
+</td>
+<td style="width:75px;text-align:center"><span class="new" title="Illinois (page does not exist)" data-uncrawlable-url="L3dpa2kvSWxsaW5vaXM/YWN0aW9uPWVkaXQmcmVkbGluaz0x">Illinois</span>
+</td>
+<td style="width:75px;text-align:center"><a href="pages/1003-north-carolina.html" class="mw-redirect" title="North Carolina">North Carolina</a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th colspan="4">Opinion&#160;polls
+</th></tr>
+<tr>
+<th style="text-align:left; white-space: nowrap">August 3, 2007<a target="_blank" rel="nofollow noreferrer noopener" class="external autonumber" href="http://www.example.edu/poll/070803">[1]</a>
+</th>
+<td style="width:75px;text-align:center"><b>45%</b>
+</td>
+<td style="width:75px;text-align:center">22%
+</td>
+<td style="width:75px;text-align:center">9%
+</td></tr>
+<tr>
+<th style="text-align:left; white-space: nowrap">August 1, 2007<a target="_blank" rel="nofollow noreferrer noopener" class="external autonumber" href="http://www.example.edu/poll/070801">[2]</a>
+</th>
+<td style="width:75px;text-align:center"><b>46%</b>
+</td>
+<td style="width:75px;text-align:center">23%
+</td>
+<td style="width:75px;text-align:center">12%
+</td></tr>
+<tr>
+<th style="text-align:left; white-space: nowrap">August 1, 2007<a target="_blank" rel="nofollow noreferrer noopener" class="external autonumber" href="http://www.example.com/news/070801">[3]</a>
+</th>
+<td style="width:75px;text-align:center"><b>44%</b>
+</td>
+<td style="width:75px;text-align:center">23%
+</td>
+<td style="width:75px;text-align:center">14%
+</td></tr>
+<tr>
+<th style="text-align:left; white-space: nowrap">July 30, 2007<a target="_blank" rel="nofollow noreferrer noopener" class="external autonumber" href="http://www.example.com/news/070730">[4]</a>
+</th>
+<td style="width:75px;text-align:center"><b>43%</b>
+</td>
+<td style="width:75px;text-align:center">22%
+</td>
+<td style="width:75px;text-align:center">13%
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td colspan="4"><hr />
+</td></tr>
+
+
+<tr>
+<td>&#160;
+</td>
+<td style="text-align:center;border-bottom: 6px solid #FF3333"><span typeof="mw:Error mw:File"><a href="https://second-renaissance.fandom.com/wiki/Special:Upload?wpDestFile=Rudy_Giuliani.jpg" class="new" title="File:Rudy Giuliani.jpg"><span class="mw-file-element mw-broken-media" data-width="160" data-height="150">File:Rudy Giuliani.jpg</span></a></span>
+</td>
+<td style="text-align:center;border-bottom: 6px solid #FF3333"><span typeof="mw:Error mw:File"><a href="https://second-renaissance.fandom.com/wiki/Special:Upload?wpDestFile=Fred_Thompson.jpg" class="new" title="File:Fred Thompson.jpg"><span class="mw-file-element mw-broken-media" data-width="160" data-height="150">File:Fred Thompson.jpg</span></a></span>
+</td>
+<td style="text-align:center;border-bottom: 6px solid #FF3333"><span typeof="mw:Error mw:File"><a href="https://second-renaissance.fandom.com/wiki/Special:Upload?wpDestFile=John_McCain_official_portrait_2009.jpg" class="new" title="File:John McCain official portrait 2009.jpg"><span class="mw-file-element mw-broken-media" data-width="160" data-height="150">File:John McCain official portrait 2009.jpg</span></a></span>
+</td></tr>
+<tr>
+<th style="width:75px;text-align:left">Candidate
+</th>
+<td style="width:75px;text-align:center"><span class="new" title="Rudy Giuliani (page does not exist)" data-uncrawlable-url="L3dpa2kvUnVkeV9HaXVsaWFuaT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Rudy Giuliani</span>
+</td>
+<td style="width:75px;text-align:center"><span class="new" title="Fred Thompson (page does not exist)" data-uncrawlable-url="L3dpa2kvRnJlZF9UaG9tcHNvbj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Fred Thompson</span>
+</td>
+<td style="width:75px;text-align:center"><span class="new" title="John McCain (page does not exist)" data-uncrawlable-url="L3dpa2kvSm9obl9NY0NhaW4/YWN0aW9uPWVkaXQmcmVkbGluaz0x">John McCain</span>
+</td></tr>
+
+
+<tr>
+<th style="width:75px;text-align:left">Party
+</th>
+<td style="width:75px;text-align:center"><a href="pages/690-republican-party-united-states.html" class="mw-redirect" title="Republican Party (United States)">Republican</a>
+</td>
+<td style="width:75px;text-align:center"><a href="pages/690-republican-party-united-states.html" class="mw-redirect" title="Republican Party (United States)">Republican</a>
+</td>
+<td style="width:75px;text-align:center"><a href="pages/690-republican-party-united-states.html" class="mw-redirect" title="Republican Party (United States)">Republican</a>
+</td></tr>
+
+
+<tr>
+<th style="text-align:left">Home&#160;state
+</th>
+<td style="width:75px;text-align:center"><a href="pages/1022-new-york.html" class="mw-redirect" title="New York">New York</a>
+</td>
+<td style="width:75px;text-align:center"><a href="pages/1026-tennessee.html" class="mw-redirect" title="Tennessee">Tennessee</a>
+</td>
+<td style="width:75px;text-align:center"><span class="new" title="Arizona (page does not exist)" data-uncrawlable-url="L3dpa2kvQXJpem9uYT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Arizona</span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th colspan="4">Opinion&#160;polls
+</th></tr>
+<tr>
+<th style="text-align:left; white-space: nowrap">August 3, 2007<a target="_blank" rel="nofollow noreferrer noopener" class="external autonumber" href="http://www.example.edu/poll/070803">[5]</a>
+</th>
+<td style="width:75px;text-align:center"><b>26%</b>
+</td>
+<td style="width:75px;text-align:center">21%
+</td>
+<td style="width:75px;text-align:center">11%
+</td></tr>
+<tr>
+<th style="text-align:left; white-space: nowrap">August 1, 2007<a target="_blank" rel="nofollow noreferrer noopener" class="external autonumber" href="http://www.example.edu/poll/070801">[6]</a>
+</th>
+<td style="width:75px;text-align:center"><b>32%</b>
+</td>
+<td style="width:75px;text-align:center">20%
+</td>
+<td style="width:75px;text-align:center">13%
+</td></tr>
+<tr>
+<th style="text-align:left; white-space: nowrap">August 1, 2007<a target="_blank" rel="nofollow noreferrer noopener" class="external autonumber" href="http://www.example.com/news/070801">[7]</a>
+</th>
+<td style="width:75px;text-align:center"><b>33%</b>
+</td>
+<td style="width:75px;text-align:center">20%
+</td>
+<td style="width:75px;text-align:center">17%
+</td></tr>
+<tr>
+<th style="text-align:left; white-space: nowrap">July 30, 2007<a target="_blank" rel="nofollow noreferrer noopener" class="external autonumber" href="http://www.example.com/news/070730">[8]</a>
+</th>
+<td style="width:75px;text-align:center"><b>30%</b>
+</td>
+<td style="width:75px;text-align:center">22%
+</td>
+<td style="width:75px;text-align:center">13%
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="4" style="text-align:center"><hr />
+<p><span typeof="mw:Error mw:File"><a href="https://second-renaissance.fandom.com/wiki/Special:Upload?wpDestFile=US_Electoral_College_Map.PNG" class="new" title="File:US Electoral College Map.PNG"><span class="mw-file-element mw-broken-media" data-width="350">File:US Electoral College Map.PNG</span></a></span>
+</p>
+</td></tr>
+<tr>
+<td colspan="4" style="text-align:center">Presidential electoral votes by state.
+</td></tr>
+
+
+
+<tr>
+<td colspan="4" style="text-align:center"><hr />
+<table cellspacing="0" cellpadding="0" style="background:transparent; width:100%;">
+<tbody><tr>
+<td style="width:50%; text-align:left; text-size: 80%"><b>Incumbent President</b><br />
+<p><span class="new" title="George W. Bush (page does not exist)" data-uncrawlable-url="L3dpa2kvR2VvcmdlX1cuX0J1c2g/YWN0aW9uPWVkaXQmcmVkbGluaz0x">George W. Bush</span><br />
+<a href="pages/690-republican-party-united-states.html" class="mw-redirect" title="Republican Party (United States)">Republican</a>
+</p>
+</td>
+<td style="width:50%; text-align:right; text-size: 80%">
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<pre style="overflow: auto">{{Infobox election
+| election_name     = United States presidential election, 2008
+| country           = United States
+| type              = presidential
+| ongoing           = yes
+| previous_election = United States presidential election, 2004
+| previous_year     = 2004
+| election_date     = {{Start date|2008|11|04}}
+| next_election     = United States presidential election, 2012
+| next_year         = 2012
+&lt;!-- Hillary Clinton --&gt;
+| image1            = [[File:Hillary Clinton official Secretary of State portrait crop.jpg|160x150px]]
+| candidate1        = [[Hillary Clinton]]
+| party1            = Democratic Party (United States)
+| home_state1       = [[New York]]
+| running_mate1     = 
+| electoral_vote1   = 
+| states_carried1   = 
+| popular_vote1     = 
+| percentage1       = 
+&lt;!-- Barack Obama --&gt;
+| image2            = [[File:Official portrait of Barack Obama.jpg|160x150px]]
+| candidate2        = [[Barack Obama]]
+| party2            = Democratic Party (United States)
+| home_state2       = [[Illinois]]
+| running_mate2     = 
+| electoral_vote2   = 
+| states_carried2   = 
+| popular_vote2     = 
+| percentage2       = 
+&lt;!-- John Edwards --&gt;
+| image3            = [[File:John Edwards, official Senate photo portrait.jpg|160x150px]]
+| candidate3        = [[John Edwards]]
+| party3            = Democratic Party (United States)
+| home_state3       = [[North Carolina]]
+| running_mate3     = 
+| electoral_vote3   = 
+| states_carried3   = 
+| popular_vote3     = 
+| percentage3       = 
+&lt;!-- Rudy Giuliani --&gt;
+| image4            = [[File:Rudy Giuliani.jpg|160x150px]]
+| candidate4        = [[Rudy Giuliani]]
+| party4            = Republican Party (United States)
+| home_state4       = [[New York]]
+| running_mate4     = 
+| electoral_vote4   = 
+| states_carried4   = 
+| popular_vote4     = 
+| percentage4       = 
+&lt;!-- Fred Thompson --&gt;
+| image5            = [[File:Fred Thompson.jpg|160x150px]]
+| candidate5        = [[Fred Thompson]]
+| party5            = Republican Party (United States)
+| home_state5       = [[Tennessee]]
+| running_mate5     = 
+| electoral_vote5   = 
+| states_carried5   = 
+| popular_vote5     = 
+| percentage5       = 
+&lt;!-- John McCain --&gt;
+| image6            = [[File:John McCain official portrait 2009.jpg|160x150px]]
+| candidate6        = [[John McCain]]
+| party6            = Republican Party (United States)
+| home_state6       = [[Arizona]]
+| running_mate6     = 
+| electoral_vote6   = 
+| states_carried6   = 
+| popular_vote6     = 
+| percentage6       = 
+&lt;!-- polls --&gt;
+| poll1_date        = August 3, 2007
+| poll1_source      = http://www.example.edu/poll/070803
+| poll1_candidate1  = '''45%'''
+| poll1_candidate2  = 22%
+| poll1_candidate3  = 9%
+| poll1_candidate4  = '''26%'''
+| poll1_candidate5  = 21%
+| poll1_candidate6  = 11%
+
+| poll2_date        = August 1, 2007
+| poll2_source      = http://www.example.edu/poll/070801
+| poll2_candidate1  = '''46%'''
+| poll2_candidate2  = 23%
+| poll2_candidate3  = 12%
+| poll2_candidate4  = '''32%'''
+| poll2_candidate5  = 20%
+| poll2_candidate6  = 13%
+
+| poll3_date        = August 1, 2007
+| poll3_source      = http://www.example.com/news/070801
+| poll3_candidate1  = '''44%'''
+| poll3_candidate2  = 23%
+| poll3_candidate3  = 14%
+| poll3_candidate4  = '''33%'''
+| poll3_candidate5  = 20%
+| poll3_candidate6  = 17%
+
+| poll4_date        = July 30, 2007
+| poll4_source      = http://www.example.com/news/070730
+| poll4_candidate1  = '''43%'''
+| poll4_candidate2  = 22%
+| poll4_candidate3  = 13%
+| poll4_candidate4  = '''30%'''
+| poll4_candidate5  = 22%
+| poll4_candidate6  = 13%
+&lt;!-- map --&gt;
+| map_image         = Electoral map.svg
+| map_size          = 350px
+| map_caption       = Presidential electoral votes by state.
+&lt;!-- bottom --&gt;
+| title             = President
+| before_election   = [[George W. Bush]]
+| before_party      = Republican Party (United States)
+| after_election    = 
+| after_party       = 
+}}</pre>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Legislative_or_parliamentary">Legislative or parliamentary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="infobox vevent" style="font-size: 88%; line-height: 1.5em; width:px">
+
+<caption class="summary" style="font-size: 125%; font-weight: bold">United Kingdom general election, 2005
+</caption>
+<tbody><tr>
+<td colspan="4" style="text-align:center;"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><a href="https://second-renaissance.fandom.com/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="50" height="25" class="mw-file-element lazyload" data-image-name="Flag of the United Kingdom.png" data-image-key="Flag_of_the_United_Kingdom.png" data-relevant="0" data-src="../assets/2487-Flag of the United Kingdom.png" /></a></span></span><hr />
+</td></tr>
+<tr>
+<td colspan="4">
+<table cellspacing="0" cellpadding="0" style="background:transparent; width:100%;">
+<tbody><tr>
+<td style="width:25%;text-align:left;" class="noprint">2001&#160;←<br />
+</td>
+<td style="width:50%;text-align:center;"><b>May&#160;5,&#160;2005<span style="display:none">&#160;(<span class="bday dtstart published updated">2005-05-05</span>)</span></b><div class="noprint"><span class="new" title="List of MPs elected in the United Kingdom general election, 2005 (page does not exist)" data-uncrawlable-url="L3dpa2kvTGlzdF9vZl9NUHNfZWxlY3RlZF9pbl90aGVfVW5pdGVkX0tpbmdkb21fZ2VuZXJhbF9lbGVjdGlvbixfMjAwNT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">members</span></div>
+</td>
+<td style="width:25%;text-align:right;" class="noprint">→&#160;2010<br />
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td colspan="4">
+<table style="background:transparent; width:100%;">
+
+<tbody><tr>
+<td colspan="4"><hr />
+</td></tr>
+<tr>
+<th colspan="4" style="text-align:center"><small>All <span class="new" title="List of United Kingdom Parliament constituencies 2005–2010 (page does not exist)" data-uncrawlable-url="L3dpa2kvTGlzdF9vZl9Vbml0ZWRfS2luZ2RvbV9QYXJsaWFtZW50X2NvbnN0aXR1ZW5jaWVzXzIwMDUlRTIlODAlOTMyMDEwP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">646 seats</span> to the <span class="new" title="House of Commons of the United Kingdom (page does not exist)" data-uncrawlable-url="L3dpa2kvSG91c2Vfb2ZfQ29tbW9uc19vZl90aGVfVW5pdGVkX0tpbmdkb20/YWN0aW9uPWVkaXQmcmVkbGluaz0x">House of Commons</span></small><br /><small>324 seats needed for a majority</small>
+</th></tr>
+<tr>
+<td colspan="4" style="text-align:center"><a href="#Opinion_polls">Opinion&#160;polls</a>
+</td></tr>
+
+
+<tr>
+<th style="text-align:left">Turnout
+</th>
+<td colspan="3" style="text-align:center">61.4%
+</td></tr>
+
+
+
+<tr>
+<th style="text-align:left;">&#160;
+</th>
+<th style="text-align:center">First party
+</th>
+<th style="text-align:center">Second party
+</th>
+<th style="text-align:center">Third party
+</th></tr>
+<tr>
+<td>&#160;
+</td>
+<td style="text-align:center;"><span typeof="mw:Error mw:File"><a href="https://second-renaissance.fandom.com/wiki/Special:Upload?wpDestFile=TonyBlairBasra.JPG" class="new" title="File:TonyBlairBasra.JPG"><span class="mw-file-element mw-broken-media" data-width="160" data-height="150">File:TonyBlairBasra.JPG</span></a></span>
+</td>
+<td style="text-align:center;"><span typeof="mw:Error mw:File"><a href="https://second-renaissance.fandom.com/wiki/Special:Upload?wpDestFile=Michael_Howard_1099_cropped.jpg" class="new" title="File:Michael Howard 1099 cropped.jpg"><span class="mw-file-element mw-broken-media" data-width="160" data-height="150">File:Michael Howard 1099 cropped.jpg</span></a></span>
+</td>
+<td style="text-align:center;"><span typeof="mw:Error mw:File"><a href="https://second-renaissance.fandom.com/wiki/Special:Upload?wpDestFile=Charles_Kennedy.jpg" class="new" title="File:Charles Kennedy.jpg"><span class="mw-file-element mw-broken-media" data-width="160" data-height="150">File:Charles Kennedy.jpg</span></a></span>
+</td></tr>
+
+
+<tr>
+<th style="text-align:left">Leader
+</th>
+<td style="width:75px;text-align:center"><span class="new" title="Tony Blair (page does not exist)" data-uncrawlable-url="L3dpa2kvVG9ueV9CbGFpcj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Tony Blair</span>
+</td>
+<td style="width:75px;text-align:center"><span class="new" title="Michael Howard (page does not exist)" data-uncrawlable-url="L3dpa2kvTWljaGFlbF9Ib3dhcmQ/YWN0aW9uPWVkaXQmcmVkbGluaz0x">Michael Howard</span>
+</td>
+<td style="width:75px;text-align:center"><span class="new" title="Charles Kennedy (page does not exist)" data-uncrawlable-url="L3dpa2kvQ2hhcmxlc19LZW5uZWR5P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Charles Kennedy</span>
+</td></tr>
+<tr>
+<th style="width:75px;text-align:left">Party
+</th>
+<td style="width:75px;text-align:center">Labour Party (UK)
+</td>
+<td style="width:75px;text-align:center">Conservative Party (UK)
+</td>
+<td style="width:75px;text-align:center">Liberal Democrats
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th style="text-align:left">Leader&#160;since
+</th>
+<td style="width:75px;text-align:center">21 July 1994
+</td>
+<td style="width:75px;text-align:center">6 November 2003
+</td>
+<td style="width:75px;text-align:center">9 August 1999
+</td></tr>
+<tr>
+<th style="text-align:left">Leader's&#160;seat
+</th>
+<td style="width:75px;text-align:center"><span class="new" title="Sedgefield (UK Parliament constituency) (page does not exist)" data-uncrawlable-url="L3dpa2kvU2VkZ2VmaWVsZF8oVUtfUGFybGlhbWVudF9jb25zdGl0dWVuY3kpP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Sedgefield</span>
+</td>
+<td style="width:75px;text-align:center"><span class="new" title="Folkestone and Hythe (UK Parliament constituency) (page does not exist)" data-uncrawlable-url="L3dpa2kvRm9sa2VzdG9uZV9hbmRfSHl0aGVfKFVLX1BhcmxpYW1lbnRfY29uc3RpdHVlbmN5KT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Folkestone &amp; Hythe</span>
+</td>
+<td style="width:75px;text-align:center"><span class="new" title="Ross, Skye and Lochaber (UK Parliament constituency) (page does not exist)" data-uncrawlable-url="L3dpa2kvUm9zcyxfU2t5ZV9hbmRfTG9jaGFiZXJfKFVLX1BhcmxpYW1lbnRfY29uc3RpdHVlbmN5KT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Ross, Skye, &amp; Lochaber</span>
+</td></tr>
+<tr>
+<th style="text-align:left">Last&#160;election
+</th>
+<td style="width:75px;text-align:center">413 seats, 40.7%
+</td>
+<td style="width:75px;text-align:center">166 seats, 31.7%
+</td>
+<td style="width:75px;text-align:center">52 seats, 18.3%
+</td></tr>
+<tr>
+<th style="text-align:left">Seats&#160;before
+</th>
+<td style="width:75px;text-align:center">403
+</td>
+<td style="width:75px;text-align:center">165
+</td>
+<td style="width:75px;text-align:center">51
+</td></tr>
+
+
+<tr>
+<th style="text-align:left">Seats&#160;won
+</th>
+<td style="width:75px;text-align:center">355
+</td>
+<td style="width:75px;text-align:center">198
+</td>
+<td style="width:75px;text-align:center">62
+</td></tr>
+
+
+<tr>
+<th style="text-align:left">Seat&#160;change
+</th>
+<td style="width:75px;text-align:center">-48
+</td>
+<td style="width:75px;text-align:center">+33
+</td>
+<td style="width:75px;text-align:center">+11
+</td></tr>
+<tr>
+<th style="text-align:left">Popular&#160;vote
+</th>
+<td style="width:75px;text-align:center">9,552,436
+</td>
+<td style="width:75px;text-align:center">8,784,915
+</td>
+<td style="width:75px;text-align:center">5,985,454
+</td></tr>
+<tr>
+<th style="text-align:left">Percentage
+</th>
+<td style="width:75px;text-align:center">35.2%
+</td>
+<td style="width:75px;text-align:center">32.4%
+</td>
+<td style="width:75px;text-align:center">22.0%
+</td></tr>
+
+
+
+
+<tr>
+<th style="text-align:left">Swing
+</th>
+<td style="width:75px;text-align:center">-5.5%
+</td>
+<td style="width:75px;text-align:center">+0.7%
+</td>
+<td style="width:75px;text-align:center">+3.7%
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="4" style="text-align:center"><hr />
+<p><span typeof="mw:Error mw:File"><a href="https://second-renaissance.fandom.com/wiki/Special:Upload?wpDestFile=2005UKElectionMap.svg" class="new" title="File:2005UKElectionMap.svg"><span class="mw-file-element mw-broken-media" data-width="250">File:2005UKElectionMap.svg</span></a></span>
+</p>
+</td></tr>
+<tr>
+<td colspan="4" style="text-align:center">Map of United Kingdom showing constituencies won
+</td></tr>
+
+
+
+<tr>
+<td colspan="4" style="text-align:center"><hr />
+<table cellspacing="0" cellpadding="0" style="background:transparent; width:100%;">
+<tbody><tr>
+<td style="width:50%; text-align:left; text-size: 80%"><b>Prime Minister before election</b><br />
+<p><span class="new" title="Tony Blair (page does not exist)" data-uncrawlable-url="L3dpa2kvVG9ueV9CbGFpcj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Tony Blair</span><br />
+Labour Party (UK)
+</p>
+</td>
+<td style="width:50%; text-align:right; text-size: 80%"><b>Elected Prime Minister</b><br />
+<p><span class="new" title="Tony Blair (page does not exist)" data-uncrawlable-url="L3dpa2kvVG9ueV9CbGFpcj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Tony Blair</span><br />
+Labour Party (UK)
+</p>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<pre style="overflow: auto">{{Infobox election
+| election_name     = United Kingdom general election, 2005
+| country           = United Kingdom
+| type              = parliamentary
+| previous_election = United Kingdom general election, 2001
+| previous_year     = 2001
+| previous_mps      = List of MPs elected in the United Kingdom general election, 2001
+| election_date     = {{Start date|2005|05|05}}
+| elected_mps       = [[List of MPs elected in the United Kingdom general election, 2005|members]]
+| next_election     = United Kingdom general election, 2010
+| next_year         = 2010
+| next_mps          = List of MPs elected in the United Kingdom general election, 2010
+| seats_for_election= All [[List of United Kingdom Parliament constituencies 2005–2010|646 seats]] to the [[House of Commons of the United Kingdom|House of Commons]]
+| majority_seats    = 324
+| opinion_polls     = #Opinion polls
+| turnout           = 61.4%
+&lt;!-- Labour --&gt;
+| image1            = [[File:TonyBlairBasra.JPG|160x150px]]
+| leader1           = [[Tony Blair]]
+| party1            = Labour Party (UK)
+| leader_since1     = 21 July 1994
+| leaders_seat1     = [[Sedgefield (UK Parliament constituency)|Sedgefield]]
+| last_election1    = 413 seats, 40.7%
+| seats_before1     = 403
+| seats1            = 355
+| seat_change1      = -48
+| popular_vote1     = 9,552,436
+| percentage1       = 35.2%
+| swing1            = -5.5%
+&lt;!-- Conservative --&gt;
+| image2            = [[File:Michael Howard 1099 cropped.jpg|160x150px]]
+| leader2           = [[Michael Howard]]
+| party2            = Conservative Party (UK)
+| leader_since2     = 6 November 2003
+| leaders_seat2     = [[Folkestone and Hythe (UK Parliament constituency)|Folkestone &amp; Hythe]]
+| last_election2    = 166 seats, 31.7%
+| seats_before2     = 165
+| seats2            = 198
+| seat_change2      = +33
+| popular_vote2     = 8,784,915
+| percentage2       = 32.4%
+| swing2            = +0.7%
+&lt;!-- Liberal Democrats --&gt;
+| image3            = [[File:Charles Kennedy.jpg|160x150px]]
+| leader3           = [[Charles Kennedy]]
+| party3            = Liberal Democrats
+| leader_since3     = 9 August 1999
+| leaders_seat3     = [[Ross, Skye and Lochaber (UK Parliament constituency)|Ross, Skye, &amp; Lochaber]]
+| last_election3    = 52 seats, 18.3%
+| seats_before3     = 51
+| seats3            = 62
+| seat_change3      = +11
+| popular_vote3     = 5,985,454
+| percentage3       = 22.0%
+| swing3            = +3.7%
+&lt;!-- map --&gt;
+| map_image         = 2005UKElectionMap.svg
+| map_size          = 250px
+| map_caption       = Map of United Kingdom showing constituencies won
+&lt;!-- bottom --&gt;
+| title             = Prime Minister
+| before_election   = [[Tony Blair]]
+| before_party      = Labour Party (UK)
+| after_election    = [[Tony Blair]]
+| after_party       = Labour Party (UK)
+}}</pre>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Ongoing_legislative_or_parliamentary">Ongoing legislative or parliamentary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="infobox vevent" style="font-size: 88%; line-height: 1.5em;">
+
+<caption class="summary" style="font-size: 125%; font-weight: bold">54th United Kingdom general election
+</caption>
+<tbody><tr>
+<td colspan="4" style="text-align:center;"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><a href="https://second-renaissance.fandom.com/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="50" height="25" class="mw-file-element lazyload" data-image-name="Flag of the United Kingdom.png" data-image-key="Flag_of_the_United_Kingdom.png" data-relevant="0" data-src="../assets/2487-Flag of the United Kingdom.png" /></a></span></span><hr />
+</td></tr>
+<tr>
+<td colspan="4">
+<table cellspacing="0" cellpadding="0" style="background:transparent; width:100%;">
+<tbody><tr>
+<td style="width:25%;text-align:left;" class="noprint">2005&#160;←<br />
+</td>
+<td style="width:50%;text-align:center;"><b>On or before June&#160;3,&#160;2010<span style="display:none">&#160;(<span class="bday dtstart published updated">2010-06-03</span>)</span></b>
+</td>
+<td style="width:25%;text-align:right;" class="noprint">
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td colspan="4">
+<table style="background:transparent; width:100%;">
+
+<tbody><tr>
+<td colspan="4"><hr />
+</td></tr>
+<tr>
+<th colspan="4" style="text-align:center"><small>All <span class="new" title="List of United Kingdom Parliament constituencies (page does not exist)" data-uncrawlable-url="L3dpa2kvTGlzdF9vZl9Vbml0ZWRfS2luZ2RvbV9QYXJsaWFtZW50X2NvbnN0aXR1ZW5jaWVzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">650 seats</span> to the <span class="new" title="House of Commons of the United Kingdom (page does not exist)" data-uncrawlable-url="L3dpa2kvSG91c2Vfb2ZfQ29tbW9uc19vZl90aGVfVW5pdGVkX0tpbmdkb20/YWN0aW9uPWVkaXQmcmVkbGluaz0x">House of Commons</span></small><br /><small>326 seats needed for a majority</small>
+</th></tr>
+<tr>
+<td colspan="4" style="text-align:center"><span class="new" title="Opinion polling for the United Kingdom general election, 2010 (page does not exist)" data-uncrawlable-url="L3dpa2kvT3Bpbmlvbl9wb2xsaW5nX2Zvcl90aGVfVW5pdGVkX0tpbmdkb21fZ2VuZXJhbF9lbGVjdGlvbixfMjAxMD9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Opinion&#160;polls</span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td>&#160;
+</td>
+<td style="text-align:center;"><span typeof="mw:Error mw:File"><a href="https://second-renaissance.fandom.com/wiki/Special:Upload?wpDestFile=GordonBrown1234_cropped.jpg" class="new" title="File:GordonBrown1234 cropped.jpg"><span class="mw-file-element mw-broken-media" data-width="160" data-height="150">File:GordonBrown1234 cropped.jpg</span></a></span>
+</td>
+<td style="text-align:center;"><span typeof="mw:Error mw:File"><a href="https://second-renaissance.fandom.com/wiki/Special:Upload?wpDestFile=David_Cameron_-_World_Economic_Forum_Annual_Meeting_Davos_2010.jpg" class="new" title="File:David Cameron - World Economic Forum Annual Meeting Davos 2010.jpg"><span class="mw-file-element mw-broken-media" data-width="160" data-height="150">File:David Cameron - World Economic Forum Annual Meeting Davos 2010.jpg</span></a></span>
+</td>
+<td style="text-align:center;"><span typeof="mw:Error mw:File"><a href="https://second-renaissance.fandom.com/wiki/Special:Upload?wpDestFile=Nick_Clegg_by_the_2009_budget_cropped.jpg" class="new" title="File:Nick Clegg by the 2009 budget cropped.jpg"><span class="mw-file-element mw-broken-media" data-width="160" data-height="150">File:Nick Clegg by the 2009 budget cropped.jpg</span></a></span>
+</td></tr>
+
+
+<tr>
+<th style="text-align:left">Leader
+</th>
+<td style="width:75px;text-align:center"><span class="new" title="Gordon Brown (page does not exist)" data-uncrawlable-url="L3dpa2kvR29yZG9uX0Jyb3duP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Gordon Brown</span>
+</td>
+<td style="width:75px;text-align:center"><span class="new" title="David Cameron (page does not exist)" data-uncrawlable-url="L3dpa2kvRGF2aWRfQ2FtZXJvbj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">David Cameron</span>
+</td>
+<td style="width:75px;text-align:center"><span class="new" title="Nick Clegg (page does not exist)" data-uncrawlable-url="L3dpa2kvTmlja19DbGVnZz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Nick Clegg</span>
+</td></tr>
+<tr>
+<th style="width:75px;text-align:left">Party
+</th>
+<td style="width:75px;text-align:center">Labour Party (UK)
+</td>
+<td style="width:75px;text-align:center">Conservative Party (UK)
+</td>
+<td style="width:75px;text-align:center">Liberal Democrats
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th style="text-align:left">Leader&#160;since
+</th>
+<td style="width:75px;text-align:center"><span class="new" title="Labour Party (UK) leadership election, 2007 (page does not exist)" data-uncrawlable-url="L3dpa2kvTGFib3VyX1BhcnR5XyhVSylfbGVhZGVyc2hpcF9lbGVjdGlvbixfMjAwNz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">24 June 2007</span>
+</td>
+<td style="width:75px;text-align:center"><span class="new" title="Conservative Party (UK) leadership election, 2005 (page does not exist)" data-uncrawlable-url="L3dpa2kvQ29uc2VydmF0aXZlX1BhcnR5XyhVSylfbGVhZGVyc2hpcF9lbGVjdGlvbixfMjAwNT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">6 December 2005</span>
+</td>
+<td style="width:75px;text-align:center"><span class="new" title="Liberal Democrats leadership election, 2007 (page does not exist)" data-uncrawlable-url="L3dpa2kvTGliZXJhbF9EZW1vY3JhdHNfbGVhZGVyc2hpcF9lbGVjdGlvbixfMjAwNz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">18 December 2007</span>
+</td></tr>
+<tr>
+<th style="text-align:left">Leader's&#160;seat
+</th>
+<td style="width:75px;text-align:center"><span class="new" title="Kirkcaldy and Cowdenbeath (UK Parliament constituency) (page does not exist)" data-uncrawlable-url="L3dpa2kvS2lya2NhbGR5X2FuZF9Db3dkZW5iZWF0aF8oVUtfUGFybGlhbWVudF9jb25zdGl0dWVuY3kpP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Kirkcaldy &amp; Cowdenbeath</span>
+</td>
+<td style="width:75px;text-align:center"><span class="new" title="Witney (UK Parliament constituency) (page does not exist)" data-uncrawlable-url="L3dpa2kvV2l0bmV5XyhVS19QYXJsaWFtZW50X2NvbnN0aXR1ZW5jeSk/YWN0aW9uPWVkaXQmcmVkbGluaz0x">Witney</span>
+</td>
+<td style="width:75px;text-align:center"><span class="new" title="Sheffield Hallam (UK Parliament constituency) (page does not exist)" data-uncrawlable-url="L3dpa2kvU2hlZmZpZWxkX0hhbGxhbV8oVUtfUGFybGlhbWVudF9jb25zdGl0dWVuY3kpP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Sheffield Hallam</span>
+</td></tr>
+<tr>
+<th style="text-align:left">Last&#160;election
+</th>
+<td style="width:75px;text-align:center">355 seats, 35.2%
+</td>
+<td style="width:75px;text-align:center">198 seats, 32.4%
+</td>
+<td style="width:75px;text-align:center">62 seats, 22.0%
+</td></tr>
+<tr>
+<th style="text-align:left">Current&#160;seats
+</th>
+<td style="width:75px;text-align:center">345
+</td>
+<td style="width:75px;text-align:center">193
+</td>
+<td style="width:75px;text-align:center">63
+</td></tr>
+<tr>
+<th style="text-align:left">Seats&#160;needed
+</th>
+<td style="width:75px;text-align:center">-20
+</td>
+<td style="width:75px;text-align:center">132
+</td>
+<td style="width:75px;text-align:center">262
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+</td></tr>
+
+
+
+
+<tr>
+<td colspan="4" style="text-align:center"><hr />
+<table cellspacing="0" cellpadding="0" style="background:transparent; width:100%;">
+<tbody><tr>
+<td style="width:50%; text-align:left; text-size: 80%"><b>Incumbent Prime Minister</b><br />
+<p><span class="new" title="Gordon Brown (page does not exist)" data-uncrawlable-url="L3dpa2kvR29yZG9uX0Jyb3duP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Gordon Brown</span><br />
+Labour Party (UK)
+</p>
+</td>
+<td style="width:50%; text-align:right; text-size: 80%">
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<pre style="overflow: auto">{{Infobox election
+| election_name     = 54th United Kingdom general election
+| country           = United Kingdom
+| type              = parliamentary
+| ongoing           = yes
+| previous_election = United Kingdom general election, 2005
+| previous_year     = 2005
+| previous_mps      = List of MPs elected in the United Kingdom general election, 2005
+| election_date     = On or before {{Start date|2010|06|03}}
+| elected_mps       = 
+| next_election     = 
+| next_year         = 
+| next_mps          = 
+| seats_for_election= All [[List of United Kingdom Parliament constituencies|650 seats]] to the [[House of Commons of the United Kingdom|House of Commons]]
+| majority_seats    = 326
+| opinion_polls     = Opinion polling for the United Kingdom general election, 2010
+| turnout           = 
+&lt;!-- Labour --&gt;
+| image1            = [[File:GordonBrown1234_cropped.jpg|160x150px]]
+| leader1           = [[Gordon Brown]]
+| party1            = Labour Party (UK)
+| leader_since1     = [[Labour Party (UK) leadership election, 2007|24 June, 2007]]
+| leaders_seat1     = [[Kirkcaldy and Cowdenbeath (UK Parliament constituency)|Kirkcaldy &amp; Cowdenbeath]]
+| last_election1    = 355 seats, 35.2%
+| seats_before1     = 345
+| seats_needed1     = -20
+| seats1            = 
+| seat_change1      = 
+| popular_vote1     = 
+| percentage1       = 
+| swing1            = 
+&lt;!-- Conservative --&gt;
+| image2            = [[File:David Cameron - World Economic Forum Annual Meeting Davos 2010.jpg|160x150px]]
+| leader2           = [[David Cameron]]
+| party2            = Conservative Party (UK)
+| leader_since2     = [[Conservative Party (UK) leadership election, 2005|6 December, 2005]]
+| leaders_seat2     = [[Witney (UK Parliament constituency)|Witney]]
+| last_election2    = 198 seats, 32.4%
+| seats_before2     = 193
+| seats_needed2     = 132
+| seats2            = 
+| seat_change2      = 
+| popular_vote2     = 
+| percentage2       = 
+| swing2            = 
+&lt;!-- Liberal Democrat --&gt;
+| image3            = [[File:Nick Clegg by the 2009 budget cropped.jpg|160x150px]]
+| leader3           = [[Nick Clegg]]
+| party3            = Liberal Democrats
+| leader_since3     = [[Liberal Democrats leadership election, 2007|18 December 2007]]
+| leaders_seat3     = [[Sheffield Hallam (UK Parliament constituency)|Sheffield Hallam]]
+| last_election3    = 62 seats, 22.0%
+| seats_before3     = 63
+| seats_needed3     = 262
+| seats3            = 
+| seat_change3      = 
+| popular_vote3     = 
+| percentage3       = 
+| swing3            = 
+&lt;!-- map --&gt;
+| map_image         = 
+| map_size          = 
+| map_caption       = 
+&lt;!-- bottom --&gt;
+| title             = Prime Minister
+| before_election   = [[Gordon Brown]]
+| before_party      = Labour Party (UK)
+| after_election    = 
+| after_party       = 
+}}</pre>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="By-election">By-election</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="infobox vevent" style="font-size: 88%; line-height: 1.5em; width:px">
+
+<caption class="summary" style="font-size: 125%; font-weight: bold">Bradford West by-election, 2012
+</caption>
+<tbody><tr>
+<td colspan="4" style="text-align:center;"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><a href="https://second-renaissance.fandom.com/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="50" height="25" class="mw-file-element lazyload" data-image-name="Flag of the United Kingdom.png" data-image-key="Flag_of_the_United_Kingdom.png" data-relevant="0" data-src="../assets/2487-Flag of the United Kingdom.png" /></a></span></span><hr />
+</td></tr>
+<tr>
+<td colspan="4">
+<table cellspacing="0" cellpadding="0" style="background:transparent; width:100%;">
+<tbody><tr>
+<td style="width:25%;text-align:left;" class="noprint">2010&#160;←<br />
+</td>
+<td style="width:50%;text-align:center;"><b>29&#160;March&#160;2012<span style="display:none">&#160;(<span class="bday dtstart published updated">2012-03-29</span>)</span></b>
+</td>
+<td style="width:25%;text-align:right;" class="noprint">
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td colspan="4">
+<table style="background:transparent; width:100%;">
+
+<tbody><tr>
+<td colspan="4"><hr />
+</td></tr>
+<tr>
+<th colspan="4" style="text-align:center"><small>The <span class="new" title="Bradford West (UK Parliament constituency) (page does not exist)" data-uncrawlable-url="L3dpa2kvQnJhZGZvcmRfV2VzdF8oVUtfUGFybGlhbWVudF9jb25zdGl0dWVuY3kpP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Bradford West</span> seat in the <span class="new" title="House of Commons of the United Kingdom (page does not exist)" data-uncrawlable-url="L3dpa2kvSG91c2Vfb2ZfQ29tbW9uc19vZl90aGVfVW5pdGVkX0tpbmdkb20/YWN0aW9uPWVkaXQmcmVkbGluaz0x">House of Commons</span>.<br />Election by simple majority using <span class="new" title="First past the post (page does not exist)" data-uncrawlable-url="L3dpa2kvRmlyc3RfcGFzdF90aGVfcG9zdD9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">first past the post</span>.<br />Triggered by resignation of incumbent</small>
+</th></tr>
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td>&#160;
+</td>
+<td style="text-align:center;"><span typeof="mw:Error mw:File"><a href="https://second-renaissance.fandom.com/wiki/Special:Upload?wpDestFile=George_Galloway_2007-02-24.jpg" class="new" title="File:George Galloway 2007-02-24.jpg"><span class="mw-file-element mw-broken-media" data-width="100">File:George Galloway 2007-02-24.jpg</span></a></span>
+</td>
+<td style="text-align:center;">&#160;
+</td>
+<td style="text-align:center;">&#160;
+</td></tr>
+<tr>
+<th style="width:75px;text-align:left">Candidate
+</th>
+<td style="width:75px;text-align:center"><span class="new" title="George Galloway (page does not exist)" data-uncrawlable-url="L3dpa2kvR2VvcmdlX0dhbGxvd2F5P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">George Galloway</span>
+</td>
+<td style="width:75px;text-align:center">Imran Hussain
+</td>
+<td style="width:75px;text-align:center">Jackie Whiteley
+</td></tr>
+
+
+<tr>
+<th style="width:75px;text-align:left">Party
+</th>
+<td style="width:75px;text-align:center">Respect Party
+</td>
+<td style="width:75px;text-align:center">Labour Party (UK)
+</td>
+<td style="width:75px;text-align:center">Conservative Party (UK)
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th style="text-align:left">Popular&#160;vote
+</th>
+<td style="width:75px;text-align:center">18,341
+</td>
+<td style="width:75px;text-align:center">8,201
+</td>
+<td style="width:75px;text-align:center">2,746
+</td></tr>
+<tr>
+<th style="text-align:left">Percentage
+</th>
+<td style="width:75px;text-align:center">55.9
+</td>
+<td style="width:75px;text-align:center">25.0
+</td>
+<td style="width:75px;text-align:center">8.4
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td colspan="4"><hr />
+</td></tr>
+
+
+<tr>
+<td>&#160;
+</td>
+<td style="text-align:center;">
+</td>
+<td style="text-align:center;">&#160;
+</td>
+<td style="text-align:center;">&#160;
+</td></tr>
+<tr>
+<th style="width:75px;text-align:left">Candidate
+</th>
+<td style="width:75px;text-align:center">Jeanette Sunderland
+</td>
+<td style="width:75px;text-align:center">Sonja McNally
+</td>
+<td style="width:75px;text-align:center">Dawud Islam
+</td></tr>
+
+
+<tr>
+<th style="width:75px;text-align:left">Party
+</th>
+<td style="width:75px;text-align:center">Liberal Democrats
+</td>
+<td style="width:75px;text-align:center">UK Independence Party
+</td>
+<td style="width:75px;text-align:center">Green Party of England and Wales
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th style="text-align:left">Popular&#160;vote
+</th>
+<td style="width:75px;text-align:center">1,505
+</td>
+<td style="width:75px;text-align:center">1,085
+</td>
+<td style="width:75px;text-align:center">481
+</td></tr>
+<tr>
+<th style="text-align:left">Percentage
+</th>
+<td style="width:75px;text-align:center">4.6
+</td>
+<td style="width:75px;text-align:center">3.3
+</td>
+<td style="width:75px;text-align:center">1.5
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="4" style="text-align:center"><hr />
+<p><span typeof="mw:Error mw:File"><a href="https://second-renaissance.fandom.com/wiki/Special:Upload?wpDestFile=BradfordWest2007Constituency.svg" class="new" title="File:BradfordWest2007Constituency.svg"><span class="mw-file-element mw-broken-media" data-width="200">A map of West Yorkshire with black lines dividing the area into irregular shapes</span></a></span>
+</p>
+</td></tr>
+<tr>
+<td colspan="4" style="text-align:center">Boundary of Bradford West in <span class="new" title="West Yorkshire (page does not exist)" data-uncrawlable-url="L3dpa2kvV2VzdF9Zb3Jrc2hpcmU/YWN0aW9uPWVkaXQmcmVkbGluaz0x">West Yorkshire</span>.
+</td></tr>
+
+
+
+<tr>
+<td colspan="4" style="text-align:center"><hr />
+<table cellspacing="0" cellpadding="0" style="background:transparent; width:100%;">
+<tbody><tr>
+<td style="width:50%; text-align:left; text-size: 80%"><b>MP before election</b><br />
+<p><span class="new" title="Marsha Singh (page does not exist)" data-uncrawlable-url="L3dpa2kvTWFyc2hhX1NpbmdoP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Marsha Singh</span><br />
+Labour Party (UK)
+</p>
+</td>
+<td style="width:50%; text-align:right; text-size: 80%"><b>Subsequent MP</b><br />
+<p><span class="new" title="George Galloway (page does not exist)" data-uncrawlable-url="L3dpa2kvR2VvcmdlX0dhbGxvd2F5P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">George Galloway</span><br />
+Respect Party
+</p>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<pre style="overflow: auto">{{Infobox election
+| election_name = Bradford West by-election, 2012
+| type = By-election
+| country = United Kingdom
+| seats_for_election = The [[Bradford West (UK Parliament constituency)|Bradford West]] seat in the [[House of Commons of the United Kingdom|House of Commons]].&lt;br /&gt;Elected by simple majority using [[first past the post]].&lt;br /&gt;Triggered by resignation of incumbent
+| ongoing = no
+| previous_election = United Kingdom general election, 2010
+| previous_year = 2010
+| next_election = 
+| next_year = 
+| election_date = {{Start date|2012|03|29|df=y}}
+| candidate1 = [[George Galloway]]
+| image1 =[[File:George Galloway 2007-02-24.jpg|100px]]
+| party1 = Respect Party
+| last_election1 = 1,245
+| popular_vote1 = 18,341
+| percentage1 = 55.9
+| candidate2 = Imran Hussain
+| image2 = &#160;
+| party2 = Labour Party (UK)
+| last_election2 = 18,401
+| popular_vote2 = 8,201
+| percentage2 = 25.0
+| candidate3 = Jackie Whiteley
+| image3 = &#160;
+| party3 = Conservative Party (UK)
+| last_election3 = 12,638
+| popular_vote3 = 2,746
+| percentage3 = 8.4
+| candidate4 = Jeanette Sunderland
+| image4 = 
+| party4 = Liberal Democrats
+| last_election4 = 4,732
+| popular_vote4 = 1,505
+| percentage4 = 4.6
+| candidate5 = Sonja McNally
+| image5 = &#160;
+| party5 = UK Independence Party
+| last_election5 = 812
+| popular_vote5 = 1,085
+| percentage5 = 3.3
+| candidate6 = Dawud Islam
+| image6 = &#160;
+| party6 = Green Party of England and Wales
+| last_election6 = 940
+| popular_vote6 = 481
+| percentage6 = 1.5
+| title = MP
+| posttitle = Subsequent MP
+| before_election = [[Marsha Singh]]
+| before_party = Labour Party (UK)
+| after_election = [[George Galloway]]
+| after_party = Respect Party
+| map_image = BradfordWest2007Constituency.svg
+| map_size = 200px
+| map_alt = A map of West Yorkshire with black lines dividing the area into irregular shapes 
+| map = 
+| map_caption = Boundary of Bradford West in [[West Yorkshire]].
+}}
+</pre>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Microformat">Microformat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2><p>
+The <span class="new" title="Help:HTML in wikitext (page does not exist)" data-uncrawlable-url="L3dpa2kvSGVscDpIVE1MX2luX3dpa2l0ZXh0P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">HTML mark-up</span> produced by this template includes an <span class="new" title="HCalendar microformat (page does not exist)" data-uncrawlable-url="L3dpa2kvSENhbGVuZGFyX21pY3JvZm9ybWF0P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">hCalendar microformat</span> that makes event details readily <a href="pages/1044-parsing.html" class="mw-redirect" title="Parsing">parsable</a> by computer programs. This aids tasks such as the cataloguing of articles and maintenance of databases. For more information about the use of microformats on Wikipedia, please visit <a href="https://en.wikipedia.org/wiki/WikiProject_Microformats" class="extiw" title="wikipedia:WikiProject Microformats">the Microformat WikiProject</a>.</p><div style="margin-top:0.5em;margin-bottom:0.65em;">
+<dl><dt><span style="font-size: 120%;">Classes used</span></dt></dl>
+<p>The <a href="pages/1043-html-attribute.html" class="mw-redirect" title="HTML attribute">HTML classes</a> this microformat uses include:
+</p>
+<dl><dd><div class="hlist"><ul><li style="font-size:110%;">attendee</li><li style="font-size:110%;">contact</li><li style="font-size:110%;">description</li><li style="font-size:110%;">dtend</li><li style="font-size:110%;">dtstart</li><li style="font-size:110%;">location</li><li style="font-size:110%;">organiser</li><li style="font-size:110%;">summary</li><li style="font-size:110%;">url</li><li style="font-size:110%;">vevent</li></ul></div>  </dd></dl></div>
+<div style="padding:0.1em 0;line-height:1.2em;line-height:1.3em"><i><b>Please do not rename or remove these classes<br />nor collapse nested elements which use them.</b></i></div>
+<p>Note: If no date is entered, then the microformat is not emitted.
+</p>
+<h2><span class="mw-headline" id="Template_Data">Template Data</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="templatedata-header">This is the <a href="https://en.wikipedia.org/wiki/TemplateData" class="extiw" title="wikipedia:TemplateData">TemplateData</a> documentation for this template used by <a href="https://en.wikipedia.org/wiki/VisualEditor" class="extiw" title="wikipedia:VisualEditor">VisualEditor</a> and other tools.
+<p><b>Infobox election</b>
+</p>
+</div>
+<section class="mw-templatedata-doc-wrap"><header><p class="mw-templatedata-doc-desc">An infobox for election.</p></header><table class="wikitable mw-templatedata-doc-params sortable"><caption><p class="mw-templatedata-caption">Template parameters<mw:edittemplatedata page="Template:Infobox election/doc"></mw:edittemplatedata></p></caption><thead><tr><th colspan="2">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Name</th><td class="mw-templatedata-doc-param-name"><code>election_name</code></td><td><p>Name given to the election.</p><dl><dt>Default</dt><dd>PAGENAME</dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Country</th><td class="mw-templatedata-doc-param-name"><code>country</code></td><td><p>Country where the election took place.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Flag year</th><td class="mw-templatedata-doc-param-name"><code>flag_year</code></td><td><p>For historical elections when an older flag design was in effect, enter the year the flag came into effect (not the election year).</p><dl><dt>Default</dt><dd>current flag</dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Flag image</th><td class="mw-templatedata-doc-param-name"><code>flag_image</code></td><td><p>For non-country elections, specify the full name of the flag, coat-of-arms, or seal image to display.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Type</th><td class="mw-templatedata-doc-param-name"><code>type</code></td><td><p>The type of election. Must be one of four: presidential, legislative, parliamentary or by-election. Legislative after the election will display majority and minority party, rather than first and second party.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Vote type</th><td class="mw-templatedata-doc-param-name"><code>vote_type</code></td><td><p>The type of votes recorded at popular_voten</p><dl><dt>Default</dt><dd>Popular</dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Ongoing</th><td class="mw-templatedata-doc-param-name"><code>ongoing</code></td><td><p>Must be either yes or no, whether the election is yet to take place, or completed. </p><dl><dt>Default</dt><dd>No</dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Party colour</th><td class="mw-templatedata-doc-param-name"><code>party_colour</code></td><td><p>Also spelled party_color. To turn off the party colours enter 'no'.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Party name</th><td class="mw-templatedata-doc-param-name"><code>party_name</code></td><td><p>To turn off linking to the parties enter 'no'.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Alliance name</th><td class="mw-templatedata-doc-param-name"><code>alliance_name</code></td><td><p>To turn off linking to the alliances enter 'no'.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Previous election</th><td class="mw-templatedata-doc-param-name"><code>previous_election</code></td><td><p>The page name of the last election of this type.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Previous year</th><td class="mw-templatedata-doc-param-name"><code>previous_year</code></td><td><p>The year the last election of this type took place.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Previous members</th><td class="mw-templatedata-doc-param-name"><code>previous_mps</code></td><td><p>Also spelled previous_MPs or previous_members, page name for the members elected in the last election.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Election date</th><td class="mw-templatedata-doc-param-name"><code>election_date</code></td><td><p>Date of election - use {{Start date}}.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Elected MPs</th><td class="mw-templatedata-doc-param-name"><code>elected_mps</code></td><td><p>Wikilink to the MPs elected in this election.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Next election</th><td class="mw-templatedata-doc-param-name"><code>next_election</code></td><td><p>The page name of the next election of this type. If red link (it doesn't exist), then it will appear unlinked.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Next year</th><td class="mw-templatedata-doc-param-name"><code>next_year</code></td><td><p>The year the next election of this type took place.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Next MPs</th><td class="mw-templatedata-doc-param-name"><code>next_mps</code></td><td><p>Also spelled next_MPs or next_members, page name for the members elected in the next election.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Votes for election</th><td class="mw-templatedata-doc-param-name"><code>votes_for_election</code></td><td><p>The number of votes for election and the system of voting (eg. Electoral College).</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">Number</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Needed votes</th><td class="mw-templatedata-doc-param-name"><code>needed_votes</code></td><td><p>The number of votes required to win. If there is an even number of votes, use the number that is said by the media.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Seats for election</th><td class="mw-templatedata-doc-param-name"><code>seats_for_election</code></td><td><p>The number of seats for election and the house or chamber the seats are for.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">Number</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Majority seats</th><td class="mw-templatedata-doc-param-name"><code>majority_seats</code></td><td><p>The number of seats required for a majority government. If there is an even number of seats in the house or chamber, use the number that is said by the media.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">Number</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Opinion polls</th><td class="mw-templatedata-doc-param-name"><code>opinion_polls</code></td><td><p>Pagename or section anchor of opinion polls.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Turnout</th><td class="mw-templatedata-doc-param-name"><code>turnout</code></td><td><p>Voter turnout for this election.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Image 1</th><td class="mw-templatedata-doc-param-name"><code>image1</code></td><td><p>mage of Nominee, head of Party list or Party Leader. The number can be changed up to nine to display different Nominees, heads of Party list or Leaders at the same time. In order to work, colour1 or party1 must be entered.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">Page name</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Colour 1</th><td class="mw-templatedata-doc-param-name"><code>colour1</code></td><td><p>Also spelt color1. Enter a hex colour code (without the #) to override the border colour of image1. The number can be changed up to nine to display different Nominees, heads of Party list or Leaders at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Nominee 1</th><td class="mw-templatedata-doc-param-name"><code>nominee1</code></td><td><p>Name of Nominee. When appropriate, candidate1 can be used instead. The number can be changed up to nine to display different Nominees or Candidates at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Candidate 1</th><td class="mw-templatedata-doc-param-name"><code>candidate1</code></td><td><p>Name of Candidate. The number can be changed up to nine to display different Candidates at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Leader 1</th><td class="mw-templatedata-doc-param-name"><code>leader1</code></td><td><p>Name of head of Party list or Party Leader. The number can be changed up to nine to display different Parties at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Party 1</th><td class="mw-templatedata-doc-param-name"><code>party1</code></td><td><p>Political Party using Political party shortname templates. The number can be changed up to nine to display different Parties at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Alliance 1</th><td class="mw-templatedata-doc-param-name"><code>alliance1</code></td><td><p>Political alliance in elections where coalition politics is common.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Home state 1</th><td class="mw-templatedata-doc-param-name"><code>home_state1</code></td><td><p>The state the Nominee or Candidate represents. The number can be changed up to nine to display different Nominees at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Running mate 1</th><td class="mw-templatedata-doc-param-name"><code>running_mate1</code></td><td><p>The Nominee's Running mate. The number can be changed up to nine to display different Nominees at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Electoral vote 1</th><td class="mw-templatedata-doc-param-name"><code>electoral_vote1</code></td><td><p>The electoral votes obtained by the Nominee. The number can be changed up to nine to display different Nominees at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Delegate count 1</th><td class="mw-templatedata-doc-param-name"><code>delegate_count1</code></td><td><p>The aggregate number of delegates obtained by the candidate. The number can be changed up to nine to display different candidates at the same time. Intended for use in pre-election processes such as selection of delegates to United States presidential nominating conventions. Intended to be used instead of electoral_vote1 for these cases.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>States carried 1</th><td class="mw-templatedata-doc-param-name"><code>states_carried1</code></td><td><p>he states carried or won by the Nominee. The number can be changed up to nine to display different Nominees at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Districts won 1</th><td class="mw-templatedata-doc-param-name"><code>districts_won1</code></td><td><p>The number of districts won by the Nominee. The number can be changed up to nine to display different Nominees at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Leader since 1</th><td class="mw-templatedata-doc-param-name"><code>leader_since1</code></td><td><p>The date the Leader took office. The number can be changed up to nine to display different Parties at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Leaders seat 1</th><td class="mw-templatedata-doc-param-name"><code>leaders_seat1</code></td><td><p>The seat the Leader represents. The number can be changed up to nine to display different Parties at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Last election 1</th><td class="mw-templatedata-doc-param-name"><code>last_election1</code></td><td><p>The seat count and percentage of the vote received at the previous election. The number can be changed up to nine to display different Parties at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Seats before 1</th><td class="mw-templatedata-doc-param-name"><code>seats_before1</code></td><td><p>The seat count before the election, labeled 'current seats' if the election is yet to take place. The number can be changed up to nine to display different Parties at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Seats needed 1</th><td class="mw-templatedata-doc-param-name"><code>seats_needed1</code></td><td><p>The seats required to gain an overall majority. The number can be changed up to nine to display different Parties at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Seats 1</th><td class="mw-templatedata-doc-param-name"><code>seats1</code></td><td><p>The seats won at the election. The number can be changed up to nine to display different Parties at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Seats after 1</th><td class="mw-templatedata-doc-param-name"><code>seats_after1</code></td><td><p>The seat count after the election. The number can be changed up to nine to display different Parties at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Seat change 1</th><td class="mw-templatedata-doc-param-name"><code>seat_change1</code></td><td><p>The change in the number of seats won at the election compared to the previous election. The number can be changed up to nine to display different Parties at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Popular vote 1</th><td class="mw-templatedata-doc-param-name"><code>popular_vote1</code></td><td><p>The number of votes obtained by the Nominee or Party. The number can be changed up to nine to display different Nominees or Parties at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Percentage 1</th><td class="mw-templatedata-doc-param-name"><code>percentage1</code></td><td><p>The percentage of the popular vote obtained by the Nominee or Party. The number can be changed up to nine to display different Nominees or Parties at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Swing 1</th><td class="mw-templatedata-doc-param-name"><code>swing1</code></td><td><p>The swing or change in popular vote at the election compared to the previous election. The number can be changed up to nine to display different Parties at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Poll 1 date</th><td class="mw-templatedata-doc-param-name"><code>poll1_date</code></td><td><p>The date of an opinion poll. The number can be changed up to five to display different polls at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Poll 1 source</th><td class="mw-templatedata-doc-param-name"><code>poll1_source</code></td><td><p>The source or URL of the opinion poll. The number can be changed up to five to display different polls at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Poll 1 nominee1</th><td class="mw-templatedata-doc-param-name"><code>poll1_nominee1</code></td><td><p>The percentage poll 1 gave to nominee 1. When appropriate, poll1_candidate1 can be used instead. The poll number can be changed up to five to display different polls at the same time. The nominee or candidate number can be changed up to nine to display different Nominees or Candidates at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Poll 1 party 1</th><td class="mw-templatedata-doc-param-name"><code>poll1_party1</code></td><td><p>The percentage poll 1 gave to party 1. The poll number can be changed up to five to display different polls at the same time. The party number can be changed up to nine to display different Nominees at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>1 blank</th><td class="mw-templatedata-doc-param-name"><code>1blank</code></td><td><p>Title of an auxiliary row. The number can be changed up to six to display six extra rows.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>1 data 1</th><td class="mw-templatedata-doc-param-name"><code>1data1</code></td><td><p>Data 1 for nominee or party 1. The first number can be changed up to six to display six extra rows. The second number can be changed up to nine to display different Nominees or Parties at the same time.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Map image</th><td class="mw-templatedata-doc-param-name"><code>map_image</code></td><td><p>Page name for the election map file.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">Page name</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Map size</th><td class="mw-templatedata-doc-param-name"><code>map_size</code></td><td><p>Size of image of the election map to be displayed.</p><dl><dt>Default</dt><dd>300px</dd></dl></td><td class="mw-templatedata-doc-param-type">Number</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Map alt</th><td class="mw-templatedata-doc-param-name"><code>map_alt</code></td><td><p>Alt text for the election map.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Map</th><td class="mw-templatedata-doc-param-name"><code>map</code></td><td><p>A freeform replacement for the above, which can be used to insert extension:ImageMaps or templates instead of images.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">Line</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Map caption</th><td class="mw-templatedata-doc-param-name"><code>map_caption</code></td><td><p>Caption on image of the election map to be displayed.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Title</th><td class="mw-templatedata-doc-param-name"><code>title</code></td><td><p>Title of the leader before the election. (President, Speaker, Government, Prime Minister).</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Before election</th><td class="mw-templatedata-doc-param-name"><code>before_election</code></td><td><p>The leader in power before the election, labeled incumbent if the election is yet to take place.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Before party</th><td class="mw-templatedata-doc-param-name"><code>before_party</code></td><td><p>The party in power before the election. This can be set to 'Acting (law)' (which will display as 'Acting') if necessary.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>Post-title</th><td class="mw-templatedata-doc-param-name"><code>posttitle</code></td><td><p>Title of the victor of the election (President-elect, Prime Minister-designate), only if different than before.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>After election</th><td class="mw-templatedata-doc-param-name"><code>after_election</code></td><td><p>The leader in power as a result of the election.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr><tr><th>After party</th><td class="mw-templatedata-doc-param-name"><code>after_party</code></td><td><p>The party in power as a result of the election.</p><dl><dt>Default</dt><dd></dd></dl></td><td class="mw-templatedata-doc-param-type">String</td><td class="mw-templatedata-doc-param-status-optional" data-sort-value="0">optional</td></tr></tbody></table></section>
+<p><br />
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20261119205511
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.479 seconds
+Real time usage: 0.573 seconds
+Preprocessor visited node count: 14387/1000000
+Post‐expand include size: 108398/2097152 bytes
+Template argument size: 35981/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 32/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 44176/5000000 bytes
+Lua time usage: 0.088/7.000 seconds
+Lua memory usage: 1461680/104857600 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  357.429      1 -total
+ 87.11%  311.374      5 Template:Infobox_election
+ 63.93%  228.520     15 Template:Infobox_election/row
+ 14.44%   51.611     61 Template:If_empty
+ 13.88%   49.628     56 Template:Ifempty
+  9.15%   32.703      4 Template:Max
+  4.78%   17.102      1 Template:UF-hcal
+  4.12%   14.726     28 Template:Infobox_election/shortname
+  4.09%   14.620      1 Template:Microformat_message
+  3.01%   10.741      1 Template:Documentation_subpage
+-->
+
+<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:672-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205511 and revision id 1073. Rendering was triggered because: api-parse
+ -->
+</div></article><div class="meta">Mirrored from <a href="https://second-renaissance.fandom.com/wiki/Template%3AInfobox_election/doc">Fandom</a> · revision 1073 · page ID 672</div></main></div><script src="../assets/wiki.js"></script></body></html>

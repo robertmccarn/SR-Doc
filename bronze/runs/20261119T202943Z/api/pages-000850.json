@@ -1,0 +1,2218 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "865": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1181,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 865,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1181,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-02T10:29:21Z"
+          }
+        ],
+        "title": "Message Wall:24.165.26.87",
+        "touched": "2015-09-02T10:29:22Z"
+      },
+      "866": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1182,
+        "length": 394,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Guardiola Incident"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 866,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1182,
+            "slots": {
+              "main": {
+                "*": "Hi, welcome to {{SITENAME}}! Thanks for your edit to the [[:Guardiola Incident]] page.\n\n'''[[Special:Userlogin|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nPlease leave me a message if I can help with anything!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-02T10:29:22Z"
+          }
+        ],
+        "title": "Thread:24.165.26.87/@comment-22439-20150902102922",
+        "touched": "2015-09-02T10:29:22Z"
+      },
+      "867": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1186,
+        "length": 1546,
+        "new": "",
+        "ns": 10,
+        "pageid": 867,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1186,
+            "slots": {
+              "main": {
+                "*": "<noinclude>{|class=wikitable\n</noinclude>|-\n{{#if:{{{a|}}}|\n{{!}} style=\"vertical-align:top;\" rowspan={{{span|1}}}{{!}}{{{a}}}{{!}}\n}}{{#if:{{{b|}}}|\n{{!}} style=\"vertical-align:top;\" rowspan={{{span|1}}}{{!}}{{{b}}}{{!}}\n}}|<code><nowiki>{{dts</nowiki>{{#if:{{{4|}}}\n   |&#124;{{{1|}}}&#124;{{{2|}}}&#124;{{{3|}}}&#124;{{{4}}}\n   |{{#if:{{{3|}}}\n      |&#124;{{{1|}}}&#124;{{{2|}}}&#124;{{{3}}}\n      |{{#if:{{{2|}}}\n         |&#124;{{{1|}}}&#124;{{{2}}}\n         |{{#if:{{{1|<noinclude>X</noinclude>}}}\n            |&#124;{{{1|{{#time:j M Y}}}}}\n          }}\n       }}\n    }}\n }}{{#if:{{{format|}}}\n   |&#124;format={{{format|}}}\n }}{{#if:{{{abbr|}}}\n   |&#124;abbr={{{abbr|}}}\n }}{{#if:{{{addkey|}}}\n   |&#124;addkey={{{addkey|}}}\n }}}}</code>\n{{#if:{{{test|}}}\n   |{{dts/testcases/colour\n      |{{dts\n         |{{{1|<noinclude>{{#time:j M Y}}</noinclude>}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|debug=yes\n         |abbr={{{abbr|}}}|addkey={{{addkey|}}}|format={{{format|}}}\n       }}\n      |{{dts/sandbox\n         |{{{1|<noinclude>{{#time:j M Y}}</noinclude>}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|debug=yes\n         |abbr={{{abbr|}}}|addkey={{{addkey|}}}|format={{{format|}}}\n      }}\n    }}\n   |{{!}}{{dts\n      |{{{1|<noinclude>{{#time:j M Y}}</noinclude>}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|debug=yes\n      |abbr={{{abbr|}}}|addkey={{{addkey|}}}|format=hide\n    }}{{!}}{{!}}{{dts\n      |{{{1|<noinclude>{{#time:j M Y}}</noinclude>}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}\n      |abbr={{{abbr|}}}|addkey={{{addkey|}}}|format={{{format|}}}\n    }}\n }}<noinclude>\n|}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-04T15:09:16Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Dts"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Dts"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Yesno"
+          }
+        ],
+        "title": "Template:Dts/testcases/row",
+        "touched": "2015-09-04T15:09:53Z"
+      },
+      "868": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Dts templates with deprecated parameters"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Dts templates with errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "Scribunto",
+        "lastrevid": 1187,
+        "length": 12116,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Dts"
+          }
+        ],
+        "new": "",
+        "ns": 828,
+        "pageid": 868,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1187,
+            "slots": {
+              "main": {
+                "*": "local yesno = require('Module:Yesno')\nlocal lang = mw.language.getContentLanguage()\nlocal N_YEAR_DIGITS = 12\nlocal MAX_YEAR = 10^N_YEAR_DIGITS - 1\n\n--------------------------------------------------------------------------------\n-- Dts class\n--------------------------------------------------------------------------------\n\nlocal Dts = {}\nDts.__index = Dts\n\nDts.months = {\n\t\"January\",\n\t\"February\",\n\t\"March\",\n\t\"April\",\n\t\"May\",\n\t\"June\",\n\t\"July\",\n\t\"August\",\n\t\"September\",\n\t\"October\",\n\t\"November\",\n\t\"December\"\n}\n\nDts.monthsAbbr = {\n\t\"Jan\",\n\t\"Feb\",\n\t\"Mar\",\n\t\"Apr\",\n\t\"May\",\n\t\"Jun\",\n\t\"Jul\",\n\t\"Aug\",\n\t\"Sep\",\n\t\"Oct\",\n\t\"Nov\",\n\t\"Dec\"\n}\n\nfunction Dts._makeMonthSearch(t)\n\tlocal ret = {}\n\tfor i, month in ipairs(t) do\n\t\tret[month:lower()] = i\n\tend\n\treturn ret\nend\nDts.monthSearch = Dts._makeMonthSearch(Dts.months)\nDts.monthSearchAbbr = Dts._makeMonthSearch(Dts.monthsAbbr)\nDts.monthSearchAbbr['sept'] = 9 -- Allow \"Sept\" to match September\n\nDts.formats = {\n\tdmy = true,\n\tmdy = true,\n\tdm = true,\n\tmd = true,\n\tmy = true,\n\ty = true,\n\tm = true,\n\td = true,\n\thide = true\n}\n\nfunction Dts.new(args)\n\tlocal self = setmetatable({}, Dts)\n\n\t-- Parse date parameters.\n\t-- In this step we also record whether the date was in DMY or YMD format,\n\t-- and whether the month name was abbreviated.\n\tif args[2] or args[3] or args[4] then\n\t\tself:parseDateParts(args[1], args[2], args[3], args[4])\n\telseif args[1] then\n\t\tself:parseDate(args[1])\n\tend\n\n\t-- Raise an error on invalid values\n\tif self.year then\n\t\tif self.year == 0 then\n\t\t\terror('years cannot be zero', 0)\n\t\telseif self.year < -MAX_YEAR then\n\t\t\terror(string.format(\n\t\t\t\t'years cannot be less than %s',\n\t\t\t\tlang:formatNum(-MAX_YEAR)\n\t\t\t), 0)\n\t\telseif self.year > MAX_YEAR then\n\t\t\terror(string.format(\n\t\t\t\t'years cannot be greater than %s',\n\t\t\t\tlang:formatNum(MAX_YEAR)\n\t\t\t), 0)\n\t\telseif math.floor(self.year) ~= self.year then\n\t\t\terror('years must be an integer', 0)\n\t\tend\n\tend\n\tif self.month and (\n\t\tself.month < 1\n\t\tor self.month > 12\n\t\tor math.floor(self.month) ~= self.month\n\t) then\n\t\terror('months must be an integer between 1 and 12', 0)\n\tend\n\tif self.day and (\n\t\tself.day < 1\n\t\tor self.day > 31\n\t\tor math.floor(self.day) ~= self.day\n\t) then\n\t\terror('days must be an integer between 1 and 31', 0)\n\tend\n\n\t-- Set month abbreviation behaviour, i.e. whether we are outputting\n\t-- \"January\" or \"Jan\".\n\tif args.abbr then\n\t\tself.isAbbreviated = args.abbr == 'on' or yesno(args.abbr) or false\n\telse\n\t\tself.isAbbreviated = self.isAbbreviated or false\n\tend\n\n\t-- Set the format string\n\tif args.format then\n\t\tself.format = args.format\n\telse\n\t\tself.format = self.format or 'mdy'\n\tend\n\tif not Dts.formats[self.format] then\n\t\terror(string.format(\n\t\t\t\"'%s' is not a valid format\",\n\t\t\ttostring(self.format)\n\t\t), 0)\n\tend\n\n\t-- Set addkey. This adds a value at the end of the sort key, allowing users\n\t-- to manually distinguish between identical dates.\n\tif args.addkey then\n\t\tself.addkey = tonumber(args.addkey)\n\t\tif not self.addkey or\n\t\t\tself.addkey < 0 or\n\t\t\tself.addkey > 9999 or\n\t\t\tmath.floor(self.addkey) ~= self.addkey\n\t\tthen\n\t\t\terror(\"the 'addkey' parameter must be an integer between 0 and 9999\", 0)\n\t\tend\n\tend\n\n\t-- Set whether the displayed date is allowed to wrap or not.\n\tself.isWrapping = args.nowrap == 'off' or yesno(args.nowrap) == false\n\n\t-- Check for deprecated parameters.\n\tif args.link then\n\t\tself.hasDeprecatedParameters = true\n\tend\n\n\treturn self\nend\n\nfunction Dts:hasDate()\n\treturn (self.year or self.month or self.day) ~= nil\nend\n\n-- Find the month number for a month name, and set the isAbbreviated flag as\n-- appropriate.\nfunction Dts:parseMonthName(s)\n\ts = s:lower()\n\tlocal month = Dts.monthSearch[s]\n\tif month then\n\t\treturn month\n\telse\n\t\tmonth = Dts.monthSearchAbbr[s]\n\t\tif month then\n\t\t\tself.isAbbreviated = true\n\t\t\treturn month\n\t\tend\n\tend\n\treturn nil\nend\n\n-- Parses separate parameters for year, month, day, and era.\nfunction Dts:parseDateParts(year, month, day, bc)\n\tif year then\n\t\tself.year = tonumber(year)\n\t\tif not self.year then\n\t\t\terror(string.format(\n\t\t\t\t\"'%s' is not a valid year\",\n\t\t\t\ttostring(year)\n\t\t\t), 0)\n\t\tend\n\tend\n\tif month then\n\t\tif tonumber(month) then\n\t\t\tself.month = tonumber(month)\n\t\telseif type(month) == 'string' then\n\t\t\tself.month = self:parseMonthName(month)\n\t\tend\n\t\tif not self.month then\n\t\t\terror(string.format(\n\t\t\t\t\"'%s' is not a valid month\",\n\t\t\t\ttostring(month)\n\t\t\t), 0)\n\t\tend\n\tend\n\tif day then\n\t\tself.day = tonumber(day)\n\t\tif not self.day then\n\t\t\terror(string.format(\n\t\t\t\t\"'%s' is not a valid day\",\n\t\t\t\ttostring(day)\n\t\t\t), 0)\n\t\tend\n\tend\n\tif bc then\n\t\tlocal bcLower = type(bc) == 'string' and bc:lower()\n\t\tif bcLower == 'bc' or bcLower == 'bce' then\n\t\t\tif self.year and self.year > 0 then\n\t\t\t\tself.year = -self.year\n\t\t\tend\n\t\telseif bcLower ~= 'ad' and bcLower ~= 'ce' then\n\t\t\terror(string.format(\n\t\t\t\t\"'%s' is not a valid era code (expected 'BC', 'BCE', 'AD' or 'CE')\",\n\t\t\t\ttostring(bc)\n\t\t\t), 0)\n\t\tend\n\tend\nend\n\n-- This method parses date strings. This is a poor man's alternative to\n-- mw.language:formatDate, but it ends up being easier for us to parse the date\n-- here than to use mw.language:formatDate and then try to figure out after the\n-- fact whether the month was abbreviated and whether we were DMY or MDY.\nfunction Dts:parseDate(date)\n\t-- Generic error message.\n\tlocal function dateError()\n\t\terror(string.format(\n\t\t\t\"'%s' is an invalid date\",\n\t\t\tdate\n\t\t), 0)\n\tend\n\n\tlocal function parseDayOrMonth(s)\n\t\tif s:find('^%d%d?$') then\n\t\t\treturn tonumber(s)\n\t\tend\n\tend\n\n\tlocal function parseYear(s)\n\t\tif s:find('^%d%d%d%d?$') then\n\t\t\treturn tonumber(s)\n\t\tend\n\tend\n\n\t-- Deal with year-only dates first, as they can have hyphens in, and later\n\t-- we need to split the string by all non-word characters, including\n\t-- hyphens. Also, we don't need to restrict years to 3 or 4 digits, as on\n\t-- their own they can't be confused as a day or a month number.\n\tself.year = tonumber(date)\n\tif self.year then\n\t\treturn\n\tend\n\n\t-- Split the string using non-word characters as boundaries.\n\tdate = tostring(date)\n\tlocal parts = mw.text.split(date, '%W+')\n\tlocal nParts = #parts\n\tif parts[1] == '' or parts[nParts] == '' or nParts > 3 then\n\t\t-- We are parsing a maximum of three elements, so raise an error if we\n\t\t-- have more. If the first or last elements were blank, then the start\n\t\t-- or end of the string was a non-word character, which we will also\n\t\t-- treat as an error.\n\t\tdateError()\n\telseif nParts < 1 then\n\t \t-- If we have less than one element, then something has gone horribly\n\t \t-- wrong.\n\t\terror(string.format(\n\t\t\t\"an unknown error occurred while parsing the date '%s'\",\n\t\t\tdate\n\t\t), 0)\n\tend\n\n\tif nParts == 1 then\n\t\t-- This can be either a month name or a year.\n\t\tself.month = self:parseMonthName(parts[1])\n\t\tif not self.month then\n\t\t\tself.year = parseYear(parts[1])\n\t\t\tif not self.year then\n\t\t\t\tdateError()\n\t\t\tend\n\t\tend\n\telseif nParts == 2 then\n\t\t-- This can be any of the following formats:\n\t\t-- DD Month\n\t\t-- Month DD\n\t\t-- Month YYYY\n\t\t-- YYYY-MM\n\t\tself.month = self:parseMonthName(parts[1])\n\t\tif self.month then\n\t\t\t-- This is either Month DD or Month YYYY.\n\t\t\tself.year = parseYear(parts[2])\n\t\t\tif not self.year then\n\t\t\t\t-- This is Month DD.\n\t\t\t\tself.format = 'mdy'\n\t\t\t\tself.day = parseDayOrMonth(parts[2])\n\t\t\t\tif not self.day then\n\t\t\t\t\tdateError()\n\t\t\t\tend\n\t\t\tend\n\t\telse\n\t\t\tself.month = self:parseMonthName(parts[2])\n\t\t\tif self.month then\n\t\t\t\t-- This is DD Month.\n\t\t\t\tself.format = 'dmy'\n\t\t\t\tself.day = parseDayOrMonth(parts[1])\n\t\t\t\tif not self.day then\n\t\t\t\t\tdateError()\n\t\t\t\tend\n\t\t\telse\n\t\t\t\t-- This is YYYY-MM.\n\t\t\t\tself.year = parseYear(parts[1])\n\t\t\t\tself.month = parseDayOrMonth(parts[2])\n\t\t\t\tif not self.year or not self.month then\n\t\t\t\t\tdateError()\n\t\t\t\tend\n\t\t\tend\n\t\tend\n\telseif nParts == 3 then\n\t\t-- This can be any of the following formats:\n\t\t-- DD Month YYYY\n\t\t-- Month DD, YYYY\n\t\t-- YYYY-MM-DD\n\t\t-- DD-MM-YYYY\n\t\tself.month = self:parseMonthName(parts[1])\n\t\tif self.month then\n\t\t\t-- This is Month DD, YYYY.\n\t\t\tself.format = 'mdy'\n\t\t\tself.day = parseDayOrMonth(parts[2])\n\t\t\tself.year = parseYear(parts[3])\n\t\t\tif not self.day or not self.year then\n\t\t\t\tdateError()\n\t\t\tend\n\t\telse\n\t\t\tself.day = parseDayOrMonth(parts[1])\n\t\t\tif self.day then\n\t\t\t\tself.month = self:parseMonthName(parts[2])\n\t\t\t\tif self.month then\n\t\t\t\t\t-- This is DD Month YYYY.\n\t\t\t\t\tself.format = 'dmy'\n\t\t\t\t\tself.year = parseYear(parts[3])\n\t\t\t\t\tif not self.year then\n\t\t\t\t\t\tdateError()\n\t\t\t\t\tend\n\t\t\t\telse\n\t\t\t\t\t-- This is DD-MM-YYYY.\n\t\t\t\t\tself.format = 'dmy'\n\t\t\t\t\tself.month = parseDayOrMonth(parts[2])\n\t\t\t\t\tself.year = parseYear(parts[3])\n\t\t\t\t\tif not self.month or not self.year then\n\t\t\t\t\t\tdateError()\n\t\t\t\t\tend\n\t\t\t\tend\n\t\t\telse\n\t\t\t\t-- This is YYYY-MM-DD\n\t\t\t\tself.year = parseYear(parts[1])\n\t\t\t\tself.month = parseDayOrMonth(parts[2])\n\t\t\t\tself.day = parseDayOrMonth(parts[3])\n\t\t\t\tif not self.year or not self.month or not self.day then\n\t\t\t\t\tdateError()\n\t\t\t\tend\n\t\t\tend\n\t\tend\n\tend\nend\n\nfunction Dts:makeSortKey()\n\tlocal year, month, day\n\tlocal nYearDigits = N_YEAR_DIGITS\n\tif self:hasDate() then\n\t\tyear = self.year or os.date(\"*t\").year\n\t\tif year < 0 then\n\t\t\tyear = -MAX_YEAR - 1 - year\n\t\t\tnYearDigits = nYearDigits + 1 -- For the minus sign\n\t\tend\n\t\tmonth = self.month or 1\n\t\tday = self.day or 1\n\telse\n\t\t-- Blank {{dts}} transclusions should sort last.\n\t\tyear = MAX_YEAR\n\t\tmonth = 99\n\t\tday = 99\n\tend\n\treturn string.format(\n\t\t'%0' .. nYearDigits .. 'd-%02d-%02d-%04d',\n\t\tyear, month, day, self.addkey or 0\n\t)\nend\n\nfunction Dts:getMonthName()\n\tif not self.month then\n\t\treturn ''\n\tend\n\tif self.isAbbreviated then\n\t\treturn self.monthsAbbr[self.month]\n\telse\n\t\treturn self.months[self.month]\n\tend\nend\n\nfunction Dts:makeDisplay()\n\tif self.format == 'hide' then\n\t\treturn ''\n\tend\n\tlocal hasYear = self.year and self.format:find('y')\n\tlocal hasMonth = self.month and self.format:find('m')\n\tlocal hasDay = self.day and self.format:find('d')\n\tlocal isMonthFirst = self.format:find('md')\n\tlocal ret = {}\n\tif hasDay and hasMonth and isMonthFirst then\n\t\tret[#ret + 1] = self:getMonthName()\n\t\tret[#ret + 1] = ' '\n\t\tret[#ret + 1] = self.day\n\t\tif hasYear then\n\t\t\tret[#ret + 1] = ','\n\t\tend\n\telseif hasDay and hasMonth then\n\t\tret[#ret + 1] = self.day\n\t\tret[#ret + 1] = ' '\n\t\tret[#ret + 1] = self:getMonthName()\n\telseif hasDay then\n\t\tret[#ret + 1] = self.day\n\telseif hasMonth then\n\t\tret[#ret + 1] = self:getMonthName()\n\tend\n\tif hasYear then\n\t\tif hasDay or hasMonth then\n\t\t\tret[#ret + 1] = ' '\n\t\tend\n\t\tlocal displayYear = math.abs(self.year)\n\t\tif displayYear > 9999 then\n\t\t\tdisplayYear = lang:formatNum(displayYear)\n\t\telse\n\t\t\tdisplayYear = tostring(displayYear)\n\t\tend\n\t\tret[#ret + 1] = displayYear\n\t\tif self.year < 0 then\n\t\t\tret[#ret + 1] = '&nbsp;BC'\n\t\tend\n\tend\n\treturn table.concat(ret)\nend\n\nfunction Dts:renderTrackingCategories()\n\tif self.hasDeprecatedParameters then\n\t\treturn '[[Category:Dts templates with deprecated parameters]]'\n\telse\n\t\treturn ''\n\tend\nend\n\nfunction Dts:__tostring()\n\tlocal root = mw.html.create()\n\n\t-- Sort key\n\troot:tag('span')\n\t\t:addClass('sortkey')\n\t\t:css('display', 'none')\n\t\t:css('speak', 'none')\n\t\t:wikitext(self:makeSortKey())\n\t\n\t-- Display\n\tif self:hasDate() then\n\t\tif self.isWrapping then\n\t\t\troot:wikitext(self:makeDisplay())\n\t\telse\n\t\t\troot:tag('span')\n\t\t\t\t:css('white-space', 'nowrap')\n\t\t\t\t:wikitext(self:makeDisplay())\n\t\tend\n\tend\n\n\t-- Tracking categories\n\troot:wikitext(self:renderTrackingCategories())\n\n\treturn tostring(root)\nend\n\n--------------------------------------------------------------------------------\n-- Exports\n--------------------------------------------------------------------------------\n\nlocal p = {}\n\nfunction p._exportClasses()\n\treturn {\n\t\tDts = Dts\n\t}\nend\n\nfunction p._main(args)\n\tlocal success, ret = pcall(function ()\n\t\tlocal dts = Dts.new(args)\n\t\treturn tostring(dts)\n\tend)\n\tif success then\n\t\treturn ret\n\telse\n\t\tret = string.format(\n\t\t\t'<strong class=\"error\">Error in [[Template:Dts]]: %s</strong>',\n\t\t\tret\n\t\t)\n\t\tif mw.title.getCurrentTitle().namespace == 0 then\n\t\t\t-- Only categorise in the main namespace\n\t\t\tret = ret .. '[[Category:Dts templates with errors]]'\n\t\tend\n\t\treturn ret\n\tend\nend\n\nfunction p.main(frame)\n\tlocal args = require('Module:Arguments').getArgs(frame, {\n\t\twrappers = 'Template:Dts',\n\t})\n\treturn p._main(args)\nend\n\nreturn p",
+                "contentformat": "text/plain",
+                "contentmodel": "Scribunto"
+              }
+            },
+            "timestamp": "2015-09-04T15:09:43Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Dts"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Dts"
+          }
+        ],
+        "title": "Module:Dts",
+        "touched": "2015-09-04T15:09:43Z"
+      },
+      "869": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1188,
+        "length": 146,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Section link/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 869,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1188,
+            "slots": {
+              "main": {
+                "*": "{{#invoke:Section link|main}}<noinclude>\n{{documentation}}\n<!--  Categories go on the /doc subpage and interwikis go on Wikidata. -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-04T15:11:14Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Section link/doc"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Section link"
+          }
+        ],
+        "title": "Template:Section link",
+        "touched": "2015-09-04T15:12:11Z"
+      },
+      "870": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "Scribunto",
+        "lastrevid": 1189,
+        "length": 3075,
+        "links": [
+          {
+            "ns": 0,
+            "title": "%s"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          }
+        ],
+        "new": "",
+        "ns": 828,
+        "pageid": 870,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1189,
+            "slots": {
+              "main": {
+                "*": "-- This module implements {{section link}}.\n\nlocal checkType = require('libraryUtil').checkType\n\nlocal p = {}\n\nlocal function makeSectionLink(page, section, display)\n\tdisplay = display or section\n\tpage = page or ''\n\treturn string.format('[[%s#%s|%s]]', page, section, display)\nend\n\nfunction p._main(page, sections, options, title)\n\t-- Validate input.\n\tcheckType('_main', 1, page, 'string', true)\n\tcheckType('_main', 3, options, 'table', true)\n\tif sections == nil then\n\t\tsections = {}\n\telseif type(sections) == 'string' then\n\t\tsections = {sections}\n\telseif type(sections) ~= 'table' then\n\t\terror(string.format(\n\t\t\t\"type error in argument #2 to '_main' \" ..\n\t\t\t\"(string, table or nil expected, got %s)\",\n\t\t\ttype(sections)\n\t\t), 2)\n\tend\n\toptions = options or {}\n\ttitle = title or mw.title.getCurrentTitle()\n\n\t-- Deal with blank page names elegantly\n\tif page and not page:find('%S') then\n\t\tpage = nil\n\t\toptions.nopage = true\n\tend\n\n\t-- Make the link(s).\n\tlocal isShowingPage = not options.nopage\n\tif #sections <= 1 then\n\t\tlocal linkPage = page or ''\n\t\tlocal section = sections[1] or 'Notes'\n\t\tlocal display = '§&thinsp;' .. section\n\t\tif isShowingPage then\n\t\t\tpage = page or title.prefixedText\n\t\t\tdisplay = page .. ' ' .. display\n\t\tend\n\t\treturn makeSectionLink(linkPage, section, display)\n\telse\n\t\t-- Multiple sections. First, make a list of the links to display.\n\t\tlocal ret = {}\n\t\tfor i, section in ipairs(sections) do\n\t\t\tret[i] = makeSectionLink(page, section)\n\t\tend\n\n\t\t-- Assemble the list of links into a string with mw.text.listToText.\n\t\t-- We use the default separator for mw.text.listToText, but a custom\n\t\t-- conjunction. There is also a special case conjunction if we only\n\t\t-- have two links.\n\t\tlocal conjunction\n\t\tif #sections == 2 then\n\t\t\tconjunction = '&#8203; and '\n\t\telse\n\t\t\tconjunction = ', and '\n\t\tend\n\t\tret = mw.text.listToText(ret, nil, conjunction)\n\n\t\t-- Add the intro text.\n\t\tlocal intro = '§§&thinsp;'\n\t\tif isShowingPage then\n\t\t\tintro = (page or title.prefixedText) .. ' ' .. intro\n\t\tend\n\t\tret = intro .. ret\n\n\t\treturn ret\n\tend\nend\n\nfunction p.main(frame)\n\tlocal args = require('Module:Arguments').getArgs(frame, {\n\t\twrappers = 'Template:Section link',\n\t\tvalueFunc = function (key, value)\n\t\t\tvalue = value:match('^%s*(.-)%s*$') -- Trim whitespace\n\t\t\t-- Allow blank first parameters, as the wikitext template does this.\n\t\t\tif value ~= '' or key == 1 then\n\t\t\t\treturn value\n\t\t\tend\n\t\tend\n\t})\n\n\t-- Sort the arguments.\n\tlocal page\n\tlocal sections, options = {}, {}\n\tfor k, v in pairs(args) do\n\t\tif k == 1 then\n\t\t\t-- Doing this in the loop because of a bug in [[Module:Arguments]]\n\t\t\t-- when using pairs with deleted arguments.\n\t\t\tpage = v\n\t\telseif type(k) == 'number' then\n\t\t\tsections[k] = v\n\t\telse\n\t\t\toptions[k] = v\n\t\tend\n\tend\n\n\t-- Compress the sections array.\n\tlocal function compressArray(t)\n\t\tlocal nums, ret = {}, {}\n\t\tfor num in pairs(t) do\n\t\t\tnums[#nums + 1] = num\n\t\tend\n\t\ttable.sort(nums)\n\t\tfor i, num in ipairs(nums) do\n\t\t\tret[i] = t[num]\n\t\tend\n\t\treturn ret\n\tend\n\tsections = compressArray(sections)\n\n\treturn p._main(page, sections, options)\nend\n\nreturn p",
+                "contentformat": "text/plain",
+                "contentmodel": "Scribunto"
+              }
+            },
+            "timestamp": "2015-09-04T15:11:57Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Section link"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Section link"
+          }
+        ],
+        "title": "Module:Section link",
+        "touched": "2015-11-07T06:35:55Z"
+      },
+      "871": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5215,
+        "length": 308,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data India/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "ns": 10,
+        "pageid": 871,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1190,
+            "revid": 5215,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias =  India\n| flag alias = Flag_of_India.png\n| alt attribute = Flag of India\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-20T18:09:26Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data India/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data India",
+        "touched": "2017-08-20T18:09:26Z"
+      },
+      "872": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3204,
+        "length": 19,
+        "ns": 6,
+        "pageid": 872,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1191,
+            "revid": 3204,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-05T18:37:04Z"
+          }
+        ],
+        "title": "File:Flag of Indonesia.png",
+        "touched": "2018-02-04T18:44:32Z"
+      },
+      "873": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1192,
+        "length": 292,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Indonesia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 873,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1192,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Indonesia\n| flag alias = Flag_of_Indonesia.png\n| alt attribute = Flag of Indonesia\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-04T15:18:56Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Indonesia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Indonesia",
+        "touched": "2015-09-04T15:18:56Z"
+      },
+      "874": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States political party color templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1198,
+        "length": 120,
+        "new": "",
+        "ns": 10,
+        "pageid": 874,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1198,
+            "slots": {
+              "main": {
+                "*": "<nowiki>#DCB732</nowiki><noinclude>\n[[Category:United States political party color templates|{{PAGENAME}}]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-04T18:08:23Z"
+          }
+        ],
+        "title": "Template:Libertarian Party (United States)/meta/color",
+        "touched": "2015-09-04T18:08:23Z"
+      },
+      "875": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1202,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 875,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1202,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-05T21:25:41Z"
+          }
+        ],
+        "title": "Message Wall:76.173.153.71",
+        "touched": "2015-09-05T21:25:42Z"
+      },
+      "876": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1203,
+        "length": 389,
+        "links": [
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 876,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1203,
+            "slots": {
+              "main": {
+                "*": "Hi, welcome to {{SITENAME}}! Thanks for your edit to the [[:World War III]] page.\n\n'''[[Special:Userlogin|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nPlease leave me a message if I can help with anything!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-05T21:25:42Z"
+          }
+        ],
+        "title": "Thread:76.173.153.71/@comment-22439-20150905212542",
+        "touched": "2015-09-05T21:25:42Z"
+      },
+      "877": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1206,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 877,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1206,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-14T00:16:36Z"
+          }
+        ],
+        "title": "Message Wall:192.154.63.76",
+        "touched": "2015-09-14T00:16:38Z"
+      },
+      "878": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1207,
+        "length": 388,
+        "links": [
+          {
+            "ns": 0,
+            "title": "21st Century"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 878,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1207,
+            "slots": {
+              "main": {
+                "*": "Hi, welcome to {{SITENAME}}! Thanks for your edit to the [[:21st Century]] page.\n\n'''[[Special:Userlogin|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nPlease leave me a message if I can help with anything!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-14T00:16:37Z"
+          }
+        ],
+        "title": "Thread:192.154.63.76/@comment-22439-20150914001637",
+        "touched": "2015-09-14T00:16:37Z"
+      },
+      "879": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1210,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 879,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1210,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-20T20:52:51Z"
+          }
+        ],
+        "title": "Message Wall:173.217.194.251",
+        "touched": "2015-09-20T20:52:51Z"
+      },
+      "880": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1211,
+        "length": 403,
+        "links": [
+          {
+            "ns": 0,
+            "title": "U.S. planetary commonwealth"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 880,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1211,
+            "slots": {
+              "main": {
+                "*": "Hi, welcome to {{SITENAME}}! Thanks for your edit to the [[:U.S. planetary commonwealth]] page.\n\n'''[[Special:Userlogin|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nPlease leave me a message if I can help with anything!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-20T20:52:51Z"
+          }
+        ],
+        "title": "Thread:173.217.194.251/@comment-22439-20150920205251",
+        "touched": "2015-09-20T20:52:51Z"
+      },
+      "881": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1213,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 881,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1213,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-20T20:55:30Z"
+          }
+        ],
+        "title": "Message Wall:Rogue Leader 1000",
+        "touched": "2015-09-20T20:55:34Z"
+      },
+      "882": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1214,
+        "length": 221,
+        "links": [
+          {
+            "ns": 0,
+            "title": "United States of America"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 882,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1214,
+            "slots": {
+              "main": {
+                "*": "Hi, welcome to {{SITENAME}}! Thanks for your edit to the [[:United States of America]] page.\n\nPlease leave me a message if I can help with anything!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-20T20:55:31Z"
+          }
+        ],
+        "title": "Thread:Rogue Leader 1000/@comment-22439-20150920205531",
+        "touched": "2015-09-20T20:55:31Z"
+      },
+      "883": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 1215,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 883,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1215,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-20T20:55:34Z"
+          }
+        ],
+        "title": "User:Rogue Leader 1000",
+        "touched": "2016-08-31T06:22:05Z"
+      },
+      "884": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1221,
+        "length": 126,
+        "new": "",
+        "ns": 1,
+        "pageid": 884,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1221,
+            "slots": {
+              "main": {
+                "*": "You mention the Sixth and Seventh Great Awakenings and yet there was only four in history. So, shouldn't it be Fifth and Sixth",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-16T18:10:53Z"
+          }
+        ],
+        "title": "Talk:21st Century/@comment-27084453-20151016181053",
+        "touched": "2015-10-16T18:10:53Z"
+      },
+      "885": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1222,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 885,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1222,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-16T18:10:54Z"
+          }
+        ],
+        "title": "Message Wall:Naf140230",
+        "touched": "2015-10-16T18:10:55Z"
+      },
+      "886": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1223,
+        "length": 209,
+        "links": [
+          {
+            "ns": 0,
+            "title": "21st Century"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 886,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1223,
+            "slots": {
+              "main": {
+                "*": "Hi, welcome to {{SITENAME}}! Thanks for your edit to the [[:21st Century]] page.\n\nPlease leave me a message if I can help with anything!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-16T18:10:54Z"
+          }
+        ],
+        "title": "Thread:Naf140230/@comment-22439-20151016181054",
+        "touched": "2015-10-16T18:10:54Z"
+      },
+      "887": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 2108,
+        "length": 366,
+        "ns": 2,
+        "pageid": 887,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2107,
+            "revid": 2108,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]I am from Plano, TX.\n\nI am a fan of classical music, the Beatles, Star Trek, the cartoons of Hanna-Barbera, etc.\n\nI am Jewish and have autism.                    \n\nMy DeviantArt page: ☀http://naf140230.deviantart.com/\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-03-13T21:54:08Z"
+          }
+        ],
+        "title": "User:Naf140230",
+        "touched": "2020-05-06T20:58:00Z"
+      },
+      "889": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4057,
+        "length": 65,
+        "ns": 1,
+        "pageid": 889,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1228,
+            "revid": 4057,
+            "slots": {
+              "main": {
+                "*": "I admire this timeline! However, could you please go beyond 2139?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-10T19:11:19Z"
+          }
+        ],
+        "title": "Talk:Timeline of major events/@comment-27084453-20151017015318",
+        "touched": "2017-06-10T19:11:19Z"
+      },
+      "890": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1229,
+        "length": 71,
+        "new": "",
+        "ns": 1,
+        "pageid": 890,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1229,
+            "slots": {
+              "main": {
+                "*": "You mention things that FDR did in the 1930s. That should not be there.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-17T16:54:22Z"
+          }
+        ],
+        "title": "Talk:Evalyn Jacobi/@comment-27084453-20151017165422",
+        "touched": "2015-10-17T16:54:22Z"
+      },
+      "891": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1232,
+        "length": 95,
+        "new": "",
+        "ns": 1,
+        "pageid": 891,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1232,
+            "slots": {
+              "main": {
+                "*": "The Fifth Great Awakening is only just now ending. It was what we call the Evangelist movement.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-18T00:42:20Z"
+          }
+        ],
+        "title": "Talk:21st Century/@comment-27084453-20151016181053/@comment-899576-20151018004219",
+        "touched": "2015-10-18T00:42:20Z"
+      },
+      "892": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1243,
+        "length": 305,
+        "new": "",
+        "ns": 10,
+        "pageid": 892,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1243,
+            "slots": {
+              "main": {
+                "*": "<nowiki>#062A78</nowiki><noinclude>\n\n== Examples ==\n{|\n|- style=\"color:{{ {{PAGENAME}} }}\"\n| '''This color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:white\"\n| '''White on this color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:black\"\n| '''Black on this color'''\n|}\n\n== See also ==\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-18T17:32:50Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Union Party (United States)/meta/color"
+          }
+        ],
+        "title": "Template:Union Party (United States)/meta/color",
+        "touched": "2015-10-18T17:37:30Z"
+      },
+      "893": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1244,
+        "length": 305,
+        "new": "",
+        "ns": 10,
+        "pageid": 893,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1244,
+            "slots": {
+              "main": {
+                "*": "<nowiki>#8CBED6</nowiki><noinclude>\n\n== Examples ==\n{|\n|- style=\"color:{{ {{PAGENAME}} }}\"\n| '''This color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:white\"\n| '''White on this color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:black\"\n| '''Black on this color'''\n|}\n\n== See also ==\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-18T17:33:36Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Liberal Party (United States)/meta/color"
+          }
+        ],
+        "title": "Template:Liberal Party (United States)/meta/color",
+        "touched": "2015-10-18T17:37:39Z"
+      },
+      "894": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4055,
+        "length": 74,
+        "ns": 1,
+        "pageid": 894,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1251,
+            "revid": 4055,
+            "slots": {
+              "main": {
+                "*": "I was wondering if you were planning to continue the timeline beyond 2160.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-10T19:11:19Z"
+          }
+        ],
+        "title": "Talk:Timeline of major events/@comment-27084453-20151018224338",
+        "touched": "2017-06-10T19:11:19Z"
+      },
+      "895": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4056,
+        "length": 94,
+        "ns": 1,
+        "pageid": 895,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1257,
+            "revid": 4056,
+            "slots": {
+              "main": {
+                "*": "Not for a while. The main timeline still has a lot of junk that still needs to be fleshed out.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-10T19:11:19Z"
+          }
+        ],
+        "title": "Talk:Timeline of major events/@comment-27084453-20151018224338/@comment-899576-20151019204247",
+        "touched": "2017-06-10T19:11:19Z"
+      },
+      "896": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Carrier Strike Group Three Crest.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:O3 Rank.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Oscar Larchman Blank.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:United States Navy.jpg"
+          }
+        ],
+        "lastrevid": 11599,
+        "length": 15480,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Carla Anderson"
+          },
+          {
+            "ns": 0,
+            "title": "Donald Trump"
+          },
+          {
+            "ns": 0,
+            "title": "Horace Fadel"
+          },
+          {
+            "ns": 0,
+            "title": "Horizon Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Joe P. Kennedy IV"
+          },
+          {
+            "ns": 0,
+            "title": "Lionel Halvidar"
+          },
+          {
+            "ns": 0,
+            "title": "Mars"
+          },
+          {
+            "ns": 0,
+            "title": "Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "Neo-Jeffersonianism"
+          },
+          {
+            "ns": 0,
+            "title": "Peter Teller"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Rayleen Malakar"
+          },
+          {
+            "ns": 0,
+            "title": "Second American Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Sushi and Apple Pie"
+          },
+          {
+            "ns": 0,
+            "title": "Thang Levin"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 896,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11277,
+            "revid": 11599,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=Oscar Lachman\n|image=Oscar_Larchman_Blank.png|border\n|imagesize=265px\n|alt=\n|caption=\n|order=[[President of the United States|56th]]\n|office=President of the United States\n|vicepresident=[[Joe P. Kennedy IV]]\n|predecessor=[[Horace Fadel]]\n|successor=[[Rayleen Malakar]]\n|order2= 51st\n|office2= Governor of Colorado\n|deputy2= Tony Lesser\n|predecessor2= Bob Menendez\n|successor2= Tony Lesser\n|birth_date=October 21, 2021\n|birth_place=Redmond, Washington\n|death_date=April 18, 2136 (age 115)\n|death_place=Denver, Colorado\n|restingplace= Arlington National Cemetery\n|nationality= American\n|party=[[Horizon Party (United States)|Horizon Party]]\n|spouse= Grace Huang <small>(2063-his death)\n|children=Avul Lachman\n|religion= Hindu\n|profession=Businessman<br />Politician\n|branch=[[File:United_States_Navy.jpg|25px]] United States Navy\n|unit=[[File:Carrier_Strike_Group_Three_Crest.png|25px]] Carrier Strike Group Three\n|serviceyears= 8 years (January 17, 2048 - November 11, 2056)\n|rank= [[File:O3_Rank.png|25px]] [[United States of America|Lieutenant]]\n|battles=[[World War III]]}}'''Oscar Lachman''' (October 21, 2021 - April 18, 2136) was the 56th [[President of the United States]], serving from January 20th, 2081 to January 20th, 2089. President Lachman is widely remembered for the mass deportations of the 2080s. Prior to his presidency, he served as the 51st Governor of Colorado.\n\nLachman's business connections, particularly with [[Peter Teller]], led him to become a powerful figure in the [[Horizon Party (United States)| Horizon Party]], and the [[Neo-Jeffersonianism|Neo-Jeffersonian movement]]. He was persuaded to seek the Colorado governorship after delivering the commencement speech for the 2072 Horizon Party Convention, winning two years later and again in 2078. He was defeated in his run for the Horizon presidential nomination in 2076, but won both the nomination and general election in 2080, defeating incumbent [[Horace Fadel]].\n\nAs president, Lachman implemented sweeping new political and economic initiatives. He advocated reversing the \"Open Door\" immigration policy and deporting all undesirable non-citizens, issuing national ID cards to streamline government services, and deregulating the economy to spur economic growth. In his first term he survived an assassination attempt, took a hard line against migrant labor unions, announced a new War on Crime, and negotiated an immigration compromise with colonial leaders that insured the mass colonization of [[Mars]].\n\nHe was re-elected in a landslide in 2084, leading the Horizon coalition to a majority in both houses of Congress. His second term was primarily marked implementing the immigration reforms passed in his first term. National ID cards issued over the previous four years were used to relocate millions of resident aliens in the Southwest to [[Mexico]], though almost half of the deportees opted to move to the colonies and gain full citizenship. Lachman's policies were reviled in the Southwest, and US Army and National Guard forces had to be deployed to manage the deportations; however, in the rest of the country, the Deportations were hugely popular, as it freed up the economy and sparked job growth.\n\n== Early Life and Career ==\n\n=== '''Early Life''' ===\nLachman was born to a upper-class family in Washington in the city of Redmond on October 21, 2021. His family once owned a small chain of general stores downtown. When the ice caps had melted and produced flooding around the world, the economy became damaged and Lachman's father was forced to sell off most of the business to keep it afloat.\n\nLachman attended Redmond High School and graduated with the class of 2039. As a freshman, he injured his right knee and developed a leg infection that extended into his upper thighs, and which his doctor diagnosed as life-threatening. Doctor recommended further extensive surgery, but Lachman refused to allow it, and surprisingly recovered. Lachman went to Washington State University in late 2039 and later graduated with a bachelors degree in business in 2043.\n\nHis mother soon developed leukemia and was kept in the hospital for the duration of her life. Medical bills had caused further strain on the financial situation of the family, it didn't help when Lachman's father was arrested and was sent to 3 years in prison in 2043 for charges of attempted bribery. His father died in 2046, 2 months before his release, when he developed a blood clot after a blow to the head in an incident. Lachman and his twin sister became the official owners of the last general store but the business failed due to economic conditions and the remaining family became impoverished.\n\n=== '''Military Career''' ===\nLachman developed an interest in the military after playing several classic RTS video games that his father had left him and joined the US Navy in 2048, sensing opportunity to help his family's finances and to feed himself. By the outbreak of World War III, Lachman became a commissioned officer in Carrier Strike Group 3 aboard the USS William Halsey Jr. that saw action in the Pacific. At the end of the war, Lachman was a Lieutenant and retired from the Navy in 2056 before eventually moving to Colorado in 2057. He would later successfully restart his business career there.\n\n=== '''Business and Political Career''' ===\n\n=== '''Governorship''' ===\n\n==Presidency (2081-89)==\n==='''First term, 2081–85'''===\nWhen Lachman was inaugurated January 20, 2081, the U.S. was at the nadir of the worst depression in its history. A third of the workforce was unemployed, the nation was facing rolling blackouts and energy shortages that in turn led to a 40% decline in economic activity. The Department of Housing and Urban Development could not keep up with the need for affordable housing as more citizens lost jobs and homes. In his first inaugural address Lachman addressed the country's economic malaise, arguing: \"This crisis cannot be solved by the government, when it was born of the government.\"\n\n===='''Philosophy'''====\n''Main article: [[Neo-Jeffersonianism]]''\n\nLachman entered office promising to radically restructure the economy from the social welfare system that had been in place since the Price adminstration and implemented policies based on a laissez-faire philosophy to promote freer markets and increase investment into the economy by private citizens. Lachman's first steps towards implementing this new economic policy was through a series of broad tax cuts, regulatory reforms to accelerate the formation of new businesses and the creation of the \"Personal Liability Corporation.\"\n\nLachman's believed the solution to the economic crises facing the country lied in a hyper-localization and decentralization of economics. The disruption to American life created by automation would remain a detriment if power continued to consolidate around large conglomerates and the government. Lachman supported a series of sweeping anti-trust measures, deregulated financing and insurance industries, and generally making it easier for citizens to create their own means for wealth generation. Lachman famously declared in his first inaugural address, \"Jefferson's dream is now more attainable than ever before,\" referencing the Jeffersonian Republican idea of individual citizens being self sufficient and independent from centralized power.\n\n===='''Closing the border'''====\nPresident Lachman's most radical policy was his push to reverse a half century of policies designed to encourage immigration to the United States. Lachman believed that for immediate relief to come to the US job market immigration had to be stopped and those residing in the United States on temporary work visas had to leave. Upon taking office, Lachman signed a series of executive orders instructing the Immigration and Naturalization Services to cease the processing of all new green card applications and ordering U.S. Customs and Border Protection (CBP) to radically reduce the flow of non-citizens into the United States.\n\nLachman pushed Congress to pass harsher punishments for immigrant offenders, end guest worker programs, and international student recruitment programs for universities. None of these efforts actually resulted in an increase to the workforce, but they did radically diminish the rate of unemployment growth. Lachman's executive orders closing the border would later be formalized into law with the Immigration Reform Act of 2082.\n\nWhile these policies were supported by most Horizons, they were extremely unpopular among members of the Progress party and in the colonies. Leaders of the Mars Corporation and other colonial NGOs met with Lachman and Congressional leaders to negotiate a compromise with the Immigration Reform Act that would ensure the free flow of colonists to Mars, now that its population cap had been removed. Lachman and the leadership agreed to a compromise in the form of an amendment proposed by Congresswoman Elia Rosalind, that established the right of deportees to opt for resettlement on Mars in exchange for full citizenship. The Amendment also kept the door for immigrants open, so long as they were immigrating to Mars. This compromise ended the brewing Martian Revolution, and ensured the peaceful colonization of Mars.\n\n===='''Energy Crisis'''====\nBy the summer of 2081 the United States was experiencing rolling blackouts across the nation as layers of energy grids failed to keep up with the demand for power. The rise of robotics in the workforce was putting too much strain on the nation's demand for energy and it could not be met with existing sources on the moon or renewable systems on Earth. This is partly what drove President Lachman to structure the trade agreement with the colonies to begin shipping Helium-3 from Neptune and Uranus to supply energy hungry Earth. Lachman agreed that the mining, processing, and transport of goods across the solar system would not be taxed until they reached markets on Earth or Cislunar Space, effectively treating the entire colonial economy as if it were a giant mine. The moon was exempted from this policy, however Helium-3 production on Luna had largely peaked and was already deep into Earth's economic center of gravity.\n\n==='''Second term, 2085-2089'''===\n===='''Deportations'''====\nPresident Lachman's most controversial policy was the forced resettlement/deportation of \"undesirable\" non-citizens, most significantly to Mexico and Central-America through the Repatriation Act of 2084. The overwhelming majority of those effected were Mexican laborers living in the Southwest, some for the majority of their lives. Per the Rosalind Amendment, many of these Mexican expatriates were able to forego deportation simply by agreeing to relocate to Mars or the other colonies, however 11 million elected to return to Mexico proper. Lachman worked closely with Mexico to engineer a stable relocation of Mexican expatriates in the US back to Mexico, however public backlash to the flooding of Mexican markets with more laborers led to the election of Filipe Peña who sharply opposed America's efforts to deport Mexican nationals. Following Lachman's presidency, the deportations would be the most heavily-criticized aspect of his Presidency, with some going as far as to blame the Second Mexican-American War on his callous treatment of Mexican immigrants.\n\n===='''Turkish Collapse'''====\nWith the collapse of Turkey near the end of his second Term, Lachman worked to contain the Intermarium invasion of the Caucuses, while supporting their claim to stop the Third Armenian Genocide by Azerbaijan. Tensions between Poland and the US were higher than they had been in decades, and as the war spread to every other Caucasian state, President Lachman worked to try to persuade Polish leaders to scale back the war.\n\n== After Presidency and Death ==\nShortly after his presidency, Lachman went on a 13 day vacation with his wife to France. After leaving office, Lachman did not completely retreat from political life. He flew to Seattle, Washington in 2100, where he had been stationed years earlier, to support a successful Tom Steele in his presidential campaign.  On January 20, 2129, the day [[Thang Levin]] was inaugurated as President, Lachman commented that Levin had \"made his hero proud\" by finally succeeding to the presidency, but silently criticized Levin's alliance with the Dignidad. At the outbreak of the [[Second American Civil War]], Lachman secretly supported [[Lionel Halvidar]] over Thang Levin.\n\nOscar Lachman, aged 115, went to a walk at a park in his home city of Denver, Colorado with a couple of retirement friends. Suddenly a small group of Hispanic protestors attempted to grab Lachman in a more secluded area in the park. Lachman's friends attempted to hold off the attackers while Lachman began to flee, only to be suddenly shot through the chest and later died from wounds after a beating. First-responders were quick to arrive on the seen soon after sounds of gunshots and attackers were arrested. They were put on trial and sentenced to life in prison without parole two days later.\n\n== Legacy ==\nSince leaving office in 2089, Lachman's popularity has heavily declined. While some historians (mostly Horizon ones, needless to say) had argued that he was one of the more successful presidents, the consequences of his policies resulted in him placing low in most historical popularity rankings. Lachman's economic recovery faded by the early 2090s, and the economy continued to decline throughout the end of the 21st century and well into the 22nd. The Second Mexican-American War--and by extension, the Third Mexican-American War--was largely seen as the result of Lachman's deportation policies, which caused his historical popularity to drop further. His is now consistently ranked, along with [[Donald Trump]], as one of the least well-liked US Presidents in historical rankings. He was ultimately killed in 2136 by Mexican-American protestors who resented him for his role in starting the war between the two countries.\n\nAlthough Lachman's focus on returning jobs to America made him popular early on in his Presidency, he was still criticized even in his own time. Former President [[Carla Anderson]] was one of Lachman's most vocal critics, publishing various articles and essays decrying his actions while he was in office. In her autobiography [[Sushi and Apple Pie|''Sushi and Apple Pie'']]'', ''she later described his policies as, \"the greatest act of cruelty ever levied by an American leader since the time of Andrew Jackson\".\n\n==Quotes==\n{{Quote| \"I saw wasted American potential. Job markets are shrinking every year, unable to keep up with the population. We refused to do the dirty work and preferred the lowly foreign-speaking non-citizens to do it for us while everyone else competes for higher jobs. We are not a caste system, nor a country divided by two languages. I say every job should be filled with American citizens again.\"| Oscar Lachman, 2085 inauguration speech.}}\n{{Quote| \"I could care less about being popular. Most politicians promise things, only to back away once their reputation is on the line. While I would be concerned about my legacy, popularity shouldn't stop me from doing what seems practical to me, at least.\"| Oscar Lachman, post-presidential interview.}}\n{{Quote| \"Is it.. is it safe to go now...?\"| Oscar Lachman, last words.}}\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-08-06T14:39:39Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Comma separated entries"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:If empty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Quote"
+          },
+          {
+            "ns": 10,
+            "title": "Template:WPMILHIST Infobox style"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:If empty"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Separated entries"
+          },
+          {
+            "ns": 828,
+            "title": "Module:TableTools"
+          }
+        ],
+        "title": "Oscar Lachman",
+        "touched": "2024-08-06T15:08:29Z"
+      },
+      "897": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1282,
+        "length": 126,
+        "ns": 1,
+        "pageid": 897,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1265,
+            "revid": 1282,
+            "slots": {
+              "main": {
+                "*": "I am thinking of creating pages for those music styles you mention on this page. What exactly are AstroBlues and Epical Music?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-22T21:03:08Z"
+          }
+        ],
+        "title": "Talk:21st Century/@comment-27084453-20151022043213",
+        "touched": "2015-10-22T21:03:08Z"
+      },
+      "898": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1267,
+        "length": 28,
+        "new": "",
+        "ns": 1,
+        "pageid": 898,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1267,
+            "slots": {
+              "main": {
+                "*": "This page needs to be fixed.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-22T04:35:34Z"
+          }
+        ],
+        "title": "Talk:Oscar Lachman/@comment-27084453-20151022043534",
+        "touched": "2015-10-22T04:35:34Z"
+      },
+      "899": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1273,
+        "length": 382,
+        "ns": 1,
+        "pageid": 899,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1272,
+            "revid": 1273,
+            "slots": {
+              "main": {
+                "*": "Don't just add them to this page. If you want to create a \"21st-century music\" page, that's fine. AstroBlues was first created by spacers working in mining towns on the moon and asteroids. It sounds like something between more traditional blues and whatever song's like Gravity and Drop's of Jupiter are. Epical music is like some strange hybrid of classical, metal, and arena rock.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-22T15:21:16Z"
+          }
+        ],
+        "title": "Talk:21st Century/@comment-27084453-20151022043213/@comment-899576-20151022151503",
+        "touched": "2015-10-22T15:21:16Z"
+      },
+      "900": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1280,
+        "length": 305,
+        "ns": 10,
+        "pageid": 900,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1279,
+            "revid": 1280,
+            "slots": {
+              "main": {
+                "*": "<nowiki>#8DB600</nowiki><noinclude>\n\n== Examples ==\n{|\n|- style=\"color:{{ {{PAGENAME}} }}\"\n| '''This color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:white\"\n| '''White on this color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:black\"\n| '''Black on this color'''\n|}\n\n== See also ==\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-22T15:36:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Mexicano Libres Party (United States)/meta/color"
+          }
+        ],
+        "title": "Template:Mexicano Libres Party (United States)/meta/color",
+        "touched": "2015-10-26T05:25:13Z"
+      },
+      "901": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1283,
+        "length": 56,
+        "new": "",
+        "ns": 1,
+        "pageid": 901,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1283,
+            "slots": {
+              "main": {
+                "*": "I was wondering. What about culture in the 22nd century?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-22T21:14:17Z"
+          }
+        ],
+        "title": "Talk:22nd Century/@comment-27084453-20151022211417",
+        "touched": "2015-10-22T21:14:17Z"
+      },
+      "902": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Carla Anderson Blank.png"
+          }
+        ],
+        "lastrevid": 12004,
+        "length": 12704,
+        "links": [
+          {
+            "ns": 0,
+            "title": "First Nations War"
+          },
+          {
+            "ns": 0,
+            "title": "K'lerin"
+          },
+          {
+            "ns": 0,
+            "title": "Le'ma"
+          },
+          {
+            "ns": 0,
+            "title": "Lise Duchesne"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Miriam Weinstein"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Progress Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Reed Chen"
+          },
+          {
+            "ns": 0,
+            "title": "Seras Stultz"
+          },
+          {
+            "ns": 0,
+            "title": "Squirrel Wars"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Tom Steele"
+          },
+          {
+            "ns": 0,
+            "title": "Union Act of 2073"
+          }
+        ],
+        "ns": 0,
+        "pageid": 902,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11995,
+            "revid": 12004,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=Carla Anderson\n|image=Carla_Anderson_Blank.png|border\n|imagesize=265px\n|alt=\n|caption=\n|order=[[President of the United States|53rd]]\n|office=President of the United States\n|vicepresident=Lise Duchesne\n|predecessor=[[Reed Chen]]\n|successor=[[Lise Duchesne]]\n|order2= United States Senator\n|office2= from Wisconsin\n|predecessor2= Adela Binjluwi\n|successor2= George Remerez\n|birth_date=January 5, 2009 (age 151)\n|birth_place= Bethesda, Maryland\n|nationality= American\n|party=[[Progress Party (United States)|Progress]]\n|spouse= Heather Suzuki (2033-2051) <br /> Archer Moss <small>(2063-present)</small>\n|children=Heather <br /> Chad\n|religion= Lutheran\n|profession=Lawyer<br />Politician\n|termend = January 20, 2073\n|termstart = January 20, 2065}}\n'''Carla Anderson '''(born January 5, 2009) was the 53rd President of the United States, serving from 2065 to 2073 upon the expiration of her term by the 22nd Amendment. She is widely remembered for leading the US through the [[First Nations War]], and annexing the old Commonwealth nations, whose populations had largely been resettled in North America during the flood. She was the first female LGBT President.\n\nBefore losing her wife, Heather Suzuki, in the Thanksgiving Day Attacks, few expected Anderson to enter politics. After Suzuki's death, Anderson joined the Strategic Resources Administration as an acquisition attorney, and took an active role promoting public support for the war effort. However, since Suzuki was a Japanese-American, she also took it upon herself to prevent Japanese-American civilians from being victims of prejudice during the war. This made her a beloved hero of both Japanese Americans and Japanophiles.\n\nAfter the war, she settled in Madison, Wisconsin, where she practiced law and met her future husband, Archer Moss. In 2056, she was elected to Congress, where she became the Progressive Party's expert on the resource nationalization, which she promised would bring prosperity. She was appointed to the Senate in 2058 after her state's junior Senator, Adela Binjiluwi was killed in plane crash. She won in her own right in the 2060 election, and was quickly seen as a potential challenger to Reed Chen in 2064. She secured the Progressive nomination for president in 2064, amid wide social unrest, and unseated President Reed Chen in which she promised to restore prosperity with a new round of immigration incentives to fill the gaps in the labor force that formed under the Chen Administration.\n\nRapid economic growth and social upheaval marked Anderson's presidency. She promoted the 2067 Immigration and Naturalization Bill to bring in more skilled labor, and in 2070, she secured the passage of the Lunar Resource Nationalization Act. Anderson hoped to broker a peaceful solution between the First Nations and Canada, but when negotiation failed, she led the nation's involvement in the First Nations War. U.S. involvement in the war was slow going, and Anderson was criticized for not directly engaging the first nations for much of her term. However, after the 2066 surge the U.S. was able to end the conflict in short order. However, by the end of the conflict Canada's government had been broken and the country was in serious need of economic relief. Anderson's final act of her Presidency would be the annexation of Canada and much of the old Commonwealth.\n\n==Election of 2064==\n== Presidency (2065-2073) ==\n\n=== '''First Term''' ===\n===='''Inauguration and appointments'''====\n\n==== '''[[First Nations War]]''' ====\n2065, only three weeks into her presidency, President Anderson deployed US troops into Canada to end the First Nations War. US forces in occupied Cascadia and the Yukon invaded westward, while forces from Newfoundland pushed into Quebec to aid the nation in repelling an invasion from the North. With America's entrance into the First Nations War, Canada had hoped that victory would be assured, but one year on, the President Anderson's commitment was clearly marginal at best, as she kept US forces in a purely defensive role, mainly to keep the war from reaching American interests. Facing an impatient public in the 2066 midterms, President Anderson put the US on a more direct path to end the conflict. The US successfully captured and occupied Calgary within two weeks after the surge, pushing north into Tlicho proper. Fighting in Alberta calmed, but as Tlicho began to take control of northern Canada's prairies and by extension the majority of Canadian farmlands, the government fell to internal fighting in Manitoba and Ontario. To secure American interests on a larger scale, the US sent peace keeping forces to restore order and installed a military government in Ottawa. By 2067 the US had deployed Space and Naval forces into the Arctic nations, and forced a ceasefire. Her last act in office was the signing of the [[Union Act of 2073]] that formally annexed the Anglosphere nations under free association with the United States.\n\n===='''Peace and territorial gain'''====\n\n===='''Civil Rights'''====\nAnderson entered office promising to relax certain anti-augment policies, however she did not promise full legalization of recreational augmentation, and did not hide her personal opposition to those who changed their DNA to change their appearance. Anderson's struck her first true blow for Augment Rights with the appointment of Justice George Beccara had struck down a number of anti-augmentation laws as a Federal Judge on the 6th Circuit. In the landmark Thatch v. Utah decision in 2066, Beccara was the deciding vote that declared Augments to be humans, and afforded all the same rights as their fellow non-Augment citizens. After Thatch v. Utah, the Federal bench was saddled with cases against anti-augmentation laws. In 2070, Anderson signed the Augmentation Rights Act, overturning the Falana Act's most radical policies, save for a ban on all post-natal augmentations before the age of 18.\n\n===='''First Contact'''====\nAfter a nearly decade-long national effort, and 2 years of exploration and interstellar flight, the United States became the first human civilization to initate first contact with an alien race, the [[K'lerin]] (''Ornithosapiens cognitus'') of [[Le'ma]] (''Tau Ceti f'') with the flight of the ISV-01 Enterprise. Anderson sent a superluminal message to Jin Musgrave and the crew of the Enterprise after they initiated first contact, while also sending a message of peace to the K'lerin. She called the message \"the most significant thing any human being had ever done or ever would do.”\n\nAnderson pushed for greater funding for the NASA's interstellar exploration program in the hope of fostering peaceful relations with alien civilizations, and even stated that she hoped, \"the presence of beings in another star system would lead humanity to put aside our differences in favor of a new era of peace.\" A message that Anderson had hoped would aid in negotiations to force a peaceful solution to the Canada Crisis.\n\nOn March 7, 2067, the Val're Uprising was reported from Le'ma to NASA Houston. To avoid public backlash, Anderson directed NASA to order the recall of the Enterprise. After the Enterprise was re-tasked to come to the aid of the ISV-03 Constitution, Anderson was faced with an additional crisis around the so called, [[Squirrel Wars]] that the human crew had participated in on Tu. Anderson ordered an immediate freeze on all future first contact attempts until a set of procedures could be drafted to govern the process. The crews of the Constitution and the Enterprise were recalled to Earth, to be debriefed and investigated for their behaviour. Jin Musgrave, orchestrated an ingenious ploy to reduce public pressure on the President by organizing a ceremony for the the Morak and K'lerin ambassadors upon their arrival on Earth. The ceremony was planned to be conducted at Explorers Hall in Washington D.C. which forced the President to attend and formally greet the ambassadors while Musgrave and the officers of the Constitution were present. This gave the President cover, reduced public pressure, and the investigation into the conduct of the crews of the Enterprise and Constitution were able to proceed without the potential for political upheaval.\n\n== Post-Presidency ==\nAnderson considered permanently retiring from public life after her presidency. But she was appalled by many of the Lachman administration's actions, including its mass deportation policies. She led a major rally in her hometown in Wisconsin to campaign against Lachman's policies and supported Liberal candidate [[Seras Stultz]] upon her rise in popularity over other Progressive candidates. Despite this, Anderson and Stultz were portrayed by many media outlets to have a rivalry. This was reinforced when Anderson pressed her friend, [[Tom Steele]], to run for office in 2094 as a Progressive candidate.\n\nBy the 22nd century, Anderson had called for expansion of ortibal American influence in the asteroid belt, a disputed region mainly occupied by both the United States and Mexico, and was disappointed after any meaningful response by the government, allowing the Mexican government to gain significant control over the belt that would heighten tensions of the [[Mexican-American Cold War]].\n\nIn 2108, Anderson retired from public life and moved to Mars with her Husband.\n\n=== '''Retirement to Space''' ===\nAnderson became a silent critic of the [[Third Mexican-American War]], which she saw as an offensive war against Mexico to takeover Mexican territory and influence Latin America if they were defeated. Although there is no indication that the two were close, Anderson met [[Miriam Weinstein|Miram Weinstein]] during her last term as the governor of Georgia before she considered running for office of President. \n\n== '''Personal life''' ==\nAnderson met her first spouse, her wife Heather Suzuki in college, she was of Japanese-American descent and in the ROTC. They married in 2033, with Carla following Heather around at her postings. They had two children through IVF, Heather, born in 2036 and son Chad born in 2040. In her book Carla described the marriage as an extremely happy union.  \n\n\"I think one of the reasons why Heather and I worked so well is that neither one of us liked conflict. If we hit a rough patch, we never raised our voices. We never allowed one or the other to stomp out and slam doors, we always made sure to communicate whenever there was something bothering us. But those times were few and far between. My mother use to tell me that Heather and I were a match made in heaven and to this day I believe that. Those 18 years that we were married were some of the happiest in my life and I wouldn't trade them for the world.\"  \n\nBy the time of 2051 when World War III broke out, Suzuki was stationed on one of the American Lunar Base. On November 15th, Japan launched missles towards the base and Suzuki would be killed in what became known as the \"Thanksgiving attacks.\" Anderson was emotionally devastated from Suzuki's death, writing in Sushi and Apple Pie that, \"I had to tell Chad and Heather that Momma was not coming home. They cried and I sat there trying to comfort them only to find that I couldn't even comfort myself. After they calm down and after they went to bed that night, I remember going out and looking up at the cosmos at what my mom liked to call \"The mask of God.\" And asking \"Why would you do this.\" Anderson struggled with depression afterwards and it took her by her own account 10 years to recover.  \n\nWhile working in Law in Madison, Wisconsin, in 2055, Anderson met Archer Moss, a fellow lawyer who had also been widowed since 2052. They moved in together in 2057, They briefly split up in 2059 but reconciled soon afterwards. After dating for 8 and a half years they got engaged in 2061 and married two years later. Heather and Chad are said to be very close to Archer and that he once considered legally adopting them but decided not to as to \"Not to make it look like I was trying to replace Heather as their Momma.\"  \n\nThrough her two children, Anderson has 6 grandchildren, 14 great-grandchildren, and 9 great-great grandchildren.  \n\nAnderson is a practicing Lutheran. She has credited her faith with helping her ultimately overcoming the emotional turmoil resulting from her wife's death.  \n==Quotes==\n\n{{Quote|\"When I saw the right to free expression--which is the backbone of democracy at home--violated in the name of fighting for democracy abroad, I asked myself 'would Heather have tolerated this?' Even if militaries are at war, civilians need not be.\"|Carla Anderson, ''Sushi and Apple Pie''}}\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2026-08-08T23:06:58Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          }
+        ],
+        "title": "Carla Anderson",
+        "touched": "2026-08-08T23:06:58Z"
+      },
+      "903": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1290,
+        "length": 169,
+        "new": "",
+        "ns": 1,
+        "pageid": 903,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1290,
+            "slots": {
+              "main": {
+                "*": "The structure of this page is based on the 21st Century Page of Wikipedia, in that the century is still ongoing and an analysis of the broader trends would be premature.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-24T00:16:27Z"
+          }
+        ],
+        "title": "Talk:22nd Century/@comment-27084453-20151022211417/@comment-899576-20151024001627",
+        "touched": "2015-10-24T00:16:27Z"
+      },
+      "904": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1293,
+        "length": 184,
+        "ns": 1,
+        "pageid": 904,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1292,
+            "revid": 1293,
+            "slots": {
+              "main": {
+                "*": "Well, the Sports and Entertainment sections come before Issues and Concerns and after Economics and Industry on that Wikipedia page. Sports comes first, and Entertainment comes second.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-24T02:54:47Z"
+          }
+        ],
+        "title": "Talk:22nd Century/@comment-27084453-20151022211417/@comment-27084453-20151024025428",
+        "touched": "2015-10-24T02:54:47Z"
+      },
+      "905": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1310,
+        "length": 55,
+        "ns": 1,
+        "pageid": 905,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1296,
+            "revid": 1310,
+            "slots": {
+              "main": {
+                "*": "Excuse me, but Carla Anderson's page was created by me.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-25T00:34:47Z"
+          }
+        ],
+        "title": "Talk:President of the United States/@comment-27084453-20151024174512",
+        "touched": "2015-10-25T00:34:47Z"
+      },
+      "906": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1297,
+        "length": 91,
+        "new": "",
+        "ns": 1,
+        "pageid": 906,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1297,
+            "slots": {
+              "main": {
+                "*": "The original on Future wikia was created by me, what exactly is your problem with the page?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-24T19:27:07Z"
+          }
+        ],
+        "title": "Talk:President of the United States/@comment-27084453-20151024174512/@comment-899576-20151024192707",
+        "touched": "2015-10-24T19:27:07Z"
+      },
+      "907": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6023,
+        "length": 45,
+        "ns": 6,
+        "pageid": 907,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1299,
+            "revid": 6023,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:25:12Z"
+          }
+        ],
+        "title": "File:Carla Anderson Blank.png",
+        "touched": "2017-11-08T00:10:31Z"
+      },
+      "908": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6109,
+        "length": 45,
+        "ns": 6,
+        "pageid": 908,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1302,
+            "revid": 6109,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:47:57Z"
+          }
+        ],
+        "title": "File:Halvidar Blank.png",
+        "touched": "2017-11-08T00:12:51Z"
+      },
+      "909": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Thang Levin Blank.png"
+          }
+        ],
+        "lastrevid": 11762,
+        "length": 8884,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Christopher Reagan"
+          },
+          {
+            "ns": 0,
+            "title": "David Castillo"
+          },
+          {
+            "ns": 0,
+            "title": "Horizon Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Lionel Halvidar"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Miriam Weinstein"
+          },
+          {
+            "ns": 0,
+            "title": "Oscar Lachman"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Second Vietnam War"
+          },
+          {
+            "ns": 0,
+            "title": "Stewart M. Li"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          }
+        ],
+        "ns": 0,
+        "pageid": 909,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11635,
+            "revid": 11762,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=Thang Levin\n|image=Thang_Levin_Blank.png|border\n|imagesize=265px\n|alt=\n|caption=\n|order=[[President of the United States|64th]]\n|office=President of the United States\n|vicepresident=[[David Castillo]]\n|predecessor=[[Miriam Weinstein]]\n|successor=[[Lionel Halvidar]]\n|order2= United States Senator\n|office2= from Oregon\n|predecessor2= Terrance Ling\n|successor2= Lucile Freeman\n|order3 = Member of the U.S. House of Representatives\n|office3= from Oregon's 9th district\n|predecessor3= Raj Monson\n|successor3= Erin DuLall\n|birth_date=April 15, 2084 (age 76)\n|birth_place=Beaumont, TX\n|death_date=\n|death_place=\n|restingplace=\n|nationality= American\n|party=[[Horizon Party (United States)|Horizon]]\n|spouse= \n|children=\n|religion= Buddhist\n|profession=Lawyer<br />Politician}}'''Thang Martin Levin''' was the 64th President of the United States (2129–2133), serving immediately prior to the [[Third Mexican-American War|Second American Civil War]]. He represented Oregon in the United States House of Representatives and later the Senate, then served as Ambassador to Japan under President [[Stewart M. Li|Stewart Li]]. He was named Secretary of State under President [[Christopher Reagan]] and continued to serve under the [[Miriam Weinstein|Weinstein administration]] for just over a year before retiring.\nOne of his primary goals as president was to reduce or end hostilities in the [[Mexican-American Cold War]]. However, his indecision in times of crisis has led to his downfall.\n\n==Early Life and Career==\nThang Martin Levin was born in Beaumont, Texas in 2084 to a lower middle class family. His father was of Russian-Jewish descent while his mother was a Vietnamese immigrant. He was the middle child out of three siblings. Levin's father became the wealthiest person in the city under Oscar Lachman's presidency, becoming a prosperous real estate agent after an opportunity opened itself after Lachman's deportations. Levin's old birth home in Beaumont was later turned into the Levin Hotel in 2150s after a few modifications.\n\nDespite pressures of his older sibling (and later younger) volunteering to fight in the [[Second Vietnam War]], Levin decided to instead spend his time trying to get into a political career rather than a military career. Levin attended Lamar University in the spring of 2103 before he graduated with high honors and a masters degree in Law.  A year after, he moved to Oregon to begin his political career. <span style=\"font-weight:normal;\">Levin began his political career as a speechwriter under Representative Mike Haas, a House of Representative representating the 9th congressional district of Oregon, for the Horizon party.</span>\n==='''Congressman'''===\nAfter Mike Haas retired, Levin ran as a representative in his place in 2110 midterm elections and used skills he acquired under Representative Haas to win after delivering a heartfelt speech. During his career as a representative, his notoriety as a legislator helped him became a popular figure in the House of Representatives. Levin believed in a small but active government, high tariffs on goods from Mexican-funded countries, and reinforcement of the American identity over immigrants. He left office in 2113 but later ran for Senate later in the year and easily won his seat during the 2114 elections.\n\nAs a senator, he was a loyal supporter of President Stewart M. Li despite slightly differing views. His career as a senator was cut short when President Li recognized Levin's talent for speech along favoring views of Japan and Buddhism before offering him a job as an Ambassador. Levin reluctantly accepted in late 2115 and left office in early 2116 shortly after to move to Japan. \n==='''Ambassador to Japan'''===\nHis time in Japan was relatively uneventful, which he would later stated in a post-presidential interview that he 'was consistently homesick'. However, his time in Japan had helped relations between the US and Japan that led to crucial Japanese involvement on the American side in the [[Third Mexican-American War]]. During the early years of Christopher Reagan's presidency, Thang Levin had met his future wife, Lin Miyanagi, in 2118 and controversially marry later in the year, he would later divorce her in the early 2140s. However, he later said in the same post-presidential interview that it made his time in Japan much more bareable. He would later adopt Buddhism through his wife.\n==='''Secretary of State'''===\nThang Levin shared many of Reagan's foreign policy views, and Levin was offered the position of Secretary of State in the Reagan administration in 2119. Though he considered the possibility of instead staying as an Ambassador of Japan, Thang Levin accepted the position and served as Secretary of State throughout Reagan's lone term in office. During that time, Levin had helped Reagan to nearly double the territorial size of the American territory in Neptune.\n\n==Presidency==\n==='''Presidential Election of 2128'''===\n\nLevin was nominated by the Conservative Party in the 2128 presidential election in an effort to appeal to the nation's desire for a reprieve from the patronage scandals of the Weinstein administration. Levin's character for meritorious service was seen as unimpeachable, and the Horizon party threw their whole weight behind his candidacy. His subsequent election victory took place in a four-person race with Avery Johnson, Yanna Lynne, and Eliza Jin Tao. Levin surprised everyone with his unity ticket with Senator David Castillo, the most high profile member of the Dignidad Party. In truth, the Horizon National Committee had been working for years on a coalition with Dignidad, and Levin's clout as a meritorious serviceman was seen as the perfect opportunity to solidify the coalition.\n==='''Division'''===\n\nAs President, he often battled with more traditional elements of the Horizon Party who were displeased with the breakdown of the Horizon-Libertarian coalition. His presidency was plagued by weak coalitions and promises, preventing him from making any real changes to the country.\n\nProblems for Levin heightened during the 2130 midterm elections had caused a sharp division that resulted in a breakdown of the coalition when many prominent politicians, including those from the Horizon Party, became concerned with the growing power of Dignidad in the Southwestern States. The tension between the politicians of the Dignidad and the politicians of other parties resulted in violence in the streets as crowds began attacking each other during rallies.\n\nLevin sent troops to try to maintain peace within the Southwestern states resulted in backlash when police began to be seen attacking civilians that had met with harsh criticism from the media, whom many citizens had watched with mixed reactions all over the country had coupled with the fact of denouncement of Mexico with such acts and alienation Levin from much of his political allies when public outcry was ignored.\n\nLevin's efforts to maintain peace in the Southwest alienated much of the country, and the Southwestern states declared their secession in the prologue to the Second Civil War.  His view of record was that secession was illegal, but that going to war to stop would only drag the country into a larger conflict with Mexico.\n\n== Personal Life ==\n\n==Legacy==\n\nBy the time he left office, popular opinion was against him, and the Horizon Party had split. Levin had once aspired to be a president that would rank in history with [[Oscar Lachman]]. However, his inability to identify a ground for peace or address the sharp divide in the country on the brink of the Second Civil War has led to his consistent ranking by historians as one of the worst presidents in American history. Historians in both 2156 and 2160 voted his failure to deal with secession the worst presidential mistake ever made. Second only to that, was his once praised nomination of David Castillo, who would go onto lead the Aztlan Rebels as their President.\n\nHis legacy and actions were consistantly compared with President [https://en.wikipedia.org/wiki/James_Buchanan James Buchanan] of similar events leading up to the [https://en.wikipedia.org/wiki/American_Civil_War First American Civil War] . Many historians had provided James Buchanan and Thang Levin's Presidencies as an another major example of a repeat of history.\n\n\n\n\n==Quotes==\n{{Quote| \"If there is one thing I wish to do in my life, is to do the whole presidency thing again. I don't understand, why can't both sides agree on anything now? We all once did. This is not the Dark Ages, isn't it? Is it too much to ask? But there's one thing I have come in terms with: it will never be my fault. It was inevitable. I was just unlucky. History will understand that... I hope...\"|Thang Levin, 2135 post-presidential interview.}}\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-03-16T05:52:59Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Comma separated entries"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:If empty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Quote"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:If empty"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Separated entries"
+          },
+          {
+            "ns": 828,
+            "title": "Module:TableTools"
+          }
+        ],
+        "title": "Thang Levin",
+        "touched": "2025-03-16T05:52:59Z"
+      },
+      "910": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1311,
+        "length": 166,
+        "new": "",
+        "ns": 1,
+        "pageid": 910,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1311,
+            "slots": {
+              "main": {
+                "*": "I know that you created the original. I was just complaining of the fact that the link on this page did not go to the new version. I see that the link has been fixed.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-25T00:36:15Z"
+          }
+        ],
+        "title": "Talk:President of the United States/@comment-27084453-20151024174512/@comment-27084453-20151025003615",
+        "touched": "2015-10-25T00:36:15Z"
+      },
+      "911": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century conflicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:First Nations War.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Canada.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Nunavut.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Quebec.svg.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Tlicho.gif"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sahtu Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 60 stars.png"
+          }
+        ],
+        "lastrevid": 11975,
+        "length": 9928,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Allies of World War III"
+          },
+          {
+            "ns": 0,
+            "title": "Canada"
+          },
+          {
+            "ns": 0,
+            "title": "Carla Anderson"
+          },
+          {
+            "ns": 0,
+            "title": "Confederate Tribes of Nunavut"
+          },
+          {
+            "ns": 0,
+            "title": "First Nations"
+          },
+          {
+            "ns": 0,
+            "title": "Republic of Quebec"
+          },
+          {
+            "ns": 0,
+            "title": "Republic of Sahtu"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "The Refreeze"
+          },
+          {
+            "ns": 0,
+            "title": "Union Act of 2073"
+          },
+          {
+            "ns": 0,
+            "title": "United Republic of Tlicho"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 911,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11953,
+            "revid": 11975,
+            "slots": {
+              "main": {
+                "*": "{{Infobox Military Conflict\n|conflict=First Nations War\n|partof=[[The Flood|The Climate Wars]]\n|image=[[File:First_Nations_War.png|425px]]\n|caption=Map of North America during the war\n|date=November 1st, 2064 - May 11th, 2067\n|place=Canada\n|causes= The Refreeze, Northern Recession\n|territory=Canada and the First Nations are occupied by the United States\n|result=Allied victory\n*Defeat of the First Nations\n*Occupation of Canada by the United States\n|combatant1='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|[[Allies of World War III|Alliance]]\n}}}</span>'''\n[[File:US_flag_60_stars.png|25px]] '''[[United States of America|United States]]''' <small>(2065-67)</small><br>\n{{flag|Canada|size=25px}}<br>\n{{flag|Quebec|size=25px}}\n\n|combatant2='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|[[First Nations]]\n}}}</span>'''\n{{flag|Tlicho|size=25px}}<br>\n{{flag|Nunavut|size=25px}}<br>\n{{flag|Sahtu|size=25px}}\n\n|commander1='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|Allied Leaders}}}</span>'''\n[[File:Flag_of_Canada.png|25px]] Fred Johnson<br>\n[[File:Flag_of_Quebec.svg.png|25px]] François Mareau<br>\n[[File:US_flag_60_stars.png|25px]] [[Carla Anderson]]\n\n|commander2='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|First Nations leaders}}}</span>'''\n\n[[File:Flag_of_Tlicho.gif|25px]] David Sawkiw<br>\n[[File:Flag_of_Nunavut.png|25px]] Erik McCormick<br>\n[[File:Sahtu_Flag.png|25px]] Grey Sun<br>\n|strength1= 76,000\n|strength2= 40,000\n|casualties1= 1,000\n|casualties2= 5,000\n}}\n\nThe '''First Nations War''' also known as the '''Canadian Civil War''' or the '''Canadian Crisis''' in the United States was an armed conflict that persisted from 2064 to 2067 in Canada and the Arctic Nations. The conflict began on November 1st, 2064 when the First Nations, facing economic collapse after the Refreeze, invaded the warmer prairie provinces of Canada.\n\n==Background==\n===First Nations Secession (2048)===\nRising global temperatures made the Canadian Artic more livable and the Arctic Ocean ice free in the early 21st Century, leading to a boom in economic activity. As [[Canada]] sought new sources of investment from abroad, the Arctic became a prime target for economic development and foreign influence. During the Canadian Constitutional Crisis, this culminated in the secession of Tlicho, Sahtu, and Nunavut.\n\nThe region remained neutral during [[World War III]], successfully playing its international partners against each other to keep the Arctic sea lanes open, and grew even wealthier from the surge in wartime smuggling. Post-war, many soldiers and mercenaries from the Coalition and their proxies flocked to the Arctic Nations as they sought to build up their own defenses.\n\n===[[The Refreeze|The Refreeze (2054-2065)]]===\nIn 2054 the Earth Working Group positioned Solar Reflectors in Earth Polar Orbit in a geoengineering projects to return global temperatures, and by extent sea levels to pre-anthropocene levels. The project was widely supported by most of the planet which had been adversely effected by the environmental devastation of [[the Flood]], however the Arctic Nations stood in vehement opposition to the project. The solar reflectors would functionally black out the skies over the First Nations, killing crops and reducing temperatures to inhospitable levels; additionally the return of the polar caps would close the Northwest Passage which the first nations depended on as both a major trade rout and access for arctic fishing and hydrocarbons. \n\nLegal challenges and protests were met with disdain from much of the global community. Despite the recent boom they'd experienced, the Arctic Nations remained some of the most underpopulated on Earth. In addition, their neutrality and protection of smuggling operations during the war, and the inviting of war criminals into their countries post-war did little to endure them to the international community. After several loud protests at the Organization of American States and the Global Environmental Council, the First Nations outrage was ultimately ignored and the project proceeded. \n\n==Course of the War==\nTo survive, the First Nations allied to invade Canada's northern territories which were still warm enough to support some agriculture and industry thanks in part to the Earth Working Group's \"rewilding\" of the subarctic. The Arctic Nations had long prepared to defend their valuable oil supplies and funded a military buildup before the Refreeze. Canada and Quebec quickly found themselves being invaded by the First Nations. In 2065, only three weeks into her presidency, President Anderson deployed US troops into Canada to end the civil war. US forces in occupied Cascadia and the Yukon invaded westward, while forces from Newfoundland pushed into Quebec to aid the nation in repelling an invasion from the North. With America's entrance into the First Nations War, Canada had hoped that victory would be assured, but one year on, the President Anderson's commitment was clearly marginal at best as she kept US forces in a purely defensive role, mainly to keep the war from reaching American interests. Facing an impatient public in the 2066 midterms, President Anderson put the US on a more direct path to end the conflict. The US successfully captured and occupied Calgary within two weeks after the surge, pushing north into Tlicho proper. Fighting in Alberta calmed, but as Tlicho and Sahtu began to take control of northern Canada's prairies and by extension the majority of Canadian farmlands, the government in Ottawa fell to internal fighting in Manitoba and Ontario. To secure American interests on a larger scale, the US sent peace keeping forces to restore order and installed a military government in Ottawa. By 2067 the US had deployed Space and Naval forces into the Arctic nations, and forced a ceasefire.\n\n==Aftermath==\nWhile Canada was placed under US military administration, the First Nations were able to negotiate the terms of surrender. The Spring Truce allows the First Nations tribes to keep the land they originally had, which is no longer worth nearly what it was during the Flood, but Mammoth populations have made it worth more than it was pre-Flood. They are also given financial assistance (they cover a portion of the cost) to build new infrastructure for tourism. Finally, tribal reservations are transferred to the states, Tribes are recognized as private corporations (a similar arrangement was in place in the First Nations) and therefore tribes are given the right to buy and sell Indian land as they see fit and can be represented at the state level as quasi-autonomous districts within states. To some native tribes, the First Nations won the war.\n\nThe signing of the Spring Truce ended the conflict, but did not resolve the issues facing Canada. The refreezing of the polar caps crippled Canada's economy, while the first nations homelands were left uninhabitable. The two cultures benefited a great deal from the warming climate, and the return of cold temperatures left millions of acres of farmland useless and arctic trade routs closed. Compounding these issues was the new refugee crisis. Most of the residents in the First Nations were not actual citizens of the tribes, but people who emigrated to take advantage of the booming arctic economy in the 2040s. Many of these residents had started families in the First Nations, and while some were able to return to southern Canada and the US, many of these people were former citizens of the United Kingdom and Australia, one country that no longer existed, and another who's environment was expected to take decades to fully recover. American forces were left to patrol refugee camps in Southern Canada for years as resettlement became an increasingly complex issue. Former citizens of the UK were slowly being resettled into the restored British Isles, but most refused to return to their former home, as they had intermarried with Canadians, Australians, Americans, and First Peoples. The American economy was also under threat of recession as new farmland became available further south, but fewer farmers were available to work the land. \n\nAfter a year of inaction, the Anderson Administration signed several executive actions permitting free travel for former US Citizens and their families back into the United States, and approved a number of visas for Canadians and Australians who were also living in the First Nations at the time. This aided the American economy, but Canada was at risk of falling from a recession into a depression. With massive drop offs in tax revenue, most of Canada's social welfare programs were now unfunded. Additionally, American businesses had difficulty operating in Canada and the former First Nations territory (some of which was still usable for mining, logging, and fishing) while the occupation was in effect. As winter approached, President Anderson signed a series of executive orders that effectively extended military healthcare to former Canadians and First Nations citizens. This was ultimately struck down by the Supreme Court the following year, but it provided some relief to the former Canadians. Cascadia, a freely associated state with the US, extended a number of social programs to Canadians, as did several northern states. Visas were eventually granted to the majority of Canadians, so they could enjoy American social services as guest workers, despite not actually living inside the Untied States at the time.\n\nIn 2073, President Anderson formally annexed Canada along with the rest of the Anglosphere under the [[Union Act of 2073]], which the previous Congress narrowly passed under pressure from American businesses and nationalist groups.\n[[Category:21st-century conflicts]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2026-01-30T15:23:29Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Canada"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Nunavut"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Quebec"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Sahtu"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Tlicho"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flag"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flag/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox Military Conflict"
+          },
+          {
+            "ns": 10,
+            "title": "Template:WPMILHIST Infobox style"
+          }
+        ],
+        "title": "First Nations War",
+        "touched": "2026-01-30T15:23:29Z"
+      },
+      "912": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Political parties in the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Union Logo.png"
+          }
+        ],
+        "lastrevid": 5681,
+        "length": 1034,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Associated state"
+          },
+          {
+            "ns": 0,
+            "title": "Interplanetary Trade Commission"
+          },
+          {
+            "ns": 0,
+            "title": "Lionel Halvidar"
+          }
+        ],
+        "ns": 0,
+        "pageid": 912,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4820,
+            "revid": 5681,
+            "slots": {
+              "main": {
+                "*": "{{Infobox political party\n|name_english       = Union Party\n|logo               = [[File:Union_Logo.png|200px]]\n|colorcode          = #062A78\n|chairperson        = Cora Fabian\n|founded            = 3 May 2088\n|headquarters       = A-4 Founder St. W, Bradbury, BR, 719234\n|student_wing       = \n|youth_wing         = \n|membership_year    = \n|membership         = \n|ideology           = Post-Scarcity <br> Unionism\n|colors             = Dark Blue\n|website            = \n|country            = \n|country_dab1       = \n}}\nThe '''Union Party''' was one of the major contemporary political parties in the United States and its [[Associated state|Associated states]].\n\nTracing its origins back to the founding of the [[Interplanetary Trade Commission]], the Union Party was founded around 2088 in an effort to unite the colonial delegation to Earth under a single political apparatus. There have been 3 Unionist presidents, the first being [[Lionel Halvidar]], who served from 2133 to 2141.\n[[Category:Political parties in the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-15T19:02:53Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox political party"
+          }
+        ],
+        "title": "Union Party (United States)",
+        "touched": "2017-09-15T19:02:53Z"
+      },
+      "913": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1320,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 913,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1320,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-25T17:28:38Z"
+          }
+        ],
+        "title": "File:Union Logo.png",
+        "touched": "2015-10-25T17:33:53Z"
+      },
+      "914": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Coats of arms"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6116,
+        "length": 27,
+        "ns": 6,
+        "pageid": 914,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1326,
+            "revid": 6116,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Coats of arms]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:48:59Z"
+          }
+        ],
+        "title": "File:ITC Logo.png",
+        "touched": "2017-11-08T00:12:50Z"
+      },
+      "915": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1330,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 915,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1330,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-26T20:46:51Z"
+          }
+        ],
+        "title": "File:Carrier Strike Group Three Crest.png",
+        "touched": "2015-10-26T20:46:51Z"
+      }
+    }
+  }
+}

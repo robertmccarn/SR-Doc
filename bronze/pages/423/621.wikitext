@@ -1,0 +1,12 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Rhode Island
+| flag alias = Flag_of_Rhode_Island.png
+| alt attribute = Flag of Rhode Island
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+}}
+
+[[Category: Templates]]

@@ -1,0 +1,35 @@
+{| style="clear:right; float:right; width:19.0em; margin-left:1.0em; padding:0.2em; border:1px solid #000000; background:#f2f2f2; font-size:90%; text-align:center; line-height:1.4em;" cellspacing="0" cellpadding="2"
+|-
+|style="background:white; font-size:85%; line-height:1.8em;"|
+<span style="font-size:155%;">'''Periods in [[United States of America|United States]] history'''</span>
+|-
+|style="padding:0.2em 0.5em;"|
+ {{aligned table|fullwidth=y|leftright=y|cols=2|nowrap2=y
+  |[[Wikipedia:Colonial history of the United States|Colonial era]]| 1607–1775
+  |[[Wikipedia:American Revolution|American Revolution]]| 1765–1783
+  |[[Wikipedia:Confederation Period|Confederation]]| 1783–1788
+  |[[Wikipedia:Federalist Era|Federalist Era]]| 1788–1801
+  |[[Wikipedia:Jeffersonian democracy|Jeffersonian Era]]|1801–1825
+  |[[Wikipedia:Jacksonian democracy|Jacksonian Era]]|1825–1849
+  |[[Wikipedia:American Civil War|Civil War]] Era| 1849–1865
+  |[[Wikipedia:Reconstruction Era|Reconstruction]]| 1865–1877
+  |[[Wikipedia:Gilded Age|Gilded Age]]| 1877–1897
+  |[[Wikipedia:Progressive Era|Progressive Era]]| 1897–1920
+  |[[Wikipedia:Great Depression in the United States|Great Depression]]| 1929–1939
+  |[[Wikipedia:World War II|World War II]]| 1941–1945
+  |[[Wikipedia:Cold War|Amero-Soviet Cold War]]| 1945–1989
+  |[[Wikipedia:Reagan Era|Reagan Era]]| 1981–2009
+  |[[Great Reset]] | 2009-2027
+  |[[Seventh Party System|New Progressive Era]] | 2027-2051
+  |[[World War III]] | 2051-2055
+  |[[Space Age]] | 2055-2092
+  |[[Mexican-American Cold War|Mex-Amero Cold War]] | 2092-2132
+  |[[Third Mexican-American War|Third Mexican War]] |2132-2139
+  |[[Terran diaspora]] |2139-Present
+}}
+|-
+|[[Timeline of major events|Timeline]]
+|}<noinclude>
+
+[[Category:History navigational boxes]]
+</noinclude>

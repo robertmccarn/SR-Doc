@@ -1,0 +1,18 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"wikia-infobox\">\n\n\n<tbody><tr>\n<th class=\"wikia-infobox-header\" colspan=\"2\">\n</th></tr>\n\n\n\n\n\n\n<tr>\n<th colspan=\"2\"><div class=\"wikia-infobox-section-header\">Some attributes</div>\n</th></tr>\n<tr>\n<th>First\n</th>\n<td><i>Unknown</i>\n</td></tr>\n<tr>\n<th>Second\n</th>\n<td><i>Unknown</i>\n</td></tr>\n<tr>\n<th>Third\n</th>\n<td><i>Unknown</i>\n</td></tr>\n<tr>\n<th colspan=\"2\"><div class=\"wikia-infobox-section-header\">Other attributes</div>\n</th></tr>\n\n\n\n\n\n\n\n\n\n<tr style=\"font-size:0; line-height:0;\">\n<th style=\"width:50%; padding:0\">\n</th>\n<th style=\"width:50%; padding:0\">\n</th></tr></tbody></table>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:Infobox Organization/sandbox/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SW5mb2JveF9Pcmdhbml6YXRpb24vc2FuZGJveC9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:Infobox_Organization/sandbox/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:Infobox Organization/sandbox/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SW5mb2JveF9Pcmdhbml6YXRpb24vc2FuZGJveC9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:Infobox Organization/sandbox/doc</span></div>\n\n<!-- \nNewPP limit report\nCached time: 20261119205911\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.024 seconds\nReal time usage: 0.028 seconds\nPreprocessor visited node count: 167/1000000\nPost‐expand include size: 964/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    6.139      1 -total\n 46.98%    2.884      1 Template:Infobox\n 46.26%    2.840      1 Template:Documentation\n 16.82%    1.033      1 Template:Infobox_Organization/sandbox/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:2919-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205911 and revision id 8507. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Infobox Organization/sandbox/doc",
+      "ns": 10
+    }
+  ],
+  "page_id": 2919,
+  "revision_id": 8507,
+  "title": "Template:Infobox Organization/sandbox"
+}

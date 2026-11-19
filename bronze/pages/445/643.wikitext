@@ -1,0 +1,12 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Washington, D.C.
+| flag alias = Flag_of_Washington,_D.C..png
+| alt attribute = Flag of Washington, D.C.
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+}}
+
+[[Category: Templates]]

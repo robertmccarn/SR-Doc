@@ -1,0 +1,2819 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "2283": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mexican-American Cold War"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexico"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Military Technology"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 10610,
+        "length": 6512,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Guardiola Foundation"
+          },
+          {
+            "ns": 0,
+            "title": "Luis Zepeda"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Orbitals"
+          },
+          {
+            "ns": 0,
+            "title": "Project Ahuiateteo"
+          },
+          {
+            "ns": 0,
+            "title": "Second Depression"
+          },
+          {
+            "ns": 0,
+            "title": "Second Mexican-American War"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2283,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7858,
+            "revid": 10610,
+            "slots": {
+              "main": {
+                "*": "The '''Mexican Vacuum Command''' (\"''Comando Mexicano de Vacio''\") was a Command Division of the National Defense Secretariat (SEDENA), created initially in 2090 to help institutionalize the use of outer space by the Mexican Special Forces. It officially became an independent agency in 2113. The Secretariat of Orbital Defense, with a headquarters at L1 Colony, also functioned as the Commander in Chief of all Mexican Armed Forces in Space. Military space-operations coordinated by CMV proved to be very valuable for the Mexican-led coalition during the latter half of the [[Mexican-American Cold War]].\n\nUnlike the United States Space Force, which is just an independent branch of the United States Armed Forces, Mexico's Vacuum Command existed as separate from the chain of command of operations on Earth, which were organized under the Mexican Terrestrial Command (''Comando Terrestre Mexicano''). Separate branches of the Mexican Army and Navy were created specifically for space-based combat, effectively dividing responsibilities of SEDENA in two.\n\n==History==\nAfter Filipe Peña and the Revolution Party's takeover in 2090 elections, Mexico began to pursue a greatly enlarged military. During its struggle for power, the Revolution party promised to recover Mexico's lost national pride. It proposed military rearmament claiming that America's unilateral deportation of millions of citizens into their territory and dominance over space were an embarrassment for all Mexicans. The military buildup became the topmost priority of the Peña administration. Peña would then spearhead one of the greatest expansions of space-based industrial production and civil improvement Mexico had ever seen.\n\nThen Interior Secretary [[Luis Zepeda]], already one of the most influential Revolution party figures of the time, and the Mexican Council of Economic Advisors introduced a wide variety of programs in order to build up the Mexican military and improve Mexico's infrastructure, even more so than the civil works programs introduced during the [[Second Depression]]. One element of this was the creation of the early Vacuum Command, which operated primarily as a special forces unified command structure of the Mexican Armed Forces. After the end of the [[Second Mexican-American War]] and the death of Filipe Peña, Zepeda pushed for a military buildup and exploring ways to counter US military dominance in space.\n\n==='''Project Ahuiateteo'''===\n''Main article: [[Project Ahuiateteo]]''\n\nTo close the power gap between Mexico and the United States, in the 2080s the Vacuum Command launched ''Project Ahuiateteo'', named for the five Aztec gods of excess and pleasure, to build five super-[[Orbitals]] under the guise of extravagant tourist destinations. After a decade of construction, Mexico unveiled the true purpose of the Ahuiateteo colonies in 2112, demonstrating their capabilities a single kinetic strike on a small island in the South Pacific. While the yield of the impact was impressive, 2 killotonnes, the distance terrified the American public and escalated the Mexican-American Cold War.\n\nMexico then used these heavily armed platforms to build and maintain a larger and more nimble space force, deploying a few thousand drones and attack satellites upon their debut, and training its in-space commandos from this position. The threat of planetary bombardment and the political fallout that would come from killing hundreds of thousands of civilians forced the US to accept these orbitals as a reality for a quarter century.\n\n==='''Mexican power in space (2113-2134)'''===\nMexico formally established an independent Space Force, the Secretariat of Orbital Defense, on May 1, 2113, with Jaso as Secretary and Commanding General. He was stationed at the L1 Colony and for 19 years would directly oversee and command Mexican operations in Space, and by extension Mexican deployments around the World. \n\nWith a foothold in Earth Orbit Mexico began to expand and defend its interests in space, capturing asteroids and building a large space fleet. Mexican mining interests extended as far out as the orbit of Jupiter, harvesting Trojan asteroids and moving them toward their L1 and L2 Earth-Solar quarries, and building infrasructure across the solar system to continually maintain Mexican space assets. Vacuum Command bases were established near the Trojans and on long transit orbits between Jupiter and Earth. Despite this effort to capture space-based resources, Mexico was formally an anti-colonial power, and believed the American colonies held far too much sway over system-wide economics and political power. However due to the extreme gap in population and power between Mexico and the Colonies, Vacuum Command never made any serious attempt to push the Mexcian navy to directly engage the colonials, and preferred to keep almost all of its forces near Earth.\n\nPrior to the outbreak of the Third Mexican War, the Mexican Navy under Vacuum Command held a fleet of 1100 human operated ships and up to a million drones.\n\n==Bases==\nAt its height the Mexican Vacuum Command had only one quarter the instillations of the US Space Force, the bulk of which were operated by the Mexican Navy. Most of Mexico's positions in space that provided command and control were organized into clusters of chip-sats that operated a completely distributed network of autonomous command and control. Human decision making could be conducted anywhere on Earth or in space, but Mexico maintained human-level command positions at their Earth-Solar orbitals.\n\n==='''Earth Orbit'''===\n\n==='''Lagrangian Points'''===\n==='''Colonies'''===\n\n==Equipment==\n==='''Spacecraft'''===\n===='''Cruisers'''====\nMexican cruisers were co-developed not long after the Second Mexican-American War with help from the [[Guardiola Foundation]] originally from stolen American designs. Zepeda-class cruisers were used primarily for long-range land, sea, and space strike capability, and were capable of light bombardment from orbit. The Zepeda-class was Mexico's only cruiser to enter service. At twice the length of the American Armstrong-Class it was considered the peak of its class of vessel. Of the five ships Mexico built, all five were destroyed during the Third Mexican War.\n\n===='''Drops carriers'''====\n===='''Assault carriers'''====\n===='''Gunships'''====\n===='''Orbital Battle Stations'''====\n\n==='''Aircraft'''===\n==='''Weapons'''===\n[[Category:Military Technology]]\n[[Category:Mexico]]\n[[Category:Mexican-American Cold War]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-10-09T16:35:50Z"
+          }
+        ],
+        "title": "Mexican Vacuum Command",
+        "touched": "2021-10-09T16:35:50Z"
+      },
+      "2284": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mexico"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6467,
+        "length": 20,
+        "new": "",
+        "ns": 14,
+        "pageid": 2284,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6467,
+            "slots": {
+              "main": {
+                "*": "[[Category: Mexico]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-18T00:48:13Z"
+          }
+        ],
+        "title": "Category:Presidents of Mexico",
+        "touched": "2024-01-13T22:03:42Z"
+      },
+      "2285": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:War and conflict templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Cold War Logo.png"
+          }
+        ],
+        "lastrevid": 6485,
+        "length": 1578,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Battle of Brazil"
+          },
+          {
+            "ns": 0,
+            "title": "India Crisis"
+          },
+          {
+            "ns": 0,
+            "title": "Interplanetary Trade Commission"
+          },
+          {
+            "ns": 0,
+            "title": "Latin American Union"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Oscar Lachman"
+          },
+          {
+            "ns": 0,
+            "title": "Sahara War"
+          },
+          {
+            "ns": 0,
+            "title": "Second Depression"
+          },
+          {
+            "ns": 0,
+            "title": "Second Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Second Vietnam War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Chinese Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Timeline of major events"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican-American Cold War"
+          }
+        ],
+        "ns": 10,
+        "pageid": 2285,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6484,
+            "revid": 6485,
+            "slots": {
+              "main": {
+                "*": "{| style=\"clear:right; float:right; width:15.0em; margin-left:1.0em; padding:0.2em; border:1px solid #000000; background:#f2f2f2; font-size:90%; text-align:center; line-height:1.4em;\" cellspacing=\"0\" cellpadding=\"2\"\n|-\n|style=\"background:white; font-size:85%; line-height:1.8em;\"|\n<div style=\"padding-bottom:0.25em;\">[[Image:Cold_War_Logo.png|frameless|upright=.6818182]]</div>\nPart of [[:Category:Mexican-American Cold War|a series]] on the<br/>\n<span style=\"font-size:125%;\">'''History of the [[Mexican-American Cold War]]'''</span>\n|-\n!style=\"padding:0.2em 0.5em; background:#ccf;\"| Origins\n|-\n|style=\"padding:0.2em 0.5em;\"|[[Second Depression]]<br><small>([[Oscar Lachman|Mass Deportations]])</small><br>[[Second Mexican-American War|Second Mexican War]]<br>[[United States of America|US-Allies]]<br>[[Latin American Union]]<br>[[Interplanetary Trade Commission]]\n|-\n!style=\"padding:0.2em 0.5em; background:#ccf;\"| [[Second Vietnam War]]\n|-\n!style=\"padding:0.2em 0.5em; background:#ccf;\"| [[Third Chinese Civil War]]\n|-\n!style=\"padding:0.2em 0.5em; background:#ccf;\"| [[India Crisis]]\n|-\n!style=\"padding:0.2em 0.5em; background:#ccf;\"| [[Sahara War]]\n|-\n!style=\"padding:0.2em 0.5em; background:#ccf;\"| [[Battle of Brazil]]\n|-\n!style=\"padding:0.2em 0.5em; background:#ccf;\"| [[Third Mexican-American War|Third Mexican War]]\n|-\n!!style=\"padding:0.2em 0.5em; center: background:white\"|[[Timeline of major events|Timeline]] {{·}} [[:Category:Mexican-American Cold War|Conflicts]]\n|-\n\n|}<noinclude>\n{{clear}}\n\n== See also ==\n\n[[Category:War and conflict templates]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-18T05:49:11Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Clear"
+          },
+          {
+            "ns": 10,
+            "title": "Template:·"
+          }
+        ],
+        "title": "Template:History of the Mexican-American Cold War",
+        "touched": "2017-12-13T19:06:16Z"
+      },
+      "2286": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6483,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2286,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6483,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-18T05:41:54Z"
+          }
+        ],
+        "title": "File:Cold War Logo.png",
+        "touched": "2023-01-17T03:19:13Z"
+      },
+      "2287": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6489,
+        "length": 153,
+        "new": "",
+        "ns": 1,
+        "pageid": 2287,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6489,
+            "slots": {
+              "main": {
+                "*": "Fucking Abhumans and Subhumans need to be purged, this is pure heresy. But who we quickly need to start on first are these disgusting furfag Furries.  ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-19T01:56:27Z"
+          }
+        ],
+        "title": "Talk:Human/@comment-81.101.10.49-20171019015627",
+        "touched": "2017-10-19T01:56:27Z"
+      },
+      "2288": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6493,
+        "length": 24,
+        "ns": 10,
+        "pageid": 2288,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6492,
+            "revid": 6493,
+            "slots": {
+              "main": {
+                "*": "<nowiki>#992D35</nowiki>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-19T02:49:01Z"
+          }
+        ],
+        "title": "Template:National Regeneration Party/meta/color",
+        "touched": "2017-10-19T02:49:01Z"
+      },
+      "2289": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mexican-American Cold War"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:2132 The Last War.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cold War Logo.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Argentina.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Bolivia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Chile.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Colombia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Mexico (2074).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Peru (war).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Paraguay.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Venezuela.png"
+          }
+        ],
+        "lastrevid": 11266,
+        "length": 1895,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Argentina"
+          },
+          {
+            "ns": 0,
+            "title": "Battle of Brazil"
+          },
+          {
+            "ns": 0,
+            "title": "Bolivia"
+          },
+          {
+            "ns": 0,
+            "title": "Chile"
+          },
+          {
+            "ns": 0,
+            "title": "Colombia"
+          },
+          {
+            "ns": 0,
+            "title": "India Crisis"
+          },
+          {
+            "ns": 0,
+            "title": "Interplanetary Trade Commission"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "Oscar Lachman"
+          },
+          {
+            "ns": 0,
+            "title": "Paraguay"
+          },
+          {
+            "ns": 0,
+            "title": "Peru"
+          },
+          {
+            "ns": 0,
+            "title": "Sahara War"
+          },
+          {
+            "ns": 0,
+            "title": "Second Depression"
+          },
+          {
+            "ns": 0,
+            "title": "Second Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Second Vietnam War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Chinese Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Timeline of major events"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 0,
+            "title": "Venezuela"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican-American Cold War"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2289,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6538,
+            "revid": 11266,
+            "slots": {
+              "main": {
+                "*": "{{Infobox former country\n | conventional_long_name = Union of Patria Grande\n | native_name = \n | common_name =\n | _noautocat = yes\n | status = [[Wikipedia:Collective security#Collective defense|Military alliance]]\n | continent = The Americas\n | era = [[Mexican-American Cold War]]\n | event_start =\n | year_start = 2091\n | date_start =\n | event_end =\n | year_end = 2139\n | date_end =\n | event1 = \n | date_event1=\n | event2 = \n | date_event2 =\n | image_map2  = 2132_The_Last_War.png\n | image_map2_caption = {{plainlist | style = padding-left: 0.6em; text-align: left; |\n*{{color box|#63B74E}} US Allies\n*{{color box|#2AACF6}} '''UPG '''\n*{{color box|#00FFFF}} Mexican Allies\n*{{color box|#C6BDC7}} Neutral powers}}\n----\n{{plainlist | style = padding-left: 0.6em; text-align: left; |\n*{{flag|Mexico|size=22px}}\n*{{flag|Venezuela|size=22px}}\n*{{flag|Colombia|size=22px}} \n*{{flag|Peru|size=22px}}\n*{{flag|Paraguay|size=22px}}\n*{{flag|Argentina|size=22px}} \n*{{flag|Chile|size=22px}} \n*{{flag|Bolivia|size=22px}} \n }}}}\n\nThe '''Union of Patria Grande''' was an intergovernmental military and regional economic alliance between several Latin American states during the [[Mexican-American Cold War]]. It held its origins as a direct successor to the [https://en.wikipedia.org/wiki/Union_of_South_American_Nations Union of South American Nations ] before [[World War III]].\n\nThe UPG constituted a system of collective defence whereby its member states agree to mutual defense in response to an attack by any external party. As an economic bloc the UPG included common regulatory and free trade policies observed by its members, as well as economic assistance and free travel for education. \n\n\n==History==\n{{History of the Mexican-American Cold War}}\n\n=== '''Origins''' ===\n\n=== '''Creation and Cold War''' ===\n\n=== '''Decline and Disbandment''' ===\n\n==Members==\n[[Category:Mexican-American Cold War]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-06-02T21:31:21Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Both"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Color box"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Argentina"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Bolivia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Chile"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Colombia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Mexico"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Paraguay"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Peru"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Venezuela"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flag"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flag/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:History of the Mexican-American Cold War"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Plainlist"
+          },
+          {
+            "ns": 10,
+            "title": "Template:·"
+          }
+        ],
+        "title": "Latin American Union",
+        "touched": "2023-06-02T21:31:21Z"
+      },
+      "2290": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6521,
+        "length": 48,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Federated Provinces of the Yangtze"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 2290,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6521,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Federated Provinces of the Yangtze]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-22T01:05:05Z"
+          }
+        ],
+        "title": "Yangtze",
+        "touched": "2017-10-22T01:28:47Z"
+      },
+      "2291": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6532,
+        "length": 292,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Argentina/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2291,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6532,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Argentina\n| flag alias = Flag_of_Argentina.png\n| alt attribute = Flag of Argentina\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-23T18:43:57Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Argentina/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Argentina",
+        "touched": "2017-10-23T18:43:58Z"
+      },
+      "2292": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6533,
+        "length": 281,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Paraguay/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2292,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6533,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Paraguay\n| flag alias = Paraguay.png\n| alt attribute = Flag of Paraguay\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-23T18:44:24Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Paraguay/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Paraguay",
+        "touched": "2017-10-23T18:44:25Z"
+      },
+      "2293": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6534,
+        "length": 283,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Peru/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2293,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6534,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Peru\n| flag alias = Flag_of_Peru_(war).png\n| alt attribute = Flag of Peru\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-23T18:44:53Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Peru/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Peru",
+        "touched": "2017-10-23T18:44:53Z"
+      },
+      "2294": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6535,
+        "length": 289,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Colombia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2294,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6535,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Colombia\n| flag alias = Flag_of_Colombia.png\n| alt attribute = Flag of Colombia\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-23T18:46:20Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Colombia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Colombia",
+        "touched": "2017-10-23T18:46:20Z"
+      },
+      "2295": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6536,
+        "length": 284,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Venezuela/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2295,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6536,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Venezuela\n| flag alias = Venezuela.png\n| alt attribute = Flag of Venezuela\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-23T18:46:40Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Venezuela/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Venezuela",
+        "touched": "2017-10-23T18:46:40Z"
+      },
+      "2296": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6537,
+        "length": 290,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Mexico/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2296,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6537,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Mexico\n| flag alias = Flag_of_Mexico_(2074).png\n| alt attribute = Flag of Mexico\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-23T18:46:59Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Mexico/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Mexico",
+        "touched": "2017-10-23T18:46:59Z"
+      },
+      "2297": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:TemplateData documentation"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Template documentation pages"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Ambox warning yellow.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Edit-copy green.svg"
+          }
+        ],
+        "lastrevid": 6540,
+        "length": 22970,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Geo (microformat)"
+          },
+          {
+            "ns": 0,
+            "title": "Geographic coordinate system"
+          },
+          {
+            "ns": 0,
+            "title": "Global Positioning System"
+          },
+          {
+            "ns": 0,
+            "title": "Governmental organization"
+          },
+          {
+            "ns": 0,
+            "title": "HCard microformat"
+          },
+          {
+            "ns": 0,
+            "title": "HTML attribute"
+          },
+          {
+            "ns": 0,
+            "title": "Lower case"
+          },
+          {
+            "ns": 0,
+            "title": "Non-governmental organization"
+          },
+          {
+            "ns": 0,
+            "title": "Parsing"
+          },
+          {
+            "ns": 10,
+            "title": "Template:End date and age"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox Organization"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox Organization/sandbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox Organization/testcases"
+          },
+          {
+            "ns": 10,
+            "title": "Template:NAMESPACENUMBER:Template:Infobox Organization/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Start date and age"
+          },
+          {
+            "ns": 11,
+            "title": "Template talk:Infobox Organization"
+          },
+          {
+            "ns": 12,
+            "title": "Help:HTML in wikitext"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages using infobox organization with unsupported parameters"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2297,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6540,
+            "slots": {
+              "main": {
+                "*": "{{Documentation subpage}}\n<!-- Please place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[Wikipedia:Wikidata]]) -->\n{{high-use| 20600+ }}\n{{Lua|Module:Infobox|Module:InfoboxImage|Module:Check for unknown parameters}}\n\n{{tl|Infobox organization}} can be used to provide at-a-glance information at the start of an article about an organization.\n\n== Blank template ==\n\n{{Generic template demo |_display=italics\n |name |native_name |named_after\n |image={{{image}}} |image_size={{{image_size}}} |alt={{{alt}}} |caption\n |logo={{{logo}}} |logo_size={{{logo_size}}} |logo_alt={{{logo_alt}}} |logo_caption\n |map={{{map}}} |map_size={{{map_size}}} |map_alt={{{map_alt}}} |map_caption |map2={{{map2}}} |map2_size={{{map2_size}}} |map2_alt={{{map2_alt}}} |map2_caption\n |abbreviation |motto |predecessor |merged |successor |formation |founder=''founder''&nbsp;{{\\}}&nbsp;''founders''|founding_location\n |extinction |merger |type |tax_id=''tax_id''&nbsp;{{\\}}&nbsp;''vat_id''\n |registration_id |status |purpose |headquarters |location |coords |region |services |products |methods |fields\n |membership |num_members_year=''_year'' |language |owner=''owner''&nbsp;{{\\}}&nbsp;''owners'' |sec_gen\n |leader_title |leader_name |leader_title2 |leader_name2 |leader_title3 |leader_name3 |leader_title4 |leader_name4\n |board_of_directors |key_people |main_organ |parent_organization |subsidiaries |secessions |affiliations\n |staff |staff_year=''_year'' |volunteers |volunteers_year=''_year''\n |slogan |mission |website=<code><nowiki>{{url|...}}</nowiki></code> |remarks |formerly |footnotes\n}}\n\n<pre style=\"overflow:auto;\">\n{{Infobox organization\n| name                = \n| native_name         = \n| native_name_lang    = \n| named_after         = \n| image               = \n| image_size          = \n| alt                 = \n| caption             = \n| logo                =\n| logo_size           = \n| logo_alt            = \n| logo_caption        = \n| map                 = \n| map_size            = \n| map_alt             = \n| map_caption         = \n| map2                = \n| map2_size           = \n| map2_alt            = \n| map2_caption        = \n| abbreviation        = \n| motto               = \n| predecessor         = \n| merged              = \n| successor           = \n| formation           = <!-- use {{start date and age|YYYY|MM|DD}} -->\n| founder             = \n| founding_location   = \n| extinction          = <!-- use {{end date and age|YYYY|MM|DD}} -->\n| merger              = \n| type                = \n| tax_id              = <!-- or | vat_id = (for European organizations) -->\n| registration_id     = <!-- for non-profit org -->\n| status              = \n| purpose             = \n| headquarters        = \n| location            = \n| coords              = <!-- {{coord|LAT|LON|display=inline, title}} -->\n| region              = \n| services            = \n| products            = \n| methods             = \n| fields              = \n| membership          = \n| membership_year     = \n| language            = \n| owner               = <!-- or | owners = -->\n| sec_gen             = \n| leader_title        = \n| leader_name         = \n| leader_title2       = \n| leader_name2        = \n| leader_title3       = \n| leader_name3        = \n| leader_title4       = \n| leader_name4        = \n| board_of_directors  = \n| key_people          = \n| main_organ          = \n| parent_organization = \n| subsidiaries        = \n| secessions          = \n| affiliations        = \n| budget              = \n| budget_year         = \n| revenue             = \n| revenue_year        = \n| disbursements       = \n| expenses            = \n| expenses_year       = \n| endowment           = \n| endowment_year      =\n| staff               = \n| staff_year          = \n| volunteers          = \n| volunteers_year     = \n| slogan              = \n| mission             = \n| website             = <!-- {{URL|example.com}} -->\n| remarks             = \n| formerly            = \n| footnotes           = \n}}\n</pre>\n{{clear}}\n\n== Usage ==\n\nAll fields are [[lower case]] and optional.\n\n{{Infobox organization\n| name          = Organization's ''name''\n| native_name   = ''native_name''\n| native_name_lang = ''native_name_lang''\n| named_after   = ''named_after''\n| image         = Test.png\n| alt           = Text alternative for those who do not see the image \n| caption       = {{longitem|(''caption''{{thinsp}}''':''')<br/>Test.png (''image'') at template's default size.}}\n| map           = World map.jpg\n| map_alt       = This is the message carried by \"map_alt\" parameter\n| map_caption   = {{longitem|(''map_caption''{{thinsp}}''':''')<br/>World map.jpg (''map'') at template's default size.}}\n| abbreviation  = ''abbreviation''\n| motto         = ''motto''\n| predecessor   = ''predecessor''\n| merged        = ''merged''\n| successor     = ''successor''\n| formation     = {{nowrap|''formation'' &nbsp;(or ''established'')}}\n| founder       = ''founder'' &nbsp;(or ''founders'')\n| founding_location = ''founding_location''\n| dissolved     = ''dissolved'' &nbsp;(or ''extinction'')\n| merger        = ''merger''\n| type          = ''type''\n| tax_id        = ''tax_id'' &nbsp;(or ''vat_id'')\n| registration_id = ''registration_id''\n| status        = ''status''\n| purpose       = ''purpose''\n| headquarters  = ''headquarters''\n| location      = ''location''\n| coords        = ({{thinsp|use {{tl|coord}}}})\n| region        = ''region''\n| services      = ''services''\n| products      = ''products''\n| methods       = ''methods''\n| fields        = ''fields''\n| membership    = ''membership''\n| membership_year = ''_year''\n| language      = ''language'' &nbsp;(or ''languages'')\n| owner         = ''owner'' &nbsp;(or ''owners'')\n| sec_gen       = ''sec_gen''\n| leader_title  = ''leader_title''\n| leader_name   = ''leader_name''\n| leader_title4 = ''leader_title4''\n| leader_name4  = ''leader_name4''\n| board_of_directors = ''board_of_directors''\n| key_people    = ''key_people''\n| main_organ    = {{nowrap|''main_organ'' &nbsp;(or ''publication'')}}\n| parent_organization = ''parent_organi[z/s]ation''\n| subsidiaries  = ''subsidiaries''\n| secessions    = ''secessions''\n| affiliations  = ''affiliations''\n| endowment     = ''endowment''\n| endowment_year = ''_year''\n| staff           = ''staff''\n| staff_year      = ''_year''\n| volunteers      = ''volunteers''\n| volunteers_year = ''_year''\n| slogan        = ''slogan''\n| mission       = ''mission''\n| website       = ''website''\n| remarks       = ''remarks''\n| formerly      = {{nowrap|''formerly'' &nbsp;(or ''former_name'')}}\n| footnotes     = ''footnotes''\n}}\n<pre style=\"overflow:auto;\">\n{{Infobox organization\n| name =             <!-- defaults to {{PAGENAME}} if not provided -->\n| native_name =      <!-- Organization's name in its local language -->\n| native_name_lang =      <!-- ISO code of the above language -->\n| named_after = \n| image =\n| image_size = \n| alt =              <!-- see [[WP:ALT]] -->\n| caption = \n| map =              <!-- map image -->\n| map_size =         <!-- defaults to 250px -->\n| map_alt = \n| map_caption = \n| map2 =             <!-- second map image, if required -->\n| map2_size = \n| map2_alt = \n| map2_caption = \n| abbreviation = \n| motto = \n| predecessor = \n| merged =           <!-- Any other organizations with which the organization was merged -->\n| successor = \n| formation =        <!-- or: | established = --> <!--e.g. use {{start date and age|YYYY|MM|DD}}-->\n| founder =          <!-- or: | founders = -->\n| founding_location = \n| extinction =       <!-- or: | dissolved = -->   <!--e.g. use {{end date and age|YYYY|MM|DD}}-->\n| merger =           <!-- Other organizations (if any) merged to constitute the organization -->\n| type =             <!-- e.g. [[Governmental organization]], [[Non-governmental organization|NGO]], etc -->\n| status =           <!-- Organization's legal status and/or description (company, charity, foundation, etc) -->\n| purpose =          <!-- or: | focus = -->       <!--(humanitarian, activism, peacekeeping, etc)-->\n| professional_title = <!-- for professional associations -->\n| headquarters = \n| location = \n| coords =           <!-- location's {{coord}}s -->\n| region =           <!-- or: | region_served = --> <!--Any particular region or regions associated with or served by the organization-->\n| services = \n| membership =       <!-- Usually the number of members -->\n| membership_year =  <!-- Year to which membership number/data apply -->\n| language =         <!-- or: | languages = --> <!--Any official language or languages used by the organization-->\n| sec_gen =          <!-- Name of the organization's Secretary General (if post exists) -->\n| leader_title =     <!-- defaults to \"Leader\" -->\n| leader_name = \n| leader_title2 = \n| leader_name2 = \n| leader_title3 = \n| leader_name3 = \n| leader_title4 = \n| leader_name4 = \n| board_of_directors = \n| key_people =\n| main_organ =       <!-- or: | publication = --> <!--Organization's principal body (assembly, committee, board, etc) or publication-->\n| parent_organization =  <!-- or: | parent_organisation = -->\n| subsidiaries = \n| secessions = \n| affiliations = \n| budget = \n| budget_year = \n| staff =            <!-- Numbers and/or types of staff -->\n| staff_year =       <!-- Year to which staff numbers/data apply -->\n| volunteers =       <!-- Numbers and/or types of volunteers -->\n| volunteers_year =  <!-- Year to which volunteer numbers/data apply -->\n| slogan =           <!-- in quotemarks / inverted commas -->\n| website =          <!-- e.g. {{url|example.com}} -->\n| remarks = \n| formerly =         <!-- Any former names by which the organization known -->\n| footnotes = \n}}\n</pre>\n\n== Microformat ==\n{{UF-hcard-org}}\n\n== TemplateData ==\n{{TemplateData header}}\n<templatedata>\n{\n\t\"params\": {\n\t\t\"name \": {\n\t\t\t\"label\": \"name \",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"defaults to {{PAGENAME}} if name not provided\"\n\t\t},\n\t\t\"native_name \": {\n\t\t\t\"label\": \"native_name \",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"Organization's name in its local language\"\n\t\t},\n\t\t\"named_after \": {\n\t\t\t\"label\": \"named_after \",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"Entity the organisation was named after, if any\"\n\t\t},\n\t\t\"image\": {\n\t\t\t\"label\": \"image\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"image of organisation\"\n\t\t},\n\t\t\"image_size \": {\n\t\t\t\"label\": \"image_size \",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"size of image\"\n\t\t},\n\t\t\"alt\": {\n\t\t\t\"label\": \"alt\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"see [[WP:ALT]]\"\n\t\t},\n\t\t\"caption\": {\n\t\t\t\"label\": \"caption\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"caption\"\n\t\t},\n\t\t\"logo\": {\n\t\t\t\"label\": \"logo\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"logo of organisation\"\n\t\t},\n\t\t\"logo_size \": {\n\t\t\t\"label\": \"logo_size \",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"size of logo\"\n\t\t},\n\t\t\"logo_alt\": {\n\t\t\t\"label\": \"logo_alt\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"see [[WP:ALT]]\"\n\t\t},\n\t\t\"logo_caption\": {\n\t\t\t\"label\": \"logo_caption\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"caption of logo\"\n\t\t},\n\t\t\"map\": {\n\t\t\t\"label\": \"map\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"map image\"\n\t\t},\n\t\t\"map_size\": {\n\t\t\t\"label\": \"map_size\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"defaults to 250px\"\n\t\t},\n\t\t\"map_alt\": {\n\t\t\t\"label\": \"map_alt\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false\n\t\t},\n\t\t\"map_caption  \": {\n\t\t\t\"label\": \"map_caption  \",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"caption for map\"\n\t\t},\n\t\t\"map2 \": {\n\t\t\t\"label\": \"map2 \",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"second map image, if required\"\n\t\t},\n\t\t\"map2_size\": {\n\t\t\t\"label\": \"map2_size\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"size of map\"\n\t\t},\n\t\t\"map2_alt\": {\n\t\t\t\"label\": \"map2_alt\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false\n\t\t},\n\t\t\"map2_caption \": {\n\t\t\t\"label\": \"map2_caption \",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"caption for map\"\n\t\t},\n\t\t\"abbreviation \": {\n\t\t\t\"label\": \"abbreviation \",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"abbreviation of organisation\"\n\t\t},\n\t\t\"motto\": {\n\t\t\t\"label\": \"motto\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"motto of organisation\"\n\t\t},\n\t\t\"predecessor\": {\n\t\t\t\"label\": \"predecessor\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false\n\t\t},\n\t\t\"merged\": {\n\t\t\t\"label\": \"merged\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"Any other organizations with which the organization was merged\"\n\t\t},\n\t\t\"successor\": {\n\t\t\t\"label\": \"successor\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"successor of organisation\"\n\t\t},\n\t\t\"formation\": {\n\t\t\t\"label\": \"formation\",\n\t\t\t\"type\": \"number\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"established, e.g. use {{start date and age|YYYY|MM|DD}}\"\n\t\t},\n\t\t\"founder  \": {\n\t\t\t\"label\": \"founder  \",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"founder of organisation\"\n\t\t},\n\t\t\"founding_location \": {\n\t\t\t\"label\": \"founding_location \",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"place founded\"\n\t\t},\n\t\t\"extinction\": {\n\t\t\t\"label\": \"extinction\",\n\t\t\t\"type\": \"number\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"dissolved=e.g. use {{end date and age|YYYY|MM|DD}}\"\n\t\t},\n\t\t\"merger \": {\n\t\t\t\"label\": \"merger \",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"Other organizations (if any) merged to constitute the organization \"\n\t\t},\n\t\t\"type\": {\n\t\t\t\"label\": \"type\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"e.g. [[Governmental organization]], [[Non-governmental organization|NGO]]\"\n\t\t},\n\t\t\"status\": {\n\t\t\t\"label\": \"status\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"Organization's legal status and/or description (company, charity, foundation\"\n\t\t},\n\t\t\"purpose\": {\n\t\t\t\"label\": \"purpose\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"focus=(humanitarian, activism, peacekeeping, …)\"\n\t\t},\n\t\t\"professional_title\": {\n\t\t\t\"label\": \"professional_title\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"for professional associations\"\n\t\t},\n\t\t\"headquarters\": {\n\t\t\t\"label\": \"headquarters\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"organisation headquarters\"\n\t\t},\n\t\t\" location\": {\n\t\t\t\"label\": \" location\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"location of organisation\"\n\t\t},\n\t\t\"coords\": {\n\t\t\t\"label\": \"coords\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"location's {{coord}}s\"\n\t\t},\n\t\t\"region \": {\n\t\t\t\"label\": \"region \",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"region_served =Any particular region or regions associated with or served by the organization\"\n\t\t},\n\t\t\"services\": {\n\t\t\t\"label\": \"services\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"services of organisation\"\n\t\t},\n\t\t\"membership \": {\n\t\t\t\"label\": \"membership \",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"membership of organisation\"\n\t\t},\n\t\t\"language\": {\n\t\t\t\"label\": \"language\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"languages =Any official language or languages used by the organization\"\n\t\t},\n\t\t\"sec_gen \": {\n\t\t\t\"label\": \"sec_gen \",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"Name of the organization's Secretary General (if post exists)\"\n\t\t},\n\t\t\"leader_title\": {\n\t\t\t\"label\": \"leader_title\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false\n\t\t},\n\t\t\"leader_name\": {\n\t\t\t\"label\": \"leader_name\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"leader name\"\n\t\t},\n\t\t\"leader_title2\": {\n\t\t\t\"label\": \"leader_title2\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false\n\t\t},\n\t\t\"leader_name2\": {\n\t\t\t\"label\": \"leader_name2\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false\n\t\t},\n\t\t\"leader_name3\": {\n\t\t\t\"label\": \"leader_name3\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false\n\t\t},\n\t\t\"leader_title3\": {\n\t\t\t\"label\": \"leader_title3\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false\n\t\t},\n\t\t\"leader_title4\": {\n\t\t\t\"label\": \"leader_title4\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false\n\t\t},\n\t\t\"leader_name4\": {\n\t\t\t\"label\": \"leader_name4\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false\n\t\t},\n\t\t\"board_of_directors\": {\n\t\t\t\"label\": \"board_of_directors\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"board of directors of organisation\"\n\t\t},\n\t\t\"key_people\": {\n\t\t\t\"label\": \"key_people\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"key people of organisation\"\n\t\t},\n\t\t\"main_organ\": {\n\t\t\t\"label\": \"main_organ\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"publication =Organization's principal body (assembly, committee, board, …) or publication\"\n\t\t},\n\t\t\"parent_organization\": {\n\t\t\t\"label\": \"parent_organization\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"parent_organisation\"\n\t\t},\n\t\t\"subsidiaries\": {\n\t\t\t\"label\": \"subsidiaries\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"organisation subsidiaries\"\n\t\t},\n\t\t\"secessions \": {\n\t\t\t\"label\": \"secessions \",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"organisation secessions\"\n\t\t},\n\t\t\"affiliations\": {\n\t\t\t\"label\": \"affiliations\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"affiliation of organisation\"\n\t\t},\n\t\t\"budget\": {\n\t\t\t\"label\": \"budget\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"organisation budget\"\n\t\t},\n\t\t\"staff  \": {\n\t\t\t\"label\": \"staff  \",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"Numbers and/or types of staff\"\n\t\t},\n\t\t\"volunteers\": {\n\t\t\t\"label\": \"volunteers\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"Numbers and/or types of volunteers\"\n\t\t},\n\t\t\"slogan\": {\n\t\t\t\"label\": \"slogan\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"slogan of organisation\"\n\t\t},\n\t\t\"website \": {\n\t\t\t\"label\": \"website \",\n\t\t\t\"type\": \"wiki-page-name\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"organisation website\"\n\t\t},\n\t\t\"remarks\": {\n\t\t\t\"label\": \"remarks\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"organisation remarks\"\n\t\t},\n\t\t\"formerly\": {\n\t\t\t\"label\": \"formerly\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"Any former names by which the organization known\"\n\t\t},\n\t\t\"footnotes\": {\n\t\t\t\"label\": \"footnotes\",\n\t\t\t\"type\": \"string\",\n\t\t\t\"required\": false,\n\t\t\t\"suggested\": false,\n\t\t\t\"deprecated\": false,\n\t\t\t\"description\": \"footnotes of organisation\"\n\t\t}\n\t},\n\t\"format\": \"block\",\n\t\"paramOrder\": [\n\t\t\"name \",\n\t\t\"native_name \",\n\t\t\"image\",\n\t\t\"image_size \",\n\t\t\"alt\",\n\t\t\"caption\",\n\t\t\"logo\",\n\t\t\"logo_size \",\n\t\t\"logo_alt\",\n\t\t\"logo_caption\",\n\t\t\"map\",\n\t\t\"map_size\",\n\t\t\"map_alt\",\n\t\t\"map_caption  \",\n\t\t\"map2 \",\n\t\t\"map2_size\",\n\t\t\"map2_alt\",\n\t\t\"map2_caption \",\n\t\t\"named_after \",\n\t\t\"abbreviation \",\n\t\t\"motto\",\n\t\t\"predecessor\",\n\t\t\"merged\",\n\t\t\"successor\",\n\t\t\"formation\",\n\t\t\"founder  \",\n\t\t\"founding_location \",\n\t\t\"extinction\",\n\t\t\"merger \",\n\t\t\"type\",\n\t\t\"status\",\n\t\t\"purpose\",\n\t\t\"professional_title\",\n\t\t\"headquarters\",\n\t\t\" location\",\n\t\t\"coords\",\n\t\t\"region \",\n\t\t\"services\",\n\t\t\"membership \",\n\t\t\"language\",\n\t\t\"sec_gen \",\n\t\t\"leader_title\",\n\t\t\"leader_name\",\n\t\t\"leader_title2\",\n\t\t\"leader_name2\",\n\t\t\"leader_name3\",\n\t\t\"leader_title3\",\n\t\t\"leader_title4\",\n\t\t\"leader_name4\",\n\t\t\"board_of_directors\",\n\t\t\"key_people\",\n\t\t\"main_organ\",\n\t\t\"parent_organization\",\n\t\t\"subsidiaries\",\n\t\t\"secessions \",\n\t\t\"affiliations\",\n\t\t\"budget\",\n\t\t\"staff  \",\n\t\t\"volunteers\",\n\t\t\"slogan\",\n\t\t\"website \",\n\t\t\"remarks\",\n\t\t\"formerly\",\n\t\t\"footnotes\"\n\t]\n}\n</templatedata>\n\n== Tracking category ==\n* {{clc|Pages using infobox organization with unsupported parameters}}\n\n== See also ==\n* [[Wikipedia:INFOBOXFLAG]]\n\n{{Organization infoboxes}}\n\n<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox |\n| <!-- Categories below this line, please; interwikis at Wikidata -->\n[[Category:Organization infobox templates| ]]\n[[Category:Society and social science infobox templates|Organization]]\n[[Category:Templates that add a tracking category]]\n}}</includeonly>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-23T18:49:57Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Big"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Clc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Clear"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Coord"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation subpage"
+          },
+          {
+            "ns": 10,
+            "title": "Template:End date and age"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Generic template demo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:High-use"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hlist"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox organization"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Longitem"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Lua"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Microformat message"
+          },
+          {
+            "ns": 10,
+            "title": "Template:NAMESPACENUMBER:Template:Infobox Organization/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Namespace detect"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Navbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Organization infoboxes"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Parameter names example"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ROOTPAGENAME"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Start date and age"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str left"
+          },
+          {
+            "ns": 10,
+            "title": "Template:TemplateData header"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Template error report"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:UF-hcard-org"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno-no"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Check for unknown parameters"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Coordinates"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          },
+          {
+            "ns": 828,
+            "title": "Module:List"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Lua banner"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Message box"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Navbox"
+          },
+          {
+            "ns": 828,
+            "title": "Module:No globals"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Parameter names example"
+          },
+          {
+            "ns": 828,
+            "title": "Module:TableTools"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Yesno"
+          }
+        ],
+        "title": "Template:Infobox Organization/doc",
+        "touched": "2018-09-28T20:42:01Z"
+      },
+      "2298": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6542,
+        "length": 2608,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Category handler"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tfm/dated/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2298,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6542,
+            "slots": {
+              "main": {
+                "*": "{{ {{{|safesubst:}}}#invoke:Unsubst||type= |page= |link= |help= |$B={{#ifeq:{{{bigbox|<noinclude>yes</noinclude>}}}|yes|{{Ombox\n  |type  = move\n  |image = none\n  |small = {{{small|no}}}\n  |text  = {{#ifeq:{{PAGENAME}}|{{{page}}}\n   |This [[Help:Template|template]]\n   |[[Template:{{{page}}}]]\n  }} is '''being considered for merging with [[Template:{{{otherpage}}}]].''' Please discuss this matter at [[{{{link}}}|'''this template's entry''']] at templates for discussion to help reach a consensus.\n{{#ifeq:{{{help}}}|off||----\n''<small class=\"plainlinks\" style=\"line-height:1.3em;\">[[Wikipedia:Maintenance|Maintenance]] use only:<br>1. [{{fullurl:{{{link}}}|action=edit&editintro=Wikipedia:Templates_for_discussion/editnotice&section=1}} Edit the Tfd log] to create the discussion entry.<br>2. Please consider notifying the [{{fullurl:{{FULLPAGENAME}}|action=history}} author(s)] by placing <span class=\"nowrap\">{{tlx|Tfmnotice|{{{page}}}|{{{otherpage}}}|subst=yes}} <nowiki>~~~~</nowiki></span> on their talk page(s).</small>''\n }}}}{{category handler\n  | all = [[Category:Templates for merging]]\n  | nocat = {{{nocat|{{#ifeq:{{FULLBASEPAGENAME}}|Template:Tfm|true}}}}}\n  | category2 = {{{category|¬}}}\n }}|{{#switch:{{lc:{{{type}}}}}\n |tiny = <span style=\"padding: 0; font-size: xx-small; font-weight: bold; color: #000000; background-color: #f9f9f9;\">[[{{{link}}}|‹See Tfd›]]</span>\n |inline = <span style=\"padding: 0; font-size: xx-small; color: #000; border: 1px solid #aaa; background-color: #f9f9f9;\">‹The [[Help:Template|template]] ''[[Template:{{{page}}}|{{{page}}}]]'' is being [[{{{link}}}|considered for merging]].›</span>&nbsp;\n |infobox|box|sidebar = <div class=\"boilerplate metadata plainlinks\" id=\"tfd\" style=\"background-color: transparent; padding: 0 0.2em; color: #000; text-align: center; position: relative; float: right; border-bottom: 1px solid #AAAAAA; width: {{#if:{{{width|}}}|{{{width}}}|22em}}\"><span style=\"font-size: xx-small;\">‹&nbsp;The [[Help:Template|template]] ''[[Template:{{{page}}}|{{{page}}}]]'' is being [[{{{link}}}|considered for merging]].&nbsp;›</span></div>\n |disabled = <!-- No output -->\n |#default = <div class=\"boilerplate metadata plainlinks\" id=\"tfd\" style=\"background-color: transparent; padding: 0; font-size:xx-small; color:#000000; text-align: center; border-bottom:1px solid #AAAAAA;\">‹&nbsp;The [[Help:Template|template]] below (''[[Template:{{{page}}}|{{{page}}}]]'') is being considered for merging. See [[{{{link}}}|templates for discussion]] to help reach a consensus.&nbsp;›</div>\n}}}}}}<noinclude>\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-23T18:53:00Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Category handler"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:FULLBASEPAGENAME"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tfm/dated/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlx"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/blacklist"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/config"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/data"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/shared"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Namespace detect/config"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Namespace detect/data"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Unsubst"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Yesno"
+          }
+        ],
+        "title": "Template:Tfm/dated",
+        "touched": "2017-10-23T18:53:00Z"
+      },
+      "2299": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6543,
+        "length": 49,
+        "new": "",
+        "ns": 1,
+        "pageid": 2299,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6543,
+            "slots": {
+              "main": {
+                "*": "So, he's basically Trump but with a brain? Scary.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-23T19:44:08Z"
+          }
+        ],
+        "title": "Talk:Oscar Lachman/@comment-24.224.66.196-20171023194407",
+        "touched": "2017-10-23T19:44:08Z"
+      },
+      "2300": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6551,
+        "length": 244,
+        "ns": 1,
+        "pageid": 2300,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6550,
+            "revid": 6551,
+            "slots": {
+              "main": {
+                "*": "I'm pretty sure his legacy is based off of Reagan in terms of shaping Conservatism and the Conservative era following him and his ideas.\n\nAnd his policies aren't new. His main idea of deporting Mexican 'aliens' were \"popular\" even in the 1950s.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-23T22:16:04Z"
+          }
+        ],
+        "title": "Talk:Oscar Lachman/@comment-24.224.66.196-20171023194407/@comment-5590986-20171023220744",
+        "touched": "2017-10-23T22:16:04Z"
+      },
+      "2301": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6578,
+        "length": 64,
+        "ns": 1,
+        "pageid": 2301,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6577,
+            "revid": 6578,
+            "slots": {
+              "main": {
+                "*": "I find it wierd a game franchise like Epoch would last 50+ years",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-27T19:07:12Z"
+          }
+        ],
+        "title": "Talk:Virtuals/@comment-50.148.216.123-20170613044018/@comment-5590986-20171027190650",
+        "touched": "2017-10-27T19:07:12Z"
+      },
+      "2302": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6583,
+        "length": 132,
+        "ns": 1,
+        "pageid": 2302,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6582,
+            "revid": 6583,
+            "slots": {
+              "main": {
+                "*": "Not weird at all. Look at Star Wars. That franchise has lasted for 40 years. The Lord of the Rings has been popular for 60-63 years.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-27T20:51:55Z"
+          }
+        ],
+        "title": "Talk:Virtuals/@comment-50.148.216.123-20170613044018/@comment-27084453-20171027205145",
+        "touched": "2017-10-27T20:51:55Z"
+      },
+      "2303": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6585,
+        "length": 102,
+        "ns": 1,
+        "pageid": 2303,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6584,
+            "revid": 6585,
+            "slots": {
+              "main": {
+                "*": "I was talkin Game franchises but ok\n\n\n\nthen again, Mario is still popular after about 30 years i guess",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-27T21:31:52Z"
+          }
+        ],
+        "title": "Talk:Virtuals/@comment-50.148.216.123-20170613044018/@comment-5590986-20171027213126",
+        "touched": "2017-10-27T21:31:52Z"
+      },
+      "2304": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Digital Information"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Literature"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6728,
+        "length": 175,
+        "ns": 0,
+        "pageid": 2304,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6727,
+            "revid": 6728,
+            "slots": {
+              "main": {
+                "*": "''Future of Datasize'' by Rick Esteban is a book about the growth of the size of digital information beyond petabytes.\n[[Category:Digital Information]]\n[[Category:Literature]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-03T15:53:40Z"
+          }
+        ],
+        "title": "Future of Datasize",
+        "touched": "2017-12-21T22:26:16Z"
+      },
+      "2305": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6588,
+        "length": 25,
+        "new": "",
+        "ns": 1,
+        "pageid": 2305,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6588,
+            "slots": {
+              "main": {
+                "*": "Is Rick Esteban filipino?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-29T03:57:43Z"
+          }
+        ],
+        "title": "Talk:Future of Datasize/@comment-31711431-20171029035743",
+        "touched": "2017-10-29T03:57:43Z"
+      },
+      "2306": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6589,
+        "length": 64,
+        "new": "",
+        "ns": 1,
+        "pageid": 2306,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6589,
+            "slots": {
+              "main": {
+                "*": "He could, he could not.\n\nRick Esteban also sounds American to me",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-29T04:35:35Z"
+          }
+        ],
+        "title": "Talk:Future of Datasize/@comment-31711431-20171029035743/@comment-5590986-20171029043535",
+        "touched": "2017-10-29T04:35:35Z"
+      },
+      "2307": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6590,
+        "length": 30,
+        "new": "",
+        "ns": 1,
+        "pageid": 2307,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6590,
+            "slots": {
+              "main": {
+                "*": "Esteban is a Filipino surname.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-30T10:20:09Z"
+          }
+        ],
+        "title": "Talk:Future of Datasize/@comment-31711431-20171029035743/@comment-31711431-20171030102009",
+        "touched": "2017-10-30T10:20:09Z"
+      },
+      "2308": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6591,
+        "length": 194,
+        "new": "",
+        "ns": 1,
+        "pageid": 2308,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6591,
+            "slots": {
+              "main": {
+                "*": "Well Rick is a normal American name too.\n\n<span style=\"font-size:13px;\">Like I said, maybe he is, maybe he isnt.  </span>\n\nAlthough Esteban name is spanish so he could be from any one of those",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-30T14:38:59Z"
+          }
+        ],
+        "title": "Talk:Future of Datasize/@comment-31711431-20171029035743/@comment-5590986-20171030143859",
+        "touched": "2017-10-30T14:38:59Z"
+      },
+      "2309": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6593,
+        "length": 139,
+        "new": "",
+        "ns": 1,
+        "pageid": 2309,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6593,
+            "slots": {
+              "main": {
+                "*": "That is a lot of habitable planets.  I assume that all of them will be under the US?  Except of course some rebel planets here and there.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-31T09:48:31Z"
+          }
+        ],
+        "title": "Talk:NASA/@comment-31711431-20171031094831",
+        "touched": "2017-10-31T09:48:31Z"
+      },
+      "2310": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6594,
+        "length": 32,
+        "new": "",
+        "ns": 1,
+        "pageid": 2310,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6594,
+            "slots": {
+              "main": {
+                "*": "Not all, aliens can be present ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-31T14:16:38Z"
+          }
+        ],
+        "title": "Talk:NASA/@comment-31711431-20171031094831/@comment-5590986-20171031141638",
+        "touched": "2017-10-31T14:16:38Z"
+      },
+      "2311": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century economic history"
+          },
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Technology"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7416,
+        "length": 3789,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Biotech bubble"
+          },
+          {
+            "ns": 0,
+            "title": "Genetic Engineering"
+          },
+          {
+            "ns": 0,
+            "title": "Great Famine"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2311,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7409,
+            "revid": 7416,
+            "slots": {
+              "main": {
+                "*": "The '''Third Agricultural Revolution''' refers to a set of research and the development of technology transfer initiatives occurring during [[The Flood|the Flood]] that increased agricultural production worldwide. The initiatives resulted in the adoption of new technologies, including [[Genetic Engineering]], roving pens, vertical farming, and vat-grown meat.\n\n==History==\n==='''Beginnings'''===\nIn 2027, the Earth was on the brink of [[Great Famine|mass starvation]]. The United Nations convened an emergency session to review solutions to the crisis. Despite bureaucratic hurdles common with the UN, the United States, Canada, Australia, Japan, China, India, Brazil, and the remaining states of the EU agreed to loosen restrictions into genetic engineering research and the use of GMO crops. Several innovations made over the last several years by Dow Chemical, Monstanto, and Dupont were fast-tracked for global adoption. Saskatchewan was selected to be the first site to try the new crops because of its reliable water supply and a history of agricultural success.\n\nIndia and China soon adopted Golden Rice 3– a semi-dwarf rice variety with high concentrations of beta-carotene that could grown in near-brackish water and required no pesticides. In 2035, UN agronomists published a report finding that GR3 yielded about 5 tons per hectare with no fertilizer and in poor water, and almost 15 tons per hectare under optimal conditions. This was 15 times the yield of traditional rice. GR3 was a success throughout Asia and Africa, and its success was accompanied by that of Winter Corn in the US and Canada and Desert Potatoes in Australia, China, and South America.\n\n==='''Space agriculture'''===\nAt least a quarter of all food consumed on Earth is grown in orbital space colonies or O'Neil ships traveling the Solar System.\n\n==='''Biotech Revolution'''===\n''Main article: [[Biotech bubble]]''\n\n==Technologies==\nThe bulk of all food grown on Earth is grown in a combination of protein vats, vertical farms, and old fashioned field farms (this is the case for almost all of the cereal crops). Vat-grown-meat is a common practice, but it requires a little more overhead than new roving farm techniques and genetically engineered feed animals. Most of the fish consumed on Earth are genetically engineered and farmed in big roving cages. They reproduce, feed, and grown entirely on their own and require very little oversight. Vat grown fish meat just kinda comes in a pulp and given how protein rich fish are to begin with, synthesizing them doesn't make economic sense. Beef however is another story. Beef cattle are still around, but they are no longer the preferred means of generating beef for human consumption. Even with genetic engineering, vat grown ground beef is objectively cheaper, tastes basically the same, and can be produced locally minimizing transportation and freezing. Same goes for pork and chicken. However, that's only for ground meat, which works fine for patties and sausages, but people still do enjoy a proper cut of steak. There are genetically modified cows that are basically just big brainless bags of steak being fed nutrients and massaged to simulate the effect, but they're typically considered low-quality beef; and grazing cows are still farmed for higher quality cuts. \n\nStill even with a continued demand for traditional sources of beef, cheap meat and produce are largely produced in population centers and as a result farmland on Earth has shrunk somewhat and is mostly used for producing cereals. The Agricultural Revolution in Africa after the creation of the Megalakes was mostly in the production of Cereals, orchards, and a high value ranches. \n[[Category:Technology]]\n[[Category:21st Century]]\n[[Category:21st-century economic history]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-25T01:54:53Z"
+          }
+        ],
+        "title": "Third Agricultural Revolution",
+        "touched": "2018-02-25T02:44:04Z"
+      },
+      "2312": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6607,
+        "length": 43,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Third Agricultural Revolution"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 2312,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6607,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Third Agricultural Revolution]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-11-05T18:11:01Z"
+          }
+        ],
+        "title": "Third Agriculture Revolution",
+        "touched": "2018-02-25T02:45:46Z"
+      },
+      "2313": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:European flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6647,
+        "length": 47,
+        "ns": 6,
+        "pageid": 2313,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6628,
+            "revid": 6647,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:European flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-11-16T20:56:56Z"
+          }
+        ],
+        "title": "File:Intermarium Flag.png",
+        "touched": "2017-12-07T11:35:52Z"
+      },
+      "2314": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6637,
+        "length": 178,
+        "new": "",
+        "ns": 1,
+        "pageid": 2314,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6637,
+            "slots": {
+              "main": {
+                "*": "So just to be clear, under the Administration, Relief deals with the Financial Service Acts, Recovery deals with Affordable Housing and Reform deals with Immigration and Welfare?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-11-16T01:51:31Z"
+          }
+        ],
+        "title": "Talk:Dylan J. Price/@comment-24.165.26.87-20171116015131",
+        "touched": "2017-11-16T01:51:31Z"
+      },
+      "2315": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6642,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2315,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6642,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-11-16T18:18:09Z"
+          }
+        ],
+        "title": "Message Wall:Kosmiczny.filip",
+        "touched": "2017-11-16T18:18:10Z"
+      },
+      "2316": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6643,
+        "length": 560,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Atlantis (planet)"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2316,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6643,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Atlantis (planet)]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-11-16T18:18:10Z"
+          }
+        ],
+        "title": "Thread:Kosmiczny.filip/@comment-32769624-20171116181810",
+        "touched": "2017-11-16T18:18:10Z"
+      },
+      "2317": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 6644,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2317,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6644,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-11-16T18:18:10Z"
+          }
+        ],
+        "title": "User:Kosmiczny.filip",
+        "touched": "2017-11-16T18:18:10Z"
+      },
+      "2318": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6648,
+        "length": 4,
+        "new": "",
+        "ns": 1,
+        "pageid": 2318,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6648,
+            "slots": {
+              "main": {
+                "*": "Yup.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-11-16T20:57:19Z"
+          }
+        ],
+        "title": "Talk:Dylan J. Price/@comment-24.165.26.87-20171116015131/@comment-899576-20171116205719",
+        "touched": "2017-11-16T20:57:19Z"
+      },
+      "2319": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6658,
+        "length": 165,
+        "new": "",
+        "ns": 1,
+        "pageid": 2319,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6658,
+            "slots": {
+              "main": {
+                "*": "Interesante, estamos por lllegar a una revolucion genetica donde el hombre corregira sus errores haciendo que especies muertas vuelvan a poner pie sobre al tierra. ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-11-21T01:53:54Z"
+          }
+        ],
+        "title": "Talk:De-Extinction/@comment-32211793-20171121015354",
+        "touched": "2017-11-21T01:53:54Z"
+      },
+      "2320": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6659,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2320,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6659,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-11-21T01:53:55Z"
+          }
+        ],
+        "title": "Message Wall:X1120x",
+        "touched": "2017-11-21T01:53:56Z"
+      },
+      "2321": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6660,
+        "length": 556,
+        "links": [
+          {
+            "ns": 0,
+            "title": "De-Extinction"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2321,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6660,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:De-Extinction]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-11-21T01:53:55Z"
+          }
+        ],
+        "title": "Thread:X1120x/@comment-32769624-20171121015355",
+        "touched": "2017-11-21T01:53:55Z"
+      },
+      "2322": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 6661,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2322,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6661,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-11-21T01:53:55Z"
+          }
+        ],
+        "title": "User:X1120x",
+        "touched": "2017-11-21T01:53:56Z"
+      },
+      "2323": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Under Construction"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6922,
+        "length": 3636,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Periodic Table"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2323,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6681,
+            "revid": 6922,
+            "slots": {
+              "main": {
+                "*": "\n\nA '''chemical element''' is a substance that contains only one type of atom. If a substance contains more than one type of atom, it is a compound. An element can be a solid, liquid or gas. The smallest particle of such an element is an atom. \n\nAtoms are made up of protons, neutrons, and electrons. Each element contains only one kind of atom. The number of protons in an atom is called the atomic number. The number of protons in the nucleus causes its electric charge. This fixes the number of electrons in its normal (unionized) state. The electrons in their atomic orbitals determine the atom's various chemical properties. Chemical elements constitute all of the ordinary matter of the universe. However astronomical observations suggest that ordinary observable matter makes up only about 15% of the matter in the universe: the remainder is dark matter; the composition of this is unknown, but it is not composed of chemical elements. The two lightest elements, hydrogen and helium, were mostly formed in the Big Bang and are the most common elements in the universe. The next three elements (lithium, beryllium and boron) were formed mostly by cosmic ray spallation, and are thus rarer than heavier elements. Formation of elements with from 6 to 26 protons occurred and continues to occur in main sequence stars via stellar nucleosynthesis. The high abundance of oxygen, silicon, and iron on Earth reflects their common production in such stars. Elements with greater than 26 protons are formed by supernova nucleosynthesis in supernovae, which, when they explode, blast these elements as supernova remnants far into space, where they may become incorporated into planets when they are formed. \n\nElements are summarized on the Period Table, which tells us about their properties relative to the other elements. The Period Table organizes the elements by increasing atomic number into rows (\"periods\") in which the columns (\"groups\") share recurring (\"periodic\") physical and chemical properties. Save for unstable radioactive elements with short half-lives, all of the elements are available industrially, most of them in low degrees of impurities. Elements are the basic building blocks for all types of substances. When they are combined with each other, they can form molecules.\n\nThere are currently 172 known chemical elements as of 2160, 4 of which were yet to be named and added to the periodic table. The most recent discoveries were man-made or through spacetravel, thanks to recent advancements in technology.\n\n==Description==\n==='''Atomic Number'''===\n==='''Types'''===\n==='''Properties'''===\n\n==[[Periodic Table]]==\n(insert picture here)\n\nThe '''periodic table''' is a tabular arrangement of the chemical elements, ordered by their atomic number, electron configurations, and recurring chemical properties. This ordering shows periodic trends, such as elements with similar behaviour in the same column. It also shows four rectangular blocks with some approximately similar chemical properties. In general, within one row (period) the elements are metals on the left, and non-metals on the right. \n\nAll elements from atomic numbers 1 (Hydrogen) to 172 (Unseptbium) have been discovered or synthesized, but only 168 are named on the periodic table. With the most recent named additions to the periodic table (165 to 168) (Halvidine/Halvidite, Byzanium, Dovahkium, and Jovium) being confirmed by the International Union of Pure and Applied Chemistry (IUPAC) in 2158 and officially named by 2159. All 172 elements complete the first eight rows of the periodic table. \n\n==History==\n[[Category:Under Construction]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-13T18:57:03Z"
+          }
+        ],
+        "title": "Chemical Element",
+        "touched": "2017-12-13T18:57:03Z"
+      },
+      "2324": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6682,
+        "length": 279,
+        "new": "",
+        "ns": 1,
+        "pageid": 2324,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6682,
+            "slots": {
+              "main": {
+                "*": "I don't personally think plants should be broadly put as an exception to microbial life - especially terrestrial plants since, on Earth, land plants evolved up around the Ordovician Period, and Earth's biosphere was very evolutionarily advanced at that time relative to microbes.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-02T16:03:00Z"
+          }
+        ],
+        "title": "Talk:Atlantis (planet)/@comment-5590986-20171004024452/@comment-26304519-20171202160300",
+        "touched": "2017-12-02T16:03:00Z"
+      },
+      "2325": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Former countries in Europe"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former country articles requiring maintenance"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Germany"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:European Association.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Germany.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Saxony Flag.png"
+          }
+        ],
+        "lastrevid": 6754,
+        "length": 1667,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Bundesrat"
+          },
+          {
+            "ns": 0,
+            "title": "Bundestag"
+          },
+          {
+            "ns": 0,
+            "title": "Erfurt"
+          },
+          {
+            "ns": 0,
+            "title": "European Association"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Saxony"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of the Saxony"
+          },
+          {
+            "ns": 0,
+            "title": "Germany"
+          },
+          {
+            "ns": 0,
+            "title": "Legislature"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Unitary parliamentary republic"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in 2139"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2130s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2139"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 22nd century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in 2112"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 2110s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 2112"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 22nd century"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2325,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6753,
+            "revid": 6754,
+            "slots": {
+              "main": {
+                "*": "{{Infobox former country\n| conventional_long_name = Republic of Saxony\n| common_name            = Saxony\n| continent              = Europe\n| region                 = Central Europe\n| government_type        = Unitary parliamentary republic\n| image_map = \n| image_map_caption = \n| image_flag   =  Saxony_Flag.png\n| coa_size     = x100px\n| symbol_type  = Arms\n| symbol       = \n| year_start   = 2112\n| year_end     = 2139\n| date_start   = \n| event_start  = \n| date_end     = September 16\n| event_end    = Dissolution\n| p1           = Germany\n| image_p1     = [[File:Flag_of_Germany.png|20px|link=]]\n| s1           = European Association\n| image_s1     = [[File:European_Association.png|20px|link=]]\n| capital      = Erfurt\n| title_leader = President\n| leader1      = \n| year_leader1 = \n| legislature  = Legislature\n| house1       = Bundesrat\n| house2       = Bundestag\n| stat_year1   = \n| stat_area1   = \n| stat_pop1    = \n| today        = [[European Association]]\n| footnotes    = \n| width        = 265px\n|flag_p1 = }}\n'''Saxony, '''officially the''' Republic of Saxony''', was a sovereign nation located in Central Europe that would end up participating in the [[Third Mexican-American War]]. Created after the dissolution of Germany, Saxony bordered Bandenburg and Hanover to the north, Poland to the east, Bavaria and the Czech Republic to the south, and Rhineland to the west. The main ethnic group of Saxony were German's, with small populative pockets of Polish and Czechs. The main religion is Protestantism and Christianity, with a plurality of Islamic and generally non-religious citizens. The official language of Saxony is German. \n[[Category:Germany]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-03T16:32:16Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:!!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Both"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country/autocat"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Main other"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ns0"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ordinal"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str find"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "Saxony",
+        "touched": "2017-12-03T16:32:17Z"
+      },
+      "2326": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Former countries in Europe"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former country articles requiring maintenance"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Germany"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:European Association.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Bavaria.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Germany.png"
+          }
+        ],
+        "lastrevid": 6778,
+        "length": 1648,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Bundesrat"
+          },
+          {
+            "ns": 0,
+            "title": "Bundestag"
+          },
+          {
+            "ns": 0,
+            "title": "European Association"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Bavaria"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of the Bavaria"
+          },
+          {
+            "ns": 0,
+            "title": "Germany"
+          },
+          {
+            "ns": 0,
+            "title": "Legislature"
+          },
+          {
+            "ns": 0,
+            "title": "Munich"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Unitary parliamentary republic"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in 2139"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2130s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2139"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 22nd century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in 2112"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 2110s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 2112"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 22nd century"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2326,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6756,
+            "revid": 6778,
+            "slots": {
+              "main": {
+                "*": "{{Infobox former country\n| conventional_long_name = Republic of Bavaria\n| common_name            = Bavaria\n| continent              = Europe\n| region                 = Central Europe\n| government_type        = Unitary parliamentary republic\n| image_map = \n| image_map_caption = \n| image_flag   = Flag_of_Bavaria.png\n| coa_size     = x100px\n| symbol_type  = Arms\n| symbol       = \n| year_start   = 2112\n| year_end     = 2139\n| date_start   = \n| event_start  = \n| date_end     = September 16\n| event_end    = Dissolution\n| p1           = Germany\n| image_p1     = [[File:Flag_of_Germany.png|20px|link=]]\n| s1           = European Association\n| image_s1     = [[File:European_Association.png|20px|link=]]\n| capital      = Munich\n| title_leader = President\n| leader1      = \n| year_leader1 = \n| legislature  = Legislature\n| house1       = Bundesrat\n| house2       = Bundestag\n| stat_year1   = \n| stat_area1   = \n| stat_pop1    = \n| today        = [[European Association]]\n| footnotes    = \n| width        = 265px\n|flag_p1 = }}\n'''Bavaria, '''officially the''' Republic of Bavaria''', was a sovereign nation located in Central Europe that would end up participating in the [[Third Mexican-American War]]. Created after the dissolution of Germany, Bavaria bordered Saxony to the north, the Czech Republic to the east, Austria to the south, and Rhineland to the west. The main ethnic group of Bavaria were German's, with small populative pockets of Austrians and Czechs. The main religion is Catholicism and Christianity, with a plurality of Islamic and generally non-religious citizens. The official language of Bavaria is German.\n[[Category:Germany]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-03T17:47:44Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:!!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Both"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country/autocat"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Main other"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ns0"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ordinal"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str find"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "Bavaria",
+        "touched": "2017-12-03T17:47:44Z"
+      },
+      "2327": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6698,
+        "length": 308,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2327,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6698,
+            "slots": {
+              "main": {
+                "*": "I updated some of the pages for the successor German states, as well as the Second Chinese Civil War and some other minors adjustments to other minor pages. I guess I just want to make sure these were allowed before continuing, even though I should have asked prior. <ac_metadata title=\"Hey\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-03T13:34:53Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-30724590-20171203133453",
+        "touched": "2017-12-04T23:21:17Z"
+      },
+      "2328": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Al-Hasa"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former counties in Asia"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former countries in Asia"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former country articles requiring maintenance"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages with broken file links"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Saudi Arabia.png"
+          }
+        ],
+        "lastrevid": 6713,
+        "length": 1699,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Arabia"
+          },
+          {
+            "ns": 0,
+            "title": "Arabian Association"
+          },
+          {
+            "ns": 0,
+            "title": "Consultative Assembly"
+          },
+          {
+            "ns": 0,
+            "title": "Council of Ministers"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Al-Hasa"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of the Al-Hasa"
+          },
+          {
+            "ns": 0,
+            "title": "None"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Unitary Islamic absolute monarchy"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in 2139"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2130s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2139"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 22nd century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in 2055?"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 2055?"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2328,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6712,
+            "revid": 6713,
+            "slots": {
+              "main": {
+                "*": "{{Infobox former country\n| conventional_long_name = Kingdom of Al-Hasa\n| common_name            = Al-Hasa\n| continent              = Asia\n| region                 = Western Asia\n| government_type        = Unitary Islamic absolute monarchy\n| image_map = \n| image_map_caption = \n| image_flag   = Flag of Saudi Arabia.png\n| coa_size     = x100px\n| symbol_type  = Arms\n| symbol       = \n| year_start   = 2055?\n| year_end     = 2139\n| date_start   = \n| event_start  = \n| date_end     = \n| event_end    = Dissolution\n| p1           = Arabia\n| image_p1     = \n| s1           = Arabian Association\n| image_s1     = \n| capital      = \n| title_leader = Salman\n| leader1      = \n| year_leader1 = \n| legislature  = None\n| house1       = Council of Ministers\n| house2       = Consultative Assembly\n| stat_year1   = \n| stat_area1   = \n| stat_pop1    = \n| today        = [[Arabian Association]]\n| footnotes    = \n| width        = 265px\n}}\n'''Al-Hasa''', officially the '''Kingdom of Al-Hasa''', was a sovereign Arab state in the Middle East and Western Asia, that participated in the [[Third Mexican-American War]]. Al-Hasa was bordered by Kuwait and Nadj to the north, Muscat and Abu Dhabi to the east, Aden to the south, and Asir to the west. Al-Hasa is recognized as the successor state to Arabia and the original Saudi Kingdom, with it's royal family and titles consisting of descendents of the Saudi family and related figures. The official language of Al-Hasa was Arabic, with English being regarded as a secondary language. The official religion was Sunni Islam, while Chrisitanity and Shia Islam followers making up less than 10% of the population.\n[[Category:Al-Hasa]]\n[[Category:Former counties in Asia]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-03T14:42:57Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:!!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Both"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country/autocat"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Main other"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ns0"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ordinal"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str find"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "Al-Hasa",
+        "touched": "2022-07-19T20:47:23Z"
+      },
+      "2329": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6705,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2329,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6705,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-03T14:23:55Z"
+          }
+        ],
+        "title": "File:Flag of Russia.png",
+        "touched": "2017-12-22T16:19:15Z"
+      },
+      "2330": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6710,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2330,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6710,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-03T14:35:40Z"
+          }
+        ],
+        "title": "File:Flag of Saudi Arabia.png",
+        "touched": "2017-12-22T16:26:12Z"
+      },
+      "2331": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6821,
+        "length": 315,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Al-Hasa"
+          },
+          {
+            "ns": 0,
+            "title": "Bavaria"
+          },
+          {
+            "ns": 0,
+            "title": "Brandenburg"
+          },
+          {
+            "ns": 0,
+            "title": "Hanover"
+          },
+          {
+            "ns": 0,
+            "title": "Rhineland"
+          },
+          {
+            "ns": 0,
+            "title": "Russia"
+          },
+          {
+            "ns": 0,
+            "title": "Sahara War"
+          },
+          {
+            "ns": 0,
+            "title": "Saxony"
+          },
+          {
+            "ns": 0,
+            "title": "Second Chinese Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "The Balkanization Era"
+          },
+          {
+            "ns": 2,
+            "title": "User:SolaceEaSw/ArabianAssyrianWar"
+          },
+          {
+            "ns": 2,
+            "title": "User:SolaceEaSw/MinorConflicts"
+          },
+          {
+            "ns": 2,
+            "title": "User:SolaceEaSw/Sandbox"
+          }
+        ],
+        "ns": 2,
+        "pageid": 2331,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6808,
+            "revid": 6821,
+            "slots": {
+              "main": {
+                "*": "'''Pages I've Edited'''\n* [[Hanover]]\n* [[Rhineland]]\n* [[Brandenburg]]\n* [[Saxony]]\n* [[Bavaria]]\n* [[Second Chinese Civil War]]\n* [[Sahara War]]\n* [[Russia]]\n* [[The Balkanization Era]]\n'''Pages I've Created / Will Create'''\n* [[Al-Hasa]]\n* [[/Sandbox]] [Manchuria]\n* [[/MinorConflicts]]\n* [[/ArabianAssyrianWar]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-05T01:20:56Z"
+          }
+        ],
+        "title": "User:SolaceEaSw",
+        "touched": "2019-11-05T05:25:46Z"
+      },
+      "2332": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6732,
+        "length": 239,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2332,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6732,
+            "slots": {
+              "main": {
+                "*": "Also, is it possible I can create a list of conflicts relating to the Middle East? As after looking at many of the maps posted on your deviantart, it seems the Middle East is the primary location for a lot of war and territorial changes. ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-03T15:59:15Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-30724590-20171203133453/@comment-30724590-20171203155915",
+        "touched": "2017-12-03T15:59:15Z"
+      }
+    }
+  }
+}

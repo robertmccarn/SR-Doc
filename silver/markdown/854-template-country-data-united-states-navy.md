@@ -1,0 +1,102 @@
+---
+page_id: 854
+revision_id: 1169
+source_url: https://second-renaissance.fandom.com/wiki/Template%3ACountry_data_United_States_Navy
+raw_sha256: 790f45f8f826f2ce3afafc65ef9e2d4ad18e11a1f085710c61377b207619265b
+---
+
+# Template:Country data United States Navy
+
+## Preserved source
+
+```wikitext
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = United States Navy
+| shortname alias = U.S. Navy
+| flag alias = Flag of the United States Navy.svg
+| flag alias-1794 = US Naval Jack 13 stars.svg
+| flag alias-1795 = US Naval Jack 15 stars.svg
+| flag alias-1818 = US Naval Jack 20 stars.svg
+| flag alias-1819 = US Naval Jack 21 stars.svg
+| flag alias-1820 = US Naval Jack 23 stars.svg
+| flag alias-1822 = US Naval Jack 24 stars.svg
+| flag alias-1836 = US Naval Jack 25 stars.svg
+| flag alias-1837 = US Naval Jack 26 stars.svg
+| flag alias-1845 = US Naval Jack 27 stars.svg
+| flag alias-1846 = US Naval Jack 28 stars.svg
+| flag alias-1847 = US Naval Jack 29 stars.svg
+| flag alias-1848 = US Naval Jack 30 stars.svg
+| flag alias-1851 = US Naval Jack 31 stars.svg
+| flag alias-1858 = US Naval Jack 32 stars.svg
+| flag alias-1859 = US Naval Jack 33 stars.svg
+| flag alias-1861 = US Naval Jack 34 stars.svg
+| flag alias-1863 = US Naval Jack 35 stars.svg
+| flag alias-1864 = USNavyInfantryBattalionFlag.svg
+| flag alias-1865 = US Naval Jack 36 stars.svg
+| flag alias-1867 = US Naval Jack 37 stars.svg
+| flag alias-1877 = US Naval Jack 38 stars.svg
+| flag alias-1879 = Seal of the United States Department of the Navy (1879-1957).png
+| flag alias-1890 = US Naval Jack 43 stars.svg
+| flag alias-1891 = US Naval Jack 44 stars.svg
+| flag alias-1896 = US Naval Jack 45 stars.svg
+| flag alias-1908 = US Naval Jack 46 stars.svg
+| flag alias-1912 = US Naval Jack 48 stars.svg
+| flag alias-1957 = Seal of the United States Department of the Navy.svg
+| flag alias-1959 = US Naval Jack 49 stars.svg
+| flag alias-1960 = US Naval Jack.svg
+| flag alias-1975 = Naval Jack of the United States.svg
+| flag alias-1977 = US Naval Jack.svg
+| flag alias-2002 = Naval Jack of the United States.svg
+| border-1879     =
+| border-1957     =
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1794
+| var2 = 1795   
+| var3 = 1818   
+| var4 = 1819  
+| var5 = 1820   
+| var6 = 1822   
+| var7 = 1836   
+| var8 = 1837  
+| var9 = 1845  
+| var10 = 1846   
+| var11 = 1847   
+| var12 = 1848  
+| var13 = 1851  
+| var14 = 1858  
+| var15 = 1859  
+| var16 = 1861  
+| var17 = 1863   
+| var18 = 1864 
+| var19 = 1865  
+| var20 = 1867 
+| var21 = 1877 
+| var22 = 1879 
+| var23 = 1890   
+| var24 = 1891   
+| var25 = 1896   
+| var26 = 1908  
+| var27 = 1912  
+| var28 = 1957 
+| var29 = 1959   
+| var30 = 1960 
+| var31 = 1975
+| var32 = 1977
+| var33 = 2002
+| related1 = United States
+| related2 = United States Air Force
+| related3 = United States Army
+| related4 = United States Coast Guard
+| related5 = United States Marine Corps
+</noinclude>
+}}
+```
+
+## Provenance
+
+Raw source: `bronze/pages/854/1169.wikitext` · revision `1169` · [upstream](https://second-renaissance.fandom.com/wiki/Template%3ACountry_data_United_States_Navy)

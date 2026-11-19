@@ -1,0 +1,7 @@
+<noinclude>{| class="wikitable"
+|-
+|</noinclude>style="background:#ececec;vertical-align:middle;text-align:{{{align|center}}};{{{style|}}}" |{{{1|<!-- Accessibility text for screen readers only --><span style="display: none">Does not appear</span>}}}<noinclude>
+|}
+{{Documentation|Template:Table cell templates/doc}}
+[[Category:Television table cell templates]]
+</noinclude>

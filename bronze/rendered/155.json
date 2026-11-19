@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "*": "Pages_with_broken_file_links",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    },
+    {
+      "*": "Wikipedia_progress_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": " "
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"navbox\" style=\"border-spacing:0\"><tbody><tr><td style=\"padding:2px\"><table class=\"nowraplinks hlist collapsible autocollapse navbox-inner\" style=\"border-spacing:0;background:transparent;color:inherit\"><tbody><tr><th scope=\"col\" class=\"navbox-title\" colspan=\"2\"><div class=\"plainlinks hlist navbar mini\"><ul><li class=\"nv-view\"><strong class=\"mw-selflink selflink\"><span title=\"View this template\" style=\";;background:none transparent;border:none;\">v</span></strong></li><li class=\"nv-talk\"><span class=\"new\" title=\"Template talk:Progress templates (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGVfdGFsazpQcm9ncmVzc190ZW1wbGF0ZXM/YWN0aW9uPWVkaXQmcmVkbGluaz0x\"><span title=\"Discuss this template\" style=\";;background:none transparent;border:none;\">t</span></span></li><li class=\"nv-edit\"><a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Progress_templates?action=edit\"><span title=\"Edit this template\" style=\";;background:none transparent;border:none;\">e</span></a></li></ul></div><div style=\"font-size:114%\">Progress templates</div></th></tr><tr style=\"height:2px\"><td colspan=\"2\"></td></tr><tr><th scope=\"row\" class=\"navbox-group\">General progress templates</th><td class=\"navbox-list navbox-odd\" style=\"text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px\"><div style=\"padding:0em 0.25em\">\n<ul><li><div style=\"clear:both\"></div></li>\n<li><div style=\"clear:both\"></div></li>\n<li><div style=\"clear:both\"></div></li>\n<li><div style=\"clear:both\"></div></li>\n<li><div style=\"clear:both\"></div></li>\n<li><div style=\"clear:both\"></div></li>\n<li><div style=\"clear:both\"></div></li>\n<li><div style=\"clear:both\"></div></li></ul>\n</div></td></tr><tr style=\"height:2px\"><td colspan=\"2\"></td></tr><tr><th scope=\"row\" class=\"navbox-group\">Specific-use templates</th><td class=\"navbox-list navbox-even\" style=\"text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px\"><div style=\"padding:0em 0.25em\">\n<ul><li><div style=\"clear:both\"></div></li>\n<li><div style=\"clear:both\"></div></li>\n<li><div style=\"clear:both\"></div></li>\n<li><div style=\"clear:both\"></div></li>\n<li><div style=\"clear:both\"></div></li>\n<li><div style=\"clear:both\"></div></li></ul>\n</div></td></tr><tr style=\"height:2px\"><td colspan=\"2\"></td></tr><tr><td class=\"navbox-abovebelow\" colspan=\"2\" style=\"font-weight:bold;\"><div>\n<ul><li><span typeof=\"mw:Error mw:File\"><a href=\"/wiki/Special:Upload?wpDestFile=Folder_Hexagonal_Icon.svg\" class=\"new\" title=\"File:Folder Hexagonal Icon.svg\"><span class=\"mw-file-element mw-broken-media\" data-width=\"16\" data-height=\"16\">Category</span></a></span> <a href=\"/wiki/Category:Wikipedia_progress_templates\" class=\"newcategory\" title=\"Category:Wikipedia progress templates\">Category</a></li>\n<li><span typeof=\"mw:Error mw:File\"><a href=\"/wiki/Special:Upload?wpDestFile=Symbol_list_class.svg\" class=\"new\" title=\"File:Symbol list class.svg\"><span class=\"mw-file-element mw-broken-media\" data-width=\"16\" data-height=\"16\">List-Class article</span></a></span> <a href=\"https://en.wikipedia.org/wiki/List_of_progress_boxes\" class=\"extiw\" title=\"wikipedia:List of progress boxes\">List</a> <small>(partial)</small></li></ul>\n</div></td></tr></tbody></table></td></tr></tbody></table>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <a href=\"/wiki/Template:Progress_templates/doc\" title=\"Template:Progress templates/doc\">Template:Progress_templates/doc</a> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<p><br />\n<b>How to manage this template's initial visibility</b><br />\nTo manage this template's visibility when it first appears, <a href=\"https://community.fandom.com/wiki/Help:Template\" title=\"Help:Template\">add the parameter</a>:\n</p>\n<dl><dd><code class=\"nowrap\">&#124;state&#61;collapsed</code> to show the template in its collapsed state, i.e. hidden apart from its titlebar&#160;– e.g. <code>{{Progress templates |state=collapsed}}</code></dd>\n<dd><code class=\"nowrap\">&#124;state&#61;expanded</code> to show the template in its expanded state, i.e. fully visible&#160;– e.g. <code>{{Progress templates |state=expanded}}</code></dd>\n<dd><code class=\"nowrap\">&#124;state&#61;autocollapse</code> to show the template in its collapsed state <i>but only if</i> there is another template of the same type on the page&#160;– e.g. <code>{{Progress templates |state=autocollapse}}</code></dd></dl>\nUnless set otherwise (see the <code class=\"nowrap\">&#124;state&#61;</code> parameter in the template's code), the template's default state is <code>autocollapse</code>.</div>\n\n<!-- \nNewPP limit report\nCached time: 20261119205408\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.074 seconds\nReal time usage: 0.103 seconds\nPreprocessor visited node count: 228/1000000\nPost‐expand include size: 9429/2097152 bytes\nTemplate argument size: 71/2097152 bytes\nHighest expansion depth: 10/100\nExpensive parser function count: 1/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 65/5000000 bytes\nLua time usage: 0.011/7.000 seconds\nLua memory usage: 775699/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   65.801      1 -total\n 60.44%   39.770      1 Template:Navbox\n 39.25%   25.827      1 Template:Documentation\n 36.95%   24.315      1 Template:Progress_templates/doc\n 28.62%   18.830      1 Template:Collapsible_option\n 19.14%   12.594      2 Template:Icon\n  9.11%    5.995      1 Template:Template_other\n  3.77%    2.480      4 Template:Para\n  3.14%    2.066      1 Template:Documentation_subpage\n  2.44%    1.607     14 Template:Tl\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:155-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205408 and revision id 211. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Category:Wikipedia progress templates",
+      "ns": 14
+    },
+    {
+      "*": "Template:Progress templates/doc",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template talk:Progress templates",
+      "ns": 11
+    },
+    {
+      "*": "Help:Template",
+      "ns": 12
+    }
+  ],
+  "page_id": 155,
+  "revision_id": 211,
+  "title": "Template:Progress templates"
+}

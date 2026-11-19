@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "*": "Template_documentation",
+      "sortkey": "Cc-by-sa-3.0/doc"
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><dl><dt>Description</dt>\n<dd>This template is used to mark images with the <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC-BY-SA-3.0</a> license.</dd>\n<dt>Syntax</dt>\n<dd>Type <code>{{<a href=\"/wiki/Template:Cc-by-sa-3.0\" title=\"Template:Cc-by-sa-3.0\">cc-by-sa-3.0</a>&#124;<font color=\"gray\"><i>&lt;attribution details&gt;</i></font>}}</code> on the image information page.</dd>\n<dd>Replace \"<code>attribution details</code>\" with information about the source.</dd></dl>\n<!-- \nNewPP limit report\nCached time: 20261119205355\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.008 seconds\nReal time usage: 0.010 seconds\nPreprocessor visited node count: 176/1000000\nPost‐expand include size: 311/2097152 bytes\nTemplate argument size: 138/2097152 bytes\nHighest expansion depth: 6/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 4/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    4.176      1 Template:T\n100.00%    4.176      1 -total\n 48.30%    2.017     20 Template:T/piece\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:26-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205355 and revision id 26. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Cc-by-sa-3.0",
+      "exists": "",
+      "ns": 10
+    }
+  ],
+  "page_id": 26,
+  "revision_id": 26,
+  "title": "Template:Cc-by-sa-3.0/doc"
+}

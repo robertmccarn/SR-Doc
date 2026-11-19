@@ -1,0 +1,136 @@
+---
+page_id: 1189
+revision_id: 9537
+source_url: https://second-renaissance.fandom.com/wiki/European_Association
+raw_sha256: 9c583c58a59d96ca6428530395ca12278ef4b6fb6e6c67a9a9b4a618abfbf897
+---
+
+# European Association
+
+## Preserved source
+
+```wikitext
+{{Infobox country
+|conventional_long_name = European Association
+|national_motto = 
+|national_anthem = 
+|capital = Brussels
+|largest_city = Istanbul
+|languages = English (official)
+|languages_type = National languages
+|languages2 = Polish, Turkish, German, Russian, French, Spanish
+|languages2_type = Regional languages
+|government_type = Federal parliamentary republic
+|leader_title1 = President
+|leader_name1 = Aleksander Paksas
+|legislature = Parliament
+|upper_house = Council of Europe
+|lower_house = General Assembly
+|established_event1 = Founded
+|sovereignty_type = Unification
+|established_event2 = 
+|established_date1 = September 16, 2139
+|established_event3 =  
+|established_date2 = 
+|established_event4 = 
+|established_date3 =
+|established_date4 = 
+|area_rank = 
+|area_sq_mi = 
+|population_estimate = 582 Million
+|population_estimate_year = 2160
+|population_estimate_rank = 
+|currency = United States Dollar (USD)
+|currency_code =
+|image_flag = European_Association.png
+|image_coat = European_CoA.png
+|leader_title2 = Chancellor
+|leader_name2 = Rudolf Verhofstadt}}
+The European Association is a successor to the [European Union](1255-european-union.md) and an [Associated State](2002-associated-state.md) of the United States. It was created to unify Continental Europe. Initially, the European Association was created in Western Europe of whats left of members of NATO and/or the European Union combined. It eventually spread East into Russia and the Balkans. Currently, there is only one independent sovereign nation in Europe which is Serbia.
+
+Tension between Serbia and the European Association has persisted to the present day. After the creation and spread of the European Association, Serbia became the leader against such move, and that many who also opposed "American hegemony" moved to Serbia.
+
+# Overview
+If any region can claim to have lost the most over the last quarter millennia it is Europe. Once the center of power on the Earth, with colonies spanning every continent and the driver of scientific discovery and social progress, Europe was left in tatters by the end of the Third Mexican-American War. Europe had once again been a battlefield between foreign empires, its cities in ruins, its economy shattered, and when the guns fell silent its population was as low as it had been in 1910. US Colonial General [Joseph Loveridge](1343-joseph-loveridge.md) was quick to establish a military government from Brussels, and much like his counterpart Zaya in Asia, always made sure to include a civilian delegation from the occupied nations. The quantum economic model was implemented across Western Europe while the US-Allied military handled mop up work in the former [Intermarium](946-intermarium.md) well past the signing of the European Charter in the fall of 2139. The riches of the United States and its newly integrated colonies in space paid for Europe's rebirth, and free travel brought new peoples and businesses from across the world.
+
+# History
+In the 20 years since its union, the European subcontinent has recovered and even prospered. For the first time in a century the continent experienced a baby boom, spurred in part by newcomers from Africa and the Middle East, along with refugees from Serbia. Rebellions in the East are rare, and protests in the West are rarer, with the only persistent violence lies between members of East and Western ministers to European Parliament. There's a new youth culture from a generation that has not known war, nor cold war, nor ethic violence for the first time in European history.
+
+During the early [Terran diaspora](1739-terran-diaspora.md), Europe saw a significant drop in its population, which gave rise to cultural homogenization during the end of the 21st century and the early 22nd century. Following unification and the adoption of the Quantum Economic Model, Europe saw greater cultural integration resulting from expansion of the regional hyper-loop networks which enabled free and fast movement from one end of the continent to the next. Local linguistic and cultural enclaves persist in Europe, but the European identity is much broader than what was seen in the days of the old European Union, thanks in part to a more equal distribution of wealth without the economic centralization in a single region as seen in the past.
+
+# Government
+The Association's government is a true federation that grants less power to its constituent states than in East Asia. The European states, which have enough autonomy and political recourse to avoid being dominated by a scenario where Eastern European conservatives take over the government.
+
+The Government of the European Association is the direct administration that exercises executive power in the Association. It is composed of a Chancellor, the head of government, and a president, the head of state. The President of the European Association is limited to 2 terms and is elected every 4 years. The Chancellor of the European Association is limited to 6 terms and is elected every 2 years.
+
+The Vice President is the presiding officer of the upper house (Council of Europe) while the Chancellor is the presiding officer of the lower house (General Assembly).
+
+## '''President'''
+{| class="wikitable" style="text-align: center;"
+|-
+! style="background:#C0C0C0; color:black;" | №<br /> 
+! colspan="2" style="background:#C0C0C0; color:black;" | President
+! style="background:#C0C0C0; color:black;" | Took office
+! style="background:#C0C0C0; color:black;" | Left office
+! style="background:#C0C0C0; color:black;" | Political Party
+! style="background:#C0C0C0; color:black;" |
+! style="background:#C0C0C0; color:black;" | Notes
+|-
+! style="background:{{Independent (politician)/meta/color}};" | {{color|black|–}}
+| [160x150px](117-file-blank-person-jpg.md)
+| '''[Stark Marino](https://second-renaissance.fandom.com/wiki/Stark_Marino)'''<br /><small>(2090–)</small>
+| September 17, 2139
+| January 20, 2141
+| Independent
+| Lann Nanmen|Lann Nanmen
+| style="width:30%;" | <small>Acting</small>
+|-
+! style="background:{{Union Party (United States)/meta/color}};;" | {{color|white|1}}
+| [160x150px](117-file-blank-person-jpg.md)
+| '''[Osk Situ](https://second-renaissance.fandom.com/wiki/Osk_Situ)'''<br /><small>(2092–)</small>
+| January 20, 2141
+| January 20, 2149
+| [Union](912-union-party-united-states.md)
+| Angela Landsbergis
+| <small>notes </small>
+|-
+! style="background:{{Union Party (United States)/meta/color}};;" | {{color|white|2}}
+| [160x150px](117-file-blank-person-jpg.md)
+| '''[Eduardo Namy](https://second-renaissance.fandom.com/wiki/Eduardo_Namy)'''<br /><small>(2100–)</small>
+| January 20, 2149
+| January 20, 2153
+| [Union](912-union-party-united-states.md)
+| Reiner Merkel
+| <small>notes </small>
+|-
+! style="background:{{Conservative Party (United States)/meta/color}};;" | {{color|white|3}}
+| [160x150px](117-file-blank-person-jpg.md)
+| '''[Quixote Vargas](https://second-renaissance.fandom.com/wiki/Quixote_Vargas)'''<br /><small>(2103–)</small>
+| January 20, 2153
+| January 20, 2157
+| [Conservative](912-union-party-united-states.md)
+| Bert Pancher
+| <small>notes </small>
+|-
+! style="background:{{United Republican Party (United States)/meta/color}};;" | {{color|white|4}}
+| [160x150px](117-file-blank-person-jpg.md)
+| '''[Aleksander Paksas](https://second-renaissance.fandom.com/wiki/Aleksander_Paksas)'''<br /><small>(2094–)</small>
+| January 20, 2157
+| Present
+| [New Republican](3680-united-republican-party-united-states.md)
+| Valdas Paleckis
+| <small>notes </small>
+|}
+
+# Administrative Divisions
+The European Association is divided into provinces, and one capital municipality, each overseen by an elected governor, legislature and provincial court system. Each province is further divided into counties, municipalities and villages. The provinces enjoy a degree of autonomy comparable to American states.
+
+
+[350px|center|European provinces.](2153-file-europe-png.md)
+[Category:Countries in Europe](https://second-renaissance.fandom.com/wiki/Category:Countries_in_Europe)
+[Category:Associated states](https://second-renaissance.fandom.com/wiki/Category:Associated_states)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1189/9537.wikitext` · revision `9537` · [upstream](https://second-renaissance.fandom.com/wiki/European_Association)

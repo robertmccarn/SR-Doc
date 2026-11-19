@@ -1,0 +1,15 @@
+{
+  "categories": [
+    {
+      "*": "Mexico_political_party_colour_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": "Conservative Party (Mexico)/meta/color"
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>#0000FF\n</p>\n<h2><span class=\"mw-headline\" id=\"Examples\">Examples</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<table>\n\n<tbody><tr style=\"color:#0000FF\">\n<td><b>This color</b>\n</td></tr>\n<tr style=\"background:#0000FF; color:white\">\n<td><b>White on this color</b>\n</td></tr>\n<tr style=\"background:#0000FF; color:black\">\n<td><b>Black on this color</b>\n</td></tr></tbody></table>\n\n<!-- \nNewPP limit report\nCached time: 20261119205657\nCache expiry: 2592000\nReduced expiry: false\nComplications: [vary‐revision‐sha1]\nCPU time usage: 0.003 seconds\nReal time usage: 0.003 seconds\nPreprocessor visited node count: 19/1000000\nPost‐expand include size: 254/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 28/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.290      1 -total\n 61.71%    0.179      3 Template:Conservative_Party_(Mexico)/meta/color\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:1567-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205657 and revision id 3704. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [],
+  "page_id": 1567,
+  "revision_id": 3704,
+  "title": "Template:Conservative Party (Mexico)/meta/color"
+}

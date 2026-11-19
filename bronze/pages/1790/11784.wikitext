@@ -1,0 +1,77 @@
+{{Infobox election
+|election_name = United States presidential election, 2036
+|country = United States
+|type = presidential
+|ongoing = no
+| flag_year = 2035
+|previous_election = United States presidential election, 2032
+|previous_year = 2032
+|next_election = United States presidential election, 2040
+|next_year = 2040
+|election_date = November 4, 2036
+| votes_for_election         = All eligible voters who participate
+| needed_votes               = 51% of the vote
+| turnout                    = 57.0%
+| image1 = [[File:Blank_Person.jpg|150px]]
+| nominee1 = [[Ivory Toldson]]
+| party1 = Labor
+| home_state1 = Maryland
+| running_mate1 = Max Goren
+| electoral_vote1 = 
+| states_carried1 = 
+| popular_vote1 = 
+| percentage1 = 43.2%
+| image2 = [[File:Joe_Kennedy_III.jpg|150px]]
+| nominee2 = Joe P. Kennedy III
+| party2 = Progressive
+| home_state2 = Massachusetts
+| running_mate2 = Paula Swearengin
+| electoral_vote2 =
+| states_carried2 =
+| popular_vote2 =  
+| percentage2 =  41.1%
+| nominee5 = Ron Bernard
+| party5 = Libertarian
+| image5 = [[File:Blank_Person.jpg|150px]]
+| home_state5 = Texas
+| running_mate5 = Chris Haden
+| electoral_vote5 = 
+| states_carried5 = 
+| popular_vote5 = 
+| percentage5 = 2.6%
+| nominee4 = John Scott
+| party4 = Liberal
+| image4 = [[File:Blank_Person.jpg|150px]]
+| home_state4 = Utah
+| running_mate4 = Ivan Howe
+| electoral_vote4 = 
+| states_carried4 =
+| popular_vote4 = 
+| percentage4 = 13.1%
+| title = President
+| before_election =  [[Alexandria Ocasio-Cortez]]
+| before_party = Progressive
+| after_election = [[Dylan J. Price]]
+| after_party = Labor}}
+
+
+
+The '''United States presidential election of 2036''' was the sixty-third quadrennial presidential election, held on November 4, 2036. President [[Dylan J. Price]]  and Vice President Ivory Toldson won the election in a Labor-Green coalition.
+
+
+
+==Nominations==
+
+==='''Labor'''===
+
+
+
+==='''Liberal'''===
+
+
+
+==='''Progressive'''===
+
+
+==='''Libertarian'''===
+[[Category:United States Presidential Elections]]

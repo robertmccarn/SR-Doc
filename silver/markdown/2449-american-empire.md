@@ -1,0 +1,41 @@
+---
+page_id: 2449
+revision_id: 11202
+source_url: https://second-renaissance.fandom.com/wiki/American_Empire
+raw_sha256: 58ef9f57ee34d3ce06560350c5315f8ed48035cec978e28820ac673b095e2346
+---
+
+# American Empire
+
+## Preserved source
+
+```wikitext
+'''American Empire''' was a geopolitical text putting forth the notion that, due to the Flood, the United States has become an "unintentional empire" and must start behaving in a more mature fashion befitting of such a nation.
+
+# Overview
+## '''Part 1: The Origins of Empire'''
+The book was published while Stephen Michaels was president of the US Naval War College, and was a culmination of his ideas regarding US foreign policy and international relations.
+
+Michaels began the book with an examination of what factors lead to America's economic power and geography's impact on a nation's foreign policy, focusing a great deal on how the country's rise to prominence after World War II. He identifies such features as geography, population, and government, and argues that American military supremacy is a consequence of these factors, reinforcing the belief in an "Unintentional Empire."
+
+The book goes on to describe the power vacuum left after the fall of the Soviet Union and what the period of conflicts in the Middle East reveal about America's political immaturity.
+
+## '''Part 2: Reconciling the Empire and the Republic'''
+The book's second section outlines the risk that the Empire plays to the Republican experiment, though makes few political assertions. Michaels instead focuses on historical examples of Republicans that fell to Imperialism. He asserts that the risk for the US is not the slow surrender of legislative authority the the President but rather the rise of a Caesar in response to political discord and corruption at the Federal Level.
+
+## '''Part 3: The Necessary Doctrine'''
+The book's final chapter outwardly advocates for the next President to adopt a doctrine of local balance of power enabled by American military "Viceroys" who would command not only American troops, but have direct command over local forces; abandoning the alliance system of NATO in favor of more direct dominion. However, Michaels also argues that the US should reduce its permanent presence around the world in favor of a tiered system of priorities and deployments.
+
+*Tier 1: Diplomatic relations
+*Tier 2: Pressuring regional powers
+*Tier 3: Balance of power
+*Tier 4: Military cooperation
+*Tier 5: Direct Intervention
+
+# Impact on US foreign policy
+[Category:Literature](https://second-renaissance.fandom.com/wiki/Category:Literature)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/2449/11202.wikitext` · revision `11202` · [upstream](https://second-renaissance.fandom.com/wiki/American_Empire)

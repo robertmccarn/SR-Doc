@@ -1,0 +1,14 @@
+<nowiki>#1E90FF</nowiki><noinclude>
+
+== Examples ==
+{|
+|- style="color:{{ {{PAGENAME}} }}"
+| '''This color'''
+|- style="background:{{ {{PAGENAME}} }}; color:white"
+| '''White on this color'''
+|- style="background:{{ {{PAGENAME}} }}; color:black"
+| '''Black on this color'''
+|}
+
+== See also ==
+</noinclude>

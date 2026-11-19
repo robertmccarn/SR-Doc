@@ -1,0 +1,1 @@
+{{<includeonly>safesubst:</includeonly>#invoke:String|match|s={{{1}}}|^[^{{{sep|%s}}}]*}}

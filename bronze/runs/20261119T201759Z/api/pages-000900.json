@@ -1,0 +1,2855 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "916": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Coats of arms"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6187,
+        "length": 27,
+        "ns": 6,
+        "pageid": 916,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1331,
+            "revid": 6187,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Coats of arms]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:08:08Z"
+          }
+        ],
+        "title": "File:United States Navy.jpg",
+        "touched": "2017-11-08T00:13:27Z"
+      },
+      "917": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1332,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 917,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1332,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-26T20:47:24Z"
+          }
+        ],
+        "title": "File:O3 Rank.png",
+        "touched": "2015-10-26T20:47:24Z"
+      },
+      "918": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1335,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 918,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1335,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-27T20:59:23Z"
+          }
+        ],
+        "title": "File:SpaceX.png",
+        "touched": "2016-05-18T18:39:11Z"
+      },
+      "920": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1358,
+        "length": 283,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Brazil/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "ns": 10,
+        "pageid": 920,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1356,
+            "revid": 1358,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Brazil\n| flag alias = Flag of Brazil.svg\n| alt attribute = Flag of Brazil\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-29T16:09:51Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Brazil/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Brazil",
+        "touched": "2015-10-29T16:09:51Z"
+      },
+      "921": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3189,
+        "length": 19,
+        "ns": 6,
+        "pageid": 921,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1357,
+            "revid": 3189,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-05T18:34:08Z"
+          }
+        ],
+        "title": "File:Flag of Brazil.svg",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "922": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3198,
+        "length": 19,
+        "ns": 6,
+        "pageid": 922,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1359,
+            "revid": 3198,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-05T18:36:20Z"
+          }
+        ],
+        "title": "File:Flag of Ethiopia.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "923": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1360,
+        "length": 291,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Abyssinia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 923,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1360,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Abyssinia\n| flag alias = Flag of Ethiopia.png\n| alt attribute = Flag of Abyssinia\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-29T16:13:50Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Abyssinia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Abyssinia",
+        "touched": "2015-10-29T16:13:50Z"
+      },
+      "924": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3295,
+        "length": 19,
+        "ns": 6,
+        "pageid": 924,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1361,
+            "revid": 3295,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-15T04:17:57Z"
+          }
+        ],
+        "title": "File:Flag of Madagascar.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "925": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1362,
+        "length": 295,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Madagascar/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 925,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1362,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Madagascar\n| flag alias = Flag of Madagascar.png\n| alt attribute = Flag of Madagascar\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-29T16:17:23Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Madagascar/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Madagascar",
+        "touched": "2015-10-29T16:17:23Z"
+      },
+      "926": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3287,
+        "length": 19,
+        "ns": 6,
+        "pageid": 926,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1363,
+            "revid": 3287,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-15T04:16:47Z"
+          }
+        ],
+        "title": "File:Flag of Israel.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "927": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1364,
+        "length": 283,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Israel/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 927,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1364,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Israel\n| flag alias = Flag of Israel.png\n| alt attribute = Flag of Israel\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-29T16:18:53Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Israel/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Israel",
+        "touched": "2015-10-29T16:18:53Z"
+      },
+      "928": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3292,
+        "length": 19,
+        "ns": 6,
+        "pageid": 928,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1365,
+            "revid": 3292,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-15T04:17:27Z"
+          }
+        ],
+        "title": "File:Flag of Kurdistan.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "929": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1366,
+        "length": 292,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Kurdistan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 929,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1366,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Kurdistan\n| flag alias = Flag of Kurdistan.png\n| alt attribute = Flag of Kurdistan\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-29T16:20:22Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Kurdistan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Kurdistan",
+        "touched": "2015-10-29T16:20:22Z"
+      },
+      "930": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3296,
+        "length": 19,
+        "ns": 6,
+        "pageid": 930,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1367,
+            "revid": 3296,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-15T04:18:08Z"
+          }
+        ],
+        "title": "File:Flag of Malaya.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "931": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1369,
+        "length": 283,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Malaya/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "ns": 10,
+        "pageid": 931,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1368,
+            "revid": 1369,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Malaya\n| flag alias = Flag of Malaya.png\n| alt attribute = Flag of Malaya\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-29T16:22:50Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Malaya/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Malaya",
+        "touched": "2015-10-29T16:22:50Z"
+      },
+      "932": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1370,
+        "length": 42,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Malaya"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 932,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1370,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Template:Country data Malaya]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-29T16:22:50Z"
+          }
+        ],
+        "title": "Template:Country data Malay",
+        "touched": "2015-10-29T17:27:31Z"
+      },
+      "933": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3192,
+        "length": 19,
+        "ns": 6,
+        "pageid": 933,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1371,
+            "revid": 3192,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-05T18:35:00Z"
+          }
+        ],
+        "title": "File:Flag of Aden.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "934": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1372,
+        "length": 277,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Aden/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 934,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1372,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Aden\n| flag alias = Flag of Aden.png\n| alt attribute = Flag of Aden\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-29T16:24:35Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Aden/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Aden",
+        "touched": "2015-10-29T16:24:35Z"
+      },
+      "935": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3194,
+        "length": 19,
+        "ns": 6,
+        "pageid": 935,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1373,
+            "revid": 3194,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-05T18:35:16Z"
+          }
+        ],
+        "title": "File:Flag of Dubai.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "936": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1374,
+        "length": 280,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Dubai/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 936,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1374,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Dubai\n| flag alias = Flag of Dubai.png\n| alt attribute = Flag of Dubai\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-29T16:25:51Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Dubai/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Dubai",
+        "touched": "2015-10-29T16:25:51Z"
+      },
+      "937": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1379,
+        "length": 49,
+        "new": "",
+        "ns": 1,
+        "pageid": 937,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1379,
+            "slots": {
+              "main": {
+                "*": "I think the Seventh Party System deserves a page.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-29T17:58:23Z"
+          }
+        ],
+        "title": "Talk:United States presidential election, 2028/@comment-27084453-20151029175823",
+        "touched": "2015-10-29T17:58:23Z"
+      },
+      "938": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1383,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 938,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1383,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-29T21:12:32Z"
+          }
+        ],
+        "title": "File:Marco Rubio.jpg",
+        "touched": "2015-10-29T21:12:32Z"
+      },
+      "939": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Former countries in Europe"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former country articles requiring maintenance"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:European Association.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Estonia2.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Latvia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Lithuania.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Poland2.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Poland Intermarium.png"
+          }
+        ],
+        "lastrevid": 10361,
+        "length": 3710,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Estonia"
+          },
+          {
+            "ns": 0,
+            "title": "European Association"
+          },
+          {
+            "ns": 0,
+            "title": "Federal presidential republic"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Poland"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of the Poland"
+          },
+          {
+            "ns": 0,
+            "title": "Intermarium"
+          },
+          {
+            "ns": 0,
+            "title": "Ivan Alekseev"
+          },
+          {
+            "ns": 0,
+            "title": "Latvia"
+          },
+          {
+            "ns": 0,
+            "title": "Lithuania"
+          },
+          {
+            "ns": 0,
+            "title": "National Assembly"
+          },
+          {
+            "ns": 0,
+            "title": "Republic of Poland"
+          },
+          {
+            "ns": 0,
+            "title": "Sejm"
+          },
+          {
+            "ns": 0,
+            "title": "Senate"
+          },
+          {
+            "ns": 0,
+            "title": "Warsaw"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in 2139"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2130s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2139"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 22nd century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in 2076"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 2070s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 2076"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 21st century"
+          }
+        ],
+        "ns": 0,
+        "pageid": 939,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10341,
+            "revid": 10361,
+            "slots": {
+              "main": {
+                "*": "{{Infobox former country\n| conventional_long_name = Federation of Poland and the Baltic\n| common_name            = Poland\n| continent              = Europe\n| region                 = Eastern Europe\n| government_type        = Federal presidential republic\n| image_map = \n| image_map_caption = \n| image_flag   = Poland_Intermarium.png\n| image_coa   = PolandCOA.png\n| coa_size     = x100px\n| symbol_type  = Arms\n| symbol       = \n| year_start   = 2076\n| year_end     = 2139\n| date_start   = \n| event_start  = \n| date_end     = \n| event_end    = Treaty of San Juan\n| p1           = Republic of Poland\n| image_p1     = [[File:Flag_of_Poland2.png|20px|link=]]\n| p2           = Lithuania\n| image_p2     = [[File:Flag_of_Lithuania.png|20px|link=]]\n| p3           = Estonia\n| image_p3     = [[File:Flag_of_Estonia2.png|20px|link=]]\n| p4           = Latvia\n| image_p4     = [[File:Flag_of_Latvia.png|20px|link=]]\n| s1           = European Association\n| image_s1     = [[File:European_Association.png|20px|link=]]\n| capital      = Warsaw\n| title_leader = President\n| leader1      = Ivan Alekseev\n| year_leader1 = 2132\n| legislature  = National Assembly\n| house1       = Senate\n| house2       = Sejm\n| stat_year1   = \n| stat_area1   = \n| stat_pop1    = \n| today        = [[European Association]]\n| footnotes    = \n| width        = 265px\n}}'''Poland''', officially known as the '''Federation of Poland and the Baltic''', was a major regional power in Eurasia, and principle member of the Intermarium Council. Modern Poland had its roots in the Little Cold War, which saw Poland define itself as a modern military and political leader. The United States invested a significant amount of capital into Poland to counter the Russians during the Little Cold War, giving Poland the tools to build a modern economy through technology transfer. During the Third World War, Poland's modernization and leadership of the [[Intermarium]] made it a major player in the conflict, but by war's end it was banned from access to space by its former ally, the United States of America. In 2077, the Federalists were victorious, forming the Federation of Poland and the Baltic, with the unification of the Baltic states and Poland proper.\n\n==History==\n==='''Early History'''===\nPoland traces its origins to the Iron Age Lusatian culture in the 8th century BCE. The country would later be invaded by Celtic and Germanic tribes in the 5th century BCE before eventually being colonized by the Western Slavs between 600 and 800 CE. The most powerful of these Slavic tribes were the Polans, who eventually united all the other Slavic tribes under the Piast dynasty in the 10th century CE.\n\nBy 1384, the Piast dynasty had come to an end and a dynastic union was established that united Poland and Lithuania under the Jagiellon dynasty. The Jagiellons leadership of the Polish-Lithuanian Commonwealth led to Poland becoming the most powerful nation in Europe by the 17th Century, largely due to Poland being spared the ravages of the Thirty Years War. After its defeat at the hands of its neighbors Poland was reduced to a protectorate of Russia, and eventually erased from the map by 1795.\n\n==='''Centuries of Shame'''===\nAfter a brief resurgence as a modern state under Napoleon, Poland was broken up under the Congress of Vienna and for the next century and a half it would be a nation either conquered by Germans or Russians. \n\n==='''Resurgence as a Great Power'''===\n===='''Founding of the Visegrad Group'''====\n\n===='''[[World War III]]'''====\n\n===='''Founding the Intermarium'''====\n\n==='''Decline'''===\n===='''Second Depression'''====\n===='''Alliance with Mexico'''====\n===='''Third Mexican War'''====\n[[Category:Former countries in Europe]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-04-05T16:27:20Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Both"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country/autocat"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Main other"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ns0"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ordinal"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str find"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "Poland",
+        "touched": "2021-04-05T18:22:46Z"
+      },
+      "940": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1395,
+        "length": 22,
+        "new": "",
+        "ns": 1,
+        "pageid": 940,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1395,
+            "slots": {
+              "main": {
+                "*": "This need to be fixed.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-29T21:58:51Z"
+          }
+        ],
+        "title": "Talk:Federal Republic of China/@comment-27084453-20151029215851",
+        "touched": "2015-10-29T21:58:51Z"
+      },
+      "941": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1396,
+        "length": 108,
+        "new": "",
+        "ns": 1,
+        "pageid": 941,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1396,
+            "slots": {
+              "main": {
+                "*": "Back burner until I or someone smarter than me can figure out what's actually wrong with the Script modules.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-30T04:18:03Z"
+          }
+        ],
+        "title": "Talk:Federal Republic of China/@comment-27084453-20151029215851/@comment-899576-20151030041803",
+        "touched": "2015-10-30T04:18:03Z"
+      },
+      "942": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars state flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5862,
+        "length": 30,
+        "ns": 6,
+        "pageid": 942,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1822,
+            "revid": 5862,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Mars state flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-23T20:57:27Z"
+          }
+        ],
+        "title": "File:Bradbury Flag.png",
+        "touched": "2017-12-05T03:59:05Z"
+      },
+      "943": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1399,
+        "length": 286,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Bradbury/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 943,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1399,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Bradbury\n| flag alias = Bradbury_Flag.png\n| alt attribute = Flag of Bradbury\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-30T15:45:54Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Bradbury/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Bradbury",
+        "touched": "2015-10-30T15:45:55Z"
+      },
+      "944": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars state flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1780,
+        "length": 30,
+        "ns": 6,
+        "pageid": 944,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1400,
+            "revid": 1780,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Mars state flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-19T15:26:40Z"
+          }
+        ],
+        "title": "File:New Virginia Flag.png",
+        "touched": "2017-12-05T03:59:05Z"
+      },
+      "945": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1401,
+        "length": 298,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data New Virginia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 945,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1401,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = New Virginia\n| flag alias = New Virginia Flag.png\n| alt attribute = Flag of New Virginia\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-10-30T15:49:18Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data New Virginia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data New Virginia",
+        "touched": "2015-10-30T15:49:18Z"
+      },
+      "946": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:European Organizations"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:2132 The Last War.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Armenia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Austria.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Azerbaijan.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Croatia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Hungary.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Poland2.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Romania.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Slovakia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Slovenia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Ukraine.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Czech Republic.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Intermarium Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Russian Republic.png"
+          }
+        ],
+        "lastrevid": 6630,
+        "length": 2461,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Armenia"
+          },
+          {
+            "ns": 0,
+            "title": "Austria"
+          },
+          {
+            "ns": 0,
+            "title": "Azerbaijan"
+          },
+          {
+            "ns": 0,
+            "title": "Croatia"
+          },
+          {
+            "ns": 0,
+            "title": "Czech Republic"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of the"
+          },
+          {
+            "ns": 0,
+            "title": "Hungary"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Poland"
+          },
+          {
+            "ns": 0,
+            "title": "Romania"
+          },
+          {
+            "ns": 0,
+            "title": "Russia"
+          },
+          {
+            "ns": 0,
+            "title": "Slovakia"
+          },
+          {
+            "ns": 0,
+            "title": "Slovenia"
+          },
+          {
+            "ns": 0,
+            "title": "Ukraine"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Bashkiria"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Bavaria"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Brandenburg"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Circassian"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Crimea"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Don Republic"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Finland"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Georgia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Saxony"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Srpska"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Tartar Republic"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Vojvodina"
+          }
+        ],
+        "ns": 0,
+        "pageid": 946,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6629,
+            "revid": 6630,
+            "slots": {
+              "main": {
+                "*": "{{Infobox former country\n | conventional_long_name = Intermarium\n | native_name = ''Międzymorze''\n | common_name =\n | _noautocat = yes\n | status = [[Wikipedia:Collective security#Collective defense|Military alliance]]\n | continent = The Americas\n | era = [[Mexican-American Cold War]]\n | event_start =\n | year_start = 2102\n | date_start =\n | event_end =\n | year_end = 2139\n | date_end =\n | event1 = \n | date_event1=\n | event2 = \n | date_event2 =\n | image_flag  = Intermarium_Flag.png\n | image_map2  = 2132_The_Last_War.png\n | image_map2_caption = {{plainlist | style = padding-left: 0.6em; text-align: left; |\n*{{color box|#63B74E}} US Allies\n*{{color box|#2AACF6}} '''LAU'''\n*{{color box|#00FFFF}} Mexican Allies\n*{{color box|#C6BDC7}} Neutral powers}}\n----\n{{plainlist | style = padding-left: 0.6em; text-align: left; |\n*{{flag|Poland|size=22px}}\n*{{flag|Hungary|size=22px}}\n*{{flag|Romania|size=22px}} \n*{{flag|Czech Republic|size=22px}} \n*{{flag|Slovakia|size=22px}} \n*{{flag|Finland|size=22px}} \n*{{flag|Russia|size=22px}} \n*{{flag|Ukraine|size=22px}} \n*{{flag|Don Republic|size=22px}}\n*{{flag|Crimea|size=22px}}  \n*{{flag|Georgia|size=22px}}  \n*{{flag|Azerbaijan|size=22px}} \n*{{flag|Armenia|size=22px}} \n*{{flag|Slovenia|size=22px}} \n*{{flag|Croatia|size=22px}} \n*{{flag|Vojvodina|size=22px}} \n*{{flag|Srpska|size=22px}} \n*{{flag|Circassian|size=22px}} \n*{{flag|Tartar Republic|size=22px}} \n*{{flag|Bashkiria|size=22px}} \n*{{flag|Brandenburg|size=22px}}\n*{{flag|Saxony|size=22px}} \n*{{flag|Bavaria|size=22px}}\n*{{flag|Austria|size=22px}} \n }}}}\n\nThe '''Intermarium''' was a military and economic alliance of several Eastern European States. Born out of a desire for regional stability following the collapse of the Mediterranean Union, the Intermarium was formally established under the Second Treaty of Visegrad on 1 November 2102 upon the foundations of the pre-existing Visegrad Group.\n\nThe Intermarium traces its origins back to World War I when Polish leader Józef Piłsudski proposed the creation of a federation, under Poland's aegis, uniting Eastern Europe in common defense against Germany and Russia. Since then the union has grown in size through the accession of \nnew countries, and new policy areas have been added to the remit of the Intermarium's institutions.\n\n== Politics ==\nThe Intermarium Council in Visegrad is dominated by the Poles, by far the strongest military and economic power of the bloc.\n[[Category:European Organizations]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-11-13T21:16:42Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Both"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Color box"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Armenia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Austria"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Azerbaijan"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Bashkiria"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Bavaria"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Brandenburg"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Circassian"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Crimea"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Croatia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Czech Republic"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Don Republic"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Finland"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Georgia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Hungary"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Poland"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Romania"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Russia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Saxony"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Slovakia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Slovenia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Srpska"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Tartar Republic"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Ukraine"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Vojvodina"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flag"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flag/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Plainlist"
+          }
+        ],
+        "title": "Intermarium",
+        "touched": "2022-05-28T07:19:20Z"
+      },
+      "947": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6008,
+        "length": 46,
+        "ns": 6,
+        "pageid": 947,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1416,
+            "revid": 6008,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Mexican flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:19:50Z"
+          }
+        ],
+        "title": "File:Flag of Mexico (2074).png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "948": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:22nd Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former countries in North America"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former country articles requiring maintenance"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages with non-numeric formatnum arguments"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Politics"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Third Mexican War"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Aztlan States.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Mexico (2074).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Placeholder Coat of Arms.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 80 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:United States of Aztlan.png"
+          }
+        ],
+        "lastrevid": 11732,
+        "length": 4312,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Aztlan Peso ($)"
+          },
+          {
+            "ns": 0,
+            "title": "Aztlan War"
+          },
+          {
+            "ns": 0,
+            "title": "Chamber of Deputies"
+          },
+          {
+            "ns": 0,
+            "title": "Congress of Aztlan"
+          },
+          {
+            "ns": 0,
+            "title": "David Castillo"
+          },
+          {
+            "ns": 0,
+            "title": "Federal presidential constitutional republic"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Aztlan"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of the Aztlan"
+          },
+          {
+            "ns": 0,
+            "title": "Great Seal"
+          },
+          {
+            "ns": 0,
+            "title": "Lionel Halvidar"
+          },
+          {
+            "ns": 0,
+            "title": "List of countries by population"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "Ruiz Stavole"
+          },
+          {
+            "ns": 0,
+            "title": "Santa Fe, then Pheonix"
+          },
+          {
+            "ns": 0,
+            "title": "Second American Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Senate"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2132"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in 2135"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2130s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2135"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 22nd century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in 2132"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 2130s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 2132"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 22nd century"
+          }
+        ],
+        "ns": 0,
+        "pageid": 948,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11298,
+            "revid": 11732,
+            "slots": {
+              "main": {
+                "*": "{{Infobox former country\n| conventional_long_name = United States of Aztlan\n| common_name            = Aztlan\n| continent              = North America\n| region                 = American Southwest\n| government_type        = Federal presidential constitutional republic\n| image_map = Aztlan States.png\n| image_map_caption = The Aztlan in 2133.\n| image_flag   = United_States_of_Aztlan.png\n| coa_size     = x70px\n| symbol_type  = Great Seal\n| symbol       = Great Seal\n| image_coat = Placeholder_Coat_of_Arms.png\n| year_start   = 2132\n| year_end     = 2135\n|era           = Mexican-American Cold War\n| event_pre    = [[United States presidential election, 2132|Election]] of [[Lionel Halvidar]]\n| date_pre     = November 2132\n| event_start  = Secession from the [[United States]]\n| date_start   = 3 December 2132\n| event1       = Constitution adopted\n| date_event1  = 15 January 2133\n| event2       = [[Aztlan War|Battle of Camp Navajo]]\n| date_event2  = 2 February 2133\n| event_end    = Annexed into [[Mexico]]\n| date_end     = November 19, 2135\n| p1           = United States of America\n| image_p1     = [[File:US_flag_80_stars.png|20px|link=]]\n| s1           = Mexico\n| image_s1     = [[File:Flag_of_Mexico_(2074).png|20px|link=]]\n|capital = Santa Fe, then Pheonix\n|largest_city = Los Angeles\n| title_leader = President\n| leader1      = [[David Castillo]]\n| year_leader1 = \n| title_deputy = Vice President\n| deputy1      = Ruiz Stavole\n| legislature  = Congress of Aztlan\n| house1       = Senate\n| house2       = Chamber of Deputies\n| stat_year1   = 2133\n| stat_area1   = \n| stat_pop1    = 170 million\n| today        = [[United States of America]]\n| footnotes    = \n| width        = 265px\n| currency = Aztlan Peso ($)\n}}\nThe '''United States of Aztlan''' commonly referred to as '''Aztlan''', was a federation of secessionist American states existing from 2132 to 2135. It was originally formed by seven four majority-Mexican states in the South West Border region of the United States whose population and culture was more often associated with neighboring Mexico than the United States. Aztlan comprised U.S. states that declared secession and warred against the [[United States]] during the [[Aztlan War]].\n\nEach state declared its secession from the United States following the November 2132 election of Union candidate [[Lionel Halvidar]] to the U.S. presidency on a platform which opposed the expansion of Mexican influence into the Southwest. Before Halvidar took office in January, a new separatist government was established in Santa Fe, which was considered illegal by the government of the United States. States Federalized National Guard units which absorbed local militia groups, which the new government hastily combined with defectors from the United States military to create Aztlan Defense Forces. After the [[Second American Civil War|Third American Civil War]] began in February, four additional states – Colorado, Nevada, Utah, and Panama – also declared their secession and joined Aztlan. Aztlan accepted Utah and Panama as Autonomous States, while Colorado's separatist government was overthrown by local pro-Union members of the National Guard; an Aztlan shadow government attempted to control the state but were later captured.\n\n==Government and politics==\nThe Southwestern leaders met in Santa Fe, New Mexico, to write their constitution. Much of Aztlan's Constitution actually replicated elements of the United States Constitution, but it contained several provisions lifted from the Mexican constitution designed to protect city sovereignty. Senators were to be elected by vote of the city councils, rather than direct popular vote; and congressional districts would be more heavily centered around urban areas rather than distinct geographic regions.\n\nThe Aztlan Constitution was gave greater powers to cities, but was far more protective against formalizing an aristocratic system as Mexico had done. It curtailed the powers of states in favor of the powers of cities, but granted additional powers of the Federal Government that were not held in the US. The President of Aztlan was given the power to appoint Supreme Court and Federal Judges directly.\n[[Category:Third Mexican War]]\n[[Category:Politics]]\n[[Category:22nd Century]]\n[[Category:Former countries in North America]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-01-24T21:01:55Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Both"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country/autocat"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Main other"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ns0"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ordinal"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str find"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "United States of Aztlan",
+        "touched": "2025-01-24T21:01:55Z"
+      },
+      "949": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Countries in Asia"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former countries in Asia"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former country articles requiring maintenance"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages with non-numeric formatnum arguments"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:East Asia Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Japan.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Seal of the State of Japan.png"
+          }
+        ],
+        "lastrevid": 11696,
+        "length": 17130,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Armor"
+          },
+          {
+            "ns": 0,
+            "title": "Association of East-Asia"
+          },
+          {
+            "ns": 0,
+            "title": "Coat of arms of Japan"
+          },
+          {
+            "ns": 0,
+            "title": "Coat of arms of the Japan"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Japan"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of the Japan"
+          },
+          {
+            "ns": 0,
+            "title": "Hisahito (last)"
+          },
+          {
+            "ns": 0,
+            "title": "House of Councillors"
+          },
+          {
+            "ns": 0,
+            "title": "House of Representatives"
+          },
+          {
+            "ns": 0,
+            "title": "Itō Hirobumi (first)"
+          },
+          {
+            "ns": 0,
+            "title": "Jimmu (first)"
+          },
+          {
+            "ns": 0,
+            "title": "Kano Himura (last)"
+          },
+          {
+            "ns": 0,
+            "title": "List of countries by population"
+          },
+          {
+            "ns": 0,
+            "title": "National Diet"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "Tokyo"
+          },
+          {
+            "ns": 0,
+            "title": "Unitary dominant-party parliamentary constitutional monarchy"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          },
+          {
+            "ns": 0,
+            "title": "Yen (¥) JPY"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in 2141 CE"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2141 CE"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in 660 BCE"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 660 BCE"
+          }
+        ],
+        "ns": 0,
+        "pageid": 949,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11547,
+            "revid": 11696,
+            "slots": {
+              "main": {
+                "*": "{{Infobox former country\n| conventional_long_name = Japan<br>日本<br>Nippon or Nihon\n| common_name            = Japan\n| continent              = Asia\n| region                 = North Pacific\n| image_map = \n| image_map_caption = \n| image_flag   = Flag_of_Japan.png\n|image_coat             = Seal_of_the_State_of_Japan.png\n|coa_size               = 100px\n| symbol_type  = Seal\n| symbol       = \n|anthem = \"Kimigayo\"<br>君が代\n|demonym = Japanese\n| year_start   = 660 BCE\n| year_end     = 2141 CE\n| date_start   = February 11\n| event_start  = National Foundation Day\n| date_end     = September 16\n| event_end    = Dissolution\n| s1           = Association of East-Asia\n| image_s1     = [[File:East_Asia_Flag.png|20px|link=]]\n| capital      = Tokyo\n|government_type   = Unitary dominant-party parliamentary constitutional monarchy\n|title_leader = Emperor\n|leader1      = Jimmu (first) \n|year_leader1 = 660-585 BCE\n|leader2      = Hisahito  (last)\n|year_leader2 = 2089-2141\n|title_deputy = Prime Minister\n|deputy1      = Itō Hirobumi (first)\n|year_deputy1 = 1885-1888\n|deputy2      = Kano Himura (last)\n|year_deputy2 = 2136-2141\n| legislature  = National Diet\n| house1       = House of Councillors\n| house2       = House of Representatives\n| stat_year1   = 2140\n| stat_area1   = \n| stat_pop1    = 73,023,154\n|currency = Yen (¥) JPY\n| today        = [[Association of East-Asia]]\n| footnotes    = \n| width        = 265px\n}}\n'''Japan''' (Japanese: 日本 Nippon or Nihon; formally 日本国 About this sound Nippon-koku or Nihon-koku, \"State of Japan\") was an island nation in East Asia. Located in the Pacific Ocean, it lies to the east of the Sea of Japan, China, Korea and Chita, stretching from the Sea of Okhotsk in the north to the East China Sea and Taiwan in the south. The Kanji that make up Japan's name mean \"sun origin\", and Japan is often called \"Land of the Rising Sun\".\n\nJapan is a stratovolcanic archipelago of 6,852 islands. The four largest are Honshu, Hokkaido, Kyushu, and Shikoku, which make up about ninety-seven percent of Japan's land area.\n\n==History==\n==='''Pre-history'''===\n==='''Feudal era'''===\n==='''Shōwa period'''===\n==='''Heisei period'''===\nFollowing its defeat in the Second World War, Japan had been incorporated into the US sphere of influence as a major ally against the Soviet Union and (after the Cold War ended) China and Russia . During most of this time, Japan's ability to fight was strictly limited by the constitution placed on it by the US, which forbade it from maintaining an offensive military. It did, however, possess a Self-Defense Force, which many recognized as a military in all but name. During the 2010s, under the government of Shinzo Abe, Japan began to take noticeable steps toward remilitarizing, fielding an aircraft carrier (labeled, for political-correctness purposes, as a \"helicopter destroyer\") and a stealth fighter.\n\n===Reiwa''' period'''===\nThe rise of Chinese military capabilities appeared as a threat to the entire Indo-Pacific region. Japan thus took a leading role to forge an anti-China coalition with other partners such as Australia and India, as well as preserving ties with the United States. Japan would offer economic aid to nations perceived in China's sphere in order to draw them away, as well as make massive investments in regional infrastructure and industry. Efforts such as these are considered the beginning of the \"new Japanese Empire.\"\n\nAfter the fragmentation of Russia, the United States began leaning on Japan to play the role of peacekeeper in the North Pacific. Japan was initially reluctant to take on this role, and initially involved itself in regional disputes only if the US was already involved. This form of geopolitical hand-holding continued until [[The Flood|the Flood]] which put enormous pressure on the Japanese government to take a more active role in regional affairs. Officially, the country maintained its constitutional guarantees against aggressive military force and bans against certain types of weapon systems like Aircraft Carriers. Japan got around this by producing smaller Helicoptor carriers and emphasizing the use and development of STOVL and VTOL aircraft that could more easily launch from them. This proved to be more advantageous for the Japanese military, as its Navy only had to operate relatively close to Japanese waters and the policy fueled the development of more advanced hypersonic drones that could be launched from the Home Islands while more advanced subsonic VTOL drones cold be launched from carriers in far greater volumes than other powers of the day.\n\n===='''Nationalism'''====\nOne of the largest political advocates for Japanese resurgence was Nippon Kaigi, a right wing association and think tank that advocated for Japanese nationalism, reasserting the position of the Emperor, and ending apologies for Japanese war crimes committed during World War II. The group gained greater prominence during the tenure of Prime Minister Shinzo Abe, who's government approved a reinterpretation of Article 9 of the Japanese constitution, granting the country the right to use their military to defend their allies. After the abdication and death of Emperor Heisei (Akihito) and the beginning of the Flood, this movement grew to prominence in Japanese Society and many of its reforms were adopted, including an outright repeal of Article 9.\n\n===='''Territorial acquisitions'''====\nTo secure regional interests and demographic problems, Japan slowly began assimilating territory after the Flood began. Technically, this began in 2025 with the annexation of the Kuril islands, but most historians mark the 2029 arrangement to lease territory on Sakhalin (at this point a territory with no clear international recognition as being an independent state or part of Russia) to build naval and air bases, and granting Japanese corporations a most-favored-nation deal in the oil and gas industry. There are some historians, however, that Japanese expansionism actually began in 2019 when Prime Minister Abe declared the island of Minami-Tori-shima to be off limits to foreign developers following the 2018 study that revealed the presence of 16 million tonnes of Rare Earth Elements. Japan's control of Pacific Rare Earth Elements was considered a key strategic target by the US Navy during World War III.\n\nTens of thousands of Japanese nationals relocated to Sakhalin to establish businesses, and buy up valuable assets. After the Flood, the Japanese began a more aggressive campaign to colonize Sakhalin; even with the hastily constructed sea walls, about 3 million people were displaced in the Home Islands. Japanese real-estate companies and Japanese citizens who bought homes and land on Sakhalin saw the opportunity and started advertising for displaced people to take advantage of cheap land on the island. The locals were initially supportive of the new income, but after some clashes with local nationalist forces opposed to millions of foreigners moving into their country and squatting in refugee camps, the Japanese military stationed in Yuzhno-Sakhalinsk instituted marshal law. An annexation agreement was presented like an ultimatum to the local government (a Republic at this point), that would make the locals naturalized citizens of Japan, and give the new province a Trillion Yen to improve local infrastructure.\n\nMeanwhile, Japan established several \"Special Economic Zones\" with major Chinese, former-Russian, and even Canadian port cities to secure economic interests in the North Pacific. In many cases, the Special Economic Zones were eventually upgraded or expanded into Extraterritorial Districts, pseudo-colonies of Japan, usually localized to areas of foreign cities, but in some cases included large swaths of industrial, suburban, and even agricultural areas.\n\n===='''Military buildup'''====\nIn the 2020s the US began selling Japan ships and aircraft to expand its role in securing international interests in the North Pacific. Following the Flood, the Japanese government radically increased domestic military production and research as well. Japan also began developing its own [[Armor|armored exoskeletons]] to enhance their soldier's capabilities in the field. Unlike American suits, which were adapted from support systems, the first Japanese suits were built as combat systems. The The Type 29, the first Japanese-built suit, was a lightly armored suit that increased the strength and speed of the wearer, and was used to great effect by special forces operators across the North Pacific for much of the 2030s with uparmored variants trickling into regular SDF units. After the Assault on Magadan where Japanese armor was used in concert with Drones to secure the city, Japan began designing standardized suits for an all-armored infantry. The culmination of this project was the Type 41, the first armored exoskeleton to provide total coverage from small arms fire, a tactile neural interface, and the first on-board weapon of a production model in the form of a back-mounted mortar launcher.\n\nDuring this time, Japan also began ramping up their space program to take advantage of critical resources on the Moon and Asteroids, sending its first astronaut to the moon in 2029. Japan was the second country, after the United States, to set up a permanent base on the moon (China had sent a single manned mission to the moon in 2025, but this was never repeated). The Japan Aerospace Exploration Agency (JAXA) took over the Vostochny Cosmodrome, renaming it the Itokawa Spaceport. Japan took in hundreds of former Russian and Chinese rocket Scientists over the next decade, along with expanding their already sizable Aerospace corps of engineers and scientists. By 2040, Japan was second only to the US in space, with bases across the Earth-Luna system for civilian and military activities. It was around this time that the United States ended its mutual-assistance relationship with Japan. This was followed by a series of trade embargoes, the most far-reaching of which was enacted in 2045.\n\n==== '''Population Crisis''' ====\nDemographic experts in the turn of the 21st century estimated that Japan would face a rapid population decline from 127 million people in 2020s to around 88 million by 2065.  To combat this crisis, Japan has encouraged women and the elderly to work while vastly expanding its dependence in AI machinery to make up for the labor shortage. The Japanese government also gradually lowered its many hurdles for foreign workers to attain visas and permenant residency. This became much easier during the Flood Crisis, where the island nation found itself taking in many refugees from both the mainland and abroad, especially from the newly acquired territories. It should also be noted that foreign retirees sharply increased following the Crisis. By 2040, non-native residents (both temporary and permanent) made up between 8.9% to 10.2% of the population, up from 2.3% in 2019. The largest groups were Russians (mainly from the newly acquired , followed by Americans, Koreans, and Chinese.\n\nThe rise in the non-Japanese population in the 2030s became a political issue, as many native Japanese citizens feared that their culture would be drastically changed, and at worst, erased. Because of this, foreign residents faced concerning levels of discrimination, which heightened during World War III. The term \"gaijin\", meaning \"foreigner\" in Japanese, became an increasingly derogatory word to describe foreigners who has not attained permanent residency and rejected speaking the Japanese language. However, this became extended to all non-Japanese citizens by World War III.\n\n===='''[[World War III]]'''====\nAlong with Turkey, Japan was one of the main countries in the Coalition during the Third World War, which lasted from 2051 to 2055. This war was far less destructive to all parties concerned than the Second World War, and less than half a million people in total were killed. During the years leading up to the war, increased suspicion and hostility toward Japan caused the popularity of Japanese culture in the US and vice versa to decline, though anti-Japanese sentiment never reached the fever pitch it did in the 1940s. Nevertheless, some adherents of Japanese cultural exports and products did remain even during the war years.\n\n==== '''Post-War period''' ====\nAlthough, Japanese culture in turn has found itself changed as it entered a new world. US Space Forces conducted orbital bombardment campaigns against strategic military centers in Japan in an effort to destroy Japanese war industry and terrorize the population. While few civilians were killed in these strikes, the psychological impact of American orbital weapons striking the Japanese mainland was powerful. Many historians would compare the impact of the orbital bombardments to the atomic bombs dropped on Hiroshima and Nagasaki.\n\nAfter the war, many American firms found opportunities and moved into Japan as many industries during World War III were destroyed that left major Japanese companies unable to fully compete.  As a result, many American influences were imported. Japanese culture underwent another massive change not seen since American Occupation of World War II. By the 2070s, Japanese culture became less traditional and more progressive, more westernized. Education became much more liberal, many Japanese schools dropped the use of school uniforms while rubrics about Japanese atrocities in World War II and World War III were emphasized, similar to German education covering Nazi atrocities. Japanese work culture grew generally much less strict, and the concept of the struggling salaryman became rare, or in many cases, no longer existed. While traditionalist Japanese vehemently opposed this changing, thinking that it will erased their cultures, their fear are unfounded, debunked, and rejected. The changes in Japanese culture only concerns with works, respectful treatments of others, equality for women and non-Japanese, and wider educational knowledge that they once rejected because they are “anti-Japanese”.   \n\nShifts in work culture was greatly positive for many Japanese as the country adopted progressive economic ideals and policies from the US, while equality allows women and non-Japanese to contributed to the wealth and productivity of Japanese economy and society. As a result, people not only are more economically stable, no longer really stressed about works and get into a “karoshi” situation, but they also have more times to spend with families and loved one. Combined with their spouses who are also economically stable, the nature of a gig economy that allows productive remote-working, a greatly connected nation using hyperloops, foreign aids in economy and infrastructure reconstruction and investments from the Allies, it meant that Japanese families are actually extremely benefits from such post-war changes. The families are now far more stable, connected, and caring, with many Japanese couples reporting a high trust rating towards each other, allowing children to be raised positively by both instead of only one while the other being the \"struggled salaryman\".   \n\nNot to mention, many aspect of Japanese culture like traditional festivals, ceremonies, clothes, architectures, religious infrastructures and centers, languages and many others have remained intact with only some changes, which further discredited the traditionalist arguments. Because of the new liberal, progressive Japanese attitudes, there was a notable increase in the amount of “gyaru” in post-war Japan, one not seen since the 2000s, but soon exceeded that amount, especially in the 2060s to the 2080s when genetic engineering and fashions come into play.  \n\nShortly after the war ended, Japan once again found itself allied with the US as a counter to the influence of Mexico and Poland, and Japanese culture became popular again. This alliance lasted uninterrupted through the Third Mexican-American War in 2132, after which Japan was incorporated into the Association of East Asia. \n\n===='''Decline'''====\nIn 2058, Japan restored Article 9 of their constitution, but maintained the interpretation allowing for defending their allies. Japan was forced to withdraw their civilian population from mainland Asia over the next decade, and reduce their military. The country's economy entered into a slow decline, being surpassed by China once again as the world's second largest economy by 2080, and falling to fourth place behind India in 2095. By the beginning of the 22nd century, the country's economy had seen a return of positive growth thanks to a robust robotics industry. However, by the time of the Third-Mexican War, its population gradually declined to 75 million people, an estimated 20% are non-Japanese citizens. Its society continued to fragment in a neo-feudalist fashion. After the Third Mexican War Japan became the last country in East-Asia to agree to join the Association.\n[[Category:Countries in Asia]]\n[[Category:Former country articles requiring maintenance]]\n[[Category:Former countries in Asia]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-11-02T02:44:18Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Both"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country/autocat"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Main other"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ns0"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ordinal"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str find"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str mid"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "Japan",
+        "touched": "2024-11-02T02:44:18Z"
+      },
+      "951": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3744,
+        "length": 35,
+        "ns": 1,
+        "pageid": 951,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1431,
+            "revid": 3744,
+            "slots": {
+              "main": {
+                "*": "I wonder if this page can be fixed.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-30T02:57:06Z"
+          }
+        ],
+        "title": "Talk:Dissolution of the Russian Federation/@comment-27084453-20151101080158",
+        "touched": "2017-04-30T02:57:06Z"
+      },
+      "952": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6034,
+        "length": 18,
+        "ns": 6,
+        "pageid": 952,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1441,
+            "revid": 6034,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Maps]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:27:30Z"
+          }
+        ],
+        "title": "File:Dissolution of the Eurasian Union.PNG",
+        "touched": "2017-11-08T00:10:31Z"
+      },
+      "956": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Person.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United States.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Halvidar Blank.png"
+          }
+        ],
+        "lastrevid": 4638,
+        "length": 2770,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Earth"
+          },
+          {
+            "ns": 0,
+            "title": "Lionel Halvidar"
+          },
+          {
+            "ns": 0,
+            "title": "Mars"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2132"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2140"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative Union/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative Union/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:If empty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progress/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progress/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Union/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Union Party/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Union Party/meta/shortname"
+          }
+        ],
+        "ns": 0,
+        "pageid": 956,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4633,
+            "revid": 4638,
+            "slots": {
+              "main": {
+                "*": "{{Infobox election\n|election_name = United States presidential election, 2136\n|country = United States\n|type = presidential\n|ongoing = no\n| flag_year = 2132\n|previous_election = United States presidential election, 2132\n|previous_year = 2132\n|next_election = United States presidential election, 2140\n|next_year = 2140\n|election_date = November 6, 2136\n| votes_for_election         = All eligible voters who turned out\n| needed_votes               = 51% of votes\n| turnout                    = 66.0%\n|image1 = [[File:Halvidar_Blank.png|121px|border]]\n|nominee1 = '''[[Lionel Halvidar]]'''\n|party1 = Union Party\n|home_state1 = [[Mars|Bradbury Territory]]\n|running_mate1 = '''[[President of the United States|Cora Fabian]]'''\n|office = Vice President\n|popular_vote1 = '''360,437,185'''\n|percentage1 = '''81.5%'''\n| image2 = [[File:Blank_Person.jpg|121px|border]]\n| nominee2 = Sarima Haden\n| party2 = Progress\n| home_state2 = [[Earth|South Australia]]\n| running_mate2 = Josiah Vasquez\n| popular_vote2 = 22,353,195\n| percentage2 = 5.1%\n|title = President\n| image3 = [[File:Blank_Person.jpg|121px|border]]\n| nominee3 = Lydia Monroe\n| party3 = Conservative Union\n| home_state3 = [[Earth|New York]]\n| running_mate3 = Harrison Reed\n| popular_vote3 = 59,261,645\n| percentage5 = 13.4%\n|before_election = [[Lionel Halvidar]]\n|before_party = Union\n| after_election = [[Lionel Halvidar]]\n| after_party = Union\n}}\n\nThe '''United States presidential election of 2136''' was the 88th quadrennial presidential election, held on Tuesday, November 6, 2136. In this match, incumbent Unionist president Lionel Halvidar ran for reelection against Conservative-Union candidate Lydia Monroe, who tried to portray himself to the voters as the \"peace candidate\" who wanted to bring the [[Third Mexican-American War]] to a speedy end. Sarima Haden ran on behalf of the Progressive \"Peace-wing,\" after Halvidar secured the endorsement of the Progress Party. Halvidar was re-elected president by a landslide, partly helped by the admission of several new states from Mars and Luna.\n\nAs Mexico had annexed the rebel states of the South West, no votes were counted from any of the eleven southern states that had joined the United States of Aztlan.\n\nHalvidar won with 81.5% of the popular vote on the first ballot, a record only ever beaten by James Monroe and George Washington who both ran unopposed. Halvidar's victory was partly the result of the recent victory at the Battle of Washington, where Halvidar took the field and directly commanded troops during the final hours of the battle. Halvidar's popularity had surged after the victory of DC, and the war had begun to turn in America's favor as a result of the colonies admission into the war.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-25T05:56:27Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:!-"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United States"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ifempty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/row"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/shortname"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:If empty"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          }
+        ],
+        "title": "United States presidential election, 2136",
+        "touched": "2019-03-12T00:08:54Z"
+      },
+      "957": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1458,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 957,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1458,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-03T01:56:40Z"
+          }
+        ],
+        "title": "File:David Castillo Blank.png",
+        "touched": "2015-11-03T04:15:36Z"
+      },
+      "958": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:David Castillo Blank.png"
+          }
+        ],
+        "lastrevid": 11734,
+        "length": 6058,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Belt Pirate Wars"
+          },
+          {
+            "ns": 0,
+            "title": "Guardiola Incident"
+          },
+          {
+            "ns": 0,
+            "title": "Lionel Halvidar"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "United States of Aztlan"
+          }
+        ],
+        "ns": 0,
+        "pageid": 958,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11283,
+            "revid": 11734,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=David Castillo\n|image=David_Castillo_Blank.png|border\n|imagesize=265px\n|alt=\n|caption=\n|order=1st\n|office=President of [[United States of Aztlan|Aztlan]]\n|vicepresident=Ruiz Stavole\n|term_start= January 20th, 2133\n|term_end=   November 19, 2135 \n|predecessor= Position established\n|successor=Position abolished\n|order2= 67th\n|office2= Vice President of the United States\n|term_start2=January 20, 2129\n|term_end2=December 15, 2132\n|predecessor2= Avery Johnson\n|successor2= Cora Fabian\n|order3 = United States Senator\n|office3= from Nevada\n|term_start3=January 20, 2119\n|term_end3=January 20, 2129\n|predecessor3= Gorge Santos\n|successor3= Edwin Alvarez\n|birth_date=December, 14 2079\n|birth_place= Tuscon, AZ\n|death_date=December 27, 2138 (age 59)\n|death_place= Mexico City, Mexico\n|restingplace= \n|party=Dignidad\n|spouse= \n|children=\n|religion= Roman Catholic\n|profession=Lawyer<br />Politician<br />Soldier\n}}\n\n'''David Castillo Salinas''' (December, 14 2079 – December 27, 2138) was a lawyer, politician, and soldier from the U.S. state of Nevada, and the President of the [[United States of Aztlan]] during the [[Third Mexican-American War|Second American Civil War]] . He represented the state in the Senate and became the 67th and only member of the Dignidad Party to serve as Vice President of the United States, serving from 2129 to 2132. At the outbreak of the Second American Civil War, Castillo returned to his home in Carson City where he was declared President of the Aztlan. He took personal charge of Aztlan's war plans but was unable to find a strategy to defeat the more populous and wealthy Union. His greatest success as President was in his diplomatic efforts to gain recognition from Mexico and Poland. However at home his administration failed to repair the collapsing economy of the Southwest, forcing his government to lower interest rates and devalue the Aztlan Peso to cover the war's expenses, leading to hyperinflation. This failing state had caused some chain of events that resulted in Aztlan being later annexed into Mexico. David Castillo later sought shelter in Mexico City when the United States of America had successfully invaded and occupied Aztlan. He was later killed during the [[Third Mexican-American War]] during a food shortage crisis. His body was later identified to have been beaten to death and it was discovered by investigators that he had been unfortunate enough to stumble upon a group of rioters.\n\n==Early life and career==\n==='''Military career'''===\nCastillo attended the United States Space Force Academy at Colorado Springs in 2096. He was routinely investigated because of his father Vicente's history of activism and vocal opposition to the Second Mexican-American war.\n\nFollowing graduation, Second Lieutenant Castillo was assigned to the 2nd Space Wing and was stationed at Vandenberg Space Force Base in California. In June 2099, Castillo returned to Nevada on furlough, having had no leave since he first arrived at Vandenberg. He was still in Nevada during the [[Guardiola Incident]] but returned to Vandenberg in September. At the conclusion of the conflict, he was assigned to escort the remaining Planetary Guard fleet to Luna and relieve them in anticipation of the invasion of the MU to rout out the remaining Guardiolas on Earth. Castillo made an effort to treat the colonial fighters with respect, but was met with contempt from bitter colonials who blamed Earth for the war.\n\n==='''Legislative career'''===\nCastillo remained a Space Force reservist after leaving active duty and used his record of national service and connection to his home community in Nevada to propel his status as a centrist member of Dignidad. During his time in the House, Castillo continued to regularly respond to reserve duty, forgoing deferments that he easily could have secured as an active member of the Legislature. Castillo's military service was often criticized by members of the Union Party, as he was never actually called to serve in any capacity that could see combat, and opposed sending Space Forces to aid colonial Planetary Guard forces against the Belt Pirates. In 2111, Castillo volunteered to join a colonial Planetary Guard contingent aboard the USPGS ''Shield of Stanford'' serving along with three Resident Commissioners from the Martian and Lunar colonies, including [[Lionel Halvidar]]. The ship was diverted for one week of combat with the [[Belt Pirate Wars|belt pirates]] in which Castillo saw the first incident of live fire combat of his military career.\n\nCastillo's return from service during the Belt Pirate Wars as a sitting member of the US House of Representatives launched him to national prominence and was instrumental in securing the Senate Seat in Nevada during the 2118 elections.\n\n==Vice Presidency==\n===Presidential campaign of 2132===\n\n==President of the United States of Aztlan==\nBelieving secession and civil war to now be inevitable, Castillo returned to Nevada in the hopes of seeing that his home state leave the Union as orderly as possible to prevent unnecessary loss of life. On December 2, 2132, a constitutional convention met at Santa Fe, New Mexico and considered Castillo and Cesar Anaya of California as a possible president. Castillo, who had widespread support from all four of the seceding states, easily won. He was seen as, \"More legitimate a President than the monster that was elected,\" as elected provisional President of Aztlan by acclamation. He was inaugurated on January 20, 2133 while Nevada was still technically a state in the Union (the vote for secession had taken place on January 3rd, but a transitional period was provided for at Castillo's urging). He chose former Texas Governor, Ruiz Stavole as his Vice President.\n\nCastillo was the first choice because he had won 90% of the vote in seceding states, and was the most respected member of Dignidad among the general public. He recalled after hearing the news of his election that he felt he was being \"sentenced to fulfill a role he had never wanted.\"",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-02-11T05:37:17Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          }
+        ],
+        "title": "David Castillo",
+        "touched": "2025-02-11T05:37:17Z"
+      },
+      "959": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1470,
+        "length": 29,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Martin O'Malley"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 959,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1470,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Martin O'Malley]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-03T21:39:45Z"
+          }
+        ],
+        "title": "Martin O'Malley (The Second Renaissance)",
+        "touched": "2017-01-22T23:56:20Z"
+      },
+      "961": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Scandals"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Under Construction"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Under contruction icon-red.png"
+          }
+        ],
+        "lastrevid": 11717,
+        "length": 4536,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Donald Trump"
+          },
+          {
+            "ns": 0,
+            "title": "Generation"
+          }
+        ],
+        "ns": 0,
+        "pageid": 961,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8736,
+            "revid": 11717,
+            "slots": {
+              "main": {
+                "*": "The '''Trump-Russia scandal''' was a major political scandal that occurred in the United States during the late 2010s, following an effort by the Russian government to benefit [[Donald Trump]] and create internal political crisis in the United States, and the Trump administration attempts to cover up its involvement. After an extensive investigation, former FBI Director Robert Mueller uncovered the 'conspiracy' via Michael Flynn, who had allegedly lied to the FBI that he did not have several private conversations with Russian ambassador Sergey Kislyak. The President was investigated by the United States Congress. Meanwhile, Trump's administration denied any collusion with the Russian government, and argued that the President could not obstruct justice, which led to a constitutional crisis exacerbated by the Supreme Court's 2024 ruling insisting that presidents could not be prosecuted for official actions.\n\n==Russian involvement in the 2016 United States elections==\n==='''Hacking of the Democratic Party's emails'''===\n==='''Social Media Manipulation'''===\n==='''Role of the media'''===\n==='''Mueller investigation and revelation of the Russia connection'''===\nOn May 19, 2018 evidence was discovered that there was a second meeting between members of the President's immediate family and business with Russian agents who promised to provide damaging information regarding the Clinton campaign.\n\n==='''Scandal escalates'''===\nOn December 1st, former National Security Advisor Michael Flynn entered into a plea deal and began cooperating fully with the Mueller investigation. The sudden shift by Flynn came with no warning and created mistrust and panic inside the White House, as staffers no longer could trust their colleagues to be informants or not.\n\n===='''IRA Revelations'''====\nOn February 16th, 2018, the Justice Department released the indictment of 13 Russians who had been involved in a conspiracy to manipulate American public opinion in a disinformation campaign during the 2016 election. These indictments revealed that the Russian cyberwarfare campaign against the United States was far more extensive than many had suspected. The Russian based troll farm, \"Internet Research Academy\" had been funded since 2014 on the order of over a million dollars per month, initially to craft a campaign specifically against Hillary Clinton, but by 2016 was used to support Donald Trump, and to a lesser extent Bernie Sanders; pushed for voters to carry out \"Protest Votes\" for third party candidates or simply stay home on election day (this was heavily targeted against minority groups); crafted conspiracies and claims of voter fraud against the DNC and later against the popular vote in the general election; and generally promoted extremely divisive politics. The IRA directly targeted swing states, particularly Florida, stole the identities of Americans to create only persons that appeared legitimate, managed social media networks with well over 100,000 followers that posed as Americans or American institutions, such as the GOP's official twitter account in Tennessee; and directly organized and funded divisive rallies in the US with stolen identity information that allowed them to connect with unwitting political organizers, some who worked directly for the Trump campaign.\n\n==='''Money trail'''===\nOn December 5th, 2017, Deutsche Bank (having been served a subpoena for the relevant materials) provided Mueller with bank records of affiliates of Trump.\n\n==='''Legal action against Trump Administration members'''===\n===='''Paul Manafort'''====\n===='''Michael Cohen'''====\n===='''Carter Page'''====\n\n==='''Supreme Court'''===\n\n==Aftermath==\n==='''Political reverberations'''===\n==='''Cultural impact'''===\nThe scandal became a defining event for the Millennial and Flood [[Generation]]s, and a moment that heavily informed the political culture of the latter. Numerous films and series were created immediately after the scandal, with the movie ''Individual 1'' (2021) being the most celebrated in its depiction of the Mueller investigation, and HBO's series ''Steele'' (2022) receiving numerous awards for its depiction of the actual conspiracy between the Trump organization and the Kremlin. Media surrounding the scandal fell out of vogue during the early days of the Flood, with the last major film for nearly a decade, ''The Donald'' (2025), serving as a docudrama of Donald Trump's life, focusing heavily on his rise to the Presidency and his relationship with Russia.\n\n{{WIP}}\n[[Category:Scandals]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-11-24T07:59:26Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:WIP"
+          }
+        ],
+        "title": "Trump-Russia scandal",
+        "touched": "2024-11-24T07:59:26Z"
+      },
+      "962": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1481,
+        "length": 40,
+        "new": "",
+        "ns": 1,
+        "pageid": 962,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1481,
+            "slots": {
+              "main": {
+                "*": "What are virtuals and experience series?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-04T03:18:36Z"
+          }
+        ],
+        "title": "Talk:22nd Century/@comment-27084453-20151104031836",
+        "touched": "2015-11-04T03:18:36Z"
+      },
+      "963": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1489,
+        "length": 90,
+        "ns": 1,
+        "pageid": 963,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1488,
+            "revid": 1489,
+            "slots": {
+              "main": {
+                "*": "As of now, the timeline ends in 2160 until the timeline is fleshed out. We both know that.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-04T18:18:41Z"
+          }
+        ],
+        "title": "Talk:22nd Century/@comment-27084453-20151104175856",
+        "touched": "2015-11-04T18:18:41Z"
+      },
+      "964": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Entertainment"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Popular Culture"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Technology"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11337,
+        "length": 10280,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Quantum Capacitor"
+          },
+          {
+            "ns": 0,
+            "title": "Second Mexican-American War"
+          }
+        ],
+        "ns": 0,
+        "pageid": 964,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10769,
+            "revid": 11337,
+            "slots": {
+              "main": {
+                "*": "'''Virtuals''' are electronic games that involves human interaction with a tactile neural interface to generate sensory feedback through a computer. The word virtual is a shorthand term for virtual reality, and was a holdover term from several false starts and non-feedback VR that predated Tactile Neural Interfaces. Virtuals have become an art form and an industry. The virtual industry is by far the largest entertainment industry with, as of 2160, generated sales of 791 billion-USD annually systemwide.\n\n==History==\nEarly virtuals used interactive electronic devices with display visors and incorporated audio feedback. The earliest example is the 1985 DataGlove by VPL Research, but the first commercially successful interface--often considered to be the first successful virtual reality game console ever-- was the Oculus Rift by Oculus VR in 2016. The success of Oculus drove major players in the video game and movie industry to begin creating content for virtual reality interfaces. Valve, Sony, and Nintendo all raced to produce their own VR systems, while Microsoft partnered with Oculus.\n\nThe 2020s saw a surge in investment in VR companies, but a lack of high quality content from major game developers, and a market more interested in mobile games, contributed to VR failing to gain mass market adoption in the 2020s. Following the Crash of 2027, investment in VR gaming ground to a halt, and the technology would remain confined to VR arcades for many decades.\n\nIn 2085 startup Neurosystem became the first developer to make use of [[Quantum Capacitor|quantum computing]] technology used to conduct brain scans in the medical industry to construct a functional tactile neural interface for gaming. The mainstream success of Neurosystem's 2086 sword fighting game Sengoku Blade, marked the beginning of the golden age of sensory feedback virtuals and inspiring dozens of manufacturers to enter the market. The game inspired tactile neural interfaces to become prevalent in mainstream retailers.\n\nBy the end of the 2080s saw virtuals eclipse traditional video games, but also television series and movies production companies began using new motion capture technology to screen films virtually for maximum immersion. These would go on to become the first Experience Series where the viewer would be watching events take place from the perspective of someone in the crowd. In 2089 smart NPCs had become sufficiently advanced for some production houses to release Experience Series that users could directly interact with as a lead or self-insert character. That same year the first TV series were adapted for VR interaction.  \n\nBy 2090 the US military having been experimenting with virtuals as a means of educating soldiers in simulated combat scenarios without risking their lives, began testing time dilation perception technology to reduce the amount of realtime for a soldier to learn a skill or simulate an war-game. The technology would not enter the public domain until after the [[Second Mexican-American War]], but would go on to be adopted by a number of education centers as means of accelerated learning. By the middle of the 2110s it was common practice for universities to offer purely virtual courses and simulated internships, increasing employee productivity and experience in far less time.\n\n== Education and training==\nWhile virtual entertainment is the most profitable market for Virtuals and Experience series, virtuals are also widely used for education and training programs. Sports teams use virtuals to run practice games off-season across professional, college, and even high-school level teams. Many employers use virtuals to prepare employees for new tasks and job duties, as well as training themselves in company war-games. Experience feeds are often used in concert with these training programs to let teams or individuals test skills from the recorded experiences of previous individuals or teams. Militaries use these types of virtuals to not only simulate previously fought battles, but to reformat the tactics for new eras to drill new recruits and seasoned veterans for combat. Education centers use virtuals in concert with direct-downloads to place students in simulated projects and situations to test their practical application of mathematics, history, sociology, etc. Law schools employ virtual recreations of major court cases with the most prestigious schools creating detailed profiles for character AIs of judges, litigators, and even members of the jury. Architectural and Engineering schools operate almost entirely in virtual so that students can practice routine industry procedure and create buildings, vehicles, and entire cites.\n\n==Experience Series ==\nExperience Series gained popularity in the 2090s as a new class of virtual that enabled users to watch directed series or movies from any perspective they chose. While popular opinion of the era was that traditional actors would be rendered obsolete by the creation of Smart NPCs, Experience series saw the dawn of a new field of acting. It was no longer enough for an actor to project drama, they had to experience it to such a degree that someone watching could interface with their recorded emotional state and neural feedback and experience what the actors felt during their performance. During World War III, a popular form of Experience media came from battlefield recordings of soldiers in the field. Most news outlets prefer to use Experience feeds streamed directly from humans with backup memory drives as a means of emotionally connecting the public to events.\n\n== Popular Virtuals==\n\n*'''Sengoku Blade''' (2086) - First TNI Virtual. You play as a Samurai during the Sengoku period of Japan's feudal wars. One of the first Japanese games to achieve widespread success in the US in the years following World War III. \n*'''Realm of Avalon '''(2087) - Classic western fantasy game. Incorporated procedural boss systems made famous in the \"Shadow of Mordor\" series, but expanded it to include all NPCs. Players would not only shape the villains of the game, but their allies and support characters. Players would have to build up an army from a minor house in a fantasy Kingdom to challenge the ruling monarch.\n*'''Skychasers''' (2091) - Deiselpunk flight combat game set during the golden age of seaplane travel, with both real and fictional aircraft designs available to players.\n*'''Saga of the Haetae''' (2093)-- A fantasy RPG starring a teenage girl in the Korea-based kingdom of Asadal, who must join forces with the lion-like mythical beast known as Haetae to free her land from a tyrannical dictator.\n*'''Devil Dogs: Battle for the Pacific''' (2093) - Based on the 2049 non-Virtual video game of the same name. Set during WWII's Pacific theater, following a US Marine from Pearl Harbor to Okinawa.\n*'''X Day: War for Japan''' (2093) - Based on the 2053 non-Virtual video game of the same name. Set in an alternate World War II where the Trinity test is not successful and the US is forced to invade Japan. This virtual was made by the same studio responsible for the release of ''Devil Dogs: Battle for the Pacific''.\n*'''King Kong: Battle of Skull Island''' (2095)- A re-imagining of the classic 1933 version of ''King Kong,'' set in the Pacific theater of WWII. At various points, players control explorers, US soldiers, and Kong himself in the battle against Japanese forces who have landed on Skull Island.\n*'''Dracula: Vampire Wars''' (2096) - Based on the 2054 non-Virtual video game of the same name. Set during the Ottoman invasion of Romania. You play as Vlad the Impaler and battle as a Vampire against the Ottoman Empire.\n*'''Guns of Warsaw''' (2096) - Based on the 2058 non-Virtual video game of the same name. Set during the Battle of Poland. Player jumps between perspectives of Polish Army defenders, US Armored Infantry, and Hungarian partisans attempting to repel Coalition forces in the Eastern European theater of World War III.\n*'''Moon Over Chicago''' (2099) - Set in just before the Great Fire in Chicago, you play as a werewolf attempting to rescue his lover from a cult of religious fanatics. Featured some of the first body transformation engines, capitalizing on popularity of genetic modification.\n*'''Skinchangers''' (2101) - Set in an urban fantasy world, players take the role of Druid detectives, changing into animals (including such obscure species as elephant shrews, trap-jaw ants, hooded pitohuis, and Humboldt squid) to solve mysteries.\n*'''Epoch: Victoria '''(2103) - Most advanced simulation virtual of the era. Starts players off in 1840 and gives them the power to select and lead an existing nation or create a new one. Players can craft vehicles and weapons, infrastructure, and form alliances up to 1920.\n*'''Echoes of the Stars'' '''''<span>(2109) -</span> <span>A science-fiction game where players defend Earth from inter-dimensional monsters; a deliberate homage to classic anime such as </span>''Neon Genesis Evangelion''<span>.</span>\n*'''Epoch: Dynasties '''(2119) - Most advanced anthropology engine ever employed for a virtual. This strategy virtual let players select a region of the world and a time dated as far back as 10,000 BCE maximum. They can choose to either select an already-existed historical people/civilization, such as the Romans, Celts, Germanics, Greeks, Egyptians, Babylonians, Assyrians, Chinese, Indian, etc, or create an entirely new and fictional civilization from the ground up with accurate projections of the growth of other civilizations around the world and the impact of the player's civilization on global events from 10000 BCE up until the modern day of 2110s-2120s CE.\n*'''Beyond the Aether''' (2154) - An exploration game where the player can explore the Sol system and several other planets in the 2140s during the Terran Diaspora.\n*'''Ragnarok''' (2156) - An open world that takes place in a post-apocalyptic Sol system where the Third Mexican-American War lasted slightly longer that would eventually lead to the destruction of infrastructure and civilized society in the Sol system. The player assumes a role of a survivor waking up on Earth, 15 years after doomsday.\n\n[[Category:Entertainment]]\n[[Category:Technology]]\n[[Category:Popular Culture]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-06-28T23:02:41Z"
+          }
+        ],
+        "title": "Virtuals",
+        "touched": "2023-06-28T23:02:41Z"
+      },
+      "966": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1501,
+        "length": 49,
+        "ns": 1,
+        "pageid": 966,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1500,
+            "revid": 1501,
+            "slots": {
+              "main": {
+                "*": "I wonder if you could expand this page I created.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-05T00:54:37Z"
+          }
+        ],
+        "title": "Talk:Virtuals/@comment-27084453-20151105005423",
+        "touched": "2015-11-05T00:54:37Z"
+      },
+      "967": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2911,
+        "length": 46,
+        "ns": 1,
+        "pageid": 967,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2881,
+            "revid": 2911,
+            "slots": {
+              "main": {
+                "*": "Comparison could be made to John Quincy Adams.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-02-05T23:09:54Z"
+          }
+        ],
+        "title": "Talk:Cory Booker/@comment-27084453-20151105173933",
+        "touched": "2017-02-05T23:09:54Z"
+      },
+      "968": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2910,
+        "length": 58,
+        "ns": 1,
+        "pageid": 968,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2880,
+            "revid": 2910,
+            "slots": {
+              "main": {
+                "*": "Could you please eliminate the references to Jimmy Carter?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-02-05T23:09:54Z"
+          }
+        ],
+        "title": "Talk:Cory Booker/@comment-27084453-20151105194150",
+        "touched": "2017-02-05T23:09:54Z"
+      },
+      "970": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Images"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6020,
+        "length": 20,
+        "ns": 6,
+        "pageid": 970,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1522,
+            "revid": 6020,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Images]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:24:49Z"
+          }
+        ],
+        "title": "File:Blank Woman.png",
+        "touched": "2019-12-07T06:50:45Z"
+      },
+      "971": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1529,
+        "length": 52,
+        "new": "",
+        "ns": 0,
+        "pageid": 971,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1529,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Geographic coordinate system]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:05:17Z"
+          }
+        ],
+        "title": "Geographic coordinate system",
+        "touched": "2015-11-07T06:05:17Z"
+      },
+      "972": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1530,
+        "length": 49,
+        "new": "",
+        "ns": 0,
+        "pageid": 972,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1530,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Global Positioning System]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:06:03Z"
+          }
+        ],
+        "title": "Global Positioning System",
+        "touched": "2015-11-07T06:06:03Z"
+      },
+      "973": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1531,
+        "length": 53,
+        "new": "",
+        "ns": 0,
+        "pageid": 973,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1531,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Telephone numbers in Cameroon]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:06:54Z"
+          }
+        ],
+        "title": "Telephone numbers in Cameroon",
+        "touched": "2015-11-07T06:06:54Z"
+      }
+    }
+  }
+}

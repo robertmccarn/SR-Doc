@@ -1,0 +1,139 @@
+---
+page_id: 870
+revision_id: 1189
+source_url: https://second-renaissance.fandom.com/wiki/Module%3ASection_link
+raw_sha256: b366f07259a4ca99021f980e03d53ee9cf71e40edd03f1e25fee8257f18758d6
+---
+
+# Module:Section link
+
+## Preserved source
+
+```wikitext
+-- This module implements {{section link}}.
+
+local checkType = require('libraryUtil').checkType
+
+local p = {}
+
+local function makeSectionLink(page, section, display)
+	display = display or section
+	page = page or ''
+	return string.format('[%s](1041-s.md)', page, section, display)
+end
+
+function p._main(page, sections, options, title)
+	-- Validate input.
+	checkType('_main', 1, page, 'string', true)
+	checkType('_main', 3, options, 'table', true)
+	if sections == nil then
+		sections = {}
+	elseif type(sections) == 'string' then
+		sections = {sections}
+	elseif type(sections) ~= 'table' then
+		error(string.format(
+			"type error in argument #2 to '_main' " ..
+			"(string, table or nil expected, got %s)",
+			type(sections)
+		), 2)
+	end
+	options = options or {}
+	title = title or mw.title.getCurrentTitle()
+
+	-- Deal with blank page names elegantly
+	if page and not page:find('%S') then
+		page = nil
+		options.nopage = true
+	end
+
+	-- Make the link(s).
+	local isShowingPage = not options.nopage
+	if #sections <= 1 then
+		local linkPage = page or ''
+		local section = sections[1] or 'Notes'
+		local display = '§&thinsp;' .. section
+		if isShowingPage then
+			page = page or title.prefixedText
+			display = page .. ' ' .. display
+		end
+		return makeSectionLink(linkPage, section, display)
+	else
+		-- Multiple sections. First, make a list of the links to display.
+		local ret = {}
+		for i, section in ipairs(sections) do
+			ret[i] = makeSectionLink(page, section)
+		end
+
+		-- Assemble the list of links into a string with mw.text.listToText.
+		-- We use the default separator for mw.text.listToText, but a custom
+		-- conjunction. There is also a special case conjunction if we only
+		-- have two links.
+		local conjunction
+		if #sections == 2 then
+			conjunction = '&#8203; and '
+		else
+			conjunction = ', and '
+		end
+		ret = mw.text.listToText(ret, nil, conjunction)
+
+		-- Add the intro text.
+		local intro = '§§&thinsp;'
+		if isShowingPage then
+			intro = (page or title.prefixedText) .. ' ' .. intro
+		end
+		ret = intro .. ret
+
+		return ret
+	end
+end
+
+function p.main(frame)
+	local args = require('Module:Arguments').getArgs(frame, {
+		wrappers = 'Template:Section link',
+		valueFunc = function (key, value)
+			value = value:match('^%s*(.-)%s*$') -- Trim whitespace
+			-- Allow blank first parameters, as the wikitext template does this.
+			if value ~= '' or key == 1 then
+				return value
+			end
+		end
+	})
+
+	-- Sort the arguments.
+	local page
+	local sections, options = {}, {}
+	for k, v in pairs(args) do
+		if k == 1 then
+			-- Doing this in the loop because of a bug in [Module:Arguments](585-module-arguments.md)
+			-- when using pairs with deleted arguments.
+			page = v
+		elseif type(k) == 'number' then
+			sections[k] = v
+		else
+			options[k] = v
+		end
+	end
+
+	-- Compress the sections array.
+	local function compressArray(t)
+		local nums, ret = {}, {}
+		for num in pairs(t) do
+			nums[#nums + 1] = num
+		end
+		table.sort(nums)
+		for i, num in ipairs(nums) do
+			ret[i] = t[num]
+		end
+		return ret
+	end
+	sections = compressArray(sections)
+
+	return p._main(page, sections, options)
+end
+
+return p
+```
+
+## Provenance
+
+Raw source: `bronze/pages/870/1189.wikitext` · revision `1189` · [upstream](https://second-renaissance.fandom.com/wiki/Module%3ASection_link)

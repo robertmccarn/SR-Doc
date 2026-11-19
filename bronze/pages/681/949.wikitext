@@ -1,0 +1,11 @@
+<noinclude>
+This sandbox is itself a template. This sandbox is for experimenting with templates.
+{{Please leave this line alone (template sandbox heading)}}
+
+
+If you defined parameters such as <tt><nowiki>{{Template sandbox|First|Second|name="Named"}}</nowiki></tt>:
+;First:{{{1}}}
+;Second:{{{2}}}
+;Name:{{{name}}}
+
+----</noinclude>

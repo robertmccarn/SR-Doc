@@ -1,0 +1,56 @@
+{{Infobox election
+|election_name = United States presidential election, 2156
+|country = United States
+|type = presidential
+|ongoing = no
+| flag_year = 2132
+|previous_election = United States presidential election, 2148
+|previous_year = 2148
+|next_election = United States presidential election, 2156
+|next_year = 2156
+|election_date = November 7, 2152
+| votes_for_election         = All eligible voters who turned out
+| needed_votes               = 51% of votes
+| turnout                    = 75.7%
+|image1 = [[File:Zaya_Blank.png|121px|border]]
+|nominee1 = '''[[Ha-eun Zaya]]'''
+|party1 = Union
+|home_state1 = [[Jupiter|Xibala]]
+|running_mate1 = '''Joaquin Vega'''
+|office = 
+|popular_vote1 = '''1,500,400,000'''
+|percentage1 = '''48.4%'''
+| image4 = [[File:Blank_Person.jpg|121px|border]]
+| nominee4 = Dell Cortes
+| party4 = Progress
+| home_state4 = [[Mars|Cleopatra]]
+| running_mate4 = Tom Merryl
+| popular_vote4 = 375,100,000
+| percentage4 = 12.1%
+| image5 = [[File:Blank_Woman.png|121px|border]]
+| nominee5 = Halley Roxford
+| party5 = Libertarian
+| home_state5 = [[Earth|Wales]]
+| running_mate5 = Tesla Jones
+| popular_vote5 = 328,600,000
+| percentage5 = 10.6%
+|image2 = [[File:Blank_Person.jpg|121px|border]]
+|nominee2 = Roger Moran
+|party2 = Conservative
+|home_state2 = [[Luna|North Apollo]]
+|running_mate2 = Yuri Blanco
+|office =
+| popular_vote2 = 933,100,000
+| percentage2 = 30.1%
+|title = President
+|title = President
+|before_election = [[Ha-eun Zaya]]
+|before_party = Union
+| after_election = [[Ha-eun Zaya]]
+| after_party = Union
+}}
+
+
+
+The '''United States presidential election of 2152''' was the 92nd quadrennial presidential election. Incumbent [[Ha-eun Zaya]] won re-election. Shortly after the election, the Libertarian Party disbanded.
+[[Category:United States Presidential Elections]]

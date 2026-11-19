@@ -1,0 +1,23 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><div class=\"hatnote\"><a href=\"/wiki/Template:Native_phrase\" title=\"Template:Native phrase\">Template:Native phrase</a> redirects here.</div>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:Native name/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6TmF0aXZlX25hbWUvZG9jP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">Template:Native_name/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:Native name/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6TmF0aXZlX25hbWUvZG9jP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">Template:Native name/doc</span></div>\n<!-- \nNewPP limit report\nCached time: 20261119205818\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.032 seconds\nReal time usage: 0.044 seconds\nPreprocessor visited node count: 13/1000000\nPost‐expand include size: 559/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nLua time usage: 0.005/7.000 seconds\nLua memory usage: 640029/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   33.051      1 -total\n 88.16%   29.139      1 Template:Hatnote\n 10.84%    3.583      1 Template:Documentation\n  3.53%    1.166      1 Template:Native_name/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:2366-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205818 and revision id 6851. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Native phrase",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Native name/doc",
+      "ns": 10
+    }
+  ],
+  "page_id": 2366,
+  "revision_id": 6851,
+  "title": "Template:Native name"
+}

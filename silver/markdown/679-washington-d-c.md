@@ -1,0 +1,22 @@
+---
+page_id: 679
+revision_id: 3507
+source_url: https://second-renaissance.fandom.com/wiki/Washington%2C_D.C.
+raw_sha256: 216feb8bd1e1628fc31cce78e41747c6f8ea2ec63545a0a8b5d01278d5141dec
+---
+
+# Washington, D.C.
+
+## Preserved source
+
+```wikitext
+[thumb|220x220px](1491-file-washington-dc-2133-by-ynot1989-daeykff-png.md)
+Washington, D.C., formally the District of Columbia and commonly referred to as "Washington", "the District", or simply "D.C.", is the capital of the United States. The signing of the Residence Act on July 16, 1790, approved the creation of a capital district located along the Potomac River on the country's East Coast. The U.S. Constitution provided for a federal district under the exclusive jurisdiction of the Congress and the District is therefore not a part of any U.S. state.
+
+The states of Maryland and Virginia each donated land to form the federal district, which included the pre-existing settlements of Georgetown and Alexandria. Named in honor of George Washington, the City of Washington was founded in 1791 to serve as the new national capital. In 1846, Congress returned the land originally ceded by Virginia; in 1871, it created a single municipal government for the remaining portion of the District.
+[Category:Capital Cities and Districts](https://second-renaissance.fandom.com/wiki/Category:Capital_Cities_and_Districts)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/679/3507.wikitext` · revision `3507` · [upstream](https://second-renaissance.fandom.com/wiki/Washington%2C_D.C.)

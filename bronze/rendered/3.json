@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "*": "Templates",
+      "sortkey": "PD"
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><div class=\"boilerplate\" id=\"c-fairuse\" style=\"width:90%; margin:0 auto; padding:10px; border:1px solid #A8ACA8; background:#FFFFCC; color:#000;\">\n<p><i><b>This file is in the public domain</b></i>\n</p>\n</div>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <a href=\"/wiki/Template:PD/doc\" title=\"Template:PD/doc\">Template:PD/doc</a> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<dl><dt>Description</dt>\n<dd>This template is used to mark images as being in the public domain.</dd>\n<dt>Syntax</dt>\n<dd>Type <code>{{<strong class=\"mw-selflink selflink\">PD</strong>}}</code> on the image information page.</dd></dl></div>\n<!-- \nNewPP limit report\nCached time: 20261119205334\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.014 seconds\nReal time usage: 0.025 seconds\nPreprocessor visited node count: 181/1000000\nPost‐expand include size: 929/2097152 bytes\nTemplate argument size: 64/2097152 bytes\nHighest expansion depth: 8/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 4/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   15.442      1 Template:Documentation\n100.00%   15.442      1 -total\n 84.78%   13.092      1 Template:PD/doc\n 51.87%    8.010      1 Template:T\n 29.53%    4.560     20 Template:T/piece\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:3-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205334 and revision id 3. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:PD/doc",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    }
+  ],
+  "page_id": 3,
+  "revision_id": 3,
+  "title": "Template:PD"
+}

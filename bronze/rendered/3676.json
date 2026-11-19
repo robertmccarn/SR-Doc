@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "*": "Exosolar_Polities",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"infobox geography vcard\" style=\"width:22em; font-size:88%;\"><tbody><tr class=\"adr\">\n         <th colspan=\"3\" class=\"mergedtoprow\" style=\"text-align:center;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;\"><span class=\"fn org country-name\">United Alo Protectorate</span><br /></th>\n       </tr><tr class=\"mergedtoprow\"><td colspan=\"2\"><b>Capital</b></td><td>Sansomi</td></tr><tr>\n         <th colspan=\"2\" style=\"white-space:nowrap;\">Local languages</th>\n         <td>Low Osomi, Mulian, others.</td>\n       </tr><tr>\n         <th colspan=\"2\">Government</th>\n         <td>Supranational political, economic, and collective defense organization (de jure)<br /> Confederated presidential republic (de factor)</td>\n       </tr><tr class=\"mergedrow\">\n         <td style=\"width:1.0em;padding:0 0 0 0.6em;\">&#160;-&#160;</td>\n         <td style=\"padding-left:0;\">Chairman</td>\n         <td></td>\n       </tr><tr class=\"mergedbottomrow\">\n         <td style=\"width:1.0em;padding:0 0 0 0.6em;\">&#160;-&#160;</td>\n         <td style=\"padding-left:0;\">Chancellor</td>\n         <td></td>\n       </tr><tr>\n         <th colspan=\"2\">Legislature</th>\n         <td>Great Conference</td>\n       </tr><tr class=\"mergedbottomrow\">\n         <td style=\"width:1.0em;padding:0 0 0 0.6em;\">&#160;-&#160;</td>\n         <td style=\"padding-left:0;\"><a href=\"https://en.wikipedia.org/wiki/Lower_house\" class=\"extiw\" title=\"wikipedia:Lower house\">Lower house</a></td>\n         <td>General Assembly</td>\n       </tr><tr><th colspan=\"3\">Unification</th></tr><tr class=\"mergedtoprow\">\n         <th colspan=\"3\">Population</th>\n       </tr><tr class=\"mergedrow\">\n            <td style=\"width:1.0em;padding:0 0 0 0.6em;\">&#160;-&#160;</td>\n            <td style=\"padding-left:0;\">2160&#160;estimate</td>\n            <td>8.4 Billion</td>\n          </tr><tr>\n         <th colspan=\"2\" style=\"vertical-align:middle;\">Currency</th>\n           <td>UAP Mulo </td>\n       </tr></tbody></table>\n<p>The <b>United Alo Protectorate</b> or <b>UAP</b> is a supranational and intergovernmental military and trade confederation of the <a href=\"/wiki/Argommi\" title=\"Argommi\">Argommi</a>. It is nominally centered on <a href=\"/wiki/Alo\" title=\"Alo\">Alo</a>'s southern continental masses of Osomi and Haklo, however it is in the process of colonizing other planets and moons of its star system.\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119210018\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.013 seconds\nReal time usage: 0.019 seconds\nPreprocessor visited node count: 421/1000000\nPost‐expand include size: 4297/2097152 bytes\nTemplate argument size: 642/2097152 bytes\nHighest expansion depth: 8/100\nExpensive parser function count: 2/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    7.971      1 Template:Infobox_country\n100.00%    7.971      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:3676-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119210018 and revision id 11215. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Politics of United Alo Protectorate",
+      "ns": 0
+    },
+    {
+      "*": "Demographics of United Alo Protectorate",
+      "ns": 0
+    },
+    {
+      "*": "Alo",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Argommi",
+      "exists": "",
+      "ns": 0
+    }
+  ],
+  "page_id": 3676,
+  "revision_id": 11215,
+  "title": "United Alo Protectorate"
+}

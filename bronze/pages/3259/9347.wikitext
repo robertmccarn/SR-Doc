@@ -1,0 +1,7 @@
+Hi, welcome to {{SITENAME}}! I'm a member of FANDOM's Community Support team. Thank you for your edit to [[:United States presidential election, 2020]]!
+
+It looks as though none of the admins for this community are active right now, but if you need help, check out our [[Help:Contents|help pages]] or stop by [[w:c:community:main page|Community Central]] to explore our [[w:c:community:Special:Forum|forums]].
+
+And don't forget to check out [[w:c:community:Wikia_University|FANDOM University]] for quick how-to videos.
+
+Enjoy your time at {{SITENAME}}!<ac_metadata title="Welcome to Second Renaissance Wikia!"> </ac_metadata>

@@ -1,0 +1,41 @@
+{{Infobox country
+|conventional_long_name = Hong Kong
+|national_motto = 
+|national_anthem = 
+|capital = [[Wikipedia:Admiralty, Hong Kong|Admiralty]]
+|largest_city = [[Wikipedia:Sha Tin District|Sha Tin District]]
+|official_languages = [[Wikipedia:Cantonese|Cantonese]] and English
+|national_languages = [[Wikipedia:Mandarin Chinese|Mandarin Chinese]], [[Wikipedia:Hakka Chinese|Hakka Chinese]], [[Wikipedia:Min Chinese|Min Chinese]]
+|demonym = HongKonger
+|languages_type = 
+|lang_others= 
+|government_type =
+|leader_title1 = 
+|leader_name1 = 
+|legislature = 
+|upper_house = 
+|lower_house = 
+|established_event1 = 
+|sovereignty_type = 
+|established_date1 = 
+|area_rank =
+|area_sq_mi = 426
+|population_estimate = 8.04 million
+|population_estimate_year = 2100
+|population_estimate_rank = 
+|currency = United States dollar ($)
+|currency_code = USD
+|image_flag = Hong Kong China Flag.png
+|image_coat = 
+|image_map = 
+|leader_title2 = 
+|leader_name2 = 
+}}
+'''Hong Kong''' (/ˈhɒŋkɒŋ/ ([[Wikipedia:American English|US]]) or /hɒŋˈkɒŋ/ ([[Wikipedia:British English|UK]]); [[Wikipedia:Chinese language|Chinese]]: 香港, [[Wikipedia:Cantonese|Cantonese]]: [hœ́ːŋ.kɔ̌ːŋ]) is a city-state on the eastern [[Wikipedia:Pearl River Delta|Pearl River Delta]] in Southern China. With 8.04 million residents of various nationalities in a 1,104-square-kilometre (426 sq mi) territory, Hong Kong is one of the most densely populated places in the world. Hong Kong is also a major global financial centre and one of the most developed cities in the world. 
+
+Hong Kong was established as a colony of the [[Wikipedia:British Empire|British Empire]] after the [[Wikipedia:Qing Empire|Qing Empire]] ceded [[Wikipedia:Hong Kong Island|Hong Kong Island]] from [[Wikipedia:Bao'an County|Xin'an County]] at the end of the [[Wikipedia:First Opium War|First Opium War]] in 1841 then again in 1842. The colony expanded to the [[Wikipedia:Kowloon Peninsula|Kowloon Peninsula]] in 1860 after the [[Wikipedia:Second Opium War|Second Opium War]] and was further extended when Britain obtained a 99-year lease of the [[Wikipedia:New Territories|New Territories]] in 1898. [[Wikipedia:British Hong Kong|British Hong Kong]] was occupied by [[Wikipedia:Empire of Japan|Imperial Japan]] from 1941 to 1945 during [[Wikipedia:World War II|World War II]]; British administration resumed after the surrender of Japan. The whole territory was transferred to the [[People's Republic of China]] in 1997. Hong Kong was ''de facto'' independent from 2031 to 2058, before joining the [[United Federation of China]] in 2058. After the Third Chinese Civil War broke out in 2105, Hong Kong was occupied by [[U.S. planetary commonwealth|US]] [[United States Army|forces]] aiming to secure crucial economic interests in China. The American occupation lasted until 2140. During American Occupation the city was designated as a [[Wikipedia:Territories of the United States|territory]]. In 2140, Hong Kong joined the [[Association of East-Asia|Association of East Asia]] and was incorporated into the Guangdong Province as a special municipality.
+
+Originally a sparsely populated area of farming and fishing villages, the territory has become one of the world's most significant financial centres and commercial ports. It is the world's tenth-largest exporter and ninth-largest importer. Hong Kong has a market economy characterised by a focus on services, low taxation and free trade; its currency, the Hong Kong dollar, is the eighth most traded currency in the world. Hong Kong is home to the third-highest number of billionaires of any city in the world, the second-highest number of billionaires of any city in Asia, and the largest concentration of ultra high-net-worth individuals of any city in the world. Although the city has one of the highest per capita incomes in the world, severe income inequality exists among the population. 
+
+Hong Kong is a highly developed city and ranks fourth on the UN Human Development Index. The city has the largest number of skyscrapers of any city in the world, and its residents have some of the highest life expectancies in the world. The dense space has led to a highly developed transportation network with public transport rates exceeding 90%. Hong Kong was ranked 3rd in the Global Financial Centres Index before the [[Third Chinese Civil War]].
+[[Category:China]]

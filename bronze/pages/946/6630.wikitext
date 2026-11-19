@@ -1,0 +1,61 @@
+{{Infobox former country
+ | conventional_long_name = Intermarium
+ | native_name = ''Międzymorze''
+ | common_name =
+ | _noautocat = yes
+ | status = [[Wikipedia:Collective security#Collective defense|Military alliance]]
+ | continent = The Americas
+ | era = [[Mexican-American Cold War]]
+ | event_start =
+ | year_start = 2102
+ | date_start =
+ | event_end =
+ | year_end = 2139
+ | date_end =
+ | event1 = 
+ | date_event1=
+ | event2 = 
+ | date_event2 =
+ | image_flag  = Intermarium_Flag.png
+ | image_map2  = 2132_The_Last_War.png
+ | image_map2_caption = {{plainlist | style = padding-left: 0.6em; text-align: left; |
+*{{color box|#63B74E}} US Allies
+*{{color box|#2AACF6}} '''LAU'''
+*{{color box|#00FFFF}} Mexican Allies
+*{{color box|#C6BDC7}} Neutral powers}}
+----
+{{plainlist | style = padding-left: 0.6em; text-align: left; |
+*{{flag|Poland|size=22px}}
+*{{flag|Hungary|size=22px}}
+*{{flag|Romania|size=22px}} 
+*{{flag|Czech Republic|size=22px}} 
+*{{flag|Slovakia|size=22px}} 
+*{{flag|Finland|size=22px}} 
+*{{flag|Russia|size=22px}} 
+*{{flag|Ukraine|size=22px}} 
+*{{flag|Don Republic|size=22px}}
+*{{flag|Crimea|size=22px}}  
+*{{flag|Georgia|size=22px}}  
+*{{flag|Azerbaijan|size=22px}} 
+*{{flag|Armenia|size=22px}} 
+*{{flag|Slovenia|size=22px}} 
+*{{flag|Croatia|size=22px}} 
+*{{flag|Vojvodina|size=22px}} 
+*{{flag|Srpska|size=22px}} 
+*{{flag|Circassian|size=22px}} 
+*{{flag|Tartar Republic|size=22px}} 
+*{{flag|Bashkiria|size=22px}} 
+*{{flag|Brandenburg|size=22px}}
+*{{flag|Saxony|size=22px}} 
+*{{flag|Bavaria|size=22px}}
+*{{flag|Austria|size=22px}} 
+ }}}}
+
+The '''Intermarium''' was a military and economic alliance of several Eastern European States. Born out of a desire for regional stability following the collapse of the Mediterranean Union, the Intermarium was formally established under the Second Treaty of Visegrad on 1 November 2102 upon the foundations of the pre-existing Visegrad Group.
+
+The Intermarium traces its origins back to World War I when Polish leader Józef Piłsudski proposed the creation of a federation, under Poland's aegis, uniting Eastern Europe in common defense against Germany and Russia. Since then the union has grown in size through the accession of 
+new countries, and new policy areas have been added to the remit of the Intermarium's institutions.
+
+== Politics ==
+The Intermarium Council in Visegrad is dominated by the Poles, by far the strongest military and economic power of the bloc.
+[[Category:European Organizations]]

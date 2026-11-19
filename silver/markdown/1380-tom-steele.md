@@ -1,0 +1,70 @@
+---
+page_id: 1380
+revision_id: 11636
+source_url: https://second-renaissance.fandom.com/wiki/Tom_Steele
+raw_sha256: ce923a22c8434d025fa6702bc8d39e14ecd4001329b572adc18f6972ff4f95f4
+---
+
+# Tom Steele
+
+## Preserved source
+
+```wikitext
+{{Infobox officeholder
+|name=Tom Steele
+|image=Tom_Steele_.png
+|imagesize=265px
+|alt=
+|caption=
+|order=[59th](214-president-of-the-united-states.md)
+|office=President of the United States
+|vicepresident=Lala Somerfield
+|predecessor=[Seras Stultz](1383-seras-stultz.md)
+|successor=[Estela La Riva](1379-estela-la-riva.md)
+|birth_date=October 14, 2049
+|birth_place=Ontario
+|death_date=March 28, 2159 (aged 109)
+|death_place=Alberta
+|nationality=American
+|party=[Horizon](3689-horizon-party-united-states.md)
+|spouse= 
+|children=
+|religion= Episcopalianism
+|profession=Civil Servant<br />Politician
+|termend = January 20, 2105
+|termstart = January 20, 2097}}'''Thomas "Tom" Cartwright Steele''' (October 14, 2049 – March 28, 2159) was the 59th President of the United States from 2097 until 2105. Prior to entering politics, he served as the youngest Chairman of the Joint Chiefs of Staff during the Second Mexican War.
+
+# Election of 2096
+President Anderson, symbolizing a broad-based desire for a Steele candidacy for president, approached Steele in 2094 and pressed him to run for the office as a Progressive. Steele had been privately looking into a run for the White House since 2092, and revealed to Anderson that he and his family were largely [Conservatives](310-conservative-party-united-states.md) before the creation of the [Horizon Party](3689-horizon-party-united-states.md). Steele announced his candidacy in April 2096, citing his opposition to what he perceived as a directionless foreign policy of President Stultz. Steele easily defeated his more conservative rivals for the nomination, and ran on a campaign of centrism which largely appealed to a country that had grown tired of Stultz's partisanship. To balance out some of the more right wing elements in his party, Steele chose Lala Somerfield as his Vice President, knowing that concerns over his youth may be balanced out by the senior Somerfield.
+
+He defeated President Seras Stultz's bid for re-election in a landslide, with 61% of the vote, the and was the second choice of almost 73% of the electorate. In the election he also brought with him a Horizon-Libertarian majority in the House (by twelve votes) and in the Senate (by two votes).
+
+Steele was the only general to serve as President in the 21st century and was the most recent President to have never held elected office prior to the Presidency since [Donald Trump](https://second-renaissance.fandom.com/wiki/Donald_Trump); the other Presidents who did not have prior elected office were Zachary Taylor, Ulysses S. Grant, William Howard Taft, Herbert Hoover,and Dwight D. Eisenhower.
+
+# Presidency
+## '''[Guardiola Incident](822-guardiola-incident.md)'''
+Steele had been critical of the Stultz administration's lackluster response to the Guardiola threat against the Cislunar Colonies, and had voiced a willingness to directly engage the Guardiola's and the Mediterranean Union. However, upon entering office, Steele downplayed his desire to combat Guardiola attacks against civilian orbitals with the US Space Force, and instead pushed for the Planetary Guard forces to take the lead in combating attacks on Cislunar colonies, even if they were launched from Earth.
+
+In the Spring of 2099, the Steele faced the greatest crisis of his Presidency when Roma Guardiola launched a force of 8000 Guardiola Specialists and some 15 assault ships to wage war against the Orbitals and Lunar colonies. Steele publicly admonished the MU and branded the Guardiola's a terrorist organization, seizing Guardiola assets in the United States and their allied nations. However, Steele, still refused to directly engage, knowing that a conflict with the MU would lead to a war with Mexico that would tear the country apart. Throughout the conflict, Steele directly engaged with Mexico, Mediterranean, and Colonial leaders to find a resolution to the crisis that would prevent a war on Earth. Steele accomplished this by sending intelligence and material support to the colonies, and getting Mexico to pass a limited sanction against the Guardiolas.
+
+By the new year, more than 100,000 people in the colonies had been killed as a result of the conflict, and Steele's support among the populace was waning on Earth, and had turned to outright hostility in the colonies, leading to Steele deploying a limited blockade of MU ships suspected of harboring weapons for the Guardiolas. Despite this show of good faith, by January 2100, Planetary Guard commanders were devising an assault on the Guardiola stronghold in Catalonia. This action would have been the first invasion of a sovereign state by a colonial force, and would have been a political disaster for the Steele administration. With the threat of the colonies staging an unauthorized invasion and the overtures from ITC Chairman Akiyama, President Steele was able to convince Mexico to sanction a joint assault against the Guardiola stronghold on Earth without the involvement of the colonies. Later Mexico, the US, and the MU issued joint warrants for the arrest of the Guardiola Foundation's surviving members, finally leading to the colonies to stand down and withdraw to their own worlds.
+
+## '''Election of 2100'''
+Steele's resolution of the Guardiola Incident all but assured his re-election in 2100, however he would remain a much more controversial figure in the colonies for decades to come. Facing opposition from an attempted run for a non-consecutive second term by former President Stultz and the Progress party's nomination of Nebraska Governor Priya Sekun who had been critical of Steele's handling of the conflict up until its resolution. Steele won a 56% of the popular vote.
+
+## '''European Food Riots'''
+During the Guardiola's attack on the colonies, the Interplanetary Trade Commission began an unofficial blockade of the Mediterranean Union by redirecting shipments of food and goods produced in the colonies that normally would have been delivered to the Uganda tower. Steele, knowing this was an attempt at retribution that would no doubt lead to destabilizing the region attempted to force the ITC to continue regular deliveries to the Uganda tower via executive order directing the Space Force to serve as escorts, acknowledging the heightened security risks cited by the colonies. Despite Steele's executive order, colony ships did not return to Earth at pre-Incident levels until 2102. The ITC claimed this was the result of the initial reduction in O'Neil ship traffic to Earth which were redirected to other locations in the solar system that made it more difficult for them to be directed back to Earth. No matter the reason, the end result was food shortages across Africa and Europe.
+
+By 2100 Riots had broken out across northern Europe over food shortages. The worst of these riots eventually deposed the German government, sending the country into chaos that only made the broader European crisis worse. Successive revolutions in France, Austria, and Italy forced Steele to order the US military to intervene and restore order. With a major invasion in France, and smaller operations across the continent, Steele functionally spent the bulk of his second term trying to hold Europe together with endless operations in Germany, propping up breakaway Republics, and effectively surrendering half the country to Poland. By the time O'Neil ship traffic had begun to normalize, Sicily's government dissolved following public outcry over rising food prices. The MU itself was plagued by populist uprisings that would continue well past Steele's Presidency.
+
+## '''[Second Vietnam War](1373-second-vietnam-war.md)'''
+In 2102 Vietnamese President Nguyen Tan Luong was captured in a military coup organized by Mexican backed forces within the Vietnamese military. Seeking to contain Mexico's destabilizing efforts in Asia, Steele pushed for China, the Philippines, Thailand, and Indonesia to join the US in a coalition effort to invade and return Luong to office and restore order. By the time Steele left office, the Second Vietnam War had grown into a sectarian conflict and fallen out of favor with the American public. Luong had been killed in an assassination shortly after being freed from prison, and the Vietnamese government propped up by the US and China was revealed in 2104 to be selling weapons provided to them by the US on the black market.
+
+# Retirement, death and funeral
+Steele left office with his popularity falling in the face of an overextended military and several unpopular wars with no end in sight. While his image had recovered in somewhat by the Third Mexican War, he remains a controversial figure. Beyond Earth, he is consistently rated near the bottom in historical lists of American Presidents, while on Earth he tends to be remembered often with middling Presidents like William McKinley and Maya Garcia. Steele died in 2159 at the age of 110 after suffering a massive heart attack while hiking in northern Alberta. The former President's body was not discovered for nearly a week after his death and dissappearance. Doctors confirmed that he would have easily survived had he not been alone and had proper first aid.
+[Category:Presidents of the United States](https://second-renaissance.fandom.com/wiki/Category:Presidents_of_the_United_States)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1380/11636.wikitext` · revision `11636` · [upstream](https://second-renaissance.fandom.com/wiki/Tom_Steele)

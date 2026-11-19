@@ -1,0 +1,8 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><h2 class=\"MainpageHeaderSecondRenaissance\" style=\"padding:0.2em 0.4em; margin:10px 0 10px 0; border:1px solid #000; background:#2E5884; color:#FFF; font-size:120%; font-weight:bold; text-align:left; -moz-border-radius:0.2em;\"><span class=\"mw-headline\" id=\"Example_text\">Example text</span></h2>\n<h2><span class=\"mw-headline\" id=\"Documentation\">Documentation</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>Simple add <code>{{MainpageHeading|Text}}</code> to the mainpage, and replace \"Text\" with the text the heading should show.\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119205610\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.002 seconds\nReal time usage: 0.002 seconds\nPreprocessor visited node count: 12/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 24/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:1148-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205610 and revision id 1872. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [],
+  "page_id": 1148,
+  "revision_id": 1872,
+  "title": "Template:MainpageHeading SecondRenaissance"
+}

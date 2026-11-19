@@ -1,0 +1,31 @@
+---
+page_id: 2918
+revision_id: 8506
+source_url: https://second-renaissance.fandom.com/wiki/Template%3ATlc
+raw_sha256: e441b5861f3a950d1f9f308f8779aa8e7ef4412a7b16f8b1fd90576336eba48f
+---
+
+# Template:Tlc
+
+## Preserved source
+
+```wikitext
+<span class="nowrap"><code>{{#if:{{{a|}}}|<nowiki>* </nowiki>}}&#123;&#123;{{#if:{{{1|}}}|{{{1}}}| tlc&#124;...}}<!--
+-->{{#ifeq:{{{2|x}}}|{{{2|}}}| &#124;{{{2}}} | }}<!--
+-->{{#ifeq:{{{3|x}}}|{{{3|}}}| &#124;{{{3}}} | }}<!--
+-->{{#ifeq:{{{4|x}}}|{{{4|}}}| &#124;{{{4}}} | }}<!--
+-->{{#ifeq:{{{5|x}}}|{{{5|}}}| &#124;{{{5}}} | }}<!--
+-->{{#ifeq:{{{6|x}}}|{{{6|}}}| &#124;{{{6}}} | }}<!--
+-->{{#ifeq:{{{7|x}}}|{{{7|}}}| &#124;{{{7}}} | }}<!--
+-->{{#ifeq:{{{8|x}}}|{{{8|}}}| &#124;{{{8}}} | }}<!--
+-->{{#ifeq:{{{9|x}}}|{{{9|}}}| &#124;{{{9}}} | }}<!--
+-->&#125;&#125;</code></span><noinclude>
+
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>
+```
+
+## Provenance
+
+Raw source: `bronze/pages/2918/8506.wikitext` · revision `8506` · [upstream](https://second-renaissance.fandom.com/wiki/Template%3ATlc)

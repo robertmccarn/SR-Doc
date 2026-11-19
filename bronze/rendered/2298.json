@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "*": "Templates_for_merging",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"plainlinks ombox ombox-move\" style=\"\">\n<tbody><tr>\n<td class=\"mbox-empty-cell\"></td>\n<td class=\"mbox-text\" style=\"\"> [[Template:{{{page}}}]] is <b>being considered for merging with [[Template:{{{otherpage}}}]].</b> Please discuss this matter at [[{{{link}}}|<b>this template's entry</b>]] at templates for discussion to help reach a consensus.\n<hr />\n<i><small class=\"plainlinks\" style=\"line-height:1.3em;\"><a href=\"https://en.wikipedia.org/wiki/Maintenance\" class=\"extiw\" title=\"wikipedia:Maintenance\">Maintenance</a> use only:<br />1. [{{fullurl:{{{link}}}|action=edit&amp;editintro=Wikipedia:Templates_for_discussion/editnotice&amp;section=1}} Edit the Tfd log] to create the discussion entry.<br />2. Please consider notifying the <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Tfm/dated?action=history\">author(s)</a> by placing <span class=\"nowrap\"><code>{{<a href=\"https://community.fandom.com/wiki/Help:Substitution\" title=\"Help:Substitution\">subst</a>:<span class=\"new\" title=\"Template:Tfmnotice (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGZtbm90aWNlP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">Tfmnotice</span>&#124;{{{page}}}&#124;{{{otherpage}}}}}</code> ~~~~</span> on their talk page(s).</small></i> </td>\n\n</tr>\n</tbody></table>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:Tfm/dated/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGZtL2RhdGVkL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:Tfm/dated/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:Tfm/dated/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGZtL2RhdGVkL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:Tfm/dated/doc</span></div>\n\n<!-- \nNewPP limit report\nCached time: 20261119205811\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.067 seconds\nReal time usage: 0.088 seconds\nPreprocessor visited node count: 175/1000000\nPost‐expand include size: 6917/2097152 bytes\nTemplate argument size: 1895/2097152 bytes\nHighest expansion depth: 13/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 8/5000000 bytes\nLua time usage: 0.020/7.000 seconds\nLua memory usage: 677856/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   47.062      1 -total\n 70.73%   33.289      1 Template:Category_handler\n 21.42%   10.079      1 Template:Ombox\n 16.91%    7.957      1 Template:Ombox/core\n  7.05%    3.319      1 Template:Documentation\n  5.44%    2.562      1 Template:Tlx\n  2.60%    1.225      1 Template:FULLBASEPAGENAME\n  2.48%    1.167      1 Template:Tfm/dated/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:2298-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205811 and revision id 6542. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tfmnotice",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tfm/dated/doc",
+      "ns": 10
+    },
+    {
+      "*": "Help:Substitution",
+      "ns": 12
+    }
+  ],
+  "page_id": 2298,
+  "revision_id": 6542,
+  "title": "Template:Tfm/dated"
+}

@@ -1,0 +1,134 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Template:Infobox/doc | Second Renaissance</title><link rel="stylesheet" href="../assets/wiki.css"></head><body><header class="top"><a class="brand" href="../index.html">Second Renaissance Wikia</a><a href="../all-pages.html">Explore</a><a href="../categories.html">Categories</a><input id="search" class="search" placeholder="Search this wiki" oninput="findPage(this.value)"></header><div class="layout"><aside><h3>Navigation</h3><a href="../index.html">Main page</a><a href="../all-pages.html">All pages</a><a href="../categories.html">Categories</a><h3>Archive</h3><a href="../continuity.html">Continuity report</a><a href="../source-corpus.html">Source provenance</a></aside><main><h1 class="title">Template:Infobox/doc</h1><article class="article"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Infobox_and_template_background"><span class="tocnumber">1.1</span> <span class="toctext">Infobox and template background</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Building_blocks"><span class="tocnumber">1.2</span> <span class="toctext">Building blocks</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Other_notes"><span class="tocnumber">1.3</span> <span class="toctext">Other notes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Syntax"><span class="tocnumber">2</span> <span class="toctext">Syntax</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Samples"><span class="tocnumber">3</span> <span class="toctext">Samples</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This template is a sample infobox, to aid in the creation of new infoboxes.
+</p><p>Recommended usage: copy the template code to a new template page, and edit it there.
+</p>
+<h3><span class="mw-headline" id="Infobox_and_template_background">Infobox and template background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>See <a href="https://community.fandom.com/wiki/Help:Templates" title="Help:Templates">Help:Templates</a>, <a href="https://community.fandom.com/wiki/Help:Infobox" title="Help:Infobox">Help:Infobox</a> and <a href="https://community.fandom.com/wiki/Help:Tables" title="Help:Tables">Help:Tables</a> for some background on how templates and infoboxes work.
+</p>
+<h3><span class="mw-headline" id="Building_blocks">Building blocks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The infobox is made of the following basic building blocks:
+</p>
+<ul><li>Overall table class: <code>class="wikia-infobox"</code></li>
+<li>Table heading cell class: <code>class="wikia-infobox-header"</code></li>
+<li>Use row header marks ("<code>!</code>") for row title cells <i>(and "<code>|</code>" for normal cells)</i></li>
+<li>Section separator line: give the header below it a wrapping <code>div</code> with <code>class="wikia-infobox-section-header"</code></li>
+<li>Image cell class: <code>class="wikia-infobox-image"</code></li>
+<li>Image caption cell class: <code>class="wikia-infobox-caption"</code></li></ul>
+<h3><span class="mw-headline" id="Other_notes">Other notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>The Title, First, Second, and Third rows show <i>"Unknown"</i> if their values are not specified.</li>
+<li>The Image, Imagecaption, Fourth, Fifth, and Sixth rows won't show up if their values are not specified: they are each completely enclosed in an 'if' statement.</li></ul>
+<h2><span class="mw-headline" id="Syntax">Syntax</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<pre>{{infobox
+ | title         = 
+ | image         = [e.g. "Example.jpg"]
+ | imagewidth    = [e.g. "150"] [default: 210 pixels]
+ | imagecaption  = 
+ | first         =
+ | second        =
+ | third         =
+ | fourth        =
+ | fifth         =
+ | sixth         =
+}}
+</pre>
+<h2><span class="mw-headline" id="Samples">Samples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<pre>{{infobox
+ | title         = A pretty flower
+ | image         = Example.jpg
+ | imagewidth    = 100
+ | imagecaption  = Floweris flowerum
+ | first         = Pink and green
+ | second        = Outdoors
+ | fourth        = Annual
+}}
+</pre>
+<p>Results in...
+</p>
+<table class="wikia-infobox">
+
+
+<tbody><tr>
+<th class="wikia-infobox-header" colspan="2">A pretty flower
+</th></tr>
+<tr>
+<td class="wikia-infobox-image" colspan="2"><span typeof="mw:File"><a href="https://static.wikia.nocookie.net/ucp-internal-test-starter-commons/images/a/a9/Example.jpg/revision/latest?cb=20200817123015" class="mw-file-description image" title="Floweris flowerum"><img alt="Floweris flowerum" src="https://static.wikia.nocookie.net/ucp-internal-test-starter-commons/images/a/a9/Example.jpg/revision/latest/scale-to-width-down/100?cb=20200817123015" decoding="async" loading="lazy" width="100" height="100" class="mw-file-element" data-image-name="Example.jpg" data-image-key="Example.jpg" data-relevant="0" /></a></span>
+</td></tr>
+<tr>
+<td class="wikia-infobox-caption" colspan="2">Floweris flowerum
+</td></tr>
+<tr>
+<th colspan="2"><div class="wikia-infobox-section-header">Some attributes</div>
+</th></tr>
+<tr>
+<th>First
+</th>
+<td>Pink and green
+</td></tr>
+<tr>
+<th>Second
+</th>
+<td>Outdoors
+</td></tr>
+<tr>
+<th>Third
+</th>
+<td><i>Unknown</i>
+</td></tr>
+<tr>
+<th colspan="2"><div class="wikia-infobox-section-header">Other attributes</div>
+</th></tr>
+<tr>
+<th>Fourth
+</th>
+<td>Annual
+</td></tr>
+
+
+
+
+
+
+<tr style="font-size:0; line-height:0;">
+<th style="width:50%; padding:0">
+</th>
+<th style="width:50%; padding:0">
+</th></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20261119205354
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.014 seconds
+Real time usage: 0.019 seconds
+Preprocessor visited node count: 76/1000000
+Post‐expand include size: 825/2097152 bytes
+Template argument size: 125/2097152 bytes
+Highest expansion depth: 4/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 512/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    2.350      1 Template:Infobox
+100.00%    2.350      1 -total
+-->
+
+<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:22-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205354 and revision id 22. Rendering was triggered because: api-parse
+ -->
+</div></article><div class="meta">Mirrored from <a href="https://second-renaissance.fandom.com/wiki/Template%3AInfobox/doc">Fandom</a> · revision 22 · page ID 22</div></main></div><script src="../assets/wiki.js"></script></body></html>

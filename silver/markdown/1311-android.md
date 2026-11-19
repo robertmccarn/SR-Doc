@@ -1,0 +1,57 @@
+---
+page_id: 1311
+revision_id: 11667
+source_url: https://second-renaissance.fandom.com/wiki/Android
+raw_sha256: 01e38cf60c9df86019420ec23bd86b95ad4e3754b55c826bb357fb7b366b18e3
+---
+
+# Android
+
+## Preserved source
+
+```wikitext
+An android is a '''humanoid robot''' or '''synthetic organism''' designed to look and act like a human. While the term covers all autonomous machines with a humanoid appearance, since the 2050s the term has colloquially been used to refer to bio-androids.
+
+# History
+## '''Pre-twenty-first century'''
+Early attempts at humanoid robots were largely carried out as novelties or entertainment.
+
+## '''First android robots'''
+Research into humanoid robots accelerated in the early [21st Century](94-21st-century.md), however the bulk of the machines developed were used for little more than as novelties for corporate promotion of their developers. A famous example of this was Honda's ASIMO robot, which was developed over 30 years with no units ever becoming commercially available. Boston Dynamics achieved some early success in developing more robust methods for locomotion and navigation under the ATLAS program, but only achieved commercial success by marketing quadrupedal robots to the US military.
+
+[ATLAS Version 3 Prototype|thumb](1338-file-atlas-from-boston-dynamics-jpg.md)
+Early examples of humanoid robots for hospitality services did see earlier adoption by some companies, but these units are generally considered to be functionally indistinguishable from automatons.
+
+General purpose humanoid robots did not begin to become commercially available until the mid 2030s. For the most part these units were primarily used in the healthcare industry to augment nursing staff for the developed world's growing population of elderly and infirm people. The first commercially successful android for this purpose was actually developed from the old ATLAS program to augment military hospital staff. A series of technology transfer grants by the Defense Department spurred the adoption of this technology in the private sector. These machines were defined by electromagnetical actuators, lidar based vision systems, and early machine-learning based control software. They were initially quite costly, but government and private R&D programs eventually reduced costs to make it possible for many large companies and government organizations to outfit a sizable robotic workforce, however maintenance costs remained high with these early models.
+
+## '''Modern androids'''
+During the [Third World War](107-world-war-iii.md), the US government injected billions of dollars into robotics R&D, hoping to further augment US military forces with humanoid robotic infantry units. Earlier attempts prior to the conflict saw limited success in the field, but the war effort led to several major advances that would see the introduction of android infantry units. Among these advances was the creation of synthetic muscle fibers that were much more energy efficient than electromechanical actuators, and cheaper to maintain. Japan was the first to introduce large robotic infantry units, primarily for policing occupied territory. These early androids were slow, underpowered, and built to carry small arms. They had limited combat effectiveness, and were easily defeated by armored infantry.
+
+The US began ramping up production of their own android units after 2051, and had 100,000 in the field by 2052. Unlike their Japanese counterparts, these units were meant not just to police territory but augment human warriors. Some versions were even capable of operating [Armor](1111-armor.md), though not to the degree of humans. Early neural imprinting technology was used by the US to rapidly update android infantry with combat experience from humans and other android units, while machining learning systems allowed them to adapt and improve their combat effectiveness. Like most androids of this era, their durability was limited to keep costs low and prioritize versatility.
+
+Androids of this era made use of a combination of synthetic tissue and mechanical systems, with only specialized infiltration units being made out to appear human. Their limited ability to adapt to new situations is largely what spurred the development of [AIOS technology](1236-artificial-intelligence-operating-system.md), and significant advancements were made to reduce power consumption and cost.
+
+### '''Itskov-type androids'''
+''Main article: [Biorobotics boom](2618-biorobotics-boom.md)''
+
+In 2069, Caltec Professor Hiram Itskov, created the first robot with a neural net AI. This machine would go on to form the basis for all successive Itskov-type androids; general purpose robots that could accurately simulate human emotion and personality. Itskov's work would be adopted by North American Cybernetics, a minor producer of prosthetic during the War, but facing bankruptcy with the rise of more sophisticated tissue production systems from competitors. NAC used Itskov's research and surplus prosthesis to produce high quality androids for the service industry. NAC's androids proved to be a success in the market, but remained too costly for all but the wealthiest individuals to own. Thus, they were primarily used by businesses as hospitality agents and hospitals to supplement nursing staff, much as their less sophisticated predecessors were.
+
+By the 2070s, NAC and others were producing less expensive Itskov-type androids, however rival companies began introducing Daemons and Sprites to the market that were inexpensive enough for most middle-class families to buy, primarily for housekeeping and yard work. Itskov-type androids became primarily used as a replacement for humans in the corporate workforce. Lax software-update practices wherein companies modified their androids to operate continuously from tethered or wireless power sources, led to many androids, particularly those in customer-facing roles, developing consciousness. This only fueled a growing political movement that sought to curb the use of robotic labor in the face of rising unemployment, and in 2075 the United States became the first nation to restrict the use of Imprinted AI, and require regular cache purges of automated labor. Further restrictions on imprinted neural networks would culminate in an outright ban in 2081, and the breakup of NAC via the Sherman Anti-Trust Act.
+
+
+### '''Contemporary androids'''
+After the ban on imprinted neural networks, androids began to be produced excursively with Templated AI Operating systems. However, Imprinted AIs continued to be sold as black market goods for many decades. By the 2120s, androids had largely replaced the human workforce in the service and hospitality industries. Commercial android brothel chains became common in most cities, however human brothels remained a high demand service, viewed to be superior as the "real thing."
+
+Despite legal changes, marketing efforts, and a more diversified industry of android developers, demand for androids has continued to fall from their peak in the early 2080s. Sprites, Daemons, and other small biorobots have come to dominate the market, as they're cheaper and easier to conceal. Despite their decline in market share, Androids remain an essential technology in many industries.
+
+## Identification
+In most nations, androids are required to be visibly identifiable as such. This is typically achieved via a scannable tattoo applied to the forehead. Most tend to feature the logo of a business, government agency, family crest or circular calligraphy.
+[Category:Technology](https://second-renaissance.fandom.com/wiki/Category:Technology)
+[Category:Military Technology](1414-category-military-technology.md)
+[Category:21st Century](https://second-renaissance.fandom.com/wiki/Category:21st_Century)
+[Category:22nd Century](https://second-renaissance.fandom.com/wiki/Category:22nd_Century)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1311/11667.wikitext` · revision `11667` · [upstream](https://second-renaissance.fandom.com/wiki/Android)

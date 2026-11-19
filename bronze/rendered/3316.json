@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "*": "United_States_political_party_color_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": "National Union Party (US)/meta/color"
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>#B22222\n</p><p>This is the \"Firebrick\" red taken from predefined <span class=\"new\" title=\"Web colors (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvV2ViX2NvbG9ycz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">web colors</span> / <span class=\"new\" title=\"X11 colors (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvWDExX2NvbG9ycz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">X11 colors</span>.\n</p>\n<h2><span class=\"mw-headline\" id=\"Examples\">Examples</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<table>\n\n<tbody><tr style=\"color:#B22222\">\n<td><b>This color</b>\n</td></tr>\n<tr style=\"background:#B22222; color:white\">\n<td><b>White on this color</b>\n</td></tr>\n<tr style=\"background:#B22222; color:black\">\n<td><b>Black on this color</b>\n</td></tr></tbody></table>\n<h2><span class=\"mw-headline\" id=\"See_also\">See also</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><span class=\"new\" title=\"Template:Party shading/National Union (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6UGFydHlfc2hhZGluZy9OYXRpb25hbF9Vbmlvbj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:Party shading/National Union</span></li>\n<li><a href=\"/wiki/Template:Republican_Party_(US)/meta/color\" title=\"Template:Republican Party (US)/meta/color\">Template:Republican Party (US)/meta/color</a></li></ul>\n\n<!-- \nNewPP limit report\nCached time: 20261119205946\nCache expiry: 2592000\nReduced expiry: false\nComplications: [vary‐revision‐sha1]\nCPU time usage: 0.012 seconds\nReal time usage: 0.015 seconds\nPreprocessor visited node count: 272/1000000\nPost‐expand include size: 356/2097152 bytes\nTemplate argument size: 28/2097152 bytes\nHighest expansion depth: 5/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 4/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    3.855      1 -total\n 85.61%    3.300      2 Template:Political_party_color\n 18.13%    0.699      3 Template:National_Union_Party_(US)/meta/color\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:3316-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205946 and revision id 9435. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Republican Party (US)/meta/color",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Party shading/National Union",
+      "ns": 10
+    },
+    {
+      "*": "Web colors",
+      "ns": 0
+    },
+    {
+      "*": "X11 colors",
+      "ns": 0
+    }
+  ],
+  "page_id": 3316,
+  "revision_id": 9435,
+  "title": "Template:National Union Party (US)/meta/color"
+}

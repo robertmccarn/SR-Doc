@@ -1,0 +1,13 @@
+<nowiki>#CE1126</nowiki><noinclude>
+== Examples ==
+{|
+|- style="color:#CE1126"
+| '''This color'''
+|- style="background:#CE1126; color:white"
+| '''White on this color'''
+|- style="background:#CE1126; color:black"
+| '''Black on this color'''
+|}
+
+[[Category:Mexico political party colour templates|{{PAGENAME}}]]
+</noinclude>

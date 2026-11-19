@@ -1,0 +1,68 @@
+---
+page_id: 1106
+revision_id: 10065
+source_url: https://second-renaissance.fandom.com/wiki/Earth_Working_Group
+raw_sha256: b48f96fde4737e8e9275973c497622ac413246caef9b929941c50ee88a9bf20b
+---
+
+# Earth Working Group
+
+## Preserved source
+
+```wikitext
+The '''Earth Working Group''' commonly abbreviated as '''EWG,''' was a NGO founded in 2045 from a consortium of businesses, smaller NGOs and private individuals aimed at repairing Earth's ecosystem. The bulk of the EWGs staff were comprised of Terraforming engineers from Mars and Venus, on Earth for sabbaticals. These world builders believed that by applying the technology and skill used to terraform Mars and Venus, they could repair the Earth's biosphere.
+
+# Refreeze
+In 2054 the Earth Working Group positioned Mars Solar Reflectors in Earth Polar Orbit in a geoengineering projects to return global temperatures, and by extent sea levels to Pre-Anthropocene levels. The project was widely supported by most of the planet which had been adversely effected by the environmental devastation of the Flood, however the Arctic Nations stood in vehement opposition to the project. The solar reflectors would functionally block out the sun from heating the poles, reducing temperatures to return the polar caps to their Pre-Anthropocene extent. Only the southern tip of the Greenland Ice Sheet could not be recovered, as it was a remnant of the North American Glacier of the last Ice Age.
+
+## Megalakes
+[thumb|246x246px|African biospheres circa 2080.](2838-file-sahara-seas-png.md)
+To account for the left-over fresh water that could not be returned to Greenland, the EWG began a massive series of excavation projects around the world to restore the basins of ancient megalakes and inland seas. Peat and loose regolith were removed or compacted to form a more durable basin, and excess soil, sand, and rock were used to craft or expand hills in key locations to control the new biomes and keep erosion in check. Dry river beds were also dredged and in some cases built from scratch to maintain an effective hydrological cycle. These new megalakes were all the remnants of dry drainage basins found in the Sahara and Central Eurasia. Temporary aqueducts drained the water inland from enormous pumps built along the North African coast. These pumps removed salt from the water being sent to the new lakes, further resalinating the Oceans. Trees were planted along the new river beds and on hillsides to reduce local temperatures as well as erosion. This created a new rain cycle that turned large portions of the Sahara into savanna, which further cooled the planet and reduced anthropic green house gases. This period is known as the Refreeze because it marked mankind's effort to end the effects of Anthropologic Global Warming.
+
+The Refreeze brought with it the restoration of Earth's sea levels to their pre-anthropocene state, but also breathed new life into the Sahara. The new megalakes, inland seas, and rivers carved out of their prehistoric basins fed what has been called the Great Blossoming in Africa. Deserts turned to Savannah, and the new rivers fed farmland, while the inland seas brought fishing industry and the means to ship the bounty of Africa to Mediterranean ports. Riches from these long ignored lands fed a string of independence movements and wars, kept in check only by the Turks and occasionally the Americans. Despite this period of instability, the dynamism of the New Sahara attracted investments from Southern Europe. These investments in North African ports and shipping generated wealth that was in turn spent on goods from North Africa, which in turn spurred more growth.
+
+Lake Maghreb was originally planned to act as a temporary reservoir for several other smaller bodies of water located further inland, however the project was cut short and the far larger than planned Lake Maghreb has been slowly shrinking due to evaporation. It was only during the 2150s that the project was resumed and lake-water was pumped to its final destinations.
+
+## North Africa's Desalination.
+While the Earth Working Group healed the planet primarily by building new living systems and repairing old ones, the ocean required something more invasive. The loss of so much polar ice left Earth's oceans with dangerously low salinity, leading to extreme weather conditions and killing off all but the heartiest sea-life. Even after refreezing much of the polar cap (a process that removed a fair amount of fresh water simply though the hydrological process), Earth's oceans still contained too much fresh water. Draining the water directly into the Megalakes and inland seas in Africa wouldn't solve the problem, it would just move it, and leave the inland seas too brackish to support a fishing industry. As a result, a series of desalination plants were constructed along the North African Coast that would feed the temporary aqueducts fresh water for the megalakes. After 15 years, the megalakes were filled, and Earth's oceans were back to safe salinity levels.
+
+# Human Development Projects
+## New Tokyo
+Tokyo was probably the most devastating example of the destruction of the Flood, as the city was little more than a giant sandbar. A portion was saved thanks to hastily constructed sea walls, but a considerable portion was lost to the sea, and eroded by tidal forces. The largest reef in the world outside of the Great Barrier Reef is made up of the ruins of Tokyo. At the Geneva Peace Conference, one of the provisions to speed up Japan's surrender was that the Earth Working Group would rebuild Tokyo to house the returning Japanese citizens from the Extraterritorial Districts in Pacific Russia and [China](655-united-federation-of-china.md). The lost territory of the city was rebuilt literally from the bedrock up. Its practically one single structure anchored to the rock below, more than 2.5 kilometers below sea level. The original shrines and temples were recovered and preserved in their original locations in the new city, flanked by some of the tallest structures on Earth. Where the Tokyo of the 20th Century was a congested sprawl that no sane person would want to live in, the New Tokyo region is a modern mega-city with wide avenues bisecting huge towers that are cities unto themselves.
+
+## Greater N'Djamena
+The first human development project of the EWG, as per their agreement with the local government in Chad, N'Djamena would be expanded to an island port city in the expanded Lake Chad. Utilities, power, water filtration, ports and urban housing were expanded to turn N'Djamena into the crown jewel of Africa. Hundreds of thousands of people relocated to the city from the smaller settlements around the country, forming a cosmopolitan boom town.
+
+## New Shanghai
+After World War 3 China begged the EWG to bring back Shanghai since it was such an important city. Luckily with the help of Korea, Japan and the US. These nation with China lead the charge to bring Shanghai back. In 2087 when Shanghai was brought back , China celebrated the day with fireworks and now New Shanghai has become a city with 2.2 billion with its residents being the descendants who lived here at the time.
+
+## Wadi al-Rummah Reclamation
+The Earth Working group attempted to terraform the Arabian peninsula much as they had done with the Sahara, however the political tensions of the region, limited this activity to a single river reclamation project along the Wadi al-Rummah,  dramatically improved the climate and economic position of Medina. As an unintended consequence, a growing population of Shiite Muslims began settling along the river after the initial ceremonial opening of the waterway, creating more political tension with the surrounding Sunni populations.
+
+## New Dhaka
+After Bangladesh sank into the sea,The Earth Working Group kept having this in their mind that they will some how reclaim Dhaka. That chance came when World War 3 ended. India and Burma with the EWG helped in the Reclamation of Dhaka. It took long till they reclaimed Dhaka and then they established the city of New Dhaka, a new jewel in the Indian Subcontinent.
+
+## New Venice
+After World War 3. Many Italian nationalists kept on pushing on for a Reclamation for Venice. The EWG used this as an opportunity to make New Venice, A future Italy. When people heard of the idea,they were ecstatic a few years later after its completion. The United States formed the European Association proposed New Venice as the capital but was dismissed  
+
+## New Zuiderzee
+One of the most ambitious projects of the EWG was the restoration of the bulk of the land that constituted the former nation-states of Belgium and the Netherlands. Erosion during the last three decades had left the coastal provinces of Holland and Flanders badly damaged, requiring the EWG to deposit entirely new sources of bedrock and soil rather than simply reopening what was now little more than a large reef to recolonization. Most of this was achieved through an expanded ocean dredging project that actually began shortly after the start of the Flood. The EWG took great pains to not only restore the lost land, but expand the amount of navigable waterways to the Rhine and other major rivers at the behest of the [German](1421-germany.md) government.
+## Delmarva
+The return of the Delmarva peninsula was a significant event for the US, as it meant the re-establishment of America's first state, Delaware. Most of Delaware's population expressed a desire to return to the lost state, and the Earth Working Group partnered with the Smithsonian and local historical societies to restore the state's major historical sites. The state was readmitted to the Union with the addition of the whole of the Delmarva Peninsula, and a population of 101,000.
+## Salton Sink
+One of the few regions that actually benefited from the Flood was the Salton Sink in what is now the State of Mojave. Prior to the flood, the former Salton Sea was an ecological disaster that contributed to toxic algae blooms and dust storms laced with decades of pesticides and fertilizers from nearby farms. After the Baja Gulf broke far enough north, most of these compounds and the high salt-content of the basin simply drained back into the Baja Gulf and the Pacific Ocean. With the reduction in Sea Levels, California politicians feared the return of the Salton Sea would bring with it the same problems they faced prior to the Flood.
+
+Thus the EWG resolved to address the problem by deepening and expanding the ancient river channels to the Colorado Delta that had already been eroded during the Flood. There were plans to actually retain enough water in the region to rebuild the ancient Lake Cahuilla, however by the time the river systems had been restored, the EWG considered their resources overstretched as it was.
+
+## Port Nukus
+One of the lesser known human development project of the EWG called for the redevelopment of Nukus into a major port to take full advantage of the expanded Aral Sea. However, where the EWG had carte blanche to do whatever they liked in Chad, Uzbekistan had no less than three rival powers at any given time vying for influence over Nukus and the investment opportunity it presented, leading to the EWG to cut their involvement short after completing the port and beginning work on major utilities.
+
+## Cairo Restoration
+The EWG found itself at the center of the Restoration movement of the 2060s and 70s. Early chronoscopes had made it possible to accurately assess the state of cities from the ancient world when they were at their peak. The EWG was one of the principal supporters of the early restoration movement with its efforts in Cairo. With support from the local government to help drive tourism, the EWG worked with local architects and sculptors to rebuild the ancient sites of Memphis and Giza to their former glory. Over a period of 10 years, modern Cairo and the ancient sites were rebuilt and modernized. The pyramids were returned to their marbled glory. Gold from the asteroids was used to crown the Great Pyramid, the ancient city was largely rebuilt and those areas that weren't saw the creation of new residential malls. Most of the religious sites that were restored were made into museums, but the Egyptian government elected to locate its new capital to the Great Temple of Ptah. Tourism to the city expanded greatly as a result of the project, as did quality of life for the city's residents.
+# Revitalization
+[Category:21st Century](https://second-renaissance.fandom.com/wiki/Category:21st_Century)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1106/10065.wikitext` · revision `10065` · [upstream](https://second-renaissance.fandom.com/wiki/Earth_Working_Group)

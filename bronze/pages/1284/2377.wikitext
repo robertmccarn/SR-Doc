@@ -1,0 +1,10 @@
+<noinclude>[[Category:Templates]]
+;This template is used on the [[Main Page|main page]] to list the affiliates of {{SITENAME}}.</noinclude>
+{| style="padding:0.5em; margin-top:1em; width:100%; border:1px solid #aaa;" cellspacing="2" cellpadding="5" 
+|| <div class="plainlinks"></div> 
+<big>''Affiliated wikis:''</big><br>
+
+'''[[w:c:althistory|Alternate History Wiki]]''' &#8226;
+'''[[w:c:oprandomstuff|OPRandomStuff Wiki]]''' &#8226;
+'''[[w:c:future|Future Wiki]]'''&#8226;
+|}

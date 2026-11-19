@@ -1,0 +1,27 @@
+{
+  "categories": [
+    {
+      "*": "Wikipedia_pages_with_incorrect_protection_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": "Ttl"
+    },
+    {
+      "*": "Internal_template-link_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    },
+    {
+      "*": "Pagelinks_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>&#123;{[[Template:{{{1}}}|{{{1}}}]]}}&#160;([[Template talk:{{{1}}}|t]]/<a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://second-renaissance.fandom.com{{localurl:Special:Whatlinkshere/Template:{{{1}}}%7Climit=999}}\">l</a>)\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119205426\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.033 seconds\nReal time usage: 0.043 seconds\nPreprocessor visited node count: 14/1000000\nPost‐expand include size: 173/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 3/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nLua time usage: 0.016/7.000 seconds\nLua memory usage: 712719/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   35.553      1 Template:Pp-template\n100.00%   35.553      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:325-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205426 and revision id 514. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [],
+  "page_id": 325,
+  "revision_id": 514,
+  "title": "Template:Ttl"
+}

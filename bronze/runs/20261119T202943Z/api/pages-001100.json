@@ -1,0 +1,2172 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "1125": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1784,
+        "length": 280,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Xanthe/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1125,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1784,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Xanthe\n| flag alias = Xanthe Flag.png\n| alt attribute = Flag of Xanthe\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-19T21:09:13Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Xanthe/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Xanthe",
+        "touched": "2015-11-19T21:09:13Z"
+      },
+      "1126": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars state flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1786,
+        "length": 30,
+        "ns": 6,
+        "pageid": 1126,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1785,
+            "revid": 1786,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Mars state flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-19T21:10:35Z"
+          }
+        ],
+        "title": "File:Xanthe Flag.png",
+        "touched": "2020-12-26T17:43:33Z"
+      },
+      "1127": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1790,
+        "length": 31,
+        "new": "",
+        "ns": 1,
+        "pageid": 1127,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1790,
+            "slots": {
+              "main": {
+                "*": "This page needs more than that.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-20T19:18:08Z"
+          }
+        ],
+        "title": "Talk:Nanotechnology/@comment-27084453-20151120191808",
+        "touched": "2015-11-20T19:18:08Z"
+      },
+      "1128": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1793,
+        "length": 434,
+        "new": "",
+        "ns": 1,
+        "pageid": 1128,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1793,
+            "slots": {
+              "main": {
+                "*": "<span style=\"font-size:14px;\">The release of these new and rebooted franchises coincided with the 2030s Anime Renaissance which lasted until US-Japanese relations deteriorated in the mid-2040s.</span>\n\nWhat happens to the fans of those series once the US-Japanese relationships go downhill, and then once the war begins? Is it still acceptable for them to enjoy them in public, or is it taboo to even mentioning liking Japanese media?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-20T22:58:43Z"
+          }
+        ],
+        "title": "Talk:Virtuals/@comment-192.154.63.76-20151120225842",
+        "touched": "2015-11-20T22:58:43Z"
+      },
+      "1129": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1797,
+        "length": 80,
+        "new": "",
+        "ns": 1,
+        "pageid": 1129,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1797,
+            "slots": {
+              "main": {
+                "*": "I think it would still be acceptable. After all, hostilities don't last forever.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-21T00:22:35Z"
+          }
+        ],
+        "title": "Talk:Virtuals/@comment-192.154.63.76-20151120225842/@comment-27084453-20151121002235",
+        "touched": "2015-11-21T00:22:35Z"
+      },
+      "1130": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars state flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1823,
+        "length": 30,
+        "ns": 6,
+        "pageid": 1130,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1799,
+            "revid": 1823,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Mars state flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-25T20:02:46Z"
+          }
+        ],
+        "title": "File:Cleopatra Flag.png",
+        "touched": "2017-12-05T03:59:05Z"
+      },
+      "1131": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1800,
+        "length": 289,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Cleopatra/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1131,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1800,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Cleopatra\n| flag alias = Cleopatra Flag.png\n| alt attribute = Flag of Cleopatra\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-21T03:48:31Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Cleopatra/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Cleopatra",
+        "touched": "2015-11-21T03:48:31Z"
+      },
+      "1132": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1806,
+        "length": 467,
+        "new": "",
+        "ns": 1,
+        "pageid": 1132,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1806,
+            "slots": {
+              "main": {
+                "*": "You do remember how we reacted to Japanese culture the last time we had a major war with them right? WWIII and the lead-up didn't see internment camps or anything, or even anything so bad as the Alien and Sedition Acts, but there were import bans and boycotts of Japanese products, and no one was stupid enough to advertise that they liked content made in a country that was now their enemy. How many positive depictions of Russia have you seen in the last few years?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-22T03:23:05Z"
+          }
+        ],
+        "title": "Talk:Virtuals/@comment-192.154.63.76-20151120225842/@comment-899576-20151122032305",
+        "touched": "2015-11-22T03:23:05Z"
+      },
+      "1133": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1814,
+        "length": 292,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Halelabria/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1133,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1814,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Halelabria\n| flag alias = Halelabria Flag.png\n| alt attribute = Flag of Halelabria\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-24T16:30:42Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Halelabria/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Halelabria",
+        "touched": "2015-11-24T16:30:42Z"
+      },
+      "1134": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1815,
+        "length": 188,
+        "new": "",
+        "ns": 1,
+        "pageid": 1134,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1815,
+            "slots": {
+              "main": {
+                "*": "Very few. But hostilities don't last forever. The fanbases of games like ''Mario'' and ''The Legend of Zelda'' would most likely see a resurgence after hostilities are gone. Wouldn't they?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-24T17:45:03Z"
+          }
+        ],
+        "title": "Talk:Virtuals/@comment-192.154.63.76-20151120225842/@comment-27084453-20151124174503",
+        "touched": "2015-11-24T17:45:03Z"
+      },
+      "1135": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars state flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1821,
+        "length": 30,
+        "ns": 6,
+        "pageid": 1135,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1820,
+            "revid": 1821,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Mars state flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-25T18:32:14Z"
+          }
+        ],
+        "title": "File:Halelabria Flag.png",
+        "touched": "2017-12-05T03:59:05Z"
+      },
+      "1136": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Political parties in the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Liberal Logo.png"
+          }
+        ],
+        "lastrevid": 11713,
+        "length": 1822,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Conservative Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Horizon Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1136,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11357,
+            "revid": 11713,
+            "slots": {
+              "main": {
+                "*": "{{Infobox political party\n|name_english       = Liberal Party\n|logo               = [[File:Liberal_Logo.png|200px]]\n|colorcode          = #8CBED6\n|chairperson        = \n|founded            = 7 December 2052\n|headquarters       = 430 South Capitol St. SE, Washington, D.C., 20003\n|student_wing       = \n|youth_wing         = Young Liberals\n|membership_year    = \n|membership         = \n|ideology           = Conservative Liberalism <br> Internationalism\n|colors             = Light Blue\n|website            = \n|country            = \n|country_dab1       = \n}}\n\nThe '''Liberal Party''' is one of the major contemporary political parties in the United States. The Liberal Party was founded in 2029 out of the merger of the Labor Party, the Working Families Party, and several former Republican splinter parties. The state-level wing of the Liberal Party currently holds majorities in 111 states.\n\nFor the bulk of their existence, the Liberals have been the United State's third largest party in Congress, typically aligning itself with the Libertarian Party and the Labor Party, as it did during the minority government of Thang Levin. Following the 2112 general election the Liberals were reduced to fourth place behind the Dignidad Party, a position it would maintain for most of the next two decades. In the 2132 general election under the leadership of Sarima Haden, the Liberals attached themselves directly to the Progress Party ticket, aligning with the Union Party for a new coalition government.\n\nAfter the [[World War III|Third World War]], the Liberals formed a new coalition with the [[Conservative Party (United States)|Conservatives]] centered around neo-globalism. This would lead to a formation of the [[Horizon Party (United States)|Horizon Party]] in 2070.\n[[Category:Political parties in the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-11-08T18:41:48Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox political party"
+          }
+        ],
+        "title": "Liberal Party (United States)",
+        "touched": "2024-11-08T18:41:48Z"
+      },
+      "1137": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1831,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1137,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1831,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-27T19:28:00Z"
+          }
+        ],
+        "title": "File:Liberal Logo.png",
+        "touched": "2015-11-27T19:28:00Z"
+      },
+      "1138": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Alien species"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Articles with 'species' microformats"
+          },
+          {
+            "ns": 14,
+            "title": "Category:IUCN Red List least concern species"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Klerin Full Body.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Red Pencil Icon.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Status iucn3.1 LC.svg"
+          }
+        ],
+        "lastrevid": 11413,
+        "length": 9545,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Binomial nomenclature"
+          },
+          {
+            "ns": 0,
+            "title": "Conservation status"
+          },
+          {
+            "ns": 0,
+            "title": "IUCN Red List"
+          },
+          {
+            "ns": 0,
+            "title": "Le'ma"
+          },
+          {
+            "ns": 0,
+            "title": "Least Concern"
+          },
+          {
+            "ns": 0,
+            "title": "Taxonomy (biology)"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxonomy/Ornithosapiens"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1138,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11023,
+            "revid": 11413,
+            "slots": {
+              "main": {
+                "*": "{{speciesbox\n| name          = K'lerin\n| fossil_range  = \n| image         = Klerin Full Body.jpg\n| image_upright = 0.9\n| image_caption = Holotype\n| image_alt     = \n| status        = LC\n| status_system = iucn3.1\n| status_ref    =\n| taxon         = Ornithosapiens cognitus\n| authority     = Suyin, 2067\n| subdivision_ranks = Subspecies\n| subdivision   = †''Ornithosapiens cognitus''<br />''Ornithosapiens cognitus''\n}}\n\n'''K'lerin''' or '''''Ornithosapiens cognitus''''' are the dominant lifeforms and only known sentient species occupying Tau Ceti f, known as [[Le'ma]] to the inhabitants. They are characterized by erect posture, bipedal locomotion and avian-like plumage.\n\n==Anatomy and physiology==\nK'lerin are a sexually dimorphic species, with females standing 1.5 meters in height and males standing a 1 meter on average. They are bipedal, birdlike, and have two arms with hands that include two fingers and two thumbs each. Unlike the forelimbs of Earth's birds, these arms are not derived from wings and are held in a pronated posture. Their heads, arms, and backs are topped with pseudo-feathers that serve much the same purpose as human hair with a flat face with a long, pointed nasal ridge, giving them a distinct resemblance to barn owls. Their eyes are large and almond-like in shape, with a distinct black tint. They have no lips and two sets of nostrils, one set near the tear ducts and the second set in the center of the face.\n\n== Evolution ==\nThe K'lerin are members of a clade of bipedal bird-like creatures <span>with skeletons comprised of calcium carbonate </span>that are currently the dominant lineage of \"vertebrates\" on Le'ma. These, in turn, evolved from the common ancestors of all \"vertebrates\" on Le'Ma, which were multi-legged bristleworm-like creatures. Just as the early tetrapods did on Earth, these land pioneers evolved into a variety of lineages, one of which became the clade of bird-like bipeds leading to the K'lerin. Ranging from swift, cheetah-like hunters to towering, sauropod-sized frugivores, they occupy the majority of large land \"animal\" niches on the planet (except flying ones--these are occupied by an \"invertebrate\" group). One group of stork-like terrestrial stalking predators native to the planet's tropical wetlands developed a significantly larger brain than its relatives, and over time this eventually led to sapience.\n\n==Social Structure==\nMost K'lerin are hunter-gatherers, traveling in multi-family groups and led by a group of elders from each family. The only civilization on the planet, the river lying city-state of Val're, were governed by a group of 6 \"Queens,\" or matriarchs, who share spouses and maintain their family lines. This confederated monarchy, where every \"Queen\" had a harem of husbands who were in turn \"married\" to the others, ensured that no single monarch could wield all the power in the city. In 2067, two years after first contact with humanity, a revolution against the plural monarchy broke out and a pseudo-republican regime was installed by the revolutionaries. Infighting continued for more than a year before heirs of three of the royal families restored order. Mediated by the human visitors, the Val're government was reorganized to permit the monarchies while allowing for a representative assembly.\n\n==History==\nMost of the population of Le'ma are neolithic hunter-gatherer nomads, with the most successful clans making use of fixed camps along seasonal caravan routs. At least three civilizations have arisen on Le'ma, two of which occupied the city of Val're, and one that occupied a mountain settlement in the Tu'val Mountains until 1249 CE. Humans made first contact with the K'lerin in 2065 CE and have begun an education and technology transfer program to foster good relations.\n\nRecent archeological evidence taken from Le'ma's Subtropics has indicated the possible presence of an expansive society of earthwork builders, similar to the pre-Columbian Amazon cultures of Earth. However it is still hotly debated if this was a single organized civilization.\n\n===Founding of Val're===\nThe oldest known K'lerin presence in Val're is the Val Forest, which has been dated to between the 6th and 3rd century BCE. Val're has been continuously inhabited for at least 2000 years. By 300 CE the settlement had become a permanent center of the K'ron dynasty, a collection of traveling clans who maintained fixed camps to consolidate provisions. Unlike other K'ron centers, such as Val'mu and Val'fau, Val're became a more conventional city during the K'lerin stone-age. By 1000 CE, the K'ron dynasty collapsed, and Val're was abandoned due to plague. By 1730 the T'rul dynasty had taken over the city as a supply center for hunter-gathering caravans.\n\nUnlike the K'ron civilization, which used Val're chiefly as a fishing village during the height of their rule, the T'rul dynasty use the city as a center for agriculture. It is believed that the K'ron civilization successful domesticated at least two species of large animal for food production, but never made the step to centralized farming. The T'rul dynasty absorbed the V'morai dynasty in 1859, forming the T'Vai dynasty that has ruled the city to this day.\n\nVal're is a predominantly agrarian and fishing city. At least 3 species of plant-life have been domesticated for consumption by the K'lerin, and 4 species of large animal have been domesticated for labor, hunting, and consumption. Val're began producing bronze tools in 1871, and has had a written language since the formation of the T'Vai dynasty.\n\n===First Contact===\nThe Human interstellar space vehicle IV-101 Enterprise, entered orbit around Le'ma on January 3, 2065 (Earth calendar). The ship, remained in orbit for several months observing the planet for signs of civilization, using orbital reconnaissance and drone swarms dropped in pods from orbit to observe the K'lerin without disturbing them. On April 6, 2065, NASA gave the crew of the Enterprise permission to make First Contact. The first team made their way to the surface using one of the Enterprise's two shuttles, landing half a kilometer south of Val're, in full view of the city. Mission planners and crew xeno-sociologists insisted that the crew remain in their shuttle until approached by the K'lerin. A squad of bronze clad soldiers were the first to approach the shuttle when the Commander of the Enterprise, Jin Musgrave revealed herself and the landing team to the K'lerin, upon which she introduced herself on behalf of humanity and requested their permission to set foot on their planet. The leader of the K'lerin only agreed to do so after Commander Musgrave initiated physical contact with him, in which the two touched hands. The team was then escorted to the gates of Val're, and presented to the city's Queens. An agreement was reached to allow the human explorers the right to study the T'Vai lands and open a center of learning.\n\nThe first human explorers were very careful introducing the K'lerin to new technology, initially using chalkboards to convey information rather than holograms or neural uploading. They were granted a domicile near the edge of the city (which was built on a swamp to service septic treatment), and built a school, clinic and embassy for more of the crew to operate in. They taught the K'lerin smiths more advanced smelting techniques, studied their hosts' anatomy/genetics, and taught those that would listen about astronomy, chemistry, mechanics, human biology, language, and history. For the most part, the monarchs' were content to leave the \"Travelers\" to their own devices. The city now had steel, new machines, and they even helped prevent sickness. Due to political concerns by NASA, the first crew were instructed to avoid informing the K'lerin about human governance, or theology in great detail. Unfortunately, once their hosts learned about the concepts of the Enlightenment, they started demanding certain social reforms. These initial protests resulted in four of the Monarchs proclaiming the closing of the school, which resulted in more protests that quickly turned into a violent uprising. The Val're Uprising of 2067 ended with the death of three of the six sitting queens, while the other three were protected by the human explorers. Commander Musgrave oversaw a negotiated redress of grievances and re-installed the remaining Monarchs and a city council to handle matters of public interest. The revolution was not very well received by NASA, but the mediation managed to salvage public perception of the first contact mission.\n\nAfter the Uprising, NASA ordered an early recall of the Enterprise. It was agreed that one of the K'lerin return with them to Earth to serve as a ceremonial ambassador. However, the return was cancelled and the ship re-tasked to rendezvous with the ISV-03 Constitution in the Beta Hydri system, after their contact with the Morak civilization. The Ambassador was awoken to open relations between the K'lerin and the Moraks before arriving at Earth.\n\n===K'lerin Enlightenment===\nFirst Contact with humanity initiated a period known as the K'lerin Enlightenment where human derived technology and philosophy spurred a series of dramatic shifts in K'lerin society. Advances in agriculture, sanitation and medicine led to a population explosion in which the population of Val're grew from 70,000 to just under 1 million in a century. New cities sprung up across the planet and the K'lerin reached a planet-wide population of 230 million by 2160.\n[[Category:Alien species]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-01-11T15:07:38Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:;"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Anglicise rank"
+          },
+          {
+            "ns": 10,
+            "title": "Template:COLON"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Delink"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Edit taxonomy"
+          },
+          {
+            "ns": 10,
+            "title": "Template:First word"
+          },
+          {
+            "ns": 10,
+            "title": "Template:PAGENAMEBASE"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Remove first word"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Speciesbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Speciesbox/name"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str find"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str left"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str letter/trim"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str rep"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxobox/Error colour"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxobox/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxobox/species"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxobox/taxonomy"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxobox colour"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxon info"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxonomy"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxonomy/nobreak"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Autotaxobox"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "K'lerin",
+        "touched": "2024-01-11T15:07:38Z"
+      },
+      "1139": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Space Age"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Under Construction"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:ITS.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Under contruction icon-red.png"
+          }
+        ],
+        "lastrevid": 11951,
+        "length": 11991,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Lionel Halvidar"
+          },
+          {
+            "ns": 0,
+            "title": "Mars"
+          },
+          {
+            "ns": 0,
+            "title": "Mars Corporation"
+          },
+          {
+            "ns": 0,
+            "title": "NASA"
+          },
+          {
+            "ns": 0,
+            "title": "Orbitals"
+          },
+          {
+            "ns": 0,
+            "title": "Space Age"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1139,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11948,
+            "revid": 11951,
+            "slots": {
+              "main": {
+                "*": "{{WIP}}\n\nWith the launch of the [[Space Age]], a large scale colonization of [[Mars]] by the [[United States]] took place primarily between the early 21st century and early 22nd century. Public-private missions organized by the [[NASA|National Aeronautics and Space Administration (NASA)]] established research stations in areas around the Martian equator, creating a short-term settlements before transitioning to a [[Mars Corporation]]-led effort.\n\nThe Mars Corporation was established to head the Frontier Program, a fifty year architecture to terraform, colonize, and develop Mars for human civilization. NASA partnered with several private companies looking to establish a commercial presence on Mars to help finance the Frontier program. The Mars Corporation would go on to organize and lead the bulk of Frontier program missions, while NASA would have access to scientific stations.\n\n==Background==\nWhile proposals for human missions to Mars had existed since before the first rocket, the effort that directly led to human colonization was conceived in the private sector with the 2010s Space Boom. Efforts began in earnest with the development of the first generation of Starship super heavy space transportation systems. Proposed missions included ferrying crews to a Phobos station, Martian flyby, and eventual manned Mars landings. Meanwhile, NASA's funding for a super-heavy lifter stalled during the 2020s Artemis program, while scientific and astrodynamic data for a Mars mission far outweighed the work done in the private sector. Public-private partnerships had been reached for space station resupply, but as political pressure built, the alliance between NASA and the private sector became more formalized for a Mars mission.\n\n===Private sector projects===\nIn January 2016, SpaceX CEO Elon Musk announced the SpaceX Mars Colony project to industry representatives at a series of space advocacy and industry conferences. Preliminary specifications were laid out for a spacecraft capable of carrying upwards of 100 individuals to Mars, and a reusable new super-heavy lifter. During the decade long Starship R&D program, dozens of corporations were formed and folded all in the hopes of taking advantage of mining, research, and infrastructure opportunities on Mars. Meanwhile, NASA performed its own in-house spacecraft design studies to determine the viability of the private sector missions.\n\n===Political pressure builds===\nIn November 2020, Joe Biden was elected president after a campaign that promised American superiority over the Russian Federation in the fields of space exploration and missile defense. Privately, Biden was deeply concerned about the buildup in inexpensive anti-satellite weapons in Russia and China, and wanted to build up US military assets in space. The administration subsequently hosted the Conference for a New American Space Age to gain feedback from the aerospace industry on how to proceed with the space program for defense and exploration. During the conference, industry and NASA representatives submitted the idea of forming a public/private corporation to oversee long term development on Mars, investing in space propulsion and habitation research, and building up US launch capacity through NASA and the Space Force.\n\n===The Space Boom===\n\n==Starships==\n[[File:ITS.png|thumb|155px|SpaceX Interplanetary Transport System]]\nIn 2020 SpaceX began building and testing the first generation of Starships. It was the first combined launch vehicle and spacecraft designed to carry up to 100 colonists and astronauts from launch, to landing and return with minimal crew. It was the first spacecraft in history to be completely reusable, thus making it cheap enough for individuals to book passage to Mars. The success of SpaceX's Starship would drive rival companies to develop their own starships, all based around the fully reusable super heavy lifter and a spacecraft.\n\nDuring the first two biennial launch windows, only a dozen Starships launched for Mars, with only one carrying an crew. By the third launch window 208 Starships were bound for Mars carrying over 5000 colonists. By the fourth window over 500 Starships were making regular flights to Mars. Growth in the number of Starship launches would continue, peaking in the late 2030s.\n\nBy the end of the 21st century, these entirely rocket propelled two-stage launch systems had largely been outmoded, however the term \"Starship\" is still used in common parlance to describe modern air-breathing single-stage launch vehicles.\n\n===NASA Expansion===\n===Establishment of the Space Force===\n\n==History==\n===Early expeditions===\nEarly colonies were governed by a station commander and seven-member council selected by NASA. Leadership problems were not uncommon. At Meridian Base, the first two leaders of the colony had varying degrees of success dealing with sickness, dust-storms, poor food and water supplies, and general discontent. Many colonists were ill-prepared to carve out a new settlement on a frontier. When [[Lionel Halvidar]] established the first settlement in Bradbury, he proved the strong leadership that the colony needed, and his example was later emulated at Meridian.\n\n====Early [[Orbitals|O'Neil Ships]]====\nIn the 2040s the first O'Neil ships entered service, having been built with leftover materials from waterbed mining of asteroids. While comparatively small by modern ships, these early spacecraft represented an order magnitude increase in traffic to Mars, and were a critical component in the planet's early population boom prior to full colonization.\n\nThe first O'Neil ships were the first civilian interplanetary spacecraft built entirely in Martian orbit. At 500 m long, 50.2 m in diameter (at the propulsion stage), and a dry mass of 6000 tonnes, the were the largest vehicles ever built at the time of their launch, and were capable of transporting 2000 individuals between Earth and Mars per flight, on a 6 month trip at closest approach. While decidedly slower than other spacecraft of its day, it could transport by far the largest payloads in a pressurized volume, making it idea for cargo flights, or cultivating biomatter between destination points.\n\n\n===Founding MarsCorp===\nPost-war, asteroid mining beyond Mars saw a significant advancement through the introduction of Spore Mining, kicking off an economic boom on and around Mars. By the 2060s this led to a market panic over falling commodities prices due to oversupply. A majority of the orbital processing centers shut down as a result. This contributed to the earliest form of the Quantum Economic Model, in which the Mars Corporation had to employ an AI management system to keep the processing rate at pace with actual demand.\n\n===Frontier Program===\n\n\n===Tier-1 Colonization===\nAfter the first NASA-led mission, MarsCorp began opening seats for purchase for private citizens and sending out commercial flights for individual settlers and associate-company programs. As colonization became the dominant aspect of flights to Mars, NASA's role in MarsCorp diminished.\n\n===Early Terraforming===\nWhile the initial development of Mars proved to be very successful, the long term goal of the Frontier Program was ultimately to establish a second home for humanity. Initially, this was a very esoteric goal, with no clear path outlined to practically achieve it beyond continually establishing commercial bases. It wasn't until the Bradbury working group began pushing for geo-engineering efforts that terraforming was seriously considered.\n\nThe terraforming effort was being planned throughout the course of the Frontier Program's early days by factions within the Mars Corporation, but never seriously advocated. The new Luddite movement that arose in response to [[The Flood]], blamed human meddling for the loss of the Ice Caps and opposed directed efforts on Mars, and in turn drove NASA to bury any public support for Terraforming. Pressure from the Bradbury colonies pushed the other members of MarsCorp to more strongly advocate for an aggressive terraforming campaign in 2029. Over the course of the next five years, MarsCorp in concert with its assoicate members of the space mining industry, launched a series of missions to the Asteroid belt and constructed a battery of facilities on the surface of Mars for terraforming purposes. The first of these facilities was the Green Magnetoshield, a 2 Tesla magnetic field generator stationed at Mars-Sol L1, shielding the planet from solar winds and radiation. The magnetoshield program was initially put forth not as a terraforming program, but as a solution to long term safety for astronauts on surface operations, but within the first year of its operation surface pressures and temperatures began to steadily rise as CO2 from the poles was no longer being swept away by solar winds.\n\nGenetically modified terraforming agents were dispersed across the planet to begin bio-leeching CFC and other atmosphere buffers, as well as consolidating salts and building up a soil-base. In 2033 Lunar Energy Ltd. deployed the first Mars Solar Mirrors, massive reflective spacecraft that would reflect the sun's radiation across the planet's surface. These ships, the Apollo, the Freyr, the Garuda, the Lugh, the Helios, the Amaterasu, and the Ra were constructed out of next generation nanoprinters on Luna, and would later support the Refreeze project on Earth. With the mirrors and the terraforming agents working in harmony, Mars's atmosphere began to build up and the temperature of the planet began to rise.\n\n====Bio-seeding====\nWhile the geo-engineering projects were still underway, humanity began the decades long process of giving Mars a sustainable biosphere. While most of the primordial Martian life was cloned to return to the new seas, most of the life was brought in from Earth and genetically engineered to most effectively balance the biosphere. Mars was the first planet where the ecology was largely artificial, and tailored not just for the terrain, but to best suit the humans who would come to inhabit the planet in mass.\n\nBacteria test chambers across the planet were opened to improve the soil base when the first mirrors constructed by Lunar Energy Ltd. were permitted to begin surfacing heating. By 2030 the icy and carbon rich asteroids were deorbited on long re-entry paths into the atmosphere releasing huge amounts of heat energy or blanketing the poles with a black soot. Disposable drones were automatically produced and dispersed GM bacteria and lichens across the surface to take advantage and further spur these conditions. These organisms, spread across the planet's surface processing the toxic dust into a usable soil base and extracting greenhouse gasses from the soil. When a given condition of these organisms would be met (O3 levels rising to a certain point, the selenium content of the soil, etc.) a fail-safe in their genome would trigger their demise, depositing more vitamins into the new soil base.\n\nOnce the planet became warm enough to support liquid water on the surface, genetically modified strains of lichens, and algae were introduced into and around the newly formed oceans, rivers, and seas. These tough creatures had very short life spans, but spread and reproduced rather quickly. Both organisms were engineered to increase oxygen production, but specific strains were engineered to process the perchlorate salts in and around these bodies into either useful soil additives like Magnesium and Calcium, or into sodium salts and sources of Ozone. Once CO2 levels dropped sufficiently in an area the basic oraganisms would no longer reproduce as vigorously and more advanced life could be seeded. Once temperatures reached high enough levels, moss, small brush and ferns, and corals were seeded, ramping up oxygen production. The whole process only took about a decade due to human intervention and the genetically modified nature of the flora.\n[[Category:Mars]]\n[[Category:Space Age]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-10-29T04:12:46Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:WIP"
+          }
+        ],
+        "title": "American colonization of Mars",
+        "touched": "2025-10-29T04:12:46Z"
+      },
+      "1140": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2469,
+        "length": 150,
+        "ns": 1,
+        "pageid": 1140,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1888,
+            "revid": 2469,
+            "slots": {
+              "main": {
+                "*": "I wonder if you have heard of the concept of Maslow Windows. Here is the URL for the website that explains that concept: http://21stcenturywaves.com/.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-11-13T05:18:11Z"
+          }
+        ],
+        "title": "Talk:American colonization of Mars/@comment-27084453-20151130181237",
+        "touched": "2016-11-13T05:18:11Z"
+      },
+      "1141": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1847,
+        "length": 62,
+        "new": "",
+        "ns": 1,
+        "pageid": 1141,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1847,
+            "slots": {
+              "main": {
+                "*": "I was just thinking. Shouldn't there be a list of subcultures?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-02T01:10:47Z"
+          }
+        ],
+        "title": "Talk:Genetic Engineering/@comment-27084453-20151202011047",
+        "touched": "2015-12-02T01:10:47Z"
+      },
+      "1142": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1853,
+        "length": 18,
+        "ns": 6,
+        "pageid": 1142,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1848,
+            "revid": 1853,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Mars]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-02T04:24:40Z"
+          }
+        ],
+        "title": "File:MEV-01 Goddard.png",
+        "touched": "2021-04-17T17:58:40Z"
+      },
+      "1143": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Moons"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Planetary Commonwealths of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Luna 2073.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Luna Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lunar Orbit 2051.png"
+          }
+        ],
+        "lastrevid": 11760,
+        "length": 10169,
+        "links": [
+          {
+            "ns": 0,
+            "title": "American, Lunarian people"
+          },
+          {
+            "ns": 0,
+            "title": "Android"
+          },
+          {
+            "ns": 0,
+            "title": "Biorobotics boom"
+          },
+          {
+            "ns": 0,
+            "title": "Demographics of Luna"
+          },
+          {
+            "ns": 0,
+            "title": "Earth"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Luna"
+          },
+          {
+            "ns": 0,
+            "title": "ISO 4217"
+          },
+          {
+            "ns": 0,
+            "title": "Interplanetary Trade Commission"
+          },
+          {
+            "ns": 0,
+            "title": "Japan"
+          },
+          {
+            "ns": 0,
+            "title": "List of countries by population"
+          },
+          {
+            "ns": 0,
+            "title": "Little Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Luna in 2073 of Luna"
+          },
+          {
+            "ns": 0,
+            "title": "Mars Corporation"
+          },
+          {
+            "ns": 0,
+            "title": "Orbital Command Stations"
+          },
+          {
+            "ns": 0,
+            "title": "Politics of Luna"
+          },
+          {
+            "ns": 0,
+            "title": "Project ASGARD"
+          },
+          {
+            "ns": 0,
+            "title": "Sol system"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1143,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10832,
+            "revid": 11760,
+            "slots": {
+              "main": {
+                "*": "{{Infobox country\n|conventional_long_name = Planetary Commonwealth of Luna\n|national_motto = \"One small step for a man, one giant leap for mankind.\"\n|national_anthem = \"The Star-Spangled Banner\"\n|capital = Armstrong\n|largest_city = Armstrong\n|languages = English (de facto)\n|demonym = American, Lunarian\n|languages_type = \n|lang_others= Japanese, Russian, Mandarin\n|government_type = United States Planetary Commonwealth\n|leader_title1 = Planetary-Governor\n|leader_name1 = Wenn Gonzolas\n|legislature = Lunar Congress\n|upper_house = Planetary Senate\n|lower_house = Planetary House of Representatives\n|established_event1 = Formation \n|sovereignty_type = Created per Amendemnt to the constitution\n|established_date1 = July 4, 2137\n|area_rank =\n|area_sq_mi = \n|population_estimate = 63 million\n|population_estimate_year = 2160\n|population_estimate_rank = 7th\n|currency = United States dollar ($)\n|currency_code = USD\n|image_flag = Luna_Flag.png\n|leader_title2 = Lieutenant Governor\n|leader_name2 = Ry Zimmers\n|image_symbol = Luna_2073.jpg|symbol_type = Luna in 2073}}\n\n'''Luna,''' often referred to as '''the Moon,''' is the only natural satellite of [[Earth]]. Although not the largest natural satellite in the [[Sol system|Solar System]], it is, among the satellites of major planets, the largest relative to the size of the object it orbits. Home to millions of species, including humans, the Moon is the first object beyond Earth to support human civilization after colonization began in the 2020s.\n\n==History==\n===Settlement===\nThe moon was the first world beyond Earth that humans explored during the First Space Age of the 1960s and 70s. For half a century, no human and only a handful of probes ever traveled to the moon. During the Space Boom, the US government sponsored a number of private operators to begin developing the moon and Near-Earth-Asteroids to service the growing US military presence in space, and counter Russian attempts to develop space resources. After several unmanned landings in the mid 2010s, the first human settlement was established in 2019 at the Sea of Tranquility by the crew of the Exploration Mission 1. These primitive settlements were small, self-contained ecosystems large enough for two people to live and work for a few months at a time on the surface. These first settlers were employees of the first mining operations in space, and were primarily tasked with setting up habitats for future workers and extracting valuable resources to service other spacecraft. With the development of the first prototype fusion reactor on Earth in 2019, the demand for lunar extracted Helium-3 boomed, fueling military backed projects on the Moon. By 2021 there were over a dozen settlements established across the lunar surface, the largest of which were at Tycho crater and the Sea of Tranquility.\n\nHelium-3 rapidly eclipsed all other industries on the moon by 2023 when the Navy began using fusion reactors on their larger warships and the first fusion propelled space tug entered service. In the span of just a few months over 20,000 civilian contractors flooded to the moon to build and maintain the facilities required to provide the Helium-3 earth so demanded. These contractors resulted in the construction of the moon's first true cities, constructed underground beneath the layers of reinforced steel and utility lines that provided protection from the dangerous environment of hard space. 2023 was also the year of the founding of the [[Mars Corporation]], of which many Lunar based companies were a part of, but none larger than Lunar Energy Ltd. Originally a start-up founded in the Mojave, LE had grown to become the largest supplier of Helium-3 and Hydrogen on the moon. Lunar Helium-3 and Hydrogen fueled the next generation of Mars colonial ships, launched not from Earth, but in orbit and propelled by Helium-3 fusion engines. The mining and export of Rare-Earth-Elements on the moon, eventually eclipsed that of Earth by 2024, as the lack of any natural biosphere made the otherwise toxic manufacturing process more appealing on the lunar surface.\n\n===Militarization===\nAs the US military had nearly completed the implementation of its Third Offset policy by the end of the [[Little Cold War]], the Lunar economy enjoyed the wealth provided from the sale of Helium-3 to the US military and civilian sectors by the end of the 2020s. The end of the decade also brought with it the first military presence on the moon in the form of the Tycho shipyards. The US military financed the construction of spacecraft construction facilities at Tycho as early as 2025, knowing that the southern crater's large supply of water ice and obscured locations would make it ideal for covert construction of military hardware that could be launched without detection. Initially these relatively small subterranean shipyards were used to launch the first orbital bombardment satellites and anti-satellite platforms to Earth. With the success of these first programs, the US military went forward with its most ambitious project of the 2030s, the ASGARD project. Starting in 2033, the Tycho shipyards began construction of three [[Orbital Command Stations]] to provide C2 networking with unmanned spy satellites, refueling and repair facilities and orbital bombardment stations. No longer relying on vulnerable land based command centers, the United States could project its power with minimum effort and superb accuracy. All three stations were completed and Launched in 2037, reaching Earth orbit, and revealed to the public after a year of shakedown tests, having never been detected in that time.\n[[File:Lunar Orbit 2051.png|thumb|220x220px]]\nPrimary command and control moved to the Orbital Command Stations to limit the number of failure points, with space based systems seeming invulnerable to smaller powers. OCS Eisenhower was stationed over Uganda, OCS Kennedy over Papua New Guinea, and the main command station, OCS Reagan was stationed over Ecuador. Commanding fleets of hypersonic unmanned aircraft and coordinating Naval support around the planet, the Orbital Command Stations could impose devastating blockades against US adversaries, and coordinate rapid response strikes in a matter of minutes. [[Project ASGARD]] brought with it a formal US military presence and eventually a Japanese response at their terminator bases.\n\n==='''World War III'''===\n''Main article [[World War III#Cislunar (2051-2053)|Lunar front of World War III]]''\n\nThe moon was an important front of the Third World War, with [[Japan]] using their far-side bases to launch the strikes against the Orbital Command Stations, and several battles being fought to secure key space-based manufacturing and military interests. \n\n===Post-WWIII===\nAfter WWIII the Tycho shipyards were expanded to meet the demand for a massive space force and logistical infrastructure. Helium-3 mining operations blanketed the lunar surface and its industrial output grew faster than anywhere in the solar system to meet the Earth's demands for cheap fusion energy. In 2073, Helium-3 production on the moon peaked and was no longer able to meet Terran energy demands. By 2081 rolling blackouts had become a major problem on Earth, and Helium-3 markets had collapsed on the Moon. This is partly what led to Lunar Energy Ltd. allying with the outer colonies to establish the [[Interplanetary Trade Commission]] as a means of revitalizing Helium-3 markets. \n\nDespite the efforts of economic reformers in the ITC, Luna remained much more entrenched in late-period Terran capitalism than any other colony world, not even possessing a colony-wide quantum economic system. The attempts to reinvigorate the Lunar Helium-3 industry were an early failure of the QEM, as the Terran demand for energy shifted demand to more abundant supplies coming from the Ice Giants and the Sun. The moon began to experience population decline, one of the only colonies to ever face such a trend. By 2090 over 25% of the lunar population had relocated, with one exception: Armstrong City. The lunar capitol was the first to deplete its Helium-3 reserves starting in the late 2060s. With the availability of capital from its proximity to Earth and the social safety net provide by even a relatively undeveloped QEM, local businesses in Armstrong were able to buy up vacant property and build up the local tourism industry. Tourism had been a founding economic sector for the Moon from the earliest days of colonization, but the Armstrong model sought to make it the core of the Lunar economy. Governments were lobbied to adjust the climate of the lunar habitats from temperate to tropical, while gambling was legalized. The Tourism boom of the 2090s in Armstrong spread to many habitats across the moon in the 2100s and into the 2110s. Most adopted similar tropical environments similar to Armstrong, but several elected to convert their chambers to more exotic habitats, with Shackleton lowering their temperatures to create an Alpine climate for low gravity winter sports.\n\nDuring the early 22nd century lunar architecture moved away from the utilitarian and brutalist styles that had defined much of its history to low-gravity variants on historical styles of Earth. Most leaned heavily into the 1960s American aesthetic, while Shackleton became the home of the Low-Gravity Chalet movement, building high-rise hotels with relatively small footprints that were an homage to Swiss ski lodges. This economic model (boosted by cheap [[Android]] and [[Biorobotics boom|biorobotic]] labor) led to an economic resurgence on the moon, securing its place as a major tourist destination for Terrans.\n\nAs a consequence of the success of the mixed economy on Luna, the moon became a major source for conservative voices in the ITC, and by far the greatest opponents of Halivdar's colonial integration plan beyond Earth. Multiple attempts were made in the early 22nd century to actually remove Luna from the QEM, and many would remark that the Lunar transition to the QEM would inform similar endeavors on Earth during the Great Experiment.\n[[Category:Moons]]\n[[Category:Planetary Commonwealths of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-03-09T16:32:56Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          }
+        ],
+        "title": "Luna",
+        "touched": "2025-03-09T16:32:56Z"
+      },
+      "1144": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1858,
+        "length": 49,
+        "new": "",
+        "ns": 1,
+        "pageid": 1144,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1858,
+            "slots": {
+              "main": {
+                "*": "The Moon obviously took part in WWIII. Didn't it?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-02T18:16:24Z"
+          }
+        ],
+        "title": "Talk:Luna/@comment-27084453-20151202181624",
+        "touched": "2015-12-02T18:16:24Z"
+      },
+      "1145": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Alien species"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Articles with 'species' microformats"
+          },
+          {
+            "ns": 14,
+            "title": "Category:IUCN Red List vulnerable species"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Red Pencil Icon.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Status iucn2.3 VU.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tel bn Blank.png"
+          }
+        ],
+        "lastrevid": 11400,
+        "length": 10897,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Binomial nomenclature"
+          },
+          {
+            "ns": 0,
+            "title": "Conservation status"
+          },
+          {
+            "ns": 0,
+            "title": "Constellation-class intstellar vehicle"
+          },
+          {
+            "ns": 0,
+            "title": "IUCN Red List"
+          },
+          {
+            "ns": 0,
+            "title": "Interplanetary Trade Commission"
+          },
+          {
+            "ns": 0,
+            "title": "Second Great War (Tel-ma)"
+          },
+          {
+            "ns": 0,
+            "title": "Taxonomy (biology)"
+          },
+          {
+            "ns": 0,
+            "title": "Tel-ma"
+          },
+          {
+            "ns": 0,
+            "title": "Vulnerable species"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxonomy/Anthroposepia"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1145,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11205,
+            "revid": 11400,
+            "slots": {
+              "main": {
+                "*": "{{speciesbox\n| name          = Tel-bn\n| fossil_range  = \n| image         = Tel_bn_Blank.png\n| image_upright = 0.9\n| image_caption = Holotype\n| image_alt     = \n| status        = VU\n| status_system = IUCN2.3\n| status_ref    =\n| taxon         = Anthroposepia manipes\n| authority     = Appler, 2093\n| subdivision_ranks = Subspecies\n| subdivision   = †''Anthroposepia manipes''<br />''Anthroposepia manipes''\n}}\n\n\nThe '''Tel-bn''' or '''''Anthroposepia manipes''''' are the dominant lifeforms and only known sentient species occupying Kepler 22a, known as [[Tel-ma]] to the inhabitants, and are the most populous alien species residing in the Sol System. They are characterized by erect posture, hexapedal locomotion and a rubbery hide similar in texture to a that of a squid.\n\n==Biology==\nThe Tel-bn are a squid-like species, normally standing about 1.4 meters tall. The Tel-bn are one of the few non-tetrapod intelligent lifeforms humans have yet to encounter, likely the result of the low gravity and high atmospheric pressure of the planet. They have a definite head, midsection, four manipulator limbs, and six stubby locomotion limbs. The upper manipulator limbs are far more dexterous and stronger than the lower manipulator limbs, which for most Tel-bn can only serve as a prehensile graspers. There are multiple examples in the medical history of Tel-ma of Tel-bn being born with completely vestigial lower manipulators or in some cases born with no lower manipulators at all. Their six lower limbs are sturdier and stiffer than the tentacles of Earth cephalopods, reinforced with crisscrossed layers of muscle and cartlidge, making them far more rigid. The six locomotion limbs fuse to form what some xeno-biologists consider to be a single skirt-shaped \"foot\" that Tel-bn can use to leap great distances very effectively.\n\nDespite their resemblance to terran cephalopods, Tel-bn don't require significantly more water than humans to survive, and are totally land dwelling. Tel-bn are cartilaginous and can contort their bodies, particularly their heads into a wider array of different geometries than any known intelligent \"vertebrates\". To be more visually pleasing to humans, those living in the Sol System contort their muscles to produce a more human looking head and torso. Many wear human clothing tops, and even wigs, and are often observed to look almost cartoonish, and thus were largely accepted by humanity in the colonies with very little social backlash.\n\n== Evolution ==\nThe Tel-bn, while superficially resembling Earth squid and octopus, are quite different in their evolutionary history. The Tel-bn belong to a clade of land-dwelling eight-limbed organisms that are the dominant fauna of Tel-ma. The common ancestors of this clade were semiaquatic organisms similar to amphibious octopuses that lived nearly 300 million years ago. Unlike Earth's octopuses and squid, which can only survive a short time out of water, these creatures evolved a type of lung and adapted six of their ten limbs to become sturdy walking legs. They lack a true skeleton, their internal framework consisting entirely of muscle. Thus equipped, diversified to fill nearly every large land-dwelling niche on Tel-ma. They range from swift, fierce predators to massive elephant-sized herbivores with column-like legs. The Tel-bn themselves were descended from a lineage of these creatures that became primate-like tree-dwelling omnivores.\n\n==History==\nThe Tel-bn are one of the older sentient organisms yet discovered, having achieved civilization at least twice in their planet's history. Typically, Tel-bn historians reference their people's history in at least two Ages.\n\n==='''The First Age'''===\nThe first civilization on Tel-Ma emerged 48,000 Standard Years ago in the lesser continental mass of the Tel-ma's southern hemisphere. The spread of the Tel-bn population to the major continental mass to the North reached its apex 32,000 years ago before the civilization collapsed in, what local historians and human archaeologists believe was a planet-wide conflict, fought primarily with chemical and biological agents. Archaeological evidence of the first Tel-bn civilization suggests that they had access to powered flight, but had not yet discovered nuclear weapons. The First Great Tel-bn War caused the death of 99% of all Tel-bn on Tel-ma, and left large areas of the planet uninhabitable for many centuries.\n\nSome scholars argue that the Tel-bn of the First Age should be considered a separate species to modern Tel-bn. mummified and fossilized remains indicate First Age Tel-bn had more porous skin, larger tear ducts, and were generally taller than those of the Second Age. Many of these changes were believed to have occurred as a result of the chemical warfare that nearly wiped out intelligent life on the planet in the First Great War, as those less susceptible to chemical agents would be more likely to survive and reproduce.\n\n==='''The Second Age'''===\nBy the 14th Millenium BCE, the first new civilization on Tel-bn emerged, in an alluvial plain in the northern continent. This new civilization, the Voc-shen-ro people, are widely considered to be the cultural pregenator to modern Tel-bn society. From the Voc-shen basin a number of new city states emerged along the network of river-networks and arable marshland. By 4000 BCE the Vel-mni Empire emerged at the western end of the continent, having grown from Voc-shen-ro colonies. Meanwhile, in the lesser continental mass, the Tor-hua Empire had conquered the whole of the continent, and made great strides in land reclamation, and medicine. By 2400 BCE, Gama Leporis underwent a period of heavy sunspot activity that sent the planet into an ice age that lasted until 1400 CE. Some consider this period the transition between the Second Age and a hypothetic Third Age, but most scholars have yet to come to a consensus on the matter.\n\nA century after the conclusion of the Tel-ma Little Ice Age, the Tel-bn saw the rise of new nation-states and a gradual improvement on technology as society took advantage of renewed farmland. In 1965 CE, Tel-bn archaeologists in the lesser continental mass discovered a well preserved cave beneath one of the planet's petrified forests. The cave was revealed to be an ancient First Age building, with relatively well preserved examples of First Age steam engines and mechanical components. This discovery launched the Tel-bn Renaissance that saw a century of technological progress in a few brief years. By 2060 the Tel-bn had actually surpassed the First Age civilizations, internal combustion and the beginnings of nuclear energy.\n\nIn 2075 the [[Second Great War (Tel-ma)]] broke out between the two largest factions on Tel-ma. By 2079 both sides had developed and begun using primitive nuclear weapons and chemical agents against one another. The conflict only escalated as nuclear technology continued to improve, and retaliatory strikes left much of the planet in ruin.\n\n==='''First Contact'''===\nIn 2091 the IV-204 ''Adventure,'' stationed 15 lightyears away on a scientific expedition of Dark Matter clusters, detected an atypical spike in gamma radiation from the Kepler 22 system. After reporting the data to NASA, preliminary scans of the Kepler system were made of the only known Earth-like planet. The radiation spike was traced to that world. NASA retasked the IV-304 ''Spirit'' for Kepler 22, and upon arriving a year later, they discovered a radiation blasted planet that still had a small population scattered across the surface. The Second Great War had informally ended four years ago, and while a splinter few factions remained, none were in possession of nuclear ordinance. First Contact was pushed up after radio-scans determined how dire the situation was. A brief assessment of the situation on the surface prompted the crew of the Spirit to request immediate aid from any ships NASA could spare. NASA dispatched 10 ships to Kepler 22, in the first humanitarian effort of the interstellar age. This remains the largest, and by most measures most dangerous mission NASA has ever undertaken, in no small part due to the extreme distance of Kepler 22 (635 lightyears from Earth) and the limits of late 21st century warp capable spacecraft. It took nearly 8 years for most of NASA's operational fleet to reach Kepler 22. At the behest of the remaining governments, humans directly took over large portions of Tel-ma, in an effort to scrub the planet of fallout.\n\nAfter several months of work, doctors and climatologists determined that the damage to their planet was severe enough that it put their species at risk of sterility and therefore extinction. Thus in 2093 The Tel-ma Provisional Government requested that a portion of their population be granted asylum in the Sol System. The United States refused their claim for Earth, but per the Rosalind Amendment, the colonies obliged them. A handful of Tel-bn \"Brood Nannies,\" and several tanks of their federalized eggs were sent to Earth via warp ship to ensure the continuity of their species while their world rebuilds. The [[Interplanetary Trade Commission|ITC]] agreed to settle most of their population on Triton and the Jovians while the US Government on Earth recognized the provisional government with an Embassy. By 2105, over 40,000 individuals had been born in the Sol System, and over the coming years would largely integrate into the societies of their hosts. This has prompted the remaining Tel-bn on their homeworld to voice concerns of cultural degradation and Xeno-gentrification.\n\n==='''Resettlement'''===\nIn 2156, Tel-ma was rated as habitable by NASA and the National Oceanic and Atmospheric Administration (NOAA). NASA began planning a repatriation mission using the new [[Constellation-class intstellar vehicle|''Constellation''-class]] spacecraft, the largest warp capable spacecraft at the time. Efforts were even being made to terraform a large moon around the system's inner-system gas-giant, and the Tel-bn expatriates were offered to settle there as well. To the surprise of NASA and the Tel-bn Provisional Government, of the 190,000 individuals living in the Sol System, only 11,000 elected to return to their ancestral home. While this was enough to provide lasting breeding stock, it would mean that for the foreseeable future, most Tel-bn would be living out-system, away from the homeworld. Interviews with those who elected to remain in the Sol system revealed that most were actually US or Protectorate citizens, and fully integrated into the societies in which they lived. Many had human spouses and mixed families. Thus the Tel-bn of the Provisional Government agreed to accept the 11,000 willing resettles, while offering incentives for others to return. One such incentive was Tel-ma's adoption of Free Association status with the United States in 2157.\n[[Category:Alien species]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-12-17T14:01:06Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:;"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Anglicise rank"
+          },
+          {
+            "ns": 10,
+            "title": "Template:COLON"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Delink"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Edit taxonomy"
+          },
+          {
+            "ns": 10,
+            "title": "Template:First word"
+          },
+          {
+            "ns": 10,
+            "title": "Template:PAGENAMEBASE"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Remove first word"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Speciesbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Speciesbox/name"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str find"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str left"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str letter/trim"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str rep"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxobox/Error colour"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxobox/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxobox/species"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxobox/taxonomy"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxobox colour"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxon info"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxonomy"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxonomy/nobreak"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Autotaxobox"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "Tel-bn",
+        "touched": "2023-12-17T14:01:06Z"
+      },
+      "1146": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7894,
+        "length": 161,
+        "ns": 10,
+        "pageid": 1146,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1870,
+            "revid": 7894,
+            "slots": {
+              "main": {
+                "*": "{| class=\"{{{class|}}}\" style=\"background-color:{{{bgColor|transparent}}}; color:{{{fontColor|inherit}}}; width:{{{width|100%}}};\"\n|-\n<noinclude>\n|}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-17T21:30:04Z"
+          }
+        ],
+        "title": "Template:Col-begin",
+        "touched": "2018-05-17T21:30:04Z"
+      },
+      "1147": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1871,
+        "length": 58,
+        "new": "",
+        "ns": 10,
+        "pageid": 1147,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1871,
+            "slots": {
+              "main": {
+                "*": "| valign=\"top\" style=\"width:50%;\" |<noinclude></noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-03T05:31:42Z"
+          }
+        ],
+        "title": "Template:Col-2",
+        "touched": "2015-12-03T05:31:42Z"
+      },
+      "1148": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1872,
+        "length": 434,
+        "new": "",
+        "ns": 10,
+        "pageid": 1148,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1872,
+            "slots": {
+              "main": {
+                "*": "<h2 class=\"MainpageHeaderSecondRenaissance\" style=\"padding:0.2em 0.4em; margin:10px 0 10px 0; border:1px solid #000; background:#2E5884; color:#FFF; font-size:120%; font-weight:bold; text-align:left; -moz-border-radius:0.2em;\">{{{1|Example text}}}</h2><noinclude>\n==Documentation==\nSimple add <code><nowiki>{{MainpageHeading|Text}}</nowiki></code> to the mainpage, and replace \"Text\" with the text the heading should show.</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-03T05:33:09Z"
+          }
+        ],
+        "title": "Template:MainpageHeading SecondRenaissance",
+        "touched": "2015-12-03T05:33:09Z"
+      },
+      "1149": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1873,
+        "length": 25,
+        "new": "",
+        "ns": 10,
+        "pageid": 1149,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1873,
+            "slots": {
+              "main": {
+                "*": "|}<noinclude></noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-03T05:38:17Z"
+          }
+        ],
+        "title": "Template:Col-end",
+        "touched": "2015-12-03T05:38:17Z"
+      },
+      "1150": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1878,
+        "length": 53,
+        "new": "",
+        "ns": 1,
+        "pageid": 1150,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1878,
+            "slots": {
+              "main": {
+                "*": "The humans are obviously the saviors of this species.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-03T07:01:20Z"
+          }
+        ],
+        "title": "Talk:Tel-bn/@comment-27084453-20151203070120",
+        "touched": "2015-12-03T07:01:20Z"
+      },
+      "1151": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1879,
+        "length": 22,
+        "new": "",
+        "ns": 1,
+        "pageid": 1151,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1879,
+            "slots": {
+              "main": {
+                "*": "This should be a book!",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-03T14:41:14Z"
+          }
+        ],
+        "title": "Talk:Tel-bn/@comment-192.154.63.76-20151203144113",
+        "touched": "2015-12-03T14:41:14Z"
+      },
+      "1153": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Eagle 9 Booster.png"
+          }
+        ],
+        "lastrevid": 1886,
+        "length": 38,
+        "new": "",
+        "ns": 6,
+        "pageid": 1153,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1886,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[File:Eagle 9 Booster.png]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-04T00:15:21Z"
+          }
+        ],
+        "title": "File:Eagle 7 Booster.png",
+        "touched": "2017-10-15T18:02:44Z"
+      },
+      "1154": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Planetary Commonwealths of the United States"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Planets"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Venus"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:1200px-TerraformedVenus.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Venus Flag.png"
+          }
+        ],
+        "lastrevid": 11898,
+        "length": 7643,
+        "links": [
+          {
+            "ns": 0,
+            "title": "American, Venusian people"
+          },
+          {
+            "ns": 0,
+            "title": "Demographics of Venus"
+          },
+          {
+            "ns": 0,
+            "title": "Earth"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Venus"
+          },
+          {
+            "ns": 0,
+            "title": "ISO 4217"
+          },
+          {
+            "ns": 0,
+            "title": "List of countries by population"
+          },
+          {
+            "ns": 0,
+            "title": "Mars Corporation"
+          },
+          {
+            "ns": 0,
+            "title": "Mercury"
+          },
+          {
+            "ns": 0,
+            "title": "NASA"
+          },
+          {
+            "ns": 0,
+            "title": "Politics of Venus"
+          },
+          {
+            "ns": 0,
+            "title": "Sol system"
+          },
+          {
+            "ns": 0,
+            "title": "Venus Group"
+          },
+          {
+            "ns": 0,
+            "title": "Venus in 2160 of Venus"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1154,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11251,
+            "revid": 11898,
+            "slots": {
+              "main": {
+                "*": "{{Infobox country\n|conventional_long_name = Planetary Commonwealth of Venus\n|national_motto = \"Forged World\"\n|national_anthem = \"The Star-Spangled Banner\"\n|capital = Themyscira\n|largest_city = Venera\n|languages = English (de facto)\n|demonym = American, Venusian\n|languages_type = \n|lang_others= Spanish, Tamil, Bengal, Chinese, Polish, etc.\n|government_type = United States Planetary Commonwealth\n|leader_title1 = Planetary-Governor\n|leader_name1 = Jeriel Cortes\n|legislature = Venusian Congress\n|upper_house = Planetary Senate\n|lower_house = Planetary Assembly\n|established_event1 = Formation \n|sovereignty_type = Admitted to the Union\n|established_date1 = July 4, 2137\n|area_rank = 2nd\n|area_sq_mi = \n|population_estimate = 1 Billion\n|population_estimate_year = 2160\n|population_estimate_rank = 3rd\n|currency = United States dollar ($)\n|currency_code = USD\n|image_flag = Venus_Flag.png\n|leader_title2 = Lieutenant Governor\n|leader_name2 = Andrew Pham\n|image_symbol = 1200px-TerraformedVenus.jpg|symbol_type = Venus in 2160}}\n'''Venus''' is the second planet from the Sun in the [[Sol system|Sol System]]. The planet is named after [https://en.wikipedia.org/wiki/Venus_(mythology) Venus, the Roman goddess of love]; it is also referred to as the Second World, the Sister Planet, and the 2nd Rock. Home to millions of species, including humans, Venus became the third planet to support human civilization when it achieved human rated habitability in 2140, after more than 100 years of terraforming.\n\nVenus is a relatively wet planet with 85% of its surface covered in Water. Venus is a terrestrial planet with an atmosphere conditioned to be as thick as [[Earth]]’s, having surface features of plains and deserts interspersed with slab-like rocks and periodically refreshed by volcanism. The first humans began exploring Venus in the late 2020s after decades of sparse robotic exploration; the first research colonies sprang up on the surface by the end of the decade; and in 2033 humans began the decades long process of terraforming Venus into a habitable world. Since then, humans have significantly altered the atmosphere and other abiotic conditions on the planet, enabling the proliferation of organisms as well as the formation of the ozone layer which, together with Venus's new magnetic field, blocks harmful radiation, permitting macroscale life on the surface. The physical properties of the planet Venus, as well as its geological history and orbit, allowed life to persist naturally during a brief period roughly 3 billion years ago, prior to a run-away green house effect that saw the boiling off of Venus's oceans, and the extreme thickening of its atmosphere.\n\nVenus originally had a very slow retrograde spin, most likely the result of a major impact during the formation of the solar system. During terraforming, two Lofstrom Loops were constructed at opposite points along the equator to eject some of the Venusian atmosphere to reverse this rotation, and produce a 24 hour day. This process took over five decades, but spared the planet from additional bombardments that would have delayed colonization even further.\n\nBoth the mineral resources of the planet, as well as the products of the biosphere, contribute resources that are used to support the limited human population, and will support billions of future colonists. Human cultures have developed many views of the planet, including personification as a deity, a new home for humanity, and the next step as a space faring civilization\n\n==History==\n==='''Early exploration'''===\nBy 2027 a number new, smaller companies and some [[Mars Corporation]] alums created [[Venus Group]] to spur aggressive investment in space futures. The Company procured an ITS Cargo carrier and adapted it using principles created for [[NASA]]'s proposed HAVOC mission. The first Human Mission to Venus was launched in April 2028 as part of a joint flight with NASA to study [[Mercury]] and explore recently identified Vulcanoids orbiting the sun. Upon reaching Venus the crew entered the upper atmosphere and deployed a dirigible to provide a base of operations in the relatively stable upper atmosphere. For the next 15 years, efforts to explore the surface were largely limited to robotic missions, and the Venusian population never climbed beyond a few hundred scientists and engineers.\n\n==='''Terraforming'''===\nLE, Venus Group's largest investor, began the construction on a large solar shield and magnetic shade for the planet at the same time that they were building the Mars Solar Reflectors. The sunshade was the largest object made by humans until the creation of the Titan Nano-Dome, and upon being delivered to Venusian L1 in 2036 the massive shade began lowering the planet's temperature. <span>One initial concern of the terraforming group was the possible presence of native microbial life in Venus's upper atmosphere. However, after a series of manned and unmanned probes into the planet's atmosphere no evidence of life was found. </span>By 2045 the planet had dropped sufficiently in temperatures to justify the construction of two gigantic Loftstrom Loops using molecular compilers. The simple machines began accelerating excess atmosphere from Venus into space, reversing its rotation to a pro-grade spin by 2054. Along with the seeding of reflective bacteria into the atmosphere and use ambient heat to provide energy to procreate, Venus eventually became cold enough to support regular surface operations by the 2060s.\n\nIn 2048 the first deliveries of Jovian Hydrogen to Venus reached Venus, with the program given a significant boost in funding post-WWIII. Upon entering the atmosphere of Venus the Hydrogen bonded to the CO2 in the atmosphere and formed water and pure carbon. Originally the water would simply boil off and remain in the upper atmosphere, but by the 2060s the planet became cold enough for water vapor to exist at lower altitudes, allowing for the seeding of extremophiles designed to process CO2 into Oxygen and begin converting the toxic surface into useful soils. Perhaps the most unique feature of modern Venus is the incredible color spectrum of its soil, particularly in and around its beaches. Sulfur from the Venusian atmosphere was sequestered by these extremophiles into trisulfur compounds, most notably in the form of lapis sands or ultramarine sands. Others used the surplus carbon dioxide of the atmosphere to break down the basalt rock of the surface in reactive processes that produced micro-corals, along with opaline and abalone sands. Collectively this has produced Venus's iconic beaches of iridescent blue, purple, and black sands.\n\nBy 2085 Venus received its first hosts of mosses, algae, fungi and lichens. and the Solar Shield was angled to allow additional light to reach the planet. To protect the surface, a Green Magenetoshield was positioned in L1 with the Sunshade. The first oceans began to form by 2090 and by 2102 the planet's rotation has reached a comfortable 24 hour day and surface temperatures had normalized to the point where the last remaining hosts of biomass could be introduced. Additional deliveries of Hydrogen would continue until the 2140s upon which Venus would play host to a series of oceans and a diverse biosphere.\n\nAs of 2153, Venus is preparing to receive a proper moon to help create a sustainable magnetic field. Much like the Mars-Eris project, this will see the use of graviton propulsion to move a Kuiper Belt Object down system and into Venusian orbit.\n\n==='''Terran Diaspora'''===\nTBA\n[[Category:Venus]]\n[[Category:Planets]]\n[[Category:Planetary Commonwealths of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-09-22T14:54:30Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          }
+        ],
+        "title": "Venus",
+        "touched": "2025-09-22T14:54:30Z"
+      },
+      "1155": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6451,
+        "length": 0,
+        "ns": 6,
+        "pageid": 1155,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1894,
+            "revid": 6451,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-17T23:28:20Z"
+          }
+        ],
+        "title": "File:Helping-01.png",
+        "touched": "2017-11-10T19:53:51Z"
+      },
+      "1156": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6455,
+        "length": 0,
+        "ns": 6,
+        "pageid": 1156,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1895,
+            "revid": 6455,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-17T23:38:32Z"
+          }
+        ],
+        "title": "File:User Blogs-01.png",
+        "touched": "2017-11-10T20:02:04Z"
+      },
+      "1157": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1901,
+        "length": 0,
+        "ns": 6,
+        "pageid": 1157,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1899,
+            "revid": 1901,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-07T01:18:24Z"
+          }
+        ],
+        "title": "File:SR Timeline.png",
+        "touched": "2015-12-07T01:18:24Z"
+      },
+      "1158": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1910,
+        "length": 41,
+        "new": "",
+        "ns": 1,
+        "pageid": 1158,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1910,
+            "slots": {
+              "main": {
+                "*": "Any other application for nanotechnology?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-12T08:32:13Z"
+          }
+        ],
+        "title": "Talk:Nanotechnology/@comment-27084453-20151212083213",
+        "touched": "2015-12-12T08:32:13Z"
+      },
+      "1159": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1912,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1159,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1912,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-12T16:56:21Z"
+          }
+        ],
+        "title": "Message Wall:Eragaxshim",
+        "touched": "2015-12-12T16:56:39Z"
+      },
+      "1160": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1913,
+        "length": 201,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Luna"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1160,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1913,
+            "slots": {
+              "main": {
+                "*": "Hi, welcome to {{SITENAME}}! Thanks for your edit to the [[:Luna]] page.\n\nPlease leave me a message if I can help with anything!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-12T16:56:28Z"
+          }
+        ],
+        "title": "Thread:Eragaxshim/@comment-22439-20151212165626",
+        "touched": "2015-12-12T16:56:28Z"
+      },
+      "1161": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 1914,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 1161,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1914,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-12T16:56:39Z"
+          }
+        ],
+        "title": "User:Eragaxshim",
+        "touched": "2015-12-12T16:56:39Z"
+      },
+      "1162": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Countries in the Middle East"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Flag of Israel.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Israel.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Israel CoA.png"
+          }
+        ],
+        "lastrevid": 11389,
+        "length": 5208,
+        "links": [
+          {
+            "ns": 0,
+            "title": "African Commonwealth"
+          },
+          {
+            "ns": 0,
+            "title": "Arabian Association"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "The Refreeze"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1162,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11388,
+            "revid": 11389,
+            "slots": {
+              "main": {
+                "*": "{| border=\"1\" cellspacing=\"0\" cellpadding=\"4\" width=\"300\" align=\"right\" style=\"margin: 0 0 1em 1em; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;\"\n|- bgcolor=\"#f9f9f9\"\n| colspan=\"2\" align=\"center\" |<big>'''State of Israel'''</big><br /><big>'''מְדִינַת יִשְׂרָאֵל'''</big>\n|-\n| align=\"center\" |[[File:Flag_of_Israel.png|125px]]\n| align=\"center\" |[[File:Israel_CoA.png|85px]]\n|- bgcolor=\"#f9f9f9\"\n| colspan=\"2\" align=\"center\" |'''Anthem'''<br />''\"Hatikvah\"''\n|- bgcolor=\"#f9f9f9\"\n| colspan=\"2\" align=\"center\" |\n[[File:Israel.png|none|thumb|250x250px]]<small>''Israel in 2040''</small>\n|- bgcolor=\"#f9f9f9\"\n|'''Capital'''\n| Jerusalem\n|- bgcolor=\"#f9f9f9\"\n|'''Official language'''\n|Hebrew\n|- bgcolor=\"#f9f9f9\"\n|'''Government'''\n|Unitary parliamentary republic\n|}\n'''Israel''', officially the '''State of Israel''' is a country in West Asia. It is bordered to the East and North by the [[Arabian Association]], from the Southwest by the [[African Commonwealth]], by the Red Sea to the south, and by the Mediterranean Sea to the west. Greater Tel Aviv is the financial, economic, and technological center of the country, while its seat of government is in the capital of Jerusalem.\n\n==History==\nFormed out of the British Mandate of Palestine in 1948, Israel was created originally to act as a homeland for European Jews after the Jewish Holocaust. Upon declaring independence, Israel carried out the ethnic cleansing of Palestinians and the destruction of hundreds of Palestinian settlements, known as the First Nakba. After facing international pressure, and not having the means to fully displace the Palestininans from their territory, Israel initiated a policy of gradual colonization by permitting Jews to settle in the Palestinian territories, which were condemned by the United Nations as violating international law. Despite multiple attempts by Palestinians and the international community to curb the growth of the settlements, Israel gradually established dominance over most of the territory along the west bank of the Jordan River, and largely walled off the Palestinian exclave in Gaza City.\n\nIsrael's main purpose for taking over the bulk of Palestinian territory west of the Jordan River was out of a desire to make the Jordan Valley the nation's breadbasket. After [[The Flood|sea levels rose in the 2020s]], the Jordan Valley was flooded and this dream largely died. Israel was forced to deepen ties with Turkey and Egypt, one a longstanding ally, the other a former rival. For the 2030s and much of the 2040s, many had hoped that the new state of affairs in Israel would compel an end to the settlement policy, and, at the very least, allow for the creation of some kind of a Palestinian autonomous zone or microstate. However, as sea levels continued to rise, Gaza City was eventually flooded and millions of Palestinians were forced to flee. Rather than integrate the displaced Gazans, Israel directed its military to drive the Palestinians into refugee camps in the Sinai. This prompted uprisings in the West Bank which led to the Second Nakba, an event that saw Palestinians forcibly relocated to the Sinai or Jordan The Palestinian Refugee Crisis brought the Israelis to the brink of conflict with Egypt, however, in a last minute deal brokered by Turkey, Israel agreed to cover the cost of feeding and caring for the Palestinians, so long as they remained in the Sinai camps. Israel further agreed to remain neutral in any [[World War III |future conflict between Turkey and the US]] effectively ending its alliance with the United States until World War III ended. The Palestinians would gradually leave the Sinai camps over the coming years and decades, before the camps were dissolved by Egypt after the closing of the Sinai Straight in the 2060s.\n\nWhile the Earth Working Group worked to initiate the [[The Refreeze]], Israel built out the canal from Haifa to the Red Sea to ensure the continued existence of the Sea of Jordan as a defensive position against further hostilities with its Arab neighbors. This project was part of a long-term effort to essentially terraform Israel's Deserts, a process that began shortly after Israel's founding and became the higher priority following the Flood. The Negev Desert, while reduced in scope, would become home to Israel's largest collection of greenhouses and algae farms.\n\nAfter the end of the [[Third Mexican-American War]], Israel agreed to become a protectorate of the United States, re-establishing a historic alliance that had gone cold for the better part of a century. However, Israel's geographic isolation has led to it becoming one of the most geopolitically isolated members of the American Protectorate System. The issue of Palestinian Repatriation remains a sensitive topic, and Israel routinely threatens rearmament and a decoupling from the Protectorate System if forced to take on the decedents or living survivors of the First or Second Nakbas. However, as of 2160, 57% of Israelis support some form of reparations to Palestinians, while 49% support repatriation for living survivors of the Second Nakba and their immediate families.\n\n\n[[Category:Countries in the Middle East]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-10-28T14:30:28Z"
+          }
+        ],
+        "title": "Israel",
+        "touched": "2023-10-28T14:30:28Z"
+      },
+      "1163": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Coats of arms"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6114,
+        "length": 27,
+        "ns": 6,
+        "pageid": 1163,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1921,
+            "revid": 6114,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Coats of arms]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:48:45Z"
+          }
+        ],
+        "title": "File:Israel CoA.png",
+        "touched": "2017-11-08T00:10:30Z"
+      },
+      "1164": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6113,
+        "length": 52,
+        "ns": 6,
+        "pageid": 1164,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1922,
+            "revid": 6113,
+            "slots": {
+              "main": {
+                "*": "== Licensing ==\n{{From Wikimedia}}\n[[Category:Maps]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:48:38Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:From Wikimedia"
+          }
+        ],
+        "title": "File:Israel.png",
+        "touched": "2017-11-08T00:10:30Z"
+      },
+      "1165": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1927,
+        "length": 45,
+        "new": "",
+        "ns": 1,
+        "pageid": 1165,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1927,
+            "slots": {
+              "main": {
+                "*": "I have edited this page to fit this timeline.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-12T20:18:07Z"
+          }
+        ],
+        "title": "Talk:Israel/@comment-27084453-20151212201807",
+        "touched": "2015-12-12T20:18:07Z"
+      },
+      "1166": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1931,
+        "length": 71,
+        "new": "",
+        "ns": 1,
+        "pageid": 1166,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1931,
+            "slots": {
+              "main": {
+                "*": "I guess SR on Future.wikia is not 100% identical to this timeline then?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-12T20:25:42Z"
+          }
+        ],
+        "title": "Talk:Israel/@comment-27084453-20151212201807/@comment-24363993-20151212202542",
+        "touched": "2015-12-12T20:25:42Z"
+      },
+      "1167": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1935,
+        "length": 331,
+        "ns": 1,
+        "pageid": 1167,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1934,
+            "revid": 1935,
+            "slots": {
+              "main": {
+                "*": "You are right. YNot1989 changed many things when he switched to creating his own wikia. But there is more to than that. The Israel page for SR on Future-wikia is wrong. My edit is based on a comment that YNot1989 made on DeviantArt about Israel's future. My edit was made to keep it in-line with YNot1989's vision of this scenario.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-12T20:36:17Z"
+          }
+        ],
+        "title": "Talk:Israel/@comment-27084453-20151212201807/@comment-27084453-20151212203434",
+        "touched": "2015-12-12T20:36:17Z"
+      },
+      "1168": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1936,
+        "length": 137,
+        "new": "",
+        "ns": 1,
+        "pageid": 1168,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1936,
+            "slots": {
+              "main": {
+                "*": "By the way, I would like to congratulate you on fixing some typos on the pages for the Frontier Project and the United States of America.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-12T20:40:42Z"
+          }
+        ],
+        "title": "Talk:Israel/@comment-27084453-20151212201807/@comment-27084453-20151212204042",
+        "touched": "2015-12-12T20:40:42Z"
+      },
+      "1169": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1937,
+        "length": 123,
+        "new": "",
+        "ns": 1,
+        "pageid": 1169,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1937,
+            "slots": {
+              "main": {
+                "*": "Ah, ok. Thanks for answering. When I casually read through things I just can't resist to fix typo's, so you're welcome ;) ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-12T21:37:17Z"
+          }
+        ],
+        "title": "Talk:Israel/@comment-27084453-20151212201807/@comment-24363993-20151212213717",
+        "touched": "2015-12-12T21:37:17Z"
+      },
+      "1170": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1942,
+        "length": 235,
+        "new": "",
+        "ns": 1,
+        "pageid": 1170,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1942,
+            "slots": {
+              "main": {
+                "*": "Increased use of television adaptations into the virtual industry such as X-Men, Avatar, Adventure Time, Attack on Titan, Steven Universe, and Star Wars.\n\nI was wondering what you mean by Avatar. The cartoon or the James Cameron movie?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-15T06:12:32Z"
+          }
+        ],
+        "title": "Talk:22nd Century/@comment-27084453-20151215061231",
+        "touched": "2015-12-15T06:12:32Z"
+      },
+      "1171": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1943,
+        "length": 139,
+        "new": "",
+        "ns": 1,
+        "pageid": 1171,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1943,
+            "slots": {
+              "main": {
+                "*": "The James Cameron movie, as the Last Airbender (the cartoon) is already mentioned as being a virtual released in 2038 on the Virtuals page.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-15T06:56:26Z"
+          }
+        ],
+        "title": "Talk:22nd Century/@comment-27084453-20151215061231/@comment-24363993-20151215065626",
+        "touched": "2015-12-15T06:56:26Z"
+      },
+      "1172": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1948,
+        "length": 139,
+        "new": "",
+        "ns": 1,
+        "pageid": 1172,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1948,
+            "slots": {
+              "main": {
+                "*": "I was thinking that since hostilities between the US and Japan will have subsided by 2070 that those that you just deleted should be there.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-15T23:27:37Z"
+          }
+        ],
+        "title": "Talk:Virtuals/@comment-27084453-20151215232736",
+        "touched": "2015-12-15T23:27:37Z"
+      },
+      "1173": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1949,
+        "length": 432,
+        "new": "",
+        "ns": 1,
+        "pageid": 1173,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1949,
+            "slots": {
+              "main": {
+                "*": "My issue wasn't with a return to Japanese media being marketed to Americans, it was with what would be our grandkids generation caring at all about re-re-remakes and adaptation of media we liked when we were kids. I suspect by 2070, what we love will be out of style and we'll have to accept that the culture is chaning. Its why I started making up content past WWIII (I let Steve King go because he's a modern master of his genre).",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-16T18:43:20Z"
+          }
+        ],
+        "title": "Talk:Virtuals/@comment-27084453-20151215232736/@comment-899576-20151216184320",
+        "touched": "2015-12-16T18:43:20Z"
+      },
+      "1174": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1950,
+        "length": 243,
+        "new": "",
+        "ns": 1,
+        "pageid": 1174,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1950,
+            "slots": {
+              "main": {
+                "*": "I never thought of that, but both franchises are very important in the history of the US. ''Sailor Moon'' led to an increase in female superheroes. ''The Legend of Zelda'' helped make video games popular again, along with ''Super Mario Bros.''",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-12-17T02:38:36Z"
+          }
+        ],
+        "title": "Talk:Virtuals/@comment-27084453-20151215232736/@comment-27084453-20151217023836",
+        "touched": "2015-12-17T02:38:36Z"
+      },
+      "1176": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3222,
+        "length": 38,
+        "ns": 1,
+        "pageid": 1176,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1959,
+            "revid": 3222,
+            "slots": {
+              "main": {
+                "*": "Could someone please expand this page?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-05T19:54:29Z"
+          }
+        ],
+        "title": "Talk:Wearable technology/@comment-27084453-20151221174051",
+        "touched": "2017-03-05T19:54:29Z"
+      }
+    }
+  }
+}

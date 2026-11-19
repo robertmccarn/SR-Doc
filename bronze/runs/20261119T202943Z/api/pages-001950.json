@@ -1,0 +1,1520 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "2028": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5298,
+        "length": 238,
+        "new": "",
+        "ns": 1,
+        "pageid": 2028,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5298,
+            "slots": {
+              "main": {
+                "*": "This is stupid and non functional action to change the entire election process to apease only a hand full of intelectuals who have never been to war.  you people are more than ignorant about our system of government and election process.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-25T03:09:19Z"
+          }
+        ],
+        "title": "Talk:Twenty-eighth Amendment to the United States Constitution/@comment-71.82.83.145-20170825030919",
+        "touched": "2017-08-25T03:09:20Z"
+      },
+      "2029": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5299,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2029,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5299,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-25T03:09:20Z"
+          }
+        ],
+        "title": "Message Wall:71.82.83.145",
+        "touched": "2017-08-25T03:09:21Z"
+      },
+      "2030": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5300,
+        "length": 780,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Twenty-eighth Amendment to the United States Constitution"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2030,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5300,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Twenty-eighth Amendment to the United States Constitution]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-25T03:09:21Z"
+          }
+        ],
+        "title": "Thread:71.82.83.145/@comment-32769624-20170825030921",
+        "touched": "2023-01-06T16:29:52Z"
+      },
+      "2031": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5301,
+        "length": 12,
+        "new": "",
+        "ns": 1,
+        "pageid": 2031,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5301,
+            "slots": {
+              "main": {
+                "*": "Cool article",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-25T05:02:18Z"
+          }
+        ],
+        "title": "Talk:First Nations War/@comment-27494008-20170825050218",
+        "touched": "2017-08-25T05:02:18Z"
+      },
+      "2032": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5302,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2032,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5302,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-25T05:02:19Z"
+          }
+        ],
+        "title": "Message Wall:TheWearyandHeavyLaden",
+        "touched": "2017-08-25T05:02:21Z"
+      },
+      "2033": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5303,
+        "length": 560,
+        "links": [
+          {
+            "ns": 0,
+            "title": "First Nations War"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2033,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5303,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:First Nations War]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-25T05:02:20Z"
+          }
+        ],
+        "title": "Thread:TheWearyandHeavyLaden/@comment-32769624-20170825050220",
+        "touched": "2017-08-25T05:02:21Z"
+      },
+      "2034": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5309,
+        "length": 64,
+        "new": "",
+        "ns": 1,
+        "pageid": 2034,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5309,
+            "slots": {
+              "main": {
+                "*": "This is pretty much the WW3 described in George Friedman's book.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-25T18:40:12Z"
+          }
+        ],
+        "title": "Talk:World War III/@comment-29700326-20170825184012",
+        "touched": "2017-08-25T18:40:12Z"
+      },
+      "2035": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5310,
+        "length": 55,
+        "new": "",
+        "ns": 1,
+        "pageid": 2035,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5310,
+            "slots": {
+              "main": {
+                "*": "You are such a [bleep]ing idiot. Go get your shine box.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-25T19:28:19Z"
+          }
+        ],
+        "title": "Talk:Twenty-eighth Amendment to the United States Constitution/@comment-71.82.83.145-20170825030919/@comment-27084453-20170825192819",
+        "touched": "2017-08-25T19:28:19Z"
+      },
+      "2036": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5314,
+        "length": 204,
+        "ns": 1,
+        "pageid": 2036,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5311,
+            "revid": 5314,
+            "slots": {
+              "main": {
+                "*": "You could add your own argument/reasons why you don't think it is a good system in the opposition section\n\ntbh i don't support it either because it overcomplicates things but it's part of the lore for now",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-26T01:44:28Z"
+          }
+        ],
+        "title": "Talk:Twenty-eighth Amendment to the United States Constitution/@comment-71.82.83.145-20170825030919/@comment-5590986-20170825215956",
+        "touched": "2017-08-26T01:44:28Z"
+      },
+      "2037": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6024,
+        "length": 18,
+        "ns": 6,
+        "pageid": 2037,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5312,
+            "revid": 6024,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Maps]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:25:19Z"
+          }
+        ],
+        "title": "File:Cannabis Legalization 2028.png",
+        "touched": "2017-11-08T00:09:48Z"
+      },
+      "2038": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5316,
+        "length": 66,
+        "new": "",
+        "ns": 1,
+        "pageid": 2038,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5316,
+            "slots": {
+              "main": {
+                "*": "It's influenced by Friedman, as well as current and likely trends.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-26T15:10:13Z"
+          }
+        ],
+        "title": "Talk:World War III/@comment-29700326-20170825184012/@comment-30470028-20170826151013",
+        "touched": "2017-08-26T15:10:13Z"
+      },
+      "2039": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6040,
+        "length": 18,
+        "ns": 6,
+        "pageid": 2039,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5322,
+            "revid": 6040,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Maps]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:28:41Z"
+          }
+        ],
+        "title": "File:First Nations War.png",
+        "touched": "2018-11-11T17:38:30Z"
+      },
+      "2040": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Alien species"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11065,
+        "length": 5563,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Umknovola"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2040,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10885,
+            "revid": 11065,
+            "slots": {
+              "main": {
+                "*": "'''Kahi'Umknovola''' or '''Kahi ('''''Thermocephalus proteles'') are the only intelligent inhabitants of the planet [[Umknovola]] in the 109 Piscium system. They are bipedal pseudo-tetrapods evolved for 27% higher gravity than Earth.\n\n== Evolution ==\nThe clade of \"vertebrates\" that the <span>Kahi'Umknovola belong to is a relatively recent phenomenon in the history of their planet. \"Vertebrates\" on Umknovola evolved from ancestors resembling sea cucumbers, with a retractable feeding proboscis that folds into the \"mouth\" when not in use. Their limbs evolved from fleshy pseudopods originally used for crawling on the ocean floor. These \"vertebrates\" have come to dominate land-dwelling life on their planet just as vertebrates on Earth did, evolving into every conceivable niche.</span>\n\nThe <span>Kahi'Umknovola are the end result of an innovation that occurred relatively recently, about 40 million years ago. One clade of \"vertebrates\" evolved the first equivalent of a true endothermic metabolism on Umknovola, and this led to the evolution of larger brains and eventually sapience.</span>\n\n==Description==\nKahi'Umknovola stand just under two meters tall with a distinctively muscular physique with secondary muscle groups supporting their extremities, most noticeably being the front facing layer of muscles connecting their pectorals to their neck and their temples, forming a continuous mass rather than a distinct neck and head. Additionally, their bodies are marked by several dense clusters of sweat glands similar to human armpits to bleed any excess buildup of heat from overexertion.\n\nDespite their intimidating image, the Kahi are known to be a particularly good-natured species with a lower propensity for aggression than natural humans.\n\n==History==\n==='''Early civilizations'''===\nUmknovola is believed to have been continuously inhabited by intelligent civilization longer than any other world known to humanity with the earliest evidence of the written word having been dated as far back as 125,000 years, nearly 25 times older than the oldest examples of cuneiform. It is believed bronze age civilizations emerged no less than five times in Umknovola's history and has been closely studied to explain \"the Great Filter,\" that apparently hinders the development of advanced civilizations.\n\nThere is evidence that, given the age of the planet, the earliest bronze age civilizations on Umknovola were not established by the same species as the Kahi'Umknovola, and evidence suggests that between the 3rd and 4th emergence of civilization around 50,000 years ago, the Kahi emerged from a common ancestor of the previous civilization, akin to modern humans' relationship with neanderthals. Some evidence from this era even suggests that both species treated each other as slaves at one time or another.\n\n==='''Contemporary civilization'''===\nThe current, and by far most successful Kahi civilization emerged roughly 6000 years ago and has since emerged to a point akin to Earth during the Roman Era, though many consider this to be a gross oversimplification of the species technological development. Despite having not yet discovered gunpowder, the most advanced Kahi civilizations have developed primitive gearboxes to drive a wide variety of more industrialized artisan activity. The largest Kahi settlements are located in river valleys where wind and water power provide enough mechanical energy to drive a wide array of mills and industrial machines. As such the Kahi have access to textiles, machining, and irrigation systems.\n\n==='''First contact'''===\nFirst contact with humanity occurred on June 30, 2110 (Earth Standard). An away team from IV-403 ''Endurance'' landed just outside the largest settlement on the planet, Timur'Nuvoa after more than four months in orbit. The Nuvoa people were apparently recovering from a war with several neighboring states three years earlier and eager to meet the human travelers. As per protocol the Discovery's captain, Michelle Hirono and a team of diplomats met with the Nuvoa leadership and began peaceful relations with them as they were the most advanced and socially developed civilization on the planet. The Nuvoa went so far as to grant Humanity not just a single building, but an entire district of Timur'Nuvoa to serve as humanity's diplomatic center. Apparently Timur'Nuvoa had been the site of many ancient civilizations and while extremely developed, about a third of the city was still largely uninhabited.\n\nThe Nuvoa called a special council with their neighboring states and agreed to a formal ceasing of hostilities upon seeing the technological wonders these newcomers had brought with them. Technological optimism was extremely prevalent across Umknovola's more advanced nations, giving rise to the comparison to Earth's own Enlightenment Age. The Human District quickly became flooded by learned individuals from across the planet seeking an exchange of knowledge for their various fields.\n\n==='''Kahi Golden Age'''===\nOver the following generations humans helped the Kahi cure disease, achieve planet-wide peace, and improve industry and agriculture to enable a population explosion. As of 2160 the Kahi number 2.8 billion individuals having risen from just over one billion at the time of first Contact. A planet-wide government has been formed and there are the Kahi joined the American system as a Free Association in 2158. They are one of the first extraterrestrial species to fall under the Terran sphere of influence outside of the Sol system.\n[[Category:Alien species]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-01-28T23:57:07Z"
+          }
+        ],
+        "title": "Kahi'Umknovola",
+        "touched": "2023-01-28T23:57:07Z"
+      },
+      "2041": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5340,
+        "length": 72,
+        "new": "",
+        "ns": 1,
+        "pageid": 2041,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5340,
+            "slots": {
+              "main": {
+                "*": "The circumstances of the settling of Luna definitely need to be revised.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-27T16:09:03Z"
+          }
+        ],
+        "title": "Talk:Luna/@comment-30470028-20170827160903",
+        "touched": "2017-08-27T16:09:06Z"
+      },
+      "2042": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5348,
+        "length": 23,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Space Age"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 2042,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5348,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Space Age]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-27T16:55:23Z"
+          }
+        ],
+        "title": "Colonial Era",
+        "touched": "2025-10-22T17:52:31Z"
+      },
+      "2043": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century economic history"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5376,
+        "length": 100,
+        "ns": 0,
+        "pageid": 2043,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5360,
+            "revid": 5376,
+            "slots": {
+              "main": {
+                "*": "The Winter Recession was the worst recession in 40 years.\n[[Category:21st-century economic history]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-30T14:24:36Z"
+          }
+        ],
+        "title": "Winter Recession",
+        "touched": "2017-08-30T14:24:37Z"
+      },
+      "2044": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5374,
+        "length": 322,
+        "ns": 1,
+        "pageid": 2044,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5373,
+            "revid": 5374,
+            "slots": {
+              "main": {
+                "*": "2.8 Billion Aliens forming a planet wide government and became an American Free Association?\n\noy vey that would complicate things/bring up a lot of questions\n\n\n\nWe goin' to need some kind of organized tracker for all these \"Astrospherical\"  (Galactic regions influenced by Earth) and the Galactic populations and politics",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-30T04:01:12Z"
+          }
+        ],
+        "title": "Talk:Kahi'Umknovola/@comment-5590986-20170830035715",
+        "touched": "2017-08-30T04:01:12Z"
+      },
+      "2045": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Species"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Giant Spotted Porpid.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Harbor Porpid.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Isonade.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:White Porpid.png"
+          }
+        ],
+        "lastrevid": 10760,
+        "length": 23342,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Mars"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2045,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10759,
+            "revid": 10760,
+            "slots": {
+              "main": {
+                "*": "The fauna of [[Mars]] includes all the animals living on the planet Mars, beneath its seas, and on its off-world habitats. Mars has many distinctive indigenous species tailored by humans during the terraforming process. At a distance from the sun 50% greater than the Earth, and only 38% terran gravity, the species inhabiting Mars are noticeably larger than their counterparts on Earth, and adapted for colder average temperatures.\n\nMars has eleven life zones which are the lower Noachian (desert); Greater Margartifier (temperate lowlands and some coastal lands), Upper Tharsis and Araby (coastal areas and moist northeastern counties); Hesperia (Mediterranean), Hellas and Argyre basins (rolling grasslands and coastal areas), Mariner Valley, and the Elysian, Olympic, and Antarctic Zones, comprising the planet's highest elevations.\n\n=='''Wildlife'''==\n*Avisaurs- Avisaurs are a lineage of animals unique to Mars, which resemble theropod dinosaurs such as dromaeosaurs and oviraptorids. However, they are actually genetically modified birds, with the genes for such traits as teeth, wing claws, and tail bones (which are present but recessive in all birds) \"switched on\" to produce a creature similar to their dinosaur ancestors. \n* Porpids--The largest animals on Mars, these are modified descendants of dolphins and other toothed whales which have become baleen whale-like filter-feeders. Instead of baleen, they use their comblike teeth to filter krill and baitfish from the water, much like the crab-eater seal of Earth. The largest species can grow up to 20 meters long and dwell in the deep waters of the Sea of Hellas.\n* Martian Dragons-- This is a term used to refer to a variety of modified and usually very large reptiles that have been introduced to the planet at various points. Many were created to resemble mythical creatures such as wyverns or Chinese dragons. So far six of these artificial \"species\" have been created, and while they are all designated Dragons, very few have any kind of shared common ancestor, though monitor lizards and girdled lizards tend to be the more common sources of genetic code.\n* Phoenixes-- Like dragons, this is a catchall term for a number of unrelated but typically large and impressive birds found throughout the planet. So far a total of four species have been created, three of them derived from birds of prey and one from waterfowl.\n* Other Modified Species-- Other than the main categories of wildlife on Mars, several other distinct species live here, most either modified from extinct animal DNA, or near exact recreations of actual former Fauna from Earth.\n\n===Noachia===\n* Desert Phoenix-- This mostly terrestrial raptor was engineered from the terran Secretary Bird and Crane Hawk, and can be found throughout the Noachian and Cimmerian deserts. Standing roughly 1.5 meters tall, the Desert Phoenix survives mainly on insects and small reptiles.\n*Woolly Noachian Rhinoceros-- At 7 meters tall, the Noachian Rhino bears a striking resemblance to the ancient ''Paraceratherium'' of Earth, and roams the Noachian plains kicking up soil and depositing feces which provide an essential source of nutrients to the soil, maintaining the southern grasslands. Sporting a thick coat of red fur, the Noachian Rhino is engineered from reconstructed Pleistocene Woolly Rhino DNA.\n*Noachian Giant Tortoise-- A modification to Agassiz's desert tortoise has yielded the largest member of the family Testudinidae at 5 meters in length for an adult male, and weighing in at more than 2000 kg. Due to the low gravity, these tortoises walk in a more erect gait than their terran counterparts.\n\n===Margartifer===\n*Poe-Birds: Modified ravens and crows. Extremely intelligent, at a level rivaling primates. Known to use tools. Frequently scavenge in human cities, feeding on garbage and other waste much as crows on Earth do.\n*Griffins: Modified birds of prey with teeth, long tails, and wing claws. Resemble dromaeosaurs such as ''Deinonychus ''or ''Velociraptor.'' Griffins fill the scavenger niche in the Margartifer lowlands. The smallest species, derived from falcons, hunt rodents, while the larger ones, derived from eagles, are capable of killing mammals up to the size of a Scrofanok.\n*Martian Bison-- Genetically engineered from strains of North American plains bison and various breeds of domesticated cow, the Martian bison was created to handle the harder winters of Mars while providing a docile and reliable source of beef. At 2 meters tall at the shoulder and another 0.25 meters taller at the large hump on the animal's back, the North American bison weighs in at 700 kg.\n*Kestrel Moth-- The second most common pollinating insect on Mars, the Kestrel Moth is a dwarf breed of the Hummingbird hawk-moth of Earth. The species was specifically engineered and introduced to facilitate pollination of Martian produce, and as such its larval stage has been tailored to feed primarily on dead biomass and is repelled by healthy plants. As an adult, the Kestrel moth has a wingspan of only 17mm.\n*Common Avisaur-- Commonly known as the House Avi, the Common Avisaur stands 1 meter tall at head height, comes in a variety of color patterns and is a common pet across Mars. In its \"natural\" environment the Common Avisaur survives primarily by eating small rodents, fish, lizards, and small birds. It traces its origins to the Terran burrowing owl.\n*Martian Honey bee. The most common pollinating insect on Mars and not significantly different from its terran counterpart in anatomy. Its only major biological enhancement has been in its pheromone receptors to govern its ability to sense Martian plant-life that its parents species would be unable to recognize.\n\n===Acidalia Basin===\n*Oxian Drake-- A modification of the Armadillo girdled lizard, and the most common of the dragons. This carnivorous lizard is found in the planet's warmer equatorial regions and grows up to 5 meters long. They actively prey on any smaller animal they can kill, but as with all large Martian predators they have been engineered to instinctively avoid humans.\n*Towerbirds: Modified geese. The largest Avisaurs, standing up to 4.5 meters tall and weighing up to a tonne. Wings are vestigial and tipped with long, rake-like claws, much like the extinct therizinosaurs. These claws are used to gather branches of trees to eat, as well as for display in males.\n* Martian Lynx--The largest purely land-based predator on Mars, a modified, much larger (about the size of a tiger) descendant of the bobcat which feeds on other mammals, birds, and Avisaurs. They were engineered to dislike the odor of humans, as with all large predators on Mars, so unprovoked attacks on humans are nonexistent.\n\n===Amazonis Basin===\n* Great Phoenix-- Sporting a 9 meter wingspan, and iridescent red, orange, and yellow plumage, the Great Phoenix is considered one of the most beautiful birds on Mars. Unlike the other three species of Phoenix the Great Phoenix is not a raptor, but rather a species of waterfowl descended from various species of Swan, Mandarin duck and the Ruddy shelduck. Surviving mainly on small fish and weeds, the Great Phoenix dwells in rivers and lakes across the regions bordering the Amazon Sea, migrating from the northern islands of Elysium to southeastern Araby in the summer and then back down to the Amazonis basin in the winter.\n*Winged Lemur - Modified from the terran flying fox and dwarf lemur, the winged lemur was one of the first organisms engineered using DNA from two separate species. Unlike a flying fox, the winged lemur is not considered a true flying mammal as it is only capable of extended gliding on its realtively short 1.1 meter wingspan.\n* Shen Long- Another aquatic dragon, this one derived from the earless monitor lizard ''Lanthanotus borneensis ''of Borneo. Growing up to 6 meters long, they resemble the archetypal Chinese dragon, and are aquatic fish-eaters which detect prey (mostly bottom-dwelling fish and mollusks) with their sensitive barbels.\n*Hogparrots: Modified parrots with hands and long tails, which resemble the prehistoric ''Oviraptor''. Intelligent and omnivorous, often kept as pets. Can be trained to imitate human speech. Their size is variable, with the smallest varieties (derived from budgerigars) being small enough to perch in a human hand and the largest (derived from macaws) standing up to three feet tall. Unlike other avisaurs, they still lack teeth.\n*Dawn Avisaur-- A genetic descendent of the Carolina parakeet and a scavenger of forest floor fruits and nuts, Dawn Avis are a less common, but still popular pet on Mars.\n*Atlas Sloth Lemur: A very large descendant of ''Palaeopropithecus'' that were brought to Mars during the terraforming process and as a result from spending some time on the formerly red planet, they've grown to a size comparable to ''Gigantopithecus blacki'', the largest terrestrial ape that has ever lived. Much like their smaller ancestors, Atlas Sloth Lemurs are folivores, which means that they eat mostly leaves, but will eat some fruit, and occasionally seeds, if they ever find them.\n\n===Hesperia===\n* Magnificent Windrider-- The largest flying creature on Mars, with a 15-meter wingspan (though at 200 kg its weight is much smaller than the largest dragons), these enormous white birds are modified from Earth's cranes. They are herbivores, feeding on grasses and seeds, and undertake annual high-altitude migrations halfway around the planet to their breeding grounds in Hesperia. Their calls are something not soon forgotten: a majestic trumpeting cry that echoes for miles.\n* Yellow Wyvern- The result of heavy modifications to the genes of the Sulawesi lined gliding lizard, Yellow Wyvern's are named for their distinct yellow wings and serve as the apex predator in the greater Syritis region. With a 9-meter wingspan it is the largest flying dragon outside of the Olympics.\n*Azure Porpid-- One of the smallest species of porpids at 3 meters in length, and sporting a bright blue hide on its back, the Azur porpid cruises the warm waters of the Hesperian Gulf during the winter and migrates to Isidis bay in the summer. It is modified from the Dusky Dolphin\n*Hesperian Seahawk-- Despite its name, this predatory bird is not a true hawk, but a descendent of the Antarctic skua. Unlike their ancestors, they lack webbing on their feet and have enlarged claws for dispatching their prey. They also scavenge a great deal, eating dead animals along the coastlines.\n\n===Elysium===\n* Elysian Serpent- The most docile of the Dragons, and the only species derived from snakes rather than lizards. They live in the river valleys of Elysium and live on a diet of mostly fish and small birds and mammals. They are derived from pythons, namely the reticulated python of Asia and the amethyst python of Australia.\n*Red Elk-- Actually a large species of antelope, and the result of genetically modified Impala, the Red Elk is one of the largest land mammals on Mars, standing roughly 2 meters at shoulder height. and more than 3 meters tall at the top of the head (not counting the horns, which make males seem even larger still).\n*Fenghuang-- The Elysian variety of Phoenix survives primarily on insects and worms in the damp forest floors of Elysium. Genetically derived from the Golden pheasant and Java peafowl, this bird is only a meter in length before including its tail plumage, and are often kept as pets.\n\n===Mariner Valley and East Tharsis===\n* Aurora sea eagle-- <span>The second largest bird on Mars, </span>derived from the Steller's sea eagle of Earth, and feeds mainly on fish and other birds. Its wingspan reaches up to 8.5 meters--far larger than the 2.7 meters or so reached by its unmodified ancestor, but still small compared to the largest dragons and windriders.\n* Great Golden Eagle-- Derived from the Golden eagle, these immense raptors nest in caves a ledges along Mariner Valley and can grow to a wing-span of 8 meters. They are both predators and scavengers, hunting mammals such as Scrofanoks and birds such as Windriders.\n* Common Phoenix-- This average sized raptor is derived from the Red Tailed Hawk and can be found in forests, mountains, and cities all over Mars mostly feeding on rodents and smaller birds. These birds sport a wingspan of 1.5 meters and bright Red-orange and golden plumage.\n* Mariner Wyvern- Approximately 5-meters in length, this species was one of the later predators introduced into the Martian biosphere. Modified primarily from the gliding lizard ''Draco volans'', the Mariner Wyverns feature a set of wings created from the fusion of forelimbs and the abdominal patagium, permitting powered flight.\n* Scrofanok-- A type of slender, deer-like wild boar that has been modified to cope with the thin air and scarce vegetation of the Martian highlands. One of the most common large mammals on the planet, so much so that they are hunted for sport in limited numbers.\n* Sunmantle Butterfly- One of Mars's most iconic insects, derived from the sunbeam butterfly of Earth. Sporting a wingspan of nearly 10 cm, with gold, black, and orange markings, they are powerful flyers and efficient gliders, making them ideal for the steep canyons of Mariner Valley. Their bright orange caterpillars, which can grow up to 8 cm long, feed on the leaves of trees such as black maple and Arean poplar.\n*Dire Wolf-- Not to be confused with the fictional Dire Wolves in George R. R. Martin's ''Game of Thrones '' novels, these are descendants of an de-extinct species from Earth. Due to Mars' low gravity in comparison to Earth, Dire Wolves have been known to grow to the size of a Black Bear, though they are not as massive. \n*Martian Unicorn-- A genetic chimera of horses and rhinoceroses, with a horn made out of keratin. The species has no natural predators, but a mare only produces one foal every two years, keeping the population in check. Unicorns were created to serve an essential roll in distributing concentrated amounts of normally toxic compounds extracted from the Martian lithosphere or deposited in air drops over forests and fields. Unicorns are the only species designed to actively seek out these compounds and consume them, using their digestive system to deposit the raw compounds as droppings that can more easily reach the wider biosphere. However, this process has become less essential in recent years, and the species is expected to go extinct in less than a century without genetic intervention.\n\n===Australe Plateau and Tharsis Bulge===\n* Olympic Razorback - Often considered the most impressive of the Martain dragons due to the combination of their large size (in fact, with a wingspan of up to 13 meters it is the largest of the dragons) and the jagged black scales on their backs. Like the Oxai Drake they're modified largely from Armadillo girdled lizards. They are noted for their their ability to spit a highly acidic venom over 4 meters in self-defense, an ability dubbed \"fire-breathing\" due to the burning sensation it causes. They are surprisingly lightweight, weighing only about 400 kg--a necessity for flight at such a large size, even in low Martian gravity.\n* Martian Jackalope - A modification of the antelope jackrabbit, with the addition of short, sharp \"horns\" atop its head, above its eyes. A small herbivore that feeds primarily on low-growing vegetation and a frequent prey animal for larger carnivores.\n\n===Hellas===\n*Giant Hellenic Octopus-- A variation on the giant Pacific octopus (''Enteroctopus dofleini'') of Earth, the Hellenic variety reaches 10 meters in length (and up to 20 meters in diameter) and rivals Porpids for intelligence. Unlike terran octopuses, they are capable of breeding more than once, and hence can live for several decades, allowing them to reach great sizes.\n[[File:Giant_Spotted_Porpid.png|thumb|Giant Spotted Porpid]]\n* Giant Spotted Porpid-- At 20 meters in length, the Giant Porpid is the largest animal on Mars, living in the deep waters of the Hellenic Sea and surviving on krill that feed on the sea's great algae blooms. It is descended from the Atlantic Spotted Dolphin.\n\n*Hellenic eagle-ray-- Measuring up to 9 meters across, this is the second-largest fish on Mars after the Isonade. It is a variant of the Spotted eagle-ray of Earth, and like its relative, it preys actively on bottom-crawling mollusks. Like all eagle-rays, it possesses a venomous spine at the base of its tail, but is harmless to humans--in fact, divers often swim with them.\n\n===Boreal Ocean===\n*[[File:Harbor_Porpid.png|thumb|Harbor Porpid]] Harbour porpid-- Modified from the Harbour porpoise of Earth, the Harbour porpid is 5 meters long and feeds on plankton common to the northern coasts of Tharsis and Araby which were engineered to control the population of water cleaning algae.\n*[[File:White_Porpid.png|thumb|White Porpid]] White porpid-- Modified from the common dolphin and at 10 meters in length, the White porpid roams near the Martian north pole feeding on krill in the Great Black Reef.\n*Martian isopod-- Modiifed from Giant isopod and common lobster DNA, the Martian isopod survives on Porpid falls and other bio-debris near the bottom of the Boreal Ocean. They are considered a delicacy on Earth, and were a cheap source of protein on Mars during early terraforming.\n*Great Boreal Salmon -- Modified Terran silver salmon that can grow up to 2 meters long, known for its nearly black back and silver body. It is a staple protein for much of Mars.\n*[[File:Isonade.png|thumb|Isonade]] Isonade-- A very large shark modified from the Snaggletooth shark. They were named after a shark-like sea monster from Japanese mythology, and can grow up to 9 meters long. As the top predators in Mars's oceans, they will even prey on juvenile Porpids.\n*Wani: A genetic descendent of the Saltwater Crocodile. They're named after a type of dragon found in Japanese Mythology and can grow to 8 meters in length, which makes them a challenge for adult Isonade, as they are both comparable in size to each other. Despite this, they normally feed on smaller porpids, Boreal Salmon, coelacanths, sea birds, and juvenile Martian Sea Cows. They are fully marine, only coming ashore to lay eggs.\n*Martian Sea Cow: Modified from Stellar's Sea Cows, and at a size comparable to White Porpids, these giant grazers roam near Northern Tempe, feeding on sea kelp, and other marine plant-life.\n\n\n==Plant Life==\n*Martian Thistle: One of the first macro-scale plants introduced to the surface. The Martian Thistle, AKA the Martian Tumbleweed, was one of the most successful terraforming organisms ever created, using a common terran tumbleweed as its base to spread and propagate itself across the surface. This plant was developed primarily to improve soil health and was extremely adaptable to the Martian climate.\n* Ironwood - With an average height of 100 meters and an estimated maximum height of 300 tons, the Martian Sequoia, better known as the Ironwood Tree, was engineered to serve as a wind breaking forests along rivers and glacial reservoirs. Their name comes from their ability to absorb the iron rich soil of Mars into its flesh and bark, the effect of which is an extremely sturdy conifer that can grow to tremendous heights under low gravity.\n*Black Maple - A special variant on the Japanese maple tree, the Black Maple is named for its extremely dark leafs which serve to compensate for the lack of Martian sunlight and guard against radiation.\n*Arean Poplar - With the exception of its height, the Arean Poplar is nearly identical to its terran cousin. Created to serve as a faster growing, low mass alternative to the Ironwoods, Poplars line high embankments, rivers and lakes across the Martian equator, protecting terrain from wind damage.\n*Red Cactus - An unintended consequence of this variant of the cousin of the Pitaya was a distinctly red skin. Its fruit, a tangier, somewhat less seedy version of the Terran Dragon Fruit, is a favorite treat among the local populace. Red Cacti are common across the deserts of Noachis, and is cultivated for mass consumption.\n*Longan - A variant of the terran tree of the same name, Longans were cultivated by Chinese settlers in the 2080s.\n*Blood Apple - An engineered variant of the Terran Fuji Apple, the blood apple is named for its deep red skin.\n*Fire pear - A strain of Asian pear with an inserted gene to boost production of cinnamaldehyde, the fruit of this tree is both sweet, refreshing, and spicy. Like most fruit trees on Mars, its trees are extremely broad and darker than its terran counterparts.\n*Red Wheat - Cultivated from various strains of Earth grains, Red Wheat shifts to a dusty red when its ready to be harvested. The effect tends to be bleached out by most mills.\n*Giant sundew- A carnivorous plant growing up to six feet tall, with sticky leaves that trap and digest insects and small vertebrates such as rodents and songbirds. Found primarily in the equatorial lowlands.\n*Nightweed - Strain of common edible seaweed bred to grow hundreds of meters in length in the deeper waters of the Boreal Ocean. By day it is responsible for a sizable amount of black body radiation, but by night it plays host to a bio-luminescent light show due to the bacteria that inhabit it.\n*Mediplants - First produced at Bradbury Base, Mediplants were once the dominant plant life on Mars. Engineered to produce biomedical compounds in huge quantities on the pre-terraformed surface of Mars, these plants created the economic incentive that ultimately led to Martian terraforming and long term colonization.\n\n===Pioneer Organisms===\nThis list includes all surviving pioneer plants on Mars used in the early days of terraforming to build humus, increase the surface temperature, and mine the pre-terraformed soil for valuable chemicals for either soil or atmospheric improvements. All of the Martian pioneer organisms are halophytic extremophytes, defined by jet black skin, and a high tolerance to low air pressure and cold temperatures. All were engineered to grow, spread, and die quickly to build up humus on the surface.\n\n*Black Sea Pickle - A nearly extinct pioneer organism that once hugged the early and expanding coasts of what would become the boreal ocean. Black Sea Pickle shares its genetic lineage with all other forms of Salicornia that are quite common on Mars to this day.\n*Drywater Cress - One of the first terraforming organisms intorduced to what would become the Boreal Ocean, this modified species of Thellungiella salsugineum was often used as a source for genetic code for other pioneer plants, due to its ability to recover and grow after being frozen solid.\n*Basalt Cactus - One of the first large organisms introduced to Mars, the Basalt Cactus is modified from the lava cactus endemic to the Galápagos Islands.\n*Black Saxifraga - A modified relative of its purple terran counterpart, Black Saxifraga was originally found all over the Martian lowlands during the beginning of terraforming, but now can only be found on the slopes of the Tharsian mountains, and across the southern polar regions.\n*Martian Eremogone - Derived from Eremogone bryophylla, this plant was more successful as a genetic source organism for other pioneer plants, than it was on its own, and is now only found in the Tharsian mountains.\n[[Category:Species]]\n[[Category:Mars]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2022-06-13T16:57:18Z"
+          }
+        ],
+        "title": "Flora and Fauna of Mars",
+        "touched": "2022-06-13T16:57:18Z"
+      },
+      "2048": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5387,
+        "length": 70,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Thirty-First Amendment to the United States Constitution"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 2048,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5387,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Thirty-First Amendment to the United States Constitution]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-30T20:35:36Z"
+          }
+        ],
+        "title": "Thirty-first Amendment to the United States Constitution",
+        "touched": "2023-01-06T16:30:16Z"
+      },
+      "2049": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          },
+          {
+            "ns": 14,
+            "title": "Category:The Flood"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6102,
+        "length": 41,
+        "ns": 6,
+        "pageid": 2049,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5410,
+            "revid": 6102,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Maps]]\n[[Category:The Flood]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:45:27Z"
+          }
+        ],
+        "title": "File:North America Flood.png",
+        "touched": "2017-11-08T00:11:26Z"
+      },
+      "2050": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5414,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2050,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5414,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-01T23:34:26Z"
+          }
+        ],
+        "title": "Message Wall:65.184.52.99",
+        "touched": "2017-09-01T23:34:27Z"
+      },
+      "2051": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5415,
+        "length": 735,
+        "links": [
+          {
+            "ns": 0,
+            "title": "21st Century"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2051,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5415,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:21st Century]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-01T23:34:27Z"
+          }
+        ],
+        "title": "Thread:65.184.52.99/@comment-32769624-20170901233427",
+        "touched": "2017-09-01T23:34:27Z"
+      },
+      "2052": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          },
+          {
+            "ns": 14,
+            "title": "Category:World War III"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6110,
+        "length": 45,
+        "ns": 6,
+        "pageid": 2052,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5428,
+            "revid": 6110,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Maps]]\n[[Category:World War III]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:48:06Z"
+          }
+        ],
+        "title": "File:Greater Caspian Community.png",
+        "touched": "2017-11-08T00:11:26Z"
+      },
+      "2053": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Alien species"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11512,
+        "length": 9050,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Equoloa"
+          },
+          {
+            "ns": 0,
+            "title": "Orbitals"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2053,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11511,
+            "revid": 11512,
+            "slots": {
+              "main": {
+                "*": "'''Equoloii '''or '''Equos '''''(Cognohippops manipulator)'' are the intelligent inhabitants of the planet [[Equoloa]], fourth planet orbiting the star Kepler-18. They are bipedal, vaguely mammal-like creatures with a thin layer of fur known for a wide variety of colors and patterns that coats most of their back, shoulders, neck and chest, and possess a unique sensory system allowing for a degree of non-verbal communication.\n\n== Description ==\nThe Equoloii are bipedal species with an erect posture and locomotion similar to that of terran birds with large two toed feet providing digitigrade locomotion. Their digitigrade bipedalism is assisted by a tail to help provide balance. The Equoloii head features a nasal bone that extends up to the top of the head and arcs back tapering near the back of the parietal bone with the actual nostrils positioned at either side of this cranial ridge. The Maxilla forms a single smooth surface for the \"muzzle\" and the face is framed by large jaw muscles and ear slits resting above the upper jaw muscle. Their somewhat pointed ears are generally rested in a backwards position. Their teeth are mostly flat for grinding vegetation, however they have one set of small teeth capable of tearing meat, suggesting an omnivorous diet was a fairly recent evolutionary development. \n\nTheir hands feature three fingers and a single thumb. The Equoloii, like the other species on their planet, have a heightened sense of electromagnetism (similar to that of sharks and platypuses) thanks to two small sacks of biomass similar to ampullae of Lorenzini on either side of their heads. These organs give the Equoloii a kind of extrasensory perception of other organisms and the emotional and physical states of other members of their species. This often serves as a form of unique 'body language', especially when alerting for danger via heightened activity. The Equoloii are also a sexually dimorphic species, with the female standing at 1.7 meter in height while the male stands at 1.8.\n\n== Evolution ==\nAs with many forms of alien life that bear a passing resemblance to Earth life, the Equoloii have a very different evolutionary history from their Earth counterparts. The ancestors of terrestrial \"vertebrates\" on Equoloa were aquatic creatures vaguely resembling very large tardigrades, with several pairs of stubby legs and chewing mouthparts. The electroreception organs of these creatures, which have been retained in their land-dwelling descendant, are thought to have originally evolved as a way to detect prey in murky water. By about 300 million years ago, the descendants of these land pioneers had established a standard body plan for Equoloa's land vertebrates, with the number of limbs decreased to four and a hydrocarbon-based skeleton. One of the most successful lineages of these \"vertebrates\" was one that developed a type of endothermy, allowing them to dominate the herbivore and predator niches on the planet. The Equoloii are descended from a subset of this lineage that filled a niche broadly equivalent to that of ground-dwelling apes on Earth. Adapting from an herbivorous diet to an omnivorous one allowed for a larger brain, and this quickly led to sapience.\n\nThe recent evolutionary trait of having one set of small sharp teeth capable of tearing meat has led to debates on whether they may have evolved from prey species to a scavenger one.\n\n== Society and Structure ==\n\n== History ==\n\n=== '''Ancient History''' ===\nRecorded history of early Equoloii civilizations that isn't related to clear mythology can be dated back to ten thousand terran years ago. As several major tribes became dominant in the continents of Equoloa. Warring tribes were eventually evolved into warring imperial systems over the course of thousands of years. With most of recent Equoloii periods being divided between each dominant empire.\n\nThroughout Equoloii history, there has been a total of roughly eighty-six empires but only twenty-six were recorded as a major period. Each period had brought some sort of golden age of culture and technological advancement.\n\nLocal histories record the greatest of these empires as having arisen around 6,600 Terran years ago with the discovery of six naturally occurring nuclear fission sources in an underground reservoir stretching over Aruoqis Empire's badlands. After two local polymaths collaborated to control the flow of steam from these naturally occurring reactors, creating primitive power plants. These two polymaths, commissioned by the emperor to find a way to increase the production of lumber products while they faced war with their neighbor, used the plants to create a series of primitive sawmills which doubled the output of shipyards and tradesmen, and is believed to have been a deciding factor during the Aruoqis first great war.\n\nThe power plants gave the Aruoqis a massive technological leg-up, and whole towns were built by order of the emperor around the power plants to produce more wood, ships, textiles, and other manufactured goods when most civilizations were just reaching their age of sail. Aruoquis Imperial military forces grew to conquer more territory than any empire in the planet's history, and an Industrial Age of Enlightenment came to dominate Aruoquis culture.\n\nAruoqis expansion was met with resistance from the lesser empires, but given their high productivity from both a pre-modern industrial base and land acquisitions, there was simply no single power capable of challenging them. The Aruoqis decision to relocate their capital and imperial court to the growing communities near the nuclear plants would prove to be the empire's downfall, as continued exploitation of the power source and surrounding groundwater led to increased radiation sickness and cancer rates in both the civilian population and the nobility. Despite generations of scholars exploring the \"Capital sickness\" as it was known, the cause was never identified, however historians and political sociologists across known space have attributed that to political corruption/suppression of information. After 1400 years the rate of illness in the capital had become so severe that power had functionally devolved to healthier, but officially less powerful noble families in more far flung regions. This devolution would persist until an earthquake in the 3rd Millenia BCE caused the release of radioactive fallout that covered the land and vented most of the water that naturally regulated the reactor, leading to its shutdown. The fallout blighted irrigated land and led to generations of disease from those effected. The collapse of the Aruoqis Empire and creation of such a large exclusion zone created the longest dark age in the planet's history.\n\n=== '''First Contact''' ===\nFirst Contact was made with the Terrans on October 10, 2135 when the contact team of the ISV-18 Opportunity was given the go-order to land following a year long crewed survey from orbit. The team, led by Captain Ben Ckre-Li, first interacted with inhabitants of the Gliaceis Empire. Despite initial caution, both sides warmed to each other through first contact protocols. The greatest hinderance to early Human-Equoloii relations was the Equoloii's near universal suspicion of industrial machines and high energy power plants, a cultural remnant from the disaster that befell the Aruoqis. Efforts were instead focused on providing medical aid to a planet that had an atypical number of genetic diseases and birth defects, despite most of the population avoiding the Aruoqis Exclusion Zone for millennia. This medical aid endeared humanity to the Gliaceis and wider Equoloii societies, and eased the introduction of other technolgoies.\n\nBy the 2150s the Second Equoloii Industrial Age had begun, although the willingness to adopt anything other than wind, solar, and hydroelectric power hindered progress. While humans had few objections to the Equoloii demand that no nuclear or combustion-based power source be used on their world, the refusal of the Equoloii to adopt geothermal power sources has been a contentious issue between the two species, especially after most Equoloii were educated to the difference between geothermal energy and natural nuclear reactors. This has created a reliance and defacto trade relationship between Equoloii societies and humans aboard the star system's [[Orbitals|Beachhead Orbital]], which in turn has caused political tensions on Earth over supposed \"human colonization of the Equoloii.\"\n\nIn the 2150s, there was a movement for Gliaceis and surrounding Empires to join the United States as Free Associations. However, by the 2160s, the movement largely declined due to the rise of fear of expansion amongst the other Equoloii, that the Gliaceis expansion would be a repeat of that of the Aruoqis Empire, a common cultural allegory meant to caution against disasater. However, the first scholars and immigrants of the Equoloii were sent to the Sol System to learn more about human customs over a decade earlier.\n[[Category:Alien species]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-06-09T15:20:10Z"
+          }
+        ],
+        "title": "Equoloii",
+        "touched": "2024-06-09T15:20:10Z"
+      },
+      "2054": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5442,
+        "length": 295,
+        "ns": 1,
+        "pageid": 2054,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5441,
+            "revid": 5442,
+            "slots": {
+              "main": {
+                "*": "Not to be rude in the least, but I don't think the inclusion of force-weilding wingged anthropomorphic ponies is really within the realm of McKnight's Second Renaissance. I think at least that the handwavium psuedo-Force is outside the non-fiction realism that's purveyed elsewhere in the Wikia.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-03T05:59:32Z"
+          }
+        ],
+        "title": "Talk:Equoloii/@comment-29372813-20170903055456",
+        "touched": "2017-09-03T05:59:32Z"
+      },
+      "2055": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5449,
+        "length": 910,
+        "ns": 1,
+        "pageid": 2055,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5448,
+            "revid": 5449,
+            "slots": {
+              "main": {
+                "*": ">ponies .... well Ok\n\nWell the universe can hold many possibilities and the more we explore it, there is bound to  be some things previously thought to be work only in fiction. Just trying to be unique here. If he removes the so called \"pseudo-force\" part then that is fine and is up to him.\n\nI just thought that there should be something unique or different that powers another species that humans didn't already normally replicate. Like I read in other pages that other aliens used stuff like their equivalent to atomic power, something humans already have.\n\nBut I'll gonna keep snipping parts of this page anyways (starting with the anthropomorphic part)\n\n\n\nI think I recall humans being able to do stuff similar but with<span style=\"font-size:13px;\"> the use of technology. But i did imply that this stuff was enabled from genetic (or minor tech) modification, which is in the realm of possibility</span>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-03T15:55:40Z"
+          }
+        ],
+        "title": "Talk:Equoloii/@comment-29372813-20170903055456/@comment-5590986-20170903150539",
+        "touched": "2017-09-03T15:55:40Z"
+      },
+      "2056": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5451,
+        "length": 316,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2056,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5451,
+            "slots": {
+              "main": {
+                "*": "I didn't think I had to explain this, but: Magic isn't real and doesn't exist in this timeline. And alien species are given designations that they would have come up with themselves, so no creating a furry fantasy species that conicidentally names themeslves after horses.<ac_metadata title=\"Fantasy\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-03T16:30:00Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-899576-20170903163000",
+        "touched": "2017-09-03T18:02:29Z"
+      },
+      "2057": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5461,
+        "length": 532,
+        "ns": 1201,
+        "pageid": 2057,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5460,
+            "revid": 5461,
+            "slots": {
+              "main": {
+                "*": "Eh well I wouldn't call it that, since technological or genetic possibilities in the future would allow some things that could be called \"magic\" but isn't if explained, like \"telekinetic\" abilities can be made using the manipulation of gravity (as I figured would be technologically or genetically built in to be possible around this time but probably wouldn't be allowed ).\n\nBut if you say so, it's your place to approve or disapprove of any idea or something. I'll try to remake most of the page  (unless otherwise, if you want).",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-03T16:52:02Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-899576-20170903163000/@comment-5590986-20170903163815",
+        "touched": "2017-09-03T16:52:02Z"
+      },
+      "2058": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5465,
+        "length": 491,
+        "ns": 1201,
+        "pageid": 2058,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5464,
+            "revid": 5465,
+            "slots": {
+              "main": {
+                "*": "<span style=\"font-size:14px;font-weight:normal;\">Tbh I am personally somewhat also against any possibilities of \"magic\" as a broad concept (as well), the closest thing would be through artificial means rather than natural (as I implied or would later imply on the page that they had achieved such through genetic modification). Although, I did want to further detail that the species (or subspecies) was actually created by another (possibly different and space-faring) long time ago.</span>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-03T16:53:36Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-899576-20170903163000/@comment-5590986-20170903165235",
+        "touched": "2017-09-03T16:53:36Z"
+      },
+      "2059": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5466,
+        "length": 189,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2059,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5466,
+            "slots": {
+              "main": {
+                "*": "I personally think the whole page should be nuked. It just doesnt fit with the tone of the rest of the wiki, and just feels like an excuse to fit in a gratuitous My Little Pony reference. ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-03T17:03:22Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-899576-20170903163000/@comment-65.184.52.99-20170903170322",
+        "touched": "2017-09-03T17:03:22Z"
+      },
+      "2060": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5475,
+        "length": 223,
+        "ns": 1201,
+        "pageid": 2060,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5474,
+            "revid": 5475,
+            "slots": {
+              "main": {
+                "*": "I didn't think it would be like that, but if it comes down to that then go ahead.  anyone else is free to go and modify or remove anything to narrow down anything that is too far reaching, as it is a wiki that allows such.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-03T17:15:55Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-899576-20170903163000/@comment-5590986-20170903170734",
+        "touched": "2017-09-03T17:15:55Z"
+      },
+      "2061": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5480,
+        "length": 281,
+        "ns": 1201,
+        "pageid": 2061,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5477,
+            "revid": 5480,
+            "slots": {
+              "main": {
+                "*": "<span style=\"font-weight:normal;\">I kinda expected the page to be contributed or modified by others over time to fit with the rest of the criteria or history as most new ideas that are created are not that conformed to the rest of everything else (and in this case the wiki)</span>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-03T17:22:35Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-899576-20170903163000/@comment-5590986-20170903172215",
+        "touched": "2017-09-03T17:22:35Z"
+      },
+      "2062": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5478,
+        "length": 138,
+        "new": "",
+        "ns": 1,
+        "pageid": 2062,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5478,
+            "slots": {
+              "main": {
+                "*": "I really shouldn't have tos ay this, but I'll say it: Magic isn't real, and don't insert fan fiction from other series into this timeline.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-03T17:22:27Z"
+          }
+        ],
+        "title": "Talk:Equoloii/@comment-899576-20170903172227",
+        "touched": "2017-09-03T17:22:28Z"
+      },
+      "2063": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5481,
+        "length": 166,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2063,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5481,
+            "slots": {
+              "main": {
+                "*": "Ok, I gutted it like a fish and made some pretty serious changes. Don't insert MLP references into this timeline unless you're going to be a lot more sublte about it.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-03T17:23:41Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-899576-20170903163000/@comment-899576-20170903172341",
+        "touched": "2017-09-03T17:23:41Z"
+      },
+      "2064": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5486,
+        "length": 347,
+        "ns": 1201,
+        "pageid": 2064,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5483,
+            "revid": 5486,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">YNot1989 wrote:<br />Ok, I gutted it like a fish and made some pretty serious changes. Don't insert MLP references into this timeline unless you're going to be a lot more sublte about it.</div>\nI am deeply sorry if it seemed that way. I guess I am still learning the ways before I make any confident leaps the more I contribute.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-03T17:42:19Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-899576-20170903163000/@comment-5590986-20170903172455",
+        "touched": "2017-09-03T17:42:19Z"
+      },
+      "2065": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6282,
+        "length": 1,
+        "ns": 1,
+        "pageid": 2065,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5485,
+            "revid": 6282,
+            "slots": {
+              "main": {
+                "*": "k",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-06T03:58:13Z"
+          }
+        ],
+        "title": "Talk:Equoloii/@comment-899576-20170903172227/@comment-5590986-20170903173312",
+        "touched": "2017-10-06T03:58:13Z"
+      },
+      "2066": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5487,
+        "length": 122,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2066,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5487,
+            "slots": {
+              "main": {
+                "*": "I've only had to warn you twice about subject matter, for the most part your edits have been valued additions to the site.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-03T17:50:02Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-899576-20170903163000/@comment-899576-20170903175002",
+        "touched": "2017-09-03T17:50:02Z"
+      },
+      "2067": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5490,
+        "length": 487,
+        "ns": 1201,
+        "pageid": 2067,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5489,
+            "revid": 5490,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">YNot1989 wrote:<br />I've only had to warn you twice about subject matter, for the most part your edits have been valued additions to the site.</div>\nThanks, I guess. Maybe i'll just try to fall back to asking/telling you about the major ideas before I want to make a giant leap and introduce a major concept like this. (Although at the same time I do not want to bother you too much, but i guess that would be worth it if i am gonna run into this again in the future)",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-03T18:04:29Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-899576-20170903163000/@comment-5590986-20170903180229",
+        "touched": "2017-09-03T18:04:29Z"
+      },
+      "2068": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5497,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2068,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5497,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-03T23:48:44Z"
+          }
+        ],
+        "title": "Message Wall:2600:1013:B02E:5AAC:78D2:A467:6687:33",
+        "touched": "2017-09-03T23:48:45Z"
+      },
+      "2069": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5498,
+        "length": 747,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Korean War (2017–2021)"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2069,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5498,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Korean War (2017–2021)]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-03T23:48:45Z"
+          }
+        ],
+        "title": "Thread:2600:1013:B02E:5AAC:78D2:A467:6687:33/@comment-32769624-20170903234845",
+        "touched": "2017-12-19T15:38:39Z"
+      },
+      "2070": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Martian fauna"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6372,
+        "length": 27,
+        "ns": 6,
+        "pageid": 2070,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5505,
+            "revid": 6372,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Martian fauna]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-12T03:41:34Z"
+          }
+        ],
+        "title": "File:Harbor Porpid.png",
+        "touched": "2017-11-08T00:11:26Z"
+      },
+      "2071": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Martian fauna"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6371,
+        "length": 27,
+        "ns": 6,
+        "pageid": 2071,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5507,
+            "revid": 6371,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Martian fauna]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-12T03:41:27Z"
+          }
+        ],
+        "title": "File:Giant Spotted Porpid.png",
+        "touched": "2017-11-08T00:11:26Z"
+      },
+      "2072": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Martian fauna"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6375,
+        "length": 27,
+        "ns": 6,
+        "pageid": 2072,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5509,
+            "revid": 6375,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Martian fauna]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-12T03:42:15Z"
+          }
+        ],
+        "title": "File:White Porpid.png",
+        "touched": "2017-11-08T00:11:26Z"
+      },
+      "2073": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Martian fauna"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6373,
+        "length": 27,
+        "ns": 6,
+        "pageid": 2073,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5512,
+            "revid": 6373,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Martian fauna]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-12T03:41:41Z"
+          }
+        ],
+        "title": "File:Isonade.png",
+        "touched": "2017-11-08T00:11:26Z"
+      },
+      "2074": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Alien species"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11064,
+        "length": 7414,
+        "ns": 0,
+        "pageid": 2074,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11047,
+            "revid": 11064,
+            "slots": {
+              "main": {
+                "*": "The '''Volmarro''' (''Arthropelta cranitus'') are the intelligent inhabitants of the moon Volorum orbiting the Supermassive planet Locno, itself orbiting HD 197027. They are bipedal, with a partially armored dermis with a distinct tangerine pigment range.\n\n== Evolution ==\nThe dominant clade of land \"vertebrates\" is a clade of low, squat, heavily armored creatures, which in turn evolved from aquatic ancestors vaguely resembling Earth's long-extinct placoderms. Their armor evolved not for protection from predators, but for protection the cold and desiccation on the world's surface, along with the more intense radiation of the K-type stars of the 61 Cygni system. Humanlike intelligence did not evolve as easily in such circumstances as it did on more temperate world's such as Earth, a large brain being an inefficient use of resources in times of scarcity. The ancestors of the Volmarro, therefore, achieved intelligence through a slightly different route than those of humanity. They were direct descendants of a clade of vaguely sloth-like herbivores that were forced to become ground-dwelling omnivores when Volorum's forests largely disappeared.\n\n==Description==\nThe Volmarro exhibit an extreme form of sexual dimorphism. Females stand upwards of 2.5 meters tall compared to the males which are only 1.7 meters tall. Males have a slick leathery dermis, compared to females who are covered in a a layer of dermal bone comparable to those of terran armadillos. Traits common to the species are eyes wide facing eyes, a common sinus cavity in which the tear ducts extend to include a simple scent receptor, and a dark beak like mouth partially covered by flexible flaps of skin that enable a wider range of consonants. They sport two sets of ears one larger set above a smaller set at the side of the head, giving them extremely detailed hearing capabilities comparable to certain varieties of terran owls. Their eyes see deeper into the Infared spectrum and less into the Ultraviolet than natural humans. Their skulls sport a Sagittal crest similar to early man, though it is far more pronounced on the males than the females.\n\n==History==\nVolorum is a particularly dry moon with only 22% of its surface is covered with liquid in the form of two large equatorial seas and the largest sea mostly covered with Ice near the planet's south Pole. The North Pole features a smaller ice cap, rounding out the planet's 24% surface coverage in ice. Smaller lakes and rivers dot the planet, but on the whole Volorum is extremely dry and cold world compared to Earth. As such Volmarro civilization did not see nearly so extreme examples of geographic isolation as early humanity, and a common culture and global trade network emerged by the 7th century BCE when civilization was still in the late Bronze Age. Volorum has observed three civilization collapses comparable to the Bronze Age Collapse and the medieval era of Europe. All three are believed to be the result of stellar flare activity from one of the two stars in the system which lead to mass death on the surface. Contemporary Volmarro civilization emerged in 1277 CE (Earth standard calendar) and first contact was made in 2125 CE.\n\n==='''Early civilization'''===\nEarly Volmarro civilization emerged around 13000 BCE around the mouth of the Roklee river near the coast of the Lro'Lrik Sea. This early culture actually was not the result of land-based agriculture but fishing and eventually seafood farms. Agriculture would not emerge until the rise of the Kla'mo civilization in the Great Valley of Kla'mo in 11000 BCE. This civilization began cultivating carbohydrate rich thin tubers which could be densely planted together and stored for long periods between harvests. The Kla'mo would come to conquer a significant portion of territory and rival the Lro'Lrik civilizations.\n\n==='''First medieval period'''===\nAround 10500 BCE HD 197027 experienced heavy flare activity that reduced the planet's population by between 50 and 80%. The die off impacted several ancient dynasties and led to the collapse of most of the planet's major civilizations. A period of warring tribes and eventually feudalistic kingdoms emerged which were themselves eventually consolidated under four large empires by 8200 BCE.\n\n==='''Second medieval period'''===\nThe Four Empires eventually reached a level of technological and social development comparable with with the Victorian ear on Earth, with early steam engines, and some evidence of powered flight being achieved by 7000 BCE, however around that same point in time, a second collapse occurred when HD 197027 began to experience increased flare activity. It is believed no more than 50% of all life on the planet was killed as a result, The resulting dark age only lasted until 6100 BCE, and eventually the planet was unified under a single empire by 5000 BCE. A degree of technological stagnation, but stable social orders emerged during this period, and while the empire never grew beyond early industrial technology, the planet only saw 5 confirmed rebellions and wars during the 3200 years of the Empire's rule over Volorum.\n\n==='''Third medieval period'''===\nIn 1800 BCE Volorum experienced its worst period of flare activity in its history with the planet being struck by extreme flare activity from HD 197027, and 600 years later the planet being struck again by flares from HD 197027. In this 600 year window, the planet's population fell by 89%. Civilization was set back completely after centuries of unrest, wars, and religious purges.\n\n==='''Contemporary civilization'''===\nBy approximately 2000 CE Volorum's population had reached the iron age once again, and planetary communications had resumed. At the time of first contact, the most advanced Volmarro societies had rediscovered the lateen sail and gunpowder.\n\n==='''First Contact'''===\nFirst contact between humans and Volmarro began on May 3, 2125 when the ISV-09 Explorer's crew made planetfall near the planet's most developed city, Volga Ka. The initial contact proved to be peaceful, but quite confusing for the Volmarro who could not comprehend human gender dynamics from the perspective of a rigidly matriarchal society. The notion of humanity's less sexually dimorphic, post gender society was seen as a curiosity to the Volmarro females, and a was very attractive to the Volmarrow males. The notion of males attending higher education was utterly alien to their society. Thus it nearly caused an interstellar incident when First Contact protocol was explained to the planet's political leadership.\n\nIn the 35 years since first contact the Volmarro has undergone a prolonged period of social and political upheaval, kept from reaching a point of utter chaos by the introduction of human technologies that have radically improved the quality of life for much of their people.\n\nWhile Volmarro society still finds human egalitarianism strange and alien to their customs, some progress has been made to grant more rights to males and members of their society who do not identify with the sex they were born with. Males were permitted full education privileges after First Contact, and voting rights were awarded in 2153 after the planet was politically unified. While humans and Volmarro maintain peaceful relations, there is no serious movement for the Volmarro to join the American protectorate as a Free Association.\n[[Category:Alien species]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-01-28T23:54:56Z"
+          }
+        ],
+        "title": "Volmarro",
+        "touched": "2023-01-28T23:54:56Z"
+      },
+      "2075": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5535,
+        "length": 678,
+        "ns": 1201,
+        "pageid": 2075,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5534,
+            "revid": 5535,
+            "slots": {
+              "main": {
+                "*": "As Terrans (or Humanity + others) began to explore space further and further into the galaxy, they are so far, are lucky to find more (somewhat) passive alien sapient species as neighbors (as of recent edits).\n\nHowever, would the Terrans have, by now (or as time goes on), discover a hostile sapient extraterrestrial species that perhaps somewhat rivals them in technology? (Perhaps their reason for hostility is that they are concerned with Terran expansion of influence over other species?)\n\nCould such thing be added (or perhaps edits that would build up to this tension in the future) around this time?<ac_metadata title=\"extraterrestrial rivals to Terrans?\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-08T03:42:04Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170908033658",
+        "touched": "2017-09-14T00:13:35Z"
+      },
+      "2076": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5539,
+        "length": 838,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2076,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5539,
+            "slots": {
+              "main": {
+                "*": "They do eventually, but the Second Rensiassnace follows a somewhat pessemistic version of the Drake equation. \n\nEssetnially, we hold that intelligent civilization wasn't possible until around 10k-25k years ago in at least the Milky Way Galaxy. Those civilzations that did emerge, around 2/3 wiped themselves out in either nuclear wars or were destroyed by some comsic event, and the rest barely survived a variety of comsic, planetary, or socially engineered disasters, leaving a VERY tiny remainder of civilzations that ever even made it far enough to get to space. And so far, humans are the only ones to discover faster than light travel.\n\nThere is another civilization I created in an earlier version of the timeline, but they won't be introduced until the main sequence of events from present day to 2160 are more or less populated.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-08T04:25:18Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170908033658/@comment-899576-20170908042518",
+        "touched": "2017-09-08T04:25:19Z"
+      },
+      "2077": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5541,
+        "length": 380,
+        "ns": 1201,
+        "pageid": 2077,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5540,
+            "revid": 5541,
+            "slots": {
+              "main": {
+                "*": "Another thing, I know that having species that have a general body shape similar to ours is easier, but would/is there be a scientific explanation for the known sapient species so far following a general pattern of being mainly bipeds (and following a similar tech/historical pattern)? Is it because bipedal species (with many having hands, claws, etc.) are more likely to excell?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-08T05:00:40Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170908033658/@comment-5590986-20170908050017",
+        "touched": "2017-09-08T05:00:40Z"
+      },
+      "2078": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5542,
+        "length": 356,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2078,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5542,
+            "slots": {
+              "main": {
+                "*": "I once had a pretty good understanding of the logic behind human evolution, why the brain case for vertially eveyr vertebrate species emerged the way it did and not, say in the stomache or something, why bipedallocomotion is preferred, etc. But I'm drawing a blank on a lot of the details. A bio major would more qualified than I to explain these things. ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-08T14:37:01Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170908033658/@comment-899576-20170908143701",
+        "touched": "2017-09-08T14:37:01Z"
+      },
+      "2079": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5546,
+        "length": 101,
+        "ns": 1201,
+        "pageid": 2079,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5545,
+            "revid": 5546,
+            "slots": {
+              "main": {
+                "*": "Could be developed into a theory. or we could just say \"infinite universes, infinite possibilities\" ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-08T19:22:36Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170908033658/@comment-5590986-20170908155701",
+        "touched": "2017-09-08T19:22:37Z"
+      }
+    }
+  }
+}

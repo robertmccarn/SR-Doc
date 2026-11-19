@@ -1,0 +1,41 @@
+{{Infobox country
+|conventional_long_name = Association of Trans-Siberia
+|national_motto = 
+|national_anthem = 
+|capital = Vladivostok
+|largest_city = Irkutsk
+|languages = English, Russian|languages_type = Official languages
+|government_type = Federal presidential constitutional republic
+|leader_title1 = President
+|leader_name1 = Vlad Psakhis 
+|legislature = National Duma 
+|upper_house = High Senate
+|lower_house = State Duma 
+|established_event1 = Founded
+|sovereignty_type = Unification
+|established_event2 = 
+|established_date1 = October 16, 2141
+|established_event3 =  
+|established_date2 = 
+|established_event4 = 
+|established_date3 =
+|established_date4 = 
+|area_rank = 6th
+|area_sq_mi = 
+|population_estimate = >84 million
+|population_estimate_year = 2160
+|population_estimate_rank = 
+|currency = United States Dollar ($)
+|currency_code = USD
+|image_flag = Trans-siberia.png
+|image_coat = Siberia_CoA.png
+|leader_title2 = Vice President
+|leader_name2 = Ben Makarov
+}}
+
+Trans-Siberia is a [[Associated state|free association]] formed from the Asian parts of Russia.
+
+== History ==
+TBA
+[[Category:Countries in Asia]]
+[[Category:Associated states]]

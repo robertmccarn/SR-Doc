@@ -1,0 +1,2 @@
+#REDIRECT [[Template:Hidden begin]]
+{{R from move}}

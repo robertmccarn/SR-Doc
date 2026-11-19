@@ -1,0 +1,13 @@
+A '''railgun''' is an electromagnetic projectile launcher based on principles similar to those of the homopolar motor. A railgun uses a pair of parallel conductors, or rails, along which a sliding armature is accelerated by the electromagnetic effects of a current that flows down one rail, into the armature and then back along the other rail.
+
+==History==
+==='''Naval Railguns'''===
+==='''Type 225'''===
+The Japanese were the first to pioneer the railgun rifle concept, during World War III, based upon research that showed that most firefights happen beyond 500 meters and that contemporary rifles were under-powered for most small arms combat. The Type 225 was the first armor mounted railgun. Powered by an independent micro-gas-turbine engine and chambered for 30mm tungsten rounds, the Type 225 was capable of a maximum rate of fire of 30 rounds per minute from a drum magazine. 
+
+==='''M801'''===
+Like the Japanese, the Americans were influenced by experience showing that most combat engagements occur beyond 500 meters and that their soldiers were consistently outgunned by heavily armed Japanese troops, especially those armed with the Type 225 railgun. The 30mm M801 Barrett Cannon was introduced as the first armor mounted railgun for the US military. Developed as a select-fire high powered rifle combining the rate of fire of a light machine gun with the range and stopping power of a railgun, the M801 is considered to be the common ancestor to all modern armor mounted railguns. While rate of fire was not significantly better than that of the Type 225 (45 rounds per minute against 30), it was a belt fed weapon rather than magazine fed, providing a greater fire time.
+
+==='''M107e'''===
+The standard issue rifle of the 22nd Century is the M107e MagRifle, which fires a round that is either heated to the point of plasma and discharged at short ranges, or fires a semi-solid round upwards of 250 miles that morphs into a flat disk .0000128 seconds prior to the point of impact distributing the most force over the largest area.
+[[Category:Military Technology]]

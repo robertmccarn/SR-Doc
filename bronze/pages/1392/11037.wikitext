@@ -1,0 +1,26 @@
+{{Infobox officeholder
+|name=Cora Fabian
+|image=Cora_Fabian_Blank.png
+|imagesize=265px
+|alt=
+|caption=
+|order=[[President of the United States|66th]]
+|office=President of the United States
+|vicepresident=Mika Sakahki
+|predecessor=[[Lionel Halvidar]]
+|successor=[[Ha-eun Zaya]]
+|birth_date=2094
+|birth_place=London, England
+|nationality= American
+|party=[[Union Party (United States)|Union]]
+|spouse= 
+|children=
+|religion= Mormonism
+|profession=Civil Servant<br />Politician
+|termend = January 20, 2149
+|termstart = January 20, 2141}}
+
+'''Cora Fabian''' was the 66th President of the United States serving from 2141 to 2149 and the 68th Vice President of the United States from 2133 to 2141. A member of the Union Party, they were previously a member of Congress and the United States Senate. A [[Earth|Terran]], [[Lionel Halvidar]] chose Fabian as his running mate, and Fabian became vice president after the Halivdar–Fabian ticket won the 2132 election.
+
+In 2140, Fabian ran a successful campaign to succeed Halvidar, becoming the first president from the European continent. Domestic policy drove the Fabian presidency: they favored a methodical admission of the newly absorbed Latin American states, much as Halvidar did, and aggressively pushed Congress to provide funds to enable the Terran population to easily relocate to the colonies. They continued the expansion of the Quantum Economic Model worldwide, and their domestic economic proposals were largely a continuation of Halvidar's policies. Early in their second term their administration faced a constitutional crisis over reconstruction, as the Earth planetary commonwealth rejected the admission of several South American states the Federal government deemed ready to join the Union. After a lengthy court battle, the Supreme Court ruled in a 6-3 decision that the admission of states into the Union on Earth fell to the Planetary Government and was no longer the responsibility of the Federal Government.
+[[Category:Presidents of the United States]]

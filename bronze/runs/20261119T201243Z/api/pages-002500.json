@@ -1,0 +1,1728 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "2595": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7424,
+        "length": 292,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Luna/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2595,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7424,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Luna\n| flag alias = Luna_Flag.png\n| alt attribute = Flag of the Lunar Commonwealth\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-26T00:59:57Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Luna/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Luna",
+        "touched": "2018-02-26T00:59:57Z"
+      },
+      "2596": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7427,
+        "length": 48,
+        "new": "",
+        "ns": 1,
+        "pageid": 2596,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7427,
+            "slots": {
+              "main": {
+                "*": "I think the second biotech boom deserves a page.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-26T01:11:14Z"
+          }
+        ],
+        "title": "Talk:Biotech bubble/@comment-27084453-20180226011114",
+        "touched": "2018-02-26T01:11:14Z"
+      },
+      "2597": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7428,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2597,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7428,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-26T19:57:32Z"
+          }
+        ],
+        "title": "File:Flag of East Timor.png",
+        "touched": "2018-03-08T08:50:43Z"
+      },
+      "2598": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7429,
+        "length": 295,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data East Timor/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2598,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7429,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = East Timor\n| flag alias = Flag_of_East_Timor.png\n| alt attribute = Flag of East Timor\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-26T19:57:41Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data East Timor/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data East Timor",
+        "touched": "2018-02-26T19:57:41Z"
+      },
+      "2599": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7431,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2599,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7431,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-26T20:02:05Z"
+          }
+        ],
+        "title": "File:Flag of Dominica.png",
+        "touched": "2018-03-08T08:54:41Z"
+      },
+      "2600": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7432,
+        "length": 289,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Dominica/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2600,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7432,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Dominica\n| flag alias = Flag_of_Dominica.png\n| alt attribute = Flag of Dominica\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-26T20:02:14Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Dominica/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Dominica",
+        "touched": "2018-02-26T20:02:14Z"
+      },
+      "2601": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7433,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2601,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7433,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-26T20:02:56Z"
+          }
+        ],
+        "title": "File:Flag of Djibouti.png",
+        "touched": "2018-03-08T08:51:28Z"
+      },
+      "2602": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7434,
+        "length": 289,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Djibouti/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2602,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7434,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Djibouti\n| flag alias = Flag_of_Djibouti.png\n| alt attribute = Flag of Djibouti\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-26T20:03:12Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Djibouti/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Djibouti",
+        "touched": "2018-02-26T20:03:12Z"
+      },
+      "2603": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7435,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2603,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7435,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-26T20:05:08Z"
+          }
+        ],
+        "title": "File:Flag of the United Cyprus Republic.png",
+        "touched": "2021-05-09T06:14:28Z"
+      },
+      "2604": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7436,
+        "length": 303,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Cyprus/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2604,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7436,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Cyprus\n| flag alias = Flag_of_the_United_Cyprus_Republic.png\n| alt attribute = Flag of Cyprus\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-26T20:05:15Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Cyprus/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Cyprus",
+        "touched": "2018-02-26T20:05:15Z"
+      },
+      "2605": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7437,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2605,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7437,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-26T20:05:56Z"
+          }
+        ],
+        "title": "File:Flag of Curaçao.png",
+        "touched": "2018-03-08T08:53:12Z"
+      },
+      "2606": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7438,
+        "length": 289,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Curaçao/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2606,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7438,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Curaçao\n| flag alias = Flag_of_Curaçao.png\n| alt attribute = Flag of Curaçao\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-26T20:06:02Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Curaçao/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Curaçao",
+        "touched": "2018-02-26T20:06:03Z"
+      },
+      "2607": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7439,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2607,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7439,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-26T20:06:58Z"
+          }
+        ],
+        "title": "File:Flag of Croatia.png",
+        "touched": "2018-03-08T08:53:58Z"
+      },
+      "2608": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7440,
+        "length": 286,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Croatia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2608,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7440,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Croatia\n| flag alias = Flag_of_Croatia.png\n| alt attribute = Flag of Croatia\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-26T20:07:04Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Croatia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Croatia",
+        "touched": "2018-02-26T20:07:04Z"
+      },
+      "2609": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7441,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2609,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7441,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-26T20:07:48Z"
+          }
+        ],
+        "title": "File:Flag of Costa Rica.png",
+        "touched": "2018-03-08T08:54:27Z"
+      },
+      "2610": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7442,
+        "length": 295,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Costa Rica/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2610,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7442,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Costa Rica\n| flag alias = Flag_of_Costa_Rica.png\n| alt attribute = Flag of Costa Rica\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-26T20:07:57Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Costa Rica/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Costa Rica",
+        "touched": "2018-02-26T20:07:57Z"
+      },
+      "2611": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7443,
+        "length": 292,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data China/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2611,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7443,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = China\n| flag alias = Flag_of_China_(2058-2108).png\n| alt attribute = Flag of China\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-26T20:09:02Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data China/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data China",
+        "touched": "2018-02-26T20:09:02Z"
+      },
+      "2612": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7445,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2612,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7445,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-27T05:05:23Z"
+          }
+        ],
+        "title": "File:Skeet.png",
+        "touched": "2018-03-08T15:00:06Z"
+      },
+      "2613": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7446,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2613,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7446,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-27T05:05:24Z"
+          }
+        ],
+        "title": "Message Wall:CisMasterRace",
+        "touched": "2018-03-03T02:05:15Z"
+      },
+      "2614": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7447,
+        "length": 557,
+        "links": [
+          {
+            "ns": 6,
+            "title": "File:Skeet.png"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2614,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7447,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:File:Skeet.png]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-27T05:05:24Z"
+          }
+        ],
+        "title": "Thread:CisMasterRace/@comment-32769624-20180227050524",
+        "touched": "2018-02-27T10:54:19Z"
+      },
+      "2615": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 7448,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2615,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7448,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-27T05:05:25Z"
+          }
+        ],
+        "title": "User:CisMasterRace",
+        "touched": "2018-02-27T05:05:25Z"
+      },
+      "2618": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century economic history"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Military Technology"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Technology"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11904,
+        "length": 4214,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Android"
+          },
+          {
+            "ns": 0,
+            "title": "Augment Rights Movement"
+          },
+          {
+            "ns": 0,
+            "title": "Generation"
+          },
+          {
+            "ns": 0,
+            "title": "Human"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2618,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11903,
+            "revid": 11904,
+            "slots": {
+              "main": {
+                "*": "The '''Biorobotics boom''' also known as the '''Second Biotech Bubble''' was a historic economic bubble and period of excessive speculation that occurred roughly from 2061 to 2065, a period of extreme growth in the usage and adaptation of the biorobotics technology developed during the [[World War III|Third World War]]. It resulted from the convergence between biotechnology and robotics.\n\n== Medicine ==\nSeveral new technologies in medicine entered the market shortly after the conclusion of World War III, mostly in the fields of epigenetic replacement organs that were superior to competing models developed prior to the war. The market began to heat up not long after the introduction of biorobotic bodies and new epigenetic treatments that [[Augment Rights Movement|enhanced human physiology]] either through implanted organs or biorobotic colonies to re-engineer the DNA of non-reproducing cells like muscle and nerve cells.\n\n==='''Human Augmentations'''===\nOne of primary contributing factors to the bubble was in the mass adoption of human augmentation products and services, particularly in genetic enhancements and cosmetic augmentations. The youth culture of the 2060s was marked by [[Generation|Splicer generation's]] adoption of these products, and the rise of various augment subcultures and [[Human|subspecies.]]\n\nDespite the association of cosmetic augmentations with the youth, most augmentations were used by older people from the Millennial and Armored generations. Even some surviving Gen Xers and Baby Boomers made use of the technology, mostly for human longevity treatments, but also for late-in-life augmentations.\n\n== [[Android]]s==\n== Drones==\n===Military===\nAfter the end of the Third World War, the US military put out numerous bids for the development of biorobotic weapons systems. Wheeled vehicles and mechanical multiped robots where seen as war winning technologies, tried and tested across decades of combat. But war planners at The Pentagon recognized that there was a need for greater adaptability in its ground assault vehicles, and that biorobotics could deliver that in spades. The result was the first bio-robotic assault drones. Initially designated with the M or LAV designations denoting vehicles, but later abandoned as these weapons better resembled animals or mythological creatures than vehicles. Artificial tissue and genetically engineered life cycles made it possible for these systems to move easily over rough terrain, operate using local sources of flora and fauna as fuel for emergencies, and were grown with bone based mounting brackets for weapons pods. Later versions would feature close quarters combat tactics far superior than anything as static as a tank, using their own limbs to swipe and claw at enemy weapon systems.\n\n===Commercial===\nWhile Androids are seen as the most emblematic of the Biorobotics boom, by units sold they pale in comparison to smaller utility drones. While these types of drones go by a variety of names around the world (Daemons and Sprites depending on the size and appearance), the most popular models are seldom larger than mice, and are often modeled off of rodents. The two most popular models on the market since 2144 are the Susuwatari and the House Mouse originating from the design labs of Mitoma and WED respectively. Sprite-type biorobots like these are estimated to number in the billions as of 2160, and can be found in almost everywhere. They've largely outcompeted many natural forms of Rodentia that populate humanity's homes and cities, and serve a variety of simple functions from maintaining utilities, to simply cleaning an area of refuse. These sprites are programmed to avoid contact with other organisms, with most going unseen by humans outside of the small Sprite Hutches built into the walls.\n\nOutside of the home Sprites can be found in most business working as large swarms for manufacturing, inventory, repair & maintenance, etc. In these environments they are supplemented by networked spider-drones for more delicate work, and larger industrial-biorobots and older electro-mechanical machines.\n\n[[Category:Technology]]\n[[Category:Military Technology]]\n[[Category:21st-century economic history]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-09-26T16:43:44Z"
+          }
+        ],
+        "title": "Biorobotics boom",
+        "touched": "2025-09-26T16:43:44Z"
+      },
+      "2619": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7480,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2619,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7480,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-01T23:10:47Z"
+          }
+        ],
+        "title": "Message Wall:Gwiber49",
+        "touched": "2018-04-21T01:25:18Z"
+      },
+      "2620": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7481,
+        "length": 566,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Flora and Fauna of Mars"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2620,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7481,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Flora and Fauna of Mars]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-01T23:10:48Z"
+          }
+        ],
+        "title": "Thread:Gwiber49/@comment-32769624-20180301231048",
+        "touched": "2018-03-01T23:10:48Z"
+      },
+      "2621": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Flag of the United Cyprus Republic.png"
+          }
+        ],
+        "lastrevid": 7607,
+        "length": 265,
+        "ns": 2,
+        "pageid": 2621,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7482,
+            "revid": 7607,
+            "slots": {
+              "main": {
+                "*": "[[File:Flag of the United Cyprus Republic.png|thumb|220px|right]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-12T01:24:26Z"
+          }
+        ],
+        "title": "User:Gwiber49",
+        "touched": "2018-09-08T23:56:42Z"
+      },
+      "2622": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Alien species"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Species"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 9605,
+        "length": 4861,
+        "ns": 0,
+        "pageid": 2622,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9341,
+            "revid": 9605,
+            "slots": {
+              "main": {
+                "*": "The '''Velminyak''' (''Sophodracoides lunicolos'') are the native sophonts of the habitable moon of [http://second-renaissance.wikia.com/wiki/Minya Minya] (A moon comparable in size to Ganymede) and are considered the most primitive of The Milky Way's extant sophonts, as they have not yet have developed space flight nor even anything more advanced than a chariot.     \n\n== Biology ==\nUnlike several other notable races in The Milky Way Galaxy, the Velminyak are neither bipedal, nor do they stand upright like humans. Instead, they can be best described as octopodal, four-eyed, monitor lizards.  Despite their serpent-like form, their legs are pillar erect, rather than sticking out to the sides. Like all \"vertebrates\" on Minya, they have eight limbs, four of which are used for walking and four as manipulators, giving them a vaguely centaur-like appearance.  Useful for tool making, as their weaponry, though primitive, is very well-crafted, and unlike what a human blacksmith could pull from his/her forge.  The Velminyak evolved as herbivores, but after gaining the use of fire, they became more omnivorous.       \n\nTheir head is equipped with four eyes; two facing the front, two on the sides.  This allows for 180 degree vision and makes it extremely difficult to sneak up on them.  They also have two pairs of nostrils, with one pair located on their chests. The average length for Velminyak is 36 feet, about half of which is tail, and the average height for them, is 17 feet for males, 13 feet for females--this makes them the largest known sapient species.                                                         \n\n<nowiki>      </nowiki>Like sea horses, both males and females play a vital role in pregnancy.  As a result, rape is rendered impractical, as that would mean that the male would have to carry the female's eggs in the brood pouch located on his back, and shoot the offspring out into the air, like dandelion seeds. Thus, requiring the male to be a constant presence, which to a promiscuous human male, would be the definition of eternal damnation.                        \n\n== Evolution ==\nThe Velminyak, like all \"vertebrates\" on Minya, evolved from a worm-like ancestor that used a series of fleshy oar-like appendages along its sides to swim. Even today, elongated worm-like body plans are much more common on Minya than on other planets with life. Because this type of body leaves little room for actual bony limbs to evolve, organisms have adapted in other ways. In the dominant clade, the one to which the Velminyak belong, the flesh swimming paddles of their distant ancestor have evolved into muscular limbs, and most \"vertebrates\" on Minya sport four pairs of these.\n\nThe dominant clade of land \"vertebrates\" on Minya is a group known as the Dracotheres, which are defined by the possession of a brood pouch in the males for the incubation of the leathery-shelled eggs laid by the females. The Velminyak are members of this group, as are most other megafauna on Minya. Because of Minya's low gravity, a number of its \"vertebrates\" reach gigantic sizes, with the very largest being comparable to the sauropod dinosaurs of Earth's past.  \n\n== <nowiki> </nowiki>Culture, Language, and Society ==\nTechnology-wise, the Velminyak have not evolved much beyond a level comparable to that of medieval Europe. Unlike medieval Europe however, they don't utilize a feudal system as a form of government.  In fact, their society is oddly democratic, with leaders being elected by the people, rather than appointed by the state religion or inheritance, and everyone gets to have a place in the parliament.  Both sexes have equal footing, but gender violence is an issue they're currently trying to resolve in the current timeline.  Though rape is impractical for reasons stated above, the most common form of gender violence for the Velminyak, is often physical, and it's almost always fatal to one or both parties involved.   Nonetheless, it is frowned upon in all 8 territories, and is punishable by exile.  \n\nVelminyak architecture, however, is widely considered to be second to none. Over their centuries of civilization, they have erected vast hangar-like dwellings and created ornate wood carvings that are prized on other worlds. They use a silk secretion produced by glands on either side of their heads (evolved from a nest-building material in their ancestors) as an adhesive when building. Using their skills at carving wood, and their built-in glue glands, they have even been able to construct large communal dwellings.    \n\nTheir language mostly consists of crocodilian-like bellowing and \"crackling\", with a rapid drumming sound being their version of laughter.  Like many species on Earth, they can imitate human speech, but whenever they do, it's always in a basso voice.  \n\n[[Category:Alien species]]\n[[Category:Species]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-03-16T23:40:34Z"
+          }
+        ],
+        "title": "Velminyak",
+        "touched": "2020-03-16T23:40:34Z"
+      },
+      "2623": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7488,
+        "length": 62,
+        "new": "",
+        "ns": 1,
+        "pageid": 2623,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7488,
+            "slots": {
+              "main": {
+                "*": "could you at least let us know where they came from first? lol",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-02T21:04:04Z"
+          }
+        ],
+        "title": "Talk:Velminyak/@comment-5590986-20180302210404",
+        "touched": "2018-03-02T21:04:04Z"
+      },
+      "2624": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7491,
+        "length": 42,
+        "new": "",
+        "ns": 1,
+        "pageid": 2624,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7491,
+            "slots": {
+              "main": {
+                "*": "It says so in the very top of the article.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-02T22:32:51Z"
+          }
+        ],
+        "title": "Talk:Velminyak/@comment-5590986-20180302210404/@comment-34843935-20180302223251",
+        "touched": "2018-03-02T22:32:51Z"
+      },
+      "2625": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Skeet.png"
+          }
+        ],
+        "lastrevid": 7501,
+        "length": 101,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2625,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7501,
+            "slots": {
+              "main": {
+                "*": "[[File:Skeet.png|thumb|NaCl]]<ac_metadata title=\"Big McThankies from McSpanky&#039;s\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-03T02:05:14Z"
+          }
+        ],
+        "title": "Thread:CisMasterRace/@comment-34676034-20180303020514",
+        "touched": "2018-03-03T02:05:14Z"
+      },
+      "2626": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Moons"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 9343,
+        "length": 1260,
+        "ns": 0,
+        "pageid": 2626,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9342,
+            "revid": 9343,
+            "slots": {
+              "main": {
+                "*": "Minya is a habitable moon in the Gliese 581 (also known as The Velmen) System.  It orbits a gas giant planet that orbits a red dwarf smaller than Sol system's sun.  It's about the same size as Ganymede, if not slightly larger. \n\n== Natural History ==\n\n== Geography ==  \n\n== Climate ==\nDue to its size (about one-third the size of Earth) and low gravity, Minya is a world with a low-gravity, low-energy ecology. Because it is a moon rather than a planet, it spends much of its time eclipsed behind the planet it orbits, so a great deal of its time is spent in complete darkness. Local life forms have therefore had to evolve to cope with long \"bright\" and \"dark\" seasons not unlike those found near Earth's polar regions.     \n\n== Fauna ==\nAs a low-gravity world, the majority of Minya's wildlife tend to have a gracile body plan and the largest \"animals\" on the moon can grow to sizes comparable to that of Earth's sauropods. \n\n== Flora ==\nThe Flora of Minya ranges from giant tree-like organisms to grass-like \"plants\" that make up a majority of the planet's surface. Unlike Earth's plants, the \"plants\" of Minya possess a circulatory system with a heart, allowing them to better metabolize nutrients in their world's low-energy environment.[[Category:Moons]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-09-03T01:25:05Z"
+          }
+        ],
+        "title": "Minya",
+        "touched": "2019-09-03T01:25:05Z"
+      },
+      "2627": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7512,
+        "length": 53,
+        "new": "",
+        "ns": 1,
+        "pageid": 2627,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7512,
+            "slots": {
+              "main": {
+                "*": "Which system is the Velmen system based on exactly? ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-04T00:28:20Z"
+          }
+        ],
+        "title": "Talk:Minya/@comment-5590986-20180304002820",
+        "touched": "2018-03-04T00:28:20Z"
+      },
+      "2628": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7514,
+        "length": 79,
+        "new": "",
+        "ns": 1,
+        "pageid": 2628,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7514,
+            "slots": {
+              "main": {
+                "*": "It's the closest solar system to Alpha Centauri A.   That's all I have for now.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-04T03:47:54Z"
+          }
+        ],
+        "title": "Talk:Minya/@comment-5590986-20180304002820/@comment-34843935-20180304034754",
+        "touched": "2018-03-04T03:47:54Z"
+      },
+      "2629": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7517,
+        "length": 58,
+        "new": "",
+        "ns": 1,
+        "pageid": 2629,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7517,
+            "slots": {
+              "main": {
+                "*": "So like, (if not Alpha Centauri B), then Proxima Centauri?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-04T05:33:24Z"
+          }
+        ],
+        "title": "Talk:Minya/@comment-5590986-20180304002820/@comment-5590986-20180304053324",
+        "touched": "2018-03-04T05:33:24Z"
+      },
+      "2630": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Planets"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7533,
+        "length": 101,
+        "ns": 0,
+        "pageid": 2630,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7522,
+            "revid": 7533,
+            "slots": {
+              "main": {
+                "*": "\n== Fauna ==\n\n== Flora ==\n\n== Climate ==\n\n== Geography ==\n\n== Natural History ==\n[[Category:Planets]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-05T00:25:02Z"
+          }
+        ],
+        "title": "Equoloa",
+        "touched": "2018-03-05T00:25:02Z"
+      },
+      "2631": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7524,
+        "length": 12,
+        "new": "",
+        "ns": 1,
+        "pageid": 2631,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7524,
+            "slots": {
+              "main": {
+                "*": "Pretty much.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-04T16:53:05Z"
+          }
+        ],
+        "title": "Talk:Minya/@comment-5590986-20180304002820/@comment-34843935-20180304165305",
+        "touched": "2018-03-04T16:53:05Z"
+      },
+      "2632": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7525,
+        "length": 137,
+        "new": "",
+        "ns": 1,
+        "pageid": 2632,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7525,
+            "slots": {
+              "main": {
+                "*": "Velmen can't be based on Alpha Centauri, as that system already has been covered. Fortunately, Red Dwarfs like Proxima are pretty common.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-04T18:46:41Z"
+          }
+        ],
+        "title": "Talk:Minya/@comment-899576-20180304184641",
+        "touched": "2018-03-04T18:46:41Z"
+      },
+      "2633": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7527,
+        "length": 270,
+        "new": "",
+        "ns": 1,
+        "pageid": 2633,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7527,
+            "slots": {
+              "main": {
+                "*": "Well i may cause some scientific complications if it is in the Proxima Centauri system (Planet B is in habitable zone but suffers from high solar winds and lots of radiation. Moon would probably have to be discovered later, and life wouls have to be adjusted for those)",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-04T22:09:21Z"
+          }
+        ],
+        "title": "Talk:Minya/@comment-5590986-20180304002820/@comment-5590986-20180304220921",
+        "touched": "2018-03-04T22:09:21Z"
+      },
+      "2634": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7528,
+        "length": 39,
+        "new": "",
+        "ns": 1,
+        "pageid": 2634,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7528,
+            "slots": {
+              "main": {
+                "*": "Perhaps it could be based in Gilese 581",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-04T22:14:45Z"
+          }
+        ],
+        "title": "Talk:Minya/@comment-5590986-20180304002820/@comment-5590986-20180304221445",
+        "touched": "2018-03-04T22:14:45Z"
+      },
+      "2635": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7530,
+        "length": 227,
+        "new": "",
+        "ns": 1,
+        "pageid": 2635,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7530,
+            "slots": {
+              "main": {
+                "*": "I never intended to base it on Alpha Centauri at all actually.  My real intention was that it would be a completely different solar system that was close to Alpha Centauri.  However, I will make a note of what you've just said.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-05T00:20:09Z"
+          }
+        ],
+        "title": "Talk:Minya/@comment-899576-20180304184641/@comment-34843935-20180305002009",
+        "touched": "2018-03-05T00:20:09Z"
+      },
+      "2636": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7532,
+        "length": 6,
+        "new": "",
+        "ns": 1,
+        "pageid": 2636,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7532,
+            "slots": {
+              "main": {
+                "*": "Maybe.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-05T00:23:57Z"
+          }
+        ],
+        "title": "Talk:Minya/@comment-5590986-20180304002820/@comment-34843935-20180305002357",
+        "touched": "2018-03-05T00:23:57Z"
+      },
+      "2637": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Moons"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7535,
+        "length": 47,
+        "ns": 0,
+        "pageid": 2637,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7534,
+            "revid": 7535,
+            "slots": {
+              "main": {
+                "*": "==<nowiki/>==\n\n==<nowiki/>==\n[[Category:Moons]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-05T00:31:12Z"
+          }
+        ],
+        "title": "Umknovola",
+        "touched": "2018-03-05T00:31:12Z"
+      },
+      "2638": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7537,
+        "length": 41,
+        "new": "",
+        "ns": 1,
+        "pageid": 2638,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7537,
+            "slots": {
+              "main": {
+                "*": "Where did they get the DNA for Adzebills?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-05T22:13:54Z"
+          }
+        ],
+        "title": "Talk:De-Extinction/@comment-34843935-20180305221354",
+        "touched": "2018-03-05T22:13:54Z"
+      },
+      "2639": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7538,
+        "length": 45,
+        "new": "",
+        "ns": 1,
+        "pageid": 2639,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7538,
+            "slots": {
+              "main": {
+                "*": "pinpointing certain DNA left on the skeleton?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-06T00:45:21Z"
+          }
+        ],
+        "title": "Talk:De-Extinction/@comment-34843935-20180305221354/@comment-5590986-20180306004521",
+        "touched": "2018-03-06T00:45:21Z"
+      },
+      "2640": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7542,
+        "length": 29,
+        "new": "",
+        "ns": 1,
+        "pageid": 2640,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7542,
+            "slots": {
+              "main": {
+                "*": "DNA that's probably degraded.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-06T22:28:40Z"
+          }
+        ],
+        "title": "Talk:De-Extinction/@comment-34843935-20180305221354/@comment-100.36.143.251-20180306222839",
+        "touched": "2018-03-06T22:28:40Z"
+      },
+      "2641": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7546,
+        "length": 92,
+        "ns": 1,
+        "pageid": 2641,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7545,
+            "revid": 7546,
+            "slots": {
+              "main": {
+                "*": "takes hundreds and hundreds of years for DNA to degrade fully, depending\n\n\nbut yeah probably",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-06T22:57:22Z"
+          }
+        ],
+        "title": "Talk:De-Extinction/@comment-34843935-20180305221354/@comment-5590986-20180306225535",
+        "touched": "2018-03-06T22:57:22Z"
+      },
+      "2642": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7548,
+        "length": 105,
+        "new": "",
+        "ns": 1,
+        "pageid": 2642,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7548,
+            "slots": {
+              "main": {
+                "*": "Why does the US dominate Luna? It seems rising world powers like China and India would have a stake also.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-07T16:31:03Z"
+          }
+        ],
+        "title": "Talk:Luna/@comment-205.222.248.228-20180307163103",
+        "touched": "2018-03-07T16:31:03Z"
+      },
+      "2643": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7549,
+        "length": 61,
+        "new": "",
+        "ns": 1,
+        "pageid": 2643,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7549,
+            "slots": {
+              "main": {
+                "*": "I am more concerned how usa dealt with the outer space treaty",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-07T17:26:14Z"
+          }
+        ],
+        "title": "Talk:Luna/@comment-205.222.248.228-20180307163103/@comment-5590986-20180307172614",
+        "touched": "2018-03-07T17:26:14Z"
+      },
+      "2644": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7550,
+        "length": 485,
+        "new": "",
+        "ns": 1,
+        "pageid": 2644,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7550,
+            "slots": {
+              "main": {
+                "*": "China imploded into regionalism due to the Flood and India faced a similar crisis as well. Japan already had an advanced aerospace industry and a need for raw resources to feed it. Thus they were in a position to be the only other power capable of develop assets on the Moon and Cislunar Space. However, after WWIII, the US seized Japan's territory in space and banned military operations by rival powers, effectively claiiming the moon and the rest of the Solar System for themselves.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-07T17:33:46Z"
+          }
+        ],
+        "title": "Talk:Luna/@comment-205.222.248.228-20180307163103/@comment-899576-20180307173346",
+        "touched": "2018-03-07T17:33:46Z"
+      },
+      "2645": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7551,
+        "length": 42,
+        "new": "",
+        "ns": 1,
+        "pageid": 2645,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7551,
+            "slots": {
+              "main": {
+                "*": "It was an important front of the war, yes.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-07T17:34:10Z"
+          }
+        ],
+        "title": "Talk:Luna/@comment-27084453-20151202181624/@comment-899576-20180307173410",
+        "touched": "2018-03-07T17:34:10Z"
+      },
+      "2646": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7554,
+        "length": 47,
+        "new": "",
+        "ns": 1,
+        "pageid": 2646,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7554,
+            "slots": {
+              "main": {
+                "*": "Adzebills only became extinct around the 1500s.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-07T19:52:12Z"
+          }
+        ],
+        "title": "Talk:De-Extinction/@comment-34843935-20180305221354/@comment-24.224.66.196-20180307195212",
+        "touched": "2018-03-07T19:52:12Z"
+      }
+    }
+  }
+}

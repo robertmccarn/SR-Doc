@@ -1,0 +1,18 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"wikitable\">\n\n<tbody><tr>\n<td style=\"background: #ececec; color: grey; vertical-align: middle; font-size: smaller; text-align: center;\" class=\"table-na\">N/A\n</td></tr></tbody></table>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:N/a/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6Ti9hL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:N/a/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:N/a/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6Ti9hL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:N/a/doc</span></div>\n<!-- \nNewPP limit report\nCached time: 20261119205413\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.008 seconds\nReal time usage: 0.012 seconds\nPreprocessor visited node count: 12/1000000\nPost‐expand include size: 380/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    3.926      1 Template:Documentation\n100.00%    3.926      1 -total\n 48.75%    1.914      1 Template:N/a/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:205-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205413 and revision id 263. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:N/a/doc",
+      "ns": 10
+    }
+  ],
+  "page_id": 205,
+  "revision_id": 263,
+  "title": "Template:N/a"
+}

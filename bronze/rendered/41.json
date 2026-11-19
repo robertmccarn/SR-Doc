@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "*": "Templates",
+      "sortkey": "T/piece"
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <a href=\"/wiki/Template:T/piece/doc\" title=\"Template:T/piece/doc\">Template:T/piece/doc</a> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<dl><dt>Description</dt>\n<dd>Parameter piece for {{<a href=\"/wiki/Template:T\" title=\"Template:T\">t</a>}}, controls styling/showing of parameter fragments.</dd>\n<dt>See also</dt>\n<dd><a href=\"https://wowpedia.fandom.com/wiki/Template:T/piece\" class=\"extiw\" title=\"w:c:wow:Template:T/piece\">Template:T/piece</a> on WoWWiki</dd></dl></div>\n<!-- \nNewPP limit report\nCached time: 20261119143500\nCache expiry: 2592000\nReduced expiry: false\nComplications: [vary‐revision‐sha1]\nCPU time usage: 0.013 seconds\nReal time usage: 0.021 seconds\nPreprocessor visited node count: 184/1000000\nPost‐expand include size: 977/2097152 bytes\nTemplate argument size: 62/2097152 bytes\nHighest expansion depth: 8/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 4/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   13.108      1 Template:Documentation\n100.00%   13.108      1 -total\n 82.63%   10.831      1 Template:T/piece/doc\n 49.38%    6.473      1 Template:T\n  9.43%    1.236     20 Template:T/piece\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:41-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119143500 and revision id 41. Rendering was triggered because: page-view\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:T/piece/doc",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:T",
+      "exists": "",
+      "ns": 10
+    }
+  ],
+  "page_id": 41,
+  "revision_id": 41,
+  "title": "Template:T/piece"
+}

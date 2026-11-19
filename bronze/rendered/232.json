@@ -1,0 +1,15 @@
+{
+  "categories": [
+    {
+      "*": "United_States_Republican_Party_color_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": "Republican Party (United States)/meta/color"
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>#FF3333\n</p>\n<h2><span class=\"mw-headline\" id=\"Examples\">Examples</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<table>\n\n<tbody><tr style=\"color:#FF3333\">\n<td><b>This color</b>\n</td></tr>\n<tr style=\"background:#FF3333; color:white\">\n<td><b>White on this color</b>\n</td></tr>\n<tr style=\"background:#FF3333; color:black\">\n<td><b>Black on this color</b>\n</td></tr></tbody></table>\n<h2><span class=\"mw-headline\" id=\"See_also\">See also</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><div style=\"clear:both\"></div></li></ul>\n\n<!-- \nNewPP limit report\nCached time: 20261119205416\nCache expiry: 2592000\nReduced expiry: false\nComplications: [vary‐revision‐sha1]\nCPU time usage: 0.007 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 31/1000000\nPost‐expand include size: 300/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 28/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    2.196      1 -total\n 70.99%    1.559      1 Template:Tl\n 14.80%    0.325      3 Template:Republican_Party_(United_States)/meta/color\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:232-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205416 and revision id 309. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [],
+  "page_id": 232,
+  "revision_id": 309,
+  "title": "Template:Republican Party (United States)/meta/color"
+}

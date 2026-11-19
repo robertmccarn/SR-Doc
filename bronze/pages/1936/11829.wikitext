@@ -1,0 +1,157 @@
+===Historical progression of designs===
+{| class="sortable wikitable"
+|- style="background:#ccc;"
+! Number of<br />stars
+! Number of<br />stripes
+! class="unsortable" | Design(s)
+! class="unsortable" | Changes to the flag
+! Dates in use
+! Duration
+|- valign="top"
+| 0 || 13 || [[File:Grand_Union_Flag.png|84px|border]] || || {{Dts|format=mdy|1775|12|3}}&nbsp;– June 14, 1777
+| style="text-align:left;" | 1 1/2 years
+|- valign="top"
+| 13 || 13 || [[File:US_flag_13_stars.png|84px|border]]<br />[[File:US_flag_13_stars_–_Betsy_Ross.png|84px|border]]<br />[[File:Cowpens_Flag.png|84px|border]] || Added Connecticut, Delaware, Georgia, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, Pennsylvania, Rhode Island, South Carolina, Virginia || {{Dts|format=mdy|1777|06|14}}&nbsp;– May 1, 1795
+| style="text-align:left;" | 18 years
+|- valign="top"
+| 15 || 15 || [[File:US_flag_15_stars.png|84px|border]] ||Added Vermont, Kentucky || {{Dts|format=mdy|1795|05|1}}&nbsp;– July 3, 1818
+| style="text-align:left;" | 23 years
+|- valign="top"
+| 20 || 13 || [[File:US_flag_20_stars.png|84px|border]]<br />[[File:20_Star_GreatStar_Flag.png|84px|border]] || Added Indiana, Louisiana, Mississippi, Ohio, Tennessee || {{Dts|format=mdy|1818|07|4}}&nbsp;– July 3, 1819
+| style="text-align:left;" | 1 year
+|- valign="top"
+| 21 || 13 || [[File:US_flag_21_stars.png|84px|border]] || Added Illinois || {{Dts|format=mdy|1819|07|4}}&nbsp;– July 3, 1820
+| style="text-align:left;" | 1 year
+|- valign="top"
+| 23 || 13 || [[File:US_flag_23_stars.png|84px|border]] || Added Alabama, Maine || {{Dts|format=mdy|1820|07|4}}&nbsp;– July 3, 1822
+| style="text-align:left;" | 2 years
+|- valign="top"
+| 24 || 13 || [[File:US_flag_24_stars.png|84px|border]] || Added Missouri || {{Dts|format=mdy|1822|07|4}}&nbsp;– July 3, 1836<br />1831 term "Old Glory" coined
+| style="text-align:left;" | 14 years
+|- valign="top"
+| 25 || 13 || [[File:US_flag_25_stars.png|84px|border]] || Added Arkansas || {{Dts|format=mdy|1836|07|4}}&nbsp;– July 3, 1837
+| style="text-align:left;" | 1 year
+|- valign="top"
+| 26 || 13 || [[File:US_flag_26_stars.png|84px|border]]<br />[[File:US_26_Star_GreatStar_Flag.png|84px|border]] || Added Michigan || {{Dts|format=mdy|1837|07|4}}&nbsp;– July 3, 1845
+| style="text-align:left;" | 8 years
+|- valign="top"
+| 27 || 13 || [[File:US_flag_27_stars.png|84px|border]] || Added Florida || {{Dts|format=mdy|1845|07|4}}&nbsp;– July 3, 1846
+| style="text-align:left;" | 1 year
+|- valign="top"
+| 28 || 13 || [[File:US_flag_28_stars.png|84px|border]] || Added Texas || {{Dts|format=mdy|1846|07|4}}&nbsp;– July 3, 1847
+| style="text-align:left;" | 1 year
+|- valign="top"
+| 29 || 13 || [[File:US_flag_29_stars.png|84px|border]]<br />[[File:US_29_Star_Diamond_Pattern_Flag.png|84px|border]] || Added Iowa || {{Dts|format=mdy|1847|07|4}}&nbsp;– July 3, 1848
+| style="text-align:left;" | 1 year
+|- valign="top"
+| 30 || 13 || [[File:US_flag_30_stars.png|84px|border]] || Added Wisconsin || {{Dts|format=mdy|1848|07|4}}&nbsp;– July 3, 1851
+| style="text-align:left;" | 3 years
+|- valign="top"
+| 31 || 13 || [[File:US_flag_31_stars.png|84px|border]] || Added California || {{Dts|format=mdy|1851|07|4}}&nbsp;– July 3, 1858
+| style="text-align:left;" | 7 years
+|- valign="top"
+| 32 || 13 || [[File:US_flag_32_stars.png|84px|border]] || Added Minnesota || {{Dts|format=mdy|1858|07|4}}&nbsp;– July 3, 1859
+| style="text-align:left;" | 1 year
+|- valign="top"
+| 33 || 13 || [[File:US_flag_33_stars.png|84px|border]]<br />[[File:US_33_Star_Fort_Sumter_Flag.png|84px|border]]<br />[[File:US_33_Star_GreatStar_Flag.png|84px|border]] || Added Oregon || {{Dts|format=mdy|1859|07|4}}&nbsp;– July 3, 1861
+| style="text-align:left;" | 2 years
+|- valign="top"
+| 34 || 13 ||[[File:US_flag_34_stars.png|84px|border]] || Added Kansas || {{Dts|format=mdy|1861|07|4}}&nbsp;– July 3, 1863
+| style="text-align:left;" | 2 years
+|- valign="top"
+| 35 || 13 || [[File:US_flag_35_stars.png|84px|border]] || Added West Virginia || {{Dts|format=mdy|1863|07|4}}&nbsp;– July 3, 1865
+| style="text-align:left;" | 2 years
+|- valign="top"
+| 36 || 13 || [[File:US_flag_36_stars.png|84px|border]]<br />[[File:US_36_Star_Wagon_Wheel_Flag.png|84px|border]] || Added Nevada || {{Dts|format=mdy|1865|07|4}}&nbsp;– July 3, 1867
+| style="text-align:left;" | 2 years
+|- valign="top"
+| 37 || 13 || [[File:US_flag_37_stars.png|84px|border]]<br />[[File:US_37_Star_Medallion_Centennial_Flag.png|84px|border]] || Added Nebraska || {{Dts|format=mdy|1867|07|4}}&nbsp;– July 3, 1877
+| style="text-align:left;" | 10 years
+|- valign="top"
+| 38 || 13 || [[File:US_flag_38_stars.png|84px|border]]<br />[[File:US_38_Star_Flag_concentric_circles.png|84px|border]] || Colorado || {{Dts|format=mdy|1877|07|4}}&nbsp;– July 3, 1890
+| style="text-align:left;" | 13 years
+|- valign="top"
+| 43 || 13 || [[File:US_flag_43_stars.png|84px|border]] || Added Idaho, Montana, North Dakota, South Dakota, Washington || {{Dts|format=mdy|1890|07|4}}&nbsp;– July 3, 1891
+| style="text-align:left;" | 1 year
+|- valign="top"
+| 44 || 13 || [[File:US_flag_44_stars.png|84px|border]] || Added Wyoming || {{Dts|format=mdy|1891|07|4}}&nbsp;– July 3, 1896
+| style="text-align:left;" | 5 years
+|- valign="top"
+| 45 || 13 || [[File:US_flag_45_stars.png|84px|border]] || Added Utah || {{Dts|format=mdy|1896|07|4}}&nbsp;– July 3, 1908
+| style="text-align:left;" | 12 years
+|- valign="top"
+| 46 || 13 || [[File:US_flag_46_stars.png|84px|border]] || Added Oklahoma || {{Dts|format=mdy|1908|07|4}}&nbsp;– July 3, 1912
+| style="text-align:left;" | 4 years
+|- valign="top"
+| 48 || 13 || [[File:US_flag_48_stars.svg|84px|border]] || Added Arizona, New Mexico || {{Dts|format=mdy|1912|07|4}}&nbsp;– July 3, 1959
+| style="text-align:left;" | 47 years
+|- valign="top"
+| 49 || 13 || [[File:US_flag_49_stars.png|84px|border]] || Added Alaska || {{Dts|format=mdy|1959|07|4}}&nbsp;– July 3, 1960
+| style="text-align:left;" | 1 year
+|- valign="top"
+| 50 || 13 || [[File:US_flag_50_stars.png|84px|border]] || Added Hawaii || {{Dts|format=mdy|1960|07|4}}&nbsp;– July 3, 2029
+| style="text-align:left;" | 69 years
+|- valign="top"
+| 51 || 13 || [[File:US_flag_51stars.png|84px|border]] || Added Puerto Rico || {{Dts|format=mdy|2029|07|4}}&nbsp;– July 3, 2035
+| style="text-align:left;" | 6 years
+|- valign="top"
+| 52 || 13 || [[File:US_flag_52stars.png|84px|border]] || Added Guyana || {{Dts|format=mdy|2035|07|4}}&nbsp;– July 3, 2037
+| style="text-align:left;" | 2 years
+|- valign="top"
+| 56 || 13 || [[File:US_flag_56stars.png|84px|border]] || Added Cuba, Jamaica, Hispaniola, Antilles|| {{Dts|format=mdy|2037|07|4}}&nbsp;– July 3, 2043
+| style="text-align:left;" | 6 years
+|- valign="top"
+| 56 || 13 || [[File:US_flag_56stars_Black_Stripe.png|84px|border]] || Added Black stripe to memorialize Delaware. || {{Dts|format=mdy|2043|07|4}}&nbsp;– July 3, 2066
+| style="text-align:left;" | 23 years
+|- valign="top"
+| 60 || 13 || [[File:US_flag_60_stars.png|84px|border]] || Added Bahamas, Newfoundland, New Brunswick, Nova Scotia  || {{Dts|format=mdy|2066|07|4}}&nbsp;– July 3, 2073
+| style="text-align:left;" | 7 years
+|- valign="top"
+| 78 || 13 || [[File:US_flag_78_stars.png|84px|border]] || Added Cascadia, Cook, Alberta, Sakatchewan, Manitoba, Superior, Hudson, Ontario, Queensland, South Australia, Victoria, Tasmania, Riverina, New Zealand, Wales, Scotland, England, Ireland || {{Dts|format=mdy|2073|7|4}}&nbsp;– July 3, 2076
+| style="text-align:left;" | 3 years
+|- valign="top"
+| 80|| 13 || [[File:US flag with 80 stars by BF1395.png|frameless|84x84px]]|| Added Keewatin, Athabasca || {{Dts|format=mdy|2076|7|4}}&nbsp;– July 3, 2090
+| style="text-align:left;" | 14 years
+|-
+|81
+|13
+|[[File:US_flag_81smallstars.png|84px|border]]
+|Added Belize
+|<span style="font-weight:normal;">July 4, 2090 </span>– July 3, 2092
+|2 years
+|-
+|81
+|13
+|[[File:US_flag_81smallstars.png|84px|border]]
+|Scaled the stars down by 20%.
+|July 4, 2092 – July 3, 2133
+|41 Years
+|-
+|85
+|13
+|[[File:US flag with 85 stars by BF1395.png|frameless|84x84px]]
+|Added Jacinto, Brazos, Shasta, Mojave
+|July 4, 2133 – July 3, 2137
+|1 Year
+|-
+|7
+|13
+|[[File:US Flag 7 Stars.png|84px|border]]
+|Creation of the 4 Tiered Republic. States are superseded by planetary commonwealths: Earth, Luna, Venus, Mars, Jupiter, Saturn, and Neptune.
+|July 4, 2137 – July 3, 2151
+|17 years
+|-
+|8 (+1)
+|13
+|[[File:Flag_of_the_United_States.png|84px|border]]
+|Added Uranus planetary commonwealth, with to a hollow star to represent the Sun of the Sol System.
+|July 4, 2151 – Present
+|9 years
+|}
+
+
+===Flag Act of 2091===
+Due to the increase in the number of states, and therefore the increase in the number of stars, the US Congress held debates over changes to the US Flag Code. A number of proposed changes were made, the most radical being the Great Field Flag, but ultimately the decision was reached to maintain the existing field's dimensions and scale the stars down by 20%.
+[[Category:Flags]]
+[[Category:Historical flags of the United States]]
+[[Category:United States]]

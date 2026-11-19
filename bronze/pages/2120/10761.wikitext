@@ -1,0 +1,107 @@
+{{Infobox country
+|conventional_long_name = Republic of Iran
+|national_motto = 
+|national_anthem = 
+|capital = Tehran
+|largest_city = Tehran
+|languages = English (official), Persian (de facto)
+|languages_type = National languages
+|languages2 = Azerbaijani, Kurdish, Georgian, Armenian
+|languages2_type = Regional languages
+|government_type = Federal presidential constitutional republic
+|leader_title1 = President
+|leader_name1 = Hassan-Ali Estahfani
+|legislature = Congress
+|upper_house = Consultative Assembly
+|lower_house = Guardian Council
+|established_event1 = Median Empire
+|sovereignty_type = Unification
+|established_event2 = Safavid Dynasty
+|established_date1 = 678 BCE
+|established_event3 =  Islamic Republic
+|established_date2 = 1501 
+|established_event4 = Free Association
+|established_date3 = April 1, 1979
+|established_date4 = December 4, 2140
+|area_rank = 
+|area_sq_mi = 
+|population_estimate = >103 Million
+|population_estimate_year = 2160
+|population_estimate_rank = 
+|currency = United States Dollar (USD)
+|currency_code =
+|image_flag = Flag of Iran.png
+|image_map = 
+|image_coat = 
+|leader_title2 = Vice President
+|leader_name2 = Abol Sarrans }}
+
+The '''Republic of Iran''' or '''Iran''' is an [[Associated state]] that fell under the influence of the United States in December 4, 2140 after the [[Third Mexican-American War]]. The United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas of Iran. 
+
+It was also the last country on [[Earth]] that became secularized.
+
+==History==
+==='''Early History'''===
+
+==='''Islamic Republic'''===
+
+
+=== '''Free Association''' ===
+
+
+==Demographics==
+
+==Politics==
+==='''Government'''===
+===='''President'''====
+
+{| class="wikitable" style="text-align: center;"
+|-
+! style="background:#C0C0C0; color:black;" | №<br />
+! colspan="2" style="background:#C0C0C0; color:black;" | President
+! style="background:#C0C0C0; color:black;" | Took office
+! style="background:#C0C0C0; color:black;" | Left office
+! style="background:#C0C0C0; color:black;" | Political Party
+! style="background:#C0C0C0; color:black;" | Vice President
+! style="background:#C0C0C0; color:black;" | Notes
+|-
+! style="background:{{Union Party (United States)/meta/color}};" | {{color|white|1}}
+| [[File:Blank_Person.jpg|160x150px]]
+| '''[[Moham al-Ghorbani|Moham al-Ghorbani]]'''<br /><small>(2079–)</small>
+| December 4, 2140
+| August 3, 2141
+| [[Union Party (United States)|Union Party]]
+| Habibi Sarrans
+| style="width:30%;" | <small> Last President of the Islamic Republic, became the first President of the Republic after joining the United States.</small>
+|-
+! style="background:{{Conservative Party (United States)/meta/color}};;" | {{color|white|2}}
+| [[File:Blank_Person.jpg|160x150px]]
+| '''[[Muhammed Estahfani]]'''<br /><small>(2096–)</small>
+| August 3, 2141
+| August 3, 2145
+| [[Conservative Party (United States)|Conservative Party]]
+| Ali Estahfani
+| <small> notes </small>
+|-
+! style="background:{{Union Party (United States)/meta/color}};;" | {{color|white|3}}
+| [[File:Blank_Person.jpg|160x150px]]
+| '''[[Abdul-Habibi Sarrans]]'''<br /><small>(2091–)</small>
+| August 3, 2145
+| August 3, 2153
+| [[Union Party (United States)|Union Party]]
+| Achmed Peshmir 
+| <small> Notes. </small>
+|-
+! style="background:{{Conservative Party (United States)/meta/color}};;" | {{color|white|4}}
+| [[File:Blank_Person.jpg|160x150px]]
+| '''[[Hassan-Ali Estahfani]]'''<br /><small>(2110–)</small>
+| August 3, 2153
+| Present
+| [[Conservative Party (United States)|Conservative Party]]
+| Abol Sarrans
+| <small>  Notes </small>
+|-
+|}
+
+=='''Administrative divisions'''==
+[[Category:Associated states]]

@@ -1,0 +1,10 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Turks and Caicos Islands
+| flag alias = Flag_of_the_Turks_and_Caicos_Islands.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+}}
+
+[[Category: Country data]]

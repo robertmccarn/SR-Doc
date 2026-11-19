@@ -1,0 +1,13 @@
+{
+  "categories": [
+    {
+      "*": "Images",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>Cropped and resized from <a href=\"https://commons.wikimedia.org/wiki/Image:LotusBud0048a.jpg\" class=\"extiw\" title=\"commons:Image:LotusBud0048a.jpg\">Commons:Image:LotusBud0048a.jpg</a>\n</p>\n<ul><li>Photographer: <a href=\"https://commons.wikimedia.org/wiki/User:Fg2\" class=\"extiw\" title=\"commons:User:Fg2\">Fg2</a></li></ul>\n<div class=\"boilerplate\" id=\"c-fairuse\" style=\"width:90%; margin:0 auto; padding:10px; border:1px solid #A8ACA8; background:#FFFFCC; color:#000;\">\n<p><i><b>This file is in the public domain</b></i>\n</p>\n</div>\n<!-- \nNewPP limit report\nCached time: 20261119205355\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.010 seconds\nPreprocessor visited node count: 4/1000000\nPost‐expand include size: 197/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    3.169      1 Template:PD\n100.00%    3.169      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:32-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205355 and revision id 32. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [],
+  "page_id": 32,
+  "revision_id": 32,
+  "title": "File:Example.jpg"
+}

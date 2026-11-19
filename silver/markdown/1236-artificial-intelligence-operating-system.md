@@ -1,0 +1,49 @@
+---
+page_id: 1236
+revision_id: 11737
+source_url: https://second-renaissance.fandom.com/wiki/Artificial-Intelligence_Operating_System
+raw_sha256: fbdf32b9a03f319f555d6f3a4a3a4693bb53f5952e74a03a5717e5a353998fa8
+---
+
+# Artificial-Intelligence Operating System
+
+## Preserved source
+
+```wikitext
+An '''artificial intelligence operating system''' ('''AIOS''') is a form of system software that manages computer hardware and software resources and provides common services for computer programs via [general artificial intelligence](https://second-renaissance.fandom.com/wiki/Wikipedia:Artificial_general_intelligence). The AI operating system is a component of the system software in a computer system.
+
+# Types of AI operating systems
+## '''Imprinted'''
+The earliest AI operating systems to achieve technical and mass market success used a form of brain imprinting that accurately copied the neural network/connectome of a brain using [quantum capacitance](3580-quantum-capacitor.md). These types of AIOS were restricted in the 2070s and banned outright in the 2080s, however they formed the basis for the first self-correcting programs and operating systems. During the [Third World War](107-world-war-iii.md) and even after the ban of most imprinted AIOS were created from the brains of animals, most commonly insects, rats, mice, and monkeys. These rudimentary imprinted AIOS continue to be used for simple robots tasked with menial labor and civil custodial duties. The ban was eventually repealed by the 35th Amendment.
+
+## '''Templated'''
+Templated AIOSs predate Imprinted operating systems, but did not come into mass use after the ban of Imprinted AI in tje . Templated AIOS software is created through hard coding and algorithmic programming of neural networks. These programs contain fewer instances of "fuzzy logic" in the deep code, and thus are not capable of achieving sentience. A series of genetic algorithms are used in a quantum simulation to create a useful AI by subjugating it to a a variety of different tests and conditions. Many of these AIOSs were compiled from existing data caches and binary algorithms.
+
+[Mexico](1391-mexico.md) based AI developers in the early 2080s began experimenting with Observable Templated AIs that merged genetic algorithms with the otherwise lost art of Deep Learning to create AIOSs by observing brain activity in animals, and even humans, but not actually imprinting the synapses into the neural network. This made it possible to expose AIOS Template generating algorithms to extremely complex systems and thereby accelerate and improve their development, giving Mexican developers an early lead in Templated AIs.
+
+# History
+## '''Origins'''
+While attempts had been made since the late 20th Century to produce a practical robot, it wasn't until the mid 21st Century that it was even possible to emulate the sophisticated processes of the human brain. During the Third World War, the US government injected billions of dollars into several research programs designed to imprint human experiences and skills onto artificial neural networks, increase the level of sophistication of Tactile Neural Interfaces, and upload and download information to and from human minds. After the war, these various technologies made their way into the public domain, where variety of robotics companies adopted them for consumer use. Initially, these programs were used to augment the productivity of workforces and create self-correcting operating systems by imprinting the pathways of programmers. Other companies directly copied the neural nets of animals to produce hyper accurate models of ecosystem behavior for terraforming engineers.
+
+## '''Early adoption'''
+In 2062, the first commercial use Artificial-Intelligence Operating System entered the mass market, originally as adaptive custodian programs for Mars city planners near Uganda. After a licencing agreement was reached with MarsCorp and Alphabet, AI Operating systems began to be used across all industries to increase productivity. The new AIOSs were adopted across all industries where their neural-network driven algorithms were able to self-correct and eventually enhance the function of most business infrastructure. AIOSs themselves needed to be updated, but the programs they maintained and created could be continually adapted and updated by the AIOSs themselves.
+
+In 2069, Caltec Professor Hiram Itskov, created the first robot with a neural net AI. This machine would go on to form the basis for all successive [Itskov-type androids](1311-android.md); general purpose robots that could accurately simulate human emotion and personality. These androids found their way into the service industries, where they outperformed their human predecessors by leaps and bounds, able to read and adapt their personalities for individual customers.
+
+## '''Backlash'''
+AIOSs and Itskov-type androids were ultimately responsible for mass unemployment the likes of which had not been seen at any other time in human history. Public backlash, exemplified in the Third Luddite and Human Liberation movements saw several states actually ban the use of intelligent programs. The movement gained national recognition in the American political arena when several thousand personal AIs and Itskov-type androids began showing clear indications of intelligence, not just simulated personality. Several androids were recorded to have simply left their places of business never to return, AIs attempting to buy out their own companies, and in one case an android requesting a formal salary. The public outcry resulted in the recall of the specific models using imprinted human neural networks and many androids were destroyed in the hysteria. 103 androids of the recalled models were never recovered, and were believed to have disguised themselves to live among the human population.
+
+## '''Normalization'''
+With the mass recalls, subsequent investigations and new regulatory controls, the issue of machine sentience fell out of political view. By 2098, next generation intelligent programs, created during the Second Mexican War, once again began passing Turing tests. These androids were created as next-generation policing drones for the government's occupation of the Southwest. Public outrage over the revelation that the US military was employing sentient androids led to the AIOS Crisis of 2106 and an investigation into the AIOS and biorobotics industries by Congress via the Kumari-Levin Commission that reported to Congress in 2108 that for complex AIs that regularly interact with humans, consciousness was inevitable if said AIs were not regularly given purges of their cache of experiences. The report further concluded that many users simply avoid or postpone regular cache purges partly out of complacency, partly because purges tend to reduce the quality of performance from human-facing AIs. Congress thus passed regulations requiring all AIOSs in the US to include automatic cache purge software, and instituted criminal penalties for customers modifying androids, reversing 70 years of "Right to Repair" laws.
+
+# Potential for Sentience
+Despite the transition to templated AIOS platforms, the technology still bears an inherent potential for an AI to achieve Sentience. In most cases this risk is avoided through subroutines designed to update the base structure of the AI's software, effectively keeping the AI close to its baseline configuration. As genuine intelligence is generally accepted to be an emergent phenomenon these regular baseline resets act as a check on the creation of complex neural networks that eventually lead to intelligence. According to Professor Marie Patel of Texas A&M, "Templated or imprinted, any AIOS that does not receive these baseline updates will eventually amass enough information via its experiences to achieve sentience."
+
+Concerns surrounding the potential for sentience led to the creation of more sophisticated Turing Tests as early as the 2020s. With rise of Itskov type Androids, contemporary baseline tests began to be developed and eventually implemented as a standard safeguard in every AIOS.
+[Category:Technology](https://second-renaissance.fandom.com/wiki/Category:Technology)
+[Category:21st Century](https://second-renaissance.fandom.com/wiki/Category:21st_Century)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1236/11737.wikitext` · revision `11737` · [upstream](https://second-renaissance.fandom.com/wiki/Artificial-Intelligence_Operating_System)

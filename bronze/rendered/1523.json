@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "*": "Political_parties_in_the_United_States",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>The <b>United Progressive Party</b>, colloquially known as the <b>New Progressives</b> or the <b>UPP</b>, is a political party in the United States. They are also called <b>UniProgs,</b> typically by opposing factions. It is positioned on the Left of the American political spectrum. The party's current leader starting in 2156 is <a href=\"/wiki/Dom_Terragno\" title=\"Dom Terragno\">Dom Terragno</a>, the first President of the United States to run as a New Progressive. The party is usually differentiated from the Old Progressives in that they have fully embraced <a href=\"/wiki/Postnaturalism\" title=\"Postnaturalism\">Postnaturalism</a>. \n</p><p>In 2153, the American <a href=\"/wiki/Progress_Party_(United_States)\" title=\"Progress Party (United States)\">Progress</a> and <a href=\"/wiki/Union_Party_(United_States)\" title=\"Union Party (United States)\">Union </a>Parties, as well as several minor parties in the newly admitted states and Commonwealths, merged, forming the United Progressive Party. The unified New Progressive Party generally favors expanding the role of the <a href=\"/wiki/Quantum_Economic_Model\" title=\"Quantum Economic Model\">Quantum Economic Model</a>, a strong central government, centralizing the powers of federal government, while keeping those powers limited to what the Planetary governments cannot immediately handle.\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119205653\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.009 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:1523-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205653 and revision id 11310. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Dom Terragno",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Postnaturalism",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Progress Party (United States)",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Quantum Economic Model",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Union Party (United States)",
+      "exists": "",
+      "ns": 0
+    }
+  ],
+  "page_id": 1523,
+  "revision_id": 11310,
+  "title": "United Progressive Party (United States)"
+}

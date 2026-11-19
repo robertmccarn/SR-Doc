@@ -1,0 +1,81 @@
+---
+page_id: 1400
+revision_id: 6915
+source_url: https://second-renaissance.fandom.com/wiki/Planetary-Governor_of_Earth
+raw_sha256: 45784eea033a2266766fa2be01a027ae7bb210c2053650535763ffdf679a07f9
+---
+
+# Planetary-Governor of Earth
+
+## Preserved source
+
+```wikitext
+The Planetary-Governor of the Commonwealth of Earth.
+
+# List of Planetary-Governors
+{{legend2|{{Conservative Party (United States)/meta/color}}|[Conservative](310-conservative-party-united-states.md)|border=1px solid #AAAAAA}} (0)
+{{legend2|{{United Republican Party (United States)/meta/color}}|[New Republican](3680-united-republican-party-united-states.md)|border=1px solid #AAAAAA}} (2)
+{{legend2|{{Union Party (United States)/meta/color}}|[Union](912-union-party-united-states.md)|border=1px solid #AAAAAA}} (2)
+
+{| class="wikitable" style="text-align: center;"
+|-
+! №
+! colspan="2" | Planetary-Governor
+! State
+! Term of office
+! Party
+! Term<br /><ref group="n" name="num" />
+! style="width: 18%;" colspan="2" | Lieutenant-Governor
+|-
+! rowspan="2" style="background: {{Union Party (United States)/meta/color}};" | {{color|white|1}}
+| rowspan="2" | {{CSS image crop|Image = Blank_Woman.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" style="width: 16%;" | '''Yanna Lynne'''<br /><small>(2091)</small>
+| rowspan="2" | [Colorado](272-earth.md)
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 2139</span><br /><ref group="n" name="Washington-term" /><br/>–<br/><span class="date" style="white-space: nowrap;">January 20, 2147</span>
+| rowspan="2" | [Union](912-union-party-united-states.md)
+| 1<br /><small>(2138)</small>
+| style="background:#eee;"| &nbsp;
+| rowspan="2" | Syng Anderson
+|-
+| 2<br /><small>(2142)</small>
+| style="background: {{Conservative Party (United States)/meta/color}};" |
+|-
+! style="background: {{Union Party (United States)/meta/color}};" | {{color|white|2}}
+| {{Css Image Crop|Image = Blank_Woman.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 3|oLeft = 5}}
+| '''Leddy Sirleaf'''<br /><small>(2098)</small>
+| [England](272-earth.md)
+| <span class="date" style="white-space: nowrap;">January 20, 2147</span><br/>–<br/><span class="date" style="white-space: nowrap;">January 20, 2151</span><br /><ref group="n" name="unseated" />
+| [Union](912-union-party-united-states.md)
+| 3<br /><small>(2146)</small>
+| style="background: {{Union Party (United States)/meta/color}};" |
+| Tom Jefferson
+|-
+! rowspan="2" style="background: {{United Republican Party (United States)/meta/color}};" | {{color|white|3}}
+| rowspan="2" | {{CSS image crop|Image = Dom_Terragno_Blank.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" | '''[Dom Terragno](1394-dom-terragno.md)'''<br /><small>(born 2109)</small>
+| rowspan="2" | [Ecuador](272-earth.md)
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 2151</span><br/>–<br/><span class="date" style="white-space: nowrap;">January 20, 2157</span>
+| rowspan="2" | [New Republican](3680-united-republican-party-united-states.md)
+| 4<br /><small>(2150)</small>
+| rowspan="2" style="background: {{United Republican Party (United States)/meta/color}};" |
+| rowspan="2" | Victoria Li
+|-
+| 5<br /><small>(2154)</small>
+|-
+! rowspan="2" style="background: {{United Republican Party (United States)/meta/color}};" | {{color|white|4}}
+| rowspan="2" | {{CSS image crop|Image = Blank_Woman.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" | '''Victoria Li'''<br /><small>(born 2109)</small>
+| rowspan="2" | [Jacinto](272-earth.md)
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 2157</span><br/>–<br/><span class="date" style="white-space: nowrap;">Present</span>
+| rowspan="2" | [New Republican](3680-united-republican-party-united-states.md)
+| 6<br /><small>(2158)</small>
+| rowspan="2" style="background: {{United Republican Party (United States)/meta/color}};" |
+| rowspan="2" | Edwardo Kirchner
+|-
+|}
+[Category:Earth](https://second-renaissance.fandom.com/wiki/Category:Earth)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1400/6915.wikitext` · revision `6915` · [upstream](https://second-renaissance.fandom.com/wiki/Planetary-Governor_of_Earth)

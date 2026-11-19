@@ -1,0 +1,68 @@
+---
+page_id: 838
+revision_id: 1151
+source_url: https://second-renaissance.fandom.com/wiki/Template%3AMbox/doc
+raw_sha256: 607a842bc0ece7179641685e84e72acb6bc0cf8bffbc997ddb6bef48a2cf629a
+---
+
+# Template:Mbox/doc
+
+## Preserved source
+
+```wikitext
+{{Documentation subpage}}
+<!-- Categories go where indicated at the bottom of this page, please; interwikis go to Wikidata (see also: [Wikipedia:Wikidata](https://second-renaissance.fandom.com/wiki/Wikipedia:Wikidata)) -->
+{{High-risk| 188,000+ }}
+{{Lua|Module:Message box}}
+{{Mbox templates (small)}}
+
+{{tl|Mbox}} ("['''M''']uti-namespace message['''box''']") is a [metatemplate](https://second-renaissance.fandom.com/wiki/Help:Metatemplating) with which [namespace](https://second-renaissance.fandom.com/wiki/Wikipedia:Namespace)-sensitive {{cl|Mbox and messagebox templates|messagebox templates}} can be implemented. The most common of these are {{tl|Ambox}} for articles, {{tl|Tmbox}} for talk pages, {{tl|Imbox}} for file (formerly image) pages, {{tl|Cmbox}} for category pages and {{tl|Ombox}} for other types of page.
+
+Note that this template should only be used for message boxes that really need to adapt their style. Most message boxes do not need this and should use one of the varieties just listed. Using those templates directly means that your template will look the same on its template page and at any other place you show it, which makes it clear on what kind of pages it is supposed to be used. It also gives you access to any extra features those templates offer, and it saves some server load.
+
+# Usage
+This template takes the same parameters as {{tl|Ambox}}, {{tl|Imbox}}, etc. See full documentation there.
+
+Some of the boxes this template calls only handles images of max 52px width, thus that limitation also applies to this template or you will get ugly padding problems.
+
+# Demospace
+This template optionally takes the "demospace" parameter as described at {{tl|Namespace detect}}. That parameter is only for testing and demonstration purposes. If you want to lock your message box to one style then instead use one of the other mboxes directly.
+
+Namespace "Image:" was renamed to "File:" on 11 December 2008. This template was updated to understand both names well before that, thus it still works fine. For backwards compatibility it still understands "demospace&nbsp;= image" which means the same thing as "demospace&nbsp;= file". But using "demospace&nbsp;= image" is now deprecated.
+
+Namespace "Book:" was added to the English Wikipedia on 28 December 2009. This template uses the {{tlf|Ombox}} style on "Book:" pages (or when "demospace&nbsp;= book") and the {{tlf|Tmbox}} style on "Book talk:" pages (or when "demospace&nbsp;= talk"). Note that "demospace&nbsp;= talk" means any talk space.
+
+# Parameters
+List of all parameters:
+<pre>
+{{Mbox
+| demospace = {{{demospace|}}} / main / talk / file / category / other
+| type  = speedy / delete / content / style / notice / move / protection
+| image = none / [40px](https://second-renaissance.fandom.com/wiki/File:Some_image.svg)
+| imageright = [40px](https://second-renaissance.fandom.com/wiki/File:Some_image.svg)
+| style = CSS values
+| textstyle  = CSS values
+| text  = The message body text.
+| small = {{{small|}}} / left / yes
+| smallimage = none / [30px](https://second-renaissance.fandom.com/wiki/File:Some_image.svg)
+| smallimageright = none / [30px](https://second-renaissance.fandom.com/wiki/File:Some_image.svg)
+| smalltext  = A shorter message body text.
+}}
+</pre>
+
+Note: The small parameters only have effect when the template appears on an article, talk or "other" page type. For their associated documentation, see {{tl|Ambox}}, {{tl|Tmbox}} and/or {{tl|Ombox}}. Using the small parameters when they are not valid has no effect, but also does no harm.
+
+# See also
+{{Mbox templates see also}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||
+<!-- Categories go below this line, please; interwikis go to Wikidata, thank you! -->
+[Category:Mbox and messagebox templates](https://second-renaissance.fandom.com/wiki/Category:Mbox_and_messagebox_templates)
+[Category:Exclude in print](https://second-renaissance.fandom.com/wiki/Category:Exclude_in_print)
+
+}}</includeonly>
+```
+
+## Provenance
+
+Raw source: `bronze/pages/838/1151.wikitext` · revision `1151` · [upstream](https://second-renaissance.fandom.com/wiki/Template%3AMbox/doc)

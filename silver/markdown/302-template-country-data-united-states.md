@@ -1,0 +1,111 @@
+---
+page_id: 302
+revision_id: 5150
+source_url: https://second-renaissance.fandom.com/wiki/Template%3ACountry_data_United_States
+raw_sha256: d43f97f6782378030088932911eb2a75b7c18d76e5f766cb24bef8d9aa0441e3
+---
+
+# Template:Country data United States
+
+## Preserved source
+
+```wikitext
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = United States
+| flag alias = Flag_of_the_United_States.png
+| flag alias-1776 = Grand Union Flag.svg
+| flag alias-1777 = US flag 13 stars – Betsy Ross.svg
+| flag alias-1795 = StarSpangledBannerFlag.svg
+| flag alias-1818 = US flag 20 stars.svg
+| flag alias-1819 = US flag 21 stars.svg
+| flag alias-1820 = US flag 23 stars.svg
+| flag alias-1822 = US flag 24 stars.svg
+| flag alias-1836 = US flag 25 stars.svg
+| flag alias-1837 = US flag 26 stars.svg
+| flag alias-1845 = US flag 27 stars.svg
+| flag alias-1846 = US flag 28 stars.svg
+| flag alias-1847 = US flag 29 stars.svg
+| flag alias-1848 = US flag 30 stars.svg
+| flag alias-1851 = US flag 31 stars.svg
+| flag alias-1858 = US flag 32 stars.svg
+| flag alias-1859 = US flag 33 stars.svg
+| flag alias-1861 = US flag 34 stars.svg
+| flag alias-1863 = US flag 35 stars.svg
+| flag alias-1865 = US flag 36 stars.svg
+| flag alias-1867 = US flag 37 stars.svg
+| flag alias-1877 = US flag 38 stars.svg
+| flag alias-1890 = US flag 43 stars.svg
+| flag alias-1891 = US flag 44 stars.svg
+| flag alias-1896 = US flag 45 stars.svg
+| flag alias-1908 = US flag 46 stars.svg
+| flag alias-1912 = US flag 48 stars.svg
+| flag alias-1959 = US flag 49 stars.svg
+| flag alias-1960 = US_flag_50_stars.png
+| flag alias-2021= US_flag_51stars.png
+| flag alias-2035= US_flag_52stars.png
+| flag alias-2037= US_flag_56stars.png
+| flag alias-2043= US_flag_56stars_Black_Stripe.png
+| flag alias-2066= US_flag_60_stars.png
+| flag alias-2073= US_flag_78_stars.png
+| flag alias-2076= US_flag_80_stars.png
+| flag alias-2090= US_flag_81smallstars.png
+| flag alias-2136= Flag_of_the_United_States.png
+
+| flag alias-air force = Flag of the United States Space Force.png
+| flag alias-coast guard = Ensign of the United States Coast Guard.svg
+| flag alias-coast guard-1915 = Ensign of the United States Coast Guard (1915-1953).png
+| link alias-naval = {{#switch:{{{variant|}}}|coast guard|coast guard-1915=United States Coast Guard|United States Navy}}
+| flag alias-army = Flag of the United States Army.svg
+| link alias-football = United States {{{mw|men's}}} national {{{age|}}} soccer team
+| link alias-basketball = United States {{{mw|men's}}} national {{{age|}}} basketball team
+| link alias-field hockey = United States {{{mw|men's}}} national field hockey team
+| link alias-Australian rules football = United States {{{mw|men's}}} national Australian rules football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1776  
+| var2 = 1777   
+| var3 = 1795   
+| var4 = 1818   
+| var5 = 1819  
+| var6 = 1820   
+| var7 = 1822   
+| var8 = 1836   
+| var9 = 1837  
+| var10 = 1845  
+| var11 = 1846   
+| var12 = 1847   
+| var13 = 1848  
+| var14 = 1851  
+| var15 = 1858  
+| var16 = 1859  
+| var17 = 1861  
+| var18 = 1863   
+| var19 = 1865 
+| var20 = 1867  
+| var21 = 1877 
+| var22 = 1890  
+| var23 = 1891   
+| var24 = 1896   
+| var25 = 1908   
+| var26 = 1912  
+| var27 = 1959   
+| var28 = 1960   
+| var29 = coast guard
+| var30 = coast guard-1915
+| redir1 = USA
+| redir2 = US
+| redir3 = United States of America
+| redir4 = U.S.
+</noinclude>
+}}
+
+[Category: Templates](https://second-renaissance.fandom.com/wiki/Category:_Templates)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/302/5150.wikitext` · revision `5150` · [upstream](https://second-renaissance.fandom.com/wiki/Template%3ACountry_data_United_States)

@@ -1,0 +1,57 @@
+---
+page_id: 964
+revision_id: 11337
+source_url: https://second-renaissance.fandom.com/wiki/Virtuals
+raw_sha256: 5006ff04500e40e330e8fe3a6c578d9733941a10095920635b26d1bfdc2aa5ed
+---
+
+# Virtuals
+
+## Preserved source
+
+```wikitext
+'''Virtuals''' are electronic games that involves human interaction with a tactile neural interface to generate sensory feedback through a computer. The word virtual is a shorthand term for virtual reality, and was a holdover term from several false starts and non-feedback VR that predated Tactile Neural Interfaces. Virtuals have become an art form and an industry. The virtual industry is by far the largest entertainment industry with, as of 2160, generated sales of 791 billion-USD annually systemwide.
+
+# History
+Early virtuals used interactive electronic devices with display visors and incorporated audio feedback. The earliest example is the 1985 DataGlove by VPL Research, but the first commercially successful interface--often considered to be the first successful virtual reality game console ever-- was the Oculus Rift by Oculus VR in 2016. The success of Oculus drove major players in the video game and movie industry to begin creating content for virtual reality interfaces. Valve, Sony, and Nintendo all raced to produce their own VR systems, while Microsoft partnered with Oculus.
+
+The 2020s saw a surge in investment in VR companies, but a lack of high quality content from major game developers, and a market more interested in mobile games, contributed to VR failing to gain mass market adoption in the 2020s. Following the Crash of 2027, investment in VR gaming ground to a halt, and the technology would remain confined to VR arcades for many decades.
+
+In 2085 startup Neurosystem became the first developer to make use of [quantum computing](3580-quantum-capacitor.md) technology used to conduct brain scans in the medical industry to construct a functional tactile neural interface for gaming. The mainstream success of Neurosystem's 2086 sword fighting game Sengoku Blade, marked the beginning of the golden age of sensory feedback virtuals and inspiring dozens of manufacturers to enter the market. The game inspired tactile neural interfaces to become prevalent in mainstream retailers.
+
+By the end of the 2080s saw virtuals eclipse traditional video games, but also television series and movies production companies began using new motion capture technology to screen films virtually for maximum immersion. These would go on to become the first Experience Series where the viewer would be watching events take place from the perspective of someone in the crowd. In 2089 smart NPCs had become sufficiently advanced for some production houses to release Experience Series that users could directly interact with as a lead or self-insert character. That same year the first TV series were adapted for VR interaction.  
+
+By 2090 the US military having been experimenting with virtuals as a means of educating soldiers in simulated combat scenarios without risking their lives, began testing time dilation perception technology to reduce the amount of realtime for a soldier to learn a skill or simulate an war-game. The technology would not enter the public domain until after the [Second Mexican-American War](821-second-mexican-american-war.md), but would go on to be adopted by a number of education centers as means of accelerated learning. By the middle of the 2110s it was common practice for universities to offer purely virtual courses and simulated internships, increasing employee productivity and experience in far less time.
+
+# Education and training
+While virtual entertainment is the most profitable market for Virtuals and Experience series, virtuals are also widely used for education and training programs. Sports teams use virtuals to run practice games off-season across professional, college, and even high-school level teams. Many employers use virtuals to prepare employees for new tasks and job duties, as well as training themselves in company war-games. Experience feeds are often used in concert with these training programs to let teams or individuals test skills from the recorded experiences of previous individuals or teams. Militaries use these types of virtuals to not only simulate previously fought battles, but to reformat the tactics for new eras to drill new recruits and seasoned veterans for combat. Education centers use virtuals in concert with direct-downloads to place students in simulated projects and situations to test their practical application of mathematics, history, sociology, etc. Law schools employ virtual recreations of major court cases with the most prestigious schools creating detailed profiles for character AIs of judges, litigators, and even members of the jury. Architectural and Engineering schools operate almost entirely in virtual so that students can practice routine industry procedure and create buildings, vehicles, and entire cites.
+
+# Experience Series
+Experience Series gained popularity in the 2090s as a new class of virtual that enabled users to watch directed series or movies from any perspective they chose. While popular opinion of the era was that traditional actors would be rendered obsolete by the creation of Smart NPCs, Experience series saw the dawn of a new field of acting. It was no longer enough for an actor to project drama, they had to experience it to such a degree that someone watching could interface with their recorded emotional state and neural feedback and experience what the actors felt during their performance. During World War III, a popular form of Experience media came from battlefield recordings of soldiers in the field. Most news outlets prefer to use Experience feeds streamed directly from humans with backup memory drives as a means of emotionally connecting the public to events.
+
+# Popular Virtuals
+*'''Sengoku Blade''' (2086) - First TNI Virtual. You play as a Samurai during the Sengoku period of Japan's feudal wars. One of the first Japanese games to achieve widespread success in the US in the years following World War III. 
+*'''Realm of Avalon '''(2087) - Classic western fantasy game. Incorporated procedural boss systems made famous in the "Shadow of Mordor" series, but expanded it to include all NPCs. Players would not only shape the villains of the game, but their allies and support characters. Players would have to build up an army from a minor house in a fantasy Kingdom to challenge the ruling monarch.
+*'''Skychasers''' (2091) - Deiselpunk flight combat game set during the golden age of seaplane travel, with both real and fictional aircraft designs available to players.
+*'''Saga of the Haetae''' (2093)-- A fantasy RPG starring a teenage girl in the Korea-based kingdom of Asadal, who must join forces with the lion-like mythical beast known as Haetae to free her land from a tyrannical dictator.
+*'''Devil Dogs: Battle for the Pacific''' (2093) - Based on the 2049 non-Virtual video game of the same name. Set during WWII's Pacific theater, following a US Marine from Pearl Harbor to Okinawa.
+*'''X Day: War for Japan''' (2093) - Based on the 2053 non-Virtual video game of the same name. Set in an alternate World War II where the Trinity test is not successful and the US is forced to invade Japan. This virtual was made by the same studio responsible for the release of ''Devil Dogs: Battle for the Pacific''.
+*'''King Kong: Battle of Skull Island''' (2095)- A re-imagining of the classic 1933 version of ''King Kong,'' set in the Pacific theater of WWII. At various points, players control explorers, US soldiers, and Kong himself in the battle against Japanese forces who have landed on Skull Island.
+*'''Dracula: Vampire Wars''' (2096) - Based on the 2054 non-Virtual video game of the same name. Set during the Ottoman invasion of Romania. You play as Vlad the Impaler and battle as a Vampire against the Ottoman Empire.
+*'''Guns of Warsaw''' (2096) - Based on the 2058 non-Virtual video game of the same name. Set during the Battle of Poland. Player jumps between perspectives of Polish Army defenders, US Armored Infantry, and Hungarian partisans attempting to repel Coalition forces in the Eastern European theater of World War III.
+*'''Moon Over Chicago''' (2099) - Set in just before the Great Fire in Chicago, you play as a werewolf attempting to rescue his lover from a cult of religious fanatics. Featured some of the first body transformation engines, capitalizing on popularity of genetic modification.
+*'''Skinchangers''' (2101) - Set in an urban fantasy world, players take the role of Druid detectives, changing into animals (including such obscure species as elephant shrews, trap-jaw ants, hooded pitohuis, and Humboldt squid) to solve mysteries.
+*'''Epoch: Victoria '''(2103) - Most advanced simulation virtual of the era. Starts players off in 1840 and gives them the power to select and lead an existing nation or create a new one. Players can craft vehicles and weapons, infrastructure, and form alliances up to 1920.
+*'''Echoes of the Stars'' '''''<span>(2109) -</span> <span>A science-fiction game where players defend Earth from inter-dimensional monsters; a deliberate homage to classic anime such as </span>''Neon Genesis Evangelion''<span>.</span>
+*'''Epoch: Dynasties '''(2119) - Most advanced anthropology engine ever employed for a virtual. This strategy virtual let players select a region of the world and a time dated as far back as 10,000 BCE maximum. They can choose to either select an already-existed historical people/civilization, such as the Romans, Celts, Germanics, Greeks, Egyptians, Babylonians, Assyrians, Chinese, Indian, etc, or create an entirely new and fictional civilization from the ground up with accurate projections of the growth of other civilizations around the world and the impact of the player's civilization on global events from 10000 BCE up until the modern day of 2110s-2120s CE.
+*'''Beyond the Aether''' (2154) - An exploration game where the player can explore the Sol system and several other planets in the 2140s during the Terran Diaspora.
+*'''Ragnarok''' (2156) - An open world that takes place in a post-apocalyptic Sol system where the Third Mexican-American War lasted slightly longer that would eventually lead to the destruction of infrastructure and civilized society in the Sol system. The player assumes a role of a survivor waking up on Earth, 15 years after doomsday.
+
+[Category:Entertainment](https://second-renaissance.fandom.com/wiki/Category:Entertainment)
+[Category:Technology](https://second-renaissance.fandom.com/wiki/Category:Technology)
+[Category:Popular Culture](https://second-renaissance.fandom.com/wiki/Category:Popular_Culture)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/964/11337.wikitext` · revision `11337` · [upstream](https://second-renaissance.fandom.com/wiki/Virtuals)

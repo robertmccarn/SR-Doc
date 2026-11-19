@@ -1,0 +1,190 @@
+{{Documentation subpage}}
+<!-- Categories and interwikis go at the bottom of this page. -->
+
+This template adds an inline bar graph to tables with numeric (including negative) values that a reader may wish to compare.
+
+Use this template inside a table. The template generates either two table cells (for cases in which all values are positive) or three (to accommodate negative bars going off to the left). Thus, your table headers should have '''colspan="2"''' or '''colspan="3"''' (or similar combinations), respectively, to correctly span the columns.
+
+The template generates two cells if the ''scale'' parameter is positive and three if it is negative.
+
+== Usage ==
+
+ <nowiki>{{</nowiki>bartable|''value''|''unit''|''scale''|''height''|''style''<nowiki>}}</nowiki>
+
+; ''value'' (mandatory) : any real number or math expression that evaluates to a number. Commas can be used to [[Digit_grouping|group digits]]. See [[Help:Calculation]] for the syntax for math expressions.
+; ''unit'' (default = empty string) : the unit, e.g. "m" for metres. Prepend a space if you want a space between the value and the unit. If ''unit'' starts with "''/''", the value is converted between units (using the '''[[Template:Convert|convert]]''' template) as follows:
+:: "''/unit1/unit2/round''" converts the value from ''unit1'' to ''unit2'' and rounds it to ''round'' decimal places (using <code><nowiki>{{</nowiki>convert|''value''|''unit1''|''unit2''|''round''|abbr=on<nowiki>}}</nowiki></code>). Unfortunately ''unit1'', ''unit2'' or ''round'' cannot contain a "''/''" or a "=" — if anyone knows how to allow it (or translate other characters to it), please help.
+; ''scale'' (default = 1) : a factor multiplied by ''value'' to give the width of the bar in pixels. Use the same scale in every row, as otherwise the bar chart won’t be to scale!
+: ''scale'' can be negative, in which case an additional column (for showing negative values) is created. See [[#3-column (positive and negative values)|example below]].
+; ''height'' (default = "2ex") : the height of the bar as a [[cascading style sheet|CSS]] measurement e.g. "1em" or "16px".
+; ''style'' (default = empty string) : a CSS style string to apply to the bar, e.g. "background:red;".
+
+== Examples ==
+
+{{for|pages using this template|Special:WhatLinksHere/Template:Bartable}}
+
+=== Real-world example ===
+<pre>
+{| class="wikitable"
+|+ Melting point at 1 atmosphere
+! Substance  !! Temperature !! colspan="2" | Relative size
+|-
+| Mercury    || {{bartable| -38.72|/C/F|-2|1em|background:silver}}
+|-
+| Bromine    || {{bartable|  -7.10|/C/F|-2|1em|background:brown}}
+|-
+| Water      || {{bartable|      0|/C/F|-2|1em}}
+|-
+| Phosphorus || {{bartable|  44.10|/C/F|-2|1em|background:red}}
+|-
+| Iodine     || {{bartable| 113.50|/C/F|-2|1em|background:indigo}}
+|-
+| Sulphur    || {{bartable| 115.36|/C/F|-2|1em|background:yellow}}
+|}
+</pre>
+{| class="wikitable"
+|+ Melting point at 1 atmosphere
+! Substance  !! Temperature !! colspan="2" | Relative size
+|-
+| Mercury    || {{bartable| -38.72|/C/F|-2|1em|background:silver}}
+|-
+| Bromine    || {{bartable|  -7.10|/C/F|-2|1em|background:brown}}
+|-
+| Water      || {{bartable|      0|/C/F|-2|1em}}
+|-
+| Phosphorus || {{bartable|  44.10|/C/F|-2|1em|background:red}}
+|-
+| Iodine     || {{bartable| 113.50|/C/F|-2|1em|background:indigo}}
+|-
+| Sulphur    || {{bartable| 115.36|/C/F|-2|1em|background:yellow}}
+|}
+
+=== 2-column (only positive values) ===
+<pre>
+{| class="wikitable"
+! Example                             || colspan="2" | Rendering
+|-
+| Only value                          || {{bartable|272}}
+|-
+| Negative value                      || {{bartable|-72}}
+|-
+| Math expression                     || {{bartable|exp(1)*1e2}}
+|-
+| Value and unit (note added space)   || {{bartable|272| km/h}}
+|-
+| Value and unit (link to definition) || {{bartable|272|[[Degree_(angle)|&deg;]]}}
+|-
+| Value and unit (with formatting)    || align="right"|''&theta;'' = {{bartable|272|&deg;}}
+|-
+| Value and unit (with conversion)    || {{bartable|272|/km/mi}}
+|-
+| Value and scale                     || {{bartable|272||1/(2^0.5)}}
+|-
+| Value and height                    || {{bartable|272|||4px}}
+|-
+| Value and style                     || {{bartable|272||||background:blue;}}
+|-
+| Value with commas, and scale        || {{bartable|2,720||.1}}
+|-
+| The full monty                      || {{bartable|18^2|%|sin(1)|2em|border:ridge red;}}
+|-
+|}
+</pre>
+{| class="wikitable"
+! Example                             || colspan="2" | Rendering
+|-
+| Only value                          || {{bartable|272}}
+|-
+| Negative value                      || {{bartable|-72}}
+|-
+| Math expression                     || {{bartable|exp(1)*1e2}}
+|-
+| Value and unit (note added space)   || {{bartable|272| km/h}}
+|-
+| Value and unit (link to definition) || {{bartable|272|[[Degree_(angle)|&deg;]]}}
+|-
+| Value and unit (with formatting)    || align="right"|''&theta;'' = {{bartable|272|&deg;}}
+|-
+| Value and unit (with conversion)    || {{bartable|272|/km/mi}}
+|-
+| Value and scale                     || {{bartable|272||1/(2^0.5)}}
+|-
+| Value and height                    || {{bartable|272|||4px}}
+|-
+| Value and style                     || {{bartable|272||||background:blue;}}
+|-
+| Value with commas, and scale        || {{bartable|2,720||.1}}
+|-
+| The full monty                      || {{bartable|18^2|%|sin(1)|2em|border:ridge red;}}
+|-
+|}
+
+=== 3-column (positive and negative values) ===
+<pre>
+{| class="wikitable"
+! Example                             || colspan="3" | Rendering
+|-
+| Only value                          || {{bartable|272||-1}}
+|-
+| Negative value                      || {{bartable|-72||-1}}
+|-
+| Math expression                     || {{bartable|exp(1)*1e2||-1}}
+|-
+| Value and unit (note added space)   || {{bartable|272| km/h|-1}}
+|-
+| Value and unit (link to definition) || {{bartable|272|[[Degree_(angle)|&deg;]]|-1}}
+|-
+| Value and unit (with formatting)    || align="right"|''&theta;'' = {{bartable|272|&deg;|-1}}
+|-
+| Value and unit (with conversion)    || {{bartable|272|/km/mi|-1}}
+|-
+| Value and scale                     || {{bartable|272||-1/(2^0.5)}}
+|-
+| Value and height                    || {{bartable|272||-1|4px}}
+|-
+| Value and style                     || {{bartable|272||-1||background:blue;}}
+|-
+| Value with commas, and scale        || {{bartable|2,720||-.1}}
+|-
+| The full monty                      || {{bartable|18^2|%|sin(-1)|2em|border:ridge red;}}
+|-
+|}
+</pre>
+{| class="wikitable"
+! Example                             || colspan="3" | Rendering
+|-
+| Only value                          || {{bartable|272||-1}}
+|-
+| Negative value                      || {{bartable|-72||-1}}
+|-
+| Math expression                     || {{bartable|exp(1)*1e2||-1}}
+|-
+| Value and unit (note added space)   || {{bartable|272| km/h|-1}}
+|-
+| Value and unit (link to definition) || {{bartable|272|[[Degree_(angle)|&deg;]]|-1}}
+|-
+| Value and unit (with formatting)    || align="right"|''&theta;'' = {{bartable|272|&deg;|-1}}
+|-
+| Value and unit (with conversion)    || {{bartable|272|/km/mi|-1}}
+|-
+| Value and scale                     || {{bartable|272||-1/(2^0.5)}}
+|-
+| Value and height                    || {{bartable|272||-1|4px}}
+|-
+| Value and style                     || {{bartable|272||-1||background:blue;}}
+|-
+| Value with commas, and scale        || {{bartable|2,720||-.1}}
+|-
+| The full monty                      || {{bartable|18^2|%|sin(-1)|2em|border:ridge red;}}
+|-
+|}
+
+== See also ==
+* {{tl|composition bar}}
+* {{tl|bar chart}}
+
+<includeonly>
+<!-- Categories and interwikis go here: -->
+[[Category:Table and column templates]]
+[[Category:Conversion templates]]
+</includeonly>

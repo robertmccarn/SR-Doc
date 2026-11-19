@@ -1,0 +1,18 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p><strong class=\"error\">Template requires an <a href=\"https://en.wikipedia.org/wiki/ISO_639\" class=\"extiw\" title=\"wikipedia:ISO 639\">ISO 639</a> language code</strong>\n</p>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:ISO 639 name undefined/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SVNPXzYzOV9uYW1lX3VuZGVmaW5lZC9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:ISO_639_name_undefined/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:ISO 639 name undefined/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SVNPXzYzOV9uYW1lX3VuZGVmaW5lZC9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:ISO 639 name undefined/doc</span></div>\n<p><br />\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119205808\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.021 seconds\nReal time usage: 0.026 seconds\nPreprocessor visited node count: 19/1000000\nPost‐expand include size: 665/2097152 bytes\nTemplate argument size: 64/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nLua time usage: 0.002/7.000 seconds\nLua memory usage: 640468/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   17.901      1 -total\n 83.02%   14.861      1 Template:Error\n 15.92%    2.850      1 Template:Documentation\n  7.69%    1.377      1 Template:ISO_639_name_undefined/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:2277-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205808 and revision id 6440. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:ISO 639 name undefined/doc",
+      "ns": 10
+    }
+  ],
+  "page_id": 2277,
+  "revision_id": 6440,
+  "title": "Template:ISO 639 name undefined"
+}

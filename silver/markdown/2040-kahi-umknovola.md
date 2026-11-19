@@ -1,0 +1,46 @@
+---
+page_id: 2040
+revision_id: 11065
+source_url: https://second-renaissance.fandom.com/wiki/Kahi%27Umknovola
+raw_sha256: 47f5d97694dde63c1abc45798aaf5f8c80165f9921209f5a7931196cc6dc229d
+---
+
+# Kahi'Umknovola
+
+## Preserved source
+
+```wikitext
+'''Kahi'Umknovola''' or '''Kahi ('''''Thermocephalus proteles'') are the only intelligent inhabitants of the planet [Umknovola](2637-umknovola.md) in the 109 Piscium system. They are bipedal pseudo-tetrapods evolved for 27% higher gravity than Earth.
+
+# Evolution
+The clade of "vertebrates" that the <span>Kahi'Umknovola belong to is a relatively recent phenomenon in the history of their planet. "Vertebrates" on Umknovola evolved from ancestors resembling sea cucumbers, with a retractable feeding proboscis that folds into the "mouth" when not in use. Their limbs evolved from fleshy pseudopods originally used for crawling on the ocean floor. These "vertebrates" have come to dominate land-dwelling life on their planet just as vertebrates on Earth did, evolving into every conceivable niche.</span>
+
+The <span>Kahi'Umknovola are the end result of an innovation that occurred relatively recently, about 40 million years ago. One clade of "vertebrates" evolved the first equivalent of a true endothermic metabolism on Umknovola, and this led to the evolution of larger brains and eventually sapience.</span>
+
+# Description
+Kahi'Umknovola stand just under two meters tall with a distinctively muscular physique with secondary muscle groups supporting their extremities, most noticeably being the front facing layer of muscles connecting their pectorals to their neck and their temples, forming a continuous mass rather than a distinct neck and head. Additionally, their bodies are marked by several dense clusters of sweat glands similar to human armpits to bleed any excess buildup of heat from overexertion.
+
+Despite their intimidating image, the Kahi are known to be a particularly good-natured species with a lower propensity for aggression than natural humans.
+
+# History
+## '''Early civilizations'''
+Umknovola is believed to have been continuously inhabited by intelligent civilization longer than any other world known to humanity with the earliest evidence of the written word having been dated as far back as 125,000 years, nearly 25 times older than the oldest examples of cuneiform. It is believed bronze age civilizations emerged no less than five times in Umknovola's history and has been closely studied to explain "the Great Filter," that apparently hinders the development of advanced civilizations.
+
+There is evidence that, given the age of the planet, the earliest bronze age civilizations on Umknovola were not established by the same species as the Kahi'Umknovola, and evidence suggests that between the 3rd and 4th emergence of civilization around 50,000 years ago, the Kahi emerged from a common ancestor of the previous civilization, akin to modern humans' relationship with neanderthals. Some evidence from this era even suggests that both species treated each other as slaves at one time or another.
+
+## '''Contemporary civilization'''
+The current, and by far most successful Kahi civilization emerged roughly 6000 years ago and has since emerged to a point akin to Earth during the Roman Era, though many consider this to be a gross oversimplification of the species technological development. Despite having not yet discovered gunpowder, the most advanced Kahi civilizations have developed primitive gearboxes to drive a wide variety of more industrialized artisan activity. The largest Kahi settlements are located in river valleys where wind and water power provide enough mechanical energy to drive a wide array of mills and industrial machines. As such the Kahi have access to textiles, machining, and irrigation systems.
+
+## '''First contact'''
+First contact with humanity occurred on June 30, 2110 (Earth Standard). An away team from IV-403 ''Endurance'' landed just outside the largest settlement on the planet, Timur'Nuvoa after more than four months in orbit. The Nuvoa people were apparently recovering from a war with several neighboring states three years earlier and eager to meet the human travelers. As per protocol the Discovery's captain, Michelle Hirono and a team of diplomats met with the Nuvoa leadership and began peaceful relations with them as they were the most advanced and socially developed civilization on the planet. The Nuvoa went so far as to grant Humanity not just a single building, but an entire district of Timur'Nuvoa to serve as humanity's diplomatic center. Apparently Timur'Nuvoa had been the site of many ancient civilizations and while extremely developed, about a third of the city was still largely uninhabited.
+
+The Nuvoa called a special council with their neighboring states and agreed to a formal ceasing of hostilities upon seeing the technological wonders these newcomers had brought with them. Technological optimism was extremely prevalent across Umknovola's more advanced nations, giving rise to the comparison to Earth's own Enlightenment Age. The Human District quickly became flooded by learned individuals from across the planet seeking an exchange of knowledge for their various fields.
+
+## '''Kahi Golden Age'''
+Over the following generations humans helped the Kahi cure disease, achieve planet-wide peace, and improve industry and agriculture to enable a population explosion. As of 2160 the Kahi number 2.8 billion individuals having risen from just over one billion at the time of first Contact. A planet-wide government has been formed and there are the Kahi joined the American system as a Free Association in 2158. They are one of the first extraterrestrial species to fall under the Terran sphere of influence outside of the Sol system.
+[Category:Alien species](1458-category-alien-species.md)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/2040/11065.wikitext` · revision `11065` · [upstream](https://second-renaissance.fandom.com/wiki/Kahi%27Umknovola)

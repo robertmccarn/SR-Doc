@@ -1,0 +1,66 @@
+{{Infobox country
+|conventional_long_name = Planetary Commonwealth of Saturn
+|national_motto = "Titan Forever"
+|national_anthem = "The Star-Spangled Banner"
+|capital = Minas Tirith
+|largest_city = Minas Tirith
+|languages = English (de facto)
+|demonym = American, Saturnian, Titan
+|languages_type = 
+|lang_others= Chinese, Russian, Japanese, etc.
+|government_type = United States Planetary Commonwealth
+|leader_title1 = [[Planetary-Governor of Saturn|Planetary-Governor]]
+|leader_name1 = Ford Ige
+|legislature = Congress of Titan
+|upper_house = Planetary Senate
+|lower_house = Planetary House of Representatives
+|established_event1 = Formation 
+|sovereignty_type = Created per Amendemnt to the constitution
+|established_date1 = July 4, 2137
+|area_rank = 1st
+|area_sq_mi = 
+|population_estimate = 149 million
+|population_estimate_year = 2160
+|population_estimate_rank = 5th
+|currency = United States dollar ($)
+|currency_code = USD
+|image_flag = Flag_of_Saturn.png
+|leader_title2 = Lieutenant Governor
+|leader_name2 = 
+|image_symbol = Saturn_PIA06077.jpg|symbol_type = Saturn}}'''Saturn''' is the sixth planet from the Sun in the Sol System, and the second largest [[U.S. planetary commonwealth]] by area and number of settled bodies in its orbit, while being 5th most populous.
+
+The bulk of the Saturnian population (81%) reside on Titan and Enceladus, while the remainder live in Orbitals that circle the planet and in small settlements on the various small moons orbiting the planet.
+
+==History==
+==='''Early research'''===
+==='''20th Century'''===
+==='''[[21st Century]]'''===
+===='''Early Settlement'''====
+The first human effort to explore the Saturn system was an expedition launched from Mars in 2036, led by [[Arya Kanzaki]] and [[Lionel Halvidar]]. Kanzaki was originally a member of the [[Bradbury]] colony and left for Titan knowing that Nitrogen was the key to the long term colonization of Mars. Halvidar was hired to serve as Chief of Colony Planning for the proposed Gondor Colony. The group secured five ships and left for Titan on a 400 day mission with a crew of 142. Upon arriving, the group landed near the equatorial mountain Mindolluin and began the laborious process of harvesting carbon from the methane rich seas to produce nano-domes and the first elevator which was completed in 2041.
+
+At the time, Gondor's nano-dome was the largest in the solar system, covering the whole of the mountain and stretching to the floor of the Methane Sea more than a kilometer from its shore. The coastline of the Methane Sea was drained and left bare from the construction of the elevator. The massive dome's nitrogen was drained and pumped into space where it was frozen into a solid block. What Nitrogen remained was used as the 70% of the colony's atmosphere to serve as a buffer. Fusion reactors and small solar mirrors heated the interior of the colony to a comfortable 19 degrees C, melting the water ice that served as the surface for much of the planet. Genetically modified bacteria converted the newly exposed regolith into usable soil while engineers deposited more regolith from harvested asteroids to inject much needed nutrients into the biosphere and buildup the land once made up predominantly of ice.
+
+Outside of Gondor, survey teams set up similar biomass generator projects in the few rocky outcroppings they came across, and deposited melt probes into the subsurface ocean, confirming the presence of large quantities of amonia rather than water in the subsurface sea. Similar ice prospector missions were carried out on Enceladus, confirming the presence of bacterial life in the subsurface ocean. 
+
+===='''Gas mining boom'''====
+Titan's abundant supply of Nitrogen made it an ideal position for harvesting Nitrogen for delivery to Mars or supplying other smaller colonies. Its abundance of hydrocarbons made the moon an ideal fuel depot for a local shipping economy and supported the creation of large and complex nanotech structures. As such, Titan saw an economic boom during the terraforming of Mars, based around the Nitrogen economy. The local colony planners estimated that most of the Moon's atmosphere could be exported down system to Mars, as the ammonia content of the water would be more than enough to support the creation of sustainable atmosphere as the moon heated up. As such, the effort to harvest nitrogen from titan was swift and aggressive. Titan became home to the largest network of space elevators in the solar system, with 21 towers spanning the moon to fuel ships, export nitrogen and import asteroid mining tailings for land reclamation. Titan became the Solar system's preferred dumping ground for the leftover silica that made up the bulk of all asteroids, importing it to build new landmass for colonies.
+
+Titans' Methane and Nitrogen economy supported the creation of orbitals near Saturn and the Saturn shipbuilding industry. Atmosphere mining around Saturn itself enjoyed a lot of early success thanks to the high concentration of hydrogen in the atmosphere and the production of harvesting components from Titan's nanotech industry. The same nano-tech industry was crucial to the tenting of Titan to begin paraterraforming and secure the Nitrogen atmopshere, and establishing successive generations of colonies. Most of these early colonies were built at the feet of the space elevators and had to constantly work to keep their interiors sufficiently heated due to the extreme cold of Titan's surface.
+
+===='''Post-Terraforming economy'''====
+With the opening of Mars, Titan saw the demand for Nitrogen plummet, however this did not lead to any kind of system-wide economic crash. Mars kept its commitment to provide its solar reflectors to begin heating the moon for its own terraforming mission, and the nitrogen economy's former workforce transitioned to handling the processing of terraforming supplies. Titan's population saw a near freeze on growth, while the tourist industry on Enceladus and the airship colonies in the atmosphere saw their own boom. But the real driving force behind growth was the continued demand for hydrogen from Venus. Many of the nitrogen mining workers on Titan simply transferred to the Saturn orbitals to harvest and condense atmospheric hydrogen to be launched down system for the Venusians.
+
+===='''Renewed growth'''====
+By the time of the [[Terran Diaspora]] Titan had seen its economy begin to grow once again at an accelerated rate. The hydrogen economy was still in high demand due to all the intra-system and exo-solar traffic, but testimonials from the era conclude that the demand for new land that had been successfully terraformed on Titan was the primary draw for terran colonists. Asteroid tailings reclaimed over the last century added the equivalent landmass of Australia to the moon's surface, while the addition of heat and terraforming organisms was cultivating some of the most impressive forests in the solar system. Excessive tenting had already made most of this new land suitable for colonization while the rest of the planet would be terraformed into the next century. The largely temporary ports outside of Minas Tirith had given way to more established cities and towns, and the local economy diversified with the influx of new skilled workers from Earth.
+
+==Moons==
+==='''Titan'''===
+Titan is the first, and perhaps most ambitious paraterraforming project in the Solar System. Using its abundant hydrocabon sources to supply the carbon needed for the largest array of space elevators beyond the orbit of Mars, these elevators also serve to link Titan's wafer "world-house" nano-tents together, containing the moon's abundant supply of Nitrogen. Over the last 120 years, Titan has slowly exported the bulk of its Nitrogen to supply the agricultural and atmospheric needs of the Solar System, most famously so with Mars. What remains still exceeds the needs of the world's inhabitants, and it will be another 50 years before Titan has an Earth-like atmosphere. Despite the abundance of organic hydrocarbons on Titan, the moon's subzero temperatures and absence of liquid water have prevented them from forming life. 
+
+Heat is delivered to Titan via a network of solar mirrors beaming light from near the orbit of Mercury to the moon's surface, at any given point there are no less than two mirrors shining somewhere in Titan's sky, providing roughly 70% of the light that is typically experienced on Earth. The methane of the Titanic seas has largely been drained or converted into water. what remains is contained in separate domes on the surface. Over the last century, the lion's share of regolith waste from the outer planets has been delivered to Titan for land reclamation projects.
+
+The bulk of Titan's population reside beneath a second series of domes where the environment has already been terraformed. River systems and an artificial rain cycle are used to feed farmland, and the majority of cities lie beneath the great elevators. It is said that Titan will be the most politically stable world in the Solar System once terraforming is completed, with rivers and mountain ranges designed specifically to promote economic prosperity and social cohesion.
+
+==='''Enceladus'''===
+If the absence of life on Titan was a disappointment, Enceladus more than made up for it. Like Europa, Ganymede, and Callisto, it possesses a deep ocean beneath its icy surface. Unlike them, however, its crust is much thinner, and it is prone to frequent geysers of water. These are the result of tectonic activity on its surface, and coincide with hydrothermal vents that provide nourishment to native life. While microscopic life is present on Europa, Callisto, and Ganymede, Enceladus is the only location in the [[Sol system]] other than Earth that has indigenous, complex, multicellular life. [[Category:Planets]]
+[[Category:Planetary Commonwealths of the United States]]

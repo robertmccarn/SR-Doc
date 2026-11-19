@@ -1,0 +1,5 @@
+Hi, welcome to {{SITENAME}}! Thanks for your edit to the [[:Third Mexican-American War]] page.
+
+'''[[Special:Userlogin|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.
+
+Please leave me a message if I can help with anything!<ac_metadata title="Welcome to Second Renaissance Wikia!"> </ac_metadata>

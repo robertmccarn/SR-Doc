@@ -1,0 +1,12 @@
+<nowiki>#00cc22</nowiki><noinclude>
+== Examples ==
+{|
+|- style="color:{{ {{PAGENAME}} }}"
+| '''This color'''
+|- style="background:{{ {{PAGENAME}} }}; color:white"
+| '''White text on this color'''
+|- style="background:{{ {{PAGENAME}} }}; color:black"
+| '''Black text on this color'''
+|}
+[[Category:United States political party color templates|{{ROOTPAGENAME}}]]
+</noinclude>

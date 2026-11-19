@@ -1,0 +1,31 @@
+---
+page_id: 2103
+revision_id: 11067
+source_url: https://second-renaissance.fandom.com/wiki/Hiilo
+raw_sha256: 93ab172ffe872fc3c6cb68c92d9d3c2ee112ab57bf6be3b251e7cfd178414cfe
+---
+
+# Hiilo
+
+## Preserved source
+
+```wikitext
+The '''Hiilo''' are one of two intelligent inhabitants of the planet Ivrilu in the Kepler-452 system, the other being the [Hivvir](2101-hivvir.md). The Hiilo split off from their Hivvir ancestors around 700k years ago. Unlike their cousins, the Hiilo are not able to glide, and instead dwell primarily in temperate savannas.
+
+# Evolution
+Ivrilu has a surface gravity only 63% that of Earth, and 125% the atmospheric pressure, enabling far more avenues for evolution to enable powered flight. The Hivvir's distant ancestors--and the common ancestors of all "vertebrates" on Ivrilu-- were six limbed amphibious cephalopods featuring gliding membranes. Later descendants of these ancestors evolved a more tetrapod-esque body plan, with two of the limbs becoming vestigial, but the membranes remained.  
+
+The Hiilo, like the Hivvir are bipedal, standing roughly 2.2 meters tall and are noticeably more slender than humans, with no hair or other integument to speak of. Their eyesight is superior to natural humans, but inferior to that of the Hivvir, with eyes that can move independently of each other and possess seven color receptors compared to human's natural three. Their patagia is far less developed than the Hivvir, making it impossible for them to achieve any form of flight beyond reducing their rate of fall.
+
+# History
+## Society
+The Hiilo were organized into several largely pastoral tribes prior to first contact, almost entirely dwelling within a large valley in the temperate south of the planet's largest continental mass. At the time of first contact, it was estimated that there were around 18,000 individuals at time of first contact, compared to the 70,000 of the Hivvir.
+
+## '''First Contact'''
+The Hiilo have been fairly receptive to human education and technology transfer, having crafted their own written language by 2125, and adopting many terran agricultural practices. This has led to a population boom, and the elevation of the Hiilo to the dominant species on the planet.
+[Category:Alien species](1458-category-alien-species.md)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/2103/11067.wikitext` · revision `11067` · [upstream](https://second-renaissance.fandom.com/wiki/Hiilo)

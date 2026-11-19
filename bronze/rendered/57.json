@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "*": "Templates",
+      "sortkey": "Delete"
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><div class=\"boilerplate metadata\" id=\"delete\" style=\"background-color:#fee; margin:1em; padding:5px 10px; border:1px solid #aaa;\">\n<p><b>This page is a candidate for deletion.</b>\n</p>\n<i>Remember to check <a href=\"/wiki/Special:WhatLinksHere/Template:Delete\" title=\"Special:WhatLinksHere/Template:Delete\">what links here</a> and <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Delete?action=history\">the page history</a> before deletion.</i></div>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <a href=\"/wiki/Template:Delete/doc\" title=\"Template:Delete/doc\">Template:Delete/doc</a> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<dl><dt>Description</dt>\n<dd>This template is used to mark pages for deletion, categorizing them in <a href=\"/wiki/Category:Candidates_for_deletion\" title=\"Category:Candidates for deletion\">Category:Candidates for deletion</a>.</dd>\n<dt>Syntax</dt>\n<dd>Type <code>{{<strong class=\"mw-selflink selflink\">delete</strong>}}</code> on the page to be deleted.<b></b></dd></dl></div>\n<!-- \nNewPP limit report\nCached time: 20261119205358\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.014 seconds\nReal time usage: 0.022 seconds\nPreprocessor visited node count: 185/1000000\nPost‐expand include size: 1162/2097152 bytes\nTemplate argument size: 72/2097152 bytes\nHighest expansion depth: 8/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 4/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   11.061      1 Template:Documentation\n100.00%   11.061      1 -total\n 79.03%    8.741      1 Template:Delete/doc\n 47.73%    5.279      1 Template:T\n 23.94%    2.648     20 Template:T/piece\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:57-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205358 and revision id 57. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Delete/doc",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Category:Candidates for deletion",
+      "exists": "",
+      "ns": 14
+    }
+  ],
+  "page_id": 57,
+  "revision_id": 57,
+  "title": "Template:Delete"
+}

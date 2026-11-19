@@ -1,0 +1,74 @@
+---
+page_id: 1874
+revision_id: 11766
+source_url: https://second-renaissance.fandom.com/wiki/United_States_presidential_election%2C_2060
+raw_sha256: 799909e85ed8e5046de8f631fc414a3e189ea0225aaa98720077a9004e0ebba8
+---
+
+# United States presidential election, 2060
+
+## Preserved source
+
+```wikitext
+{{Infobox election
+|election_name = United States presidential election, 2056
+|country = United States
+|type = presidential
+|ongoing = no
+|flag_year = 2043 
+|previous_election = United States presidential election, 2056
+|previous_year = 2056
+|next_election = United States presidential election, 2064
+|next_year = 2064
+|election_date = November 7, 2060
+| votes_for_election         = All elligable voters who participate
+| needed_votes               = 51% of the vote
+| turnout                    = 48.3%
+| image1 = [150px](2251-file-reed-chen-blank-png.md)
+| nominee1 = [Reed Chen](1266-reed-chen.md)
+| party1 = Liberal
+| home_state1 = Oregon
+| running_mate1 = Andrew Markwalter
+| electoral_vote1 = 
+| states_carried1 = 
+| popular_vote1 = 
+| percentage1 = 43.2%
+| image2 = [150px](117-file-blank-person-jpg.md)
+| nominee2 = Owen Wood
+| party2 = Progressive
+| home_state2 = Vermont
+| running_mate2 = Mat Grocholski
+| electoral_vote2 =
+| states_carried2 =
+| popular_vote2 =  
+| percentage2 = 36.8%
+| nominee5 = Matilda Belrose
+| party5 = Conservative
+| image5 = [150px](970-file-blank-woman-png.md)
+| home_state5 = North Dakota
+| running_mate5 = Rowan Smith 
+| electoral_vote5 = 
+| states_carried5 = 
+| popular_vote5 = 
+| percentage5 = 9.0%
+| nominee4 = David Garcia
+| party4 = Christian Dignity
+| image4 = [150px](117-file-blank-person-jpg.md)
+| home_state4 = Florida
+| running_mate4 = Adriana Rocha Flores
+| electoral_vote4 = 
+| states_carried4 =
+| popular_vote4 = 
+| percentage4 = 11.0%
+| title = President
+| before_election =  [Evalyn Jacobi](317-evalyn-jacobi.md)
+| before_party = Progressive
+| after_election = [Dan Forest](1265-dan-forest.md)
+| after_party = Progressive}}
+The '''2060 United States Presidential Election ''' was the 69th quadrennial presidential election. [Reed Chen](1266-reed-chen.md) won the election. This election marked the beginning of the dealignment period from the [Seventh Party System](1351-seventh-party-system.md) to the [Eighth Party System](1362-eighth-party-system.md).
+[Category:United States Presidential Elections](1193-category-united-states-presidential-elections.md)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1874/11766.wikitext` · revision `11766` · [upstream](https://second-renaissance.fandom.com/wiki/United_States_presidential_election%2C_2060)

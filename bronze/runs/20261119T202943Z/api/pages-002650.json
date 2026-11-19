@@ -1,0 +1,1977 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "2749": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7921,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2749,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7921,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-26T17:49:58Z"
+          }
+        ],
+        "title": "File:US-O6 insignia.png",
+        "touched": "2018-05-27T08:47:35Z"
+      },
+      "2750": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7922,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2750,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7922,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-26T17:50:14Z"
+          }
+        ],
+        "title": "File:US-O7 insignia.png",
+        "touched": "2018-05-27T08:47:35Z"
+      },
+      "2751": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7923,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2751,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7923,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-26T17:50:32Z"
+          }
+        ],
+        "title": "File:US-O8 insignia.png",
+        "touched": "2018-05-27T08:47:35Z"
+      },
+      "2752": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7924,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2752,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7924,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-26T17:50:48Z"
+          }
+        ],
+        "title": "File:US-O9 insignia.png",
+        "touched": "2018-05-26T17:52:27Z"
+      },
+      "2753": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7926,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2753,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7926,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-26T17:52:07Z"
+          }
+        ],
+        "title": "File:US-O11 insignia.png",
+        "touched": "2018-05-26T17:53:05Z"
+      },
+      "2754": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7927,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2754,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7927,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-26T17:52:41Z"
+          }
+        ],
+        "title": "File:US-O10 insignia.png",
+        "touched": "2018-05-27T08:47:36Z"
+      },
+      "2756": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7947,
+        "length": 294,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Venus/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2756,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7947,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Venus\n| flag alias = Venus_Flag.png\n| alt attribute = Flag of the Venus Commonwealth\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-06-04T15:23:30Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Venus/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Venus",
+        "touched": "2018-06-04T15:23:30Z"
+      },
+      "2757": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7949,
+        "length": 18,
+        "new": "",
+        "ns": 6,
+        "pageid": 2757,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7949,
+            "slots": {
+              "main": {
+                "*": "http://phojoe.com/",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-06-06T00:34:02Z"
+          }
+        ],
+        "title": "File:RandPaulAgedByPhojoedotcom.jpg",
+        "touched": "2018-06-06T02:07:10Z"
+      },
+      "2759": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7954,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2759,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7954,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-06-07T01:52:44Z"
+          }
+        ],
+        "title": "File:Flag of Jupiter.png",
+        "touched": "2018-06-07T02:26:25Z"
+      },
+      "2760": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7955,
+        "length": 316,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Jupiter/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2760,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7955,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Jupiter\n| flag alias = Flag_of_Jupiter.png\n| alt attribute = Flag of the Planetary Commonwealth of Jupiter\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-06-07T01:52:58Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Jupiter/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Jupiter",
+        "touched": "2018-06-07T01:52:58Z"
+      },
+      "2761": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7959,
+        "length": 31,
+        "new": "",
+        "ns": 1,
+        "pageid": 2761,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7959,
+            "slots": {
+              "main": {
+                "*": "alas, the flag list is complete",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-06-07T17:02:30Z"
+          }
+        ],
+        "title": "Talk:U.S. planetary commonwealth/@comment-90.252.76.145-20180607170230",
+        "touched": "2018-06-07T17:02:30Z"
+      },
+      "2762": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Embeddable templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Organization infobox templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages with broken file links"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Politics and government infobox templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:TemplateData documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Seal of the United States Department of Agriculture.svg"
+          }
+        ],
+        "lastrevid": 8510,
+        "length": 6272,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Alex Younger"
+          },
+          {
+            "ns": 0,
+            "title": "Australia"
+          },
+          {
+            "ns": 0,
+            "title": "Chief of the Secret Intelligence Service"
+          },
+          {
+            "ns": 0,
+            "title": "Federal Statistical Office of Germany"
+          },
+          {
+            "ns": 0,
+            "title": "Government of Western Australia"
+          },
+          {
+            "ns": 0,
+            "title": "Home Office"
+          },
+          {
+            "ns": 0,
+            "title": "Member of parliament"
+          },
+          {
+            "ns": 0,
+            "title": "Organization"
+          },
+          {
+            "ns": 0,
+            "title": "Philip Hammond"
+          },
+          {
+            "ns": 0,
+            "title": "Secretary of State for Foreign and Commonwealth Affairs"
+          },
+          {
+            "ns": 0,
+            "title": "Sydney, New South Wales"
+          },
+          {
+            "ns": 0,
+            "title": "The Right Honourable"
+          },
+          {
+            "ns": 0,
+            "title": "United States Department of Agriculture"
+          },
+          {
+            "ns": 0,
+            "title": "United States dollar"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Category handler"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Coord"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ISO 639 name pl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ISO 639 name zh"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ISO 639 name zh-p"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox government agency/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Navbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Note2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Organization infoboxes"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Parameter names example"
+          },
+          {
+            "ns": 11,
+            "title": "Template talk:Organization infoboxes"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Infobox"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Articles containing -language text"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Infobox templates"
+          }
+        ],
+        "ns": 10,
+        "pageid": 2762,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7965,
+            "revid": 8510,
+            "slots": {
+              "main": {
+                "*": "{| class=\"infobox vcard\" style=\"width: 22em; text-align: left; font-size: 88%; line-height: 1.5em\"\n! colspan=2 class=\"fn org\" style=\"font-size: 125%; text-align: center\" | {{{agency_name|{{PAGENAME}} }}}\n|-\n{{#if:{{{nativename|}}}|\n! colspan=2 class=\"fn org\" style=\"font-size: 120%; text-align: center\" {{!}} ''{{{nativename}}}''\n{{!}}-\n}}\n{{#if:{{{nativename_a|}}}|\n! colspan=2 class=\"fn org\" style=\"font-size: 120%; text-align: center\" {{!}} {{{nativename_a}}}\n{{!}}-\n}}\n{{#if:{{{nativename_r|}}}|\n! colspan=2 class=\"fn org\" style=\"font-size: 120%; text-align: center\" {{!}} ''{{{nativename_r}}}''\n{{!}}-\n}}\n{{#if:{{{seal|}}}|\n{{!}} colspan=2 style=\"text-align: center\" {{!}} [[file:{{{seal}}}|{{#if:{{{seal_width|}}}|{{{seal_width}}}|180px}}]]\n{{!}}-\n{{#if:{{{seal_caption|}}}|\n{{!}} colspan=2 style=\"text-align: center\" {{!}} {{{seal_caption}}}\n{{!}}-\n}}\n}}\n{{#if:{{{logo|}}}|\n{{!}} colspan=2 style=\"text-align: center\" {{!}} [[file:{{{logo}}}|{{#if:{{{logo_width|}}}|{{{logo_width}}}|180px}}]]\n{{!}}-\n{{#if:{{{logo_caption|}}}|\n{{!}} colspan=2 style=\"text-align: center\" {{!}} {{{logo_caption}}}\n{{!}}-\n}}\n}}\n{{#if:{{{picture|}}}|\n{{!}} colspan=2 style=\"text-align: center\" {{!}} [[file:{{{picture}}}|{{#if:{{{picture_width|}}}|{{{picture_width}}}|180px}}]]\n{{!}}-\n{{#if:{{{picture_caption|}}}|\n{{!}} colspan=2 style=\"text-align: center\" {{!}} {{{picture_caption}}}\n{{!}}-\n}}\n}}\n! colspan=2 style=\"background-color: #efefef; text-align: center\" | {{{type|Agency}}} overview\n|-\n{{#if:{{{formed|}}}|\n! Formed\n{{!}} {{{formed}}}\n{{!}}-\n}}\n{{#if:{{{preceding1|}}}|\n! {{#if:{{{preceding2|}}}|Preceding agencies|Preceding agency}}\n{{!}} {{{preceding1}}}{{#if:{{{preceding2|}}}|<br />{{{preceding2}}} }}{{#if:{{{preceding3|}}}|<br />{{{preceding3}}} }}{{#if:{{{preceding4|}}}|<br />{{{preceding4}}} }}{{#if:{{{preceding5|}}}|<br />{{{preceding5}}} }}{{#if:{{{preceding6|}}}|<br />{{{preceding6}}} }}\n{{!}}-\n}}\n{{#if:{{{dissolved|}}}|\n! Dissolved\n{{!}} {{{dissolved}}}\n{{!}}-\n}}\n{{#if:{{{superseding|}}}|\n! Superseding agency\n{{!}} {{{superseding}}}\n{{!}}-\n}}\n{{#if:{{{jurisdiction|}}}|\n! Jurisdiction\n{{!}} {{{jurisdiction}}}\n{{!}}-\n}}\n{{#if:{{{headquarters|}}}|\n! Headquarters\n{{!}} {{{headquarters}}}{{#if:{{{latd|}}}|<br />{{geobox coor|{{{latd|}}}|{{{latm|}}}|{{{lats|}}}|{{{latNS|}}}|{{{longd|}}}|{{{longm|}}}|{{{longs|}}}|{{{longEW|}}}|type:landmark_region:{{{region_code|}}} }} }}{{#if: {{{coordinates|}}}|<br/>{{{coordinates|}}} }}\n{{!}}-\n}}\n{{#if:{{{employees|}}}|\n! Employees\n{{!}} {{{employees}}}\n{{!}}-\n}}\n{{#if:{{{budget|}}}|\n! Annual budget\n{{!}} {{{budget}}}\n{{!}}-\n}}\n{{#if:{{{minister1_name|}}}|\n! {{#if:{{{minister2_name|}}}|Ministers responsible|Minister responsible}}\n{{!}} {{{minister1_name}}}{{#if:{{{minister1_pfo|}}}|, {{{minister1_pfo}}} }}{{#if:{{{minister2_name|}}}|<br />{{{minister2_name}}}{{#if:{{{minister2_pfo|}}}|, {{{minister2_pfo}}} }} }}{{#if:{{{minister3_name|}}}|<br />{{{minister3_name}}}{{#if:{{{minister3_pfo|}}}|, {{{minister3_pfo}}} }} }}{{#if:{{{minister4_name|}}}|<br />{{{minister4_name}}}{{#if:{{{minister4_pfo|}}}|, {{{minister4_pfo}}} }} }}{{#if:{{{minister5_name|}}}|<br />{{{minister5_name}}}{{#if:{{{minister5_pfo|}}}|, {{{minister5_pfo}}} }} }}{{#if:{{{minister6_name|}}}|<br />{{{minister6_name}}}{{#if:{{{minister6_pfo|}}}|, {{{minister6_pfo}}} }} }}{{#if:{{{minister7_name|}}}|<br />{{{minister7_name}}}{{#if:{{{minister7_pfo|}}}|, {{{minister7_pfo}}} }} }}\n{{!}}-\n}}\n{{#if:{{{chief1_name|}}}|\n! Agency executive{{#if:{{{chief2_name|}}}|s}}\n{{!}} {{{chief1_name}}}{{#if:{{{chief1_position|}}}|, {{{chief1_position}}}}} {{#if:{{{chief2_name|}}}|<br />{{{chief2_name}}}{{#if:{{{chief2_position|}}}|, {{{chief2_position}}} }} }}{{#if:{{{chief3_name|}}}|<br />{{{chief3_name}}}{{#if:{{{chief3_position|}}}|, {{{chief3_position}}} }} }}{{#if:{{{chief4_name|}}}|<br />{{{chief4_name}}}{{#if:{{{chief4_position|}}}|, {{{chief4_position}}} }} }}{{#if:{{{chief5_name|}}}|<br />{{{chief5_name}}}{{#if:{{{chief5_position|}}}|, {{{chief5_position}}} }} }}{{#if:{{{chief6_name|}}}|<br />{{{chief6_name}}}{{#if:{{{chief6_position|}}}|, {{{chief6_position}}} }} }}{{#if:{{{chief7_name|}}}|<br />{{{chief7_name}}}{{#if:{{{chief7_position|}}}|, {{{chief7_position}}} }} }}{{#if:{{{chief8_name|}}}|<br />{{{chief8_name}}}{{#if:{{{chief8_position|}}}|, {{{chief8_position}}} }} }}{{#if:{{{chief9_name|}}}|<br />{{{chief9_name}}}{{#if:{{{chief9_position|}}}|, {{{chief9_position}}} }} }}\n{{!}}-\n}}\n{{#if:{{{parent_agency|}}}|\n! Parent agency\n{{!}} {{{parent_agency}}}\n{{!}}-\n}}\n{{#if:{{{child1_agency|}}}|\n! {{#if:{{{child2_agency|}}}|Child agencies|Child agency}}\n{{!}} {{{child1_agency}}}{{#if:{{{child2_agency|}}}|<br />{{{child2_agency}}} }}{{#if:{{{child3_agency|}}}|<br />{{{child3_agency}}} }}{{#if:{{{child4_agency|}}}|<br />{{{child4_agency}}} }}{{#if:{{{child5_agency|}}}|<br />{{{child5_agency}}} }}{{#if:{{{child6_agency|}}}|<br />{{{child6_agency}}} }}{{#if:{{{child7_agency|}}}|<br />{{{child7_agency}}} }}{{#if:{{{child8_agency|}}}|<br />{{{child8_agency}}} }}{{#if:{{{child9_agency|}}}|<br />{{{child9_agency}}} }}\n{{!}}-\n}}\n{{#if:{{{keydocument1|}}}|\n! {{#if:{{{keydocument2|}}}|Key documents|Key document}}\n{{!}} {{{keydocument1}}} {{#if:{{{keydocument2|}}}|<br />{{{keydocument2}}} }}{{#if:{{{keydocument3|}}}|<br />{{{keydocument3}}} }}{{#if:{{{keydocument4|}}}|<br />{{{keydocument4}}} }}{{#if:{{{keydocument5|}}}|<br />{{{keydocument5}}} }}{{#if:{{{keydocument6|}}}|<br />{{{keydocument6}}} }}\n{{!}}-\n}}\n{{#if:{{{website|}}}|\n! colspan=2 style=\"background-color: #efefef; text-align: center\" {{!}} Website\n{{!}}-\n{{!}} colspan=2 style=\"text-align: center\" {{!}} {{{website}}}\n{{!}}-\n}}\n{{#if:{{{footnotes|}}}|\n! colspan=2 style=\"background-color: #efefef; text-align: center\" {{!}} Footnotes\n{{!}}-\n{{!}} colspan=2 style=\"text-align: left\" {{!}} {{{footnotes}}}\n{{!}}-\n}}\n{{#if:{{{map|}}}|\n! colspan=2 style=\"background-color: #efefef; text-align: center\" {{!}} Map\n{{!}}-\n{{!}} colspan=2 style=\"text-align: center\" {{!}} [[file:{{{map}}}|{{#if:{{{map_width|}}}|{{{map_width}}}|180px}}]]\n{{!}}-\n{{#if:{{{map_caption|}}}|\n{{!}} colspan=2 style=\"text-align: center\" {{!}} {{{map_caption}}}\n{{!}}-\n}}\n}}\n|}<noinclude>{{Documentation}}<!-- place category and language links on the /doc sub-page, not here --></noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-28T20:54:36Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:!(("
+          },
+          {
+            "ns": 10,
+            "title": "Template:!))"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Allow wrap"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Category handler"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Clear"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Coord"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation subpage"
+          },
+          {
+            "ns": 10,
+            "title": "Template:End date"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ISO 639 name"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox government agency"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox government agency/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Lang"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Longitem"
+          },
+          {
+            "ns": 10,
+            "title": "Template:MONTHNAME"
+          },
+          {
+            "ns": 10,
+            "title": "Template:MONTHNUMBER"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Main other"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Navbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Note2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Organization infoboxes"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Parameter names example"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ROOTPAGENAME"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Smallsup"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Spaces"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Start date"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Start date and age"
+          },
+          {
+            "ns": 10,
+            "title": "Template:TemplateData header"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Template error report"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlg"
+          },
+          {
+            "ns": 10,
+            "title": "Template:URL"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno-no"
+          },
+          {
+            "ns": 10,
+            "title": "Template:\\"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/blacklist"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/config"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/data"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/shared"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Check for unknown parameters"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Coordinates"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Math"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Namespace detect/config"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Namespace detect/data"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Navbar"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Navbox"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Parameter names example"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          },
+          {
+            "ns": 828,
+            "title": "Module:URL"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Yesno"
+          }
+        ],
+        "title": "Template:Infobox government agency",
+        "touched": "2018-09-28T20:54:36Z"
+      },
+      "2763": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Uniformed services of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 9078,
+        "length": 801,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Interplanetary Trade Commission"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "United States Space Force"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2763,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9077,
+            "revid": 9078,
+            "slots": {
+              "main": {
+                "*": "The '''United States Planetary Guard''' (USPG), was the administrative body for the militia forces of the interplanetary colonies. It was unique among the US military chain of command, in that it was organized under the [[Interplanetary Trade Commission]] rather than the Department of Defense. Whilst its loyalties were formally to the [[President of the United States]], in reality the commander-in-chief of the Planetary Guard was always recognized to be the Chairman of the Interplanetary Trade Commission. In 2134, the Planetary Guard was formally dissolved as a unified militia organization and its forces and responsibilities were either rolled into the [[United States Space Force]] or transferred to the United States Space National Guard.\n[[Category:Uniformed services of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-08T23:49:05Z"
+          }
+        ],
+        "title": "Planetary Guard",
+        "touched": "2019-03-08T23:49:05Z"
+      },
+      "2766": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7988,
+        "length": 89,
+        "new": "",
+        "ns": 1,
+        "pageid": 2766,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7988,
+            "slots": {
+              "main": {
+                "*": "It looks like your “estimate” is about 30 years too late, at least if DT has his way.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-06-19T05:35:50Z"
+          }
+        ],
+        "title": "Talk:United States Space Force/@comment-100.34.58.84-20180619053550",
+        "touched": "2018-06-19T05:35:51Z"
+      },
+      "2767": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7989,
+        "length": 112,
+        "new": "",
+        "ns": 1,
+        "pageid": 2767,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7989,
+            "slots": {
+              "main": {
+                "*": "What do you think are the chances of posthumously promoting George S. Patton to the rank of General of the Army?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-06-19T06:04:12Z"
+          }
+        ],
+        "title": "Talk:United States Army/@comment-24.165.26.87-20180619060412",
+        "touched": "2018-06-19T06:04:12Z"
+      },
+      "2768": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7990,
+        "length": 68,
+        "new": "",
+        "ns": 1,
+        "pageid": 2768,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7990,
+            "slots": {
+              "main": {
+                "*": "They have a NORAD, and a Space Defence Command.  Isn't that enough?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-06-19T16:52:14Z"
+          }
+        ],
+        "title": "Talk:United States Space Force/@comment-1486669-20180619165214",
+        "touched": "2018-06-19T16:52:14Z"
+      },
+      "2769": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7992,
+        "length": 41,
+        "new": "",
+        "ns": 1,
+        "pageid": 2769,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7992,
+            "slots": {
+              "main": {
+                "*": "https://www.sheppardmullin.com/dprice  ?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-06-20T23:23:17Z"
+          }
+        ],
+        "title": "Talk:Dylan J. Price/@comment-192.197.71.189-20180620232317",
+        "touched": "2018-06-20T23:23:17Z"
+      },
+      "2770": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7993,
+        "length": 22,
+        "new": "",
+        "ns": 1,
+        "pageid": 2770,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7993,
+            "slots": {
+              "main": {
+                "*": "is he (half) asian tho",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-06-21T00:59:40Z"
+          }
+        ],
+        "title": "Talk:Dylan J. Price/@comment-192.197.71.189-20180620232317/@comment-5590986-20180621005940",
+        "touched": "2018-06-21T00:59:40Z"
+      },
+      "2771": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7994,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2771,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7994,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-06-21T14:46:15Z"
+          }
+        ],
+        "title": "File:Miriam Weinstein.png",
+        "touched": "2018-06-21T15:23:46Z"
+      },
+      "2774": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Technology"
+          },
+          {
+            "ns": 14,
+            "title": "Category:World War III"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11670,
+        "length": 3004,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Armor"
+          },
+          {
+            "ns": 0,
+            "title": "Biotech bubble"
+          },
+          {
+            "ns": 0,
+            "title": "Dylan J. Price"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2774,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11669,
+            "revid": 11670,
+            "slots": {
+              "main": {
+                "*": "The '''Project Rebirth''' was a research and development undertaking during World War III that produced the first post-natal genetic augmentations in humans. It was led by the United States with the support from Korean and Chinese scientists.\n\n==Background==\nThe basic concept for the Rebirth was established as part of a Defense Department think tank in the [[Biotech bubble|2030s]] when bionic prosthetics, stem cell treatments, and Epigenetic therapies had begun to produce the first replacement organs and limbs that could be considered physical augmentations. During the [[Dylan J. Price|Price]] administration, as a result of government’s fundings towards bioengineering, which eventually led to the [[Biotech bubble|2040s biotech boom]], a National Security Council led commission submitted their findings, suggesting that funds be designated toward the creation of organs that could be used to improve a soldier's performance in battle. Early augmentations were limited to bionic implants to amputees, with Defense Department guidelines forbidding \"elective amputation.\" The 2040s also saw the first use of computer-brain interfaces for soldiers in the field.\n\nIn 2049 President Jacobi re-opened the NSC report, and approved funding for the Project Rebirth under DARPA. The program first arose as a plan to enhance veteran US soldiers into powerfully augmented special operations commandos. The goal was to extend and enhance the careers of America's elite special forces units in the face of Japanese augmentation programs.\n\n==Genetic engineering==\nEarly work was focused on the creation of enhanced organs that could be implanted and even controlled with the aid of accompanying bionic implants. Pre-war examples included hearts that could slow their beats, controlled adrenal glands, and Vascular Crimps that could close off blood flow to a damaged limb. However, the program quickly shifted to genetic enhancement to improve the performance of the entire body. After the Thanksgiving Attacks research and development accelerated radically. Lung, Heart, Liver, Lymphatic, musculature, and bone genetic treatments paired with hormone control via the first bionic brain cases gave US special forces a far higher degree of survivability and focus in the battlefield. Combined with lightweight [[Armor]], their combat effectiveness was second to none.\n\nLater in the war, many of these augmentations became standard issue among all armored troops, while Project Rebirth advanced its more extreme goals via full body replacement.\n\n==Legacy==\nRebirth's focus on durability would go on to shape the future of military-grade augmentations, but its focus on improving physical performance has largely fallen away as it had little practical use as Armor technologies grew more advanced. Modern military augmentations are largely focused on survivability and endurance enhancements, and do little to improve a soldier's physical strength or speed.\n[[Category:Technology]]\n[[Category:World War III]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-10-23T18:22:13Z"
+          }
+        ],
+        "title": "Project Rebirth",
+        "touched": "2024-10-23T18:22:13Z"
+      },
+      "2775": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Countries in South America"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 9051,
+        "length": 2893,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Great Famine"
+          },
+          {
+            "ns": 0,
+            "title": "Late 2010s Recession"
+          },
+          {
+            "ns": 0,
+            "title": "Revolutions of 2027"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2775,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9032,
+            "revid": 9051,
+            "slots": {
+              "main": {
+                "*": "'''Brazil''' (Portuguese: ''Brasil'' [bɾaˈziw]) officially the '''Federative Republic of Brazil''' (Portuguese: ''República Federativa do Brasil'',<small>)</small>), is an independent country in South America. It is the largest country to have Portuguese as an official language, besides being one of the most multicultural and ethnically diverse nations, due to the strong immigration from various places in the world. Bounded by the Atlantic Ocean on the east, Brazil is bordered by the United States and covers just under 40% of South America's land area. Its Amazon River basin includes a vast tropical forest, home to diverse wildlife, a variety of ecological systems, and extensive natural resources spanning numerous protected habitats. This unique environmental heritage makes Brazil a megadiverse country, and is the subject of significant global interest and debate regarding deforestation and environmental protection.\n\n==History==\n==='''Green Uprising'''===\n''Main article: [[Revolutions of 2027]]''\n\nFollowing the [[Late 2010s Recession]] Brazil's government under President Jair Bolsonaro began a process of consolidating power and cracking down on public demonstrations. The 2022 general election was largely seen by the international community as a sham, however the uptick in the global economy was enough to keep the Bolsonaro regime in power.\n\n[[The Flood]] and the subsequent [[Great Famine]] exasperated public discontent over the repressive Bolsonaro regime, particularly with regard to the regime's logging policies toward the Amazon. After further imprisonment of popular Presidential candidates in the 2026 elections, the country went into open rebellion against the Bolsonaro regime. With the military overextended, the country's Army chief of staff led a coup that deposed Bolsonaro and established a provisional government.\n\n==='''Cerrado Terraforming Project'''===\nThe vast tropical savanna ecoregion of Brazil was a historical burden on Brazil's development, as it was home to large areas of open ground that should have been ideal for farming and development, but possessed soil too nutrient poor to be of any use. Starting in the 1990s there were multiple attempts to reduce soil acidity and add fertilizing agents to make the area suitable for development. By the 2010s, the Cerrado accounted for 70% of Brazil's farmland. However, it wasn't until the biotech boom that the Cerrado became the agricultural heart of South America, surpassing the now flooded Rio De La Plata. Brazil became a major import of other soil nutrient agents from Space not long after this period. The region's use as an agriculture hub, eventually reduced the rate of destruction of the Amazon Rain Forest, and in part led to Brazil's moritorium on loggin inside the remaining portion of the world' largest rain-forest.\n[[Category:Countries in South America]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-01T20:15:32Z"
+          }
+        ],
+        "title": "Brazil",
+        "touched": "2019-05-13T20:31:53Z"
+      },
+      "2776": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8020,
+        "length": 231,
+        "new": "",
+        "ns": 1,
+        "pageid": 2776,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8020,
+            "slots": {
+              "main": {
+                "*": "All to be consolidated under one new Command.  Big Title but just departmentalization of what is there. Of course they could secretly have guys on the moon ..ready and waiting to drop in anywhere at anytime .. like the boogy man..",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-06-26T22:24:26Z"
+          }
+        ],
+        "title": "Talk:United States Space Force/@comment-1486669-20180619165214/@comment-68.59.61.18-20180626222426",
+        "touched": "2018-06-26T22:24:26Z"
+      },
+      "2777": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8026,
+        "length": 186,
+        "new": "",
+        "ns": 1,
+        "pageid": 2777,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8026,
+            "slots": {
+              "main": {
+                "*": "This is future history, and as space warfare became more and more of a possibility, it began to be consolidated into it's own department. Just like the Air Force from the Army Air Corps.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-06-29T03:05:56Z"
+          }
+        ],
+        "title": "Talk:United States Space Force/@comment-1486669-20180619165214/@comment-173.209.180.221-20180629030556",
+        "touched": "2018-06-29T03:05:56Z"
+      },
+      "2778": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8028,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2778,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8028,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-02T20:05:09Z"
+          }
+        ],
+        "title": "File:Sherrod Brown.jpg",
+        "touched": "2020-12-04T01:25:55Z"
+      },
+      "2779": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8033,
+        "length": 125,
+        "new": "",
+        "ns": 1,
+        "pageid": 2779,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8033,
+            "slots": {
+              "main": {
+                "*": "http://www.thedrive.com/the-war-zone/19652/lockheed-martin-now-has-a-patent-for-its-potentially-world-changing-fusion-reactor",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-04T17:01:58Z"
+          }
+        ],
+        "title": "Talk:Timeline of major events/@comment-192.197.71.189-20180704170158",
+        "touched": "2018-07-04T17:01:58Z"
+      },
+      "2782": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8041,
+        "length": 31,
+        "new": "",
+        "ns": 1,
+        "pageid": 2782,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8041,
+            "slots": {
+              "main": {
+                "*": "guess I was right about Obrador",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-05T01:02:45Z"
+          }
+        ],
+        "title": "Talk:President of Mexico/@comment-5590986-20180705010245",
+        "touched": "2018-07-05T01:02:45Z"
+      },
+      "2783": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Literature"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11013,
+        "length": 1804,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Carla Anderson"
+          },
+          {
+            "ns": 0,
+            "title": "Evalyn Jacobi"
+          },
+          {
+            "ns": 0,
+            "title": "K'lerin"
+          },
+          {
+            "ns": 0,
+            "title": "Oscar Lachman"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Second Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2783,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8097,
+            "revid": 11013,
+            "slots": {
+              "main": {
+                "*": "'''Sushi and Apple Pie'' '''''was an autobiographical book by [[Carla Anderson]], describing her entry into politics, her term as [[President of the United States]], and particularly her complex views regarding [[World War III]]. The title refers to her marriage to Heather Suzuki, a desendant of Japanese immigrants who was one of the military personnel killed in the Thanksgiving Attacks.\n\nAnderson acknowledged the necessity of the war, and to that extent supported it, but she was staunchly opposed to [[Evalyn Jacobi]]'s censorship of the media during the war years to remove \"enemy influences\", which she saw as a racist attack on free speech. Anderson's views resonated strongly with many who had protested the censorship of Japanese media from American Japanophiles who held underground meetings and protest marches throughout the war. \n\nThroughout the book, a recurring theme is Anderson's lamentation of the human instinct for violence. She describes how, as a child, she grew up believing that the days of global conflict were over, but how she was proven wrong time and time again. She also, however, discusses the steps toward peace she was able to make during her own term as President, such as the annexation of the Anglosphere into the United States, the First Contact with the [[K'lerin]], and the reopening of trade with Japan in the 2060s. Finally, she takes time to criticize the actions of then-current President [[Oscar Lachman]], which she believed would lead to a [[Second Mexican-American War]]. \n\nThe book has remained a classic among left-leaning intellectuals, particularly young adults, well into the 22nd century. It is sometimes even joked (with very little exaggeration) that no Liberal Arts student's dorm room is complete without a copy. \n[[Category:Literature]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-01-03T01:36:32Z"
+          }
+        ],
+        "title": "Sushi and Apple Pie",
+        "touched": "2023-01-03T01:36:32Z"
+      },
+      "2786": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8072,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2786,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8072,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-07T04:03:56Z"
+          }
+        ],
+        "title": "Message Wall:IronMan477",
+        "touched": "2018-07-07T20:16:05Z"
+      },
+      "2787": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8073,
+        "length": 567,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Beaver States of Oceania"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2787,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8073,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Beaver States of Oceania]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-07T04:03:57Z"
+          }
+        ],
+        "title": "Thread:IronMan477/@comment-32769624-20180707040357",
+        "touched": "2018-07-07T16:57:39Z"
+      },
+      "2788": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 8074,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2788,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8074,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-07T04:03:57Z"
+          }
+        ],
+        "title": "User:IronMan477",
+        "touched": "2018-07-07T04:03:57Z"
+      },
+      "2789": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8076,
+        "length": 40,
+        "new": "",
+        "ns": 1,
+        "pageid": 2789,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8076,
+            "slots": {
+              "main": {
+                "*": "The first confirmed LGBT president then.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-07T06:04:19Z"
+          }
+        ],
+        "title": "Talk:Carla Anderson/@comment-27084453-20160305195643/@comment-27084453-20180707060419",
+        "touched": "2018-07-07T06:04:19Z"
+      },
+      "2792": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8084,
+        "length": 6,
+        "new": "",
+        "ns": 1,
+        "pageid": 2792,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8084,
+            "slots": {
+              "main": {
+                "*": "Indeed",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-07T17:00:33Z"
+          }
+        ],
+        "title": "Talk:President of Mexico/@comment-5590986-20180705010245/@comment-899576-20180707170033",
+        "touched": "2018-07-07T17:00:33Z"
+      },
+      "2793": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8085,
+        "length": 205,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2793,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8085,
+            "slots": {
+              "main": {
+                "*": "You've offered several additions to the wikia that deviate from the established cannon of the Second Renaissnace. Be more respectful of the timeline in the future.<ac_metadata title=\"Edits\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-07T17:04:06Z"
+          }
+        ],
+        "title": "Thread:IronMan477/@comment-899576-20180707170406",
+        "touched": "2018-07-07T17:04:06Z"
+      },
+      "2794": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8086,
+        "length": 43,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2794,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8086,
+            "slots": {
+              "main": {
+                "*": "Okay! so you want me to make someting else?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-07T18:55:50Z"
+          }
+        ],
+        "title": "Thread:IronMan477/@comment-899576-20180707170406/@comment-30552379-20180707185550",
+        "touched": "2018-07-07T18:55:50Z"
+      },
+      "2795": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8087,
+        "length": 17,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2795,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8087,
+            "slots": {
+              "main": {
+                "*": "What is timeline?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-07T18:56:53Z"
+          }
+        ],
+        "title": "Thread:IronMan477/@comment-899576-20180707170406/@comment-30552379-20180707185653",
+        "touched": "2018-07-07T18:56:53Z"
+      },
+      "2796": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8088,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2796,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8088,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-07T19:39:37Z"
+          }
+        ],
+        "title": "File:Joe Kennedy III.jpg",
+        "touched": "2019-03-18T12:14:09Z"
+      },
+      "2797": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8091,
+        "length": 50,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2797,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8091,
+            "slots": {
+              "main": {
+                "*": "https://second-renaissance.wikia.com/wiki/Timeline",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-07T20:16:05Z"
+          }
+        ],
+        "title": "Thread:IronMan477/@comment-899576-20180707170406/@comment-899576-20180707201605",
+        "touched": "2018-07-07T20:16:05Z"
+      },
+      "2798": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8093,
+        "length": 101,
+        "new": "",
+        "ns": 1,
+        "pageid": 2798,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8093,
+            "slots": {
+              "main": {
+                "*": "Do we have a list of how many Elevators there are, their locations and a map placing their positions?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-07T23:18:09Z"
+          }
+        ],
+        "title": "Talk:Space Elevators/@comment-24.165.26.87-20180707231809",
+        "touched": "2018-07-07T23:18:09Z"
+      },
+      "2800": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8101,
+        "length": 30,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Biorobotics boom"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 2800,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8101,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Biorobotics boom]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-08T17:58:53Z"
+          }
+        ],
+        "title": "Second Biotech Boom",
+        "touched": "2025-09-26T16:43:45Z"
+      },
+      "2801": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Species"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11091,
+        "length": 1985,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Human"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2801,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9337,
+            "revid": 11091,
+            "slots": {
+              "main": {
+                "*": "'''Europans, '''taxonomically ''Homo cetimorphis, ''are a recently recognized offshoot of Mermaid, a subspecies of ''Homo Sapiens,'' inhabiting the subsurface oceans of Europa. Many scientists say that the genetic gap became so wide that Europans can be classified as a separate species altogether. Approximately 40,000 individuals have been identified, though only a third are estimated to have been born on Europa. Europans are the result of heavy genetic modification of humans, more genetically distinct than Mermaids or other [[Human]] subspecies.\n\n== Anatomy ==\nEuropans are often described as being similar in appearance to terran Baluga whales. Their bodies are not much larger than their Human ancestors, and feature a layer of blubber that provides insulation from the extreme cold of the Europan seas. Their bodies are covered in luminescent stripes and their eyes are 30% larger than normal humans, adapted for the extreme dark of Europa's seas. Their skin is pale white due to the lack of sunlight. They posses gills in place of lungs and survive off of introduced species of fish. Europans also lack body hair and head hair, as they would cause drag, and would make it easier for predators to snatch them up ease.\n\n== Society ==\nAt least two Europan \"settlements\" have been identified, on the ocean floor which include several igloo like habitats with the capacity to provide additional heat and light to their occupants, and store sources of food. They are currently classified as 'Sentient', and are currently debating whether or not to rejoin American society. Europans were born out of the need to colonize the moon for its vast amount of water that was in high demand during the events of The Flood.  \n\nDue to their lack of hair, they often wear blue colored headdresses tipped with luminescent beads as a replacement, and are very popular amongst their womenfolk, according to a few observations.  Other than this, they are usually unclothed.\n[[Category:Species]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-02-06T12:56:20Z"
+          }
+        ],
+        "title": "Europans",
+        "touched": "2023-02-06T12:56:20Z"
+      },
+      "2802": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8122,
+        "length": 140,
+        "new": "",
+        "ns": 1,
+        "pageid": 2802,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8122,
+            "slots": {
+              "main": {
+                "*": "I can see the Eurasian Economic Union collapsing but not the Russian Federation although some sort of coup could take place around that time",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-10T16:51:22Z"
+          }
+        ],
+        "title": "Talk:Dissolution of the Russian Federation/@comment-192.197.71.189-20180710165122",
+        "touched": "2018-07-10T16:51:22Z"
+      },
+      "2803": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8134,
+        "length": 78,
+        "new": "",
+        "ns": 1,
+        "pageid": 2803,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8134,
+            "slots": {
+              "main": {
+                "*": "Wouldn't advances in terraforming result in the end to subspecies of humanity?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-13T07:04:16Z"
+          }
+        ],
+        "title": "Talk:Human/@comment-24.6.114.95-20180713070416",
+        "touched": "2018-07-13T07:04:17Z"
+      },
+      "2804": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8135,
+        "length": 132,
+        "new": "",
+        "ns": 1,
+        "pageid": 2804,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8135,
+            "slots": {
+              "main": {
+                "*": "This is like 140 years into the future. \n\n\n\n\nWe havent chose to terraform on all bodies except for venus and mars. Sometimes Earth",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-13T09:57:20Z"
+          }
+        ],
+        "title": "Talk:Human/@comment-24.6.114.95-20180713070416/@comment-5590986-20180713095720",
+        "touched": "2018-07-13T09:57:20Z"
+      },
+      "2805": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8136,
+        "length": 158,
+        "new": "",
+        "ns": 1,
+        "pageid": 2805,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8136,
+            "slots": {
+              "main": {
+                "*": "=Deval Patrick ?\n\"Since August 2017, it has been reported that members of his and Obama's inner circles are encouraging Patrick to run for president in 2020\"=",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-13T20:16:57Z"
+          }
+        ],
+        "title": "Talk:Cory Booker/@comment-192.197.71.189-20180713201657",
+        "touched": "2018-07-13T20:16:57Z"
+      },
+      "2806": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8137,
+        "length": 90,
+        "new": "",
+        "ns": 1,
+        "pageid": 2806,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8137,
+            "slots": {
+              "main": {
+                "*": "I think anime hair and eyes would just be a fad. Furries are probably here to stay though.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-14T12:11:07Z"
+          }
+        ],
+        "title": "Talk:Human/@comment-47.149.22.98-20180714121107",
+        "touched": "2018-07-14T12:11:07Z"
+      },
+      "2807": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8138,
+        "length": 31,
+        "new": "",
+        "ns": 1,
+        "pageid": 2807,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8138,
+            "slots": {
+              "main": {
+                "*": "That would seem to be the case.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-14T23:41:00Z"
+          }
+        ],
+        "title": "Talk:Human/@comment-47.149.22.98-20180714121107/@comment-100.36.170.162-20180714234100",
+        "touched": "2018-07-14T23:41:00Z"
+      },
+      "2808": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8141,
+        "length": 1666,
+        "ns": 1201,
+        "pageid": 2808,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8140,
+            "revid": 8141,
+            "slots": {
+              "main": {
+                "*": "When I was looking through the Mexican Space Vacuum page, I have noticed that they have a colony section that has not yet been developed. This leads me to think about expanding outer space colonies of other countries (only confirmed ones like Mexico).\n\nI was on the 22nd century page. I noticed that there was an alien species discovered in 2114 on the planet Dorado. Considering that Dorado is a name of spanish origin, I think this would be perfectly fitting to start with. The materials are all there, and I would like to tie them all together and expand on them.\n\nWhile on this, I was wondering if it is possible that some Mexican colonies (if extrasolar and this idea passes) went rogue and established their own sovereign governments while others became abandoned/surrendered?\n\nI think it is possible and makes things more interesting considering that I think some humans (and other intelligent terran species) would flee in a mass exodus and start up a new sovereign state on another planet due to some massive conflicts, some of which would go unnoticed or ignored. Personally, I think this would also set up for an interesting future plot. But for now, I have it mentally all down and prepared. Although, i guess I could've presented this better, but i had the expansion and its presentation for a while now. \n\nSO basically, is it possible that I am allowed to make the outer space colonies and a couple rogue colonies that became independent after the Third Mexican American War (the ones that are somehow left alone/ignored/undiscovered/not abandoned anyways)?<ac_metadata title=\"Status of Mexican and other Non-American space Colonies\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-17T05:17:06Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20180717051614",
+        "touched": "2018-07-17T05:17:06Z"
+      },
+      "2809": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8143,
+        "length": 227,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2809,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8143,
+            "slots": {
+              "main": {
+                "*": "The only nations with successful colonies were the US, Japan, and Mexico. Mexico doesn't have warp capable spacecraft and did not reach Dorado. Japan's colonies were annexed by the US and never got beyond the Earth-Luna system.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-17T20:19:36Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20180717051614/@comment-899576-20180717201936",
+        "touched": "2018-07-17T20:19:36Z"
+      },
+      "2810": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Books"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Literature"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 9834,
+        "length": 1074,
+        "links": [
+          {
+            "ns": 0,
+            "title": "A Forgotten Paradise"
+          },
+          {
+            "ns": 0,
+            "title": "Atlantis"
+          },
+          {
+            "ns": 0,
+            "title": "Edge of the World"
+          },
+          {
+            "ns": 0,
+            "title": "Erytheia"
+          },
+          {
+            "ns": 0,
+            "title": "Lemuria"
+          },
+          {
+            "ns": 0,
+            "title": "Malcolm Moreau"
+          },
+          {
+            "ns": 0,
+            "title": "Middle Earth"
+          },
+          {
+            "ns": 0,
+            "title": "Shell, Feather, and Bone"
+          },
+          {
+            "ns": 0,
+            "title": "Sundaland"
+          },
+          {
+            "ns": 0,
+            "title": "The Great Island"
+          },
+          {
+            "ns": 0,
+            "title": "Tropical Antarctica"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2810,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8464,
+            "revid": 9834,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Books]]\n''The Microcontinents: A Natural History ''is a 10-book series by [[Malcolm Moreau]], that describe hypothetical ecosystems that may have existed in Earth's distant past on landmasses that have not left any fossil record. Each book in the series was styled as a \"field guide\" to a different prehistoric landmass at a different time.  \n\n== Inspiration ==\n\n== List of Published Works ==\n* ''[[Tropical Antarctica]] ''(Antarctica, 150 million years ago)\n* ''[[Edge of the World]]'' (Kerguelen Plateau, 75 million years ago)\n* ''[[Sundaland]] (''Indonesia, 2 million years ago)\n* ''[[The Great Island]] ''(Maui Nui, Hawaii, 1 million years ago)\n* ''[[Shell, Feather, and Bone|Scale, Feather, and Bone]] ''(Zealandia, 35 million years ago)\n* ''[[Erytheia]]'' (Azores, 52 million years ago)\n* ''[[Atlantis]]'' (Cuba, 11 million years ago)\n* ''[[Lemuria]]'' (Madagascar, 92 million years ago)\n* ''[[Middle Earth]]'' (Jan Mayen Plateau, 23 million years ago)\n* ''[[A Forgotten Paradise]]'' (Barbados, 68 million years ago)\n== Reception ==\n[[Category:Literature]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-10-17T04:04:47Z"
+          }
+        ],
+        "title": "The Microcontinents: A Natural History",
+        "touched": "2020-10-17T04:04:47Z"
+      },
+      "2811": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8149,
+        "length": 399,
+        "ns": 1201,
+        "pageid": 2811,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8148,
+            "revid": 8149,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">YNot1989 wrote:<br />The only nations with successful colonies were the US, Japan, and Mexico. Mexico doesn't have warp capable spacecraft and did not reach Dorado. Japan's colonies were annexed by the US and never got beyond the Earth-Luna system.</div>\nSo no independent colonies?\n\n\nIs it possible that private non-american organizations had explored and colonized other worlds?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-17T23:08:58Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20180717051614/@comment-5590986-20180717230801",
+        "touched": "2018-07-17T23:08:58Z"
+      }
+    }
+  }
+}

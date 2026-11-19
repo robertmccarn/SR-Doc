@@ -1,0 +1,38 @@
+{{Navbox
+|name = USCensus
+|title = [[United States Census|United States Censuses]] 
+|state = {{{state|autocollapse}}}
+|bodyclass = hlist
+|below = 
+* [[United States Census Bureau|U.S. Census Bureau]]
+* USDA [[Census of Agriculture]]
+|image =
+|list1 =
+* [[1790 United States Census|1790]]
+* [[1800 United States Census|1800]]
+* [[1810 United States Census|1810]]
+* [[1820 United States Census|1820]]
+* [[1830 United States Census|1830]]
+* [[1840 United States Census|1840]]
+* [[1850 United States Census|1850]]
+* [[1860 United States Census|1860]]
+* [[1870 United States Census|1870]]
+* [[1880 United States Census|1880]]
+* [[1890 United States Census|1890]]
+* [[1900 United States Census|1900]]
+* [[1910 United States Census|1910]]
+* [[1920 United States Census|1920]]
+* [[1930 United States Census|1930]]
+* [[1940 United States Census|1940]]
+* [[1950 United States Census|1950]]
+* [[1960 United States Census|1960]]
+* [[1970 United States Census|1970]]
+* [[1980 United States Census|1980]]
+* [[1990 United States Census|1990]]
+* [[2000 United States Census|2000]]
+* [[2010 United States Census|2010]]
+<!-- * [[2020 United States Census|2020]] -->
+}}<noinclude>
+[[Category:United States government navigational boxes|Census]]<noinclude>
+{{collapsible option}}
+</noinclude>

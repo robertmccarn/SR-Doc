@@ -1,0 +1,132 @@
+---
+page_id: 96
+revision_id: 11715
+source_url: https://second-renaissance.fandom.com/wiki/22nd_Century
+raw_sha256: b3c863261a399cd96741657ed5b30b7915c52bc3b8e37bcd23f720bda3010352
+---
+
+# 22nd Century
+
+## Preserved source
+
+```wikitext
+The '''22nd century''' century is the current century of the Common Era, in accordance with the Gregorian calendar. It began on January 1, 2101, and will end on December 31, 2200. It is the second century of the 3rd millennium. It is distinct from the century known as the 2100s, which began on January 1, 2100 and will end on December 31, 2199.
+
+# Transitions and changes
+The first years of the 22nd century have thus far been marked by the rise of an interplanetary economy, mistrust in private enterprise, deepening global concern over balkanization and an increase in the power of Mexico. The human population began the century at 11 billion and grew to about 12 billion within the last 30 years.
+
+In contemporary history, the 22nd century began with the United States and Mexico as world's two global powers with Poland and Brazil as two major regional powers.
+
+The completion of the Mars Terraforming Project in 2122 marks the continual rise of geoengineering sciences, which makes mankind's long-held dreams such as repairing the Earth's biosphere more realistic. The development of [chronoscopic technology](1437-chronoscope.md) in the 2110s remains controversial, as direct surveillance of past events often contradicts established religious and cultural dogma, and poses a threat to privacy.
+
+The US Department of Energy and Mexican Secretariat of Energy agree that more than half the planet is experiencing random energy shortages.
+
+Quantum Entanglement opened up the science of chronoscopology, the study of images from the past. While quantum imaging from the past was only achieved in 2120, remnants of the Earth Working Group have used the technology to design ways to rebuild many ancient structures that have fallen into ruin.
+
+The proliferation of portable [quantum electronics](3580-quantum-capacitor.md) more than half of the human population now has access to non-local recording devices, leading to a major erosion of privacy.
+
+# Politics and wars
+*2099-2102 – The Interplanetary Trade Commission (ITC) formally blockades the Mediterranean Union, starving much of Europe in the process.
+*2102 – Sicily's government is dissolved following public outcry over rising food prices. After several similar incidents and insurrections the MU effectively collapses by the end of the year.
+*2100-2103 – Riots across northern Europe over food shortages are put down after a US military intervention in France. A number of operations in Germany by American and Intermarium militaries restore order in German breakaway republics.
+*2102-2106 – [Second Vietnam War](1373-second-vietnam-war.md) began after riots over the election 2101 resulted in a military coup. Chinese and US forces invade to restore order while Mexican operators distributed weapons and armor to fuel a civil war. The conflict ended with a ceasefire in 2106, though the conflict was technically still ongoing until the Third Mexican-American War ended.
+*2108 – Mexico outfits several asteroids as colonies, effectively ending American hegemony over space.
+*2107-2110 – [Khuzestan War](1428-khuzestan-war.md) breaks out after Arab Nationalists storm the Provincial capitol building in Ahvaz, killing the premier and declaring independence. Most of Iran's military was engaged in the Azerbaijan conflict in the North at the time of the attack, allowing the Khuzestanis to operate with impunity for the better part of a year. Iran was forced to acknowledge the breakaway state's independence in 2110 so as to concentrate their efforts against Azerbaijan.
+*2106-2111 – A [civil war in China](1408-third-chinese-civil-war.md) was fought after Veterans of the Second Vietnam War march on Beijing in protest of the Federalist government delaying their pensions led to rebellions within the Chinese military. Southern China was in open revolt by 2107 and an attempted coup that was stopped by the American invasion in the Summer of 2107. A provisional government was established in Shanghai under a military regime, and the conflict continued into 2111 before a ceasefire was negotiated.
+*2121 – Pope Clement XV dies and David Kenny is elected Pope Alexander IX
+*2126 - [India Crisis](1533-india-crisis.md) - A mass suicide is forced in the cabinet of India sending the nation into chaos.
+*2130 – The Bradbury Riots on Mars end in the violent quelling of the [Second Martian Revolution](1268-second-martian-revolution.md)
+*2132-2134 – The [Second American Civil War](119-third-mexican-american-war.md) begins when several states in the American Southwest secede to form the United States of Aztlan.
+*2134-2139 – Mexico invaded the southwestern United States on December 9, 2134, and annexed the separatist Aztlan states. The conflict became a catalyst for warfare between various American, Mexican, and Polish proxies around the planet.
+*2140 - Most of Latin America is annexed by the United States. World unification begins.
+*2160 - Most of the world has in essence unified. Serbia and Central Asia refuse to join. Katanga, Zambia, and the Hejaz, however, are on track to joining the American system. The Second Renaissance has begun.
+
+# Science and technology
+## Space exploration
+*2108 – Pluto's satellite Hydra is converted in the largest O'Neil ship in history to provide terraforming supplies and several thousand colonists for Epsilon Eridani b.
+*2114 – First contact is made with the most technologically advanced species to date on a moon in the Dorado constellation. They are roughly as advanced as humanity was during the early 20th Century, with internal combustion vehicles and the beginnings of powered flight.
+*2130 – 22 "Dead Planets," now occupy the NASA planetary registry.
+
+## Physics
+*2104 – National Chronoscopology Lab opens in Boston, taking the first high resolution images from the past.
+*2110 - Jovian physicists conduct the first successful test of [Graviton](3656-gravitonics.md) manipulation.
+*2114 – The Colossal Neutrino Detector's first scans of energized particles from deep space begin.
+*2125 – Mexican Researches detect the first conclusive evidence of other universes.
+
+# Society
+Intelligent Programs are banned by the US Congress after several Itskov androids pass Turing Tests after professing a desire to live free from their owners. This ban ends in 2116 when the 35th Amendment is ratified.
+
+## Population
+*The Earth's population was about 11 billion at the start of the 22nd century, and had fallen to just over 9 billion by 2160.
+*The Martian population was about 3 billion by 2130.
+*The Earth sphere's population (not including territories outside the Sol system with extraterrestrials) was about 14.7 Billion by 2160.
+## Civil unrest
+# Disasters
+## Natural disasters
+## Man-made disasters
+*2144 - The [Loss of Spirit](https://second-renaissance.fandom.com/wiki/Loss_of_Spirit) - On August 29, the ISV-17 Spirit experiences a catastrophic failure of its White-Alcubierre drive, causing an infinite mass expansion and killing all 753 crew members on board.
+*2159 - The [Lugh Disaster](https://second-renaissance.fandom.com/wiki/Lugh_Disaster) - Research teams at the gas giant 2M1207b in the Centaurus constellation deploy Gravitational Field Generators deep into the atmosphere of the planet, the hope being to initiate fusion and create a brown dwarf star. A software glitch causes the gravity well to grow beyond the parameters of the mission and the premature fusion ignition causes the destruction of entire research outpost.
+
+# Economics and industry
+*The Late-2120s economic crisis continues to affect the economy worldwide.
+
+# Sports
+At the start of the 22nd century sports were very popular. The IOC's Olympic Games was the most viewed sporting event, but were suspended during the Third Mexican War. Martial arts is one of the most popular sports worldwide with the MMA World Tournament the most viewed fighting event. Other sports such as gridiron football, baseball, basketball, ice hockey, soccer, and golf were popular globally. E-sports is still also the most common type of sports played since its peak in the last century as virtual reality became heavily used.
+
+## Olympic Games
+*2100 Summer Olympics were held in San Juan, Puerto Rico, United States.
+*2102 Winter Olympics were held in St. Petersburg, Russia
+*2104 Summer Olympics were held in N'Djamena, Chad.
+*2106 Winter Olympics were held in Guangdong, China.
+*2108 Summer Olympics were held in Marseille, Occitania.
+*2110 Winter Olympics were held in Sao Paulo, Brazil
+*2112 Summer Olympics were held in London, England, United States.
+*2114 Winter Olympics were held in Minsk, Poland.
+*2116 Summer Olympics were held in New Babylon, Hammurabia, United States - the first time in a space colony.
+*2118 Winter Olympics were held in Pyongyang, Korea.
+*2120 Summer Olympics were held in Mogadishu, Somalia.
+*2122 Winter Olympics were held in Montreal, Quebec.
+*2124 Summer Olympics were held in Benghazi, Cyrenaica.
+*2126 Winter Olympics were held in Malmö, Denmark.
+*2128 Summer Olympics were held in Veracruz, Mexico.
+*2130 Winter Olympics were held in Tokyo, Japan.
+*2132 Summer Olympics were held in Quito, Ecuador.
+*2134 Winter Olympics were held in Shanghai, Wuyue.
+*2142 Summer Olympics were held in Jeddah, Arabian Association - after the Third Mexican-American War.
+*2144 Winter Olympics were held in Armstrong, United States - the first time on [Luna](1143-luna.md).
+*2146 Summer Olympics were held in Rome, European Association
+*2148 Winter Olympics were held in Alexandria, African Commonwealth
+*2150 Summer Olympics were held in Beijing, Association of East-Asia
+*2152 Winter Olympics were held in Brasilia, Brazil
+*2154 Summer Olympics were held in New York, United States.
+*2156 Winter Olympics were held in Berlin, European Association.
+*2158 Summer Olympics were held in Karachi, India.
+*2160 Winter Olympics were held in Jerusalem, Israel.
+
+# Entertainment
+Entertainment during the 22nd century had evolved from the same types of entertainment which emerged around the middle of the 21st century. Sports, [Virtuals](964-virtuals.md), Music, Experience Series, and Text remained popular into the early 22nd century.
+
+## Virtuals
+*2104 – ''The Lost Tome: Reclamation'' ties the record for most Academy Award wins for a single virtual (19).
+*2110 – Release of Dreamwalker, the world's highest grossing virtual.
+*2100s-2110s – Increased use of movie and television adaptations into the virtual industry such as X-Men, Avatar, Adventure Time, Attack on Titan, Steven Universe, and Star Wars.
+*2110s (decade) – The existence of theaters is threatened by the high cost of Virtual Conversion.
+*2120s (decade) – Revival of Historical Epics in the virtual industry such as Sengoku Jidai, Troy, Empire of the Golden Fields, and Three Kingdoms
+
+## Music
+Battle Metal became a popular genre in the colonies after the conclusion of the Guardiola incident. Many of the older combatants in the Planetary Guard that had served during WWIII were known for listening to their preferred genre of music during combat to calm their nerves inspiring younger operators to take up the habit. During the Battle of Stanford Station, one Major Vaughn "The Mountain" Denali broadcast war drums to his entire company, which mixed with some of the Epical and old Metal many of the soldiers were listening to. After the victory at Stanford, many of the veterans began incorporating the heavy percussion of war drums with an older Heavy Metal guitar riffs, spawning a musical renaissance in the colonies.
+
+# Issues and Concerns
+*'''Balkanization.''' Advances in automated manufacturing, the expansion of neural interfaces, and relatively bloodless conflict up until the Third Mex-American War have resulted in unprecedented breakdown of nation-states.
+*'''Overpopulation.''' The Earth's population reached 11 billion at the turn of the century. Such a population creates many economic and political disruptions. In response, many countries have adopted policies which either force or encourage their citizens to have fewer or no children at all, and others have limited immigration. This is largely the result of prolonged lifespans from new medical technologies.
+*'''Non-human rights''' are a major political issue in many places, with marriage between human and non-human partners being legalized in several jurisdictions during the first two decades of the century, but outlawed by constitutional amendment in other places.
+*'''Poverty.''' Poverty remains the root cause of many of the world's other ills, including famine, crime, and civil unrest. With unemployment at record heights, even wealthy countries are now experiencing the effects of rampant poverty.
+*'''Energy shortages''' and blackouts are becoming more frequent, due to the escalating demand for energy. As robotic systems continue to control the lion's share of the Terran economy, energy demands are expected to remain high during the rest of the century.
+[Category:22nd Century Conflicts](https://second-renaissance.fandom.com/wiki/Category:22nd_Century_Conflicts)
+[Category:Timeline](95-category-timeline.md)
+[Category:22nd Century](https://second-renaissance.fandom.com/wiki/Category:22nd_Century)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/96/11715.wikitext` · revision `11715` · [upstream](https://second-renaissance.fandom.com/wiki/22nd_Century)

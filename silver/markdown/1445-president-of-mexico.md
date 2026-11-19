@@ -1,0 +1,1168 @@
+---
+page_id: 1445
+revision_id: 11417
+source_url: https://second-renaissance.fandom.com/wiki/President_of_Mexico
+raw_sha256: e4a9270c4626bb79b8057014c2cc3e6a257cb4c1f49ba219e2556eea6e0a2e60
+---
+
+# President of Mexico
+
+## Preserved source
+
+```wikitext
+The President of the Mexico was the head of state and government of Mexico. Under the Constitution, the president is also the Supreme Commander of the Mexican armed forces. The last President was Manuel Portes, who took office in 2138 after killing his predecessor [Edwin Jaso](1444-edwin-jaso.md). Mexico was annexed to the United States along with the most of Latin America shortly after the [Third Mexican-American War](119-third-mexican-american-war.md)
+
+# First Federal Republic (1824–1835)
+Main Article: [First Mexican Republic](https://second-renaissance.fandom.com/wiki/Wikipedia:First_Mexican_Republic)
+
+{| class="wikitable" style="text-align: center;"
+|-
+! style="background:#C0C0C0; color:black;" | №<br /> 
+! colspan="2" style="background:#C0C0C0; color:black;" | President
+! style="background:#C0C0C0; color:black;" | Took office
+! style="background:#C0C0C0; color:black;" | Left office
+! style="background:#C0C0C0; color:black;" | Political Party
+! style="background:#C0C0C0; color:black;" | [Vice President](https://second-renaissance.fandom.com/wiki/Wikipedia:Vice_President_of_Mexico)
+! style="background:#C0C0C0; color:black;" | Notes
+|-
+! style="background:{{Independent (politician)/meta/color}};" | {{color|black|[1](https://second-renaissance.fandom.com/wiki/Wikipedia:Guadalupe_Victoria)}}
+| [100px](2389-file-guadalupe-victoria-02-jpg.md)
+| '''[Guadalupe Victoria](https://second-renaissance.fandom.com/wiki/Wikipedia:Guadalupe_Victoria)'''<br /><small>(1786–1843)</small>
+| October 10, 1824
+| March 31, 1829
+| [Independent](https://second-renaissance.fandom.com/wiki/Wikipedia:Independent_(politician))
+| [Nicolás Bravo](https://second-renaissance.fandom.com/wiki/Wikipedia:Nicolás_Bravo)
+| style="width:30%;" | <small>First constitutionally elected President of Mexico<br />and the only President who completed his full term<br />in almost 30 years of independent Mexico.</small><ref>{{Cite web |title=How the First President of the United Mexican States came into office. |url=http://132.247.131.1/pagiib/files/Investigacion/Publicaciones/07_gonzalez%20polo.pdf|publisher=500 años de México en documentos |accessdate=October 3, 2010}}</ref>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|2}}
+| [100px](2390-file-vicente-ram-n-guerrero-salda-a-png.md)
+| '''[Vicente Guerrero](https://second-renaissance.fandom.com/wiki/Wikipedia:Vicente_Guerrero)'''<br /><small>(1782–1831)</small>
+| April 1, 1829
+| December 17, 1829
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(México))
+| [Anastasio Bustamante](https://second-renaissance.fandom.com/wiki/Wikipedia:Anastasio_Bustamante)
+| <small>He was appointed by [Congress](https://second-renaissance.fandom.com/wiki/Wikipedia:Congress_of_Mexico) after the resignation<br />of president-elect [Manuel Gómez Pedraza](https://second-renaissance.fandom.com/wiki/Wikipedia:Manuel_Gómez_Pedraza).</small><ref>{{Cite book |url= https://books.google.com/books?id=rq0j6Lp9Op8C&pg=PA73&lpg=PA73&dq=20+de+diciembre+de+1827&source=bl&ots=L4PrYbvIjC&sig=zyXFoNDApUjLvTV4URKHLn8-N3U&hl=es&ei=_vW0TJimD4aEtgPYo7GdDA&sa=X&oi=book_result&ct=result&resnum=9&ved=0CDMQ6AEwCA#v=onepage&q=20%20de%20diciembre%20de%201827&f=false |title=La expulsión de los españoles de México y su destino incierto, 1821-1836. |pages=74–75 |language= Spanish |accessdate= October 12, 2010}}</ref><ref>{{Cite web |title=Vicente Guerrero |url=http://www.bicentenario.gob.mx/index.php?option=com_content&view=article&id=574 |publisher=Federal Government Of Mexico |accessdate=August 9, 2011}}</ref>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|3}}
+| [100px](2391-file-jose-maria-bocanegra-png.md)
+| '''[José María Bocanegra](https://second-renaissance.fandom.com/wiki/Wikipedia:José_María_Bocanegra)'''<br /><small>(1787–1862)</small>
+| December 17, 1829
+| December 23, 1829
+| Popular [York Rite](https://second-renaissance.fandom.com/wiki/Wikipedia:York_Rite) Party<br /><small>(part of the [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico)))</small>
+|
+| <small>He was appointed Interim President by [Congress](https://second-renaissance.fandom.com/wiki/Wikipedia:Congress_of_Mexico) when Guerrero<br />left office to fight the rebellion of his Vice President.</small><ref>{{cite web |url= http://www.biblioteca.tv/artman2/publish/1829_116/Acuerdo_de_la_C_mara_de_Diputados_Elecci_n_de_presidente_interino_de_la_Rep_blica_en_el_Excmo_Sr_D_Jos_Mar_a_Bocanegra.shtml |title=Acuerdo de la Cámara de Diputados. Elección de presidente interino de la República en el Excmo. Sr. D. José María Bocanegra. |language=Spanish |accessdate= July 8, 2011}}</ref><ref>{{cite web |url= http://www.memoriapoliticademexico.org/Efemerides/12/18121829.html |title=José María Bocanegra asume interinamente la presidencia de la República, por licencia de Vicente Guerrero. |language=Spanish |accessdate= August 9, 2011}}</ref>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| [100px](2392-file-pedro-velez-png.md)
+| '''[Pedro Vélez](https://second-renaissance.fandom.com/wiki/Wikipedia:Pedro_Vélez)'''<br /><small>(1787–1848)</small>
+| December 23, 1829
+| December 31, 1829
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+|
+| <small>As president of the [Supreme Court](https://second-renaissance.fandom.com/wiki/Wikipedia:Supreme_Court_of_Justice_of_the_Nation), he was appointed by the<br />Council of Government as head of the executive [triumvirate](https://second-renaissance.fandom.com/wiki/Wikipedia:triumvirate)<br />along with [Lucas Alamán](https://second-renaissance.fandom.com/wiki/Wikipedia:Lucas_Alamán) and [Luis Quintanar](https://second-renaissance.fandom.com/wiki/Wikipedia:Luis_Quintanar).</small><ref>{{cite web |url=http://www.biblioteca.tv/artman2/publish/1829_116/Acuerdo_del_consejo_de_gobierno_Nombramiento_de_asociados_al_Excmo_Sr_Presidente_de_la_Suprema_Corte_de_Justicia_para_ejercer_el_supremo_poder_ejecutivo.shtml |title=Acuerdo del consejo de gobierno. Nombramiento de asociados al Excmo. Sr. Presidente de la Suprema Corte de Justicia, para ejercer el supremo poder ejecutivo. |language=Spanish |accessdate= August 9, 2011}}</ref>
+|-
+! style="background:{{Conservative Party (Mexico)/meta/color}};" | {{color|white|4}}
+| [100px](2394-file-anastasio-bustamante-oleo-480x600-png.md)
+| '''[Anastasio Bustamante](https://second-renaissance.fandom.com/wiki/Wikipedia:Anastasio_Bustamante)'''<br /><small>(1780–1853)</small>
+| January 1, 1830
+| August 13, 1832
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+|
+| <small>As Vice President he assumed the presidency<br />after the [coup](https://second-renaissance.fandom.com/wiki/wikipedia:coup) against Guerrero.</small><ref>{{cite web |url=http://www.memoriapoliticademexico.org/Efemerides/1/01011830.html |title=Anastasio Bustamante, vicepresidente con Vicente Guerrero, asume la Presidencia de la República. |language=Spanish |accessdate= August 9, 2011}}</ref>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|5}}
+| [100px](3070-file-melchor-muzquiz-png.md)
+| '''[Melchor Múzquiz](https://second-renaissance.fandom.com/wiki/Wikipedia:Melchor_Múzquiz)'''<br /><small>(1790–1844)</small>
+| August 14, 1832
+| December 24, 1832
+| Popular [York Rite](https://second-renaissance.fandom.com/wiki/Wikipedia:York_Rite) Party<br /><small>(part of the [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico)))</small>
+|
+| <small>He was appointed Interim President by Congress when<br />Bustamante left office to fight the rebellion of Santa Anna.</small><ref>{{cite web |url=http://www.memoriapoliticademexico.org/Efemerides/8/14081832-MM.html |title=Melchor Múzquiz sustituye como presidente interino a Anastasio Bustamante. |language=Spanish |accessdate= August 9, 2011}}</ref><ref>{{cite web |url=http://www.presidencia.gob.mx/mexico/gobernantes/mexico-1821-actualidad/melchor-muzquiz/ |title=Melchor Múzquiz. |publisher=Presidencia de la Republica |language=Spanish |accessdate= August 9, 2011}}</ref><ref>{{cite web |url=http://www2.sepdf.gob.mx/efemerides/consulta_efemerides.jsp?dia=14&mes=8 |title=Anastasio Bustamante. |publisher=Secretaria de Educación Publica en el Distrito Federal |language=Spanish |accessdate= August 9, 2011}}</ref>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|6}}
+| [100px](3071-file-manuel-g-mez-pedraza-png.md)
+| '''[Manuel Gómez Pedraza](https://second-renaissance.fandom.com/wiki/Wikipedia:Manuel_Gómez_Pedraza)'''<br /><small>(1789–1851)</small>
+| December 24, 1832
+| March 31, 1833
+| Federalist [York Rite](https://second-renaissance.fandom.com/wiki/Wikipedia:York_Rite) Party<br /><small>(part of the [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico)))</small>
+|
+| <small>He assumed the presidency to conclude the term<br />he would have begun in 1829, had he not resigned prior to inauguration, as the winner of the elections of 1828.</small><ref>{{cite web |url=http://www.bicentenario.gob.mx/index.php?option=com_content&view=article&id=578 |title=Manuel Gómez Pedraza. |language=Spanish |accessdate= August 9, 2011}}</ref><ref>{{cite web |url=http://www.memoriapoliticademexico.org/Efemerides/12/24121832.html |title=Manuel Gómez Pedraza asume la presidencia de la República mediante los convenios de Zavaleta. |publisher=Memoria Politica de Mexico |language=Spanish |accessdate= August 9, 2011}}</ref>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|7}}
+| [100px](2395-file-valent-n-g-mez-far-as-png.md)
+| '''[Valentín Gómez Farías](https://second-renaissance.fandom.com/wiki/Wikipedia:Valentín_Gómez_Farías)'''<br /><small>(1781–1858)</small>
+| April 1, 1833
+| May 16, 1833
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+|
+| <small>As Vice President he assumed the presidency in place of Santa Anna, along with whom he was elected in the elections of 1833.</small><br /><ref>{{cite web |url=http://www.memoriapoliticademexico.org/Textos/2ImpDictadura/1833-GF-VPte.html |title=El Sr. D. Valentín Gómez Farías, al jurar como Vicepresidente. |publisher=Memoria Política de México |language=Spanish |accessdate= August 9, 2011}}</ref><ref name="LopezyFarias">{{cite web |url=http://imagenpoliticadotcom.wordpress.com/2011/05/16/1833-santa-anna-asume-por-primera-vez-la-presidencia-de-mexico/ |title=Santa Anna asume por primera vez la presidencia de México. |publisher=Imagen Política de México y del Mundo |language=Spanish |accessdate= August 9, 2011}}</ref><ref name="VGF">{{cite web |url=http://www.presidencia.gob.mx/mexico/gobernantes/mexico-1821-actualidad/valentin-gomez-farias/ |title=Valentín Gómez Farías. |publisher=Presidencia de la Republica |language=Spanish |accessdate= August 9, 2011}}</ref>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|8}}
+| [100px](2393-file-oleo-antonio-lopez-de-santa-anna-png.md)
+| '''[Antonio López de Santa Anna](https://second-renaissance.fandom.com/wiki/Wikipedia:Antonio_López_de_Santa_Anna)'''<br /><small>(1794–1876)</small>
+| May 16, 1833
+| June 3, 1833
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| [Valentín Gómez Farías](https://second-renaissance.fandom.com/wiki/Wikipedia:Valentín_Gómez_Farías)
+| <small>He assumed the presidency as the constitutionally elected president.<br />He alternated in the presidency with Vice President<br />Gómez Farías four more times until April 24, 1834.</small><br /><ref name="LopezyFarias" /><ref name="SantaAnna">{{cite web |url=http://www.bicentenario.gob.mx/index.php?option=com_content&view=article&id=593 |title=Antonio López de Santa Anna |publisher=Federal Government of Mexico |language=Spanish |accessdate= August 9, 2011}}</ref><ref>{{cite web |url=http://www.memoriapoliticademexico.org/Efemerides/5/16051833.html |title=Antonio López de Santa Anna asume por primera vez la presidencia de México. |publisher=Memoria Política de México |language=Spanish |accessdate= August 9, 2011}}</ref><ref name="reeleccion">{{cite web |url=http://www.inep.org/index2.php?option=com_content&do_pdf=1&id=215 |title=La adicción al poder. Reelección o No Reelección. |publisher=Internet para el profesional de la política. |page=2 |language=Spanish |accessdate= August 9, 2011}}</ref>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| [100px](2395-file-valent-n-g-mez-far-as-png.md)
+| '''[Valentín Gómez Farías](https://second-renaissance.fandom.com/wiki/Wikipedia:Valentín_Gómez_Farías)'''<br /><small>(1781–1858)</small>
+| June 3, 1833
+| June 18, 1833
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+|
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| [100px](2393-file-oleo-antonio-lopez-de-santa-anna-png.md)
+| '''[Antonio López de Santa Anna](https://second-renaissance.fandom.com/wiki/Wikipedia:Antonio_López_de_Santa_Anna)'''<br /><small>(1794–1876)</small>
+| June 18, 1833
+| July 5, 1833
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| [Valentín Gómez Farías](https://second-renaissance.fandom.com/wiki/Wikipedia:Valentín_Gómez_Farías)
+|
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| [100px](2395-file-valent-n-g-mez-far-as-png.md)
+| '''[Valentín Gómez Farías](https://second-renaissance.fandom.com/wiki/Wikipedia:Valentín_Gómez_Farías)'''<br /><small>(1781–1858)</small>
+| July 5, 1833
+| October 27, 1833
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+|
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| [100px](2393-file-oleo-antonio-lopez-de-santa-anna-png.md)
+| '''[Antonio López de Santa Anna](https://second-renaissance.fandom.com/wiki/Wikipedia:Antonio_López_de_Santa_Anna)'''<br /><small>(1794–1876)</small>
+| October 27, 1833
+| December 15, 1833
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| [Valentín Gómez Farías](https://second-renaissance.fandom.com/wiki/Wikipedia:Valentín_Gómez_Farías)
+|
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| [100px](2395-file-valent-n-g-mez-far-as-png.md)
+| '''[Valentín Gómez Farías](https://second-renaissance.fandom.com/wiki/Wikipedia:Valentín_Gómez_Farías)'''<br /><small>(1781–1858)</small>
+| December 16, 1833
+| April 24, 1834
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+|
+| <small>He promoted several liberal reforms that led<br />to the discontent of conservatives and the church.<br />Santa Anna took office again and he went into exile.</small><ref name="VGF" /><ref name="reformas">{{cite web |url=http://www.memoriapoliticademexico.org/Efemerides/4/24041834.html |title=Santa Anna asume el poder; Valentín Gómez Farías va al exilio. |publisher=Memoria Política de México |language=Spanish |accessdate= August 9, 2011}}</ref>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| [100px](2393-file-oleo-antonio-lopez-de-santa-anna-png.md)
+| '''[Antonio López de Santa Anna](https://second-renaissance.fandom.com/wiki/Wikipedia:Antonio_López_de_Santa_Anna)'''<br /><small>(1794–1876)</small>
+| April 24, 1834
+| January 27, 1835
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+|
+| <small>He cancelled the liberal reforms.<br />On January 27, the Sixth Constitutional Congress<br />dismissed Gomez Farias as Vice President.</small><ref name="VGF" /><ref name="reformas" /><ref>{{cite web |url=http://www.diputados.gob.mx/cedia/sia/re/RE-ISS-01-10.pdf |title=Relación Cronológica de las Legislaturas de la Cámara de Diputados. |publisher=Cámara de Diputados |language=Spanish |accessdate= August 9, 2011}}</ref>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|9}}
+| [100px](2396-file-miguel-barragan-oleo-480x600-png.md)
+| '''[Miguel Barragán](https://second-renaissance.fandom.com/wiki/Wikipedia:Miguel_Barragán)'''<br /><small>(1789–1836)</small>
+| January 28, 1835
+| February 27, 1836
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+|
+| <small>He was appointed Interim President by Congress when Santa Anna left office to fight the Rebellion of [Zacatecas](https://second-renaissance.fandom.com/wiki/Wikipedia:Zacatecas).<br />On October 23, Congress enacted the ''Constitutional Basis'',<br />which voided the [1824 Constitution](https://second-renaissance.fandom.com/wiki/Wikipedia:Constitution_of_1824) and the federal system.<br />He served both as the last president of the First Federal Republic<br />and the first of the Centralist Republic.</small><ref name="barragan">{{cite web |url=http://www.memoriapoliticademexico.org/Efemerides/1/28011835.html |title=Asume la presidencia de la República interinamente el general Miguel Barragán en sustitución de Santa Anna. |publisher=Memoria Política de México |language=Spanish |accessdate= August 10, 2011}}</ref><ref>{{cite book |title=México a través de los siglos |last= Riva Palacio |first=Vicente |year=1940 |publisher=Editorial Cumbre |language=spanish |url=https://archive.org/stream/mxicotravsde04tomorich#page/n5/mode/2up |accessdate=August 10, 2011}}</ref><ref>{{cite book |title= Las Constituciones de México. |last= De La Fuente Guerrero |first= Sara C. |year= 2003 |publisher= Servigraf |language=Spanish |location= México}}</ref><ref>{{cite web |url=http://www.biblioteca.tv/artman2/publish/1835_130/Bases_constitucionales_expedidas_por_el_Congreso_C_206.shtml|title=Bases constitucionales expedidas por el Congreso Constituyente. |language=Spanish |accessdate= August 10, 2011}}</ref>
+|}
+
+# Centralist Republic (1835–1846)
+Main Article: [Centralist Republic of Mexico](https://second-renaissance.fandom.com/wiki/Wikipedia:Centralist_Republic_of_Mexico)
+
+{| class="wikitable" style="text-align: center;"
+|-
+! style="background:#C0C0C0; color:black; width:2%;" | №<br /> 
+! colspan="2" style="background:#C0C0C0; color:black; width:30%;" | [President](1445-president-of-mexico.md)
+! style="background:#C0C0C0; color:black; width:15%;" | Took office
+! style="background:#C0C0C0; color:black; width:15%;" | Left office
+! style="background:#C0C0C0; color:black; width:15%;" | Political Party
+! style="background:#C0C0C0; color:black; width:38%;" | Notes
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|9}}
+| [100px](2396-file-miguel-barragan-oleo-480x600-png.md)
+| '''[Miguel Barragán](https://second-renaissance.fandom.com/wiki/Wikipedia:Miguel_Barragán)'''<br /><small>(1789–1836)</small>
+| January 28, 1835
+| February 27, 1836
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+|<small>He left office because of a serious illness. He died two days later.<ref name="barragan" /></small>
+|-
+! style="background:{{Conservative Party (Mexico)/meta/color}};" | {{color|white|10}}
+| [100px](3072-file-jose-justo-corro-png.md)
+| '''[José Justo Corro](https://second-renaissance.fandom.com/wiki/Wikipedia:José_Justo_Corro)'''<br /><small>(1794–1864)</small>
+| February 27, 1836
+| April 19, 1837
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+|<small>He was appointed Interim President by Congress to conclude the presidential term.<br />During his term, he enacted the [Seven Laws](https://second-renaissance.fandom.com/wiki/Wikipedia:Seven_Laws) and<br />[Spain](https://second-renaissance.fandom.com/wiki/Spain) recognized the [Independence of Mexico](https://second-renaissance.fandom.com/wiki/Wikipedia:Independence_of_Mexico).</small><ref>{{cite web |url=http://www.memoriapoliticademexico.org/Efemerides/2/28021836.html |title=José Justo Corro asume el cargo de presidente interino por la enfermedad del general Miguel Barragán. |language=Spanish |accessdate= August 10, 2011}}</ref><ref>{{cite web |title=Decreto que expide las Leyes Constitucionales de la República Mexicana.|url=http://www.biblioteca.tv/artman2/publish/1836_129/Decreto_que_expide_las_Leyes_Constitucionales_de_l_208.shtml|publisher=500 años de México en documentos |accessdate=August 10, 2011}}</ref><ref>{{cite web |title=Tratado definitivo de paz y amistad entre México y España.|url=http://www.biblioteca.tv/artman2/uploads/tratado28diciembre1836.pdf |publisher=500 años de México en documentos. |accessdate=August 10, 2011}}</ref>
+|-
+! style="background:{{Conservative Party (Mexico)/meta/color}};" |
+| [100px](2394-file-anastasio-bustamante-oleo-480x600-png.md)
+| '''[Anastasio Bustamante](https://second-renaissance.fandom.com/wiki/Wikipedia:Anastasio_Bustamante)'''<br /><small>(1780–1853)</small>
+| April 19, 1837
+| March 18, 1839
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+|<small>He took office as constitutional elected president.<br />He was elected in the elections of 1837 for an eight years term.</small><ref>{{cite web |url=http://www.conevyt.org.mx/colaboracion/colabora/objetivos/libros_pdf/sso3_u11lecc2.pdf |title=La primera República Federal 1824–1835. |page=8 |language=Spanish |accessdate= August 10, 2011}}</ref><ref>{{cite web |title=Anastasio Bustamante.|url=http://www.bicentenario.gob.mx/index.php?option=com_content&view=article&id=576 |publisher=Federal Government of Mexico |accessdate=August 10, 2011}}</ref>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| [100px](2393-file-oleo-antonio-lopez-de-santa-anna-png.md)
+| '''[Antonio López de Santa Anna](https://second-renaissance.fandom.com/wiki/Wikipedia:Antonio_López_de_Santa_Anna)'''<br /><small>(1794–1876)</small>
+| March 18, 1839
+| July 10, 1839
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+|<small>He was appointed interim president by the Supreme Conservative Power when Bustamante left office to fight federalist rebellions.<ref name="SantaAnna" /><ref>{{cite web |url=http://www.memoriapoliticademexico.org/Biografias/LSA94.html |title=López de Santa Anna y Pérez Lebrón, Antonio. |language=Spanish |accessdate= August 10, 2011}}</ref></small>
+|-
+! style="background:{{Conservative Party (Mexico)/meta/color}};" | {{color|white|11}}
+| [100px](3073-file-presidente-nicolas-bravo-png.md)
+| '''[Nicolás Bravo](https://second-renaissance.fandom.com/wiki/Wikipedia:Nicolás_Bravo)'''<br /><small>(1786–1854)</small>
+| July 11, 1839
+| July 19, 1839
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+|<small>He was appointed substitute president when Santa Anna left office.<ref name="reeleccion" /><ref>{{cite web |url=http://www.bicentenario.gob.mx/index.php?option=com_content&view=article&id=61&Itemid=14 |title=Nicolás Bravo 1786–1854. |language=Spanish |accessdate= August 10, 2011}}</ref><ref name="NBravo">{{cite web |url=http://www.presidencia.gob.mx/mexico/gobernantes/mexico-1821-actualidad/nicolas-bravo/ |title=Nicolás Bravo. |language=Spanish |accessdate= August 10, 2011}}</ref> </small>
+|-
+! style="background:{{Conservative Party (Mexico)/meta/color}};" |
+| [100px](2394-file-anastasio-bustamante-oleo-480x600-png.md)
+| '''[Anastasio Bustamante](https://second-renaissance.fandom.com/wiki/Wikipedia:Anastasio_Bustamante)'''<br /><small>(1780–1853)</small>
+| July 19, 1839
+| September 22, 1841
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+|<small>He reassumed the presidency.<ref name="reeleccion" /><ref>{{cite web |title=Anastasio Bustamante.|url=http://www.iea.gob.mx/webiea/inf_general/archivos/biogra/bustaman.html|publisher=Government of the State of Aguascalientes |accessdate=August 10, 2011}}</ref></small>
+|-
+! style="background:{{Conservative Party (Mexico)/meta/color}};" | {{color|white|12}}
+| [100px](3074-file-francisco-javier-echeverria-png.md)
+| '''[Francisco Javier Echeverría](https://second-renaissance.fandom.com/wiki/Wikipedia:Francisco_Javier_Echeverría)'''<br /><small>(1797–1852)</small>
+| September 22, 1841
+| October 10, 1841
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+|<small>He was appointed interim president when Bustamante left office to fight a rebellion headed by [Mariano Paredes y Arrillaga](https://second-renaissance.fandom.com/wiki/Wikipedia:Mariano_Paredes_y_Arrillaga), Santa Anna, and [Gabriel Valencia](https://second-renaissance.fandom.com/wiki/Wikipedia:Gabriel_Valencia).<br />He resigned after the triumph of the rebellion.</small><ref>{{cite web |title=Anastasio Bustamante.|url=http://www.memoriapoliticademexico.org/Biografias/BUA80.html |publisher=Memoria Política de México |accessdate=August 30, 2011}}</ref><ref>{{cite web |title=Francisco Javier Echeverría asume la presidencia de la República.|url=http://www.memoriapoliticademexico.org/Efemerides/9/22091841-EFJ.html |publisher=Memoria Política de México |accessdate=August 30, 2011}}</ref><ref>{{cite web |title=Francisco Javier Echeverría.|url=http://www.presidencia.gob.mx/mexico/gobernantes/mexico-1821-actualidad/francisco-javier-echeverria/ |publisher=Presidencia de la Republica |accessdate=August 30, 2011}}</ref>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| [100px](2393-file-oleo-antonio-lopez-de-santa-anna-png.md)
+| '''[Antonio López de Santa Anna](https://second-renaissance.fandom.com/wiki/Wikipedia:Antonio_López_de_Santa_Anna)'''<br /><small>(1794–1876)</small>
+| October 10, 1841
+| October 26, 1842
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| <small>He was appointed provisional president by a ''Junta de Representantes de los Departamentos'' (Board of Representatives of the Departments).<ref>{{cite web |title=Decreto de la Junta de Representantes. Se declara Presidente de la República, a D. Antonio López de Santa-Anna.|url=http://www.memoriapoliticademexico.org/Textos/2ImpDictadura/1841PSA.html |publisher=Memoria Política de México |accessdate=August 30, 2011}}</ref><ref>{{cite web |title=Junta de Representantes o Consejo de los Departamentos. |url=http://www.iih.unam.mx/moderna/ehmc/ehmc04/028.html |publisher=Instituto de Investigaciones Históricas (UNAM) |accessdate=August 30, 2011}}</ref><ref name="SantaAnnaBravo">{{cite web |title=Efemérides / Santa Anna. |url=http://www2.sepdf.gob.mx/efemerides/consulta_efemerides.jsp?dia=10&mes=10 |publisher=Secretaria de Educación Publica del D.F. |accessdate=August 30, 2011}}</ref></small>
+|-
+! style="background:{{Conservative Party (Mexico)/meta/color}};" |
+| [100px](3073-file-presidente-nicolas-bravo-png.md)
+| '''[Nicolás Bravo](https://second-renaissance.fandom.com/wiki/Wikipedia:Nicolás_Bravo)'''<br /><small>(1786–1854)</small>
+| October 26, 1842
+| March 4, 1843
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+| <small>He was appointed substitute president by Santa Anna when he left office.<ref name="NBravo" /><ref name="SantaAnnaBravo" /></small>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| [100px](2393-file-oleo-antonio-lopez-de-santa-anna-png.md)
+| '''[Antonio López de Santa Anna](https://second-renaissance.fandom.com/wiki/Wikipedia:Antonio_López_de_Santa_Anna)'''<br /><small>(1794–1876)</small>
+| March 4, 1843
+| October 4, 1843
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| <small>He reassumed the presidency as provisional president.</small><ref>{{cite web |title=Decreto del gobierno. Sobre que volverá a ejercer el poder ejecutivo, luego que llegue a la capital, el general Santa-Anna. |url=http://www.memoriapoliticademexico.org/Textos/2ImpDictadura/1843DSA.html |publisher=Memoria Política de México |accessdate=August 30, 2011}}</ref>
+|-
+! style="background:{{Conservative Party (Mexico)/meta/color}};" | {{color|white|13}}
+| [100px](3075-file-valentin-canalizo-oleo-480x600-png.md)
+| '''[Valentín Canalizo](https://second-renaissance.fandom.com/wiki/Wikipedia:Valentín_Canalizo)'''<br /><small>(1794–1850)</small>
+| October 4, 1843
+| June 4, 1844
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+| <small>He was appointed interim president by Santa Anna when he left office.<ref>{{cite web |title=Decreto del gobierno. Se deposita el gobierno provisional de la República en el general D. Valentín Canalizo. |url=http://www.memoriapoliticademexico.org/Textos/2ImpDictadura/1843DVC.html |publisher=Memoria Política de México |accessdate=August 30, 2011}}</ref><ref>{{cite web |title=Valentín Canalizo asume la presidencia de la República como sustituto de Santa Anna. |url=http://www.memoriapoliticademexico.org/Efemerides/10/04101843-CV.html |publisher=Memoria Política de México |accessdate=August 30, 2011}}</ref></small>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| [100px](2393-file-oleo-antonio-lopez-de-santa-anna-png.md)
+| '''[Antonio López de Santa Anna](https://second-renaissance.fandom.com/wiki/Wikipedia:Antonio_López_de_Santa_Anna)'''<br /><small>(1794–1876)</small>
+| June 4, 1844
+| September 12, 1844
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| <small>He reassumed the presidency after being elected constitutional president by Congress on January 2, 1844.<ref>{{cite web |title=Ley. Se declara presidente constitucional de la República, á D. Antonio López de Santa-Anna. |url=http://www.memoriapoliticademexico.org/Textos/2ImpDictadura/1844LPS.html |publisher=Memoria Política de México |accessdate=August 30, 2011}}</ref><ref name="CanalizoDeHerrera">{{cite web |title=Efemérides / Santa Anna. |url=http://www2.sepdf.gob.mx/efemerides/consulta_efemerides.jsp?dia=4&mes=6 |publisher=Secretaria de Educación Publica del D.F. |accessdate=August 30, 2011}}</ref></small>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|14}}
+| [100px](3076-file-jose-joaquin-de-herrera-oleo-480x600-png.md)
+| '''[José Joaquín de Herrera](https://second-renaissance.fandom.com/wiki/Wikipedia:José_Joaquín_de_Herrera)'''<br /><small>(1792–1854)</small>
+| September 12, 1844
+| September 21, 1844
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| <small>He was appointed substitute president by Congress to replace the interim president Valentin Canalizo.<ref name="CanalizoDeHerrera" /><ref name="Canalizo2">{{cite web |title=Valentín Canalizo es nombrado presidente interino de la República. |url=http://www.memoriapoliticademexico.org/Efemerides/9/21091844-CV.html |publisher=Memoria Política de México |accessdate=August 30, 2011}}</ref></small>
+|-
+! style="background:{{Conservative Party (Mexico)/meta/color}};" |
+| [100px](3075-file-valentin-canalizo-oleo-480x600-png.md)
+| '''[Valentín Canalizo](https://second-renaissance.fandom.com/wiki/Wikipedia:Valentín_Canalizo)'''<br /><small>(1794–1850)</small>
+| September 21, 1844
+| December 6, 1844
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+| <small>He assumed the presidency as interim president.<ref>{{cite web |title=Canalizo, Valentín. |url=http://www.memoriapoliticademexico.org/Biografias/CAV94.html |publisher=Memoria Política de México |accessdate=August 30, 2011}}</ref></small>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| [100px](3076-file-jose-joaquin-de-herrera-oleo-480x600-png.md)
+| '''[José Joaquín de Herrera](https://second-renaissance.fandom.com/wiki/Wikipedia:José_Joaquín_de_Herrera)'''<br /><small>(1792–1854)</small>
+| December 6, 1844
+| December 30, 1845
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| <small>He was appointed interim, and after, constitutional president by [Senate](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_Senate)<br />after Canalizo was arrested for trying to dissolve the Congress.</small><ref name="Canalizo2" /><ref>{{cite web |title=Herrera asume la Presidencia tras un levantamiento popular. |url=http://www.memoriapoliticademexico.org/Efemerides/12/06121844.html |publisher=Memoria Política de México |accessdate=August 30, 2011}}</ref><ref>{{cite web |title=Decreto del senado. Se declara presidente interino de la República, á D. José Joaquín de Herrera. |url=http://www.memoriapoliticademexico.org/Textos/2ImpDictadura/1844DPJ.html |publisher=Memoria Política de México |accessdate=August 30, 2011}}</ref>
+|-
+! rowspan="2" style="background:{{Conservative Party (Mexico)/meta/color}};" | {{color|white|15}}
+| rowspan="2" | [100px](3077-file-mariano-paredes-y-arrillaga-480x600-png.md)
+| rowspan="2" | '''[Mariano Paredes](https://second-renaissance.fandom.com/wiki/Wikipedia:Mariano_Paredes_(President_of_Mexico))'''<br /><small>(1797–1849)</small>
+| rowspan="2" | December 31, 1845
+| rowspan="2" | July 28, 1846
+| rowspan="2" | [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+| <small>He assumed office via a coup against De Herrera.<br />On June 12, he was appointed interim president.</small><ref>{{cite web |title=Mariano Paredes. |url=http://www.presidencia.gob.mx/mexico/gobernantes/mexico-1821-actualidad/mariano-paredes-y-arrillaga/ |publisher=Presidencia de la Republica |accessdate=August 30, 2011}}</ref><ref name="ParedesBravo">{{cite web |title=Decreto del congreso extraordinario. Se declarará presidente interino á D. Mariano Paredes y Arrillaga. |url=http://www.memoriapoliticademexico.org/Textos/2ImpDictadura/1846PMP.html |publisher=Memoria Política de México |accessdate=August 30, 2011}}</ref>
+|-
+| <small>'''[Vice President](https://second-renaissance.fandom.com/wiki/Wikipedia:Vice_President_of_Mexico)'''<ref name="ParedesBravo" /></small><br />[Nicolás Bravo](https://second-renaissance.fandom.com/wiki/Wikipedia:Nicolás_Bravo)
+|-
+! style="background:{{Conservative Party (Mexico)/meta/color}};" |
+| [100px](3073-file-presidente-nicolas-bravo-png.md)
+| '''[Nicolás Bravo](https://second-renaissance.fandom.com/wiki/Wikipedia:Nicolás_Bravo)'''<br /><small>(1786–1854)</small>
+| July 28, 1846
+| August 4, 1846
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+| <small>He took office when Paredes left the presidency to fight the [Americans](217-united-states-of-america.md) in the [First Mexican War](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican–American_War).<br />He was deposed by a federalist rebellion led by Jose Mariano Salas and Valentin Gomez Farias.</small><ref>{{cite web |title=Nicolás Bravo asume la presidencia de la República. |url=http://www.memoriapoliticademexico.org/Efemerides/7/28071846.html |publisher=Memoria Política de México |accessdate=August 30, 2011}}</ref><ref>{{cite web |title=Se concede permiso al presidente de la República, para mandar en persona las fuerzas de tierra. |url=http://www.memoriapoliticademexico.org/Textos/2ImpDictadura/1846DRT.html |publisher=Memoria Política de México |accessdate=August 30, 2011}}</ref><ref>{{cite web |title=Manifiesto de Mariano Salas y Valentín Gómez Farías. |url=http://www.biblioteca.tv/artman2/publish/1846_139/Manifiesto_de_Mariano_Salas_y_Valent_n_G_mez_Far_a_1666.shtml |publisher=500 años de México en documentos |accessdate=August 30, 2011}}</ref>
+|-
+! style="background:{{Conservative Party (Mexico)/meta/color}};" | {{color|white|16}}
+| [100px](3078-file-jose-mariano-salas-oleo-480x600-png.md)
+| '''[José Mariano Salas](https://second-renaissance.fandom.com/wiki/Wikipedia:José_Mariano_Salas)'''<br /><small>(1797–1867)</small>
+| August 5, 1846
+| December 23, 1846
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+| <small>He assumed office as provisional president after the triumph of the federalist rebellion (Plan de la Ciudadela).<br />He put in force the [1824 Constitution](https://second-renaissance.fandom.com/wiki/Wikipedia:Constitution_of_1824) on August 22.</small><ref name="Salas">{{cite web |title=El General Mariano Salas toma posesión de la presidencia de la República. |url=http://www.memoriapoliticademexico.org/Efemerides/8/05081846-MS.html |publisher=Memoria Política de México |accessdate=August 30, 2011}}</ref><ref>{{cite web |title=Republica Federal. |url=http://cdigital.dgb.uanl.mx/la/1020004349/1020004349_004.pdf |publisher=El Viajero en México |page=5 |accessdate=August 30, 2011}}</ref><ref>{{cite web |title=Se declara vigente la Constitución de 1824. |url=http://www.memoriapoliticademexico.org/Textos/2ImpDictadura/1846DVC.html |publisher=Memoria Política de México |accessdate=August 30, 2011}}</ref><br /><small>He served both as last president of the Centralist Republic and first of the Second Federal Republic.</small>
+|}
+
+# Second Federal Republic (1846–1863)
+Main Article: [Second Federal Republic of Mexico](https://second-renaissance.fandom.com/wiki/Wikipedia:Second_Federal_Republic_of_Mexico)
+
+{| class="wikitable" style="text-align: center;"
+|-
+! style="background:#C0C0C0; color:black; width:2%;" | №<br /> 
+! colspan="2" style="background:#C0C0C0; color:black; width:30%;" | [President](1445-president-of-mexico.md)
+! style="background:#C0C0C0; color:black; width:15%;" | Took office
+! style="background:#C0C0C0; color:black; width:15%;" | Left office
+! style="background:#C0C0C0; color:black; width:15%;" | Political Party
+! style="background:#C0C0C0; color:black; width:38%;" | Notes
+|-
+! style="background:{{Conservative Party (Mexico)/meta/color}};" | {{color|white|16}}
+| [100px](3078-file-jose-mariano-salas-oleo-480x600-png.md)
+| '''[https://en.wikipedia.org/wiki/Jos%C3%A9_Mariano_Salas José Mariano Salas]'''<br /><small>(1797–1867)</small>
+| August 6, 1846
+| December 23, 1846
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+| <small>After he restored the federalism, he called elections.<br />Santa Anna won the election and was appointed interim president by Congress and Valentin Gomez Farias as vice president.</small><ref name="Salas" /><ref>{{cite web |title=Se declara presidente interino de la República, á D. Antonio Lopez de Santa-Anna. |url=http://www.memoriapoliticademexico.org/Textos/2ImpDictadura/1846DPS.html |publisher=Memoria Política de México |accessdate=August 30, 2011}}</ref>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| [100px](2395-file-valent-n-g-mez-far-as-png.md)
+| '''[https://en.wikipedia.org/wiki/Valent%C3%ADn_G%C3%B3mez_Far%C3%ADas Valentín Gómez Farías]'''<br /><small>(1781–1858)</small>
+| December 23, 1846
+| March 21, 1847
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| <small>As vice president, he took office in place of Santa Anna, who was fighting the Americans in the First Mexican War.<ref>{{cite web |title=Se declara que D. Valentín Gómez Farías queda en posesion de su encargo de vicepresidente de la República. |url=http://www.memoriapoliticademexico.org/Textos/2ImpDictadura/1846DVG.html |publisher=Memoria Política de México |accessdate=August 30, 2011}}</ref></small>
+|-
+! rowspan="2" style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| rowspan="2" | [100px](2393-file-oleo-antonio-lopez-de-santa-anna-png.md)
+| rowspan="2" | '''[https://en.wikipedia.org/wiki/Antonio_L%C3%B3pez_de_Santa_Anna Antonio López de Santa Anna]'''<br /><small>(1794–1876)</small>
+| rowspan="2" | March 21, 1847
+| rowspan="2" | April 2, 1847
+| rowspan="2" | [https://en.wikipedia.org/wiki/Liberal_Party_(Mexico) Liberal Party]
+| <small>He took office as elected interim president.<ref>{{cite web |title=21 DE MARZO DE 1847. |url=http://bibliotecadigital.ilce.edu.mx/sites/1847/patria/textos/sec_31.html |publisher=Biblioteca Digital |accessdate=August 30, 2011}}</ref></small>
+|-
+| <small>'''Vice President'''</small><br />[https://en.wikipedia.org/wiki/Valent%C3%ADn_G%C3%B3mez_Far%C3%ADas Valentín Gómez Farías]
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|17}}
+| [100px](3080-file-pedro-m-anaya-png.md)
+| '''[https://en.wikipedia.org/wiki/Pedro_Mar%C3%ADa_de_Anaya Pedro María de Anaya]'''<br /><small>(1795–1854)</small>
+| April 2, 1847
+| May 20, 1847
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| <small>Santa Anna left office to fight in the Mexican–American War. Congress abolished the vice presidency and he was appointed as substitute president.<ref>{{cite web |title=Efemerides/Pedro María Anaya. |url=http://www2.sepdf.gob.mx/efemerides/consulta_efemerides.jsp?dia=2&mes=4 |publisher=Secretaria de Educacion Publica del D.F. |accessdate=September 3, 2011}}</ref><ref>{{cite web |title=Desemejanzas entre el lider politico y el jefe militar. |url=http://www.senado2010.gob.mx/docs/bibliotecaVirtual/12/2746/74.pdf |publisher=Senate of Mexico. |page=2 |accessdate=September 3, 2011}}</ref><ref>{{cite web |title=Se concede licencia al actual presidente para mandar el ejército, y se suprime la vicepresidencia de la República. |url=http://www.memoriapoliticademexico.org/Textos/2ImpDictadura/1847LPE.html |publisher=Memoria Política de México. |accessdate=September 3, 2011}}</ref></small>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| [100px](2393-file-oleo-antonio-lopez-de-santa-anna-png.md)
+| '''Antonio López de Santa Anna'''<br /><small>(1794–1876)</small>
+| May 20, 1847
+| September 15, 1847
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| <small>He reassumed the presidency when De Anaya left office to fight in the Mexican–American War.<ref>{{cite web |title=Pedro María de Anaya. |url=http://www.presidencia.gob.mx/mexico/gobernantes/mexico-1821-actualidad/pedro-maria-anaya/ |publisher=Presidencia de la Republica. |accessdate=September 3, 2011}}</ref><ref>{{cite web |title=Tropas mexicanas al mando de Pedro María Anaya y Manuel Rincón luchan contra las fuerzas al mando de Scott en Churubusco. |url=http://www.memoriapoliticademexico.org/Efemerides/8/20081847.html |publisher=Memoria Política de México. |accessdate=September 3, 2011}}</ref></small>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|18}}
+| [100px](3081-file-manuel-de-la-pe-a-y-pe-a-png.md)
+| '''[https://en.wikipedia.org/wiki/Manuel_de_la_Pe%C3%B1a_y_Pe%C3%B1a Manuel de la Peña y Peña]'''<br /><small>(1789–1850)</small>
+| September 16, 1847
+| November 13, 1847
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| <small>As president of the [Supreme Court](https://second-renaissance.fandom.com/wiki/Wikipedia:Supreme_Court_of_Justice_of_the_Nation), he assumed the presidency after Santa Anna's resignation.<ref>{{cite web |title=El Presidente de la República, a sus compatriotas. |url=http://www.memoriapoliticademexico.org/Textos/2ImpDictadura/1847SanaComp-.html |publisher=Memoria Política de México. |accessdate=September 3, 2011}}</ref><ref>{{cite web |title=Manuel de la Peña y Peña |url=http://www.presidencia.gob.mx/mexico/gobernantes/mexico-1821-actualidad/manuel-de-la-pena-y-pena/ |publisher=Presidencia de la Republica. |accessdate=September 3, 2011}}</ref></small>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| [100px](3080-file-pedro-m-anaya-png.md)
+| '''Pedro María de Anaya'''<br /><small>(1795–1854)</small>
+| November 13, 1847
+| January 8, 1848
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| <small>He was appointed interim president by Congress when De la Peña y Peña left office in order to negotiate peace with the United States.</small>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| [100px](3081-file-manuel-de-la-pe-a-y-pe-a-png.md)
+| '''Manuel de la Peña y Peña'''<br /><small>(1789–1850)</small>
+| January 8, 1848
+| June 3, 1848
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| <small>He reassumed office as provisional president when De Anaya resigned<br />after refusing to give any land to the United States.</small><ref>{{cite web |title=El general Pedro María Anaya asume la presidencia de la República. |url=http://www.memoriapoliticademexico.org/Efemerides/11/13111847-PMA.html |publisher=Memoria Política de México. |accessdate=October 6, 2011}}</ref> <small>During his term, he signed the [Wikipedia:Treaty of Guadalupe Hidalgo](https://second-renaissance.fandom.com/wiki/Wikipedia:Treaty_of_Guadalupe_Hidalgo).</small>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| [100px](3076-file-jose-joaquin-de-herrera-oleo-480x600-png.md)
+| '''[https://en.wikipedia.org/wiki/Jos%C3%A9_Joaqu%C3%ADn_de_Herrera José Joaquín de Herrera]'''<br /><small>(1792–1854)</small>
+| June 3, 1848
+| January 15, 1851
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| <small>He was the second president to finish his term and peacefully turned over the presidency to the winner of the Federal Elections of 1850, General Mariano Arista.<ref>{{cite web |title=Herrera, José Joaquín de. |url=http://www.memoriapoliticademexico.org/Biografias/HJJ92.html |publisher=Memoria Política de México. |accessdate=July 19, 2012}}</ref></small>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|19}}
+| [100px](3082-file-mariano-arista-oleo-480x600-png.md)
+| '''[https://en.wikipedia.org/wiki/Mariano_Arista Mariano Arista]'''<br /><small>(1802–1855)</small>
+| January 15, 1851
+| January 5, 1853
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| <small>He resigned on January 5, 1853 when Congress refuse to give him extraordinary powers to fight the rebellion of Plan del Hospicio, which its goal was bring to Santa Anna once again to the presidency.<ref>{{cite web |title=Tras reñidas elecciones, el general Mariano Arista asume pacíficamente la presidencia de la República. |url=http://www.memoriapoliticademexico.org/Efemerides/1/15011851-AM.html|publisher=Memoria Política de México. |accessdate=July 19, 2012}}</ref></small>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|20}}
+| [100px](3083-file-juan-bautista-ceballos-oleo-480x600-png.md)
+| '''[https://en.wikipedia.org/wiki/Juan_Bautista_Ceballos Juan Bautista Ceballos]'''<br /><small>(1811–1859)</small>
+| January 5, 1853
+| February 7, 1853
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| <small>As president of the Supreme Court, he was proposed by President Arista as his successor and confirmed the same day as interim president by Congress.<ref>{{cite web |title=Juan Bautista Ceballos asume el poder ejecutivo tras la renuncia del presidente Mariano Arista. |url=http://www.memoriapoliticademexico.org/Efemerides/1/06011853-CJB.html|publisher=Memoria Política de México. |accessdate=July 19, 2012}}</ref></small>
+|-
+! style="background:{{Conservative Party (Mexico)/meta/color}};" | {{color|white|21}}
+| [100px](3084-file-manuel-mar-a-lombardini-png.md)
+| '''[https://en.wikipedia.org/wiki/Manuel_Mar%C3%ADa_Lombardini Manuel María Lombardini]'''<br /><small>(1802–1853)</small>
+| February 8, 1853
+| April 20, 1853
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+| <small>He was appointed provisional president by Congress when Ceballos resigned because of the rebellion of Plan del Hospicio.<ref>{{cite web |title=Lombardini asume la Presidencia. |url=http://www.memoriapoliticademexico.org/Efemerides/2/07021853.html|publisher=Memoria Política de México. |accessdate=July 19, 2012}}</ref></small>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| [100px](3079-file-antonio-lopez-de-santa-anna-1850-480x600-png.md)
+| '''Antonio López de Santa Anna'''<br /><small>(1794–1876)</small>
+| April 20, 1853
+| August 9, 1855
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| <small>He swore as President but ruled as dictator.<br />He called himself "Su Alteza Serenisima" (Serene Highness).<ref>{{cite web |title=Santa Anna. |url=http://www2.sepdf.gob.mx/efemerides/consulta_efemerides.jsp?dia=20&mes=|publisher=Secretaria de Educacion Publica del D.F. |accessdate=July 19, 2012}}</ref><ref>{{cite web |title=López de Santa Anna y Pérez Lebrón Antonio. |url=http://www.memoriapoliticademexico.org/Biografias/LSA94.html|publisher=Memoria Política de México. |accessdate=July 19, 2012}}</ref><br />From this period, the only lasting thing is the [Mexican National Anthem](https://second-renaissance.fandom.com/wiki/Wikipedia:Himno_Nacional_Mexicano).</small><ref>{{cite web |title=Símbolos patrios de los Estados Unidos Mexicanos. |url=http://portal.sre.gob.mx/china/index.php?option=displaypage&Itemid=144&op=page&SubMenu=|publisher=Secretaría de Relaciones Exteriores |accessdate=July 26, 2012}}</ref><ref name="Ayutla">{{cite web |title=Al triunfo del Plan de Ayutla, Santa Anna sale de México. |url=http://www.memoriapoliticademexico.org/Efemerides/8/09081855.html|publisher=Memoria Política de México. |accessdate=July 26, 2012}}</ref>
+|-
+! style="background:{{Conservative Party (Mexico)/meta/color}};" | {{color|white|22}}
+| [100px](3085-file-mart-n-carrera-png.md)
+| '''[https://en.wikipedia.org/wiki/Mart%C3%ADn_Carrera Martín Carrera]'''<br /><small>(1806–1871)</small>
+| August 9, 1855
+| September 12, 1855
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+| <small>He was appointed interim president after the triumph of the [Plan of Ayutla](https://second-renaissance.fandom.com/wiki/Wikipedia:Plan_of_Ayutla)<br />but he took office until August 15.<ref name="Ayutla" /><ref>{{cite web |title=Martín Carrera. |url=http://www2.sepdf.gob.mx/efemerides/consulta_efemerides.jsp?dia=9&mes=8|publisher=Secretaria de Educacion Publica del Distrito Federal. |accessdate=July 26, 2012}}</ref></small>
+|-
+! style="background:{{Conservative Party (Mexico)/meta/color}};" | {{color|white|23}}
+| [100px](3086-file-r-mulo-d-az-de-la-vega-png.md)
+| '''[https://en.wikipedia.org/wiki/R%C3%B3mulo_D%C3%ADaz_de_la_Vega Rómulo Díaz de la Vega]'''<br /><small>(1800–1877)</small>
+| September 12, 1855
+| October 4, 1855
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+| <small>He served as [de facto](https://second-renaissance.fandom.com/wiki/Wikipedia:de_facto) president after Carrera's resignation.<ref>{{cite web |title=Martín Carrera. |url=http://www.bicentenario.gob.mx/index.php?option=com_content&view=article&id=595|publisher=Gobierno Federal de Mexico. |accessdate=August 9, 2012}}</ref><ref>{{cite web |title=El general Rómulo Díaz de la Vega asume de facto la presidencia de la República. |url=http://www.memoriapoliticademexico.org/Efemerides/9/12091855-DVR.html|publisher=Memoria Política de México. |accessdate=August 9, 2012}}</ref></small>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|24}}
+| [100px](3087-file-juan-alvarez-png.md)
+| '''[https://en.wikipedia.org/wiki/Juan_%C3%81lvarez Juan Álvarez]'''<br /><small>(1790–1867)</small>
+| October 4, 1855
+| December 11, 1855
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+|<small>He was appointed interim president by a council integrated with one representative of each state after the triumph of the Revolution of Ayutla.<ref>{{cite web |title=Juan Álvarez. |url=http://www.memoriapoliticademexico.org/Biografias/ALJ90.html|publisher=Memoria Política de México. |accessdate=August 9, 2012}}</ref><ref>{{cite web |title=1855 Decreto del gobierno. Se nombra presidente de la República al general D. Juan Alvarez. |url=http://www.memoriapoliticademexico.org/Textos/3Reforma/1855DPR.html|publisher=Memoria Política de México. |accessdate=August 9, 2012}}</ref></small>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|25}}
+| [100px](3088-file-ignacio-comonfort-png.md)
+| '''[https://en.wikipedia.org/wiki/Ignacio_Comonfort Ignacio Comonfort]'''<br /><small>(1812–1863)</small>
+| December 11, 1855
+| December 17, 1857
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+|<small>He was appointed interim president by Juan Alvarez when he resigned.<br />He assumed as constitutional president on December 1, 1857.<ref>{{cite web |title=Ignacio Comonfort.|url=http://www.bicentenario.gob.mx/index.php?option=com_content&view=article&id=597|publisher=Gobierno Federal de México. |accessdate=August 9, 2012}}</ref><ref>{{cite web |title=Ignacio Comonfort asume la Presidencia.|url=http://www.memoriapoliticademexico.org/Efemerides/12/11121855.html|publisher=Memoria Política de México. |accessdate=August 9, 2012}}</ref></small>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|26}}
+| [100px](3068-file-benito-juarez-oleo-480x600-png.md)
+| '''[https://en.wikipedia.org/wiki/Benito_Ju%C3%A1rez Benito Juárez]'''<br /><small>(1806–1872)</small>
+| December 18, 1857
+| July 18, 1872
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+|<small>As president of the [Supreme Court](https://second-renaissance.fandom.com/wiki/Wikipedia:Supreme_Court_of_Justice_of_the_Nation), he became interim president after the self-coup of Ignacio Comonfort against the [Constitution of 1857](https://second-renaissance.fandom.com/wiki/Wikipedia:Federal_Constitution_of_the_United_Mexican_States_of_1857). He was arrested and freed by Comonfort. He established a liberal constitutional government on January 18, 1858.<br />The struggle between the Liberal and Conservative forces is known as [Reform War](https://second-renaissance.fandom.com/wiki/Wikipedia:Reform_War).<ref>{{cite web |title=Juárez García Benito Pablo.|url=http://www.memoriapoliticademexico.org/Biografias/JGB06.html|publisher=Memoria Politica de México. |accessdate=April 29, 2013}}</ref></small>
+|}
+
+## Presidents recognized by the Conservatives during the Reform War
+Main Article: [Reform War](https://second-renaissance.fandom.com/wiki/Wikipedia:Reform_War)
+
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan="2" style="width:30%;" | [President](1445-president-of-mexico.md)
+! style="width:15%;" | Took office
+! style="width:15%;" | Left office
+! style="width:15%;" | Political Party
+! style="width:38%;" | Notes
+|-
+| [60px](3088-file-ignacio-comonfort-png.md)
+| '''Ignacio Comonfort'''<br /><small>(1812–1863)</small>
+| December 17, 1857
+| January 21, 1858
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+|<small>After the declaration of [Plan of Tubacaya](https://second-renaissance.fandom.com/wiki/Wikipedia:Plan_of_Tacubaya), Congress declared that he was not longer president but he was recognized by conservatives as president with absolute powers.<ref>{{cite web |title=Es proclamado el Plan de Tacubaya, con el que los conservadores pretenden derogar la Constitución de 1857.|url=http://www.memoriapoliticademexico.org/Efemerides/12/17121857.html|publisher=Memoria Politica de México. |accessdate=April 29, 2013}}</ref><ref>{{cite web |title=El Congreso declara que dejó de ser Presidente de la República don Ignacio Comonfort desde el 17 de diciembre de 1857.|url=http://www.biblioteca.tv/artman2/publish/1861_164/El_Congreso_declara_que_dej_de_ser_Presidente_de_la_Rep_blica_don_Ignacio_Comonfort_desde_el_17_de_diciembre_de_1857.shtml|publisher=500 años de México en documentos. |accessdate=April 29, 2013}}</ref></small>
+|-
+| [60px](3089-file-f-lix-mar-a-zuloaga-oleo-480x600-png.md)
+| '''[https://en.wikipedia.org/wiki/F%C3%A9lix_Mar%C3%ADa_Zuloaga Félix María Zuloaga]'''<br /><small>(1813–1898)</small>
+| January 11, 1858
+| December 24, 1858
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+|<small>After disown Comonfort, Zuloaga was appointed president by the Conservative Party.<ref>{{cite web |title=Tras desconocer a Comonfort, Félix María Zuloaga es nombrado presidente por el partido conservador.|url=http://www.memoriapoliticademexico.org/Efemerides/1/11011858-ZFM.html|publisher=Memoria Politica de México. |accessdate=April 30, 2013}}</ref></small>
+|-
+| [60px](3090-file-manuel-robles-pezuela-oleo-480x600-png.md)
+| '''[https://en.wikipedia.org/wiki/Manuel_Robles_Pezuela Manuel Robles Pezuela]'''<br /><small>(1817–1862)</small>
+| December 24, 1858
+| January 23, 1859
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+|<small>He assumed the conservative presidency with the support of the [Plan de Navidad](https://second-renaissance.fandom.com/wiki/Wikipedia:Plan_de_Navidad).<ref name="Memoria Politica de México">{{cite web |title=Asume la presidencia del gobierno conservador el general Manuel Robles Pezuela.|url=http://www.memoriapoliticademexico.org/Efemerides/12/24121858-RPM.html|publisher=Memoria Politica de México. |accessdate=April 30, 2013}}</ref><ref>{{cite web |title=Plan de Navidad.|url=http://www.biblioteca.tv/artman2/publish/1858_147/Plan_de_Navidad_1696.shtml|publisher=Memoria Politica de México. |accessdate=April 30, 2013}}</ref></small>
+|-
+| [60px](3089-file-f-lix-mar-a-zuloaga-oleo-480x600-png.md)
+| '''Félix María Zuloaga'''<br /><small>(1813–1898)</small>
+| January 24, 1859
+| February 1, 1859
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+|<small>He was restored to the presidency by counter-rebellion led by [Miguel Miramón](https://second-renaissance.fandom.com/wiki/Wikipedia:Miguel_Miramón).<ref name="Memoria Politica de México" /><ref>{{cite web |title=FÉLIX MARÍA ZULOAGA (1813–1898).|url=http://bicentenario.gob.mx/reforma/index.php?option=com_content&view=article&id=81|publisher=Bicentenario de México. |accessdate=April 30, 2013}}</ref></small>
+|-
+| [60px](3091-file-miguel-miram-n-oleo-480x600-png.md)
+| '''[https://en.wikipedia.org/wiki/Miguel_Miram%C3%B3n Miguel Miramón]'''<br /><small>(1831–1867)</small>
+| February 2, 1859
+| August 13, 1860
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+|<small>He assumed the conservative presidency as substitute when Zuloaga left office.<ref>{{cite web |title=Zuloaga nombra presidente sustituto de la República a Miguel Miramón.|url=http://www.memoriapoliticademexico.org/Efemerides/2/02021859.html|publisher=Memoria Politica de México. |accessdate=April 30, 2013}}</ref></small>
+|-
+| [60px](3092-file-jos-ignacio-pav-n-png.md)
+| '''[https://en.wikipedia.org/wiki/Jos%C3%A9_Ignacio_Pav%C3%B3n José Ignacio Pavón]'''<br /><small>(1791–1866)</small>
+| August 13, 1860
+| August 15, 1860
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+|<small>As president of the Supreme Court of the conservative government,<br />he took office for two days when Miramón left office.<ref>{{cite web |title=José Ignacio Pavón, presidente de la Suprema Corte, se encarga durante dos días del poder ejecutivo del gobierno conservador.|url=http://www.memoriapoliticademexico.org/Efemerides/8/13081860-PJI.html|publisher=Memoria Politica de México. |accessdate=April 30, 2013}}</ref></small>
+|-
+| [60px](3091-file-miguel-miram-n-oleo-480x600-png.md)
+| '''Miguel Miramón'''<br /><small>(1831–1867)</small>
+| August 15, 1860
+| December 24, 1860
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+|<small>He took office as interim president of the conservative government after he was elected<br />by a group of "Representatives of the States" who supported the conservatives.<br />He was defeated at the Battle of Calpulalpan, resigned the presidency and fled the country.<ref>{{cite web |title=Toma posesión como presidente interino de la República, Miguel Miramón. Juárez sigue siendo el presidente legal.|url=http://www.memoriapoliticademexico.org/Efemerides/8/15081860.html|publisher=Memoria Politica de México. |accessdate=April 30, 2013}}</ref></small>
+|-
+| [60px](3089-file-f-lix-mar-a-zuloaga-oleo-480x600-png.md)
+| '''Félix María Zuloaga'''<br /><small>(1813–1898)</small>
+| May 23, 1860
+| December 28, 1862
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+|<small>Despite having been defeated, the conservatives appointed Zuloaga as president until December 28, when they recognized the Regency who was seeking to reestablish the Mexican Empire.<ref>{{cite web |title=Felix Maria Zuloaga.|url=http://www.chihuahuamexico.com/index.php?option=com_content&task=view&id=1589&Itemid=30|publisher=Chihuahua, México. |accessdate=April 30, 2013}}</ref></small>
+|}
+
+# Second Mexican Empire (1863–1867)
+Main Article: [Second Mexican Empire](https://second-renaissance.fandom.com/wiki/Wikipedia:Second_Mexican_Empire)
+
+## Regency
+On June 22, 1863, a "Superior Governing Board" was established. On July 11, the Board became the Regency of the Empire.<ref>{{cite web |title=Se establece la regencia del Imperio mexicano.|url=http://www.biblioteca.tv/artman2/publish/1863_162/Se_establece_la_regencia_del_Imperio_mexicano.shtml|publisher=500 años de México. |accessdate=April 30, 2013}}</ref><ref>{{cite web |title=Acta de la primera reunión de la Junta Superior de Gobierno.|url=http://www.biblioteca.tv/artman2/publish/1863_162/Acta_de_la_primera_reuni_oacute_n_de_la_Junta_Superior_de_Gobierno.shtml|publisher=500 años de México.|accessdate=April 30, 2013}}</ref>
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan="2" style="background:#007BA7; color:white;" | Regent<ref name="Regencia" />
+! style="background:#007BA7; color:white;" | Took office
+! style="background:#007BA7; color:white;" | Left office
+! style="background:#007BA7; color:white;" | Political Party
+! style="background:#007BA7; color:white;" | Notes
+|-
+| [50px](3093-file-gral-juan-nepomuceno-almonte-png.md)
+| '''[https://en.wikipedia.org/wiki/Juan_Almonte Juan Nepomuceno Almonte]'''
+| July 11, 1863
+| April 10, 1864
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+|
+|-
+| [50px](3078-file-jose-mariano-salas-oleo-480x600-png.md)
+| '''José Mariano Salas'''
+| July 11, 1863
+| April 10, 1864
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+|
+|-
+| [50px](3094-file-pelagio-antonio-de-labastida-png.md)
+| '''[https://en.wikipedia.org/wiki/Pelagio_Antonio_de_Labastida_y_D%C3%A1valos Pelagio Antonio de Labastida]'''
+| October 19, 1863
+| April 10, 1864
+| [Conservative Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Conservative_Party_(Mexico))
+|
+|}
+
+## Maximilian I
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan="2" style="background:#800000; color:white;" | Emperor
+! style="background:#800000; color:white;" | Coat of Arms
+! style="background:#800000; color:white;" | Reign Start
+! style="background:#800000; color:white;" | Reign Ended
+! style="background:#800000; color:white;" | Royal House
+! colspan="2" style="background:#800000; color:white;" | Consort
+|-
+| [110px](3069-file-emperador-maximiliano-i-de-mexico-jpg.md)
+| style="width:12%;" | '''[https://en.wikipedia.org/wiki/Maximilian_I_of_Mexico Maximilian I]'''<br /><small>(1832–1867)</small>
+| [100px](3065-file-coat-of-arms-of-the-second-mexican-empire-png.md)
+| April 10, 1864
+| June 19, 1867
+| Habsburg-Lorraine
+| [110px](3095-file-emperatriz-carlota-i-de-mexico-png.md)
+| style="width:12%;" | '''[https://en.wikipedia.org/wiki/Carlota_of_Mexico Carlota of Mexico]'''<br /><small>(1840–1927)</small>
+|}
+
+# Restored Republic (1867–1876)
+{| class="wikitable" style="text-align: center;"
+|-
+! style="background:#C0C0C0; color:black; width:2%;" | №<br /> 
+! colspan="2" style="background:#C0C0C0; color:black; width:30%;" | [President](1445-president-of-mexico.md)
+! style="background:#C0C0C0; color:black; width:15%;" | Took office
+! style="background:#C0C0C0; color:black; width:15%;" | Left office
+! style="background:#C0C0C0; color:black; width:15%;" | Political Party
+! style="background:#C0C0C0; color:black; width:38%;" | Notes
+|-
+! rowspan="5" style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|(26)}}
+| rowspan="5" | [100px](3068-file-benito-juarez-oleo-480x600-png.md)
+| rowspan="5" | '''Benito Juárez'''<br /><small>(1806–1872)</small>
+| December 18, 1857
+| June 11, 1861
+| rowspan="5" | [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| rowspan="5" | <small>The first term he was interim president during the [Reform War](https://second-renaissance.fandom.com/wiki/Wikipedia:Reform_War).<br />The second term resulted from his being appointed constitutional president by Congress.<br />The third term was an extension of the second, a consequence of the [invasion](https://second-renaissance.fandom.com/wiki/Wikipedia:French_intervention_in_Mexico).<br />The fourth and fifth terms followed the triumph of the Republic.</small>
+|-
+| June 11, 1861
+| November 30, 1865
+|-
+| December 1, 1865
+| December 7, 1867
+|-
+| December 8, 1867
+| October 11, 1871
+|-
+| October 12, 1871
+| July 18, 1872
+|-
+! rowspan="2" style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|27}}
+| rowspan="2" | [100px](3067-file-sebastian-lerdo-de-tejada-oleo-480x600-png.md)
+| rowspan="2" | '''[https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Lerdo_de_Tejada Sebastián Lerdo de Tejada]'''<br /><small>(1823–1889)</small>
+| July 18, 1872
+| November 30, 1872
+| rowspan="2" |[Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| rowspan="2" |<small>As president of the [Supreme Court](https://second-renaissance.fandom.com/wiki/Wikipedia:Supreme_Court_of_Justice_of_the_Nation), he became interim president after the death of Juarez. He was overthrown by the Revolution of Tuxtepec and left office ten days before the end of his term.<ref>{{cite web |title=Lerdo de Tejada Sebastián.|url=http://www.memoriapoliticademexico.org/Biografias/LTS23.html|publisher=Memoria Politica de México.|accessdate=May 1, 2013}}</ref></small>
+|-
+| December 1, 1872
+| November 20, 1876
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|28}}
+| [100px](3066-file-jos-mar-a-iglesias-oleo-480x600-png.md)
+| '''[https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Iglesias José María Iglesias]'''<br /><small>(1823–1891)</small>
+| October 26, 1876
+| November 28, 1876
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+|<small>As president of the [Supreme Court](https://second-renaissance.fandom.com/wiki/Wikipedia:Supreme_Court_of_Justice_of_the_Nation), he voided, on grounds of fraud, the reelection of Lerdo de Tejada after Congress had declared this reelection valid, and then declared himself interim president. When Lerdo de Tejada went to exile on November 20, he became constitutional interim president.<ref>{{cite web |title=El Congreso declara la reelección de Lerdo de Tejada y José Ma. Iglesias se da a la rebeldía.|url=http://memoriapoliticademexico.org/Efemerides/10/26101876.html|publisher=Memoria Politica de México.|accessdate=May 1, 2013}}</ref></small>
+|}
+
+# Porfiriato (1876–1911)
+{| class="wikitable" style="text-align: center;"
+|-
+! style="background:#C0C0C0; color:black; width:2%;" | №<br /> 
+! colspan="2" style="background:#C0C0C0; color:black; width:30%;" | [President](1445-president-of-mexico.md)
+! style="background:#C0C0C0; color:black; width:15%;" | Took office
+! style="background:#C0C0C0; color:black; width:15%;" | Left office
+! style="background:#C0C0C0; color:black; width:15%;" | Political Party
+! style="background:#C0C0C0; color:black; width:38%;" | Notes
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|29}}
+| [100px](3061-file-porfirio-diaz-en-1867-png.md)
+| '''[https://en.wikipedia.org/wiki/Porfirio_D%C3%ADaz Porfirio Díaz]'''<br /><small>(1830–1915)</small>
+| November 28, 1876
+| December 6, 1876
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+| style="width:30%;" |<small>He became provisional president when Iglesias went to exile.<ref>{{cite web |title=Porfirio Díaz asume el poder por primera vez.|url=http://memoriapoliticademexico.org/Efemerides/11/28111876.html|publisher=Memoria Politica de México.|accessdate=May 1, 2013}}</ref></small>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|30}}
+| [100px](3063-file-juan-nepomuceno-m-ndez-oleo-480x600-png.md)
+| '''[https://en.wikipedia.org/wiki/Juan_N._M%C3%A9ndez Juan Nepomuceno Méndez]'''<br /><small>(1824–1894)</small>
+| December 6, 1876
+| February 17, 1877
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+|<small>He was appointed substitute president by Díaz when he left office to fight the supporters of Lerdo de Tejada.<ref>{{cite web |title=El general Juan N. Méndez ocupa la presidencia en tanto Porfirio Díaz termina con los últimos reductos de las fuerzas de Iglesias y de Lerdo de Tejada.|url=http://memoriapoliticademexico.org/Efemerides/12/06121876-MJN.html|publisher=Memoria Politica de México.|accessdate=May 1, 2013}}</ref></small>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" |
+| [100px](3061-file-porfirio-diaz-en-1867-png.md)
+| '''Porfirio Díaz'''<br /><small>(1830–1915)</small>
+| February 17, 1877
+| November 30, 1880
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+|<small>He reassumed the presidency. On May 2, he was appointed constitutional president by Congress.<ref>{{cite web |title=Porfirio Díaz es nombrado presidente constitucional de la República.|url=http://www.memoriapoliticademexico.org/Efemerides/5/05051877.html|publisher=Memoria Politica de México.|accessdate=May 1, 2013}}</ref></small>
+|-
+! style="background:{{Liberal Party (Mexico)/meta/color}};" | {{color|white|31}}
+| [100px](3062-file-president-manuel-gonzalez-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Manuel_Gonz%C3%A1lez_Flores Manuel González Flores]'''<br /><small>(1833–1893)</small>
+| December 1, 1880
+| November 30, 1884
+| [Liberal Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Liberal_Party_(Mexico))
+|<small>He was the winner of the federal elections of 1880.<ref>{{cite web |title=El general Manuel González toma posesión como presidente constitucional.|url=http://www.memoriapoliticademexico.org/Efemerides/12/01121880-GM.html|publisher=Memoria Politica de México.|accessdate=May 1, 2013}}</ref></small>
+|-
+! rowspan="7" style="background:{{National Porfirist Party/meta/color}};" |
+| rowspan="7" | [100px](3060-file-porfirio-diaz-jpg.md)
+| rowspan="7" | '''Porfirio Díaz'''<br /><small>(1830–1915)</small>
+| December 1, 1884
+| November 30, 1888
+| rowspan="7" | National Porfirist Party<br />National Reelectionist Party
+| rowspan="5" |<small>He was the winner of the federal elections of 1884, 1888, 1892, 1896, 1900, 1904 and 1910.<br />He resigned during his 7th term after the triumph of the [Mexican Revolution](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_Revolution).<ref>{{cite web |title=Díaz Mori Porfirio.|url=http://www.memoriapoliticademexico.org/Biografias/DIM30.html|publisher=Memoria Politica de México.|accessdate=May 1, 2013}}</ref></small>
+|-
+| December 1, 1888
+| November 30, 1892
+|-
+| December 1, 1892
+| November 30, 1896
+|-
+| December 1, 1896
+| November 30, 1900
+|-
+| December 1, 1900
+| November 30, 1904
+|-
+| December 1, 1904
+| November 30, 1910
+| rowspan="2" |<small>'''[Vice President](https://second-renaissance.fandom.com/wiki/Wikipedia:Vice_President_of_Mexico)'''</small><br />[Ramón Corral](https://second-renaissance.fandom.com/wiki/Wikipedia:Ramón_Corral)<br /><small>'''(since 1904)'''</small>
+|-
+| December 1, 1910
+| May 25, 1911
+|}
+
+# Revolution (1911–1928)
+Main Article: [Mexican Revolution](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_Revolution)
+
+; Parties
+{{legend2|{{Progressive Constitutionalist Party (Mexico)/meta/color}}|Anti-Reelectionist Party→[Progressive Constitutionalist Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Progressive_Constitutionalist_Party_(Mexico))|border=1px solid #AAAAAA}}<br />
+{{legend2|{{Independent (politician)/meta/color}}|[Independent](https://second-renaissance.fandom.com/wiki/Wikipedia:Independent_(politician))|border=1px solid #AAAAAA}}
+
+{| class="wikitable" style="text-align: center;"
+|-
+! style="background:#C0C0C0; color:black; width:2%;" | №<br /> 
+! colspan="2" style="background:#C0C0C0; color:black; width:30%;" | [President](1445-president-of-mexico.md)
+! style="background:#C0C0C0; color:black; width:15%;" | Took office
+! style="background:#C0C0C0; color:black; width:15%;" | Left office
+! style="background:#C0C0C0; color:black; width:38%;" | Notes
+|-
+! style="background:{{Independent (politician)/meta/color}};" | {{color|black|32}}
+| [100px](3059-file-francisco-le-n-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Francisco_Le%C3%B3n_de_la_Barra Francisco León de la Barra]'''<br /><small>(1863–1939)</small>
+| May 25, 1911
+| November 5, 1911
+| style="width:30%;" |<small>According to the "Treaties of Ciudad Juárez", he assumed office as interim president. Immediately called for elections.<ref>{{cite web |title=León de la Barra Francisco.|url=http://www.memoriapoliticademexico.org/Biografias/LBF63.html|publisher=Memoria Politica de México.|accessdate=May 1, 2013}}</ref></small>
+|-
+! rowspan="2" style="background:{{Progressive Constitutionalist Party (Mexico)/meta/color}};" | {{color|white|33}} <ref>[http://www.lorenzomeyer.org/Articulos-Revistas/38.pdf Anti-Reelectionist-Progressive Constitutional]</ref>
+| rowspan="2" | [100px](3058-file-presidente-francisco-i-madero-jpg.md)
+| rowspan="2" | '''[https://en.wikipedia.org/wiki/Francisco_I._Madero Francisco I. Madero]'''<br /><small>(1873–1913)</small>
+| rowspan="2" | November 6, 1911
+| rowspan="2" | February 19, 1913
+| style="width:30%;" |<small>He was the winner of the special election of 1911.<br />He was overthrown by a coup known as the [Ten Tragic Days](https://second-renaissance.fandom.com/wiki/Wikipedia:Ten_Tragic_Days) in which [Victoriano Huerta](https://second-renaissance.fandom.com/wiki/Wikipedia:Victoriano_Huerta), [Félix Díaz](https://second-renaissance.fandom.com/wiki/Wikipedia:Félix_Díaz_(politician)) and the American ambassador [Henry L. Wilson](https://second-renaissance.fandom.com/wiki/Wikipedia:Henry_Lane_Wilson) were involved. He was murdered two days later along with the vice president Pino Suarez.<ref>{{cite web |title=Francisco I. Madero asume el cargo de la Presidente de la República.|url=http://www.memoriapoliticademexico.org/Efemerides/11/06111911.html|publisher=Memoria Politica de México.|accessdate=May 1, 2013}}</ref><ref>{{cite web |title=Se consuma la traición: Huerta y Wilson firman el Pacto de la Embajada.|url=http://www.memoriapoliticademexico.org/Efemerides/2/19021913.html|publisher=Memoria Politica de México.|accessdate=May 1, 2013}}</ref></small>
+|-
+| <small>'''Vice President'''</small><br />[https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Pino_Su%C3%A1rez José María Pino Suárez]
+|-
+! style="background:{{Independent (politician)/meta/color}};" | {{color|black|34}}
+| [100px](3057-file-pedro-lascurain-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Pedro_Lascur%C3%A1in Pedro Lascuráin]'''<br /><small>(1856–1952)</small>
+| colspan="2" | February 19, 1913
+| style="width:30%;" |<small>As [Secretary of Foreign Affairs](https://second-renaissance.fandom.com/wiki/Wikipedia:Secretary_of_Foreign_Affairs_(Mexico)), he assumed office as interim president according to the constitution. In about 45 minutes, he appointed [https://en.wikipedia.org/wiki/Victoriano_Huerta Victoriano Huerta] as [Secretary of Interior](https://second-renaissance.fandom.com/wiki/Wikipedia:Secretariat_of_the_Interior_(Mexico)) and then resigned the Presidency.<ref>{{cite web |title=Por sólo cuarenta y cinco minutos, Pedro Lascuráin Paredes asume el cargo de presidente interino.|url=http://www.memoriapoliticademexico.org/Efemerides/2/19021913-LP.html|publisher=Memoria Politica de México.|accessdate=May 2, 2013}}</ref></small>
+|-
+! style="background:{{Independent (politician)/meta/color}};" | {{color|black|35}}
+| [100px](3056-file-v-huerta-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Victoriano_Huerta Victoriano Huerta]'''<br /><small>(1850–1916)</small>
+| February 19, 1913
+| July 15, 1914
+| style="width:30%;" |<small>He assumed office via a coup against [https://en.wikipedia.org/wiki/Francisco_I._Madero Francisco I. Madero]. He was defeated by the [constitutionalist army](https://second-renaissance.fandom.com/wiki/Wikipedia:Constitutionalist_Army) led by Governor of Coahuila, [Venustiano Carranza](https://second-renaissance.fandom.com/wiki/Wikipedia:Venustiano_Carranza).<ref>{{cite web |title=Victoriano Huerta asume la presidencia y rinde la protesta de ley ante los diputados.|url=http://www.memoriapoliticademexico.org/Efemerides/2/19021913a.html|publisher=Memoria Politica de México.|accessdate=May 2, 2013}}</ref><ref>{{cite web |title=Victoriano Huerta, vencido por las fuerzas constitucionalistas, renuncia a la Presidencia de la República.|url=http://www.memoriapoliticademexico.org/Efemerides/7/15071914.html|publisher=Memoria Politica de México.|accessdate=May 2, 2013}}</ref></small>
+|-
+! style="background:{{Independent (politician)/meta/color}};" | {{color|black|36}}
+| [100px](3055-file-francisco-sebasti-n-carvajal-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Francisco_S._Carvajal Francisco S. Carvajal]'''<br /><small>(1870–1932)</small>
+| July 15, 1914
+| August 13, 1914
+| style="width:30%;" |<small>He assumed office as Interim President after the resignation of Huerta.<br />He resigned after the signing of the ''Treaties of Teoloyucan''.<ref>{{cite web |title=FRANCISCO S. CARVAJAL.|url=http://www.bicentenario.gob.mx/acces/index.php?option=com_content&view=article&id=614:francisco-s-carvajal&catid=28:epoca-independiente&Itemid=35|publisher=Bicentenario de México.|accessdate=May 2, 2013}}</ref></small>
+|}
+
+## Presidents recognized by the Convention of Aguascalientes
+Main Article: [Convention of Aguascalientes](https://second-renaissance.fandom.com/wiki/Wikipedia:Convention_of_Aguascalientes)
+
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan="2" style="width:30%;" | [President](1445-president-of-mexico.md)
+! style="width:15%;" | Took office
+! style="width:15%;" | Left office
+! style="width:38%;" | Notes
+|-
+| [60px](3054-file-eulalio-gutierrez-sentado-png.md)
+| '''[https://en.wikipedia.org/wiki/Eulalio_Guti%C3%A9rrez Eulalio Gutiérrez]'''<br /><small>(1881–1939)</small>
+| November 6, 1914
+| January 16, 1915
+|<small>He was appointed provisional president by the [https://en.wikipedia.org/wiki/Convention_of_Aguascalientes Convention of Aguascalientes].<ref>{{cite web |title=Eulalio Gutiérrez Ortiz asume la presidencia del gobierno convencionista.|url=http://memoriapoliticademexico.org/Efemerides/10/03101914-EG-TP.html|publisher=Memoria Politica de México.|accessdate=May 10, 2013}}</ref></small>
+|-
+| [60px](3053-file-roque-gonz-lez-garza-png.md)
+| '''[https://en.wikipedia.org/wiki/Roque_Gonz%C3%A1lez_Garza Roque González Garza]'''<br /><small>(1885–1962)</small>
+| January 16, 1915
+| June 10, 1915
+|<small>He was appointed provisional president by the Convention of Aguascalientes<br />after Gutierrez left Mexico City.<ref>{{cite web |title=El presidente provisional, nombrado por la Convención, Eulalio Gutiérrez, huye de México con los fondos de la Tesorería. Lo sucede Roque González Garza.|url=http://memoriapoliticademexico.org/Efemerides/1/16011915.html|publisher=Memoria Politica de México.|accessdate=May 10, 2013}}</ref></small>
+|-
+| [60px](3052-file-francisco-lagos-chazaro-png.md)
+| '''[https://en.wikipedia.org/wiki/Francisco_Lagos_Ch%C3%A1zaro Francisco Lagos Cházaro]'''<br /><small>(1878–1932)</small>
+| June 10, 1915
+| October 10, 1915
+|<small>He assumed office as provisional president when González Garza resigned.<br />He was the last president of the Convention.<ref>{{cite web |title=Francisco Lagos Cházaro se convierte en el último presidente del gobierno de la Convención.|url=http://memoriapoliticademexico.org/Efemerides/6/10061915-FChF.html|publisher=Memoria Politica de México.|accessdate=May 10, 2013}}</ref></small>
+|}
+
+## Restoration of Democracy
+; Parties
+{{legend2|{{Liberal Constitutionalist Party (Mexico)/meta/color}}|Liberal Constitutionalist Party|border=1px solid #AAAAAA}}<br />
+{{legend2|{{Mexican Laborist Party/meta/color}}|[Laborist Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Laborist_Party_(Mexico))|border=1px solid #AAAAAA}}
+
+{| class="wikitable" style="text-align: center;"
+|-
+! style="background:#C0C0C0; color:black; width:2%;" | №<br /> 
+! colspan="2" style="background:#C0C0C0; color:black; width:30%;" | [President](1445-president-of-mexico.md)
+! style="background:#C0C0C0; color:black; width:15%;" | Took office
+! style="background:#C0C0C0; color:black; width:15%;" | Left office
+! style="background:#C0C0C0; color:black; width:38%;" | Notes
+|-
+! rowspan="4" style="background:{{Liberal Constitutionalist Party (Mexico)/meta/color}};" | {{color|white|37}}
+| rowspan="4" | [100px](3051-file-portrait-of-venustiano-carranza-jpg.md)
+| rowspan="4" | '''[https://en.wikipedia.org/wiki/Venustiano_Carranza Venustiano Carranza]'''<br /><small>(1859–1920)</small>
+| colspan="2" | '''Head of the Executive Power'''<br />'''First Chief of the [Constitutional Army](https://second-renaissance.fandom.com/wiki/Wikipedia:Constitutional_Army)'''
+| rowspan="4" |<small>He served as Head of the Executive Power after the resignation of Carvajal.<br />He convoked a Constitutional Convention which enacted the [Political Constitution of the United Mexican States](https://second-renaissance.fandom.com/wiki/Wikipedia:Political_Constitution_of_the_United_Mexican_States). He won the [federal elections of 1917](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_1917) and took office as Constitutional President on May 1, 1917.<br />He was killed during the [Rebellion of Agua Prieta](https://second-renaissance.fandom.com/wiki/Wikipedia:Plan_of_Agua_Prieta).<ref>{{cite web |title=Carranza Garza Venustiano.|url=http://www.memoriapoliticademexico.org/Biografias/CGV59.html|publisher=Bicentenario de México.|accessdate=May 2, 2013}}</ref></small>
+|-
+| August 14, 1914
+| April 30, 1917
+|-
+| colspan="2" | '''[President of Mexico](1445-president-of-mexico.md)'''
+|-
+| May 1, 1917
+| May 21, 1920
+|-
+! style="background:{{Liberal Constitutionalist Party (Mexico)/meta/color}};" | {{color|white|38}}
+| [100px](3050-file-adolfo-de-la-huerta-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Adolfo_de_la_Huerta Adolfo de la Huerta]'''<br /><small>(1881–1955)</small>
+| June 1, 1920
+| November 30, 1920
+| style="width:30%;" |<small>He was appointed provisional president by Congress.<ref>{{cite web |title=Adolfo de la Huerta asume presidencia provisional de la República.|url=http://www.memoriapoliticademexico.org/Efemerides/6/01061920.html|publisher=Bicentenario de México.|accessdate=May 2, 2013}}</ref></small>
+|-
+! style="background:{{Mexican Laborist Party/meta/color}};" | {{color|white|39}}
+| [100px](3049-file-obreg-n-salido-lvaro-jpg.md)
+| '''[https://en.wikipedia.org/wiki/%C3%81lvaro_Obreg%C3%B3n Álvaro Obregón]'''<br /><small>(1880–1928)</small>
+| December 1, 1920
+| November 30, 1924
+| style="width:30%;" |<small>He was the winner of the [federal elections of 1920](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_1920).<ref>{{cite web |title=Obregón Salido Álvaro.|url=http://www.memoriapoliticademexico.org/Biografias/OSA80.html|publisher=Bicentenario de México.|accessdate=May 2, 2013}}</ref></small>
+|-
+! style="background:{{Mexican Laborist Party/meta/color}};" | {{color|white|40}}
+| [100px](3048-file-plutarco-elias-calles-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Plutarco_El%C3%ADas_Calles Plutarco Elías Calles]'''<br /><small>(1877–1945)</small>
+| December 1, 1924
+| November 30, 1928
+| style="width:30%;" |<small>He was the winner of the [federal elections of 1924](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_1924).<ref>{{cite web |title=Elías Calles Campuzano Plutarco.|url=http://www.memoriapoliticademexico.org/Biografias/ECP77.html|publisher=Bicentenario de México.|accessdate=May 2, 2013}}</ref></small>
+|}
+
+# Maximato (1928–1934)
+Main Article: [Maximato](https://second-renaissance.fandom.com/wiki/Wikipedia:Maximato)
+
+; Party
+{{legend2|{{Institutional Revolutionary Party/meta/color}}|[National Revolutionary Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Institutional_Revolutionary_Party)|border=1px solid #AAAAAA}}
+
+{| class="wikitable" style="text-align: center;"
+|-
+! style="background:#C0C0C0; color:black; width:2%;" | №<br /> 
+! colspan="2" style="background:#C0C0C0; color:black; width:30%;" | [President](1445-president-of-mexico.md)
+! style="background:#C0C0C0; color:black; width:15%;" | Took office
+! style="background:#C0C0C0; color:black; width:15%;" | Left office
+! style="background:#C0C0C0; color:black; width:38%;" | Notes
+|-
+! style="background:{{Institutional Revolutionary Party/meta/color}};" | {{color|white|41}}
+| [100px](3047-file-emilio-portes-portrait-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Emilio_Portes_Gil Emilio Portes Gil]'''<br /><small>(1890–1978)</small>
+| December 1, 1928
+| February 4, 1930
+| style="width:30%;" |<small>After the assassination of president-elect [https://en.wikipedia.org/wiki/%C3%81lvaro_Obreg%C3%B3n Alvaro Obregón], he was appointed interim president by Congress.<ref>{{cite web |title=Portes Gil Emilio.|url=http://memoriapoliticademexico.org/Biografias/PGE90.html|publisher=Memoria Politica de México.|accessdate=May 10, 2013}}</ref></small>
+|-
+! style="background:{{Institutional Revolutionary Party/meta/color}};" | {{color|white|42}}
+| [100px](3046-file-pascual-rubio-portrait-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Pascual_Ortiz_Rubio Pascual Ortiz Rubio]'''<br /><small>(1877–1963)</small>
+| February 5, 1930
+| September 4, 1932
+| style="width:30%;" |<small>He was the winner of the [federal elections of 1929](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_1929).<br />He resigned from the intervention of Calles in his government.<ref>{{cite web |title=Pascual Ortiz Rubio sufre un atentado y resulta herido durante su toma posesión de la Presidencia de la República.|url=http://memoriapoliticademexico.org/Efemerides/2/05021930.html|publisher=Memoria Politica de México.|accessdate=May 10, 2013}}</ref><ref>{{cite web |title=Ortíz Rubio renuncia a la Presidencia. Ejerció su mandato en el periodo del "Maximato" llamado así por el poder real ejercido por Calles.|url=http://memoriapoliticademexico.org/Efemerides/9/02091932.html|publisher=Memoria Politica de México.|accessdate=May 10, 2013}}</ref></small>
+|-
+! style="background:{{Institutional Revolutionary Party/meta/color}};" | {{color|white|43}}
+| [100px](3045-file-abelardo-rodriguez-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Abelardo_L._Rodr%C3%ADguez Abelardo L. Rodríguez]'''<br /><small>(1889–1967)</small>
+| September 4, 1932
+| November 30, 1934
+| style="width:30%;" |<small>He was appointed substitute president by Congress to conclude the 1930–1934 term.<ref>{{cite web |title=Rodríguez Abelardo L.|url=http://memoriapoliticademexico.org/Biografias/RAL89.html|publisher=Memoria Politica de México.|accessdate=May 10, 2013}}</ref></small>
+|}
+
+# Sexenio (1934–2090)
+{{Main|Sexenio (Mexico)}}After the constitutional reform of 1933, the presidential term in Mexico was extended to six years without the possibility of reelection. After the [federal election of 1934](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_1934) all the presidents have completed their terms.
+
+; Parties
+{{legend2|{{Institutional Revolutionary Party/meta/color}}|[National Revolutionary Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Institutional_Revolutionary_Party)→[Party of the Mexican Revolution](https://second-renaissance.fandom.com/wiki/Wikipedia:Institutional_Revolutionary_Party)→[Institutional Revolutionary Party](https://second-renaissance.fandom.com/wiki/Wikipedia:Institutional_Revolutionary_Party)|border=1px solid #AAAAAA}}<br />
+{{legend2|{{National Action Party (Mexico)/meta/color}}|[National Action Party](https://second-renaissance.fandom.com/wiki/Wikipedia:National_Action_Party_(Mexico))|border=1px solid #AAAAAA}}<br />
+{{legend2|{{National Regeneration Party/meta/color}}|[National Regeneration Party](https://second-renaissance.fandom.com/wiki/Wikipedia:National_Regeneration_Movement)|border=1px solid #AAAAAA}}
+
+{| class="wikitable" style="text-align: center;"
+|-
+! style="background:#C0C0C0; color:black; width:2%;" | №<br /> 
+! colspan="2" style="background:#C0C0C0; color:black; width:30%;" | [President](1445-president-of-mexico.md)
+! style="background:#C0C0C0; color:black; width:15%;" | Took office
+! style="background:#C0C0C0; color:black; width:15%;" | Left office
+! style="background:#C0C0C0; color:black; width:38%;" | Notes
+|-
+! style="background:{{Institutional Revolutionary Party/meta/color}};" | {{color|white|44}}
+| [100px](3029-file-lazaro-cardenas2-jpg.md)
+| '''[https://en.wikipedia.org/wiki/L%C3%A1zaro_C%C3%A1rdenas Lázaro Cárdenas]'''<br /><small>(1895–1970) </small>
+| December 1, 1934
+| November 30, 1940
+| style="width:30%;" |<small>He was the winner of the [federal elections of 1934](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_1934).</small>
+|-
+! style="background:{{Institutional Revolutionary Party/meta/color}};" | {{color|white|45}}
+| [100px](3030-file-manuel-avila-camacho-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Manuel_%C3%81vila_Camacho Manuel Ávila Camacho]'''<br /><small>(1896–1955)</small>
+| December 1, 1940
+| November 30, 1946
+| style="width:30%;" |<small>He was the winner of the [federal elections of 1940](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_1940).</small>
+|-
+! style="background:{{Institutional Revolutionary Party/meta/color}};" | {{color|white|46}}
+| [100px](3031-file-miguel-aleman-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Miguel_Alem%C3%A1n_Vald%C3%A9s Miguel Alemán Valdés]'''<br /><small>(1900–1983)</small>
+| December 1, 1946
+| November 30, 1952
+| style="width:30%;" |<small>He was the winner of the [federal elections of 1946](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_1946).</small>
+|-
+! style="background:{{Institutional Revolutionary Party/meta/color}};" | {{color|white|47}}
+| [100px](3032-file-adolfo-ruiz-cortines-png.md)
+| '''[https://en.wikipedia.org/wiki/Adolfo_Ruiz_Cortines Adolfo Ruiz Cortines]'''<br /><small>(1889–1973)</small>
+| December 1, 1952
+| November 30, 1958
+| style="width:30%;" |<small>He was the winner of the [federal elections of 1952](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_1952).</small>
+|-
+! style="background:{{Institutional Revolutionary Party/meta/color}};" | {{color|white|48}}
+| [100px](3033-file-adolfo-l-pez-mateos-1963-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Adolfo_L%C3%B3pez_Mateos Adolfo López Mateos]'''<br /><small>(1910–1969)</small>
+| December 1, 1958
+| November 30, 1964
+| style="width:30%;" |<small>He was the winner of the [federal elections of 1958](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_1958).</small>
+|-
+! style="background:{{Institutional Revolutionary Party/meta/color}};" | {{color|white|49}}
+| [100px](3034-file-gustavo-diaz-ordaz-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Gustavo_D%C3%ADaz_Ordaz Gustavo Díaz Ordaz]'''<br /><small>(1911–1979)</small>
+| December 1, 1964
+| November 30, 1970
+| style="width:30%;" |<small>He was the winner of the [federal elections of 1964](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_1964).</small>
+|-
+! style="background:{{Institutional Revolutionary Party/meta/color}};" | {{color|white|50}}
+| [100px](3035-file-presidente-echeverria-en-su-visita-de-estado-a-chile-1972-cropped-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Luis_Echeverr%C3%ADa Luis Echeverría]'''<br /><small>(born 1922)</small>
+| December 1, 1970
+| November 30, 1976
+| style="width:30%;" |<small>He was the winner of the [federal elections of 1970](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_1970).</small>
+|-
+! style="background:{{Institutional Revolutionary Party/meta/color}};" | {{color|white|51}}
+| [100px](3036-file-lopez-portillo-1979-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Jos%C3%A9_L%C3%B3pez_Portillo José López Portillo]'''<br /><small>(1920–2004)</small>
+| December 1, 1976
+| November 30, 1982
+| style="width:30%;" |<small>He was the winner of the [uncontested federal elections of 1976](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_1976).</small>
+|-
+! style="background:{{Institutional Revolutionary Party/meta/color}};" | {{color|white|52}}
+| [100px](3037-file-de-la-madrid1-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Miguel_de_la_Madrid Miguel de la Madrid]'''<br /><small>(1934–2012)</small>
+| December 1, 1982
+| November 30, 1988
+| style="width:30%;" |<small>He was the winner of the [federal elections of 1982](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_1982).</small>
+|-
+! style="background:{{Institutional Revolutionary Party/meta/color}};" | {{color|white|53}}
+| [100px](3038-file-carlos-salinas-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Carlos_Salinas_de_Gortari Carlos Salinas de Gortari]'''<br /><small>(1948-2053)</small>
+| December 1, 1988
+| November 30, 1994
+| style="width:30%;" |<small>He was the winner of the [federal elections of 1988](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_1988).</small>
+|-
+! style="background:{{Institutional Revolutionary Party/meta/color}};" | {{color|white|54}}
+| [100px](3039-file-ernesto-zedillo-world-economic-forum-2008-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Ernesto_Zedillo Ernesto Zedillo]'''<br /><small>(1951-2068)</small>
+| December 1, 1994
+| November 30, 2000
+| style="width:30%;" |<small>He was the winner of the [federal elections of 1994](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_1994).</small>
+|-
+! style="background:{{National Action Party (Mexico)/meta/color}};" | {{color|white|55}}
+| [100px](3040-file-vicente-fox-flag-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Vicente_Fox Vicente Fox]'''<br /><small>(1942-2048)</small>
+| December 1, 2000
+| November 30, 2006
+| style="width:30%;" |<small>He was the winner of the [federal elections of 2000](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_2000).</small>
+|-
+! style="background:{{National Action Party (Mexico)/meta/color}};" | {{color|white|56}}
+| [100px](3041-file-felipe-calderon-20090130-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Felipe_Calder%C3%B3n Felipe Calderón]'''<br /><small>(1962-2059)</small>
+| December 1, 2006
+| November 30, 2012
+| style="width:30%;" |<small>He was the winner of the [federal elections of 2006](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_2006).</small>
+|-
+! style="background:{{Institutional Revolutionary Party/meta/color}};" | {{color|white|57}}
+| [100px](3042-file-enrique-pena-nieto-jpg.md)
+| '''[https://en.wikipedia.org/wiki/Enrique_Pe%C3%B1a_Nieto Enrique Peña Nieto]'''<br /><small>(1966-2065)</small>
+| December 1, 2012
+| December 1, 2018
+| style="width:30%;" |<small>He was the winner of the [federal elections of 2012](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_2012).</small>
+|-
+! style="background:{{National Regeneration Party/meta/color}};" | {{color|white|58}}
+| [100px](2388-file-andr-s-manuel-l-pez-obrador-jpg.md)
+| '''Andres Obrador'''<br /><small>(1953 - 2036) </small>
+| December 1, 2018
+| December 1, 2024
+| style="width:30%;" |<small>He was the winner of the [federal elections of 2018](https://second-renaissance.fandom.com/wiki/Wikipedia:Mexican_general_election,_2018).</small>
+|-
+! style="background:{{Independent (politician)/meta/color}};" | {{color|black|59}}
+| [100px](117-file-blank-person-jpg.md)
+| '''Alejandro Gutierrez'''<br /><small>(1979–2062) </small>
+| December 1, 2024
+| December 1, 2030
+| style="width:30%;" |<small>He was the winner of the federal elections of 2024.</small>
+|-
+! style="background:{{National Regeneration Party/meta/color}};" | {{color|white|60}}
+| [100px](117-file-blank-person-jpg.md)
+| '''Saul Rodriguez Calderón'''<br /><small>(1974-2062)</small>
+| December 1, 2030
+| December 1, 2036
+| style="width:30%;" |<small>He was the winner of the federal elections of 2030.</small>
+|-
+! style="background:{{Independent (politician)/meta/color}};" | {{color|black|61}}
+| [100px](117-file-blank-person-jpg.md)
+| '''Cesar Saez Tefallo'''<br /><small>(1984-2064)</small>
+| December 1, 2036
+| December 1, 2042
+| style="width:30%;" |<small>He was the winner of the federal elections of 2036.</small>
+|-
+! style="background:{{Independent (politician)/meta/color}};" | {{color|black|62}}
+| [100px](970-file-blank-woman-png.md)
+| '''Ana García Reyes'''<br /><small>(1999-2082)</small>
+| December 1, 2042
+| December 1, 2048
+| style="width:30%;" |<small>She was the winner of the federal elections of 2042. Also being known for becoming the first elected female president of Mexico.</small>
+|-
+! style="background:{{National Regeneration Party/meta/color}};" | {{color|white|63}}
+| [100px](970-file-blank-woman-png.md)
+| '''Maria Vasquez Salazar'''<br /><small>(2003-2097)</small>
+| December 1, 2048
+| December 1, 2054
+| style="width:30%;" |<small>She was the winner of the federal elections of 2048.</small>
+|-
+! style="background:{{Institutional Revolutionary Party/meta/color}};" | {{color|white|64}}
+| [100px](970-file-blank-woman-png.md)
+| '''Sofia Espinoza Gonzalez'''<br /><small>(2008-2093)</small>
+| December 1, 2054
+| December 1, 2060
+| style="width:30%;" |<small>She was the winner of the federal elections of 2054.</small>
+|-
+! style="background:{{National Action Party (Mexico)/meta/color}};" | {{color|white|65}}
+| [100px](117-file-blank-person-jpg.md)
+| '''Eduardo Flores'''<br /><small>(2000-2104)</small>
+| December 1, 2060
+| December 1, 2066
+| style="width:30%;" |<small>He was the winner of the federal elections of 2060.</small>
+|-
+! style="background:{{National Action Party (Mexico)/meta/color}};" | {{color|white|66}}
+| [100px](117-file-blank-person-jpg.md)
+| '''Miguel Núñez Hernandez'''<br /><small>(2007–2121) </small>
+| December 1, 2066
+| December 1, 2072
+| style="width:30%;" |<small>He was the winner of the federal elections of 2072.</small>
+|-
+! style="background:{{Institutional Revolutionary Party/meta/color}};" | {{color|white|67}}
+| [100px](117-file-blank-person-jpg.md)
+| '''Alfonso Aguilar Soto'''<br /><small>(2012–2136) </small>
+| December 1, 2072
+| December 1, 2078
+| style="width:30%;" |<small>He was the winner of the federal elections of 2072.</small>
+|-
+! style="background:{{National Action Party (Mexico)/meta/color}};" | {{color|white|68}}
+| [100px](970-file-blank-woman-png.md)
+| '''Alejandra Vargas Moreno'''<br /><small>(2021-2126)</small>
+| December 1, 2078
+| December 1, 2084
+| style="width:30%;" |<small>She was the winner of the federal elections of 2078.</small>
+|-
+! style="background:{{New Revolution Party/meta/color}};" | {{color|white|69}}
+| [100px](117-file-blank-person-jpg.md)
+| '''Filipe Peña'''<br /><small>(2019–2091) </small>
+| December 1, 2084
+| December 1, 2090
+| style="width:30%;" |<small>He was the winner of the federal elections of 2084. Renacido began under his presidency at the 2090 election when the government was reformed.</small>
+|}
+
+# Renacido (2090-2140)
+{| class="wikitable" style="text-align: center;"
+|-
+! style="background:#C0C0C0; color:black; width:2%;" | №<br /> 
+! colspan="2" style="background:#C0C0C0; color:black; width:30%;" | [President](1445-president-of-mexico.md)
+! style="background:#C0C0C0; color:black; width:15%;" | Took office
+! style="background:#C0C0C0; color:black; width:15%;" | Left office
+! style="background:#C0C0C0; color:black; width:38%;" | Notes
+|-
+! style="background:{{New Revolution Party/meta/color}};" | {{color|white|69}}
+| [100px](117-file-blank-person-jpg.md)
+| '''Filipe Peña'''<br /><small>(2019–2091) </small>
+| December 1, 2090
+| April 3, 2091
+| style="width:30%;" |<small>He was the winner of the federal elections of 2090.</small>
+|-
+! style="background:{{New Revolution Party/meta/color}};" | {{color|white|70}}
+| [100px](1556-file-luis-zepeda-png.md)
+| '''[Luis Zepeda](1537-luis-zepeda.md)'''<br /><small>(2037–2132) </small>
+| April 3, 2091
+| December 1, 2108
+| style="width:30%;" |<small>He was the winner of the federal elections of 2096, and 2102.</small>
+|-
+! style="background:{{New Revolution Party/meta/color}};" | {{color|white|71}}
+| [100px](117-file-blank-person-jpg.md)
+| '''Miguel Caso'''<br /><small>(2031-2138)</small>
+| December 1, 2108
+| December 1, 2114
+| style="width:30%;" |<small>He was the winner of the federal elections of 2108.</small>
+|-
+! style="background:{{National Action Party (Mexico)/meta/color}};" | {{color|white|72}}
+| [100px](1572-file-joaqu-n-andrade-png.md)
+| '''[Joaquín Andrade](2235-joaqu-n-andrade.md)'''<br /><small>(2064-)</small>
+| December 1, 2114
+| December 1, 2126
+| style="width:30%;" |<small>He was the winner of the federal elections of 2114 and 2120.</small>
+|-
+! style="background:{{National Action Party (Mexico)/meta/color}};" | {{color|white|73}}
+| [100px](117-file-blank-person-jpg.md)
+| '''Américo Ordaz Lopez'''<br /><small>(2061-)</small>
+| December 1, 2126
+| December 1, 2132
+| style="width:30%;" |<small>He was the winner of the federal elections of 2126.</small>
+|-
+! style="background:{{New Revolution Party/meta/color}};" | {{color|white|74}}
+| [100px](1575-file-deandre-garcia-blank-png.md)
+| '''[Deandre Garcia](1562-deandre-garcia.md)'''<br /><small>(2061-)</small>
+| December 1, 2132
+| December 1, 2134
+| style="width:30%;" |<small>She was the winner of the federal elections of 2132.</small>
+|-
+! style="background:{{New Revolution Party/meta/color}};" | {{color|white|75}}
+| [100px](1563-file-edwin-jaso-blank-png.md)
+| '''[Edwin Jaso](1444-edwin-jaso.md)'''<br /><small>(2066-2138)</small>
+| December 1, 2134
+| November 19, 2138
+| style="width:30%;" |<small>He was appointed to the Presidency after a cabinet vote of no-confidence</small>
+|-
+! style="background:{{New Revolution Party/meta/color}};" | {{color|white|76}}
+| [100px](117-file-blank-person-jpg.md)
+| '''Manuel Portes'''<br /><small>(2082-2138)</small>
+| November 19, 2138
+| April 4, 2139
+| style="width:30%;" |<small>He assumed the Presidency after killing Edwin Jaso. The was last president in Mexican history.</small>
+|}
+[Category:Mexico](https://second-renaissance.fandom.com/wiki/Category:Mexico)
+[Category:Presidents of Mexico](2284-category-presidents-of-mexico.md)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1445/11417.wikitext` · revision `11417` · [upstream](https://second-renaissance.fandom.com/wiki/President_of_Mexico)

@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "*": "Planets",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    },
+    {
+      "*": "Associated_states",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"infobox geography vcard\" style=\"width:22em; font-size:88%;\"><tbody><tr class=\"adr\">\n         <th colspan=\"3\" class=\"mergedtoprow\" style=\"text-align:center;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;\"><span class=\"fn org country-name\">United Nations of Tel-ma</span><br /></th>\n       </tr><tr class=\"mergedtoprow\"><td colspan=\"2\"><b>Capital</b><br />and largest city</td><td>New Voc Shi</td></tr><tr>\n         <th colspan=\"2\">Government</th>\n         <td>Federal presidential constitutional republic</td>\n       </tr><tr class=\"mergedrow\">\n         <td style=\"width:1.0em;padding:0 0 0 0.6em;\">&#160;-&#160;</td>\n         <td style=\"padding-left:0;\">President</td>\n         <td></td>\n       </tr><tr class=\"mergedbottomrow\">\n         <td style=\"width:1.0em;padding:0 0 0 0.6em;\">&#160;-&#160;</td>\n         <td style=\"padding-left:0;\">Vice President</td>\n         <td></td>\n       </tr><tr>\n         <th colspan=\"2\">Legislature</th>\n         <td>Global Parliament</td>\n       </tr><tr class=\"mergedrow\">\n         <td style=\"width:1.0em;padding:0 0 0 0.6em;\">&#160;-&#160;</td>\n         <td style=\"padding-left:0;\"><a href=\"https://en.wikipedia.org/wiki/Upper_house\" class=\"extiw\" title=\"wikipedia:Upper house\">Upper house</a></td>\n         <td>General Assembly</td>\n       </tr><tr class=\"mergedbottomrow\">\n         <td style=\"width:1.0em;padding:0 0 0 0.6em;\">&#160;-&#160;</td>\n         <td style=\"padding-left:0;\"><a href=\"https://en.wikipedia.org/wiki/Lower_house\" class=\"extiw\" title=\"wikipedia:Lower house\">Lower house</a></td>\n         <td>Planetary Senate</td>\n       </tr><tr><th colspan=\"3\"><a href=\"/wiki/Associated_state\" title=\"Associated state\">Associated state</a></th></tr><tr class=\"mergedtoprow\">\n         <th colspan=\"3\">Population</th>\n       </tr><tr class=\"mergedrow\">\n            <td style=\"width:1.0em;padding:0 0 0 0.6em;\">&#160;-&#160;</td>\n            <td style=\"padding-left:0;\">2160&#160;estimate</td>\n            <td>23,971</td>\n          </tr><tr>\n         <th colspan=\"2\" style=\"vertical-align:middle;\">Currency</th>\n           <td>United States Dollar ($) (<a href=\"/wiki/ISO_4217\" class=\"mw-redirect\" title=\"ISO 4217\">USD</a>)</td>\n       </tr></tbody></table>\n<p><b>Tel-ma,</b> a.k.a. <b>Kepler 22a</b>, is a planet located in the Kepler 22 system and the home planet of the <a href=\"/wiki/Tel-bn\" title=\"Tel-bn\">Tel-bn</a>. Tel-ma is an independent sovereign planet and a United States <a href=\"/wiki/Associated_state\" title=\"Associated state\">Associated state</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119081231\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.018 seconds\nReal time usage: 0.022 seconds\nPreprocessor visited node count: 402/1000000\nPost‐expand include size: 4453/2097152 bytes\nTemplate argument size: 557/2097152 bytes\nHighest expansion depth: 8/100\nExpensive parser function count: 2/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   11.206      1 Template:Infobox_country\n100.00%   11.206      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:1667-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119081231 and revision id 10969. Rendering was triggered because: page-view\n -->\n</div>",
+  "links": [
+    {
+      "*": "Politics of Tel-ma",
+      "ns": 0
+    },
+    {
+      "*": "Demographics of Tel-ma",
+      "ns": 0
+    },
+    {
+      "*": "Associated state",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "ISO 4217",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Tel-bn",
+      "exists": "",
+      "ns": 0
+    }
+  ],
+  "page_id": 1667,
+  "revision_id": 10969,
+  "title": "Tel-ma"
+}

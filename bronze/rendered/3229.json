@@ -1,0 +1,39 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><figure class=\"thumb mw-halign-right show-info-icon\" typeof=\"mw:File/Thumb\" style=\"width: 220px\"> \t<a href=\"https://static.wikia.nocookie.net/second-renaissance/images/9/9f/US_flag_60_stars.png/revision/latest?cb=20170818154844\" class=\"mw-file-description image\"><img alt=\"US flag 60 stars\" src=\"https://static.wikia.nocookie.net/second-renaissance/images/9/9f/US_flag_60_stars.png/revision/latest/scale-to-width-down/220?cb=20170818154844\" decoding=\"async\" loading=\"lazy\" width=\"220\" height=\"116\" class=\"thumbimage\" data-image-name=\"US flag 60 stars.png\" data-image-key=\"US_flag_60_stars.png\" data-relevant=\"1\" /></a> \t \t<figcaption class=\"thumbcaption\"> \t\t\t<a href=\"/wiki/File:US_flag_60_stars.png\" class=\"info-icon\"><svg><use xlink:href=\"#wds-icons-info-small\"></use></svg></a> \t</figcaption> </figure>\n<p>This is your user page. Please edit this page to tell the community about yourself!\n</p>\n<h2><span class=\"mw-headline\" id=\"My_favorite_pages\">My favorite pages</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a title=\"Sign in to edit\" class=\"mw-editsection-visualeditor\" data-tracking-label=\"log-in-edit-section\" data-action=\"edit-section\" href=\"https://auth.fandom.com/signin?redirect=https%3A%2F%2Fsecond-renaissance.fandom.com%2Fwiki%2FUser%3ADarthVad1856%3Fveaction%3Dedit%26section%3D1&amp;uselang=en&amp;metadata=article-registration-edit-article-section\" data-auth-modal=\"signin\" data-testid=\"log-in-edit-section\" aria-label=\"Sign in to edit\"><svg class=\"wds-icon wds-icon-tiny\" aria-hidden=\"true\" focusable=\"false\"><use xlink:href=\"#wds-icons-pencil-tiny\"></use></svg></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li>Add links to your favorite pages on the wiki here!</li>\n<li><a href=\"/wiki/United_States_of_America\" title=\"United States of America\">United States of America</a></li>\n<li><a href=\"/wiki/Russia\" title=\"Russia\">Russia</a></li>\n<li><a href=\"/wiki/United_Federation_of_China\" title=\"United Federation of China\">United Federation of China</a></li>\n<li><a href=\"/wiki/Federal_Republic_of_China\" title=\"Federal Republic of China\">Federal Republic of China</a></li>\n<li><a href=\"/wiki/Japan\" title=\"Japan\">Japan</a></li>\n<li><a href=\"/wiki/Korea\" title=\"Korea\">Korea</a></li></ul>\n<!-- \nNewPP limit report\nCached time: 20261119205939\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.009 seconds\nReal time usage: 0.012 seconds\nPreprocessor visited node count: 3/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:3229-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205939 and revision id 10113. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Federal Republic of China",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Japan",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Korea",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Russia",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "United Federation of China",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "United States of America",
+      "exists": "",
+      "ns": 0
+    }
+  ],
+  "page_id": 3229,
+  "revision_id": 10113,
+  "title": "User:DarthVad1856"
+}

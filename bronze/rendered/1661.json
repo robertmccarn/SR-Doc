@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "*": "Technology",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>\"Podcopter\" is a colloquial name used for various small, usually electric VTOL aircraft used for a variety of functions, including personal transport, medical evacuation, law enforcement, and as taxis. In short, they represent the closest technology has yet achieved to the so-called \"flying car\" ideal of the 20th century, although there are significant differences: podcopters do not require a physical pilot (they fly autonomously), and most are only large enough to seat two or three people along with their luggage. \n</p><p>The first podcopters were developed in the late 2010s, and were essentially scaled-up versions of the multi-rotored helicopter drones that had become ubiquitous by that point. By the early 2020s, a number of major cities had introduced \"drone taxi\" services, with the aircraft traveling along preprogrammed routes to transport paying passengers. Soon afterwards, this was expanded to include other uses, with police departments, hospitals, and even a number of private owners purchasing the vehicles, which had by now been termed \"podcopters.\"\n</p><p>Because podcopters are automated, they are much less prone to accidents than manned aircraft, even when flying in close formation. Most podcopters are powered by four or more electric rotors, which can swivel in multiple directions to allow for extreme agility. The podcopter, along with the <span class=\"new\" title=\"Car (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvQ2FyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">car</span>, remains a fixture of transportation in cities around the world in the 22nd century.\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119081346\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.004 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:1661-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119081346 and revision id 3982. Rendering was triggered because: page-view\n -->\n</div>",
+  "links": [
+    {
+      "*": "Car",
+      "ns": 0
+    }
+  ],
+  "page_id": 1661,
+  "revision_id": 3982,
+  "title": "Podcopters"
+}

@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "*": "United_States_political_party_color_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": "Democratic-Republican Party/meta/color"
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>#008000\n</p>\n<h2><span class=\"mw-headline\" id=\"Examples\">Examples</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<table class=\"wikitable\">\n<tbody><tr>\n<td style=\"background:white; color:#008000\"><b>This color on white</b>\n</td>\n<td style=\"background:#008000; color:white\"><b>White text on this color</b>\n</td></tr>\n<tr>\n<td style=\"background:black; color:#008000\"><b>This color on black</b>\n</td>\n<td style=\"background:#008000; color:black\"><b>Black text on this color</b>\n</td></tr></tbody></table>\n<h2><span class=\"mw-headline\" id=\"Use\">Use</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p><kbd>| style=\"background-color:{{ Democratic-Republican Party/meta/color }};\" |</kbd>\n</p>\n<h2><span class=\"mw-headline\" id=\"See_also\">See also</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li><span class=\"new\" title=\"Democratic-Republican Party (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvRGVtb2NyYXRpYy1SZXB1YmxpY2FuX1BhcnR5P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">Democratic-Republican Party </span></li>\n<li><span class=\"new\" title=\"Template:Party shading/Democratic-Republican (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6UGFydHlfc2hhZGluZy9EZW1vY3JhdGljLVJlcHVibGljYW4/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:Party shading/Democratic-Republican</span></li></ul>\n\n<!-- \nNewPP limit report\nCached time: 20261119205946\nCache expiry: 2592000\nReduced expiry: false\nComplications: [vary‐revision‐sha1]\nCPU time usage: 0.011 seconds\nReal time usage: 0.013 seconds\nPreprocessor visited node count: 161/1000000\nPost‐expand include size: 507/2097152 bytes\nTemplate argument size: 42/2097152 bytes\nHighest expansion depth: 5/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 33/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    4.126      1 -total\n 79.38%    3.275      2 Template:Political_party_color\n 19.51%    0.805      4 Template:Democratic-Republican_Party/meta/color\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:3317-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205946 and revision id 9436. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Democratic-Republican Party",
+      "ns": 0
+    },
+    {
+      "*": "Template:Party shading/Democratic-Republican",
+      "ns": 10
+    }
+  ],
+  "page_id": 3317,
+  "revision_id": 9436,
+  "title": "Template:Democratic-Republican Party/meta/color"
+}

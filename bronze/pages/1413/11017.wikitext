@@ -1,0 +1,49 @@
+{{Infobox Military Conflict
+|conflict= Second Chinese Civil War
+|partof= [[Climate Wars]]
+|image=
+|caption=
+|date= 2027-2048
+|place= China
+|causes=
+|territory=
+|result= Breakup of China
+|combatant1='''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;">{{{1|}}}</span>'''
+'''2105-2111'''
+
+'''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;">{{{1|}}}</span>'''
+
+[[File:Flag_of_the_People's_Republic_of_China.png|20px|border]] [[People's Republic of China]]<br>
+
+[[Shanghai]] 
+|combatant2='''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;">{{{1|}}}</span>'''
+
+'''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;">{{{1|}}}</span>'''
+[[File:Flag_of_Tibet.png|20px|border]] [[Tibet]] <br>
+[[File:East_Turkestan.png|20px|border]] [[East Turkestan]] <br>
+[[File:Manchuria_Flag.png|20px|border]] [[Manchuria]]<br>
+[[File:Flag_Hainan.png|20px|border]] [[Hainan]]<br>
+[[File:Flag_of_Macau.png|20px|border]] [[Macau]]<br>
+[[File:Hong_Kong_China Flag.png|20px|border]] [[Hong Kong]]<br>
+
+|commander1='''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;">{{{1|}}}</span>'''
+
+|commander2='''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;">{{{1|}}}</span>'''
+}}
+
+The '''Second Chinese Civil War''' was a war fought between the [https://en.wikipedia.org/wiki/Chinese_Communist_Party Chinese Communist Party] (CCP)-led government of the [[People's Republic of China]] and the Chinese separatist forces.
+
+Following the rise of sea level attributed to the loss of the Greenland Ice Sheet, over 100 million people were forced inland. The wealthy heart of Shanghai was spared thanks to one of the world's largest sea walls, but the millions of people who supported the city's rise to prosperity were left to settle in refugee camps. The loss of land to water and the displayed population put even greater strain on China's farmland, which was already suffering from a drought. The Communist regime went through great lengths to hide reports of mass starvation, and attempted to increase benefits to the working poor only to find the Yuan too weak, and tax revenue too atrophied to have any substantive effect. Tensions remained high, but it wasn't until the bursting of the Three-Gorges Dam that destroyed millions of acres of crops and houses along the Yangtze farm belt that the powder keg went off and China entered open rebellion. 
+
+== Background ==
+
+=== The Flood ===
+''See main article: [[The Flood]]''
+
+== Course of the War ==
+
+== Aftermath ==
+
+===<nowiki/>===
+[[Category:21st-century conflicts]]
+[[Category:China]]

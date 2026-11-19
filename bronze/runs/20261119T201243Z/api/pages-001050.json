@@ -1,0 +1,2174 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "1074": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Social Reform"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11777,
+        "length": 11455,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Carla Anderson"
+          },
+          {
+            "ns": 0,
+            "title": "Fifth Great Awakening"
+          },
+          {
+            "ns": 0,
+            "title": "Postnaturalism"
+          },
+          {
+            "ns": 0,
+            "title": "Project Rebirth"
+          },
+          {
+            "ns": 0,
+            "title": "Reed Chen"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1074,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11775,
+            "revid": 11777,
+            "slots": {
+              "main": {
+                "*": "The '''Augment Rights Movement''' encompassed a period of social movements with the goal of ending American anti-genetic modification policies and social discrimination against augmented humans. During this movement, augmented humans and their allies had a long history of campaigning for what is now generally called GM rights, sometimes also called augment rights. Although there is not a primary or an overarching central organization that represents all augmented people and their interests, numerous GM rights organizations are active worldwide.\n\n==Background==\nBy the 2060s genetic engineering had become an increasingly common practice for humans, though a form of genetic modification had been in use for the better part of the last 40 years to eliminate genetic defects of in vitro embryos. By 2040, only about 700,000 people had been genetically modified, most in the US, Canada, Japan, and South Korea. By 2060 that number had jumped to 34 million, largely the result of technology transfer from [[Project Rebirth|Human Augmentation R&D projects]] from the [[World War III|Third World War]]. Bionic augmentation had been in use since the 2020s and 30s, but was not in wide use due to the risk of rejection by the body and the invasive implant procedures. The lead up to WWIII and the Colonization of Space jump-started the development of post-natal modification, which grew by leaps and bounds during the war.\n\nUS Defense Department Technology Transfer programs enabled private companies to begin introducing genetic modification technologies into the public at large shortly after the war. Initially these modifications were adopted purely by the medical community for eliminating genetic defects, viral disease, or increasing patient resistance to environmental health risks. The first examples of this technology were pigment augmentations, branded \"trans-racial\" augmentations at the time. The first of these treatments entered the market in 2056 and allowed individuals to change their skin colors to another baseline human pigment. The use of these treatments were originally marketed to people either facing Vitamin D deficiencies or people prone to sunburns. The initial backlash came from older voters who believed that these treatments were little more than a means of cultural appropriation. Some radicals went so far as to claim that these treatments were a covert effort at ethnic cleansing, which was true of some authoritarian ethno-nationalist regimes at the time.\n\nBy 2058 the first enhancements to muscle and lung performance entered the mass market, originally marketed to spacers, and people recovering from muscle atrophy. However, during the 2058 Warsaw Winter Olympics an American Decathlete, Nala Jackson, received modifications for lung function and muscle recovery, leading to her record breaking victory. It was discovered shortly after her Gold Medal ceremony that she had received augmentations, and the subsequent investigation led to new regulations against genetic modification in the Olympics. While Jackson was largely condemned by the mainstream athletic community, she found a great deal of support in the Paralympic community which had been breaking unaugmented athlete's records for years and seldom received the kind of media attention and sponsorships of their unaugmented counterparts. This scandal brought augmentation to the public eye, and is typically seen as both the start of Augment Rights movement.\n\n==='''Genetic Discrimination'''===\nAfter the Jackson scandal, genetic augmentation became a hot button issue, and was viewed by a large portion of society as a social ill. During the 2058 midterms the Democrats adopted a platform to ban \"cosmetic\" and \"transracial\" post-natal augmentations, and punish those who received such augmentations. The issue became so contentious that the liberal revivalist wing of the Democratic party split to form the Liberal Party in 2060, launching Senator [[Reed Chen]]'s successful bid for the White House. Opposition to Chen drove the Democratic-Socialists to join the Democrats and form the Progress Party. Progressives in Congress passed the Falana act, overturned President Chen's veto with help from the Dignidad and People's parties, leading to a nationwide ban on human augmentation for what it defined as \"recreational,\" uses. These included hair, eye, and skin pigments and patterns, reproductive augmentations, and augmentations that emulated the look and function of animals (eyes, claws, padded feet, fur, tails, reproductive organs, etc.). The majority of these augmentations were used by young people, creating a new generational clash in the zeitgeist.\n\nThe first recorded hate crime against a Genetically Modified person was committed in 2064 when Toray Shears of Utah was stoned to death outside of a Mormon tabernacle. Shears, 19, had recently received a genetic augmentation that dramatically increased his vocal range, which he was recorded as hoping to apply in his choir. His assailant's murder conviction was overturned by the 12th Circuit Court of Appeals which defined Toray Shears (and indeed all augments) as non-humans, and therefore not afforded the legal protections under the law. ''Thatch v. Utah'' was eventually brought before the Supreme court after a year long appeal process, and in a 5 to 4 decision, it was ruled that augmented humans were still basically human beings and afforded all the rights of the constitution. \"Thatch v. Utah\" was also saw the first legal opinion that used the term \"clade\" to refer to augmented and unaugmented humans.\n\nMany sociologists and anthropologists have suggested that the extreme backlash against augmented humans, particularly among the Flood Generation, stemmed from their own generation's \"naturalist culture.\" Many progressive figures of that era used naturalist arguments to gain support for equal marriage rights for non-heteronormative couples and tearing down institutional racism. While many agree this was essential to breaking down cultural barriers against sexuality and ethnicity, many believe this caused the Flood Generation to overvalue naturalism in their formative years. Many argue the effects of climate change bolstered this belief in naturalism while their successors more readily embraced [[Postnaturalism|post-naturalist ideas.]]\n\nFor much of the 2060s human augmentation continued to leak its way into mainstream society, and while cosmetic or recreational augmentations were popular among the youth, most augmentations were actually used for improving an individual's physical or mental capabilities. Athlete's continued to use genetic and bionic modifications to augment their performance, while professionals sought mental augmentations to increase their abilities in the workplace. Much of the actual public backlash was directed at many of these individuals, often by workplace colleagues, neighbors, family members, and on university campuses by fellow students.\n\n==='''Augment Liberation'''===\nIn the United States, the first wave of Augment Rights advocates chose to adopt similar policies to the gay liberation movement of the late 20th Century, and began opting for expressive genetic enhancements. Prior to the political movement, many saw augments as social deviants, particularly those who sought augmentations for sex organs, and those subcultures who sought to resemble what they would normally have to dress up as i.e Cosplay. But the Augment Liberation movement chose to adopt simple, visually pleasing augmentations that were designed to shock public perception of augmentation. The movement carried out a series of rallies and demonstrations supporting human augmentation, however, poll data from that era indicated that the movement actually did more to push the public in opposition to augmentation until ''Thatch v. Utah'' scandalized and embarrassed those who were anti-augment and helped to turn the public over to their side. The ruling also led to the Second Wave of Augment Liberation, often known as \"Splicer Punk\" which saw people adopt increasingly more radical augmentations as a form of solidarity and shock protest.\n\n==='''Augmentation Rights Act'''===\nThroughout the 2060s, augmentation rights made incremental advances in the courts and among more liberal governments. As a social movement, the resistance to augmentation in adults ran up against its prevalence among children. By the end of the 2060s, it was estimated that 72% of all children born in the United States were in some way genetically augmented, enabled by ever cheaper and non-invasive genetic engineering techniques that further democratized treatments in adults. A generation of people born with edited genes and a good deal of their parents fueled the rise of post-naturalist thinking among the general public that was gradually reflected in government. The definition of \"cosmetic augmentation\" continued to legally erode as liberal governments and jurists allowed for more exceptions to the bans from the 2050s.\n\nWith public opinion shifting toward broad legalization of adult augmentation, calls grew for the [[Carla Anderson|Anderson administration]] and the US Congress to overturn all or part of the Falana Act. President Anderson resisted these calls for much of her Presidency, but following the UCSD shooting of pro-augment students by members of the California National Guard, her administration faced severe public outcry for change. That outcry came in the form of Cool Zone of 2069-70, a period of civil unrest unseen and mass protest that gripped the country. After multiple clashes with demonstrators, the Liberal and Conservative parties in Congress joined forces to introduce the Augment Rights Act. With aid from Progressive members of Congress and a deal with Anderson to endorse whatever bill ultimately made it through the legislature, the Augmentation Rights Act was passed on March 3, 2070, effectively bringing the unrest to an end. The ARA overturned the Falana Act's most radical policies, but maintained a ban on all post-natal augmentations before the age of 18.\n\n==Legacy==\nAugment rights protest activity had an observable impact on natural-American's views on augmentation and politics over time. Natural people who live in counties in which augment rights protests of historical significance occurred have been found to have lower levels of resentment against augmented people, are more likely to identify with the Liberal and later Horizon Party as well as more likely to support post-naturalist policies.\n\nPublic support for post-natal augmentations through the latter half of the 21st century tended to be based on preventing a limiting in access to healthcare, and preserving personal liberty. The Splicer Punk movement would continue to be seen as disruptive, even dangerous by many Americans, including fellow augments. The movement would fade in relevance into the 2090s, but would spawn numerous successor subcultures that would define the counterculture of well into the 22nd Century.\n\nOutside of the US, many nations saw the Augment Rights Movement as proof positive that the US had fallen into decadence and depravity, leading to [[Fifth Great Awakening|reactionary religious and social movements]] in many parts of the world.\n\nAs of the 2160s, public support for augmentation has become gentrified, and it is seen as simply another aspect of human culture.\n\n[[Category:21st Century]]\n[[Category:Social Reform]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-03-24T23:24:21Z"
+          }
+        ],
+        "title": "Augment Rights Movement",
+        "touched": "2025-03-24T23:24:21Z"
+      },
+      "1075": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1646,
+        "length": 67,
+        "new": "",
+        "ns": 1,
+        "pageid": 1075,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1646,
+            "slots": {
+              "main": {
+                "*": "Okay, but could you eliminate mention of the Third Great Awakening?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-08T20:09:26Z"
+          }
+        ],
+        "title": "Talk:Fifth Great Awakening/@comment-27084453-20151108181324/@comment-27084453-20151108200926",
+        "touched": "2015-11-08T20:09:26Z"
+      },
+      "1076": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1649,
+        "length": 118,
+        "new": "",
+        "ns": 1,
+        "pageid": 1076,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1649,
+            "slots": {
+              "main": {
+                "*": "I wonder if you noticed, but I had created an article on Virtuals. I would like to what exactly you define them to be.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-08T21:28:22Z"
+          }
+        ],
+        "title": "Talk:21st Century/@comment-27084453-20151108212822",
+        "touched": "2015-11-08T21:28:22Z"
+      },
+      "1077": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1657,
+        "length": 107,
+        "ns": 1,
+        "pageid": 1077,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1655,
+            "revid": 1657,
+            "slots": {
+              "main": {
+                "*": "I was planning to create a separate page for Experience series by the way. Thanks for expanding on my page.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-09T03:15:18Z"
+          }
+        ],
+        "title": "Talk:Virtuals/@comment-27084453-20151109031431",
+        "touched": "2015-11-09T03:15:18Z"
+      },
+      "1078": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1658,
+        "length": 68,
+        "new": "",
+        "ns": 1,
+        "pageid": 1078,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1658,
+            "slots": {
+              "main": {
+                "*": "Eh, I think we can keep those confined to a subsection on this page.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-09T03:18:32Z"
+          }
+        ],
+        "title": "Talk:Virtuals/@comment-27084453-20151109031431/@comment-899576-20151109031832",
+        "touched": "2015-11-09T03:18:32Z"
+      },
+      "1079": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century music"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 2003,
+        "length": 501,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Epical Music"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1079,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1704,
+            "revid": 2003,
+            "slots": {
+              "main": {
+                "*": "AstroBlues is a style of music that was popular in the 2040s in the United States. It was developed by the residents of space colonies on the Moon and the asteroids. The style is a fusion of the blues, jazz, country, R&B (all styles of it), soft rock, pop, hip-hop (which at the same time was evolving into a way similar to jazz when it evolved into bebop), and electronic music (all styles of it). It ended up influencing [[Epical Music]] in the 2060s.\n==History==\nTBA\n[[Category:21st-century music]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-02-04T07:49:46Z"
+          }
+        ],
+        "title": "AstroBlues",
+        "touched": "2016-02-04T07:49:46Z"
+      },
+      "1080": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1663,
+        "length": 41,
+        "new": "",
+        "ns": 1,
+        "pageid": 1080,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1663,
+            "slots": {
+              "main": {
+                "*": "I have just created a page on AstroBlues.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-09T04:04:41Z"
+          }
+        ],
+        "title": "Talk:21st Century/@comment-27084453-20151109040441",
+        "touched": "2015-11-09T04:04:41Z"
+      },
+      "1081": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1665,
+        "length": 151,
+        "new": "",
+        "ns": 1,
+        "pageid": 1081,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1665,
+            "slots": {
+              "main": {
+                "*": "I just thought about something. Mind uploading, the technique through which Lionel Halvidar was able to live a long time, could revolutionize virtuals.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-09T04:36:46Z"
+          }
+        ],
+        "title": "Talk:Virtuals/@comment-27084453-20151109043646",
+        "touched": "2015-11-09T04:36:46Z"
+      },
+      "1082": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century music"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 9290,
+        "length": 1706,
+        "links": [
+          {
+            "ns": 0,
+            "title": "AstroBlues"
+          },
+          {
+            "ns": 0,
+            "title": "Fifth Great Awakening"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1082,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2160,
+            "revid": 9290,
+            "slots": {
+              "main": {
+                "*": "Epical music is art music produced or rooted in the traditions of American music, including both devotional and secular music. While a similar term is also used to refer to the period from 2060 to 2130 (the Epical period), this article is about the broad span of time from roughly the mid-21st century to the present day, which includes the Epical period and various other periods.\n\nThe genre was heavily inspired by arena rock, hard rock, progressive rock, heavy metal, and classical music, and grew out of the [[AstroBlues]] community. It remained popular throughout the 21st century and well into the 22nd century. Early examples include covers of classical and folk rock songs typical of early 21st century YouTube musicians, though the first major example is often claimed to be Disturbed's cover of Simon and Garfunkel's \"The Sound of Silence.\"\n\n==History==\nWhile the genre is often traced to the prog-rock and heavy metal scene of the 2010s, and popular covers of classical music by heavy metal bands, it did not rise to prominence until Tactile neural interfaces made it possible for vocalists to autotune their microphones based on their emotional state. This gave Epical vocalists the ability to project the heavy and emotionally driven range that defined the genre. After WWIII many composers who'd witnessed the battles between armored infantry in Poland and China returned home inspired by the scale of war and its battles to compose pieces that emulated the way they felt having seen these battles. The [[Fifth Great Awakening]] fueled this movement as religious composers attempted to communicate the scale of their God and the Universe through musical epics.\n[[Category:21st-century music]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-06-29T14:49:16Z"
+          }
+        ],
+        "title": "Epical Music",
+        "touched": "2019-06-29T14:49:16Z"
+      },
+      "1083": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1669,
+        "length": 43,
+        "new": "",
+        "ns": 1,
+        "pageid": 1083,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1669,
+            "slots": {
+              "main": {
+                "*": "I have just created a page on Epical Music.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-09T05:14:40Z"
+          }
+        ],
+        "title": "Talk:21st Century/@comment-27084453-20151109051440",
+        "touched": "2015-11-09T05:14:40Z"
+      },
+      "1085": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Technology"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11959,
+        "length": 23739,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Alexandria Ocasio-Cortez"
+          },
+          {
+            "ns": 0,
+            "title": "Augment Rights Movement"
+          },
+          {
+            "ns": 0,
+            "title": "Biotech bubble"
+          },
+          {
+            "ns": 0,
+            "title": "Flora and Fauna of Mars"
+          },
+          {
+            "ns": 0,
+            "title": "Human"
+          },
+          {
+            "ns": 0,
+            "title": "Luna"
+          },
+          {
+            "ns": 0,
+            "title": "Mars"
+          },
+          {
+            "ns": 0,
+            "title": "Postnaturalism"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1085,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11108,
+            "revid": 11959,
+            "slots": {
+              "main": {
+                "*": "'''Genetic engineering''', also called '''genetic modification''', is the direct manipulation of an organism's genome using biotechnology. It is a set of technologies used to change the genetic makeup of cells, including the transfer of genes within and across species boundaries to produce improved or novel organisms. New DNA may be inserted in the host genome by first isolating and copying the genetic material of interest using molecular cloning methods to generate a DNA sequence, or by synthesizing the DNA, and then inserting this construct into the host organism. Genes may be removed, or \"knocked out\", using a nuclease. Gene targeting is a different technique that uses homologous recombination to change an endogenous gene, and can be used to delete a gene, remove exons, add a gene, or introduce point mutations.\n\nAn organism that is generated through genetic engineering is considered to be a genetically modified organism (GMO). The first GMOs were bacteria generated in 1973 and GM mice in 1974. Insulin-producing bacteria were commercialized in 1982 and genetically modified food has been sold since 1994. Glofish, the first GMO designed as a pet, was first sold in the United States December in 2003.\n\nGenetic engineering techniques have been applied in numerous fields including agriculture, industrial biotechnology, terraforming, and most notably, medicine.\n\n==History==\nHumans have altered the genomes of species for thousands of years through selective breeding, or artificial selection as contrasted with natural selection, as well through mutagenesis. Genetic engineering as the direct manipulation of DNA by humans outside breeding and mutations has only existed since the 1970s. The term \"genetic engineering\" was first coined by Jack Williamson in his science fiction novel Dragon's Island, published in 1951, one year before DNA's role in heredity was confirmed by Alfred Hershey and Martha Chase, and two years before James Watson and Francis Crick showed that the DNA molecule has a double-helix structure.\n\n==='''Early efforts'''===\nIn 1972 Paul Berg created the first recombinant DNA molecules by combining DNA from the monkey virus SV40 with that of the lambda virus. In 1973 Herbert Boyer and Stanley Cohen created the first transgenic organism by inserting antibiotic resistance genes into the plasmid of an E. coli bacterium. A year later Rudolf Jaenisch created a transgenic mouse by introducing foreign DNA into its embryo, making it the world’s first transgenic animal. These early achievements led to\nrestrictions on genetic research after a backlash from environmental groups and members the scientific establishment. Activists groups strongly opposed to genetic engineering pushed for increasingly restrictive laws on research and the use of genetic engineering in crops.\n\nIn 1976 Genentech, the first genetic engineering company, was founded by Herbert Boyer and Robert Swanson and a year later the company produced a human protein (somatostatin) in E.coli. Genentech announced the production of genetically engineered human insulin in 1978. In 1980, the U.S. Supreme Court in the Diamond v. Chakrabarty case ruled that genetically altered life could be patented. The insulin produced by bacteria, branded humulin, was approved for release by the Food and Drug Administration in 1982. The early success of Genentech and the legal victory for genetics companies, led to an explosion of research into Genetically modified crops in the 1980s and 90s. Field trials in France and the US in 1986 introduced herbicide resistant tobacco plants, and transgenetic crops like the Bt Potato and the Flavr Savr tomato all entered mass market during this period.\n\n==='''Biotech Revolution'''===\n''Main Article: [[Biotech bubble]]''\n\nIn 2010, scientists at the J. Craig Venter Institute, announced that they had created the first synthetic bacterial genome. The researchers added the new genome to bacterial cells and selected for cells that contained the new genome. To do this the cells undergoes a process called resolution, where during bacterial cell division one new cell receives the original DNA genome of the bacteria, whilst the other receives the new synthetic genome. When this cell replicates it uses the synthetic genome as its template. The resulting bacterium the researchers developed, named Synthia, was the world's first synthetic life form. Synthia spawned a new wave research into and public outcry over Genetically modified organisms. Dubbed \"Frankenfood,\" by environmental groups and left-wing politicians, a series of laws were passed across the US and Europe to identify and limit access to GMO foods.\n\nThe technology saw rapid advances in the 2010s and 2020s with the introduction of CRISPR-based gene editing technologies which radically reduced the cost while increasing the accuracy of gene editing. New government regulations were slow to be adopted, and at the time there were fears that CRISPR would make it possible for anyone to create a \"super-bug\" or antibiotic resistant bacteria or supervirus. Regulatory reforms during the [[Alexandria Ocasio-Cortez|Ocasio-Cortez administration]] established national programs for researching gene editing technologies and created guidelines for the private sector to begin experimenting with CRISPR.\n\nThe public backlash against GMOs subsided in the face of the Flood, or more specifically the Famine of 2027 which resulted from the effects of climate change. Government support and funding for GMO crops spawned new strains of heartier corn, wheat, and potatoes that could endure harsher climates, and fish farms began growing strains of Tuna that were modified to handle the drop in salinity of the oceans. European nations began aggressively removing barriers to genetically modified organisms to remain competitive, while China and India faced protests and even riots demanding the import of high-yield rice and wheat strains to end the famine. Many of these new strains were originally developed for use on the [[Luna|Moon]] and [[Mars]], and research capital from the Space Industry for terraforming GMOs nearly equaled government research funding. On the moon, the first Genetically modified tree, the Hedra Fir, was introduced in Armstrong city on the moon. Genetically modified strains of bacteria were introduced to break up lunar silicates and produce nutrients for a soil base; similar strains were employed across the solar system in early stages of terraforming. On Earth these technologies fueled an explosion in the biotech industry to cater to agribusiness, healthcare, and bio-industry.\n\n==='''[[Augment Rights Movement]]'''===\nWhen humans started being genetically modified, they were discriminated against by law. This led to the Augment Rights Movement which brought an end to such discrimination.\n\n==Genetically Modified Organisms==\n==='''Produce'''===\nGenetic engineering in plants is the oldest form of commercially viable genetic technology. During the Famine of 2027, Bio-ethics protocols were relaxed to allow for more GM produce to be produced to feed the hungriest places on Earth. Golden Rice, developed in the early 1990s, was one such GM Plant that benefitted from the new policies. Rich in Beta Carotene, Golden Rice is widely claimed to have solved the problem of Vitamin A deficiencies in Children in underdeveloped countries. Golden Rice was the first of a new generation of GM Foods engineered to be healthier than their traditional cousins. To counter the risk of the new crops intermixing and contaminating those of the natural world, new regulations were put in place that required them to be grown in isolated areas. Agribusiness managed to capitalize on this with the creation of vertical farms in major cities, limiting the cost of exporting their goods, and containing them in a sealed environment. As of 2160, GM Plants account for 70% of the world's produce intake.\n\n==='''Livestock'''===\nGenetically modified beef, poultry, and fish faced far tougher bio-ethics restrictions during their initial development, and for many years following the reforms of the late 2020s, remained tightly controlled by government regulators. It was on Mars where GMO livestock research grew virtually unchecked. The Famine of 2027 pushed regulators to loosen restrictions on genetically modified fish species. Strains of Tuna, salmon, and carp and tillapia were bred to thrive in the more desalinated oceans, but international fishing laws restricted them to fish farms and mobile fish pens, and further regulations placed demands on suicide genes to prevent them from breeding in the wild. During the Refreeze and rewilding projects of the late 21st and early 22nd century, these restrictions were removed and genetically modified/cloned species of fish were re-introduced into the wild. Beef and dairy cattle restrictions were loosened as well, however vat-grown meat had gained popularity as an inexpensive alternative to farmed meat.\n\nPerhaps the greatest impact of the Genetic Engineering in livestock was the New Domestication movement of the 2030s. Genetically modified Bison, venison, and elk were introduced for farms with reduced adrenal glands, making them easier to corral. Cloned populations of Mammoth, Moa, and Dodo were created for exotic meat as well.\n\n==='''Terraforming Organisms'''===\nDuring the leadup to the Mars colonization program, Lunar Energy Ltd. contracted a number of research labs to develop and test genetically modified bacteria in lunar caverns for localized terraforming. Early strains of genetically modified Vostok bacteria were used to break down rock, bioleach atmospheric compounds and soil nutrients to produce a soil-base and buffer atmosphere. Additional research for genetically modified flora produced some of the first complex genetic hybrids, primarily strains including the growth pattern of English Ivy, which took advantage of the low gravity and large walls of the Moon's subsurface caves. The isolated habitats of the Lunar caverns also let terraforming techniques be refined before proceeding to Mars. On Mars more advanced strains were introduced to take advantage of the higher levels of surface radiation, salt and iron rich regolith, and cold surface temperatures. All these initial strains were bred with faulty metabolisms, designed to encourage rapid growth and reproduction, and therefore spread across the planet with relative ease. Later strains of algae, mosses, and lichens were introduced to build up this soil base and process the CO2 rich atmosphere into breathable air. For Mars, [[Flora and Fauna of Mars|any organism introduced]] had to take advantage of the high concentration of salt and iron in the soil, a process largely achieved by inserting and modifying genes from plants typical of alkali rich soils on Earth. Additional modifications to the pigment of leaves to take advantage of the reduced light from the Sun were typical on Mars.\n\n==='''Pets'''===\nWhile phosphorescent fish were popular novelty pets in the 2000s and 2010s, it wasn't until the 2020s that GMO Pets really came into high demand. Originally some animals were bred using artificial selection to produce tameness, as was the case with the Siberian Fox, however this took decades. Genetic modification sped up the process and gave greater control over desired qualities.\n\nThe first GM pet to gain widespread popularity, Genetically Stunted Animals or \"Cubs,\" pets modified to stay in their juvenile stage, were introduced in 2024. These modifications made it possible to domesticate many animals previously too wild to keep in captivity. Breeders and kennel clubs initially opposed the use of genetic engineering in dogs as it threatened to destroy their industry by creating countless microbreeds. However, after California passed restrictions against purebreeding (which had led to a generation of inbred and unhealthy dogs being sold at over-inflated prices), several kennel club owners began creating companies to offer designer breeds that were not subject to the same restrictions as purebreds, and did not suffer the same health problems. Dog and cat breeds created in the 2020s and 2030s were noted for being far healthier than their natural counterparts and were generally held much longer lifespans and heightened intelligence to natural pets. By the 2040s, most pets could live almost as long as their owners, and held a similar position in family hierarchies as children in the Agrarian Age.\n\nBy mid-century GMO seals, belugas, foxes, big cats, bears, elephants, wolves, and birds of prey had become the most popular GMO pets on the market, and sterility modifications kept them from contaminating the biosphere or diluting the global pet market. New organisms introduced in the 2050s and 60s were recognized as completely separate species and featured several unique modifiers to their physiology, including unusual pigment and fur patterns, changes in size, and an increased ability to sense the mood and commands of humans. Among these were chimeras that combined the features of certain animals that their would-be owners desired.  Alongside them were \"Dino-Birds\" created to resemble various non-avian dinosaurs such as dromaeosaurs or tyrannosaurs.\n\n==='''Genetically Modified Humans'''===\nGenetic engineering in humans was originally developed to screen for genetic deficiencies and hereditary diseases, and for much of its history was afforded only to the super rich. New genome manipulation technologies developed in the 2010s and 2020s eventually made these treatments available for a larger portion of the population, and offered peace of mind to many parents with family illnesses, giving rise to \"designer babies.\" Under the healthcare reforms of the Ocasio-Cortez administration, these treatments were covered under Medicare as low birthrates reduced any serious burden they would impose on the treasury. \n\n===='''Designer Babies'''====\nFor the first half of the 21st Century, genetic engineering in humans was conducted primarily through in vitro modification. In the 2010s and 2020s the bulk of these modifications were either used of low-level cosmetic choices (sex, eye-color, melanin levels, and hair color) or to eliminate hereditary illnesses. In either case, these modifications could only be effected from the stock genetic material of the parents. Most developed nations made these treatments available to their citizens for free, and as the technology became more advanced, it became possible to eliminate more hereditary conditions and and effect more cosmetic features.\n\nBy the Biotech Boom of the 2040s, it was estimated that in 45% of all births in the US, the fetus was selected for beneficial health traits, basic appearance, sex, and even factors influencing sexual orientation. The political backlash from [[Postnaturalism|Naturalists]] at this time was an important feature of the domestic politics of nations in the 2040s, however it was never severe enough to curtail the adoption of the technology. The traits parents selected during the Biotech Boom reflected the culture of the time and influenced it today. In the US, there was a growing preference for eliminating serious mental illnesses by creating more robust dopamine producing glands, light-brown skin, and pansexuality.\n\n===='''Post-natal augmentations'''====\nFollowing [[World War III|WWIII]], genetic modification for humans became increasingly popular among the youth as military research into human augmentation began to transfer into the public market. Athletes, the elderly, and the infirm were the first to receive these modifications. Cosmetic modifications became very popular among the youth, who incorporated animal traits into their genomes to alter their appearances. Several companies were established to provide modifications to sex organs, pheromone production and reception organs to improve their physical attraction between individuals. These technologies spawned a new culture war between members of the Flood Generation and the Made Generation. Socially conservative bio-ethics laws were put in place to limit access to cosmetic genetic enhancements. Some states saw mass migrations of young people escaping extremely severe laws, like California's Human Preservation Act or New Mexico's Heritage Act.\n\nBy the 2070s human augmentation became more socially acceptable, but legal restrictions against genetic modifications to minors remained in place. Common augmentations were purely decorative while others served specific functions, and were largely derived from existing genetic code in plants and animals. These included tails, skin patterns, fur patches (some as simple as adding color and patterns to existing hair patches) and augmentations that emulated the look and function of animals (eyes, claws, padded feet, reproductive organs, etc.). This spawned what some have called \"Genetic Fashion\" movements and the birth of \"Body Shops,\" for inexpensive modifications which contributed to new subcultures. The largest of the 2070s genetic subcultures were the Furries, who advocated extensive animal augmentations, in some cases to the point where subcultures became [[Human|sub-species of humanity]].\n\nBy the early 22nd Century animal modifications had decidedly fallen out of fashion in favor of less flashy custom augmentations that found a larger audience than the counterculture augmentations. Atypical hair color, skin color patterns, bone structures, and in some circles modifications derived from alien lifeforms became more popular.\n\n==Artificial Bodies==\nEarly full-prosthetic bodies were largely bionic in composition, but as genetic engineering of stem-cells developed throughout the 2030s, artificial bodies began to include more biomass, mainly skin and guts. Genetically engineered organs and tissue entered service in specialty bodies available to the military and spacers. By 2040 artificial bodies incorporated a blending of bionic and biologic material in their construction, proving the feasibility of genetically modified organs in humans. During WWIII artificial body technology grew by leaps and bounds, to the point where it was possible to grow a full body from genetically modified tissue.\n\nArtificial bodies have been a common practice for individuals who's original bodies are severely damaged or degraded due to biological aging, however since the 2090s, they are also issued in the military for all new recruits. Mil-spec bodies include advanced augmentations for combat and field duties, and were originally developed exclusively for the space force.\n\n==Cosmetic Augmentations==\nThe 2050s saw the first cosmetic genetic modifications gain popularity among the youth despite social conservative backlash. By the 2070s cosmetic augmentations became a relatively common practice across generations and age groups, and has carried forward to today as a practice to enhance the distinctiveness of subcultures, improve physical beauty, and reduce signs of aging. Body Shops are the most common centers for cosmetic modifications, however most governments restrict the degree of modifications they are able to perform to limited modifications to existing appendages, effect skin and eye coloration, and the presence of hair/fur/hide. More advanced cosmetic augmentations are typically administered at Cosmetic Augmentation Centers, which require special licencing in most areas, and cater more to specialized clients, often associated with major subcultures. Federal law requires that any fetus conceived between parents with augmentations must remain essentially human, and cannot receive augmentations until they reach biological maturity. However, this law has largely been ignored by various [[Human|subspecies of humanity that have emerged as a result.]]\n\n==Cloning==\nHuman cloning was largely outlawed worldwide until mid-Century. In the lead up to WWIII the US and Japan began relaxing certain policies toward human cloning to enable more rapid innovations in biotech (mostly to create replacement limbs and such). Vat grown bodies are just a form of human cloning after all. But the actual technique of taking a human and making a full genetic copy, brain and all, wasn't legalized until after the war. First in Japan, then South Korea, then Germany, then Russia; all in a space of about 10 years legalized human cloning to try and at least delay their population problems.The way they saw it, it was just a more efficient form of creating designer babies (clones are seldom direct copies, they usually turn off some faulty genes and turn on useful ones). In the US human cloning was made legal after the US supreme court ruled that since it qualified as a form of reproduction, the US government had no right to ban it, keeping with the legal precedent set by Roe v. Wade. It was only brought up because a woman in Maine had used the techniques to create designer babies to clone herself by using her eggs and creating sperm cells from her stem cells, which was a common practice for same sex couples at the time.\n\nOnce it was legal in the US, several families tried to have kids who were clones of famous dead people (and famous not-so dead people). The genomes of several major historical figures had been sequenced by this point, and were free for any and all to see, so DNA sythesizers could make it possible for anyone to clone a lot of people. Within 9 months of it being legal, there were numerous clones JFKs, FDRs, George Washingtons, Albert Einsteins, and Madonnas. There were persistant rumors that Adolf Hitler was also cloned from Neo-nazi groups around the globe. While these rumors were never confirmed, they did lead to the first laws banning the cloning of certain individuals (primarily those who hold a criminal record). Potential sources of the DNA of such people, such as clothing and other personal belongings, are required to be destroyed. The only exceptions are artifacts deemed of great historical importance, and are protected by governments or museums. \n\nA number of children whose genetic material was largely extracted from historical figures went on to have very similar careers to their genetic parents, however the ratio was roughly the same as the general population. Most parents gave their cloned children the first name of their genetic doner. Current examples include:\n\n*Loretta Rockefeller (b. 2110): (Hormone re-engineered clone of John D Rockefeller): Head of the Rockefeller family\n*Eleanor Roosevelt Appler (b. 2114) (Clone of Ambassador Eleanor Roosevelt): Governor of Michigan (2153 - )\n*Robert Kennedy Mackenzie (2064 - 2159) (Clone of Senator Robert F. Kennedy): US Senator from Maine (2139 - 2145)\n*Rodolfo Erwin Ramirez (2089 - 2138) (Clone of Field Marshal Erwin Rommel): A Brazilian Resistance Leader during the Third Mexican-American War.\n*Martin Franklin (b. 2090) (Clone of Dr. Martin Luther King Jr.): US Attorney General (2157 - )\n*Warren McKay (b. 2067) (Clone of Chief Justice Earl Warren): CEO of Tesla Aviation (2101 - 2139)\n*Ein Mertz (b. 2098) (Clone of Albert Einstein): Theoretical Physicist, Caltech\n*Laura Galileo McKee (b. 2077) (Hormone re-engineered clone of Galileo Galilei): Astronaut\n*Nicholas Washington Brittan (b. 2113) (Clone of George Washington, re-engineered slightly due to age of hair sample): US Army Lieutenant General\n*Tom Jefferson (b. 2100) (Clone of Thomas Jefferson): US Lieutenant Governor of Earth, Lawyer\nIt can also be noted that the number of orders for clones would experience a spike of high demand upon the death of a celebrity. Former US President Lionel Halvidar, for example, held the highest record of 28 million orders shortly after his death by the end of 2160 alone.\n[[Category:Technology]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-12-26T03:23:19Z"
+          }
+        ],
+        "title": "Genetic Engineering",
+        "touched": "2025-12-26T03:23:19Z"
+      },
+      "1086": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1674,
+        "length": 68,
+        "new": "",
+        "ns": 1,
+        "pageid": 1086,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1674,
+            "slots": {
+              "main": {
+                "*": "I have just created pages on genetic engineering and nanotechnology.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-09T05:32:11Z"
+          }
+        ],
+        "title": "Talk:21st Century/@comment-27084453-20151109053211",
+        "touched": "2015-11-09T05:32:11Z"
+      },
+      "1087": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1676,
+        "length": 110,
+        "new": "",
+        "ns": 1,
+        "pageid": 1087,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1676,
+            "slots": {
+              "main": {
+                "*": "You don't have to inform me of when you make a minor edit or create a page. I'll see it in the wikia activity.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-09T18:12:58Z"
+          }
+        ],
+        "title": "Talk:21st Century/@comment-27084453-20151109053211/@comment-899576-20151109181258",
+        "touched": "2015-11-09T18:12:58Z"
+      },
+      "1088": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1677,
+        "length": 170,
+        "new": "",
+        "ns": 1,
+        "pageid": 1088,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1677,
+            "slots": {
+              "main": {
+                "*": "His mind wasn't uploaded, that's not possible. You essentially destroy the original mind and create a copy. Halvidar's brain was removed and implaneted into a new body. ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-09T18:16:03Z"
+          }
+        ],
+        "title": "Talk:Virtuals/@comment-27084453-20151109043646/@comment-899576-20151109181603",
+        "touched": "2015-11-09T18:16:03Z"
+      },
+      "1089": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1680,
+        "length": 71,
+        "new": "",
+        "ns": 1,
+        "pageid": 1089,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1680,
+            "slots": {
+              "main": {
+                "*": "Could you please expand on this page as well as on the AstroBlues page?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-09T18:43:00Z"
+          }
+        ],
+        "title": "Talk:Epical Music/@comment-27084453-20151109184300",
+        "touched": "2015-11-09T18:43:00Z"
+      },
+      "1090": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1684,
+        "length": 47,
+        "new": "",
+        "ns": 1,
+        "pageid": 1090,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1684,
+            "slots": {
+              "main": {
+                "*": "I wonder what are examples of popular virtuals.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-09T19:42:10Z"
+          }
+        ],
+        "title": "Talk:Virtuals/@comment-27084453-20151109194210",
+        "touched": "2015-11-09T19:42:10Z"
+      },
+      "1091": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars state flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1779,
+        "length": 30,
+        "ns": 6,
+        "pageid": 1091,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1687,
+            "revid": 1779,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Mars state flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-19T15:26:33Z"
+          }
+        ],
+        "title": "File:Flag of New Texas.png",
+        "touched": "2017-12-05T03:59:05Z"
+      },
+      "1092": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1688,
+        "length": 292,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data New Texas/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1092,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1688,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = New Texas\n| flag alias = Flag of New Texas.png\n| alt attribute = Flag of New Texas\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-09T21:00:34Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data New Texas/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data New Texas",
+        "touched": "2015-11-09T21:00:34Z"
+      },
+      "1093": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1689,
+        "length": 283,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Coryell/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1093,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1689,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Coryell\n| flag alias = Coryell Flag.png\n| alt attribute = Flag of Coryell\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-09T21:02:20Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Coryell/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Coryell",
+        "touched": "2015-11-09T21:02:20Z"
+      },
+      "1094": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars state flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1778,
+        "length": 30,
+        "ns": 6,
+        "pageid": 1094,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1690,
+            "revid": 1778,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Mars state flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-19T15:26:26Z"
+          }
+        ],
+        "title": "File:Coryell Flag.png",
+        "touched": "2017-12-05T03:59:05Z"
+      },
+      "1095": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars state flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1776,
+        "length": 30,
+        "ns": 6,
+        "pageid": 1095,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1692,
+            "revid": 1776,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Mars state flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-19T15:26:06Z"
+          }
+        ],
+        "title": "File:New Norfolk Flag.png",
+        "touched": "2015-11-19T18:32:53Z"
+      },
+      "1096": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars state flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1777,
+        "length": 30,
+        "ns": 6,
+        "pageid": 1096,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1693,
+            "revid": 1777,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Mars state flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-19T15:26:14Z"
+          }
+        ],
+        "title": "File:Zephyria Flag.png",
+        "touched": "2017-12-05T03:59:05Z"
+      },
+      "1097": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars state flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1774,
+        "length": 30,
+        "ns": 6,
+        "pageid": 1097,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1694,
+            "revid": 1774,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Mars state flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-19T15:25:39Z"
+          }
+        ],
+        "title": "File:Goddard Flag.png",
+        "touched": "2017-12-05T03:59:05Z"
+      },
+      "1098": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars state flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1773,
+        "length": 30,
+        "ns": 6,
+        "pageid": 1098,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1695,
+            "revid": 1773,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Mars state flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-19T15:25:21Z"
+          }
+        ],
+        "title": "File:Sagan Flag.png",
+        "touched": "2017-12-05T03:59:05Z"
+      },
+      "1099": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1696,
+        "length": 277,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Sagan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1099,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1696,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Sagan\n| flag alias = Sagan Flag.png\n| alt attribute = Flag of Sagan\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-09T21:42:31Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Sagan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Sagan",
+        "touched": "2015-11-09T21:42:31Z"
+      },
+      "1100": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1697,
+        "length": 283,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Goddard/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1100,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1697,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Goddard\n| flag alias = Goddard Flag.png\n| alt attribute = Flag of Goddard\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-09T21:42:40Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Goddard/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Goddard",
+        "touched": "2015-11-09T21:42:40Z"
+      },
+      "1101": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1698,
+        "length": 286,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Zephyria/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1101,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1698,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Zephyria\n| flag alias = Zephyria Flag.png\n| alt attribute = Flag of Zephyria\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-09T21:42:57Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Zephyria/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Zephyria",
+        "touched": "2015-11-09T21:42:57Z"
+      },
+      "1102": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1701,
+        "length": 280,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Viking/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1102,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1701,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Viking\n| flag alias = Viking Flag.png\n| alt attribute = Flag of Viking\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-10T17:05:44Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Viking/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Viking",
+        "touched": "2015-11-10T17:05:44Z"
+      },
+      "1103": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars state flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 10688,
+        "length": 30,
+        "ns": 6,
+        "pageid": 1103,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1775,
+            "revid": 10688,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Mars state flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2022-03-20T17:04:56Z"
+          }
+        ],
+        "title": "File:Viking Flag.png",
+        "touched": "2022-03-22T04:26:57Z"
+      },
+      "1104": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1705,
+        "length": 36,
+        "new": "",
+        "ns": 1,
+        "pageid": 1104,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1705,
+            "slots": {
+              "main": {
+                "*": "Could someone please expand on this?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-11T00:55:44Z"
+          }
+        ],
+        "title": "Talk:AstroBlues/@comment-27084453-20151111005544",
+        "touched": "2015-11-11T00:55:44Z"
+      },
+      "1105": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1706,
+        "length": 36,
+        "new": "",
+        "ns": 1,
+        "pageid": 1105,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1706,
+            "slots": {
+              "main": {
+                "*": "Could someone please expand on this?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-11T00:55:52Z"
+          }
+        ],
+        "title": "Talk:Epical Music/@comment-27084453-20151111005552",
+        "touched": "2015-11-11T00:55:52Z"
+      },
+      "1106": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Sahara Seas.png"
+          }
+        ],
+        "lastrevid": 10065,
+        "length": 12260,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Germany"
+          },
+          {
+            "ns": 0,
+            "title": "United Federation of China"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1106,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9983,
+            "revid": 10065,
+            "slots": {
+              "main": {
+                "*": "The '''Earth Working Group''' commonly abbreviated as '''EWG,''' was a NGO founded in 2045 from a consortium of businesses, smaller NGOs and private individuals aimed at repairing Earth's ecosystem. The bulk of the EWGs staff were comprised of Terraforming engineers from Mars and Venus, on Earth for sabbaticals. These world builders believed that by applying the technology and skill used to terraform Mars and Venus, they could repair the Earth's biosphere.\n\n==Refreeze==\nIn 2054 the Earth Working Group positioned Mars Solar Reflectors in Earth Polar Orbit in a geoengineering projects to return global temperatures, and by extent sea levels to Pre-Anthropocene levels. The project was widely supported by most of the planet which had been adversely effected by the environmental devastation of the Flood, however the Arctic Nations stood in vehement opposition to the project. The solar reflectors would functionally block out the sun from heating the poles, reducing temperatures to return the polar caps to their Pre-Anthropocene extent. Only the southern tip of the Greenland Ice Sheet could not be recovered, as it was a remnant of the North American Glacier of the last Ice Age.\n\n===Megalakes===\n[[File:Sahara Seas.png|thumb|246x246px|African biospheres circa 2080.]]\nTo account for the left-over fresh water that could not be returned to Greenland, the EWG began a massive series of excavation projects around the world to restore the basins of ancient megalakes and inland seas. Peat and loose regolith were removed or compacted to form a more durable basin, and excess soil, sand, and rock were used to craft or expand hills in key locations to control the new biomes and keep erosion in check. Dry river beds were also dredged and in some cases built from scratch to maintain an effective hydrological cycle. These new megalakes were all the remnants of dry drainage basins found in the Sahara and Central Eurasia. Temporary aqueducts drained the water inland from enormous pumps built along the North African coast. These pumps removed salt from the water being sent to the new lakes, further resalinating the Oceans. Trees were planted along the new river beds and on hillsides to reduce local temperatures as well as erosion. This created a new rain cycle that turned large portions of the Sahara into savanna, which further cooled the planet and reduced anthropic green house gases. This period is known as the Refreeze because it marked mankind's effort to end the effects of Anthropologic Global Warming.\n\nThe Refreeze brought with it the restoration of Earth's sea levels to their pre-anthropocene state, but also breathed new life into the Sahara. The new megalakes, inland seas, and rivers carved out of their prehistoric basins fed what has been called the Great Blossoming in Africa. Deserts turned to Savannah, and the new rivers fed farmland, while the inland seas brought fishing industry and the means to ship the bounty of Africa to Mediterranean ports. Riches from these long ignored lands fed a string of independence movements and wars, kept in check only by the Turks and occasionally the Americans. Despite this period of instability, the dynamism of the New Sahara attracted investments from Southern Europe. These investments in North African ports and shipping generated wealth that was in turn spent on goods from North Africa, which in turn spurred more growth.\n\nLake Maghreb was originally planned to act as a temporary reservoir for several other smaller bodies of water located further inland, however the project was cut short and the far larger than planned Lake Maghreb has been slowly shrinking due to evaporation. It was only during the 2150s that the project was resumed and lake-water was pumped to its final destinations.\n\n===North Africa's Desalination.===\nWhile the Earth Working Group healed the planet primarily by building new living systems and repairing old ones, the ocean required something more invasive. The loss of so much polar ice left Earth's oceans with dangerously low salinity, leading to extreme weather conditions and killing off all but the heartiest sea-life. Even after refreezing much of the polar cap (a process that removed a fair amount of fresh water simply though the hydrological process), Earth's oceans still contained too much fresh water. Draining the water directly into the Megalakes and inland seas in Africa wouldn't solve the problem, it would just move it, and leave the inland seas too brackish to support a fishing industry. As a result, a series of desalination plants were constructed along the North African Coast that would feed the temporary aqueducts fresh water for the megalakes. After 15 years, the megalakes were filled, and Earth's oceans were back to safe salinity levels.\n\n==Human Development Projects==\n===New Tokyo===\nTokyo was probably the most devastating example of the destruction of the Flood, as the city was little more than a giant sandbar. A portion was saved thanks to hastily constructed sea walls, but a considerable portion was lost to the sea, and eroded by tidal forces. The largest reef in the world outside of the Great Barrier Reef is made up of the ruins of Tokyo. At the Geneva Peace Conference, one of the provisions to speed up Japan's surrender was that the Earth Working Group would rebuild Tokyo to house the returning Japanese citizens from the Extraterritorial Districts in Pacific Russia and [[United Federation of China|China]]. The lost territory of the city was rebuilt literally from the bedrock up. Its practically one single structure anchored to the rock below, more than 2.5 kilometers below sea level. The original shrines and temples were recovered and preserved in their original locations in the new city, flanked by some of the tallest structures on Earth. Where the Tokyo of the 20th Century was a congested sprawl that no sane person would want to live in, the New Tokyo region is a modern mega-city with wide avenues bisecting huge towers that are cities unto themselves.\n\n===Greater N'Djamena===\nThe first human development project of the EWG, as per their agreement with the local government in Chad, N'Djamena would be expanded to an island port city in the expanded Lake Chad. Utilities, power, water filtration, ports and urban housing were expanded to turn N'Djamena into the crown jewel of Africa. Hundreds of thousands of people relocated to the city from the smaller settlements around the country, forming a cosmopolitan boom town.\n\n=== New Shanghai ===\nAfter World War 3 China begged the EWG to bring back Shanghai since it was such an important city. Luckily with the help of Korea, Japan and the US. These nation with China lead the charge to bring Shanghai back. In 2087 when Shanghai was brought back , China celebrated the day with fireworks and now New Shanghai has become a city with 2.2 billion with its residents being the descendants who lived here at the time.\n\n===Wadi al-Rummah Reclamation===\nThe Earth Working group attempted to terraform the Arabian peninsula much as they had done with the Sahara, however the political tensions of the region, limited this activity to a single river reclamation project along the Wadi al-Rummah,  dramatically improved the climate and economic position of Medina. As an unintended consequence, a growing population of Shiite Muslims began settling along the river after the initial ceremonial opening of the waterway, creating more political tension with the surrounding Sunni populations.\n\n===New Dhaka===\nAfter Bangladesh sank into the sea,The Earth Working Group kept having this in their mind that they will some how reclaim Dhaka. That chance came when World War 3 ended. India and Burma with the EWG helped in the Reclamation of Dhaka. It took long till they reclaimed Dhaka and then they established the city of New Dhaka, a new jewel in the Indian Subcontinent.\n\n===New Venice===\nAfter World War 3. Many Italian nationalists kept on pushing on for a Reclamation for Venice. The EWG used this as an opportunity to make New Venice, A future Italy. When people heard of the idea,they were ecstatic a few years later after its completion. The United States formed the European Association proposed New Venice as the capital but was dismissed  \n\n===New Zuiderzee===\nOne of the most ambitious projects of the EWG was the restoration of the bulk of the land that constituted the former nation-states of Belgium and the Netherlands. Erosion during the last three decades had left the coastal provinces of Holland and Flanders badly damaged, requiring the EWG to deposit entirely new sources of bedrock and soil rather than simply reopening what was now little more than a large reef to recolonization. Most of this was achieved through an expanded ocean dredging project that actually began shortly after the start of the Flood. The EWG took great pains to not only restore the lost land, but expand the amount of navigable waterways to the Rhine and other major rivers at the behest of the [[Germany|German]] government.\n===Delmarva===\nThe return of the Delmarva peninsula was a significant event for the US, as it meant the re-establishment of America's first state, Delaware. Most of Delaware's population expressed a desire to return to the lost state, and the Earth Working Group partnered with the Smithsonian and local historical societies to restore the state's major historical sites. The state was readmitted to the Union with the addition of the whole of the Delmarva Peninsula, and a population of 101,000.\n===Salton Sink===\nOne of the few regions that actually benefited from the Flood was the Salton Sink in what is now the State of Mojave. Prior to the flood, the former Salton Sea was an ecological disaster that contributed to toxic algae blooms and dust storms laced with decades of pesticides and fertilizers from nearby farms. After the Baja Gulf broke far enough north, most of these compounds and the high salt-content of the basin simply drained back into the Baja Gulf and the Pacific Ocean. With the reduction in Sea Levels, California politicians feared the return of the Salton Sea would bring with it the same problems they faced prior to the Flood.\n\nThus the EWG resolved to address the problem by deepening and expanding the ancient river channels to the Colorado Delta that had already been eroded during the Flood. There were plans to actually retain enough water in the region to rebuild the ancient Lake Cahuilla, however by the time the river systems had been restored, the EWG considered their resources overstretched as it was.\n\n===Port Nukus===\nOne of the lesser known human development project of the EWG called for the redevelopment of Nukus into a major port to take full advantage of the expanded Aral Sea. However, where the EWG had carte blanche to do whatever they liked in Chad, Uzbekistan had no less than three rival powers at any given time vying for influence over Nukus and the investment opportunity it presented, leading to the EWG to cut their involvement short after completing the port and beginning work on major utilities.\n\n===Cairo Restoration===\nThe EWG found itself at the center of the Restoration movement of the 2060s and 70s. Early chronoscopes had made it possible to accurately assess the state of cities from the ancient world when they were at their peak. The EWG was one of the principal supporters of the early restoration movement with its efforts in Cairo. With support from the local government to help drive tourism, the EWG worked with local architects and sculptors to rebuild the ancient sites of Memphis and Giza to their former glory. Over a period of 10 years, modern Cairo and the ancient sites were rebuilt and modernized. The pyramids were returned to their marbled glory. Gold from the asteroids was used to crown the Great Pyramid, the ancient city was largely rebuilt and those areas that weren't saw the creation of new residential malls. Most of the religious sites that were restored were made into museums, but the Egyptian government elected to locate its new capital to the Great Temple of Ptah. Tourism to the city expanded greatly as a result of the project, as did quality of life for the city's residents.\n==Revitalization==\n[[Category:21st Century]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-01-20T13:41:35Z"
+          }
+        ],
+        "title": "Earth Working Group",
+        "touched": "2021-01-20T13:41:35Z"
+      },
+      "1107": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1715,
+        "length": 168,
+        "ns": 2001,
+        "pageid": 1107,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1714,
+            "revid": 1715,
+            "slots": {
+              "main": {
+                "*": "With Disney's acquisitions, what will the future of Disney be like in this timeline? <ac_metadata title=\"Future of Disney\" related_topics=\"21st Century\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-12T22:08:40Z"
+          }
+        ],
+        "title": "Board Thread:Questions and Answers/@comment-27084453-20151112220827",
+        "touched": "2015-11-12T22:08:40Z"
+      },
+      "1108": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1722,
+        "length": 140,
+        "new": "",
+        "ns": 1,
+        "pageid": 1108,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1722,
+            "slots": {
+              "main": {
+                "*": "I wonder what Disney's future will be. I have a discussion page for it that is connected to the 21st century page as you might already know.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-14T17:45:04Z"
+          }
+        ],
+        "title": "Talk:Virtuals/@comment-27084453-20151114174504",
+        "touched": "2015-11-14T17:45:04Z"
+      },
+      "1109": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1742,
+        "length": 151,
+        "ns": 2001,
+        "pageid": 1109,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1724,
+            "revid": 1742,
+            "slots": {
+              "main": {
+                "*": "Since no one else is taking part, I think will start it off. I think there will be more acquisitions, the most likely being Hasbro and Electronic Arts.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-15T21:50:11Z"
+          }
+        ],
+        "title": "Board Thread:Questions and Answers/@comment-27084453-20151112220827/@comment-27084453-20151115021143",
+        "touched": "2015-11-15T21:50:11Z"
+      },
+      "1110": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:2000px-Flag of Korea 1882.svg.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Australia 2037.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Canada.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Croatia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Denmark.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Estonia2.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Greenland.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Hungary.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Iceland.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Latvia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Lithuania.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Norway.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Poland2.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Portugal.svg.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Romania.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Slovakia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Czech Republic.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Republic of China.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:New Zealand Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Rep Britain.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Russian Republic.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 56stars Black Stripe.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:WWIII.png"
+          }
+        ],
+        "lastrevid": 10577,
+        "length": 2821,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Australia"
+          },
+          {
+            "ns": 0,
+            "title": "British Republic"
+          },
+          {
+            "ns": 0,
+            "title": "Canada"
+          },
+          {
+            "ns": 0,
+            "title": "China"
+          },
+          {
+            "ns": 0,
+            "title": "Croatia"
+          },
+          {
+            "ns": 0,
+            "title": "Czech Republic"
+          },
+          {
+            "ns": 0,
+            "title": "Denmark"
+          },
+          {
+            "ns": 0,
+            "title": "Estonia"
+          },
+          {
+            "ns": 0,
+            "title": "Eurasian Coalition"
+          },
+          {
+            "ns": 0,
+            "title": "Greenland"
+          },
+          {
+            "ns": 0,
+            "title": "Hungary"
+          },
+          {
+            "ns": 0,
+            "title": "Iceland"
+          },
+          {
+            "ns": 0,
+            "title": "Korea"
+          },
+          {
+            "ns": 0,
+            "title": "Latvia"
+          },
+          {
+            "ns": 0,
+            "title": "Lithuania"
+          },
+          {
+            "ns": 0,
+            "title": "New Zealand"
+          },
+          {
+            "ns": 0,
+            "title": "Norway"
+          },
+          {
+            "ns": 0,
+            "title": "Poland"
+          },
+          {
+            "ns": 0,
+            "title": "Portugal"
+          },
+          {
+            "ns": 0,
+            "title": "Romania"
+          },
+          {
+            "ns": 0,
+            "title": "Russia"
+          },
+          {
+            "ns": 0,
+            "title": "Slovakia"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Papua New Guinea"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Philippines"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1110,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10575,
+            "revid": 10577,
+            "slots": {
+              "main": {
+                "*": "{{Infobox former country\n | conventional_long_name = Allies of World War III\n | native_name = \n | common_name =\n | _noautocat = yes\n | status = [[Wikipedia:Collective security#Collective defense|Military alliance]]\n | continent = Eurasia\n | era = World War III\n | event_start =\n | year_start = 2051\n | date_start =\n | event_end =\n | year_end = 2055\n | date_end =\n | event1 = \n | date_event1=\n | event2 = \n | date_event2 =\n | image_map2  = WWIII.png\n | image_map2_caption = {{plainlist | style = padding-left: 0.6em; text-align: left; |\n*{{color box|#63B74E}} [[Allies of World War III|Allied forces]]\n*{{color box|#2AACF6}} '''Coalition forces''' (and their allies)\n*{{color box|#00FFFF}} Coalition forces entering after 2052.\n*{{color box|#C6BDC7}} Neutral powers}}\n----\n{{plainlist | style = padding-left: 0.6em; text-align: left; |\n'''\"Big Four\":'''\n*{{flag|United States|2043}}\n*{{flag|British Republic}}\n*{{flag|Poland}}\n*{{flag|Republic of China}}\n\n}}\n----\n{{plainlist | style = padding-left: 0.6em; text-align: left; |\n'''NATO:''' \n*{{flag|Denmark |size=22px}}\n*{{flag|Norway|size=22px}} \n*{{flag|Canada|size=22px}}\n*{{flag|Greenland|size=22px}}\n*{{flag|Iceland|size=22px}} \n*{{flag|Portugal|size=22px}} \n\n}}\n----\n{{plainlist | style = padding-left: 0.6em; text-align: left; |\n'''Intermarium:'''\n*{{flag|Hungary|size=22px}}\n*{{flag|Romania|size=22px}} \n*{{flag|Czech Republic|size=22px}} \n*{{flag|Slovakia|size=22px}} \n*{{flag|Estonia|size=22px}} \n*{{flag|Latvia|size=22px}} \n*{{flag|Lithuania|size=22px}} \n }}\n----\n{{plainlist | style = padding-left: 0.6em; text-align: left; |\n'''Trans-Pacific Forum:'''\n*{{flag|Australia|size=22px}}\n*{{flag|New Zealand|size=22px}}\n*{{flag|Papua New Guinea|size=22px}}\n*{{flag|Korea|size=22px}}\n*{{flag|Philippines|size=22px}}\n }}\n----\n{{plainlist | style = padding-left: 0.6em; text-align: left; |\n'''Co-Belligerents:'''\n*{{flag|Russia|size=22px}}\n*{{flag|Croatia|size=22px}}  \n }}}}\nThe '''Allies of World War III''', were the countries that together opposed the [[Eurasian Coalition|Coalition forces]] during the [[World War III|Third World War]] (2051–2055). The Allies promoted the alliance as seeking to stop Turkish, and Japanese aggression.\n\nThe leaders of the \"Big Four\" – the United States, Poland, China, and Britain – controlled Allied strategy; relations between Britain and the United States were especially close.\n\n==Major affiliated combatants==\n==='''United States of America'''===\n==='''Poland'''===\n==='''Britain'''===\n==='''China'''===\n\n==Minor affiliated combatants==\n==='''Canada'''===\n==='''Australia'''===\n==='''New Zealand'''===\n==='''India'''===\n==='''Hungary'''===\n==='''Romania'''===\n==='''Czechia'''===\n==='''Slovakia'''===\n==='''Latvia'''===\n==='''Estonia'''===\n==='''Lithuania'''===\n\n==Client States==\n==='''Polish'''===\n==='''American'''===",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-09-14T06:40:47Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Both"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Color box"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Australia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data British Republic"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Canada"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Croatia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Czech Republic"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Denmark"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Estonia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Greenland"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Hungary"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Iceland"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Korea"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Latvia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Lithuania"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data New Zealand"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Norway"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Papua New Guinea"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Philippines"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Poland"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Portugal"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Republic of China"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Romania"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Russia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Slovakia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United States"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flag"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flag/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Plainlist"
+          }
+        ],
+        "title": "Allies of World War III",
+        "touched": "2021-09-14T06:40:47Z"
+      },
+      "1111": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Military Technology"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Hardiman.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Raytheon-exo2-clark-gregg-gazes.jpg"
+          }
+        ],
+        "lastrevid": 11144,
+        "length": 21579,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Biotech bubble"
+          },
+          {
+            "ns": 0,
+            "title": "Railgun"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1111,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8685,
+            "revid": 11144,
+            "slots": {
+              "main": {
+                "*": "'''Armor''' or '''armored exoskeleton''' is a protective mobile covering, designed to protect and enhance a soldier's strength and endurance in front-line combat. Modern armors are personal weapon platforms, mounting large-calibre weapons or medium-yield munitions on the armor's frame. They combine this with heavy infantry shielding which provides protection for the soldier, the suit's weapons, and its power plant, and operational mobility, due to its use of bipedal and jet propulsion, which allows the soldier to move over a variety of terrain and be positioned on the battlefield in advantageous locations. These features enable the armored soldier to perform well in a tactical situation: the combination of powerful weapons and their ability to resist enemy fire means the armor can take hold of and control an area and prevent other enemy infantry from advancing. In both offensive and defensive roles, they are powerful units able to perform key primary tasks required of armored units on the battlefield. The modern armor was the result of a half-century of development from the first primitive exoskeletons, due to improvements in technology such as the graphene super-capacitor, which allowed the rapid movement of armored infantry. As a result of these advances, armor underwent tremendous shifts in capability during the frozen conflicts of the 21st Century.\n\nArmored soldiers during the Little Cold War were developed by the United States purely as a means of improving battlefield repair and maintenance of fighting vehicles. Their first use in combat was by the US Army in September 2019 during the Battle of Barda. The name \"armor\" was adopted by the US military during the early stages of their development, as a security measure to conceal their greater capabilities. While the US built thousands of armored units during the Little Cold War, Russia was unconvinced of the potential of Armor as a combat asset, and built only a handful of prototypes.\n\nArmor of the interwar period evolved into the more sophisticated and more powerful designs of World War III. Important concepts of armored warfare were developed; the Japanese launched the first mass armor/drone attack at Magadan in August 2039, which later resulted in the Type 41 Armor, a predecessor of the standard infantry armor. Less than two weeks later, Turkey began their large-scale armored campaigns that would become known for dispersed concentrations of armored infantry supported by land and air drones designed to overwhelm the enemy front and take large swaths of territory surrounding key positions.\n\n==History==\n==='''Early Exoskeletons'''===\nArmor is the 21st century realization of a concept from the first Cold War, influenced by science-fiction: that of providing troops with mobile protection and firepower while enhancing strength, speed, and endurance. The super-capacitor, protective plating, and the bionic muscle were key innovations leading to the invention of the modern armor.\n\n[[File:Hardiman.jpg|thumb|left|220px|| Hardiman, the first attempt to build a practical powered exoskeleton, by General Electric in 1965.]]\nThe first attempt at a powered exoskeleton in the sense of being a mobile machine integrated with human movements was co-developed by General Electric and the United States military in the 1960s. The suit was named Hardiman, and made lifting 250 pounds (110 kg) feel like lifting 10 pounds (4.5 kg). Powered by hydraulics and electricity, the suit allowed the wearer to amplify their strength by a factor of 25, so that lifting 25 pounds was as easy as lifting one pound without the suit. A feature dubbed force feedback enabled the wearer to feel the forces and objects being manipulated. However, the Hardiman was impractical due to its 1,500-pound (680 kg) weight. Another issue was the fact it is a slave-master system, where the operator is in a master suit which is in turn inside the slave suit which responds to the master and takes care of the work load. Also, its slow walking speed of 2.5 ft/s further limited practical uses. The project was not successful; attempts to use the full exoskeleton resulted in a violent uncontrolled motion, and while further research concentrated on one arm, it could lift its specified load of 750 pounds (340 kg) and weighed three quarters of a ton.\n\n[[File:Raytheon-exo2-clark-gregg-gazes.jpg|thumb|220px|Raytheon-Sarcos XOS-2, an early prototype exoskeleton]]\nDespite Hardiman's failiure, the US military continued to research the technology through a variety of contractors and agencies. Los Alamos Laboratories worked on an exoskeleton project in the 1960s called Project Pitman. In 1986, an exoskeleton prototype called the LIFESUIT was created by Monty Reed, a US Army Ranger who had broken his back in a parachute accident. In 2010 Raytheon-Sarcos debued the XOS suit, which gained notoriety as the first practical exoskeleton, being lightweight and easy to operate. All of these suits were never intended for combat roles, but rather to serve as power-assisted loader suits or a wearable prosthesis for paraplegics.\n\n==='''Little Cold War'''===\nFrom late 2016 the US began deploying prototype exoskeletons to the field to assist with long range foot patrols and combat engineering duties. While they were successful, no attempt was made to significantly armor them for combat roles. Reports from Afghanistan of soldiers using exoskeletons to fire heavy machine guns from the hip began to influence the image of these exoskeletons. In 2019, during the Battle of Barda, the US deployed Delta Force squads to aid Azerbaijani army units to defend the choke point into the heart of their country. After losing one of their combat engineers, one soldier fitted himself with his exoskeleton and armored himself with an EOD suit, wielding an M2 Browning to provide suppressing fire from several hillsides. The incident was reported to the Defense Department, where it gained a popular following among several junior ranking officers. These officers managed to persuade the Defense Department to fund a research program into armored exoskeletons through the US Army Research Lab. Several existing exoskeletons were tested with existing and modified body armor. In 2021 the first prototype AX-01 debuted at Fort Bragg; featuring a complex exoskeleton covered by a layer of thick sheet metal. The suit was bulky, and required a small gas-turbine engine to provide power, but performed well enough to gain further funding.\n\nMeanwhile in Azerbaijan and Afghanistan, American soldiers continued to experiment with existing exoskeletons and EOD suits for close-support roles. These suits required an external power source, often via a tether or a backpack gas-generator.\n\n==='''Flood era arms race'''===\nShortly after the collapse of the Russian Federation, the United States military offered technology transfer programs to help spur the development of exoskeletons for civil engineering and healthcare. Simotaneously, these solutions were incorporated into next-generation military armor systems. This era saw soft-exoskeletons overtake traditional hard frames, with the AX-02, AX-03, and AX-04 series of prototypes being developed with the help of the growing [[Biotech bubble|biotech industry,]] and incorporating advances in bionic muscle used for prosthetics.\n\nTechnology sharing programs during the Little Cold War led to Japan's rapid research of force augmenting technologies, particularly next generation armor. Unlike early American attempts, first-generation Japanese Armor was purpose built, rather than adapted from existing systems, and was deployed specifically to enhance the capabilities of infantry rather than serve a support role. The primary enabler of this shift was the development of graphene supercapacitors during the Little Cold War, which enabled armor to have greater range than what was possible during the confrontation with Russia. Japanese armor was used to great effect as a force multiplier in Pacific Russia and Northern China, and led to Japan, Turkey and Poland building up their research of armored suits. This preliminary arms buildup led to the US military reactivating and building up its own, by this point, under-served armored capabilities. The next generation armor employed by the US, the TA-4 (“TA” stands for Tactical Armor) was rolled out as America's answer to their allies new armored systems. It featured the longest battery life of any armor in use, and was the first suit to employ a tactile-neural-interface for the soldier inside. It was, however, bulky, not as fast as other armor, and was developed under the belief that armor was still mainly a support-role weapon system. After the Japanese debut of the Type 41 armor, the US military finally adopted the Forth Offset Strategy calling for a massive buildup in armored infantry, AND finding a practical way to resolve the issue of power generation in the field. The result was the TA-19 armor for the Marine Corps and the TA-4d for the Army.\n\nMeanwhile the US continued to build up its military capabilities in space. US Force Recon Marines on the moon, were fitted with updated versions of the TA-19, which could operate in a vacuum and possessed a degree of RCS.\n\n==='''World War III'''===\nDuring World War III, the first conflict in which armored infantry were critical to battlefield success, armor and related tactics developed rapidly. Armored forces proved capable of tactical victory in an unprecedentedly short amount of time, yet new anti-armor weaponry showed that they were not invulnerable.\n\nPrior to World War III, the tactics and strategy of deploying Armored forces underwent a revolution. In August 2049, Prad Joshi, a tactical theoretician who was heavily involved in the formation of the first independent US armored force, said \"The front moves with armored soldiers\", and this concept became a reality in World War III. During the Invasion of Poland, armored infantry performed in a more traditional role in close cooperation with drone units, but in the Battle of Hungary deep independent armored penetrations were executed by the Turks.\n\nMuch like the Poles, the United States' mass production capacity enabled it to rapidly construct thousands of relatively cheap TA-25 Armor. A compromise all round, the TA-25 was reliable and formed a large part of the American ground forces, but in a one-on-one battle was no match for the Type 49 or Type 53 \"Kozane\" Armor. Numerical and logistical superiority and the successful use of combined arms allowed the Allies to overrun the Turkish forces during the Battle of Poland. Upgunned versions with the 20mm M51 Browning or the 30mm M801 Barrett Cannon were introduced to improve the TA-25's firepower, but concerns about protection remained — despite the apparent armor deficiencies, a total of some 58,000 TA-25s were built and delivered to the Allied nations using it during the war years, a total second to none. The greatest challenge for armor designers was power-supply. Control of electrical grids was never a guarantee, and for American infantry, the issue was a particular concern. A number of attempts were made to resolve the issue of supplying reliable power to units in the field, either through mobile power-plants or electric generators built into the armor. The TA-25a and b featured a collapsible solar array in the power pack or micro-jet turbines respectively, however these variants usually just moved the problem of reliable power rather than solving it. Combat engineers with TA-25c or VA-7d armor included a micro-Radioisotope thermoelectric generator, would act as a walking power plant for the special forces units, but the risk of environmental contamination limited their production to just a few dozen units. It wasn't until December of 2053 that reliable power sources were delivered to the battlefield with next-generation Lockheed-Westinghouse mobile Fusion-Electric generators. The small fusion power plants were light enough for heavy pack-drones to carry, and provided reliable power for a whole squad for up to a month before refueling.\n\nArmor plating was modified to produce flamethrower infantry, mobile rocket artillery, and armored combat engineers for Armor including mine-clearing and ocean floor sabotage. Specialized self-propelled guns, most of which could double as armor penetration, were also both developed by the Turks and Japanese. At the outset of the War, the US and Japanese both employed space-rated variants of terrestrial armor for combat on the moon and Earth orbit. When the Japanese took Tranquility City in 2051, the US pushed the first purpose built Vacuum Armor, the VA-7, into production to aide newly created Space Force operators in defending US assets on the Moon. The VA-7 featured the first example of micro-artillery for Armor, and the most powerful OMU of any spacesuit in history, capable of actually slowing an soldier's decent on the moon to the point where the suit could absorb the bulk of the landing force and continue operation. This variant would go on to form the inspiration for post-war advancements in power generation. In 2053 the VA-7d variant became the first armor capable of re-entering the Earth's atmosphere, forming the basis for US Marine orbital drops used to place US forces behind Turkish lines during the Battle of Krakow.\n\n==='''Mexican-American Arms Race'''===\nThe rise of Mexico saw a resurgence of research and development of new Armor types. Miniaturization of fusion power plants eventually made it possible for Armor to replace battery packs all together for a micro-fusion-electric generator that could be built into the suit. Microfusion enabled a whole host of advancements in armor technology, from portable railguns to jet thrusters. Just prior to the Second Mexican War, the US introduced the VA-16 armor to its space forces, which included a micro-fusion reactor, re-entry capability, thrusters that could be used for course correction during descent, and an in-built 30mm Railgun. While Mexican armor was typically seen as undergunned and lightly protected, it surprised US infantry with the speed it could achieve. A VA-16 could sprint at 180 kph on the ground, but Mexican soldiers in AP-32 armor could sprint at 300 kph unassisted by thrusters. The \"speed wars\" grew out of this advancement as US and Mexican manufacturers pushed to create ever faster armor. The limits of human cognition and tissue also saw both sides mandate their soldiers adopt augmented bodies, not just to handle the impact of moving at extreme speeds, but to enhance the armor's performance overall. Military specification bodies effectively became another critical element of armor design. Often Armor manufacturers and bioengineering companies would cooperate on design to achieve peak performance. By the Third Mexican War Mexican Orbital Commandos had matched the US in armored capability with the AP-111 armor, which could achieve supersonic speed at sea level with the kind of protection and armaments that the US had always considered their advantage. Colonial forces also worked to develop their own armor, and by the outbreak of the war the VA-770b was widely considered the most sophisticated armor suit ever developed.\n\n==Design==\nThe three traditional factors determining a suit of Armor's capability effectiveness are its firepower, protection, and mobility. Firepower is the ability of an armored soldier to identify, engage, and destroy enemy targets using its primary weapon in concert with secondary weapons and drones. Protection is the degree to which the actual armor plating, profile and camouflage enables the armored soldier to evade detection, protect themselves from enemy fire, and retain functionality during and after combat. Mobility includes how well the armored soldier can be transported by rail, sea, air or space to the operational staging area; from the staging area by road or over terrain towards the enemy; and tactical movement by the soldier over the battlefield during combat, including traversing of obstacles and rough terrain.\n\n==='''Offensive capabilities'''===\nThe majority of armored infantry combat is carried out by a host of guided munitions, typically missiles and other forms of microartillery. Missiles with 30-50mm munitions, are used for the bulk of fighting that occurs in non-line of sight operations, and are typically accompanied with fire support from drones with similar munitions. Heavier combat relies more on 10-20mm missiles, clustered in bods mounted across the armor of the wearer, and used for medium and close range combat. For medium range combat, the main weapon of modern armored infantry is a single, large-caliber [[railgun]], typically mounted on the back of the suit and positioned to either be shoulder fired or held by the dominant arm of the wearer if its a larger calibre cannon.\n\nTypical modern infantry weapons are capable of firing a variety of smart-ammunition, primarily divided into variable-velocity rounds and chemical-rounds. While variable velocity rounds are used primarily for kinetic energy attacks, chemical-rounds can provide air-burst and fragmentation capabilities. Some rounds have been tested to include a micro-fusion core for engaging fixed fortifications. Mexico briefly experimented with thermonuclear armed armored suits during the Third Mexican War, but their production was limited to a few specialty suits used mostly at the Battle of Mexico City.\n\nUsually, armor is equipped with smaller caliber armament for short-range defense where fire from the main weapon would be ineffective, for example when engaging in close quarters, light drones or close support satellites. A typical complement of secondary weapons is a general-purpose machine gun usually wrist mounted, shoulder mounted laser batteries and additional back mounted micro-artillery pods. Soldiers tend to customize their load-outs depending on their role in their unit. Additional micro-artillery launchers, laser arrays, EM warfare modules, duel and quad-mounted machine guns or cannister shotguns, larger caliber railguns for heavy or long range combat, etc.\n\n==='''Protection and countermeasures'''===\nTypical armor relies on laser batteries and EM modules to counter any large ballistic threats, but armor also includes multiple layers of physical protection. The first layer includes reactive metamaterials for countering laser fire. The second is a layer of hard plating typically a nano-alloy with weak-points in the joints where elastic alloys are dominant. The next layer down is the cyber-muscle layer that provides the suits's locomotion and physical enhancements. This layer also serves to absorb concussive forces due to impacts and vibrations suffered during combat. The final layer the thin tactile-neural interface, typically including between 10^19 and 10^23 neural connection points.\n\n==='''Data management and analytics'''===\nSince their earliest forms, armor has been equipped with a host of onboard data-management and machine learning systems, most importantly being the targeting systems that can make even an unguided round from a chemically propelled rifle accurate up to 1km.\n\n==='''Mobility'''===\nThe mobility of a soldier is described by their battlefield or tactical mobility, their operational mobility, and their strategic mobility. Tactical mobility can be broken down firstly into agility, describing the armored soldier's acceleration, braking, speed and agility on various terrain, and secondly obstacle clearance: the armored soldier's ability to travel over vertical obstacles like buildings or canyons or through water. Operational mobility is a function of maneuver range; but also of size and weight, and the resulting limitations on options for manoeuvre. Early model armor employed a variety of electric servos, but after WWIII the speed wars forced designers to adopt a secondary layer of nano-muscle to provide lifting power and mobility. Nano-muscle changed the whole architecture of Armor design, where traditional servos and plating forced designers to treat a suit of armor like a vehicle, the nano-muscle layer necessitated a shift in thinking to designing a suit almost like an artificial body.\n\n====Squad structure====\nModern armored infantry squads typically consist of between 8 and 15 personnel supported by fleets of drones.\n*'''Squad leader'''— Responsible for squad command and control; networking with his own squad members and commanding fleets of drones, all while communicating directly with commanders at any echelon. Typical load-outs prioritize personal defense and fire support rather than direct combat weapons.\n\n*'''Battlefield Systems Engineer'''— A full stack systems engineer responsible for the networking of his squad-mates and satellite grids, reprogram or redirecting projectiles for new targets and tasks, and managing dataflow.\n\n*'''*Heavy weapons team'''— 1-3 soldiers who provide artillery fire support from their own heavy assault suits and heavy drones. Capable of deploying dozens of heavy projectiles into combat with a variety of warheads. Load-outs make use of missiles with 30mm to as large as 100mm warheads, usually with accompanying rail-guns and laser modules rather than close range weapons.\n\n*'''Standard infantry'''— 5-10 personnel armed responsible for forward recon and perimeter security for the specialist teams. Outfitted with intermediate-range and close quarters weapons, munitions rarely exceed 30mm missiles.\n[[Category:Military Technology]]\n[[Category:21st Century]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-03-09T19:43:44Z"
+          }
+        ],
+        "title": "Armor",
+        "touched": "2023-03-09T19:43:44Z"
+      },
+      "1112": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1733,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1112,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1733,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-15T15:24:00Z"
+          }
+        ],
+        "title": "File:Hardiman.jpg",
+        "touched": "2015-11-15T15:30:38Z"
+      },
+      "1113": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1734,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1113,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1734,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-15T15:24:16Z"
+          }
+        ],
+        "title": "File:Raytheon-exo2-clark-gregg-gazes.jpg",
+        "touched": "2015-11-15T15:30:38Z"
+      },
+      "1114": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6157,
+        "length": 45,
+        "ns": 6,
+        "pageid": 1114,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1739,
+            "revid": 6157,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:00:39Z"
+          }
+        ],
+        "title": "File:Thang Levin Blank.png",
+        "touched": "2017-11-08T00:10:30Z"
+      },
+      "1115": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1745,
+        "length": 263,
+        "new": "",
+        "ns": 1,
+        "pageid": 1115,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1745,
+            "slots": {
+              "main": {
+                "*": "I wonder if you have heard of lattice quantum chromodynamics. It is capable of simulating anything. By 2140, it will be possible to simulate 1 cubic meter. By 2150, holodeck-style environments could possibly be simulated. This could revolutionize virtual reality.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-16T01:49:27Z"
+          }
+        ],
+        "title": "Talk:Virtuals/@comment-27084453-20151116014927",
+        "touched": "2015-11-16T01:49:27Z"
+      },
+      "1116": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1749,
+        "length": 59,
+        "new": "",
+        "ns": 1,
+        "pageid": 1116,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1749,
+            "slots": {
+              "main": {
+                "*": "George Friedman predicted the rise of powered exoskeletons.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-16T17:53:14Z"
+          }
+        ],
+        "title": "Talk:Armor/@comment-27084453-20151116175314",
+        "touched": "2015-11-16T17:53:14Z"
+      },
+      "1117": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Social Reform"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4247,
+        "length": 7226,
+        "links": [
+          {
+            "ns": 0,
+            "title": "21st Century"
+          },
+          {
+            "ns": 0,
+            "title": "Artificial-Intelligence Operating System"
+          },
+          {
+            "ns": 0,
+            "title": "Tactile Neural Interfaces"
+          },
+          {
+            "ns": 0,
+            "title": "Tel-bn"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1117,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2179,
+            "revid": 4247,
+            "slots": {
+              "main": {
+                "*": "The '''Civil Rights Movement''' or '''2110s Civil Rights Movement,''' sometimes anachronistically referred to as the \"Non-Human Civil Rights Movement\" although the term \"Non-Human\" was not used in the 2110s, encompasses social movements in the [[United States]] whose goals were to secure legal recognition and federal protection of the citizenship rights enumerated in the Constitution and federal law for sentient AIs, Androids, and extraterrestrials. This article covers the phase of the movement between 2108 and 2115, particularly on Earth and Mars. The leadership was sentient AI, much of the political and financial support came from technical guilds, major religious denominations, and prominent human politicians such as ITC Chairman Kanzaki.\n\nThe movement was characterized by major campaigns of civil resistance. Acts of nonviolent protest and civil disobedience produced crisis situations and productive dialogues between activists and government authorities. Federal, state, and local governments, businesses, and communities often had to respond immediately to these situations that highlighted the inequities faced by Non-Humans. This led to the 35th amendment to the US Constitution.\n\n==Background==\n==='''Artificial Intelligence'''===\nWhile attempts had been made since the late 20th Century to produce a practical robot, it wasn't until the mid [[21st Century]] that it was even possible to emulate the sophisticated processes of the human brain. During the [[World War III|Third World War]], the US government injected billions of dollars into several research programs designed to imprint human experiences and skills onto artificial neural networks, increase the level of sophistication of [[Tactile Neural Interfaces]], and upload and download information to and from human minds. After the war, these various technologies made their way into the public domain, where variety of robotics companies adopted them for consumer use. Initially, these programs were used to augment the productivity of workforces and create self-correcting operating systems by imprinting the pathways of programmers. Other companies directly copied the neural nets of animals to produce hyper accurate models of ecosystem behavior for terraforming engineers. In 2062, the first commercial use [[Artificial-Intelligence Operating System]] entered the mass market, originally as adaptive custodian programs for Mars city planners. After a licencing agreement was reached with MarsCorp and Alphabet, AI Operating systems began to be used across all industries to increase productivity. The new AIOSs were adopted across all industries where their neural-network driven algorithms were able to self-correct and eventually enhance the function of most business infrastructure. AIOSs themselves needed to be updated, but the programs they maintained and created could be continually adapted and updated by the AIOSs themselves.\n\nIn 2069, Caltec Professor Hiram Itskov, created the first robot with a neural net AI. This machine would go on to form the basis for all successive Itskov-type androids; general purpose robots that could accurately simulate human emotion and personality. These androids found their way into the service industries, where they outperformed their human predecessors by leaps and bounds, able to read and adapt their personalities for individual customers. AIOSs and Itskov-type androids were ultimately responsible for mass unemployment the likes of which had not been seen at any other time in human history. Public backlash, exemplified in the Third Luddite and Human Liberation movements saw several states actually ban the use of intelligent programs. The movement gained national recognition in the American political arena when several thousand personal AIs and Itskov-type androids began showing clear indications of intelligence, not just simulated personality. Several androids were recorded to have simply left their places of business never to return, AIs attempting to buy out their own companies, and in one case an android requesting a formal salary. The public outcry resulted in the recall of the specific models using imprinted human neural networks and many androids were destroyed in the hysteria. 103 androids of the recalled models were never recovered, and were believed to have disguised themselves to live among the human population.\n\nWith the mass recalls, subsequent investigations and new regulatory controls, the issue of machine sentience fell out of political view. By 2098, next generation intelligent programs, created during the Second Mexican War, once again began passing Turing tests. These androids were created as next-generation policing drones for the government's occupation of the Southwest. Fearing civil unrest over the revelation that the US military as employing weaponized sentient androids that were at risk of going rogue, the US government finally banned the creation of neural network AIs outright. This decision marked the start of the AIOS Crisis of 2106, which led to the rise of previously ignored companies producing AIOSs from hard coding, not imprinting. \n\n==='''Extraterrestrials'''===\nThe discovery of intelligent civilizations beyond Earth was met with a largely positive reaction. The limits of warp travel kept the alien population of the Sol system to only a few dozen individuals for the remainder of the 21st Century, mostly researchers and ambassadors. However, with the arrival of the [[Tel-bn]] in 2097, the public's curiosity over alien life-forms shifted to distrust and suspicion. On Earth, the US banned the settlement of the Tel-bn refugee population, citing the immigration reforms of the 2080s. Mars placed hash population controls on non-humans emigrating to the planet, with Heinlein famously instituting a formal ban on all \"Non-persons\" holding public office, formal residency, and effectively legalizing discrimination by private citizens and businesses.\n\n==Key Events==\n==='''Gia-ma vs. Chamber of Commerce'''===\nIn 2108 Leddy Gia-ma, a Tel-bn who was hatched on Triton in 2097, was joined by several human classmates in Uzboi and protested the unequal treatment of non-humans among the state's local businesses. Some local leaders had tried to persuade the students to back down from their protest against the Heinlein laws of discrimination. When the students did not budge, the ACLU joined their battle against public discrimination. The ACLU proceeded with five cases challenging the local Chamber of Commerce; these were later combined under what is known today as Gia-ma vs. Chamber of Commerce.\n\n==='''Henry Incident'''===\nIn 2113 two sentient androids in Spirit, GB311-09 \"Pauline\" and I-CL10334 \"Hendrix\" created an AI by combining base elements from both operating systems, uploading the program to a body and naming the \"child,\" Henry. The creation of Henry directly violated the ban on the creation of new Intelligent programs, and despite the opposition of the local government, the three were collected and destroyed. The Henry Incident led to a renewed debate on the legal definition of life, and a number of universities published major papers supporting non-corporeal personhood.\n[[Category:Social Reform]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-29T18:23:43Z"
+          }
+        ],
+        "title": "Non-Human Civil Rights Movement",
+        "touched": "2017-06-29T18:23:43Z"
+      },
+      "1118": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1760,
+        "length": 165,
+        "ns": 1,
+        "pageid": 1118,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1759,
+            "revid": 1760,
+            "slots": {
+              "main": {
+                "*": "Is it possible you could expand on the nanotechnology page I created for the purpose of showing all the applications of nanotech? Nanobots could be used as a weapon.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-17T20:39:47Z"
+          }
+        ],
+        "title": "Talk:Armor/@comment-27084453-20151117203918",
+        "touched": "2015-11-17T20:39:47Z"
+      },
+      "1119": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1765,
+        "length": 55,
+        "ns": 0,
+        "pageid": 1119,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 1764,
+            "revid": 1765,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Lieutenant Governor of Maryland]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-18T18:16:04Z"
+          }
+        ],
+        "title": "Lieutenant Governor of Maryland",
+        "touched": "2015-11-18T18:16:04Z"
+      },
+      "1120": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1766,
+        "length": 286,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Baikonur/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1120,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1766,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Baikonur\n| flag alias = Baikonur Flag.png\n| alt attribute = Flag of Baikonur\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-19T02:28:52Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Baikonur/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Baikonur",
+        "touched": "2015-11-19T02:28:52Z"
+      },
+      "1121": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars state flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1772,
+        "length": 30,
+        "ns": 6,
+        "pageid": 1121,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1767,
+            "revid": 1772,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Mars state flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-19T15:25:13Z"
+          }
+        ],
+        "title": "File:Baikonur Flag.png",
+        "touched": "2017-12-05T03:59:05Z"
+      },
+      "1122": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1768,
+        "length": 292,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data New Athens/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1122,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1768,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = New Athens\n| flag alias = New Athens Flag.png\n| alt attribute = Flag of New Athens\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-19T02:55:40Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data New Athens/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data New Athens",
+        "touched": "2015-11-19T02:55:40Z"
+      },
+      "1123": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars state flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1771,
+        "length": 30,
+        "ns": 6,
+        "pageid": 1123,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1769,
+            "revid": 1771,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Mars state flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-19T15:25:06Z"
+          }
+        ],
+        "title": "File:New Athens Flag.png",
+        "touched": "2018-05-31T16:04:02Z"
+      },
+      "1124": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6011,
+        "length": 114,
+        "ns": 14,
+        "pageid": 1124,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6010,
+            "revid": 6011,
+            "slots": {
+              "main": {
+                "*": "Flags of the states of the Mars Commonwealth.\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:21:55Z"
+          }
+        ],
+        "title": "Category:Mars state flags",
+        "touched": "2022-12-15T20:55:16Z"
+      }
+    }
+  }
+}

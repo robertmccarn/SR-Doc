@@ -1,0 +1,2126 @@
+{{#ifeq:{{{nested|no}}}|no|<!-- then-show-doc-header-at-top-- 
+-->{{documentation subpage}}
+
+{{Convert to use Infobox}}
+
+{{TOC right}}
+
+{{Intricate template}}
+
+{{Hatnote|{{tl|Infobox geopolitical organisation}} and {{tl|Infobox micronation}} redirect here, so related geopolitical and micronation parameters and examples also included below.}}
+}}<!-- endifeq nested -->
+
+This Infobox template is used to generate an infobox for the righthand side of two specific types of article: on a country or territory, or on a geopolitical organisation. The syntax (format) of parameters and examples are detailed in the collapsed show/hide sections immediately below.
+
+== Syntax ==
+<div style="font-size:110%;"><!--
+
+-------------------- Country/territory use --------------------
+-->{{hidden begin |toggle=left |titlestyle=font-size:120%; |title=Country or territory}}<!--
+--
+See [[#Empty syntax]] below for an empty syntax (without second or third maps, ''symbol_type'', ''largest_settlement'', ''regional_languages'', ''ethnic_groups'', ''footnote_a'' etc parameters or France, UK or geopolitical-specific parameters).
+--><pre style="overflow:auto;">
+{{Infobox country
+|micronation =        <!--yes if a micronation-->
+|conventional_long_name = <!--Formal or official full name of the country in English-->
+|native_name =        <!--Country's name (usually full name) in its native language, hence in italics (double quotemarks)-->
+|common_name =        <!--Common name in English (used for wikilinks and to produce a default iso3166 code)-->
+|status =             <!--Status of country, especially useful for micronations-->
+|image_flag =         <!--e.g. Flag of country.svg-->
+|alt_flag =           <!--alt text for flag (text shown when pointer hovers over flag)-->
+|flag_border =        <!--set to no to disable border around the flag-->
+|flag_footnote =      <!--optional reference or footnote for the flag caption-->
+|image_flag2 =        <!--e.g. Second-flag of country.svg-->
+|alt_flag2 =          <!--alt text for second flag-->
+|flag2_border =       <!--set to no to disable border around the flag-->
+|image_coat =         <!--e.g. Coat of arms of country.svg-->
+|alt_coat =           <!--alt text for coat of arms-->
+|symbol_type =        <!--emblem, seal, etc (if not a coat of arms)-->
+|symbol_footnote =    <!--optional reference or footnote for the symbol caption-->
+|national_motto =     <!--in inverted commas and wikilinked if link exists-->
+|englishmotto =       <!--English language version of motto-->
+|national_anthem =    <!--in inverted commas and wikilinked if link exists-->
+|royal_anthem =       <!--in inverted commas and wikilinked if link exists-->
+|other_symbol_type =  <!--Use if a further symbol exists, e.g. hymn-->
+|other_symbol =
+|image_map =          <!--e.g. LocationCountry.svg-->
+|loctext =            <!--text description of location of country-->
+|alt_map =            <!--alt text for map-->
+|map_caption =        <!--Caption to place below map-->
+|image_map2 =         <!--Another map, if required-->
+|alt_map2 =           <!--alt text for second map-->
+|map_caption2 =       <!--Caption to place below second map-->
+|capital =            <!--Name of country/territory's capital, wikilinked if link exists-->
+|capital2 =            <!--Name of country/territory's capital, wikilinked if link exists-->
+|latd= | latm= | latNS= |longd= |longm= |longEW= <!--capital's latitude and longitude in degrees/minutes/direction-->
+|largest_city =       <!--Name of country/territory's largest city. Use "capital" (without quotemarks) if it's the capital.-->
+|largest_settlement_type = <!--Type of settlement if largest settlement not a city-->
+|largest_settlement = <!--Name of largest settlement-->
+|official_languages = <!--Languages recognised in legislation, constitution, etc-->
+|national_languages = <!--Country/territory-wide languages recognised but not necessarily in country/territory-wide law, etc-->
+|regional_languages = <!--Languages recognised or associated with particular regions within the country/territory-->
+|languages_type =     <!--Use to specify a further type of language, if not official, national or regional-->
+|languages =          <!--Languages of the further type-->
+|languages_sub =      <!--Is this further type of language a sub-item of the previous non-sub type? ("yes" or "no")-->
+|languages2_type =    <!--Another further type of language-->
+|languages2 =         <!--Languages of this second further type-->
+|languages2_sub =     <!--Is the second alternative type of languages a sub-item of the previous non-sub type? ("yes" or "no")-->
+|ethnic_groups =      <!--List/breakdown of ethnic groups within the country/territory-->
+|ethnic_groups_year = <!--Year of ethnic groups data (if provided) or use to place a <ref>-->
+|nationalities =      <!--List/breakdown of nationalities within the country/territory-->
+|religion =           <!--Religion-->
+|demonym =            <!--Term/s describing those associated with the country/territory (e.g. "Belgian" for the country Belgium)-->
+|government_type =    <!--(often a compound multi-wikilinked term, e.g. "Federal semi-presidential constitutional republic", etc)-->
+|leader_title1 =      <!--(for a country, usually the head of state's (wikilinked) title, e.g. "President", "Monarch")-->
+|leader_name1 =
+|leader_title2 =      <!--(could be "Vice President", otherwise "Prime Minster", etc, etc)-->
+|leader_name2 =
+<!--......-->
+|leader_title6 =      <!--(up to six distinct leaders may be included)-->
+|leader_name6 = 
+|legislature =        <!--Name of the country/territory's governing body, e.g. "Parliament", "Congress", etc-->
+|upper_house =        <!--Name of governing body's upper house, if given (e.g. "Senate")-->
+|lower_house =        <!--Name of governing body's lower house, if given (e.g. "Chamber of Deputies")-->
+|sovereignty_type =   <!--Brief description of country/territory's status ("Independence [from...]", "Autonomous province [of...]", etc)-->
+|sovereignty_note = 
+|established_event1 = <!--First key event in history of country/territory's status or formation-->
+|established_date1 =  <!--Date of first key event-->
+|established_event2 = <!--Second key event-->
+|established_date2 =  <!--Date of second key event-->
+<!--......-->
+|established_event9 = <!--(up to nine distinct events may be included)-->
+|established_date9 =
+|area_rank = 
+|area_magnitude = 
+|area =               <!--Major area size (in [[Template:convert]] either km2 or sqmi first)-->
+|area_km2 =           <!--Major area size (in square km)-->
+|area_sq_mi =         <!--Area in square mi (requires area_km2)-->
+|area_footnote =      <!--Optional footnote for area-->
+|percent_water = 
+|area_label =         <!--Label under "Area" (default is "Total")-->
+|area_label2 =        <!--Label below area_label (optional)-->
+|area_data2 =         <!--Text after area_label2 (optional)-->
+|population_estimate = 
+|population_estimate_rank = 
+|population_estimate_year = 
+|population_census = 
+|population_census_year = 
+|population_density_km2 = 
+|population_density_sq_mi = 
+|population_density_rank = 
+|nummembers =         <!--An alternative to population for micronation-->
+|GDP_PPP =                     <!--(Gross Domestic Product from Purchasing Power Parity)-->
+|GDP_PPP_rank = 
+|GDP_PPP_year = 
+|GDP_PPP_per_capita = 
+|GDP_PPP_per_capita_rank = 
+|GDP_nominal = 
+|GDP_nominal_rank = 
+|GDP_nominal_year = 
+|GDP_nominal_per_capita = 
+|GDP_nominal_per_capita_rank = 
+|Gini =                        <!--(Gini measure of income inequality; input number only; valid values are between 0 and 100)-->
+|Gini_ref =                    <!--(for any ref/s to associate with Gini number)-->
+|Gini_rank = 
+|Gini_year = 
+|HDI_year =           <!-- Please use the year to which the data refers, not the publication year-->
+|HDI =                <!--(Human Development Index; input number only; valid values are between 0 and 1)-->
+|HDI_change =         <!--increase/decrease/steady; rank change from previous year-->
+|HDI_rank = 
+|HDI_ref =            <!--(for any ref/s to associate with HDI number)-->
+|currency =           <!--Name/s of currency/ies used in country/territory-->
+|currency_code =      <!--ISO 4217 code/s for currency/ies (each usually three capital letters)-->
+|time_zone =          <!--e.g. GMT, PST, AST, etc, etc (wikilinked if possible)-->
+|utc_offset =         <!--in the form "+N", where N is number of hours offset-->
+|time_zone_DST =      <!--Link to DST (Daylight Saving Time) used, otherwise leave empty-->
+|utc_offset_DST =     <!--in the form "+N", where N is number of hours offset-->
+|DST_note =           <!--Optional note regarding DST use-->
+|antipodes =          <!--Place/s exactly on the opposite side of the world to country/territory-->
+|date_format =        <!--numeric dates (dd-mm-yyyy, yyyy.mm.dd, etc) plus era (CE, AD, AH, etc)-->
+|drives_on =          <!--"right" or "left" (side of road)-->
+|cctld =              <!--Internet country code top-level domain identifier (e.g. [[.br]], [[.de]], etc)
+|iso3166code =        <!--Use to override default from common_name parameter above; omit using "omit".-->
+|calling_code =       <!--e.g. [[+1]], [[+531]], [[+44]], etc-->
+|image_map3 =         <!--Optional third map position, e.g. for use with reference to footnotes below it-->
+|alt_map3 =           <!--alt text for third map position-->
+|footnote_a =         <!--For any footnote <sup>a</sup> used above-->
+|footnote_b =         <!--For any footnote <sup>b</sup> used above-->
+<!--......-->
+|footnote_h =         <!--For any footnote <sup>h</sup> used above-->
+|footnotes =          <!--For any generic non-numbered footnotes-->
+}}
+</pre>
+{{hidden begin |toggle=leftlink |title=France-specific parameters}}
+<pre>
+|metropole = 
+|metropole_area = 
+|metropole_area_rank = 
+|metropole_area_magnitude = 
+|metropole_areami² = 
+|metropole_population = 
+|metropole_population_estimate_rank = 
+|foot = 
+|foot2 = 
+|foot3 = 
+|foot4 = 
+|foot5 = 
+</pre>
+{{hidden end}}<!--(France-specific parameters)-->
+{{hidden begin |toggle=leftlink |title=United Kingdom-specific parameters}}
+<pre>
+|patron_saint = 
+</pre>
+{{hidden end}}<!--(UK-specific parameters)-->
+{{hidden begin |toggle=leftlink |title=European Union-specific parameters}}
+<pre>
+|accessionEUdate = 
+</pre>
+{{hidden end}}<!--(EU-specific parameters)-->
+{{smaller|* If, on a particular page, the default widths provided for the flag and coat-of-arms/symbol images produce an unsatisfactory result, use ''flag_width'' (as % or px) to specify the width to be used for the flag image; the remaining width is then assigned to the coat-of-arms/symbol (if included).}}
+{{hidden end}}<!--
+
+----------------------- Geopolitical use ------------------------
+-->{{hidden begin |toggle=left |titlestyle=font-size:120%; |title=Geopolitical organization}}
+<pre>
+{{Infobox geopolitical organization
+|name =              <!-- (in English) -->
+|native_name =       <!-- Long-form name in native or any/all non-English languages -->
+|linking_name =      <!-- For wikilinks, if diff from name -->
+|image_flag =        <!-- Flag image's filename -->
+|alt_flag =          <!-- alt text for flag-->
+|flag_border =       <!--set to no to disable border around the flag-->
+|symbol_type =       <!-- Symbol, Emblem, Logo, etc. -->
+|image_symbol =      <!-- Symbol image's filename -->
+|alt_symbol =        <!-- alt text for symbol -->
+|symbol_width =      <!-- Symbol image's width (default 85px) -->
+|motto =             <!-- "[motto]" -->
+|englishmotto =      <!--English language version of motto-->
+|anthem =            <!-- ''[anthem name]'' -->
+|text_symbol_type =  <!-- for other types of text symbol -->
+|text_symbol =       <!-- e.g. ''[hymn name]'' -->
+|image_map =         <!-- Map image's filename -->
+|loctext =           <!--text description of location of organization-->
+|alt_map =           <!-- alt text for map image -->
+|map_width =         <!-- Map image's width (default 250px) -->
+|map_caption = 
+|org_type =          <!-- e.g. Trade bloc -->
+|membership_type =   <!-- (default "Membership") -->
+|membership =        <!-- Type/s and/or number/s of members -->
+|admin_center_type = <!-- e.g. "Administrative center" (default) -->
+|admin_center =      <!-- Location/s of administrative center/s -->
+|languages_type =    <!-- e.g. "[[Official language]]s" (default) -->
+|languages = 
+|leader_title1 =     <!-- e.g. "Chair", "President", etc. -->
+|leader_name1 = 
+|leader_title2 =     <!-- e.g. "Deputy chair", etc. -->
+|leader_name2 = 
+<--......-->
+|leader_title6 = 
+|leader_name6 = 
+|established =       <!-- Usually a date, in lieu of event/s hereafter -->
+|established_event1 = 
+|established_date1 = 
+|established_event2 = 
+|established_date2 = 
+<--......-->
+|established_event9 = 
+|established_date9 = 
+|official_website = 
+|area_magnitude = 
+|area_km2 =          <!-- major area size (in sq_km) -->
+|area_sq_mi =        <!-- area in square mi (requires area_km2) -->
+|area_footnote =     <!-- optional footnote for area -->
+|percent_water = 
+|area_label =        <!-- label under "Area" (default is "Total") -->
+|area_label2 =       <!-- label below area_label (optional) -->
+|area_dabodyalign =  <!-- text after area_label2 (optional) -->
+|population_estimate = 
+|population_estimate_year = 
+|population_density_km2 = 
+|population_density_sq_mi = 
+|GDP_PPP = 
+|GDP_PPP_rank = 
+|GDP_PPP_year = 
+|GDP_PPP_per_capita = 
+|GDP_nominal = 
+|GDP_nominal_year = 
+|GDP_nominal_per_capita = 
+|Gini =              <!-- number only, 0-100 -->
+|Gini_ref =          <!-- for any ref/s to associate with Gini number -->
+|Gini_year = 
+|HDI =               <!-- number only, 0-1 -->
+|HDI_ref =           <!-- for any ref/s to associate with HDI number -->
+|HDI_year = 
+|currency = 
+|currency_code = 
+|time_zone = 
+|utc_offset =        <!-- +N, where N is number of hours -->
+|footnote1 = 
+|footnote2 = 
+<--......-->
+|footnote7 = 
+|footnotes =         <!-- For generic non-numbered footnotes -->
+}}
+</pre>
+{{hidden end}}<!----(Geopolitical organization use)---->
+</div><!--(font-size:110%)-->
+
+{{clear}}
+
+== Examples ==
+
+<div style="font-size:110%;"><!--
+
+---------------- Country/territory example -----------------
+-->{{hidden begin |toggle=left |titlestyle=font-size:120%; |title=Country or territory}}
+
+{{Infobox country
+|native_name = {{lang|fr|''République du Cameroun''}}
+|common_name = Cameroon
+|image_flag = Flag of Cameroon.svg
+|alt = Vertical tricolor (green, red, yellow) with a five-pointed gold star in the center of the red.
+|image_coat = Coat of arms of Cameroon.svg
+|symbol_type = Coat of arms
+|image_map = Cameroon (orthographic projection).svg
+|alt_map = Location of Cameroon on the globe.
+|national_motto = <br/>{{native phrase|fr|"Paix &ndash; Travail &ndash; Patrie"|italics=off}}<br/>{{small|"Peace &ndash; Work &ndash; Fatherland"}}
+|national_anthem = <br/>"{{native phrase|fr|[[O Cameroon, Cradle of our Forefathers|Ô Cameroun, Berceau de nos Ancêtres]]|nolink=yes|italics=off}}"<br/>{{raise|0.2em|{{small|''O Cameroon, Cradle of our Forefathers''}}&nbsp;{{lower|0.1em|<sup>a</sup>}}}}
+|official_languages = {{hlist |[[French language|French]] |[[English language|English]]}}
+|demonym = Cameroonian
+|ethnic_groups =
+ {{unbulleted list
+  | {{nowrap|31% [[Ethnic groups in Cameroon|Cameroon Highlanders]]}}
+  | 19% [[Bantu peoples|Equatorial Bantu]]
+  | 11% [[Kirdi]]
+  | 10% [[Fula people|Fulani]]
+  |  8% [[Bantu peoples|Northwestern Bantu]]
+  |  7% Eastern Nigritic
+  | 13% other African
+  | <1% non-African
+ }}
+  |nationalities = 
+ {{unbulleted list
+  | {{nowrap|61% Cameroonian}}
+  | <39% non-Cameroonian
+ }} 
+|capital = [[Yaoundé]]<ref name="Cameroon - Infoplease.com">{{cite web |url=http://www.infoplease.com/ipa/A0107382.html |title=Cameroon |publisher=Infoplease |accessdate=27 May 2011}}</ref>
+|latd=3 |latm=52 |latNS=N |longd=11 |longm=31 |longEW=E <!--Google Maps-->
+|largest_city = [[Douala]]<ref name="Cameroon - Infoplease.com"/>
+|government_type = [[Republic]]
+|leader_title1 = [[List of heads of state of Cameroon|President]]
+|leader_name1 = [[Paul Biya]]<ref name="Cameroon - Infoplease.com"/>
+|leader_title2 = [[Prime Minister of Cameroon|Prime Minister]]
+|leader_name2 = [[Philémon Yang]]
+|legislature = [[National Assembly (Cameroon)|National Assembly]]
+|area_rank = 54th <!--Demographic Yearbook 1.-->
+|area_magnitude = 1 E11
+|area_km2 = 475,442
+|area_sq_mi = 183,568 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water = 1.3 <!--CIA World Factbook-->
+|population_estimate = 20,129,878<ref>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/cm.html |title=Cameroon |work=The World Factbook |accessdate=21 July 2012}}</ref>
+|population_estimate_rank = 58th <!--UN World Population Prospects-->
+|population_estimate_year = July 2012
+|population_census = 17,463,836<ref>{{cite web |title={{lang|fr|Rapport de présentation des résultats définitifs}} |url=http://www.statistics-cameroon.org/downloads/Rapport_de_presentation_3_RGPH.pdf |format=PDF |page=6 |publisher={{lang|fr|Institut national de la statistique}} |accessdate=21 July 2012 |language=French}}</ref>
+|population_census_year = 2005
+|population_density_km2 = 39.7
+|population_density_sq_mi = 102.8 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 167th <!--UN World Population Prospects-->
+|GDP_PPP = $47.251&nbsp;billion<ref name="imf2">{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=39&pr.y=9&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=622&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a= |title=Cameroon |publisher=International Monetary Fund |accessdate=2012-04-18}}</ref>
+|GDP_PPP_year = 2011
+|GDP_PPP_per_capita = $2,257<ref name="imf2"/>
+|GDP_PPP_per_capita_rank =
+|GDP_nominal = $25.759&nbsp;billion<ref name="imf2"/>
+|GDP_nominal_year = 2011
+|GDP_nominal_per_capita = $1,230<ref name="imf2"/>
+|sovereignty_type = Independence {{nobold|from [[France]]}}
+|established_event1 = Declared
+|established_date1 = 1 January 1960
+|established_event2 = {{nowrap|Annexation of former<br/>[[British Cameroons]]}}
+|established_date2 = 1 October 1961
+|HDI_year = 2011
+|HDI_change = increase <!--increase/decrease/steady-->
+|HDI = 0.482 <!--number only-->
+|HDI_ref = <ref>http://hdr.undp.org/en/media/HDR_2011_EN_Table1.pdf</ref>
+|HDI_rank = 150th
+|Gini_year = 2001
+|Gini_change =  <!--increase/decrease/steady-->
+|Gini = 44.6 <!--number only-->
+|Gini_ref = <ref>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html |title=Distribution of family income – Gini index |work=The World Factbook |publisher=CIA |accessdate=2009-09-01}}</ref>
+|Gini_rank =
+|currency = [[Central African CFA franc]]
+|currency_code = XAF
+|country_code =
+|time_zone = [[West Africa Time|WAT]]
+|utc_offset = +1
+|time_zone_DST = 
+|utc_offset_DST = 
+|drives_on = right
+|calling_code = [[+237]]
+|cctld = [[.cm]]
+|footnote_a = These are the titles as given in the ''Constitution of the Republic of Cameroon'', Article X. The French version of the song is sometimes called {{lang|fr|''Chant de Ralliement''}}, as in ''National Anthems of the World''; and the English version "O Cameroon, Cradle of Our Forefathers", as in DeLancey and DeLancey 61.
+}}
+
+<pre style="font-size:95%;overflow:auto;">
+{{Infobox country
+|native_name = {{lang|fr|''République du Cameroun''}}
+|common_name = Cameroon
+|image_flag = Flag of Cameroon.svg
+|alt = Vertical tricolor (green, red, yellow) with a five-pointed gold star in the center of the red.
+|image_coat = Coat of arms of Cameroon.svg
+|symbol_type = Coat of arms
+|image_map = Cameroon (orthographic projection).svg
+|alt_map = Location of Cameroon on the globe.
+|national_motto = <br/>{{native phrase|fr|"Paix &ndash; Travail &ndash; Patrie"|italics=off}}<br/>{{small|"Peace &ndash; Work &ndash; Fatherland"}}
+|national_anthem = <br/>"{{native phrase|fr|[[O Cameroon, Cradle of our Forefathers|Ô Cameroun, Berceau de nos Ancêtres]]|nolink=yes|italics=off}}"<br/>{{raise|0.2em|{{small|''O Cameroon, Cradle of our Forefathers''}}&nbsp;{{lower|0.1em|<sup>a</sup>}}}}
+|official_languages = {{hlist |[[French language|French]] |[[English language|English]]}}
+|demonym = Cameroonian
+|ethnic_groups =
+ {{unbulleted list
+  | {{nowrap|31% [[Ethnic groups in Cameroon|Cameroon Highlanders]]}}
+  | 19% [[Bantu peoples|Equatorial Bantu]]
+  | 11% [[Kirdi]]
+  | 10% [[Fula people|Fulani]]
+  |  8% [[Bantu peoples|Northwestern Bantu]]
+  |  7% Eastern Nigritic
+  | 13% other African
+  | <1% non-African
+ }}
+  |nationalities = 
+ {{unbulleted list
+  | {{nowrap|61% Cameroonian}}
+  | <39% non-Cameroonian
+ }} 
+|capital = [[Yaoundé]]<ref name="Cameroon - Infoplease.com">{{cite web |url=http://www.infoplease.com/ipa/A0107382.html |title=Cameroon |publisher=Infoplease |accessdate=27 May 2011}}</ref>
+|latd=3 |latm=52 |latNS=N |longd=11 |longm=31 |longEW=E <!--Google Maps-->
+|largest_city = [[Douala]]<ref name="Cameroon - Infoplease.com"/>
+|government_type = [[Republic]]
+|leader_title1 = [[List of heads of state of Cameroon|President]]
+|leader_name1 = [[Paul Biya]]<ref name="Cameroon - Infoplease.com"/>
+|leader_title2 = [[Prime Minister of Cameroon|Prime Minister]]
+|leader_name2 = [[Philémon Yang]]
+|legislature = [[National Assembly (Cameroon)|National Assembly]]
+|area_rank = 54th <!--Demographic Yearbook 1.-->
+|area_magnitude = 1 E11
+|area_km2 = 475,442
+|area_sq_mi = 183,568 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water = 1.3 <!--CIA World Factbook-->
+|population_estimate = 20,129,878<ref>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/cm.html |title=Cameroon |work=The World Factbook |accessdate=21 July 2012}}</ref>
+|population_estimate_rank = 58th <!--UN World Population Prospects-->
+|population_estimate_year = July 2012
+|population_census = 17,463,836<ref>{{cite web |title={{lang|fr|Rapport de présentation des résultats définitifs}} |url=http://www.statistics-cameroon.org/downloads/Rapport_de_presentation_3_RGPH.pdf |format=PDF |page=6 |publisher={{lang|fr|Institut national de la statistique}} |accessdate=21 July 2012 |language=French}}</ref>
+|population_census_year = 2005
+|population_density_km2 = 39.7
+|population_density_sq_mi = 102,8 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 167th <!--UN World Population Prospects-->
+|GDP_PPP = $47.251&nbsp;billion<ref name="imf2">{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=39&pr.y=9&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=622&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a= |title=Cameroon |publisher=International Monetary Fund |accessdate=2012-04-18}}</ref>
+|GDP_PPP_year = 2011
+|GDP_PPP_per_capita = $2,257<ref name="imf2"/>
+|GDP_PPP_per_capita_rank =
+|GDP_nominal = $25.759&nbsp;billion<ref name="imf2"/>
+|GDP_nominal_year = 2011
+|GDP_nominal_per_capita = $1,230<ref name="imf2"/>
+|sovereignty_type = Independence {{nobold|from [[France]]}}
+|established_event1 = Declared
+|established_date1 = 1 January 1960
+|established_event2 = {{nowrap|Annexation of former<br/>[[British Cameroons]]}}
+|established_date2 = 1 October 1961
+|HDI_year = 2011
+|HDI_change = increase <!--increase/decrease/steady-->
+|HDI = 0.482 <!--number only-->
+|HDI_ref = <ref>http://hdr.undp.org/en/media/HDR_2011_EN_Table1.pdf</ref>
+|HDI_rank = 150th
+|Gini_year = 2001
+|Gini_change =  <!--increase/decrease/steady-->
+|Gini = 44.6 <!--number only-->
+|Gini_ref = <ref>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html |title=Distribution of family income – Gini index |work=The World Factbook |publisher=CIA |accessdate=2009-09-01}}</ref>
+|Gini_rank =
+|currency = [[Central African CFA franc]]
+|currency_code = XAF
+|country_code =
+|time_zone = [[West Africa Time|WAT]]
+|utc_offset = +1
+|time_zone_DST = not observed
+|utc_offset_DST = +1
+|drives_on = right
+|calling_code = [[+237]]
+|cctld = [[.cm]]
+|footnote_a = These are the titles as given in the ''Constitution of the Republic of Cameroon'', Article X. The French version of the song is sometimes called {{lang|fr|''Chant de Ralliement''}}, as in ''National Anthems of the World''; and the English version "O Cameroon, Cradle of Our Forefathers", as in DeLancey and DeLancey 61.
+}}
+</pre>
+
+{{hidden end}}
+{{clear}}<!--
+
+------------ Geopolitical organization example -------------
+-->{{hidden begin |toggle=left |titlestyle=font-size:120%; |title=Geopolitical organization}}
+
+{{Infobox geopolitical organization
+|name =
+ {{collapsible list
+  |titlestyle = background:transparent;font-size:85%;
+  |title = {{resize|130%|European Union}}
+  |liststyle = text-align:center;
+  | {{smaller|{{native name|bg|Европейски съюз}}<br/><!--
+   -->{{native name|hr|Europska unija}}<br/><!--
+   -->{{native name|cs|Evropská unie}}<br/><!--
+   -->{{native name|da|Den Europæiske Union}}<br/><!--
+   -->{{native name|nl|Europese Unie}}<br><!--
+   -->{{native name|et|Euroopa Liit}}<br/><!--
+   -->{{native name|fi|Euroopan unioni}}<br/><!--
+   -->{{native name|fr|Union européenne}}<br/><!--
+   -->{{native name|de|Europäische Union}}<br/><!--
+   -->{{native name|el|Ευρωπαϊκή Ένωση}}<br/><!--
+   -->{{native name|hu|Európai Unió}}<br/><!--
+   -->{{native name|ga|An tAontas Eorpach}}<br/><!--
+   -->{{native name|it|Unione europea}}<br/><!--
+   -->{{native name|lv|Eiropas Savienība}}<br/><!--
+   -->{{native name|lt|Europos Sąjunga}}<br/><!--
+   -->{{native name|mt|Unjoni Ewropea}}<br/><!--
+   -->{{native name|pl|Unia Europejska}}<br/><!--
+   -->{{native name|pt|União Europeia}}<br/><!--
+   -->{{native name|ro|Uniunea Europeană}}<br/><!--
+   -->{{native name|sk|Európska únia}}<br/><!--
+   -->{{native name|sl|Evropska unija}}<br/><!--
+   -->{{native name|es|Unión Europea}}<br/><!--
+   -->{{native name|sv|Europeiska unionen}}<!--
+ -->}}
+ }}
+|linking_name = Europe 
+|image_flag = Flag of Europe.svg
+|alt_flag = Circle of 12 gold stars on a blue background
+|motto = "[[Motto of the European Union|United in diversity]]"&nbsp;<!--
+    -->{{#tag:ref|{{cite book |last=Barnard |first=Catherine |title=The Substantive Law of the EU: The four freedoms |edition=2 |date=August 2007 |publisher=Oxford University Press |isbn=9780199290352 |page=447}} }}<!--
+    -->{{#tag:ref|{{cite web |url=http://europa.eu/abc/symbols/motto/index_en.htm |title=United in diversity |accessdate=20 January 2010 |work=[[Europa (web portal)]] |publisher=[[European Commission]] |quote='United in diversity' is the motto of the European Union. The motto means that, via the EU, Europeans are united in working together for peace and prosperity, and that the many different cultures, traditions and languages in Europe are a positive asset for the continent.}} |name="EU-Symbols" }}<!--
+    -->{{#tag:ref|{{cite web |url=http://www.europarl.europa.eu/oeil/FindByProcnum.do?lang=en&procnum=REG/2007/2240 |title=European Parliament: The Legislative Observatory |accessdate=20 January 2010 |work=[[Europa (web portal)]] |publisher=[[European Commission]] |quote=the motto 'United in diversity' shall be reproduced on Parliament's official documents;}} }}
+|anthem = <div style="padding-bottom:0.2em;">"[[Anthem of Europe|Ode to Joy]]"&nbsp;{{#tag:ref||name="EU-Symbols" }}&nbsp;{{small|(orchestral)}}</div><center>[[File:Anthem of Europe (US Navy instrumental short version).ogg]]</center>
+|image_map = EU Globe No Borders.svg
+|map_caption = An [[Orthographic projection (cartography)|orthographic projection]] of the world, highlighting the European Union and its Member States (green).
+|map_width = 220px
+|admin_center_type = Political centres
+|admin_center = {{unbulleted list |[[Brussels]] ([[Brussels and the European Union|de facto capital]])<ref>{{cite web |title=Brussels' EU capital role seen as irreversible|publisher=Euractiv.com|url=http://www.euractiv.com/pa/brussels-eu-capital-role-seen-ir-news-494302 |accessdate=28 October 2012 |quote=Brussels has become the de facto capital of the European Union}}</ref><ref>[http://ec.europa.eu/dgs/policy_advisers/archives/publications/docs/brussels_capital.pdf Brussels, Capital of European Union] - European Commission, 2001.</ref> |[[Luxembourg (city)|Luxembourg]] |[[Strasbourg]]}}
+|largest_city = [[London]]
+|official_languages =
+ {{collapsible list
+  |titlestyle = background:transparent;text-align:left;font-weight:normal;
+  |title = [[Languages of the European Union|24 languages]]
+  | {{hlist |[[Bulgarian language|Bulgarian]] |[[Croatian language|Croatian]] |[[Czech language|Czech]] |[[Danish language|Danish]] |[[Dutch language|Dutch]] |[[English language|English]] |[[Estonian language|Estonian]] |[[Finnish language|Finnish]] |[[French language|French]] |[[German language|German]] |[[Greek language|Greek]] |[[Hungarian language|Hungarian]] |[[Irish language|Irish]] |[[Italian language|Italian]] |[[Latvian language|Latvian]] |[[Lithuanian language|Lithuanian]] |[[Maltese language|Maltese]] |[[Polish language|Polish]] |[[Portuguese language|Portuguese]] |[[Romanian language|Romanian]] |[[Slovak language|Slovak]] |[[Slovene language|Slovene]] |[[Spanish language|Spanish]] |[[Swedish language|Swedish]]}}
+ }}
+|demonym = [[Citizenship of the European Union|European]]{{#tag:ref| ''The [[New Oxford American Dictionary]]'', Second Edn., [[Erin McKean]] (editor), 2051 pages, May 2005, Oxford University Press, ISBN 0-19-517077-6. |name="OED" }}
+|membership_type = [[Member state of the European Union|Member state]]s
+|membership =
+ {{collapsible list
+  |titlestyle = background:transparent;text-align:left;font-weight:normal;
+  |title = 28 states
+  |{{flagcountry|Austria}} |{{flagcountry|Belgium|state}} |{{flagcountry|Bulgaria}}
+  |{{flagcountry|Croatia}} |{{flagcountry|Cyprus}} |{{flagcountry|Czech Republic}} 
+  |{{flagcountry|Denmark}} |{{flagcountry|Estonia}} |{{flagcountry|Finland}} 
+  |{{flagcountry|France}}  |{{flagcountry|Germany}} |{{flagcountry|Greece}} 
+  |{{flagcountry|Hungary}} |{{flagcountry|Ireland}} |{{flagcountry|Italy}} 
+  |{{flagcountry|Latvia}} |{{flagcountry|Lithuania}} |{{flagcountry|Luxembourg}} 
+  |{{flagcountry|Malta}} |{{flagcountry|Netherlands}} |{{flagcountry|Poland}} 
+  |{{flagcountry|Portugal}} |{{flagcountry|Romania}} |{{flagcountry|Slovakia}} 
+  |{{flagcountry|Slovenia}} |{{flagcountry|Spain}} |{{flagcountry|Sweden}} 
+  |{{flagcountry|United Kingdom}} 
+ }}
+|leader_title1 = [[President of the European Council|President of the European Council]]
+|leader_name1 = {{nowrap|[[Herman Van Rompuy]] ([[European People's Party|EPP]])}}
+|leader_title2 = [[President of the European Commission|President of the Commission]]
+|leader_name2 = {{nowrap|[[José Manuel Barroso]] ([[European People's Party|EPP]])}}
+|legislature = [[Legislature of the European Union]]
+|upper_house = {{nowrap|[[Council of the European Union]]}}
+|lower_house = [[European Parliament]]
+|established_event1 = [[Treaty of Paris (1951)|Treaty of Paris]]
+|established_date1 = 23 July 1952
+|established_event2 = [[Treaty of Rome]]
+|established_date2 = 1 January 1958
+|established_event3 = {{nowrap|[[Maastricht Treaty|Treaty of Maastricht]]}}
+|established_date3 = 1 November 1993
+|official_website = {{URL|europa.eu}}
+|area_rank = 7th<sup>a</sup><!--gives link to list--><!--Calculated by taking out EU members from the list-->
+|area_magnitude = 1 E12
+|area_km2 = 4,381,376 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_sq_mi = 1,691,658 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water = 3.08
+|population_estimate = 507,890,191{{#tag:ref| {{cite web |url=http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 |title=Total population as of 1 January |publisher=Eurostat |accessdate=23 October 2010}}  |name="eurostat" }}
+|population_estimate_rank = 3rd<sup>a</sup><!--gives link to list--><!--Calculated by taking out EU members from the list-->
+|population_estimate_year = 2012
+|population_density_km2 = 116.2 <!--502,486,499 / 4,324,782km2 = 116.2 people/km2 (1 January 2011)-->
+|population_density_sq_mi = 300.9 <!--502,486,499 / 1,669,807sq_mi = 300.9 people/sq_mi (1 January 2011)-->
+|population_density_rank = <!--Calculated by taking out EU members from the list-->
+<!--IMF GDP data published in September 2011; so please do not use the IMF *projections* for 2011-->
+|GDP_PPP = $15.821 trillion{{#tag:ref| {{cite web |url=http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=39&pr.y=17&sy=2008&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=998&s=NGDPD%2CPPPGDP%2CPPPPC&grp=1&a=1 |title=IMF World Economic Outlook Database, April 2012 |publisher=International Monetary Fund |accessdate=23 April 2012}} |name="imf" }}
+|GDP_PPP_rank = 1st<sup>a</sup><!--gives link to list--><!--Calculated by taking out EU members from the list-->
+|GDP_PPP_year = 2011
+|GDP_PPP_per_capita = $31,607{{#tag:ref| |name="imf"}}<!--same ref as above-->
+|GDP_PPP_per_capita_rank = 15th<sup>a</sup><!--Calculated by taking out EU members from the list-->
+|GDP_nominal = $17.577 trillion{{#tag:ref| |name="imf" }}
+|GDP_nominal_rank = 1st<sup>a</sup><!--Calculated by taking out EU members from the list-->
+|GDP_nominal_year = 2011
+|GDP_nominal_per_capita = $35,116{{#tag:ref| [http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=21&pr.y=15&sy=2011&ey=2011&scsm=1&ssd=1&sort=country&ds=.&br=1&c=998&s=NGDPD&grp=1&a=1 Nominal 2011 GDP for the European Union] and [http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=28&pr.y=16&sy=2011&ey=2011&scsm=1&ssd=1&sort=country&ds=.&br=1&c=941%2C946%2C137%2C122%2C181%2C124%2C918%2C138%2C964%2C182%2C968%2C423%2C935%2C128%2C936%2C939%2C961%2C172%2C184%2C132%2C134%2C174%2C144%2C944%2C178%2C136%2C112&s=LP&grp=0&a= 2011 population for the European Union], [http://www.imf.org/external/pubs/ft/weo/2011/02/weodata/index.aspx World Economic Outlook Database, April 2012], [[International Monetary Fund]]. Accessed on April 23, 2012 |name="imf2" }}
+|GDP_nominal_per_capita_rank = 14th<sup>a</sup><!--gives link to list--><!--Calculated by taking out EU members from the list-->
+|Gini_year = 2010
+|Gini_change =  <!--increase/decrease/steady-->
+|Gini = 30.4 <!--number only-->
+|Gini_ref = {{#tag:ref| {{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html |title=Distribution of family income&nbsp;– Gini index |work=The World Factbook |publisher=CIA |accessdate=2012-01-28}} |name="gini" }}
+|Gini_rank = 
+|HDI_year = 2011
+|HDI_change = increase <!--increase/decrease/steady-->
+|HDI = 0.876 <!--number only-->
+|HDI_ref = <ref name="HDI">Calculated using UNDP data for the member states with weighted population.</ref>
+|HDI_rank = 13th<!--Calculated by taking out EU members from the list-->{{\}}25th<sup>a</sup><!--Calculated with EU members in the list-->
+|currency =
+ {{hidden begin
+  |titlestyle = font-size:105%;font-weight:normal;
+  |title = {{pad|0.5em}}[[Euro]] and others
+  |bodystyle=font-size:90%;}}
+<table cellspacing="0" cellpadding="0">
+ <tr style="height:22px;"><th colspan="4" style="font-size:120%;">[[Eurozone]]{{spaces|2}}{{nobold|{{small|(17 countries)}}}}</tr>
+ <tr style="height:22px;"><th>{{flagicon|EU}}<th>[[Euro]]<th>[[Euro sign|€]]<th><code>[[ISO 4217|EUR]]</tr>
+ <tr style="height:22px;"><th colspan="4" style="font-size:120%;">[[Currencies of the European Union|Other currencies]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Bulgaria}}<td>[[Bulgarian lev|Lev]]<td>лв<td><code>[[ISO 4217|BGN]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Croatia}}<td>[[Croatian kuna|Kuna]]<td>kn<td><code>[[ISO 4217|HRK]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Czech Republic}}<td>[[Czech koruna|Koruna]]<td>Kč<td><code>[[ISO 4217|CZK]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Denmark}}<td>[[Danish krone|Krone]]<td>kr<td><code>[[ISO 4217|DKK]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Hungary}}<td>[[Hungarian forint|Forint]]<td>Ft<td><code>[[ISO 4217|HUF]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Latvia}}<td>[[Latvian lats|Lats]]<td>Ls<td><code>[[ISO 4217|LVL]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Lithuania}}<td>[[Lithuanian litas|Litas]]<td>Lt<td><code>[[ISO 4217|LTL]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Poland}}<td>[[Polish złoty|Złoty]]<td>zł<td><code>[[ISO 4217|PLN]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Romania}}<td>[[Romanian Leu|Leu]]<td><td><code>[[ISO 4217|RON]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Sweden}}<td>[[Swedish krona|Krona]]<td>kr<td><code>[[ISO 4217|SEK]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|United Kingdom}}<td>[[Pound sterling]]<td>£<td><code>[[ISO 4217|GBP]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Gibraltar}}<td>[[Gibraltar pound|Pound]]<td>£<td><code>[[ISO 4217|GIP]]</tr>
+</table>
+ {{hidden end}}
+|time_zone = 
+|utc_offset = +0 to +2
+|time_zone_DST = 
+|utc_offset_DST = +1 to +3{{#tag:ref| Not including overseas territories }}
+|date_format = 
+|cctld = [[.eu]]{{#tag:ref|.eu is representative of the whole of the EU; member states also have their own TLDs. }}
+|calling_code = [[Telephone numbers in the European Union|28 codes]]
+|footnote_a = If considered as a single entity.
+}}
+
+<pre style="font-size:95%;overflow:auto;">
+{{Infobox geopolitical organization
+|name =
+ {{collapsible list
+  |titlestyle = background:transparent;font-size:85%;
+  |title = {{resize|130%|European Union}}
+  |liststyle = text-align:center;
+  | {{smaller|{{native name|bg|Европейски съюз}}<br/><!--
+   -->{{native name|hr|Europska unija}}<br/><!--
+   -->{{native name|cs|Evropská unie}}<br/><!--
+   -->{{native name|da|Den Europæiske Union}}<br/><!--
+   -->{{native name|nl|Europese Unie}}<br><!--
+   -->{{native name|et|Euroopa Liit}}<br/><!--
+   -->{{native name|fi|Euroopan unioni}}<br/><!--
+   -->{{native name|fr|Union européenne}}<br/><!--
+   -->{{native name|de|Europäische Union}}<br/><!--
+   -->{{native name|el|Ευρωπαϊκή Ένωση}}<br/><!--
+   -->{{native name|hu|Európai Unió}}<br/><!--
+   -->{{native name|ga|An tAontas Eorpach}}<br/><!--
+   -->{{native name|it|Unione europea}}<br/><!--
+   -->{{native name|lv|Eiropas Savienība}}<br/><!--
+   -->{{native name|lt|Europos Sąjunga}}<br/><!--
+   -->{{native name|mt|Unjoni Ewropea}}<br/><!--
+   -->{{native name|pl|Unia Europejska}}<br/><!--
+   -->{{native name|pt|União Europeia}}<br/><!--
+   -->{{native name|ro|Uniunea Europeană}}<br/><!--
+   -->{{native name|sk|Európska únia}}<br/><!--
+   -->{{native name|sl|Evropska unija}}<br/><!--
+   -->{{native name|es|Unión Europea}}<br/><!--
+   -->{{native name|sv|Europeiska unionen}}<!--
+ -->}}
+ }}
+|linking_name = Europe 
+|image_flag = Flag of Europe.svg
+|alt_flag = Circle of 12 gold stars on a blue background
+|motto = "[[Motto of the European Union|United in diversity]]"&nbsp;<!--
+    -->{{#tag:ref|{{cite book |last=Barnard |first=Catherine |title=The Substantive Law of the EU: The four freedoms |edition=2 |date=August 2007  |publisher=Oxford University Press |isbn=9780199290352 |page=447}} }}<!--
+    -->{{#tag:ref|{{cite web |url=http://europa.eu/abc/symbols/motto/index_en.htm |title=United in diversity |accessdate=20 January 2010 |work=[[Europa (web portal)]] |publisher=[[European Commission]] |quote='United in diversity' is the motto of the European Union. The motto means that, via the EU, Europeans are united in working together for peace and prosperity, and that the many different cultures, traditions and languages in Europe are a positive asset for the continent.}} |name="EU-Symbols" }}<!--
+    -->{{#tag:ref|{{cite web |url=http://www.europarl.europa.eu/oeil/FindByProcnum.do?lang=en&procnum=REG/2007/2240 |title=European Parliament: The Legislative Observatory |accessdate=20 January 2010 |work=[[Europa (web portal)]] |publisher=[[European Commission]] |quote=the motto 'United in diversity' shall be reproduced on Parliament's official documents;}} }}
+|anthem = <div style="padding-bottom:0.2em;">''[[Anthem of Europe|Ode to Joy]]''&nbsp;{{#tag:ref||name="EU-Symbols" }}&nbsp;{{small|(orchestral)}}</div><center>[[File:Anthem of Europe (US Navy instrumental short version).ogg]]</center>
+|image_map = EU Globe No Borders.svg
+|map_caption = An [[Orthographic projection (cartography)|orthographic projection]] of the world, highlighting the European Union and its Member States (green).
+|map_width = 220px
+|admin_center_type = Political centres
+|admin_center = {{unbulleted list |[[Brussels]] ([[Brussels and the European Union|de facto capital]])<ref>{{cite web |title=Brussels' EU capital role seen as irreversible|publisher=Euractiv.com|url=http://www.euractiv.com/pa/brussels-eu-capital-role-seen-ir-news-494302 |accessdate=28 October 2012 |quote=Brussels has become the de facto capital of the European Union}}</ref><ref>[http://ec.europa.eu/dgs/policy_advisers/archives/publications/docs/brussels_capital.pdf Brussels, Capital of European Union] - European Commission, 2001.</ref> |[[Luxembourg (city)|Luxembourg]] |[[Strasbourg]]}}
+|largest_city = [[London]]
+|official_languages =
+ {{collapsible list
+  |titlestyle = background:transparent;text-align:left;font-weight:normal;
+  |title = [[Languages of the European Union|24 languages]]
+  | {{hlist |[[Bulgarian language|Bulgarian]] |[[Croatian language|Croatian]] |[[Czech language|Czech]] |[[Danish language|Danish]] |[[Dutch language|Dutch]] |[[English language|English]] |[[Estonian language|Estonian]] |[[Finnish language|Finnish]] |[[French language|French]] |[[German language|German]] |[[Greek language|Greek]] |[[Hungarian language|Hungarian]] |[[Irish language|Irish]] |[[Italian language|Italian]] |[[Latvian language|Latvian]] |[[Lithuanian language|Lithuanian]] |[[Maltese language|Maltese]] |[[Polish language|Polish]] |[[Portuguese language|Portuguese]] |[[Romanian language|Romanian]] |[[Slovak language|Slovak]] |[[Slovene language|Slovene]] |[[Spanish language|Spanish]] |[[Swedish language|Swedish]]}}
+ }}
+|demonym = [[Citizenship of the European Union|European]]{{#tag:ref| ''The [[New Oxford American Dictionary]]'', Second Edn., [[Erin McKean]] (editor), 2051 pages, May 2005, Oxford University Press, ISBN 0-19-517077-6. |name="OED" }}
+|membership_type = [[Member state of the European Union|Member state]]s
+|membership =
+ {{collapsible list
+  |titlestyle = background:transparent;text-align:left;font-weight:normal;
+  |title = 28 states
+  |{{flagcountry|Austria}} |{{flagcountry|Belgium|state}} |{{flagcountry|Bulgaria}}
+  |{{flagcountry|Croatia}} |{{flagcountry|Cyprus}} |{{flagcountry|Czech Republic}} 
+  |{{flagcountry|Denmark}} |{{flagcountry|Estonia}} |{{flagcountry|Finland}} 
+  |{{flagcountry|France}}  |{{flagcountry|Germany}} |{{flagcountry|Greece}} 
+  |{{flagcountry|Hungary}} |{{flagcountry|Ireland}} |{{flagcountry|Italy}} 
+  |{{flagcountry|Latvia}} |{{flagcountry|Lithuania}} |{{flagcountry|Luxembourg}} 
+  |{{flagcountry|Malta}} |{{flagcountry|Netherlands}} |{{flagcountry|Poland}} 
+  |{{flagcountry|Portugal}} |{{flagcountry|Romania}} |{{flagcountry|Slovakia}} 
+  |{{flagcountry|Slovenia}} |{{flagcountry|Spain}} |{{flagcountry|Sweden}} 
+  |{{flagcountry|United Kingdom}} 
+ }}
+|leader_title1 = [[President of the European Council|President of the European Council]]
+|leader_name1 = {{nowrap|[[Herman Van Rompuy]] ([[European People's Party|EPP]])}}
+|leader_title2 = [[President of the European Commission|President of the Commission]]
+|leader_name2 = {{nowrap|[[José Manuel Barroso]] ([[European People's Party|EPP]])}}
+|legislature = [[Legislature of the European Union]]
+|upper_house = {{nowrap|[[Council of the European Union]]}}
+|lower_house = [[European Parliament]]
+|established_event1 = [[Treaty of Paris (1951)|Treaty of Paris]]
+|established_date1 = 23 July 1952
+|established_event2 = [[Treaty of Rome]]
+|established_date2 = 1 January 1958
+|established_event3 = {{nowrap|[[Maastricht Treaty|Treaty of Maastricht]]}}
+|established_date3 = 1 November 1993
+|official_website = {{URL|europa.eu}}
+|area_rank = 7th<sup>a</sup><!--gives link to list--><!--Calculated by taking out EU members from the list-->
+|area_magnitude = 1 E12
+|area_km2 = 4,381,376 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_sq_mi = 1,691,658 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water = 3.08
+|population_estimate = 507,890,191{{#tag:ref| {{cite web |url=http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 |title=Total population as of 1 January |publisher=Eurostat |accessdate=23 October 2010}}  |name="eurostat" }}
+|population_estimate_rank = 3rd<sup>a</sup><!--gives link to list--><!--Calculated by taking out EU members from the list-->
+|population_estimate_year = 2012
+|population_density_km2 = 116.2 <!--502,486,499 / 4,324,782km2 = 116.2 people/km2 (1 January 2011)-->
+|population_density_sq_mi = 300.9 <!--502,486,499 / 1,669,807sq_mi = 300.9 people/sq_mi (1 January 2011)-->
+|population_density_rank = <!--Calculated by taking out EU members from the list-->
+<!--IMF GDP data published in September 2011; so please do not use the IMF *projections* for 2011-->
+|GDP_PPP = $15.821 trillion{{#tag:ref| {{cite web |url=http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=39&pr.y=17&sy=2008&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=998&s=NGDPD%2CPPPGDP%2CPPPPC&grp=1&a=1 |title=IMF World Economic Outlook Database, April 2012 |publisher=International Monetary Fund |accessdate=23 April 2012}} |name="imf" }}
+|GDP_PPP_rank = 1st<sup>a</sup><!--gives link to list--><!--Calculated by taking out EU members from the list-->
+|GDP_PPP_year = 2011
+|GDP_PPP_per_capita = $31,607{{#tag:ref| |name="imf"}}<!--same ref as above-->
+|GDP_PPP_per_capita_rank = 15th<sup>a</sup><!--Calculated by taking out EU members from the list-->
+|GDP_nominal = $17.577 trillion{{#tag:ref| |name="imf" }}
+|GDP_nominal_rank = 1st<sup>a</sup><!--Calculated by taking out EU members from the list-->
+|GDP_nominal_year = 2011
+|GDP_nominal_per_capita = $35,116{{#tag:ref| [http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=21&pr.y=15&sy=2011&ey=2011&scsm=1&ssd=1&sort=country&ds=.&br=1&c=998&s=NGDPD&grp=1&a=1 Nominal 2011 GDP for the European Union] and [http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=28&pr.y=16&sy=2011&ey=2011&scsm=1&ssd=1&sort=country&ds=.&br=1&c=941%2C946%2C137%2C122%2C181%2C124%2C918%2C138%2C964%2C182%2C968%2C423%2C935%2C128%2C936%2C939%2C961%2C172%2C184%2C132%2C134%2C174%2C144%2C944%2C178%2C136%2C112&s=LP&grp=0&a= 2011 population for the European Union], [http://www.imf.org/external/pubs/ft/weo/2011/02/weodata/index.aspx World Economic Outlook Database, April 2012], [[International Monetary Fund]]. Accessed on April 23, 2012 |name="imf2" }}
+|GDP_nominal_per_capita_rank = 14th<sup>a</sup><!--gives link to list--><!--Calculated by taking out EU members from the list-->
+|Gini_year = 2010
+|Gini_change =  <!--increase/decrease/steady-->
+|Gini = 30.4 <!--number only-->
+|Gini_ref = {{#tag:ref| {{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html |title=Distribution of family income&nbsp;– Gini index |work=The World Factbook |publisher=CIA |accessdate=2012-01-28}} |name="gini" }}
+|Gini_rank = 
+|HDI_year = 2011
+|HDI_change = increase <!--increase/decrease/steady-->
+|HDI = 0.876 <!--number only-->
+|HDI_ref = <ref name="HDI">Calculated using UNDP data for the member states with weighted population.</ref>
+|HDI_rank = 13th<!--Calculated by taking out EU members from the list-->{{\}}25th<sup>a</sup><!--Calculated with EU members in the list-->
+|currency =
+ {{hidden begin
+  |titlestyle = font-size:105%;font-weight:normal;
+  |title = {{pad|0.5em}}[[Euro]] and others
+  |bodystyle=font-size:90%;}}
+<table cellspacing="0" cellpadding="0">
+ <tr style="height:22px;"><th colspan="4" style="font-size:120%;">[[Eurozone]]{{spaces|2}}{{nobold|{{small|(17 countries)}}}}</tr>
+ <tr style="height:22px;"><th>{{flagicon|EU}}<th>[[Euro]]<th>[[Euro sign|€]]<th><code>[[ISO 4217|EUR]]</tr>
+ <tr style="height:22px;"><th colspan="4" style="font-size:120%;">[[Currencies of the European Union|Other currencies]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Bulgaria}}<td>[[Bulgarian lev|Lev]]<td>лв<td><code>[[ISO 4217|BGN]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Croatia}}<td>[[Croatian kuna|Kuna]]<td>kn<td><code>[[ISO 4217|HRK]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Czech Republic}}<td>[[Czech koruna|Koruna]]<td>Kč<td><code>[[ISO 4217|CZK]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Denmark}}<td>[[Danish krone|Krone]]<td>kr<td><code>[[ISO 4217|DKK]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Hungary}}<td>[[Hungarian forint|Forint]]<td>Ft<td><code>[[ISO 4217|HUF]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Latvia}}<td>[[Latvian lats|Lats]]<td>Ls<td><code>[[ISO 4217|LVL]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Lithuania}}<td>[[Lithuanian litas|Litas]]<td>Lt<td><code>[[ISO 4217|LTL]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Poland}}<td>[[Polish złoty|Złoty]]<td>zł<td><code>[[ISO 4217|PLN]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Romania}}<td>[[Romanian Leu|Leu]]<td><td><code>[[ISO 4217|RON]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Sweden}}<td>[[Swedish krona|Krona]]<td>kr<td><code>[[ISO 4217|SEK]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|United Kingdom}}<td>[[Pound sterling]]<td>£<td><code>[[ISO 4217|GBP]]</tr>
+ <tr style="height:22px;"><td>{{flagicon|Gibraltar}}<td>[[Gibraltar pound|Pound]]<td>£<td><code>[[ISO 4217|GIP]]</tr>
+</table>
+ {{hidden end}}
+|time_zone = 
+|utc_offset = +0 to +2
+|time_zone_DST = 
+|utc_offset_DST = +1 to +3{{#tag:ref| Not including overseas territories |group="lower-alpha"}}
+|date_format = 
+|cctld = [[.eu]]{{#tag:ref|.eu is representative of the whole of the EU; member states also have their own TLDs. |group="lower-alpha"}}
+|calling_code = [[Telephone numbers in the European Union|28 codes]]
+|footnote_a = If considered as a single entity.
+}}
+</pre>
+
+{{hidden end}}<!----(Geopolitical organization example)---->
+</div><!--(font-size)-->
+{{clear}}
+
+== Errors ==
+
+If the template generates errors when calculating data for the Gini or HDI fields, it will add the article to [[:Category:Country articles requiring maintenance]]. This only happens if the page is in the [[WP:MAINSPACE|main article space]], not any other [[WP:NAMESPACE|namespaces]].
+
+== Sandbox ==
+
+A sandbox has been set up so modifications to the template may be tested '''''before being implemented''''' in the template proper:
+
+'''[[Template:Infobox country/sandbox]]'''
+
+If possible, please try to view any modifications using a variety of web browsers and on different types of computer (PC, Macintosh, etc.). Thank you!
+
+== References ==
+{{Reflist}}
+
+== Microformat ==
+{{UF-hcard-place}}
+
+==TemplateData==
+{{TemplateDataHeader}}
+
+<templatedata>
+{
+    "description": "An infobox for countries.",
+    "params": {
+        "latd": {
+            "label": "latd",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "latm": {
+            "label": "latm",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "latNS": {
+            "label": "latNS",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "longd": {
+            "label": "longd",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "longm": {
+            "label": "longm",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "longEW": {
+            "label": "longEW",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "languages_type": {
+            "label": "languages_type",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "languages2_type": {
+            "label": "languages2_type",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "leader_name2": {
+            "label": "leader_name2",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "leader_name3": {
+            "label": "leader_name3",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "leader_name4": {
+            "label": "leader_name4",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "leader_name5": {
+            "label": "leader_name5",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "leader_name6": {
+            "label": "leader_name6",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "leader_name7": {
+            "label": "leader_name7",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "leader_name8": {
+            "label": "leader_name8",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "leader_name9": {
+            "label": "leader_name9",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "FR_total_population_estimate_year": {
+            "label": "FR_total_population_estimate_year",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "FR_foot": {
+            "label": "FR_foot",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "FR_total_population_estimate": {
+            "label": "FR_total_population_estimate",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "FR_total_population_estimate_rank": {
+            "label": "FR_total_population_estimate_rank",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "FR_metropole_population_estimate_rank": {
+            "label": "FR_metropole_population_estimate_rank",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "conventional_long_name": {
+            "label": "conventional_long_name",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "native_name": {
+            "label": "native_name",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "name": {
+            "label": "name",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "image_flag": {
+            "label": "image_flag",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "image_coat": {
+            "label": "image_coat",
+            "description": "",
+            "type": "string",
+            "aliases": ["image_symbol"],
+            "required": false
+        },
+        "flag_width": {
+            "label": "flag_width",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "alt_flag": {
+            "label": "alt_flag",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "flag_border": {
+            "label": "flag_border",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "common_name": {
+            "label": "common_name",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "linking_name": {
+            "label": "linking_name",
+            "description": "Name used for linking. Defaults to common_name or name.",
+            "type": "string",
+            "required": false
+        },
+        "image_flag2": {
+            "label": "image_flag2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "alt_flag2": {
+            "label": "alt_flag2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "flag2_border": {
+            "label": "flag2_border",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "symbol_width": {
+            "label": "symbol_width",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "alt_coat": {
+            "label": "alt_coat",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "alt_symbol": {
+            "label": "alt_symbol",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "symbol_type": {
+            "label": "symbol_type",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "flag_caption": {
+            "label": "flag_caption",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "symbol_type_article": {
+            "label": "symbol_type_article",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "national_motto": {
+            "label": "national_motto",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "motto": {
+            "label": "motto",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "national_anthem": {
+            "label": "national_anthem",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "anthem": {
+            "label": "anthem",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "royal_anthem": {
+            "label": "royal_anthem",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "other_symbol": {
+            "label": "other_symbol",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "text_symbol": {
+            "label": "text_symbol",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "other_symbol_type": {
+            "label": "other_symbol_type",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "text_symbol_type": {
+            "label": "text_symbol_type",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "image_map": {
+            "label": "image_map",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "map_width": {
+            "label": "map_width",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "alt_map": {
+            "label": "alt_map",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "map_caption": {
+            "label": "map_caption",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "image_map2": {
+            "label": "image_map2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "map2_width": {
+            "label": "map2_width",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "alt_map2": {
+            "label": "alt_map2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "map_caption2": {
+            "label": "map_caption2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "capital": {
+            "label": "capital",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "admin_center": {
+            "label": "admin_center",
+            "description": "",
+            "type": "string",
+            "required": false
+       },
+        "capital2": {
+            "label": "capital2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "admin_center2": {
+            "label": "admin_center2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "largest_city": {
+            "label": "largest_city",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "largest_settlement": {
+            "label": "largest_settlement",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "admin_center_type": {
+            "label": "admin_center_type",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "capital_type": {
+            "label": "capital_type",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "admin_center_type2": {
+            "label": "admin_center_type2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "capital_type2": {
+            "label": "capital_type2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "largest_settlement_type": {
+            "label": "largest_settlement_type",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "latd": {
+            "label": "latd",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "official_languages": {
+            "label": "official_languages",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "national_languages": {
+            "label": "national_languages",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "regional_languages": {
+            "label": "regional_languages",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "languages": {
+            "label": "languages",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "languages2_sub": {
+            "label": "languages2_sub",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "languages_sub": {
+            "label": "languages_sub",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "languages2": {
+            "label": "languages2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "ethnic_groups": {
+            "label": "ethnic_groups",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "ethnic_groups_year": {
+            "label": "ethnic_groups_year",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "nationalities": {
+            "label": "nationalities",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "demonym": {
+            "label": "demonym",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "org_type": {
+            "label": "org_type",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "membership": {
+            "label": "membership",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "membership_type": {
+            "label": "membership_type",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "government_type": {
+            "label": "government_type",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "politics_link": {
+            "label": "politics_link",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "leader_title1": {
+            "label": "leader_title1",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "leader_name1": {
+            "label": "leader_name1",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "leader_title2": {
+            "label": "leader_title2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "leader_title3": {
+            "label": "leader_title3",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "leader_title4": {
+            "label": "leader_title4",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "leader_title5": {
+            "label": "leader_title5",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "leader_title6": {
+            "label": "leader_title6",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "leader_title7": {
+            "label": "leader_title7",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "leader_title8": {
+            "label": "leader_title8",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "leader_title9": {
+            "label": "leader_title9",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "legislature": {
+            "label": "legislature",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "upper_house": {
+            "label": "upper_house",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "lower_house": {
+            "label": "lower_house",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_event1": {
+            "label": "established_event1",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "sovereignty_type": {
+            "label": "sovereignty_type",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established": {
+            "label": "established",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "sovereignty_note": {
+            "label": "sovereignty_note",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_event2": {
+            "label": "established_event2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_date1": {
+            "label": "established_date1",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_event3": {
+            "label": "established_event3",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_date2": {
+            "label": "established_date2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_event4": {
+            "label": "established_event4",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_date3": {
+            "label": "established_date3",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_event5": {
+            "label": "established_event5",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_date4": {
+            "label": "established_date4",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_event6": {
+            "label": "established_event6",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_date5": {
+            "label": "established_date5",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_event7": {
+            "label": "established_event7",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_date6": {
+            "label": "established_date6",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_event8": {
+            "label": "established_event8",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_date7": {
+            "label": "established_date7",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_event9": {
+            "label": "established_event9",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_date8": {
+            "label": "established_date8",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_event10": {
+            "label": "established_event10",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_date9": {
+            "label": "established_date9",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_event11": {
+            "label": "established_event11",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_date10": {
+            "label": "established_date10",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_event12": {
+            "label": "established_event12",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_date11": {
+            "label": "established_date11",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "established_date12": {
+            "label": "established_date12",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "area_km2": {
+            "label": "area_km2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "area_link": {
+            "label": "area_link",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "area_label": {
+            "label": "area_label",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "FR_foot4": {
+            "label": "FR_foot4",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "area_footnote": {
+            "label": "area_footnote",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "area_rank": {
+            "label": "area_rank",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "area_sq_mi": {
+            "label": "area_sq_mi",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "percent_water": {
+            "label": "percent_water",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "area_label2": {
+            "label": "area_label2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "area_data2": {
+            "label": "area_data2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "area_label3": {
+            "label": "area_label3",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "area_data3": {
+            "label": "area_data3",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "FR_metropole": {
+            "label": "FR_metropole",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "FR_foot2": {
+            "label": "FR_foot2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "FR_IGN_area_km2": {
+            "label": "FR_IGN_area_km2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "FR_IGN_area_rank": {
+            "label": "FR_IGN_area_rank",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "FR_IGN_area_sq_mi": {
+            "label": "FR_IGN_area_sq_mi",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "FR_foot3": {
+            "label": "FR_foot3",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "FR_cadastre_area_km2": {
+            "label": "FR_cadastre_area_km2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "FR_cadastre_area_rank": {
+            "label": "FR_cadastre_area_rank",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "FR_cadastre_area_sq_mi": {
+            "label": "FR_cadastre_area_sq_mi",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "population_estimate": {
+            "label": "population_estimate",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "population_census": {
+            "label": "population_census",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "FR_metropole_population": {
+            "label": "FR_metropole_population",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "population_link": {
+            "label": "population_link",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "population_estimate_year": {
+            "label": "population_estimate_year",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "population_estimate_rank": {
+            "label": "population_estimate_rank",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "population_label2": {
+            "label": "population_label2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "population_data2": {
+            "label": "population_data2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "population_label3": {
+            "label": "population_label3",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "population_data3": {
+            "label": "population_data3",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "population_census_year": {
+            "label": "population_census_year",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "population_census_rank": {
+            "label": "population_census_rank",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "population_density_km2": {
+            "label": "population_density_km2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "FR_foot5": {
+            "label": "FR_foot5",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "pop_den_footnote": {
+            "label": "pop_den_footnote",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "population_density_rank": {
+            "label": "population_density_rank",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "population_density_sq_mi": {
+            "label": "population_density_sq_mi",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "GDP_PPP": {
+            "label": "GDP_PPP",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "GDP_PPP_year": {
+            "label": "GDP_PPP_year",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "GDP_PPP_rank": {
+            "label": "GDP_PPP_rank",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "GDP_PPP_per_capita": {
+            "label": "GDP_PPP_per_capita",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "GDP_PPP_per_capita_rank": {
+            "label": "GDP_PPP_per_capita_rank",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "GDP_nominal": {
+            "label": "GDP_nominal",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "GDP_nominal_year": {
+            "label": "GDP_nominal_year",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "GDP_nominal_rank": {
+            "label": "GDP_nominal_rank",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "GDP_nominal_per_capita": {
+            "label": "GDP_nominal_per_capita",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "GDP_nominal_per_capita_rank": {
+            "label": "GDP_nominal_per_capita_rank",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "Gini": {
+            "label": "Gini",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "Gini_year": {
+            "label": "Gini_year",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "Gini_change": {
+            "label": "Gini_change",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "Gini_ref": {
+            "label": "Gini_ref",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "Gini_rank": {
+            "label": "Gini_rank",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "HDI": {
+            "label": "HDI",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "HDI_year": {
+            "label": "HDI_year",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "HDI_change": {
+            "label": "HDI_change",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "HDI_ref": {
+            "label": "HDI_ref",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "HDI_rank": {
+            "label": "HDI_rank",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "currency": {
+            "label": "currency",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "currency_code": {
+            "label": "currency_code",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "time_zone": {
+            "label": "time_zone",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "utc_offset": {
+            "label": "utc_offset",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "utc_offset_DST": {
+            "label": "utc_offset_DST",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "DST_note": {
+            "label": "DST_note",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "time_zone_DST": {
+            "label": "time_zone_DST",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "DST": {
+            "label": "DST",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "antipodes": {
+            "label": "antipodes",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "date_format": {
+            "label": "date_format",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "drives_on": {
+            "label": "drives_on",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "calling_code": {
+            "label": "calling_code",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "patron_saint": {
+            "label": "patron_saint",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "patron_saints": {
+            "label": "patron_saints",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "iso3166code": {
+            "label": "iso3166code",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "cctld": {
+            "label": "cctld",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "official_website": {
+            "label": "official_website",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "image_map3": {
+            "label": "image_map3",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "map3_width": {
+            "label": "map3_width",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "alt_map3": {
+            "label": "alt_map3",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "map_caption3": {
+            "label": "map_caption3",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "footnote_a": {
+            "label": "footnote_a",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "footnote_b": {
+            "label": "footnote_b",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "footnote_c": {
+            "label": "footnote_c",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "footnote_d": {
+            "label": "footnote_d",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "footnote_e": {
+            "label": "footnote_e",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "footnote_f": {
+            "label": "footnote_f",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "footnote_g": {
+            "label": "footnote_g",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "footnote_h": {
+            "label": "footnote_h",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "footnote1": {
+            "label": "footnote1",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "footnote2": {
+            "label": "footnote2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "footnote3": {
+            "label": "footnote3",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "footnote4": {
+            "label": "footnote4",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "footnote5": {
+            "label": "footnote5",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "footnote6": {
+            "label": "footnote6",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "footnote7": {
+            "label": "footnote7",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "footnote8": {
+            "label": "footnote8",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "footnotes": {
+            "label": "footnotes",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "navbar": {
+            "label": "navbar",
+            "description": "",
+            "type": "string",
+            "required": false
+        }
+    }
+}
+</templatedata>
+
+== See also ==
+* [[:Category:Country articles requiring maintenance]] (hidden tracking/maintenance category)
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox | |
+<!--Categories below this line, please; interwikis at Wikidata-->
+[[Category:Country infobox templates| ]]
+[[Category:Templates that add a tracking category]]
+}}</includeonly>

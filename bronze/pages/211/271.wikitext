@@ -1,0 +1,189 @@
+{{Infobox
+| bodyclass = vcard
+| above      = <span class="fn org">{{{name<includeonly>|{{{name_english|{{{party name|{{{party_name|{{PAGENAME}}}}}}}}}}}</includeonly>}}}</span>{{#if:{{{name_native<includeonly>|</includeonly>}}}{{{native_name|}}}|<br />''<small class="nickname">{{{name_native|{{{native_name}}}}}}</small>''}}
+| abovestyle = border-top: 2px solid {{#if:{{{colorcode|}}}|{{{colorcode}}}|transparent}}; border-bottom: 2px solid {{#if:{{{colorcode|}}}|{{{colorcode}}}|transparent}}
+
+| image      = {{{party logo|{{{party_logo|{{{logo<includeonly>|</includeonly>}}}}}}}}}
+| imageclass = logo
+| caption    = {{{caption<includeonly>|</includeonly>}}}
+
+| label2     = {{{lang1}}} name
+| class2     = nickname
+| data2      = {{{name_lang1<includeonly>|</includeonly>}}}
+
+| label3     = {{{lang2}}} name
+| class3     = nickname
+| data3      = {{{name_lang2<includeonly>|</includeonly>}}}
+
+| label4     = {{{lang3}}} name
+| class4     = nickname
+| data4      = {{{name_lang3<includeonly>|</includeonly>}}}
+
+| label5     = {{{lang4}}} name
+| class5     = nickname
+| data5      = {{{name_lang4<includeonly>|</includeonly>}}}
+
+| label6     = {{#ifeq:{{{disbanded|no}}}|no|Leader|Former&nbsp;leader}}
+| class6     = agent
+| data6      = {{{leader<includeonly>|</includeonly>}}}
+
+| label7     = {{#ifeq:{{{disbanded|no}}}|no|Chairperson|Former&nbsp;chairperson}}
+| class7     = agent
+| data7      = {{{chairperson<includeonly>|{{{chairman|}}}</includeonly>}}}
+
+| label8     = {{#ifeq:{{{disbanded|no}}}|no|President|Former&nbsp;president}}
+| class8     = agent
+| data8      = {{{president<includeonly>|</includeonly>}}}
+
+| label9     = {{#ifeq:{{{disbanded|no}}}|no|Secretary-General|Former&nbsp;secretary-general}}
+| class9     = agent
+| data9      = {{{secretary_general<includeonly>|{{{secretary|}}}</includeonly>}}}
+
+| label10    = {{#ifeq:{{{disbanded|no}}}|no|Spokesperson|Former&nbsp;spokesperson}}
+| class10    = agent
+| data10     = {{{spokesperson<includeonly>|{{{spokesman|}}}</includeonly>}}}
+
+| label11    = Founder
+| class11    = agent
+| data11     = {{{founder<includeonly>|</includeonly>}}}
+
+| label12    = {{{leader1_title<includeonly>|</includeonly>}}}
+| class12    = agent
+| data12     = {{{leader1_name<includeonly>|</includeonly>}}}
+
+| label13    = {{{leader2_title<includeonly>|</includeonly>}}}
+| class13    = agent
+| data13     = {{{leader2_name<includeonly>|</includeonly>}}}
+
+| label14    = {{{leader3_title<includeonly>|</includeonly>}}}
+| class14    = agent
+| data14     = {{{leader3_name<includeonly>|</includeonly>}}}
+
+| label15   = {{{leader4_title<includeonly>|</includeonly>}}}
+| class15    = agent
+| data15     = {{{leader4_name<includeonly>|</includeonly>}}}
+
+| label16    = Founded
+| data16     = {{{founded<includeonly>|{{{foundation|}}}</includeonly>}}}
+
+| label17    = Dissolved
+| data17     = {{{dissolved<includeonly>|{{{dissolution|}}}</includeonly>}}}
+
+| label18    = Merger of
+| data18     = {{{merger<includeonly>|</includeonly>}}}
+
+| label19    = Split from
+| data19     = {{{split<includeonly>|</includeonly>}}}
+
+| label20    = Preceded by
+| data20     = {{{predecessor<includeonly>|{{{preceded by|{{{preceded_by|}}}}}}</includeonly>}}}
+
+| label21    = Merged into
+| data21     = {{{merged<includeonly>|</includeonly>}}}
+
+| label22    = Succeeded by
+| data22     = {{{successor<includeonly>|{{{succeeded by|{{{succeeded_by|}}}}}}</includeonly>}}}
+
+| label23    = Headquarters
+| class23    = label
+| data23     = {{{headquarters<includeonly>|</includeonly>}}}
+
+| label24    = Newspaper
+| data24     = {{{newspaper<includeonly>|</includeonly>}}}
+
+| label25    = Student wing
+| data25     = {{{student_wing<includeonly>|</includeonly>}}}
+
+| label26    = Youth wing
+| data26     = {{{youth_wing<includeonly>|</includeonly>}}}
+
+| label27    = {{{wing1_title}}}
+| data27     = {{{wing1<includeonly>|</includeonly>}}}
+
+| label28    = {{{wing2_title}}}
+| data28     = {{{wing2<includeonly>|</includeonly>}}}
+
+| label29    = {{{wing3_title}}}
+| data29     = {{{wing3<includeonly>|</includeonly>}}}
+
+| label30    = Membership {{#if:{{{membership_year<includeonly>|</includeonly>}}}|&nbsp;({{{membership_year}}})}}
+| data30     = {{{membership<includeonly>|</includeonly>}}}
+
+| class31    = category
+| label31    = [[wikipedia:List of political ideologies|Ideology]]
+| data31     = {{{ideology<includeonly>|</includeonly>}}}
+
+| class32    = category
+| label32    = [[wikipedia:Political spectrum|Political position]]
+| data32     = {{{position<includeonly>|</includeonly>}}}
+
+| class33    = category
+| label33    = [[Religion]]
+| data33     = {{{religion<includeonly>|</includeonly>}}}
+
+| class34    = category
+| label34    = National affiliation
+| data34     = {{{national<includeonly>|</includeonly>}}}
+
+| class35    = category
+| label35    = International affiliation
+| data35     = {{{international<includeonly>|{{{international affiliation|}}}</includeonly>}}}
+
+| class36    = category
+| label36    = European affiliation
+| data36     = {{{european<includeonly>|{{{european affiliation|}}}</includeonly>}}}
+
+| class37    = category
+| label37    = European Parliament Group
+| data37     = {{{europarl<includeonly>|{{{european parliament group|}}}</includeonly>}}}
+
+| class38    = category
+| label38    = {{{affiliation1_title}}}
+| data38     = {{{affiliation1<includeonly>|</includeonly>}}}
+
+| label39    = Official colo{{#if:{{{colours|}}}|u|}}rs
+| data39     = {{{colo{{#if:{{{colours|}}}|u|}}rs<includeonly>|</includeonly>}}}
+
+| label40    = {{{blank1_title<includeonly>|{{{blank_title|}}}</includeonly>}}}
+| data40     = {{{blank1<includeonly>|{{{blank1_info|{{{blank_info|}}}}}}</includeonly>}}}
+
+| label41    = {{{blank2_title<includeonly>|</includeonly>}}}
+| data41     = {{{blank2<includeonly>|{{{blank2_info|}}}</includeonly>}}}
+
+| label42    = {{{blank3_title<includeonly>|</includeonly>}}}
+| data42     = {{{blank3<includeonly>|{{{blank3_info|}}}</includeonly>}}}
+
+| label43    = {{{seats1_title<includeonly>|</includeonly>}}}
+| data43     = {{{seats1<includeonly>|</includeonly>}}}
+
+| label44    = {{{seats2_title<includeonly>|</includeonly>}}}
+| data44     = {{{seats2<includeonly>|</includeonly>}}}
+
+| label45    = {{{seats3_title<includeonly>|</includeonly>}}}
+| data45     = {{{seats3<includeonly>|</includeonly>}}}
+
+| label46    = {{{seats4_title<includeonly>|</includeonly>}}}
+| data46     = {{{seats4<includeonly>|</includeonly>}}}
+
+| label47    = {{{seats5_title<includeonly>|</includeonly>}}}
+| data47     = {{{seats5<includeonly>|</includeonly>}}}
+
+| label48    = {{{seats6_title<includeonly>|</includeonly>}}}
+| data48     = {{{seats6<includeonly>|</includeonly>}}}
+
+| label49    = {{{seats7_title<includeonly>|</includeonly>}}}
+| data49     = {{{seats7<includeonly>|</includeonly>}}}
+
+| header50   = {{#if:{{{symbol<includeonly>|</includeonly>}}}|Election symbol}}
+
+| data51     = {{{symbol<includeonly>|</includeonly>}}}
+
+| header52   = {{#if:{{{website<includeonly>|</includeonly>}}}|Website}}
+
+| data53     = {{{website<includeonly>|</includeonly>}}}
+| belowstyle = font-size: small; border-top: 1px solid {{{colorcode|transparent}}}
+}}<noinclude>
+{{clear}}
+{{documentation}}
+
+Can't get the good version to work.

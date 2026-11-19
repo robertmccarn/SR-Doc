@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "*": "Wikipedia_pages_with_incorrect_protection_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": "Fossil range/marker"
+    },
+    {
+      "*": "Template_implementation_details",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p><span class=\"new\" title=\"Ar:قالب:Fossil range/marker (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvQXI6JUQ5JTgyJUQ4JUE3JUQ5JTg0JUQ4JUE4OkZvc3NpbF9yYW5nZS9tYXJrZXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">ar:قالب:Fossil range/marker</span>\n<span class=\"new\" title=\"Id:Templat:Rentang fosil/marka (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvSWQ6VGVtcGxhdDpSZW50YW5nX2Zvc2lsL21hcmthP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">id:Templat:Rentang fosil/marka</span>\n<span class=\"new\" title=\"La:Formula:Fossil range/marker (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvTGE6Rm9ybXVsYTpGb3NzaWxfcmFuZ2UvbWFya2VyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">la:Formula:Fossil range/marker</span>\n<span class=\"new\" title=\"Pl:Szablon:Okres istnienia grupy organizmów 2/znacznik (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvUGw6U3phYmxvbjpPa3Jlc19pc3RuaWVuaWFfZ3J1cHlfb3JnYW5pem0lQzMlQjN3XzIvem5hY3puaWs/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">pl:Szablon:Okres istnienia grupy organizmów 2/znacznik</span>\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119205703\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.026 seconds\nReal time usage: 0.045 seconds\nPreprocessor visited node count: 7/1000000\nPost‐expand include size: 168/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 3/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nLua time usage: 0.010/7.000 seconds\nLua memory usage: 712895/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   32.985      1 Template:Pp-template\n100.00%   32.985      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:1621-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205703 and revision id 3873. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Ar:قالب:Fossil range/marker",
+      "ns": 0
+    },
+    {
+      "*": "Id:Templat:Rentang fosil/marka",
+      "ns": 0
+    },
+    {
+      "*": "La:Formula:Fossil range/marker",
+      "ns": 0
+    },
+    {
+      "*": "Pl:Szablon:Okres istnienia grupy organizmów 2/znacznik",
+      "ns": 0
+    }
+  ],
+  "page_id": 1621,
+  "revision_id": 3873,
+  "title": "Template:Fossil range/marker"
+}

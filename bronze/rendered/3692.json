@@ -1,0 +1,26 @@
+{
+  "categories": [
+    {
+      "*": "Space_Age",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p><b>Prometheus 1</b> was an American space probe, the first to utilize a White-Alcubierre Drive or Warp Drive, which was launched to the Alpha Centauri System  11 October 2059. It was used to chart a safe course to the system and then conduct scientific surveys of the system and its planets prior to any human mission. The flight out took 18 months in which the warp drive was active for 5 jumps.\n</p><p>Prometheus 1 would be the progenitor to not only all <a href=\"/wiki/Enterprise-class_interstellar_vehicle\" class=\"mw-redirect\" title=\"Enterprise-class interstellar vehicle\">crewed warp capable spacecraft</a>, but also the 18 successive probes of the Prometheus program which were used extensively by NASA to chart safe courses through interstellar space and conduct missions of exploration and scientific observation prior to human contact. As of 2160, only the Prometheus 1, 9, and 14 have survived the program, with Prometheus 1 being featured in the Smithsonian Space Museum. Prometheus 9 and 14 are still in use, orbiting the neutron stars RX J1856.5−3754 and PSR J0108−1431.\n</p>\n<h2><span class=\"mw-headline\" id=\"Design\">Design</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a title=\"Sign in to edit\" class=\"mw-editsection-visualeditor\" data-tracking-label=\"log-in-edit-section\" data-action=\"edit-section\" href=\"https://auth.fandom.com/signin?redirect=https%3A%2F%2Fsecond-renaissance.fandom.com%2Fwiki%2FPrometheus_1%3Fveaction%3Dedit%26section%3D1&amp;uselang=en&amp;metadata=article-registration-edit-article-section\" data-auth-modal=\"signin\" data-testid=\"log-in-edit-section\" aria-label=\"Sign in to edit\"><svg class=\"wds-icon wds-icon-tiny\" aria-hidden=\"true\" focusable=\"false\"><use xlink:href=\"#wds-icons-pencil-tiny\"></use></svg></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>The Prometheus project was unique among interstellar space probes in that they predate <a href=\"/wiki/Chronoscope\" title=\"Chronoscope\">chronoscopes</a> and thus had to conduct far more warp jumps to provide an even semi-accurate simulation of interstellar space.\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119210019\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.007 seconds\nReal time usage: 0.011 seconds\nPreprocessor visited node count: 4/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:3692-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119210019 and revision id 11381. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Chronoscope",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Enterprise-class interstellar vehicle",
+      "exists": "",
+      "ns": 0
+    }
+  ],
+  "page_id": 3692,
+  "revision_id": 11381,
+  "title": "Prometheus 1"
+}

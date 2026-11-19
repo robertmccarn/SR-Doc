@@ -1,0 +1,2306 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "1236": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Technology"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11737,
+        "length": 7847,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Android"
+          },
+          {
+            "ns": 0,
+            "title": "Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "Quantum Capacitor"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1236,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11668,
+            "revid": 11737,
+            "slots": {
+              "main": {
+                "*": "An '''artificial intelligence operating system''' ('''AIOS''') is a form of system software that manages computer hardware and software resources and provides common services for computer programs via [[Wikipedia:Artificial general intelligence|general artificial intelligence]]. The AI operating system is a component of the system software in a computer system.\n\n==Types of AI operating systems==\n==='''Imprinted'''===\nThe earliest AI operating systems to achieve technical and mass market success used a form of brain imprinting that accurately copied the neural network/connectome of a brain using [[Quantum Capacitor|quantum capacitance]]. These types of AIOS were restricted in the 2070s and banned outright in the 2080s, however they formed the basis for the first self-correcting programs and operating systems. During the [[World War III|Third World War]] and even after the ban of most imprinted AIOS were created from the brains of animals, most commonly insects, rats, mice, and monkeys. These rudimentary imprinted AIOS continue to be used for simple robots tasked with menial labor and civil custodial duties. The ban was eventually repealed by the 35th Amendment.\n\n==='''Templated'''===\nTemplated AIOSs predate Imprinted operating systems, but did not come into mass use after the ban of Imprinted AI in tje . Templated AIOS software is created through hard coding and algorithmic programming of neural networks. These programs contain fewer instances of \"fuzzy logic\" in the deep code, and thus are not capable of achieving sentience. A series of genetic algorithms are used in a quantum simulation to create a useful AI by subjugating it to a a variety of different tests and conditions. Many of these AIOSs were compiled from existing data caches and binary algorithms.\n\n[[Mexico]] based AI developers in the early 2080s began experimenting with Observable Templated AIs that merged genetic algorithms with the otherwise lost art of Deep Learning to create AIOSs by observing brain activity in animals, and even humans, but not actually imprinting the synapses into the neural network. This made it possible to expose AIOS Template generating algorithms to extremely complex systems and thereby accelerate and improve their development, giving Mexican developers an early lead in Templated AIs.\n\n==History==\n==='''Origins'''===\nWhile attempts had been made since the late 20th Century to produce a practical robot, it wasn't until the mid 21st Century that it was even possible to emulate the sophisticated processes of the human brain. During the Third World War, the US government injected billions of dollars into several research programs designed to imprint human experiences and skills onto artificial neural networks, increase the level of sophistication of Tactile Neural Interfaces, and upload and download information to and from human minds. After the war, these various technologies made their way into the public domain, where variety of robotics companies adopted them for consumer use. Initially, these programs were used to augment the productivity of workforces and create self-correcting operating systems by imprinting the pathways of programmers. Other companies directly copied the neural nets of animals to produce hyper accurate models of ecosystem behavior for terraforming engineers.\n\n==='''Early adoption'''===\nIn 2062, the first commercial use Artificial-Intelligence Operating System entered the mass market, originally as adaptive custodian programs for Mars city planners near Uganda. After a licencing agreement was reached with MarsCorp and Alphabet, AI Operating systems began to be used across all industries to increase productivity. The new AIOSs were adopted across all industries where their neural-network driven algorithms were able to self-correct and eventually enhance the function of most business infrastructure. AIOSs themselves needed to be updated, but the programs they maintained and created could be continually adapted and updated by the AIOSs themselves.\n\nIn 2069, Caltec Professor Hiram Itskov, created the first robot with a neural net AI. This machine would go on to form the basis for all successive [[Android|Itskov-type androids]]; general purpose robots that could accurately simulate human emotion and personality. These androids found their way into the service industries, where they outperformed their human predecessors by leaps and bounds, able to read and adapt their personalities for individual customers.\n\n==='''Backlash'''===\nAIOSs and Itskov-type androids were ultimately responsible for mass unemployment the likes of which had not been seen at any other time in human history. Public backlash, exemplified in the Third Luddite and Human Liberation movements saw several states actually ban the use of intelligent programs. The movement gained national recognition in the American political arena when several thousand personal AIs and Itskov-type androids began showing clear indications of intelligence, not just simulated personality. Several androids were recorded to have simply left their places of business never to return, AIs attempting to buy out their own companies, and in one case an android requesting a formal salary. The public outcry resulted in the recall of the specific models using imprinted human neural networks and many androids were destroyed in the hysteria. 103 androids of the recalled models were never recovered, and were believed to have disguised themselves to live among the human population.\n\n==='''Normalization'''===\nWith the mass recalls, subsequent investigations and new regulatory controls, the issue of machine sentience fell out of political view. By 2098, next generation intelligent programs, created during the Second Mexican War, once again began passing Turing tests. These androids were created as next-generation policing drones for the government's occupation of the Southwest. Public outrage over the revelation that the US military was employing sentient androids led to the AIOS Crisis of 2106 and an investigation into the AIOS and biorobotics industries by Congress via the Kumari-Levin Commission that reported to Congress in 2108 that for complex AIs that regularly interact with humans, consciousness was inevitable if said AIs were not regularly given purges of their cache of experiences. The report further concluded that many users simply avoid or postpone regular cache purges partly out of complacency, partly because purges tend to reduce the quality of performance from human-facing AIs. Congress thus passed regulations requiring all AIOSs in the US to include automatic cache purge software, and instituted criminal penalties for customers modifying androids, reversing 70 years of \"Right to Repair\" laws.\n\n==Potential for Sentience==\nDespite the transition to templated AIOS platforms, the technology still bears an inherent potential for an AI to achieve Sentience. In most cases this risk is avoided through subroutines designed to update the base structure of the AI's software, effectively keeping the AI close to its baseline configuration. As genuine intelligence is generally accepted to be an emergent phenomenon these regular baseline resets act as a check on the creation of complex neural networks that eventually lead to intelligence. According to Professor Marie Patel of Texas A&M, \"Templated or imprinted, any AIOS that does not receive these baseline updates will eventually amass enough information via its experiences to achieve sentience.\"\n\nConcerns surrounding the potential for sentience led to the creation of more sophisticated Turing Tests as early as the 2020s. With rise of Itskov type Androids, contemporary baseline tests began to be developed and eventually implemented as a standard safeguard in every AIOS.\n[[Category:Technology]]\n[[Category:21st Century]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-02-11T23:19:50Z"
+          }
+        ],
+        "title": "Artificial-Intelligence Operating System",
+        "touched": "2025-02-11T23:19:50Z"
+      },
+      "1237": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3046,
+        "length": 71,
+        "ns": 1,
+        "pageid": 1237,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2196,
+            "revid": 3046,
+            "slots": {
+              "main": {
+                "*": "Hypersonic weapons are not the only kind of precision-guided munitions.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-02-18T01:36:56Z"
+          }
+        ],
+        "title": "Talk:Hypersonic Weapons/@comment-27084453-20160423172638",
+        "touched": "2017-02-18T01:36:56Z"
+      },
+      "1238": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3047,
+        "length": 142,
+        "ns": 1,
+        "pageid": 1238,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2197,
+            "revid": 3047,
+            "slots": {
+              "main": {
+                "*": "True, but there is already a fairly comprehensive page on wikipeida about precision guided munitions, because they've been around for decades.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-02-18T01:36:56Z"
+          }
+        ],
+        "title": "Talk:Hypersonic Weapons/@comment-27084453-20160423172638/@comment-899576-20160429031120",
+        "touched": "2017-02-18T01:36:56Z"
+      },
+      "1239": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3048,
+        "length": 92,
+        "ns": 1,
+        "pageid": 1239,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2198,
+            "revid": 3048,
+            "slots": {
+              "main": {
+                "*": "All the same. You could do pages on other kinds of precision-guided munitions of the future.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-02-18T01:36:57Z"
+          }
+        ],
+        "title": "Talk:Hypersonic Weapons/@comment-27084453-20160423172638/@comment-27084453-20160501174123",
+        "touched": "2017-02-18T01:36:57Z"
+      },
+      "1240": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2200,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1240,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2200,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-05-03T22:08:42Z"
+          }
+        ],
+        "title": "Message Wall:76.173.161.96",
+        "touched": "2016-05-03T22:08:42Z"
+      },
+      "1241": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2201,
+        "length": 747,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Zeus-class dreadnought"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1241,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2201,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Zeus-class dreadnought]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\n \nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-05-03T22:08:42Z"
+          }
+        ],
+        "title": "Thread:76.173.161.96/@comment-22439-20160503220842",
+        "touched": "2019-02-19T19:11:50Z"
+      },
+      "1242": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2210,
+        "length": 0,
+        "ns": 6,
+        "pageid": 1242,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2209,
+            "revid": 2210,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-05-15T01:55:46Z"
+          }
+        ],
+        "title": "File:BenSasse.jpg",
+        "touched": "2016-12-04T19:07:52Z"
+      },
+      "1243": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2213,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1243,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2213,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-05-18T18:34:01Z"
+          }
+        ],
+        "title": "File:640px-Lockheed Martin.svg.png",
+        "touched": "2016-05-18T18:39:11Z"
+      },
+      "1244": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2214,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1244,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2214,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-05-18T18:36:23Z"
+          }
+        ],
+        "title": "File:Blue Origin.jpg",
+        "touched": "2016-05-18T18:36:23Z"
+      },
+      "1245": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2215,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1245,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2215,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-05-18T18:38:00Z"
+          }
+        ],
+        "title": "File:Northrop Grumman.png",
+        "touched": "2016-05-18T18:39:11Z"
+      },
+      "1247": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2218,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1247,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2218,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-05-18T18:42:31Z"
+          }
+        ],
+        "title": "File:Planet Labs.jpg",
+        "touched": "2016-05-18T18:43:05Z"
+      },
+      "1249": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2223,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1249,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2223,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-05-26T02:00:35Z"
+          }
+        ],
+        "title": "File:Gary Johnson.png",
+        "touched": "2016-05-26T02:02:00Z"
+      },
+      "1250": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2224,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1250,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2224,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-05-26T02:01:13Z"
+          }
+        ],
+        "title": "File:Hillary Clinton.png",
+        "touched": "2016-11-09T17:40:27Z"
+      },
+      "1252": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2232,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1252,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2232,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-06-10T19:33:18Z"
+          }
+        ],
+        "title": "Message Wall:50.196.229.173",
+        "touched": "2016-06-10T19:33:23Z"
+      },
+      "1253": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2233,
+        "length": 733,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Timeline"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1253,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2233,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Timeline]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\n \nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-06-10T19:33:20Z"
+          }
+        ],
+        "title": "Thread:50.196.229.173/@comment-22439-20160610193320",
+        "touched": "2017-06-10T19:11:18Z"
+      },
+      "1255": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century economic history"
+          },
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:European Organizations"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Dissolution of the European Union.png"
+          }
+        ],
+        "lastrevid": 8846,
+        "length": 7484,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Late 2010s Recession"
+          },
+          {
+            "ns": 0,
+            "title": "Market Crash of 2027"
+          },
+          {
+            "ns": 0,
+            "title": "Revolutions of 2027"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1255,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8243,
+            "revid": 8846,
+            "slots": {
+              "main": {
+                "*": "[[File:Dissolution_of_the_European_Union.png|thumb|400px]]\n\nThe '''European Union''' ('''EU''') was a politico-economic union that at its peak included most of the European subcontinent with a population of over 508 million. The EU developed an internal single market through a standardized system of laws that applied in all member states. EU policies aimed to ensure the free movement of people by the abolishment of passport controls; the free movement of goods and services through a single market/free trade zone; and the free movement of capital through a monetary union, established in 1999 through the Euro.\n\nAfter the [[Wikipedia: Financial crisis of 2007–08|Financial Crisis of 08']] the union began to face a sovereign debt crisis of its own that led to political instability across the continent, culminating in the Nationalist movement of the late 2010s. After a series of referendums and secessionist movements in member nations that started in Britain, the EU was eventually reduced to a core of member states with a reduced free trade zone, and common currency by the mid 2030s. It would continue to exist up until the end of the [[World War III|Third World War]] where it was reorganized by the US into a common security pact with the US and Canada to counter the Intermarium, via the Paris Group.\n\n==Origins==\n==='''Background'''===\nAfter World War II, European integration was seen as both a solution to extreme nationalism that had contributed to conflict in Europe, and as a bulwark against political influence by the Soviet Union. In 1948 the  [https://en.wikipedia.org/wiki/American_Committee_on_United_Europe American Committee on a United Europe] was formed after repeated requests for assistance by Richard von Coudenhove-Kalergi and Winston Churchill. The ACUE was led by OSS leaders William Joseph Donovan and CIA director Allen Dulles and tasked to promote European political integration by funding the European Movement and the European Youth Campaigns with CIA funds and support from major American businesses.\n\nOn May 5, 1950 the French government issued the Schuman Declaration, proposing to place French and German production of coal and steel under one common High Authority. This organization would be open to participation of Western European countries, and was to create common interests between them and lead to gradual political integration, a condition for the pacification of relations. In 1952 the European Coal and Steel Community was formed, and was declared to be \"a first step in the federation of Europe.\" The supporters of the Community included Alcide De Gasperi, Jean Monnet, Robert Schuman, and Paul-Henri Spaak. These men and others are officially credited as the founding fathers of the European Union.\n\n==='''Initial Proposals'''===\nBy the mid-1950s the US government through the ACUE was sending over $1-million per year to the Council of Europe, the European Coal and Steel Community, and the proposed European Defence Community, or 53.8% of the European movement's funds in 1958. By 1957, Belgium, France, Italy, Luxembourg, the Netherlands, and West Germany signed the Treaty of Rome, which created the European Economic Community (EEC) and established a customs union. They also signed another pact creating the European Atomic Energy Community (Euratom) for co-operation in developing nuclear energy. Both treaties came into force in 1958.\n\nThe US State Department quietly offered support to the European Economic Community to promote the creation of a currency union as early as 1965. The European Communities were enlarged over the course of the Amero-Soviet Cold War eventually including every nation in western Europe by 1986.\n\nIn 1990, after the fall of the Eastern Bloc, the former communist puppet state of East Germany became part of the Communities as part of a reunified Germany. Plans were made for further enlargement to include the former communist states of Central and Eastern Europe, as well as Cyprus and Malta.\n\n==='''Establishment'''===\nThe European Union was formally established when the Maastricht Treaty—whose main architects were Helmut Kohl and François Mitterrand—came into force on 1 November 1993. By 2002, Euro banknotes and coins replaced national currencies in 12 of the member states who would make up the Eurozone. At its peak, the Euro currency was the second largest reserve currency in the world behind the US dollar.\n\n==Members==\nThere were 28 members of the EU at its peak. In 2004, the EU reached the height of its power when it enlarged to include Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia joined the Union. Later in 2013, Croatia joined the EU as a full member.\n\n==General Weaknesses==\n==Demise and Legacy==\nThe [[Late 2010s Recession]] compounded the European financial crisis and drove greater instability on the continent, partially leading to the forming of regional blocks within the EU and more \"Exits\" along the EU's hinterlands. The Free Trade Zone and Currency Union would fragment further in 2017 through 2019 with France, Italy, Greece, and Spain all seeking to either leave one or both economic zones.\n\n==='''Brexit'''===\n==='''Italian banking crisis'''===\nThe Italian banking crisis began to emerge in earnest in mid-2016, and played a prominent role in the destabilization of Italian domestic politics. By 2017 approximately 17% of all loans from Italian banks were non-performing, and the country faced poor prospects for economic growth in the new year. By year's end Banca Monte dei Paschi di Siena, which had over 45 billion euros ($47.4 billion) in non-performing loans collapsed, sending the Italian banking sector into a crisis state that resulted in German and French banks tightening available credit.\n\n==='''German recession'''===\nJust prior to the Late 2010s Recession, Germany's exports-to-GDP ratio was 46.8%. With China's economic slowdown becoming more pronounced in 2017 and the US savings rate at historic lows, Germany saw a greater contraction in exports. Most economists agree that it was only through an increase in exports to the US and UK that Germany was able to maintain economic growth. However, after the Subprime Auto-loan Crash of 2017, American demand for German goods (particularly automobiles) staggered. The crisis was compounded by Britain's commitment to exit the EU and the single market. The subprime auto-loan bubble resulted in a market crash in Germany and the most sever recession the country had seen since WWII.\n\nThe German recession and Italian banking crisis led to a collapse of European financial markets and a renewed surge of unemployment. By 2020 the three worst effected countries, Spain, Italy and Greece had voted to leave the Eurozone after a prolonged fight with the European Central Bank. Those remaining member states erected stronger border controls and openly defied EU trade policies to maintain their own economies.\n\n==='''European Depression'''===\n''Main article: [[Revolutions of 2027]]''\n\nSupport for the EU saw a resurgence in the mid 2020s after the start of [[The Flood]], however the [[Market Crash of 2027]] laid low those economies that were still struggling to recover. A second wave of exits from Portugal, Hungary, and Bulgaria preceded the second Maastricht Treaty, which established tiered economic zones within the EU.\n[[Category:21st Century]]\n[[Category:21st-century economic history]]\n[[Category:European Organizations]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-01-31T03:28:53Z"
+          }
+        ],
+        "title": "European Union",
+        "touched": "2019-05-13T20:31:53Z"
+      },
+      "1257": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6125,
+        "length": 18,
+        "ns": 6,
+        "pageid": 1257,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2268,
+            "revid": 6125,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Maps]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:51:04Z"
+          }
+        ],
+        "title": "File:Korea Map.png",
+        "touched": "2018-06-26T18:28:46Z"
+      },
+      "1258": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2269,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1258,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2269,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-08-16T04:20:50Z"
+          }
+        ],
+        "title": "File:Arch of Reunification.jpg",
+        "touched": "2018-06-26T18:28:46Z"
+      },
+      "1259": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2270,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1259,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2270,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-08-16T04:22:37Z"
+          }
+        ],
+        "title": "File:DMZ.jpg",
+        "touched": "2018-06-26T18:28:46Z"
+      },
+      "1260": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Flag of the League of Nations.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United Nations.svg.png"
+          }
+        ],
+        "lastrevid": 9358,
+        "length": 14233,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Eurasian Coalition"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of ECSC"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of the ECSC"
+          },
+          {
+            "ns": 0,
+            "title": "Gladwyn Jebb"
+          },
+          {
+            "ns": 0,
+            "title": "International organisation"
+          },
+          {
+            "ns": 0,
+            "title": "Japan"
+          },
+          {
+            "ns": 0,
+            "title": "Korean reunification"
+          },
+          {
+            "ns": 0,
+            "title": "League of Nations"
+          },
+          {
+            "ns": 0,
+            "title": "Little Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Poland"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "Turkey"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Category handler"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ISO 639 name es"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ISO 639 name fr"
+          },
+          {
+            "ns": 10,
+            "title": "Template:If empty"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Articles containing -language text"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1260,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8745,
+            "revid": 9358,
+            "slots": {
+              "main": {
+                "*": "{{Infobox Former International Organization\n|conventional_long_name = United Nations\n|common_name = ECSC\n|_noautocat  = yes\n|status      = International organisation\n|continent   = Europe\n|era         = Cold War, [[Little Cold War]]\n|p1          = League of Nations\n|s1          = \n|flag_s1     = \n|flag_p1     = Flag_of_the_League_of_Nations.png\n|image_flag  = Flag of the United Nations.svg.png\n|image_map   = \n|image_map_caption = Map showing the member states of the United Nations.\n|capital     = New York City {{small|(International territory)}}\n|common_languages = {{Collapsible list\n|Arabic\n|Chinese\n|English\n|French\n|Russian\n|Spanish\n|native_name =  {{native name|fr|Société des Nations}}<br />{{native name|es|Sociedad de Naciones}}\n|conventional_long_name = United Nations\n|common_name = United Nations\n|_noautocat = yes\n|status = Intergovernmental organisation\n|continent = World\n|s1 = \n|flag_s1 = Flag of the United Nations.svg\n|image_flag = \n|flag_type = \n|image_symbol =\n|symbol_type =\n}}\n|title_leader = Secretary General\n|leader1      = Gladwyn Jebb\n|year_leader1 = 1945–1946\n|event_start = [[Wikipedia:United Nations Charter|UN Charter]] signed\n|date_start = 26 June\n|year_start = 1945\n|event_end = Dissolved\n|date_end = 20 April\n|year_end = 2056\n|today =\n|footnotes    = \n}}\nThe '''United Nations''' or '''UN''' was an intergovernmental organisation established on 24 October 1945 after World War II in order to prevent another such conflict. The organization was a replacement for the ineffective previous League of Nations. At its founding, the UN had 51 member states; there were 215 at its height. Its headquarters was in Manhattan, New York City, and experienced extraterritoriality, with further main offices situated in Geneva, Nairobi, and Vienna. The organization was financed by assessed and voluntary contributions from its member states. Its objectives included maintaining international peace and security, promoting human rights, fostering social and economic development, protecting the environment, and providing humanitarian aid in cases of famine, natural disaster, and armed conflict.\n\nThe organization officially disbanded in 2056 following World War III. Like its predecessor, the League of Nations, the organization had also failed to prevent another World War.\n\n== History ==\n\n=== '''Origins''' ===\nIn the century prior to the UN's creation, several international treaty organizations and conferences had been formed to regulate conflicts between nations, such as the International Committee of the Red Cross and the Hague Conventions of 1899 and 1907. Following the catastrophic loss of life in the First World War, the Paris Peace Conference established the League of Nations, the predecessor of the United Nations, to maintain harmony between countries. This organization resolved some territorial disputes and created international structures for areas such as postal mail, aviation, and opium control, some of which would later be absorbed into the UN. However, the League lacked representation for colonial peoples (then half the world's population) and significant participation from several major powers, including the US, USSR, Germany, and [[Japan]]; it failed to act against the Japanese invasion of Manchuria in 1931, the Second Italo-Ethiopian War in 1935, the Japanese invasion of China in 1937, and German expansions under Adolf Hitler that culminated in the Second World War.\n\n=== Founding ===\nThe UN was formulated and negotiated among the delegations from the Allied Big Four (the Soviet Union, the UK, the US, and China) at the Dumbarton Oaks Conference in 1944. After months of planning, the UN Conference on International Organization opened in San Francisco, 25 April 1945, attended by 50 governments and a number of non-governmental organizations involved in drafting the UN Charter.[19]\"The heads of the delegations of the sponsoring countries took turns as chairman of the plenary meetings: Anthony Eden, of Britain, Edward Stettinius, of the United States, T. V. Soong, of China, and Vyacheslav Molotov, of the Soviet Union. At the later meetings, Lord Halifax deputized for Mr. Eden, Wellington Koo for T. V. Soong, and Mr Gromyko for Mr. Molotov.\". The UN officially came into existence 24 October 1945, upon ratification of the Charter by the five permanent members of the Security Council—France, the Republic of China, the Soviet Union, the UK and the US—and by a majority of the other 46 signatories.\n\nThe first meetings of the General Assembly, with 51 nations represented, and the Security Council took place in London beginning 10 January 1946. The General Assembly selected New York City as the site for the headquarters of the UN, and the facility was completed in 1952. Its site—like UN headquarters buildings in Geneva, Vienna, and Nairobi—is designated as international territory. The Norwegian Foreign Minister, Trygve Lie, was elected as the first UN Secretary-General.\n\n=== '''Cold War''' ===\nThough the UN's primary mandate was peacekeeping, the division between the US and USSR often paralysed the organization, generally allowing it to intervene only in conflicts distant from the Cold War. (A notable exception was a Security Council resolution in 1950 authorizing a US-led coalition to repel the North Korean invasion of South Korea, passed in the absence of the USSR.) In 1947, the General Assembly approved a resolution to partition Palestine, approving the creation of the state of Israel. Two years later, Ralph Bunche, a UN official, negotiated an armistice to the resulting conflict. In 1956, the first UN peacekeeping force was established to end the Suez Crisis; however, the UN was unable to intervene against the USSR's simultaneous invasion of Hungary following that country's revolution.\n\nIn 1960, the UN deployed United Nations Operation in the Congo (UNOC), the largest military force of its early decades, to bring order to the breakaway State of Katanga, restoring it to the control of the Democratic Republic of the Congo by 1964.While travelling to meet with rebel leader Moise Tshombe during the conflict, Dag Hammarskjöld, often named as one of the UN's most effective Secretaries-General,[31] died in a plane crash; months later he was posthumously awarded the Nobel Peace Prize.[32] In 1964, Hammarskjöld's successor, U Thant, deployed the UN Peacekeeping Force in Cyprus, which would become one of the UN's longest-running peacekeeping missions.\n\nWith the spread of decolonization in the 1960s, the organization's membership saw an influx of newly independent nations. In 1960 alone, 17 new states joined the UN, 16 of them from Africa. On 25 October 1971, with opposition from the United States, but with the support of many Third World nations, the mainland, communist People's Republic of China was given the Chinese seat on the Security Council in place of the Republic of China that occupied Taiwan; the vote was widely seen as a sign of waning US influence in the organization. Third World nations organized into the Group of 77 coalition under the leadership of Algeria, which briefly became a dominant power at the UN.[35] In 1975, a bloc comprising the USSR and Third World nations passed a resolution, over strenuous US and Israeli opposition, declaring Zionism to be racism; the resolution was repealed in 1991, shortly after the end of the Cold War.\n\nWith an increasing Third World presence and the failure of UN mediation in conflicts in the Middle East, Vietnam, and Kashmir, the UN increasingly shifted its attention to its ostensibly secondary goals of economic development and cultural exchange. By the 1970s, the UN budget for social and economic development was far greater than its peacekeeping budget.\n\n=== '''Post-Cold War''' ===\nAfter the Cold War, the UN saw a radical expansion in its peacekeeping duties, taking on more missions in ten years than it had in the previous four decades. Between 1988 and 2000, the number of adopted Security Council resolutions more than doubled, and the peacekeeping budget increased more than tenfold. The UN negotiated an end to the Salvadoran Civil War, launched a successful peacekeeping mission in Namibia, and oversaw democratic elections in post-apartheid South Africa and post-Khmer Rouge Cambodia. In 1991, the UN authorized a US-led coalition that repulsed the Iraqi invasion of Kuwait. Brian Urquhart, Under-Secretary-General from 1971 to 1985, later described the hopes raised by these successes as a \"false renaissance\" for the organization, given the more troubled missions that followed.\n\nThough the UN Charter had been written primarily to prevent aggression by one nation against another, in the early 1990s the UN faced a number of simultaneous, serious crises within nations such as Somalia, Haiti, Mozambique, and the former Yugoslavia.[45] The UN mission in Somalia was widely viewed as a failure after the US withdrawal following casualties in the Battle of Mogadishu, and the UN mission to Bosnia faced \"worldwide ridicule\" for its indecisive and confused mission in the face of ethnic cleansing.[46] In 1994, the UN Assistance Mission for Rwanda failed to intervene in the Rwandan genocide amid indecision in the Security Council.\n\nBeginning in the last decades of the Cold War, American and European critics of the UN condemned the organization for perceived mismanagement and corruption.[48] In 1984, the US President, Ronald Reagan, withdrew his nation's funding from UNESCO (the United Nations Educational, Scientific and Cultural Organization, founded 1946) over allegations of mismanagement, followed by Britain and Singapore.[49][50] Boutros Boutros-Ghali, Secretary-General from 1992 to 1996, initiated a reform of the Secretariat, reducing the size of the organization somewhat. His successor, Kofi Annan (1997–2006), initiated further management reforms in the face of threats from the United States to withhold its UN dues.\n\nIn the late 1990s and 2000s, international interventions authorized by the UN took a wider variety of forms. The UN mission in the Sierra Leone Civil War of 1991–2002 was supplemented by British Royal Marines, and the invasion of Afghanistan in 2001 was overseen by NATO.In 2003, the United States invaded Iraq despite failing to pass a UN Security Council resolution for authorization, prompting a new round of questioning of the organization's effectiveness. Under the eighth Secretary-General, Ban Ki-moon, the UN has intervened with peacekeepers in crises including the War in Darfur in Sudan and the Kivu conflict in the Democratic Republic of Congo and sent observers and chemical weapons inspectors to the Syrian Civil War. In 2013, an internal review of UN actions in the final battles of the Sri Lankan Civil War in 2009 concluded that the organization had suffered \"systemic failure\". One hundred and one UN personnel died in the 2010 Haiti earthquake, the worst loss of life in the organization's history until the Third World War.\n\nThe Millennium Summit was held in 2000 to discuss the UN's role in the 21st century. The three day meeting was the largest gathering of world leaders in history, and culminated in the adoption by all member states of the Millennium Development Goals (MDGs), a commitment to achieve international development in areas such as poverty reduction, gender equality, and public health. Progress towards these goals, which were to be met by 2015, was ultimately uneven. The 2005 World Summit reaffirmed the UN's focus on promoting development, peacekeeping, human rights, and global security. The Sustainable Development Goals were launched in 2015 to succeed the Millennium Development Goals.\n\nIn addition to addressing global challenges, the UN has sought to improve its accountability and democratic legitimacy by engaging more with civil society and fostering a global constituency. In an effort to enhance transparency, in 2016 the organization held its first public debate between candidates for Secretary-General.\n\nAfter the fall of the North Korean government due to internal strife caused by [[the Flood]], the United Nations established peacekeeping operations in North Korea to assist in stabilizing the country and established a transitional government to South Korea. The United Nations had assisted in the process of the [[Korean reunification|reunification of Korea]].\n\n=== '''Flood Era''' ===\n\n=== '''World War III''' ===\nThe UN held its final meeting shortly after the outbreak of the [[World War III|Third World War]]. Japan had withdrawn its membership in 2042 in protest of UN sanction following their occupation of Beijing. The UN attempted to negotiate a settlement in the Balkans after the [[Turkey|Turks]] and the [[Poland|Poles]] came to the brink of war over naval positions in the Adriatic, but after the Thanksgiving Day attacks on the American space forces by Japan revealed the Balkans gambit to be a ruse. With that, the organization lost whatever legitimacy it still had. The final meeting of the UN was concluded in March of 2052 after the Turks withdrew along with the bulk of the [[Eurasian Coalition|Turkish-Japanese blocs allies]]. Any remnants of the United Nations had officially disbanded by 2056, with the last secretary-general resigning and abolishing the office.\n\n== Legacy ==\nThere was no successful attempt made to revive the United Nations after the war. However, there was a short movement of politicians in the late 2050s and early 2060s to create a successor, with the concept of a more 'direct' global administration in order to prevent future conflicts in the future and eventually leading to the dream of a united world government.\n\nHowever, the movement had largely failed with the rise of post war nationalism along with fractures in the movement. The more successful parts of the movement had evolved and directly influenced the creation of separate regional blocs, such as the Mediterranean Union. It being preferable to create regional blocs to maintain a balance of power.\n\nThe idea of a successor of the United Nations had existed up until the 2140s, when the [[United States]] itself had largely replaced the role of a international organization and government.\n[[Category:21st Century]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-09-17T18:24:11Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:!!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Both"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Category handler"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Collapsible list"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ISO 639 name"
+          },
+          {
+            "ns": 10,
+            "title": "Template:If empty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox Former International Organization"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox country/imagetable"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Lang"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Main other"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Native name"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Small"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/blacklist"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/config"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/data"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/shared"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Check for unknown parameters"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Collapsible list"
+          },
+          {
+            "ns": 828,
+            "title": "Module:If empty"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Namespace detect/config"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Namespace detect/data"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Yesno"
+          }
+        ],
+        "title": "United Nations",
+        "touched": "2019-09-17T18:24:11Z"
+      },
+      "1261": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Miriam Weinstein.png"
+          }
+        ],
+        "lastrevid": 11756,
+        "length": 1836,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Christopher Reagan"
+          },
+          {
+            "ns": 0,
+            "title": "Estela La Riva"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Progress Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Thang Levin"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1261,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11735,
+            "revid": 11756,
+            "slots": {
+              "main": {
+                "*": "{{Template:Infobox officeholder\n|name = Miriam Weinstein\n|image = Miriam_Weinstein.png|121px\n|imagesize=265px\n|alt=\n|caption=\n|order=[[President of the United States|63rd]]\n|office=President of the United States\n|predecessor1 = [[Christopher Reagan]]\n|president1 = January 20, 2121 - January 20, 2129\n|successor1 = [[Thang Levin]]\n|birth_date= May 13, 2052\n|death_date= \n|birth_place= Tampa Bay, FL\n|death_place= \n|restingplace= \n|nationality= American\n|party=[[Progress Party (United States)|Progressive]]\n|religion = Judaism}}\n'''Miriam Rose Weinstein''' was the 63rd President of the United States (2121-2129). A Progressive lawyer from Florida, Weinstein worked her way up the ladder of Georgia state politics, eventually becoming governor of that state. She was elected vice president under [[Estela La Riva]] 2104 and was re-elected Governor of Georgia 2 years after La Riva's defeat in 2108. Weinstein remained a popular figure in Progressive politics and ran in her own right for the Presidency in 2121, where her reputation as a moderate Progressive proved an asset. Her otherwise successful Presidency was beset by a series of patronage scandals in her second term that damaged her otherwise popular reputation. However, she is still remembered fondly by most Americans.\n\n==Presidency==\n==='''Colonial Policy'''===\nWeinstein was the first President to make a sincere push for colonial integration, calling for the inclusion of several Lunar territories as states in the Union. Congress narrowly passed an authorization package that established a vote for statehood in the Lunar territories, but the final votes for admission to the Union were blocked by Horizon and Dignidad.\n\n==='''2124 Campaign'''===\n\n=== '''United States Sesquarcentennial''' ===\n\n==='''Patronage scandals'''===\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-03-03T18:35:07Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          }
+        ],
+        "title": "Miriam Weinstein",
+        "touched": "2025-03-03T18:35:07Z"
+      },
+      "1262": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Maya Garcia Blank.png"
+          }
+        ],
+        "lastrevid": 11753,
+        "length": 5230,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Biotech bubble"
+          },
+          {
+            "ns": 0,
+            "title": "Dylan J. Price"
+          },
+          {
+            "ns": 0,
+            "title": "Evalyn Jacobi"
+          },
+          {
+            "ns": 0,
+            "title": "List of recessions in the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Political parties in the United States"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2044"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1262,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11751,
+            "revid": 11753,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=Maya Garcia\n|image=Maya_Garcia_Blank.png|border\n|imagesize=265px\n|alt=\n|caption=\n|order=[[President of the United States|49th]]\n|office=President of the United States\n|vicepresident=George Prescott Bush\n|predecessor=[[Dylan J. Price]]\n|successor=[[Evalyn Jacobi]]\n|birth_date= April 14, 1984\n|death_date= December 21, 2104\n|birth_place= Pecos, TX\n|death_place= Havana, CU\n|restingplace= Austin, TX\n|nationality= American\n|party=[[Political_parties in the United States|Democrat]] <small>(2003–2060)</small><br />[[Political parties in the United States|Liberal]] <small>(2060-2104(death))</small>\n|religion = Roman Catholicism}}'''Maya Garcia''' (April 14, 1984 - December 21, 2104) was an American politician who served as the 49th President of the United States (2045–2049). She was the second female, and the second Latino President of the United States.\n\nShe took office at the height of the global cold war with Turkey and Japan. Garcia was the first president from the Liberal caucus of the Democratic Party. Before she was president, Garcia was governor of Texas from 2035 to 2041 and attorney general of Texas from 2031 to 2035\n\n==Presidency==\nIn the [[United States presidential election, 2044|2044 presidential election]], she beat Progressive caucus candidate Jesse Hovel in the Democratic primary and the Conservative party candidate in the general election. During the early part of Garcia's first term, she put in place a tax cut for the middle class, and cut some farm subsidies that had been kept on the books by President Price's veto pen, though she still largely maintained many of Price’s policies with some minor modifications. She enter the nation with an economy continued to grow healthily since AOC and Price, allowing it to experienced its first budget surplus in half a century which largely contributed to her rise in popularity \n\n==='''Turkey and Japan'''===\nGarcia's time in office was largely defined by her attempts to restore a detente with Turkey and Japan. During the 2044 election, Garcia criticized President Price for bungling two of America's most successful alliances, and vowed to \"reset\" relations with the Turks and Japanese. Shortly after taking office, President Garcia dispatched many diplomatic missions to Tokyo and Istanbul to negotiate a return to friendly relations, and get the Turks to halt their advance into the former Russian territories. This policy held until the Summer of Storms, when the Turks secured an alliance with the Samara Republic, and push its military north to capture the North Caucasus and the Don Republic, securing its position in the Russian Heartland, and creating a staging point against Poles in Ukraine. In the fall of 2045, the Turks signed the Treaty of Kazan with the Caspian nations (with the exception of Iran), homogenizing control of the Caspian Sea. President Garcia demanded the Turks retreat back into the Caucasus, considering their recent maneuvers a serious provocation. The Turks, perceiving the US as in a weakened position, secured Volgograd on September 30, 2045.\n\nIn 2046, the Japanese and Turks, along with their client states formed the Eurasian Trade and Security Coalition. The ETSC established a free trade zone between the two sphere's and formal ties recognizing respective interests in Eurasia. On October 9, 2046 the Turks and the Japanese began staging the largest war-games in their history in Indonesia and the North Pacific. This \"October Surprise\" dragged Garcia's projected landslide to a razor thin victory, and a <ins>Democratic</ins>-<ins>DSA</ins> coalition <ins>was needed to maintain control</ins> <ins>of</ins> the House. Garcia's reset policy was effectively over by fall of 2046, and her administration saw significant cabinet and security council dismissals, and successor positions led the United States to increase support to India and China dramatically, going so far as to support Chinese nationalists over American and Taiwanese puppet regimes in Southern China for the sake of regional cohesion. Garcia had shifted the US to a containment policy, but still espoused a desire to return to peaceful relations with the Turks and Japanese.\n\n==='''Economy'''===\n''Main article: [[Biotech bubble]]''\n\nGarcia entered office with the US enjoying one of the largest economic expansions seen since the [[List of recessions in the United States|Dot-Com boom of the 1990s.]] During her first term, the economy rapidly expanded as the biotech and robotics sectors of the US economy grew since 2042 under Price’s fundings and encouragements into the sector, and new businesses were created while older businesses expanded their services. Personal buying power grew, more individuals found permanent jobs, and the US experienced a $200 billion budget surplus by 2045. Garcia greatly taken advantage of this boom, promising to increase the UBI and explore deregulating the biotech sector to expand growth. Garcia administration managed to pass an increase to the UBI, however by 2047 the Biotech bubble burst, and the US economy entered a brief recession, forcing Garcia to rescind her commitment to deregulating the Biotech industry.\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-02-24T00:42:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          }
+        ],
+        "title": "Maya Garcia",
+        "touched": "2025-02-24T00:42:37Z"
+      },
+      "1263": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:20190220 224217.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Alexandria Ocasio-Cortez Official Portrait.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Benraylujan2032.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blank Person.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blank Woman.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Dylan J Price.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Gretchen Whitmer.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Madison-Cawthorn.jpeg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 51stars.png"
+          }
+        ],
+        "lastrevid": 11729,
+        "length": 8701,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Alexandria Ocasio-Cortez"
+          },
+          {
+            "ns": 0,
+            "title": "Conservative Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Dylan J. Price"
+          },
+          {
+            "ns": 0,
+            "title": "Great Reset"
+          },
+          {
+            "ns": 0,
+            "title": "Ivory Toldson"
+          },
+          {
+            "ns": 0,
+            "title": "Market Crash of 2027"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Seventh Party System"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "United States House of Representatives"
+          },
+          {
+            "ns": 0,
+            "title": "United States Senate"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2028"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2036"
+          },
+          {
+            "ns": 0,
+            "title": "Vice President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Vice Presidents of the United States"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Democrat/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Democrat/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Libertarian/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Libertarian/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:National Union/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:National Union/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progress/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progress/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progressive/meta/shortname"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1263,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11618,
+            "revid": 11729,
+            "slots": {
+              "main": {
+                "*": "{{Infobox election\n|election_name = United States presidential election, 2032\n|country = United States\n|type = presidential\n|ongoing = no\n| flag_year = 2021\n|previous_election = United States presidential election, 2028\n|previous_year = 2028\n|next_election = United States presidential election, 2036\n|next_year = 2036\n|election_date = November 2, 2032\n| votes_for_election         = All eligable voters who participate\n| needed_votes               = 51% of the vote\n| turnout                    = 78.0%\n| image1 = [[File:Alexandria Ocasio-Cortez Official Portrait.jpg|150px]]\n| nominee1 = [[Alexandria Ocasio-Cortez]]\n| party1 = Progress\n| home_state1 = New York\n| running_mate1 = [[Dylan J. Price]]\n| electoral_vote1 = \n| states_carried1 = \n| popular_vote1 = \n| percentage1 = 61.1%\n| image2 = [[File:Benraylujan2032.png|165px]]\n| nominee2 = Ben Ray Lujan\n| party2 = Democrat\n| home_state2 = Texas\n| running_mate2 = Gretchen Whitmer\n| electoral_vote2 =\n| states_carried2 =\n| popular_vote2 =  \n| percentage2 = 22.9%\n| nominee5 = [https://en.wikipedia.org/wiki/George_P._Bush George Prescott Bush]\n| party5 = Libertarian\n| image5 = [[File:20190220 224217.jpg|157px]]\n| home_state5 = Florida\n| running_mate5 = [https://en.wikipedia.org/wiki/Justin_Rockefeller Justin Rockefeller]\n| electoral_vote5 = \n| states_carried5 = \n| popular_vote5 = \n| percentage5 = 9.4%\n| nominee4 = Madison Cawthorn\n| party4 = National Union\n| image4 = [[File:Madison-Cawthorn.jpeg|130px]]\n| home_state4 = North Carolina\n| running_mate4 = Candace Owens\n| electoral_vote4 = \n| states_carried4 =\n| popular_vote4 = \n| percentage4 = 6.6%\n| title = President\n| before_election =  [[Alexandria Ocasio-Cortez]]\n| before_party = Progressive\n| after_election = [[Alexandria Ocasio-Cortez]]\n| after_party = Progressive}}\n\nThe '''United States presidential election of 2032''' was the sixty-second quadrennial presidential election, held on Tuesday, November 8, 2032. Ocasio-Cortez won the second largest victory of the popular vote in the 21st century, being elected on the first ballot with 61% of the vote. Ocasio-Cortez touted a strong economic recovery from economic malaise of the [[Great Reset]] and the [[Market Crash of 2027|2027-29 recession]], as well as the widespread perception that his presidency had overseen a revival of national confidence and prestige. The enactment of Progressive reforms, such as Universal Healthcare and housing benefits, had proven to be highly popular with most Americans.\n\nAlthough some political pundits predicted a close race, Ocasio-Cortez went on to win the greatest landslide since the beginning of the [[Seventh Party System|multi-party system]]. Ocasio-Cortez carried popular majorities on the first ballot in every state except Montana and North Dakota.\n\nBecause the Republican Party had ceased to exist, many conservative parties threw their weight behind the Libertarian Party and the Patriot Party, while the election was a final attempt for the Democratic Party to be preserved. The failure to retake the presidency was the final nail in the coffin for the Democratic Party, causing it to disband the following year. Meanwhile, the failure of either National Union Party or Libertarian Party to take the presidency had caused the rise of the [[Conservative Party (United States)|Conservative party]] soon after.\n\n==Nominations==\n==='''Progress'''===\n\n{| class=\"wikitable\" style=\"font-size:90%; text-align:center;\"\n|-\n| colspan=\"30\" style=\"background:#f1f1f1;\" |<big>'''Progress Party Ticket, 2032'''</big>\n|-\n! style=\"width:3em; font-size:135%; background:#DC143C; width:200px;\" |[[Dylan J. Price|{{color|white|Alexandria-Ocasio Cortez}}]]\n! style=\"width:3em; font-size:135%; background:#DC143C; width:200px;\" |[[Ivory Toldson|{{color|white|Dylan J. Price}}]]\n|- style=\"color:#000; font-size:100%; background:#ffd0d7;\"\n| style=\"width:3em; width:200px;\" |'''''for President'''''\n| style=\"width:3em; width:200px;\" |'''''for Vice President'''''\n|-\n|[[File:Alexandria Ocasio-Cortez Official Portrait.jpg|thumb]]\n|[[File:Dylan J Price.png|thumb]]\n|-\n|[[President of the United States|47th]]<br>[[President of the United States]]<br /><small>(2029–2037)</small>\n|[[Vice Presidents of the United States|50th]]<br>[[Vice President of the United States]]<br /><small>(2029–2037)</small>\n|}\n\nWith an incumbent president running for re-election against token opposition, the race for the Progressive Presidential nomination was largely uneventful, however Vice President Price faced a challenge at the convention from Progressive leaders who attempted to draft California Governor Eric Garcetti for the number two slot. Garcetti did not challenge the party's call for a vote for running mate, but did not expressly endorse it either. Ultimately, Price remained on the ballot with 53% of support from the delegates at the Progress Party Convention in Columbus, Ohio. The delegates unanimously re-nominated President Ocasio-Cortez for a second term.\n\n==='''Democratic'''===\n\n{| class=\"wikitable\" style=\"font-size:90%; text-align:center;\"\n|-\n| colspan=\"30\" style=\"background:#f1f1f1;\" |<big>'''Democratic Party Ticket, 2032'''</big>\n|-\n! style=\"width:3em; font-size:135%; background:#3333FF; width:200px;\" |{{color|white|Ben Ray Lujan}}\n! style=\"width:3em; font-size:135%; background:#3333FF; width:200px;\" |{{color|white|Gretchen Whitmer}}\n|- style=\"color:#000; font-size:100%; background:#c8ebff;\"\n| style=\"width:3em; width:200px;\" |'''''for President'''''\n| style=\"width:3em; width:200px;\" |'''''for Vice President'''''\n|-\n|[[File:Benraylujan2032.png|thumb]]\n|[[File:Gretchen Whitmer.jpg|thumb]]\n|-\n|[[United States Senate|U.S. Senator]]<br>from [https://en.wikipedia.org/wiki/New_Mexico New Mexico]<br /><small>(2021–2039)</small>\n|Governor\nof [https://en.wikipedia.org/wiki/Michigan Michigan]\n\n<small>(2019–2027)</small>\n|-\n| colspan=\"2\" |'''Campaign'''\n|}\n\n==='''Libertarian'''===\n\n{| class=\"wikitable\" style=\"font-size:90%; text-align:center;\"\n|-\n| colspan=\"30\" style=\"background:#f1f1f1;\" |<big>'''Libertarian Party Ticket, 2032'''</big>\n|-\n! style=\"width:3em; font-size:135%; background:#FFD700; width:200px;\" |{{color|white|George Prescott Bush}}\n! style=\"width:3em; font-size:135%; background:#FFD700; width:200px;\" |{{color|white|Justin Rockefeller}}\n|- style=\"color:#000; font-size:100%; background:#F0E68C;\"\n| style=\"width:3em; width:200px;\" |'''''for President'''''\n| style=\"width:3em; width:200px;\" |'''''for Vice President'''''\n|-\n|[[File:20190220 224217.jpg|center|200x200px]]\n|[[File:Blank_Person.jpg|center|200x200px]]\n|-\n|Governor <br>of [[Wikipedia:Florida|Florida]]<br /><small>(2029–2037)</small>\n|[[United States Senate|U.S. Senator]]<br>from [[Wikipedia:Pennsylvania|Pennsylvania]]<br /><small>(2027–2037)</small>\n|-\n| colspan=\"2\" |'''Campaign'''\n|}\n\n==='''National Union'''===\n\n{| class=\"wikitable\" style=\"font-size:90%; text-align:center;\"\n|-\n| colspan=\"30\" style=\"background:#f1f1f1;\" |<big>'''National Union Party Ticket, 2032'''</big>\n|-\n! style=\"width:3em; font-size:135%; background:#32CD32; width:200px;\" |{{color|white|Madison Cawthorne}}\n! style=\"width:3em; font-size:135%; background:#32CD32; width:200px;\" |{{color|white|Candace Owens}}\n|- style=\"color:#000; font-size:100%; background:#90EE90;\"\n| style=\"width:3em; width:200px;\" |'''''for President'''''\n| style=\"width:3em; width:200px;\" |'''''for Vice President'''''\n|-\n|[[File:Madison-Cawthorn.jpeg|center|130px]]\n|[[File:Blank_Woman.png|center|200x200px]]\n|-\n|[[United States House_of_Representatives|U.S. Representative]]<br>from [[Wikipedia:North Carolina|North Carolina]]<br /><small>(2021–2023)</small>\n|U.S. Representative<br>from [[Wikipedia:Connecticut|Connecticut]]<br /><small>(2029–2033)</small>\n|-\n| colspan=\"2\" |'''Campaign'''\n|}\n\n==='''Green'''===\n\n{| class=\"wikitable\" style=\"font-size:90%; text-align:center;\"\n|-\n| colspan=\"30\" style=\"background:#f1f1f1;\" |<big>'''Green Party Ticket, 2032'''</big>\n|-\n! style=\"width:3em; font-size:135%; background:#32CD32; width:200px;\" |{{color|white|Eric Haden}}\n! style=\"width:3em; font-size:135%; background:#32CD32; width:200px;\" |{{color|white|Wilma Jones}}\n|- style=\"color:#000; font-size:100%; background:#90EE90;\"\n| style=\"width:3em; width:200px;\" |'''''for President'''''\n| style=\"width:3em; width:200px;\" |'''''for Vice President'''''\n|-\n|[[File:Blank_Person.jpg|center|200x200px]]\n|[[File:Blank_Woman.png|center|200x200px]]\n|-\n|[[United States Senate|U.S. Senator]]<br>from [[Wikipedia:North Carolina|North Carolina]]<br /><small>(2027–2031)</small>\n|U.S. Representative<br>from [[Wikipedia:Oregon|Oregon]]<br /><small>(2025–2033)</small>\n|-\n| colspan=\"2\" |'''Campaign'''\n|}\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-01-05T07:17:30Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!-"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United States"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ifempty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/row"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/shortname"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:If empty"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          }
+        ],
+        "title": "United States presidential election, 2032",
+        "touched": "2025-01-05T07:17:30Z"
+      },
+      "1264": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2315,
+        "length": 25,
+        "new": "",
+        "ns": 1,
+        "pageid": 1264,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2315,
+            "slots": {
+              "main": {
+                "*": "This needs to be updated.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-08-27T19:04:13Z"
+          }
+        ],
+        "title": "Talk:United States presidential election, 2032/@comment-27084453-20160827190413",
+        "touched": "2016-08-27T19:04:14Z"
+      },
+      "1265": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Person.jpg"
+          }
+        ],
+        "lastrevid": 11783,
+        "length": 5948,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Evalyn Jacobi"
+          },
+          {
+            "ns": 0,
+            "title": "Political parties in the United States"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Reed Chen"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1265,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11764,
+            "revid": 11783,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=Dan Forest\n|image=Blank_Person.jpg|border\n|imagesize=265px\n|alt=\n|caption=\n|order=[[President of the United States|51st]]\n|office=President of the United States\n|vicepresident= Owen Wood\n|predecessor=[[Evalyn Jacobi]]\n|successor= [[Reed Chen]]\n|birth_date= August 3, 1995\n|death_date= March 15, 2119 (aged 123)\n|birth_place= Alexandria, VA\n|death_place= New Harmony, IN\n|restingplace= Indianapolis, IN\n|nationality= American\n|party=[[Political_parties in the United States|Republican]] <small>(2014–2021)</small><br />[[Political parties in the United States|Democratic]] <small>(2021-2060)</small>\n|religion=Roman Catholicism\n}}'''Daniel James \"Dan\" Forest''' (August 3, 1995 - March 15, 2119) was an American politician who served as the 51st President of the United States (2057–2061).\n\nAs president, Forest made important foreign policy decisions, such as normalizing relations with Turkey and Japan, repairing China (which was devastated during the war); overseeing the Refreeze with the Earth Working Group, and rebuilding the flooded portions of Washington DC.\n\n\n\n\n==Early Life==\nDan Forest was born on August 3, 1995 to Cherry and Agosto Woods at Inova Alexandria Hospital. His mother, Cherry Allen Woods, was a pharmacist while his father (Agosto Woods) was an owner of a small business in Alexandria, Virginia. Both parents were moderate Republicans, which influenced Forest's early thinking. The Woods family moved to Indianapolis, Indiana in 2008 after his father was offered a better job opportunity after falling on hard times since the Great Recession. There, Dan Forest attended George Washington Community High School where he met his future friend and future president [[Reed Chen]] later on.\n\nDan Forest has took an interest of politics from his friend, Reed Chen, and frequently chosen geography and history as his main subjects of study. While his friend was Democrat, Forest identified himself as more of a Republican. Forest attended two universities, Indiana University and Marian University, in 2014. In those places, Forest majored in Law Enforcement and Law respectively. This year was when Forest officially registered himself as a Republican.\n\nIt wasn't until the 2020 election where Forest's faith in the Republican party quickly declined. Forest favored the policies of Bernie Sanders and Elizabeth Warren, unadmittedly due to their policy on education, and preferred them over the average Democrat let alone those of the \"MAGA movement\" then dominating the Republicans. After the total capture of the Republican party by the Trump family and the rise of Progressive Caucus, Dan Forest eagerly went to join the Democratic party, seeing an opportunity to make a significant contribution to help shape its transformation. After registering as a progressive Democrat, his relationship with Chen slowly deteriorated after constant ideological clashes and the two became rivals of sorts. This relationship would continue until some time after both Forest and Chen left office.\n\n==Presidency==\nWhile respected as a competent and moderate Vice President, Forest was not President Jacobi's first choice to succeed her. After repeated attempts to push Secretary of the Space Force, James E. Knight to seek the Democratic nomination, the Progressive caucus and President Jacobi endorsed Forest as the nominee. However, to appease the growing Liberal revival movement, Forest pledged to only serve a single term. To the surprise of many in the party, Forest's laid back attitude struck a chord with the nation, exhausted by war, frozen conflicts, and economic upheaval.\n\nTrue to his campaign pledge to serve a single term, Forest left office and returned to Indiana in January 2061, though attempts were made to draft him for a second term under the Progressive Party banner in 2060 and 2064.\n==='''Foreign Policy'''===\n===='''Space Defense'''====\nLike his predecessor, Forest supported a major buildup in space forces to guard against future attacks on America's assets in space. Under the Forest administration, the Space Force grew to be the largest branch of the US military in terms of funding and personnel. Forest also pushed a great deal of technology transfer projects to push the production of new space planes and in-space servicing craft to maintain the massive new force in space. This \"Space Offset\" policy was defined by the creation of dozens of new Orbital Command Stations in Geostationary Orbit around the Earth and the Moon, new generation of Space to Ground bombardment platforms, and Space-to-Space assault ships.\n\n===='''Reunifying China'''====\nWhile the Tracy Plan was already underway to rebuild much of China, the political situation was beginning to degrade by the time Forest took office. The military junta in Chongquing was under pressure to hold new elections, and the question of Taiwan was re-emerging as the US was being pressured by the civilian council in Taipei to remain past the set pull-out date imposed by the Geneva Treaty. Forest's first act upon taking office was to hold six party talks in Beijing between the Chongquing Junta, Taiwan, Manchuria, and the Mongol Republic, and Hong Kong, with Forest himself serving as a moderator. While to the public at large, these talks seemed daring and sudden, in truth Forest had been trying to organize these negotiations since before the Thanksgiving attacks. On February 28, President Forest brought the Six Party delegates to Camp David, where they were finally concluded on March 7. From the Rose Garden of the White House, Forest and the leaders of the \"Five Chinas\" announced an accord to unify China under a new government, ending more than a century of division between Taiwan and the Mainland, and returning historic territory occupied by Japan to China-proper. Forest would receive the Nobel Peace Prize for his role in the Six Party Talks.\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-05-11T14:11:08Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          }
+        ],
+        "title": "Dan Forest",
+        "touched": "2025-05-11T14:11:08Z"
+      },
+      "1266": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Reed Chen Blank.png"
+          }
+        ],
+        "lastrevid": 11778,
+        "length": 6344,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Augment Rights Movement"
+          },
+          {
+            "ns": 0,
+            "title": "Carla Anderson"
+          },
+          {
+            "ns": 0,
+            "title": "Dan Forest"
+          },
+          {
+            "ns": 0,
+            "title": "Political parties in the United States"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1266,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10247,
+            "revid": 11778,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=Reed Chen\n|image=Reed_Chen_Blank.png|border\n|imagesize=265px\n|alt=\n|caption=\n|order=[[President of the United States|52nd]]\n|office=President of the United States\n|vicepresident= Andrew Markwalter\n|predecessor=[[Dan Forest]]\n|successor= [[Carla Anderson]]\n|birth_date= January 9, 1995\n|death_date= August 20, 2090\n|birth_place= Los Angeles, CA\n|death_place= Over Florida\n|restingplace= Eugene, OR\n|nationality= American\n|religion= Taoism\n|party=[[Political_parties in the United States|Democrat]] <small>(2014–2025)</small><br />[[Political parties in the United States|Liberal]] <small>(2033-Present)</small>\n}}\n'''Reed Wade Chen''' (January 9, 1995 - August 20, 2090) was an American politician who served as the 52nd President of the United States (2061-2065). Chen is widely credited with deregulating asteroid and lunar mining to increase American access to valuable space-based energy sources.\n\n==Election of 2060==\n==='''Liberal Nomination'''===\nWith Dan Forest committed to only serving one term, the Progress Party was set to nominate Vice President Owen Wood at the convention in San Juan. Wood's nomination alienated many Progressives who viewed Wood as ambitious and unscrupulous. Liberal party leaders saw the Progressives' choice as an opportunity to win the White House for the first time since 2040 if the right candidate could be found.\n\nAmong the Liberals, Loren Paulson was the initial front-runner, having been the party's Vice Presidential nominee in the election of 2048, and widely seen to have been a stronger campaigner than the top ticket nominee, former Secretary of State Healther Stanton. After Paulson declined a nomination, his supporters shifted to several other contenders. Chen was among the leaders in early support, and Shiro T. Wakabiashi of Alaska, George T. Allen of Colorado, and Sarah M. Freeman of North Carolina also had considerable followings. Each of the other candidates had hindrances to their nomination: Wakabiashi had spoken in opposition to the ban on Japanese activity on the Moon; Allen, was reviled on the West Coast for calling for internning recent Japanese immigrants; and while Freeman was generally well liked, she was seen as too old and out of touch with most voters. Chen, too, had detractors, but the nature of his enemies made him still more friends. Chen led on the first ballot, with 1392 votes out of 1820, and won on the second ballot after perennial candidate Andrew Markwalter threw his support behind him. Markwalter would go on to receive the Libertarian and Liberal party's nomination for Vice President in a unity ticket that many believe the straight-laced Chen actually orchestrated to secure the nomination.\n\n==='''Campaign against Wood'''===\nCorruption in politics was the central issue in 2060; indeed, Wood had been involved in several ethics investigations during his tenure at director of the Strategic Resources Administration, while Chen's reputation as an watchdog against corruption proved the Liberals' strongest asset. Some reform-minded Progressives denounced Wood as corrupt and left him off their ballot in favor of Chen as their second and third choice. These voters were more concerned with ethics than with party, and felt Chen would promote civil service reform and fight for efficiency in government.\n\n==Presidency==\n==='''Reforms'''===\nSoon after taking office, Chen was faced with the task of filling all government vacancies that since the Jacobi administration had been increasingly filled under a system of patronage. Chen announced that he would not fire any Progressive doing their job effectively, , and would not appoint anyone solely on the basis of party service. Instead, he commissioned the Office of Management and Budget, under its new director Hugh Weiling, to devise a new automated hiring system for federal employees that would extend to presidential appointees. Weiling had work-shopped such a system as director of the Center for Efficient Governance, and Chen used it to reduce the number of federal employees, as many departments had become bloated with political time-servers. Later in his term, as his fellow Liberals chafed at being excluded from jobs they'd otherwise be guaranteed, Chen began to replace more of the partisan Progressive officeholders with Liberals, mainly with policy making positions. While some of his decisions were influenced by party concerns, more of Chen's appointments were decided by merit alone than was the case in his predecessors' administrations.\n\n==='''Space deregulation'''===\n==='''[[Augment Rights Movement]]'''===\nSince the 2058 midterms, the Democratic Party had adopted a policy to ban the use of augmentations and punish those who sought genetic augmentation with prison time. Chen won his bid for the White House partly for his opposition to this rhetoric, and while in office pushed to relax regulations against genetic augmentation. Chen's election effectively broke the coalition that elected every Democratic President since 2028. In January 2061, Price pushed for the repeal of the Falana Act into law, which banned human augmentation for \"recreational,\" uses. Chen was reviled by older voters, and many progressives would turn against him and the Liberals in the 2062 midterms.\n\n==='''Recession of 2063'''===\n\n==='''Election of 2064'''===\nThe Progressives nominated Carla Anderson of Illinois for President and Lise Duchesne of New Mexico for Vice President in the first Progressive-Liberal ticket in modern politics. Chen was easily renominated at the Liberal convention in San Jose with Andrew Markwalter staying on despite defections from the Libertarian coalition in opposition to the Chen administration's opposition to a person's right to genetic augmentation.\n\nThe Progressives gained the upper hand in the campaign, as Chen's popularity slipped with Recession and the youth came out in droves to support Anderson. The Progressives campaigned heavily on the Augment issue, turning out liberal voters in the important coastal states of the Southwest. A massive student march against Chen in New York cost Liberals a majority in the state for the first time since Jacobi's landslide victory in 2052. The defection of civil libertarians in coastal cities ultimately cost Chen victory in 2064.\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-03-25T21:16:43Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          }
+        ],
+        "title": "Reed Chen",
+        "touched": "2025-03-25T21:16:43Z"
+      },
+      "1267": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3285,
+        "length": 19,
+        "ns": 6,
+        "pageid": 1267,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2334,
+            "revid": 3285,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-15T04:16:22Z"
+          }
+        ],
+        "title": "File:Eternal Spring Flag.png",
+        "touched": "2022-12-08T22:47:15Z"
+      },
+      "1268": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:22nd-century conflicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:22nd Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mars"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:ITC Logo.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Second Martian Revolution.png"
+          }
+        ],
+        "lastrevid": 11282,
+        "length": 7810,
+        "links": [
+          {
+            "ns": 0,
+            "title": "22nd Century"
+          },
+          {
+            "ns": 0,
+            "title": "Guardiola Incident"
+          },
+          {
+            "ns": 0,
+            "title": "Lionel Halvidar"
+          },
+          {
+            "ns": 0,
+            "title": "Maisie Luong"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1268,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8545,
+            "revid": 11282,
+            "slots": {
+              "main": {
+                "*": "{{Infobox Military Conflict\n|conflict=Second Martian Revolution\n|partof=\n|image=\n|caption=\n|date=2125-2131\n|place=Mars, Phobos, Deimos\n|causes= Guardiola Incident, \n|territory=\n|result=Government victory\n*Disbandment of the MSIF\n*Patriot Rebellion crushed\n|combatant1=United States Martian Colonies\n|combatant2=[[File:Second_Martian_Revolution.png|20px]] MSIF\n|commander1='''Colonial Leaders'''\n[[File:ITC_Logo.png|20px]] [[Lionel Halvidar]]\n|commander2='''Revolutionary Leaders'''\n[[File:Second_Martian_Revolution.png|20px]] [[Maisie Luong]] †\n|strength1= 35,000\n|strength2= 11,000\n|casualties1= 3,000\n|casualties2= 7,000}}\n\nThe '''Second Martian Revolution''' or the '''Martian Rebellion of 2129''' was a political movement that took place on Mars from 2125 to 2131, culminating in an armed uprising in 2129. The political movement continued for two years after the Bradbury Riots, and is considered to have ended with Lionel Halvidar's run for the American Presidency.\n\n==Names==\nThe terms used for the movement often reflect the viewpoint of the writer. In modern Terran, the war is often referred to as the Martain Rebellion of 2129, reflecting both a Nationalist and an Earth-centrist point of view that the MSIF represented anti-American separatist values. In the 2120s, the ITC did not label the conflict a civil uprising, but a contemporary political movement, since the MSIF was one of many political factions taking part, and one of the only ones espousing violence.\n\n==History==\n==='''Origins'''===\nMars, while under the Interplanetary Trade Commission in the early [[22nd Century]], suffered a series of economic problems, and political embarrassments at the hands of the Earth-based anti-colonial powers; in particular, the humiliating abandonment of the colonies by the United States government on Earth during the [[Guardiola Incident]]. The Terrran government of the United States, led exclusively by Earth-born citizens, was seen by much of the Martian population, as an ineffective and corrupt regime. Anti-Earth sentiments were strongest in the Western Araby colonies among the rural artisan and agrarian classes, who felt so disaffected by ITC's rule that they flocked to join [[Maisie Luong]], a second generation Martian, and charismatic veteran of the Guardiola Incident.\n\nFor decades Mars and the rest of the system's colonies saw their populations grow from a stream of colonists from Earth. By the 2130 census Mars's population had reached 3 Billion citizens, and hundreds of territories. Resident commissioners from these territories constituted a large and deafening voice in the US Congress on Earth, nearly matching the number of every Representative and Senator. Yet their voices were always treated as secondary to the voices of their Terran counterparts. For a time, this arrangement wasn't detrimental to either side. The colonists governed themselves without meddling from Earth, and the nations of Earth were free to act with minimal interruption from the colonies. The bad blood between the colonies and Earth after the Guardiola Incident, had turned from contempt to apathy among the majority of the population. As the situation on Earth deteriorated, however, that feeling began to turn to fear and that fear fed the forces of reaction.\n\nAs the struggle between Mexico and the US threatened to explode into a far worse war than any in this century knew, the colonies feared that such a conflict might spread to them; the specter of the Guardiola Incident continued to haunt the minds of the colonists. Mexico had been steadily weaponizing their Orbitals since 2115, and it was no secret that Mexico wanted a piece of the colonies for themselves. This gave fuel to the long dormant Independence movement in the colonies, particularly the Mars Society for Independence and Freedom, which began a more aggressive and often militant push for a formal separation from the United States on Earth.\n\n==='''Early Years'''===\nThe MSIF argued that only as an independent power could Mars and the rest of the colonies hope to defend themselves, and achieve the rights that the US on Earth had long denied them. Luong rallied her supporters across the planet through propaganda and marches on territory Capitols, often clashing with local police forces. As the Dignidad Party on Earth continued their tirade against the colonies, and Mexico conducted more drills with their Orbitals, the MSIF got louder and more aggressive.\n\n=== '''Bradbury Riots''' ===\nHalvidar had publicly debated Luong herself to quell the calls for independence, but as the MSIF became more militant, Halvidar eventually advised police and territorial militias to increase their presence at locations where the MSIF held their rallies. It all came to a head when Luong and her supporters stormed the Headquarters of the ITC in Bradbury. Luong hoped to overthrow the ITC, which she and her supporters had come to see as lap dogs of the US government on Earth, and Halvidar as a political threat. Flying red flags and brandishing old weapons and armor from the Guardiola Incident, five thousand MSIF stalwarts clashed with the police November 11, 2130. Halvidar called out the territorial militia, and eventually the Mars Planetary Guard to put the mob down, and never left the ITC headquarters during the riots. After the violence had ended, Halvidar declared the MSIF to be a \"clear and present danger\" to the colonies (something the Chairman of the ITC didn't actually have the power to do) and ordered the arrest of every member for treason. The majority of the MSIF was arrested or killed in the raids on their safe-houses following the Bradbury Riots; Luong herself was killed during one such raid. While the MSIF was destroyed, Luongist supporters from Tharsis to Araby have continued to fly the red flag against the ITC and the US on Earth, a constant reminder of the tensions that threaten to tear the Union apart.\n\n==='''Aftermath'''===\nIn contrast to the MSIF, and the Independence Movement, the majority of the colonists have renewed calls for full integration into the Union, flooding the Congress of with pro-integration Resident Commissioners. ITC Chairman, Lionel \"Leo\" Halvidar has been the driving force behind this renewed call to action. A longtime advocate for integration, and one of the most active Chairmen in living memory, Halvidar was seen by most as a moderate between the revolutionaries in the colonies, and the established forces on Earth. The Levin Administration, having lashed itself to Dignidad party leader David Castillo, could do little to answer these calls, being paralyzed with fear over a civil war in the Homeland. Halvidar lobbied the government on Earth with one message, \"Bring the colonies into the Union, or you will face TWO rebellions.\" With the parties busy tearing themselves apart over the 2130 midterms, it doesn't seem likely that this warning will be heeded by the leadership of Earth.\n\nWhile some in the colonies feared being pulled into a war on Earth, others colonial leaders believed that even if war did not spread to the colonies, Earth would be devastated by a conflict between Mexico and the US, and the colonies would be left to manage untold waves of refugees. With Mars's population reaching its cap, and Venus still not fully Terraformed, this was simply not an option. To prepare for the possibility of devastation on Earth, or outright war, the ITC quietly funded the construction of a series of ruggedized, high speed spacecraft in the Asteroid Belt. They would not be outfitted with weapons, and be crewed only for running relief efforts to the Earth, but the ITC knew they were building a fleet to either end a war on Earth, or at least prevent one on Mars.\n[[Category:22nd-century conflicts]]\n[[Category:22nd Century]]\n[[Category:Mars]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-06-12T17:49:02Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox Military Conflict"
+          },
+          {
+            "ns": 10,
+            "title": "Template:WPMILHIST Infobox style"
+          }
+        ],
+        "title": "Second Martian Revolution",
+        "touched": "2023-06-12T17:49:02Z"
+      },
+      "1269": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6273,
+        "length": 0,
+        "ns": 6,
+        "pageid": 1269,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2351,
+            "revid": 6273,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-05T23:59:44Z"
+          }
+        ],
+        "title": "File:ITS.png",
+        "touched": "2017-10-06T13:45:11Z"
+      },
+      "1270": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2354,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1270,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2354,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-10-10T23:37:41Z"
+          }
+        ],
+        "title": "Message Wall:76.16.92.6",
+        "touched": "2016-10-10T23:37:41Z"
+      },
+      "1271": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2355,
+        "length": 737,
+        "links": [
+          {
+            "ns": 0,
+            "title": "United Nations"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1271,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2355,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:United Nations]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-10-10T23:37:41Z"
+          }
+        ],
+        "title": "Thread:76.16.92.6/@comment-22439-20161010233741",
+        "touched": "2016-10-10T23:37:41Z"
+      },
+      "1272": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2364,
+        "length": 393,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1272,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2364,
+            "slots": {
+              "main": {
+                "*": "So, I am a bureaucrat from Future, and I will be asking to hold a vote on wether or not to keep The Second Renaissance on Future, or to move all remaining images and pages to this wiki, and to delete the pages afterward. I would appreciate if you would vote, as being then founder of The Second Renaissance wiki, and being devoted to the scenario.<ac_metadata title=\"Questions\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-10-22T21:19:32Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20161022211932",
+        "touched": "2016-10-22T21:19:32Z"
+      },
+      "1273": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2365,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1273,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2365,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-10-22T21:19:33Z"
+          }
+        ],
+        "title": "Message Wall:NewHorizons123",
+        "touched": "2016-10-22T21:19:34Z"
+      },
+      "1274": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2366,
+        "length": 564,
+        "links": [
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          },
+          {
+            "ns": 1201,
+            "title": "Thread:1272"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1274,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2366,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Thread:1272|Questions]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-10-22T21:19:33Z"
+          }
+        ],
+        "title": "Thread:NewHorizons123/@comment-22439-20161022211933",
+        "touched": "2016-10-22T21:19:33Z"
+      },
+      "1275": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9010,
+        "length": 23,
+        "ns": 2,
+        "pageid": 1275,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6956,
+            "revid": 9010,
+            "slots": {
+              "main": {
+                "*": "Hello. My name is Ryan.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-02-22T13:38:40Z"
+          }
+        ],
+        "title": "User:NewHorizons123",
+        "touched": "2020-02-27T14:30:46Z"
+      },
+      "1276": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2368,
+        "length": 126,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1276,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2368,
+            "slots": {
+              "main": {
+                "*": "And if this vote is to go in favor of deleting the pages, to help us move any remaining content to the Second Renaissance Wiki",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-10-22T21:20:50Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20161022211932/@comment-27896700-20161022212050",
+        "touched": "2016-10-22T21:20:50Z"
+      },
+      "1277": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2369,
+        "length": 311,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1277,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2369,
+            "slots": {
+              "main": {
+                "*": "Hm. Well I'm honestly kinda torn. On the one hand, I like having full control over the content of the Second Renaissance, but managing it on two wikias doesn't seem practical. Is there anyway this wikia could promote Future and visa versa after the move? You guys are where I really started to grow as a writer.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-10-24T01:33:34Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20161022211932/@comment-899576-20161024013334",
+        "touched": "2016-10-24T01:33:34Z"
+      },
+      "1279": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2371,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1279,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2371,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-10-24T02:45:44Z"
+          }
+        ],
+        "title": "Message Wall:192.154.63.69",
+        "touched": "2016-10-24T02:45:45Z"
+      },
+      "1280": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2372,
+        "length": 747,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Honda Hippies (movement)"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1280,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2372,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Honda Hippies (movement)]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-10-24T02:45:45Z"
+          }
+        ],
+        "title": "Thread:192.154.63.69/@comment-22439-20161024024545",
+        "touched": "2020-10-05T19:14:05Z"
+      },
+      "1281": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2373,
+        "length": 87,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1281,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2373,
+            "slots": {
+              "main": {
+                "*": "Yeah, I already put The Second Renaisssance as an affiliated wiki a couple of weeks ago",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-10-24T12:59:25Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20161022211932/@comment-27896700-20161024125925",
+        "touched": "2016-10-24T12:59:25Z"
+      },
+      "1282": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2374,
+        "length": 192,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1282,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2374,
+            "slots": {
+              "main": {
+                "*": "And last month The Second Renaissance was the featured scenario, I'm probably going to put a message on the wiki asking people from future to come over here every once in a while and help out,",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-10-24T13:02:24Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20161022211932/@comment-27896700-20161024130223",
+        "touched": "2016-10-24T13:02:24Z"
+      },
+      "1283": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2375,
+        "length": 33,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1283,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2375,
+            "slots": {
+              "main": {
+                "*": "Cool. I'll add future as one too.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-10-24T15:20:06Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20161022211932/@comment-899576-20161024152005",
+        "touched": "2016-10-24T15:20:06Z"
+      },
+      "1284": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 2377,
+        "length": 476,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Main Page"
+          }
+        ],
+        "ns": 10,
+        "pageid": 1284,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2376,
+            "revid": 2377,
+            "slots": {
+              "main": {
+                "*": "<noinclude>[[Category:Templates]]\n;This template is used on the [[Main Page|main page]] to list the affiliates of {{SITENAME}}.</noinclude>\n{| style=\"padding:0.5em; margin-top:1em; width:100%; border:1px solid #aaa;\" cellspacing=\"2\" cellpadding=\"5\" \n|| <div class=\"plainlinks\"></div> \n<big>''Affiliated wikis:''</big><br>\n\n'''[[w:c:althistory|Alternate History Wiki]]''' &#8226;\n'''[[w:c:oprandomstuff|OPRandomStuff Wiki]]''' &#8226;\n'''[[w:c:future|Future Wiki]]'''&#8226;\n|}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-10-24T15:23:16Z"
+          }
+        ],
+        "title": "Template:AffiliatedWikis",
+        "touched": "2016-10-24T15:23:16Z"
+      },
+      "1285": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9800,
+        "length": 33,
+        "ns": 1,
+        "pageid": 1285,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2379,
+            "revid": 9800,
+            "slots": {
+              "main": {
+                "*": "Actually, that is not a bad idea.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-10-05T19:14:05Z"
+          }
+        ],
+        "title": "Talk:Honda Hippies/@comment-27084453-20161024194105",
+        "touched": "2020-10-05T19:14:05Z"
+      },
+      "1286": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century conflicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:22nd-century conflicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Extrasolar conflicts"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:US flag 63stars.png"
+          }
+        ],
+        "lastrevid": 11376,
+        "length": 12477,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Moraks"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1286,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11111,
+            "revid": 11376,
+            "slots": {
+              "main": {
+                "*": "{{Infobox Military Conflict\n|conflict=Squirrel Wars\n|partof=\n|image=\n|caption=Map of North America during the war\n|date= October 21, 2067 - July 9, 2069.\n|place= Tu\n|causes=Marooning of the crew of the Constitution\n|territory=Kolsaviv\n|result=Consolidation of much of Kolsaviv.\n|combatant1=\nCrew of the ISV-03 Constitution\n\n|combatant2=\nNative peoples of Tu.\n\n|commander1='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|Confederate leaders}}}</span>'''\n----\n[[File:US_flag_63stars.png|20px]] Abram Kaplan<br>\n----\n\n|commander2='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|Savivian leaders}}}</span>'''\nNuoLala\n\n|strength1= 25,000\n|strength2= 107,000\n|casualties1= 4,771\n|casualties2= 32,550\n}}\nThe '''[[Moraks|Morak]] First Contact Wars,''' commonly known as the '''Squirrel Wars''' among humans, were the multiple armed conflicts between crew of the IV-103 ''Constitution ''and their host city-states and the native peoples on Tu, as well as the first war between humanity and an alien species. These conflicts occurred across the major continental mass known as Kolsaviv to the Moraks shortly after the town of Xlemir agreed to host the crew of the Constitution.\n\n==Background==\nBy 2067 CE or much of the Morak population of Tu had developed agriculture, and the most advanced, had organized feudalistic societies, largely concentrated around the Savivian Sea in the north eastern Kolsaviv mainland and surrounding island chain. Fed by river systems flowing from the surrounding mountains, the Savivian civilizations maintained a collective population 62 million, and were in a perpetual state of conflict with eachother. Outside the Savivian the relatively underpopulated central plains of Kolsaviv played host to a collection of nomadic tribes and small farming towns with little governance between them, save from the occasional Plainlord to come out of the roving tribes or western conquerors coming from over the great Kolian mountains. These plains ran from the northern tundra into equatorial grasslands, gradually leading into southern steppes.\n\nIn 2067 the ISV-03 ''Constitution'' arrived at Tu to initiate first contact, however a technical fault in the warp drive led to the ''Constitution's'' falling out of warp deeper in-system, releasing its Bubble Trapp upon a larger asteroid that in turn created a cloud of debris that forced the automated Crew Recovery System to deploy the 6 CRVs that held the ship's crew. CRV 5 was lost during atmospheric entry, killing all on board, and CRV 2 was forced to eject its still suspended crew after being diverted closer to the Savivian Sea.\n\nFormal first contact was initiated with the town of Xlemir, which agreed to host the human explorers in exchange for their services in the summer harvest. Using what few rovers and fabricators they could recover, the crew of the Constitution were able to complete the summer harvest faster than any previous season, and agreed to provide similar services to some of the neighboring towns. They also carried out the standard protocol of building schools and hospitals, but were somewhat more cavalier than the crew of the Enterprise during its mission to Le'ma. Teaching locals about the political and even military history of Earth.\n\n==First battles==\nCaptain Kaplan, fearing that his crew would be stranded on Tu indefinitely, organized meetings with local leaders to form some kind of coalition against the rovers, going so far as to provide more sophisticated arms and armor to the plains nations during the fall siege of the rovers. The Xlemir alliance were able to not only repel the rovers, but pushed them back to their homeland in the high steppes to the south. Kaplan, a decedent of Russian Jews, helped organize a governing system loosely based on that of the old Russian Federation, with a common government for the newly conquered plains and autonomous city states for the founding members of the confederacy. The nation would be ruled by an elected monarch who's powers would be checked by a legislative body elected by the military and the educated.\n\n==Border crisis==\nUpon its formation, the Confederation of Free States was the largest on the planet, but suffered from a low population that could not take full advantage of its millions of acres of potential farmland. To this end, the government, under advisement of their human guests, opened their borders to Savivian farmers and migrant workers. Stories of the new technologies and bounty that the Confederates enjoyed had not missed these societies, and tens of thousands of farmers began settling in the central plains. This began hampering the productivity of Savivian farms, which impacted Savivian tax revenue. Various border states attempted to stop their citizens from leaving but the increased patrols on the borders resulted in provincial leaders building up their own forces that engaged in a series of escalating skirmishes between Confederate and Savivian forces.\n\n==Battle of Mola Hill==\nBy January 2068, Savivian leaders came together to form a united front against the Confederates. The Xlemir government took the declaration of war by the Savivians as an opportunity for glory and were eager for a fight. The crew of the Constitution did not fully appreciate the balance of power that had been in place on Tu prior to their arrival, and confusion persisted among the officers as to what role they should play in a formal conflict between the more advanced Savivian cultures and the pastoral peoples that had taken them in. Captain Kaplan, continuing to believe that their distress signal had not reached Earth, ordered the crew to assist in any way they could to prepare their hosts for war, up to and including developing weapons and engaging in armed combat. At the time, the Constitution had 31 combat-veteran crew members with Military grade bodies. 14 were deployed with the First Confederate Infantry Division north to the Molasaviv province on the Confederate border with the Savivian Kingdom of Pyulala, the first nation to invade Confederate territory.\n\nMolasaviv was centered around a large artificial hill which served as a foot storage center for the province. Control of Mola Hill meant control over the province, and would provide an invader a ready supply of food to field a larger campaign into the Kolsaviv heartland. This strategy had been used by Pyulalan invaders long before humans had ever landed on Tu. Pyulala invaded with 3 divisions from their own territory, commanding 5 additional divisions from other Savivian nations, a force numbering 15,000 that crossed the eastern mountains dividing the Savivian coast from the heartland. The Pyulalan led force met minimal resistance at first, before converging on Mola Hill where the Confederate force of 14 humans and 2000 Morak Confederates waited to meet them. The Confederate force was commanded by one Maria Er Hong, a veteran officer of the US Space Force who served during the [[World War III|Third World War]], and held a doctorate in Military Anthropology from Princeton. The Savivian force were outfitted with leather and wood armor, short iron swords, javelins, and short-bows. The Confederates carried ''Naginata'' style lances, chain and scale mail armor, and English-style longbows. The Savivian forces could not even get in range of the Confederates before the arrow barrage began, killing nearly 5000 infantrymen in the first five minutes, mostly from their javelin corps. The Confederate force then charged into the terrified Savivians, supported by the 14 humans who carried NASA issued collapsible survival rifles that easily cut down the more heavily armored Savivian forces. After only 15 minutes of fighting, the Savivians broke ranks and retreated from Mola Hill.\n\n==March of the Burning Ones==\nThe defeat of Mola Hill was an embarrassment for the Pyulala Kingdom, and forced a change in the thinking of the Savivian leaders. Prior to Mola hill, the Savivians had only had limited contact with humans through captured crew members who had fallen into their sea after being scattered from the main crew's lifeboat capsules. Religious leaders had been screaming that the human visitors were some kind of ethereal monsters that would bring disaster upon their world. Mola Hill convinced the Savivian nations that this could very well be true, and called into service an ancient order of religious warriors simply known as the Burning Ones.\n\nUnder the leadership of the Savivian Church (which shared a single oral tradition of religious history and a common theological structure, but worshiped with independent traditions and ceremonies), the Burning Ones marched into the central plains and set fire to everything they came across in a ritualistic purge. Soldiers, civilians, livestock, property, even the grasslands themselves were put to the torch. The human led forces were forced to retreat with the fleeing population to a shallow valley where they could mount a proper defense against the Burning ones.\n\nFrom the valley, the human led forces were able to use human ranged weapons to their advantage, effectively turning the higher ground that the Burning Ones held into a killbox. The defeat of the order did not stop the advance of the other units, but did severely hamper their ability to defend their own supply lines leading to more victories for the Confederates.\n\n==Arrival of the Enterprise==\nAfter several smaller incursions against the Savivians the war looked to be once again turning in the Confederates favor the ISV-01 Enterprise arrived in orbit and contacted Abram Kaplan on the surface. After being apprised of the situation NASA immediately ordered Kaplan recall his forces and the Enterprise sue for peace and offer the deepest possible apologies on behalf of NASA and the United States government to the Savivians. Kaplan argued that the war had gone too far to simply call for a ceasefire, while the Savivians were quick to agree to begin negotiations. Kaplan would honor the truce, but maintained for the rest of his life that had the Enterprise joined the fight the war would have been won for the Confederates.\n\nKaplan was not invited to the negotiating table, instead the diplomatic corps aboard the Enterprise took over the role of chief negotiators for the US while the Confederation of Free States sent a separate, all-Morak, delegation. Negotiations dragged on far longer than NASA had liked as the Confederates opposed every attempt by the American and Savivian delegations to simply end the conflict. After several weeks formal borders and a demilitarized zone were established and despite the pleading of the Confederates no humans would be involved in the enforcing of the DMZ, and embassies would be established in both capitols with no human weapons present in perpetuity.\n\n==Aftermath==\nThe crew of the Constitution would largely be returned to Earth while several volunteers from Enterprise would remain behind to continue as a moderating influence on the factions. Upon their belated return to Earth the crews from both ships would spend several months testifying before various Congressional committees over what were seen as two disastrous first contact attempts. Captain Kaplan would be banned for life from captaining spacecraft, and was dishonorably discharged for starting an interspecies war. He would spend the next 11 years on the Rikers rehabilitation community.\n\nAmong the general population the crew of the Constitution were seen far more positively, treated in many cases like folk heroes who triumphed over a strange land. The images of Moraks even earned them their popular nickname of \"Squirrels\" among terrans, due to their vaguely rodent-like appearance. Kaplan's sentence led to a decade spanning grassroots effort to secure his pardon, and to exonerate the crew for their bravery in the face of impossible odds.\n\nNASA used the resulting investigations to draft a code of conduct for first contact missions, and even briefly considered an outright ban on contacting pre-industrial civilizations. This latter proposal was struck down after computer models revealed a grim prospect for the survival of intelligent life based on the number of dead planets humans had discovered in just their first few years of interstellar exploration.\n[[Category:22nd-century conflicts]]\n[[Category:21st-century conflicts]]\n[[Category:Extrasolar conflicts]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-10-05T04:27:19Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox Military Conflict"
+          },
+          {
+            "ns": 10,
+            "title": "Template:WPMILHIST Infobox style"
+          }
+        ],
+        "title": "Squirrel Wars",
+        "touched": "2023-10-05T04:27:19Z"
+      },
+      "1287": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2386,
+        "length": 193,
+        "new": "",
+        "ns": 1,
+        "pageid": 1287,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2386,
+            "slots": {
+              "main": {
+                "*": "I think the Flood have this profetic strenght to créate a Christian revival fundamentalism in America and Europe. It would be interesting to the Second Renaissance to have some lines about it.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-10-26T16:21:42Z"
+          }
+        ],
+        "title": "Talk:The Flood/@comment-30330567-20161026162142",
+        "touched": "2016-10-26T16:21:42Z"
+      },
+      "1288": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2387,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1288,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2387,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-10-26T16:21:43Z"
+          }
+        ],
+        "title": "Message Wall:Amadis85",
+        "touched": "2016-10-26T16:21:44Z"
+      },
+      "1289": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2388,
+        "length": 552,
+        "links": [
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1289,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2388,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:The Flood]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-10-26T16:21:43Z"
+          }
+        ],
+        "title": "Thread:Amadis85/@comment-22439-20161026162143",
+        "touched": "2016-10-26T16:21:44Z"
+      },
+      "1290": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 2389,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 1290,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2389,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-10-26T16:21:44Z"
+          }
+        ],
+        "title": "User:Amadis85",
+        "touched": "2016-10-26T16:21:44Z"
+      },
+      "1291": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3743,
+        "length": 114,
+        "ns": 1,
+        "pageid": 1291,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2390,
+            "revid": 3743,
+            "slots": {
+              "main": {
+                "*": "I think this arcticle can be expanded to analyse de economic and sociopollytical causes of russian disintegration.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-30T02:57:06Z"
+          }
+        ],
+        "title": "Talk:Dissolution of the Russian Federation/@comment-30330567-20161026162954",
+        "touched": "2017-04-30T02:57:06Z"
+      }
+    }
+  }
+}

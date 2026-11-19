@@ -1,0 +1,125 @@
+---
+page_id: 3732
+revision_id: 12002
+source_url: https://second-renaissance.fandom.com/wiki/National_Defense_Force
+raw_sha256: 936d5364ab00070dbee0be9b049275f484d17a94bee2a884bf53c18475454b2f
+---
+
+# National Defense Force
+
+## Preserved source
+
+```wikitext
+The '''National Defense Force''' (often shortened to '''NDF''') was the unified military of the [MAGA regime](2718-sovereign-citizen-s-alliance.md) during the [Second American Civil War](3593-white-tide.md).
+
+# History
+## Formation
+The National Defense Force was formed through the consolidation of multiple state defense forces, militias, police departments, and some National Guard units in Republican-controlled red states shortly after the MAGA pretender government was formed in Mar-a-Lago and hostilities broken out against Democrat-governed blue states. 
+
+## First Battle of Scott AFB
+## Siege of Chicago
+## Battle of Houston
+## First Battle of Kansas
+## Second Battle of Kansas
+## Second Battle of Scott AFB
+## Battle for the Upland South
+## Drive Across the Plains
+## Battle of Omaha/Omaha Mutiny
+## Battle of Rapid City
+# Organization
+Officially, the National Defense Force was a de-jure police force similar to the state defense forces, albeit with a highly militarized nature akin to a military police force of an army rather a regular civilian police one. Thus, rather than the Secretary of Defense of the MAGA pretender government, it was under the jurisdiction of the Attorney General, who held the second highest level of civilian authority; MAGA President Donald Trump Jr. held executive authority over the NDF. In reality, however, it was the de-facto primary military force of the regime and movement throughout the war up until the collapse of the MAGA united front in 2031 at the Battle of Rapid City. 
+
+The NDF was directed by the Supreme Command organized under General Michael Flynn as Supreme Commander of the NDF, with the Presidency of Donald Trump Jr. continuing to serve as the Commander-in-Chief and the Attorney General acting as the official civilian head of the military. 
+
+## Army groups
+The National Defense Force was notionally organized into six army groups: Central, South, West, East, Mountain, and Capital. These army groups were further divided into field armies in each state. In reality, only the Capital Army Group (CAG) existed as a truly organized formation; the rest were a disorganized array of units operating in a semi-independent manner.  
+
+## Branches
+The largest branch of the NDF was its ground forces, tasked with fighting Federal forces across almost every front. The limited air, naval, cyber, and space forces the MAGA regime controlled were not independent branches and were instead sub-commands of the NDF. 
+
+## Units
+Being a motley consolidation of multiple independent units, the National Defense Force was not a homogenous force. Many units operated independently of the theoretical chain of command, with the only instances of organized military structure between units occurring when officers from the Capital Army Group took command, as was the case during the First Battle of Scott AFB when General Charles Flynn took command of the Indiana and Missouri state defense forces, the Indiana State Guard and the Missouri State Guard respectively. 
+
+The state defense forces and later the NDF were commanded primarily by former higher ranking police officers, military officers forced into early retirement, and military personnel and officers who defected when the war began. In some cases, like in the Idaho State Guard, which was the pre-war state defense force of Idaho, their officer corps would go as far as employing foreign mercenary soldiers as advisors and even commanders. 
+
+# Personnel
+The NDF were originally composed of former police officers, retired military personnel, and new volunteers from right-wing youth groups who enlisted during the years lead up to the war, with these troops forming the backbone of various state defense forces in Republican-controlled red states that preceded the NDF. 
+
+The combined state defense forces nationwide by 2029 was around half a million (500,000 to 600,000 troops), as large as the Israel Defense Forces or the Islamic Republic of Iran Armed Forces. The consolidation, conscription of various police departments that has been provincialized the years led up to the war, and drafting of young men in red states when the war began would mean the NDF's ranks would reach into the millions at its peak.
+
+## Ranks
+Rank structures of the National Defense Force were mostly identical to that of the U.S. Army with some slight differences. The highest military rank in the NDF was the Supreme Commander of the National Defense Force, a rank equivalent to the U.S. Army’s 6-star rank of “General of the Armies.” General Michael Flynn was the only NDF officer to ever held the rank until his capture and at the Battle of Omaha/Omaha Mutiny.
+
+## Conscription
+The first act of the MAGA regime was to consolidate the state defense forces and provincialized police departments across every red states into the National Defense Force, as well as introducing conscription for the first time in America since the end of the Vietnam War.
+
+Immediately after the draft was imposed, 300,000 young men aged 18 and above throughout red states across the country were drafted into the NDF, a number that would only rise as the war progressed. As a result, contrary to the myth and image of the NDF and the MAGA regime being regarded as “a bunch of old men rebelling against the young”, the conscription law saw most NDF conscripts being quite young. Only the NCOs and the officers of the NDF were much older compared to Federal forces, usually taken from the state defense forces, which were in turn largely retired military veterans and taken from police departments.
+
+When the Drive Across the Plains began in 2031, around 65% of the NDF was made up of draftees. The nature of the draft and the deteriorating conditions for the NDF and the MAGA regime as the war progressed also saw widespread desertions and retreats, leading to the deployment of barrier troops by the NDF. 
+
+The death or capture of more experienced troops, NCOs, and officers as time went on further led to the MAGA regime conscripting teenagers younger than 18. While right-wing teenagers were already known to enlist in the state defense forces before 2029, the worsening conditions of the war saw the conscription of teenagers, children, and old men increased at an unprecedented level. Officially, only teenagers 16 and older were drafted, but unofficially, children as young as 12 serving as rear echelon troops during the last days of the regime. 
+
+On paper, the regime’s official draft laws stated that the minimum length of mandatory military service is two years for all conscripted men, during which time all men aged 18 and above were required to serve in the NDF for at least one term. However, many captured NDF troops during the Drive Across the Plains (August-September 2031) were discovered to have served since as early as January 2029, several months longer than their stated service periods. 
+
+Due to the high level of corruption, influences, powers, and privileges of pro-MAGA corporations under the regime and its territories, the wealthy elites and their children were able to avoid military service with very little effort, even as the frontlines began to collapse. Many opted to flee to non-extradition countries or take their own lives before Federal forces could reach their estates. 
+
+## International volunteers
+The NDF and its associated groups and organizations received many international supporters and volunteers, especially from European far-right groups. Many joined the fight by crossing the Mexican border as the security of said border was not a priority for the Federal forces initially. After 2031, however, the influx of foreign volunteers declined as the border was secured and Federal naval forces maintained control of the nation's ports. 
+
+## Minorities in the NDF
+### Hispanics and Latinos
+### Blacks
+### Asians
+### Jews
+### Indigenous
+### LGBTQ+ people
+## Training
+For the most part, military training in the National Defense Forces was largely similar to the Federal forces of the U.S. Armed Forces initially. However, as the war deteriorated for the MAGA regime, along with the death of experienced troops and officers as times went on, the NDF would increasingly relied on inexperienced conscripts, many of whom received little to no formal military training. One NDF soldier captured during the Battle of Omaha recounted how his training lasted only two weeks, during which he was given a rifle and fired only a hundred rounds at a paper target as his "training". 
+
+# Culture
+## Hazing
+Unsurprisingly, the culture of machismo, homophobia, misogyny, and toxic masculinity of the MAGA movement and the right-wing in general resulted in rampant and bad hazings within the military culture and rank of the state defense forces and the NDF. 
+
+Examples of brutal hazing included corporal punishments, abuses, bullying, beatings, sexual harassments and assaults, and more inflicted upon male soldiers (women were not allowed to serve in the NDF under the MAGA regime) during training and within units by instructors, NCOs, superior officers, Evangelical military chaplains, and fellow soldiers when being perceived as “weak”, “traitorous”, “unchristian”, “degenerate”, “emasculated/feminine”, “gay”, etc. Troops were constantly tested for loyalty, and church services were mandatory in the NDF. Flogging was also normal and common for even minor infractions.
+
+Some state defense forces and pro-MAGA rebel militias would went as far as to ritualized their hazings. The Idaho State Guard, which became a part of the NDF Mountain during the war up until 2031, was the most well-known and infamous example of this when they hired ex-Wagner Group mercenaries. These Russian advisors and commanders would introduced the practice of ritualized abuses and hazings similar to [https://en.wikipedia.org/wiki/Dedovshchina Dedovshchina] found in the Russian military and the Wagner Group.
+
+As the civil war progressed and deteriorated for the NDF, hazing would worsened as the MAGA regime was looking for any solutions to avoid its utter, inevitable defeat out of mounting fear, paranoia, and exclusion, blaming its troops, commanders, and even its own officials for perceived signs of weakness, degeneracy, and more.
+
+## War crimes
+# Weapons and equipment
+## Uniforms
+There were no standard uniform specifications across the NDF, with many units using whatever they could get their hands on, from police coveralls to military surplus, along with a few modern uniforms made for each state.
+
+One of the more common combat uniforms used were surplus UCP uniforms used by various state defense forces and formerly by the U.S. Army. Other units used the more modern OCP MultiCam combat uniforms worn by Federal forces (resulting in instances of friendly fire) as well as a variety of surplus and civilian camouflage patterns.
+
+Similar to the combat uniform situations, there were also hardly any standard dress uniforms. For the most part, the most common dress uniforms of the NDF was the US Army Blue Service Uniforms and various different police ceremonial dress uniforms due to the similarities between the two.
+
+## Firearms
+AR-15 rifles and 9mm handguns made up the majority of the NDF's individual firearms due to their mass proliferation in the civilian and military sectors. As a result, ammunition and spare parts were plentiful, especially 9mm and 5.56×45mm NATO bullets. One of the first military procurement programs conducted by the NDF was the production of bump stocks and extended magazines to modify their AR-15s from a purely semi-automatic platform to a select fire or fully automatic configuration, increasing the lethality of their rifles. 
+
+Weapons seized from police armories and departments, as well as military bases and armories, also added to the NDF's stockpile. The new M7 rifle used by Federal military forces was a coveted trophy, and the limited number captured were often issued to elite units.
+
+The Supreme Command of the NDF and the MAGA regime also ordered the seizures of civilian ammunition and small arms stocks, which was considered highly ironic given the MAGA ideology’s militant opposition to government control of civilian firearms before the war. 
+
+## Vehicles
+The bulk of the NDF's heavy vehicles came from private donations, police stocks, or through looting Federal armories and military bases. The vast stockpiles of military-grade equipment and armored vehicles acquired by police forces through the Law Enforcement Support Office (LESO) program allowed the NDF to rapidly equip many of its units with armored vehicles early on. These armored forces were very effective against the hastily recruited militias the NDF encountered early in the war. 
+
+The NDF further expanded its vehicle fleet by taking vehicles from Federal armories, military bases, and routed Federal forces, including M1 Abrams tanks, Bradley IFVs, and Stryker APCs. However, spare parts and fuel shortages crippled the NDF's ability to maintain these heavier vehicles as the war went on, and thus simpler vehicles such as Humvees, MRAPs, and older M113 APCs were used in greater numbers. Converted civilian pickup trucks, or "[https://en.wikipedia.org/wiki/Technical_(vehicle) technicals]", were also heavily used in great numbers due to their simple maintenance and lower fuel consumption.  
+
+## Aircraft
+At the start of the war, the NDF operated few fixed-wing aircraft captured from Federal air bases and manufacturing facilities. Its fighter wing consisted of F-15Is originally intended for export to Israel in 2029 and air show F-16s, all of which piloted by old retired pilots previously discharged from the U.S. Air Force due to sexual misconduct charges. 71 additional aircraft of varying types were acquired from Scott AFB after it was taken over.
+
+The NDF's air fleet's readiness was rapidly attrited by a lack of fuel, spare parts, and qualified pilots and maintenance personnel. The NDF's combat fighter fleet was widely employed during the Siege of Chicago, but failed to achieve air superiority over the city before the NDF was forced to withdraw. Most aircraft were shot down, grounded due to maintenance or pilot shortages, or were rendered inoperable by a shortage of munitions. 
+
+Helicopters commandeered from civilians and former police forces were used in a limited capacity, primarily in a backline roles where they would be safe from ground fire. One notable role of helicopters in the NDF was the rapid deployment of infantry squads to combat the scattered insurgencies throughout the Midwest, where a fast response was required before the isolated cells could retreat into hiding after conducting an attack. 
+
+## Drones
+Simple homebuilt drones and drones taken from shops were used to devastating effect against Federal forces as cheap drones and loitering munitions. Often being deployed in swarms of thousands, they first saw action during the First Battle of Scott AFB. General Eric Madden, who was the only gay officer in the NDF, pioneered UAV tactics for the NDF during the war, taking lessons from the war in Ukraine and adapting them accordingly, but his effort to organize and improve the NDF’s drone production against the much bigger drone manufacturing capability of the U.S. Air Force was frequently ignored and sidelined by the homophobic MAGA regime and the NDF itself.
+
+[Category:Sovereign Citizen's Alliance](https://second-renaissance.fandom.com/wiki/Category:Sovereign_Citizen's_Alliance)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/3732/12002.wikitext` · revision `12002` · [upstream](https://second-renaissance.fandom.com/wiki/National_Defense_Force)

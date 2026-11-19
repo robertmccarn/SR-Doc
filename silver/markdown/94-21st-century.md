@@ -1,0 +1,121 @@
+---
+page_id: 94
+revision_id: 11980
+source_url: https://second-renaissance.fandom.com/wiki/21st_Century
+raw_sha256: ef52a4ef1204583025ea0e1ff83889e1643d7185a6af7db75d00671954653f50
+---
+
+# 21st Century
+
+## Preserved source
+
+```wikitext
+The '''21st century''' was the period between January 1, 2001 and December 31, 2100. 
+The 21st century was dominated by significant events that defined the modern era: COVID-19 pandemic, the [Dissolution of the Russian Federation](https://second-renaissance.fandom.com/wiki/Dissolution_of_the_Russian_Federation), [The Flood](637-the-flood.md), [Revolutions of 2027](820-revolutions-of-2027.md), [World War III](107-world-war-iii.md), the [Second Mexican-American War](821-second-mexican-american-war.md), the [Biotech bubble](2593-biotech-bubble.md), [space colonization](1139-american-colonization-of-mars.md) and [Interstellar exploration](1592-nasa.md), balkanization, the beginning of the [Mexican-American Cold War](1597-mexican-american-cold-war.md), and technological advances. These reshaped the political and social structure of Earth, the colonies, and contacted alien planets.
+
+Additional themes include the breakdown of social order, national governments, and intergovernmental organizations due to the consequences of anthropological climate change, and the global effort to [reverse those effects](1637-the-refreeze.md). Greater cultural homogenization through developments in transportation and communications technology; poverty reduction and rising standards of living, world population decline, [biosphere restoration](1317-de-extinction.md); and the birth of the [Biotech Revolution](1085-genetic-engineering.md) and the [Quantum Revolution](3580-quantum-capacitor.md). Personalized media, telecommunications, and information technology (especially computers, neural interfaces, individualized education, and the Internet) made knowledge more widely available.
+
+[Humans](1450-human.md) explored outer space at a greater pace than ever before, taking their first footsteps on and eventually colonizing [Mars](318-mars.md), the Jovians, Titan, Triton, the Asteroids, [Venus](1154-venus.md), and dozens of other worlds in and out of the [Sol system](1583-sol-system.md). Space-based resources came to outpace those of Earth by the end of the century, and Space-based energy came to be the largest single source of energy on Earth.
+
+Many people's view of the universe changed significantly by the later half of the century as they became much more aware of the struggles of others and, as such, became increasingly concerned with human rights. Advancements in medical technology also improved the welfare of many people: the global life expectancy increased from 65 years to 150 years. [Rapid technological advancements, however, also allowed warfare to reach unprecedented levels of precision.](1234-hypersonic-weapons.md) World War III, previously hypothesized as an apocalyptic event, only saw the death of 110,000 people, while space weaponry gave humankind the means to counter threats in a very short period of time. The world also became more culturally homogenized than ever with developments in transportation and communications technology, popular music and other influences of American culture, international corporations, and an interplanetary economy by the end of the 21st century.
+
+# Development in Brief
+## '''War and politics'''
+*With major strides in LGBT rights across the western world in the first part of the century, and with the acceptance of new family planning techniques, homosexual individuals gained more rights and freedoms during the century.
+* European integration to breakdown in Atlantic Europe in the early 21st century, while it strengthened in Eastern Europe, eventually leading to the formation of the Intermarium.
+* The [Little Cold War](97-little-cold-war.md) (2008-2029) saw a renewed period of hostility between NATO and the Russian Federation. After Russia's failed invasion of Ukraine in 2022, the Federation entered into a period of political instability and national collapse.
+*Rising nationalist movements were among the many causes of [World War III (2051–2055)](107-world-war-iii.md), ending the period of "Long Peace" that had existed since the end of World War II. World War III led to the creation of many new countries, especially in Central Asia. At the time, it was also said by many to be the "end of total war".
+*The century is often referred to as the Balkanization Era. Violent civil wars and political disunion effected many countries throughout the century, substantially increasing the number of nation-states, and with it the level of instability in many regions. The most significant example of the Balkanization was the sudden and unexpected socioeconomic collapse and dissolution of Russia in the 2020s. This event led to the crafting of the alliance systems that would define the Third World War.
+*The economic and political aftermath of the Little Cold War and the 2030s Labor Crises led to the rise of ultra-nationalism in Eurasia, and subsequently to World War III. Unlike the previous two world wars, civilians did not suffer from the mass death of a total war. This is largely due to the surgical strikes of economic targets on both sides, that rarely caused the death of civilians due to its discouragement among both sides as well as the fear of a nuclear warfare.
+*The tensions between the America and the Turkish-Japanese Alliance had caused another arms race and increasing competition between the two major players in the world: [the Eurasian Trade and Security Coalition](1438-eurasian-coalition.md) and United States of America. This competition included the development and improvement of space-based weapons and the further spread of nuclear proliferation.
+*The Japanese authorities deported millions of their own citizens in order to eliminate domestic opposition and promote loyalty and obedience. More than 2 million people were forcably relocated to China and Manchuria, or were forced to flee to Australia or America, because they were considered enemies of the state.
+*The rise of [Donald Trump](https://second-renaissance.fandom.com/wiki/Donald_Trump) in the United States and the anti-rape movement in [India](1474-india.md) challenged existing gender politics in those countries.
+*In the late 2050s, the [Augment Rights Movement](1074-augment-rights-movement.md) began for people who had elected to be genetically augmented. In the US, Falana Act banned all recreational modifications, effectively making criminals of animal/human hybrids (furies), unusual skin colors (rainbow children), and those that modified themselves to resemble fictional creatures (FreakGeeks). In 2070, the Augmentation Rights Act overturned the Falana Act's most radical policies, but maintained a ban on all post-natal augmentations before the age of 18.
+*The Third World War was largely fueled by rising nationalism in Japan and Turkey, drawing America and its allies into war.
+* Civil wars occurred in many nations throughout the 21st century and continuing into the 22nd, an era often called, the Balkanization Era. Rebellions were easier than ever to start, thanks to the hyperlocalization of manufacturing that enabled any political group to build a militia in a matter of days.
+* The Little Cold War and the Third World War saw a realignment of the International System, and the tearing down of Cold War-era institutions, among which were NATO and the United Nations.
+* After a long period of civil wars and the conflict with Japan, the period of two Chinas ended in 2058 with the establishment of the United Federation of China, which reasserts itself as the second-largest economy in the world.
+* The American wars saw a major re-structuring of the US military that spread across military systems in other nations.
+* The old Anglosphere became more entrenched in the American system, eventually joining the United States after the [Union Act of 2073](1308-union-act-of-2073.md).
+* Advances in unmanned systems, [human augmentation](1085-genetic-engineering.md), [armored powered exosuit](1111-armor.md), and interface weapons led to a new era of professional soldiers, not seen since the days of knights, janissaries, samurais, or any other historical warrior castes.
+*Several thousand advanced androids and AIs begin showing clear indications of intelligence in the 2070s. A massive backlash from the general public results in the recall of the specific models using human neural net copying and many androids are destroyed in the public hysteria.
+
+## '''Culture and entertainment'''
+*As the century began, Los Angeles was the entertainment capital of the world, where both American and foreign filmmakers, musicians, and visual artists gathered.
+*The internet had a major influence on fashion and trends in all aspects of life, supplanting movies and music as the primary driver of cultural trends. As a great deal of digital content originated from the United States, and most software languages were written in English, American culture continued to permeate every society in the world.
+*Analog Media (i.e. newspapers, radio, and television) saw a mass die off. News and information moved to being streamed through dynamically generated outlets that take information fed through both local reporters and content contributors.
+*Video game consoles continued to exist as a separate class of device well into the 2020s before digital media forced game publishers to adapt to the growing mobile market.
+*By the 2030s, computer animation was routinely used to produce works for a wide variety of demographics and genres, rivaling and even exceeding live-action in diversity.
+*The split between the America and Japan that eventually led to World War III had significant consequences for popular culture. Whereas at the dawn of the 21st century Japan was seen as a major exporter of entertainment, the increasing suspicion toward Japan--combined with the inevitable obsolescence of TV and video game consoles as a whole--caused America to become the main producer of these products. That said, a number of fans of these works remain, even during World War III. The fan bases of these TV shows and video games from Japan eventually received a resurgence in popularity after hostilities subsided.
+*Electronic and [house music](https://second-renaissance.fandom.com/wiki/Wikipedia:House_music) became popularized during the 2010s and 2020s in the United States. [Electronic music](https://second-renaissance.fandom.com/wiki/Wikipedia:Electronic_music) went on to influence [AstroBlues](1079-astroblues.md) in the 2040s, which in turn influenced [Epical Music](1082-epical-music.md) that exploded in popularity in the 2060s.
+*Astronauts began getting tattoos in the 21st century, much like sailors of old. Bio-luminescent and animated tattoos became popular in the mid-late 21st century.
+*Virtual culture became more dominant not only in interactive entertainment but in movies and series as well. During the century a new skilled understanding of interactive imagery was developed.
+*Online dating became the primary medium for people seeking sexual partners in the 2010s and 2020s. The practice was particularly disruptive in more traditional societies with strict moral codes about human courtship.
+*The legalization movement saw Cannabis become an accepted recreation drug through the 2010s-20s. Most other narcotics were decriminalized or legalized by the 2030s, and anti-addiction and drug treatment technology became more commonplace during that time.
+*The [Fifth Great Awakening](1070-fifth-great-awakening.md) saw Christianity adopt new interpretations of biblical dogma as egalitarianism, human augmentation, and the discovery of new civilizations.
+* In America, modern architecture departed radically from the excessive utilitarianism of the Information Age. Organic forms created to benefit from the ecosystem became more commonplace, enabled by developments in building materials and technologies.
+*Gamification has become so widespread due to advances in social networking and augmented reality technologies, that almost any activity on Earth can be treated as a game. For example, most governments grant a community service tax credit that lets any community service activity be rated and tallied in a points system that can be exchanged as a tax credit for all exchanges and income. Job Communities (the closest thing to employment left) have running tallies that display the success of their members in real time.
+*Space hotels became popular tourist destinations during the 2050s. However, the novelty grew out of favor by the 2070s.
+*Designer pets became a major trend in the century through new selective breeding projects. The movement eventually gave way to the genetically modified pet movement in the 2050s, which domesticated foxes, badgers, otters, big cats, birds of prey, and other wild animals into tame subspecies. More advanced GM pets came about in the 2060s with direct manipulation of DNA, producing animals with more unusual appearances and sophisticated behavior.
+*Designer Children became the norm in the Developed World by 2060, and globally by 2070, leading to the eradication of degenerative genetic disease.
+
+## '''Science and mathematics'''
+Science advanced dramatically during the 21st century. There were new and radical developments in quantum physics, genetics and cybernetics, building on the progress made in the 20th century. Big Science flourished, especially after the Third World War, as funding for science increased. Computer science became ever more specialized and abstract.
+
+### '''Physics'''
+*New areas of physics, like warp field theory, quantum entanglement, and light-mass conversion, were developed during the 21st century.
+*While some pioneering experiments about the theory of quantum gravity had been made at the end of the 20th century, it was only in the 21st century that gravity could be adequately described in quantum mechanics.
+*It was found that all the known forces can be traced to an additional fifth fundamental interaction, the quantum force, the weakest of the five forces.
+
+### '''Astronomy'''
+*The planets of a number of nearby star systems were closely observed via numerous space telescopes and interstellar missions.
+*Life was discovered to be prolific in the Universe, even appearing beneath the icy moons of [Jupiter](1405-jupiter.md) and [Saturn's](1426-saturn.md) moon Enceladus. Life was also discovered to have been present on Mars when the planet had liquid water in the distant past.
+*The steps that would eventually lead to Mars being terraformed are begun.
+*Humans began an expansive age of [colonization](1232-space-age.md) throughout the solar system, and on some nearby star systems.
+*A much better understanding of the evolution of the universe was achieved, its size was determined, and the Big Bang theory on its origin was further refined to account for the presence of dark energy and low amounts of anti-matter.
+
+### '''Biology'''
+*Genetics and evolutionary biology faced greater political skepticism in the early 21st century, but further advanced the fields of cloning and genetic modification.
+*The Human Connectome Project modeled every neural connection of the human brain and gave scientists a better understanding of the brain's structure.
+*A number of recently-extinct animals are revived via cloning, the first being the gastric-brooding frog in 2040. Others include the thylacine, the Carolina parakeet, and the woolly mammoth.
+*The discovery of alien life led to a boom in biological research in off-Earth research facilities.
+
+## '''Engineering and technology'''
+One of the prominent traits of the 21st century was the dramatic growth of technology. Organized research and practice of science led to advancement in the fields of communication, engineering, travel, medicine, and war.
+
+* The number and types of personal robots radically changed throughout the 21st century due to advancements in biotechnology and demand for labor. Such basic home robots with general purpose capabilities ranging from cleaning, gardening, and caretaking all became popular starting in the 2060s
+*[Virtuals](964-virtuals.md) were popularized as a form of entertainment during the 2030s, which extended to education during the 2070s. Wearable computers began to enter the home during the 2010s as well. The age of the wearable grew during the 2030s with the development of fiber circuits and [tactile-neural interfaces](1436-tactile-neural-interface.md), which slowly began to replace visual interfaces.
+* The first unmanned hypersonic aircraft was flown in 2001. Military research in the 2010s-20s led to the first combined cycle jets by the 2030s. Global hypersonic travel became commercially viable by the middle of the century.
+* The introduction of the [hyperloop](https://second-renaissance.fandom.com/wiki/hyperloop) in the 2020s essentially rendered traditional modes of transportation obsolete, enabling the average person to travel anywhere in North America in a matter of minutes
+* Additive manufacturing/3D printing made mass personalization of manufactured goods.
+*The [quantum circuit](3580-quantum-capacitor.md), photon transistors, and tactile-neural interfaces revolutionized computers, leading to the proliferation of the personal AI in the 2060s.
+* Graphene became an inexpensive material and became second only to iron in use.
+* The Space Boom of the 2050s gave rise to the colonization of the solar system. Terraforming of Mars and Venus began in the early 2060s while subsurface colonies in the Jovan and Saturn systems were settled in the 2080s. Asteroids were processed into many kilometers long O'Neil ships that provided easy transport of goods, biomass, and people throughout the system. Warp drive gave humans limited access to other star systems, and suspended animation technologies enabled colonists on slower than light ships to travel to other worlds by the end of the 21st century.
+* Quantum entanglement technology enabled instantaneous communication across interstellar distances, and creating unbreakable codes for governments and major corporations.
+
+## '''Medicine'''
+*Lab-on-chip technology became a powerful tool for testing new medicines.
+*Antibiotic resistant bacteria began to increase mortality from bacterial diseases and their prevalence in the 2020s, forcing western nations to adopt Bacterial Phage treatments.
+*A vaccine was developed for HIV, ending a worldwide epidemic. Effective vaccines were also developed for a number of other serious infectious diseases, including Ebola, Parkinson's, Alzheimer’s, Cervical Cancers, Lung Cancer, and influenza.
+*[Genetic Engineering](1085-genetic-engineering.md) led to the eradication of cancer in humans.
+*Development of GM bacterial virtually eliminated tooth decay and other mouth diseases from post-industrial societies.
+*New psychiatric technologies were developed. These include virtual psychoanalysis and psycho-surgery.
+*The development of genetic sequencing and genetic modification made selecting out harmful conditions from embryos safe and widely available.
+*The invention and development of stem cell technology made organ and tissue replacement a clinical reality.
+*Anti-addiction treatments for cocaine/crack and heroin resulted in their effective treatment; mind-altering drugs such as LSD, MDMA, and cyberdrugs were decriminalized in the 2060s. In many countries, a war on drugs was ended in favor of new treatment techniques, leading to the collapse of black market drug dealing, and a significant reduction in prison sentences for drug charges.
+*Contraception drugs for men were developed, which reduced population growth rates in industrialized countries.
+
+## '''Energy and the environment'''
+*By 2075, the ozone in Earth's atmosphere was almost completely restored.
+*Rewilding efforts are now common place.
+*The [Earth Working Group](1106-earth-working-group.md) carried out a geoengineering program mid-century that returned much of Earth's polar ice and atmospheric carbon levels to where they were in 2000.
+*Solar cells are included in almost everything in modern construction, clothing, and of course electronic devices. The most efficient cell, used on rooftops, is capable of absorbing 81% of all light that strikes it into pure electricity.
+*Fossil fuel use and nuclear fission were supplanted by the dominant use of renewable sources and fusion power by the 2050s
+*The decline in population growth reduced the strain on the environment.
+[Category:Timeline](95-category-timeline.md)
+[Category:21st Century](https://second-renaissance.fandom.com/wiki/Category:21st_Century)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/94/11980.wikitext` · revision `11980` · [upstream](https://second-renaissance.fandom.com/wiki/21st_Century)

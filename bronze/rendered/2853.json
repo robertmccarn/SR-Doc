@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "*": "Planets",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><h2><span class=\"mw-headline\" id=\"Licensing\">Licensing</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a title=\"Sign in to edit\" class=\"mw-editsection-visualeditor\" data-tracking-label=\"log-in-edit-section\" data-action=\"edit-section\" href=\"https://auth.fandom.com/signin?redirect=https%3A%2F%2Fsecond-renaissance.fandom.com%2Fwiki%2FFile%3AJupapr3color-jd-170304.png%3Fveaction%3Dedit%26section%3D1&amp;uselang=en&amp;metadata=article-registration-edit-article-section\" data-auth-modal=\"signin\" data-testid=\"log-in-edit-section\" aria-label=\"Sign in to edit\"><svg class=\"wds-icon wds-icon-tiny\" aria-hidden=\"true\" focusable=\"false\"><use xlink:href=\"#wds-icons-pencil-tiny\"></use></svg></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p><span class=\"new\" title=\"Template:NASA / JPL-Caltech / Justin Cowart. This work is licensed under a Creative Commons Attribution 3.0 Unported License. (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6TkFTQV8vX0pQTC1DYWx0ZWNoXy9fSnVzdGluX0Nvd2FydC5fVGhpc193b3JrX2lzX2xpY2Vuc2VkX3VuZGVyX2FfQ3JlYXRpdmVfQ29tbW9uc19BdHRyaWJ1dGlvbl8zLjBfVW5wb3J0ZWRfTGljZW5zZS4/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:NASA / JPL-Caltech / Justin Cowart. This work is licensed under a Creative Commons Attribution 3.0 Unported License.</span>\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119205904\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 3/1000000\nPost‐expand include size: 130/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    1.110      1 Template:NASA_/_JPL-Caltech_/_Justin_Cowart._This_work_is_licensed_under_a_Creative_Commons_Attribution_3.0_Unported_License.\n100.00%    1.110      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:2853-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205904 and revision id 8821. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:NASA / JPL-Caltech / Justin Cowart. This work is licensed under a Creative Commons Attribution 3.0 Unported License.",
+      "ns": 10
+    }
+  ],
+  "page_id": 2853,
+  "revision_id": 8821,
+  "title": "File:Jupapr3color-jd-170304.png"
+}

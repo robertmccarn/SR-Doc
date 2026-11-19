@@ -1,0 +1,69 @@
+---
+page_id: 1597
+revision_id: 11292
+source_url: https://second-renaissance.fandom.com/wiki/Mexican-American_Cold_War
+raw_sha256: a90b126002e2a895ea0296d0910aefe226eb20ecdcf6160d0b28d7a8483d4740
+---
+
+# Mexican-American Cold War
+
+## Preserved source
+
+```wikitext
+{{Periods in US history}}
+The '''Mexican-American Cold War''' was a state of geopolitical tension after the [Second Mexican War](821-second-mexican-american-war.md) between the [United States](217-united-states-of-america.md) and [Mexico](1391-mexico.md) and their various allies and client states. Historians do not fully agree on the dates, but a common timeframe is the period between 2092, the end of the Second Mexican War, and 2134, the year marking the beginning of the [Third Mexican War](119-third-mexican-american-war.md). 
+
+# Background
+{{History of the Mexican-American Cold War}}
+There is disagreement among historians regarding the starting point of the confrontation between the US and Mexico. While most historians trace its origins to the period immediately following the Second Mexican War, others argue that it began during World War III when Mexico was approached by Japan to enter the war on the side of the Coalition, and while Mexico refused, the atmosphere between the US and Mexico shifted more toward suspicion for the rest of the war. Others point to the rise of Filipe Peña and the Revolution Party in the 2070s. Peña stated that Mexico was under threat from "an American cage", and he viewed diplomacy as a weapon that should be used in order to keep Mexico's enemies divided, beginning with the establishment of the Latin American Union, which called for revolutionary upheavals abroad. His successor [Luis Zepeda](1537-luis-zepeda.md) viewed Mexico as "the guardian of freedom," against American dominance of the Western hemisphere, the world, and indeed the Solar System.
+
+# The Second Mexican War
+''Main article: [Second Mexican War](821-second-mexican-american-war.md)''
+
+## '''Preparing for "another war"'''
+On September 2093, General Lana Obi's treatise ''Continental Divide'' articulate the US government's increasingly hard line against the Mexicans, and became the basis for US strategy toward Mexico and eventually the Latin Union as a whole for the duration of the cold war. The following February, the Mexican side produced the Fox Papers, sent by the Mexican ambassador to the US but commissioned and "co-authored" by Hector Caldaron; it portrayed the US as jealously guarding the wealth of the world and building up military capability "to return the southern world to the chains in which they'd become accustomed".
+
+On 12 February 2093, Iona Molnau delivered a speech in Texas repudiating the Fabian Plan (a proposal to militarize the US-Mexican border and permanently nationalize the National Guards of several Southwestern states) and warning the Mexicans that the US intended to maintain a military presence along the border indefinitely. As Molnau admitted a month later, "The hope of our plan was to keep the people of the Southwest pacified... it was a battle between us and Mexico for the hearts of our own people..."
+
+# Beginnings of the Cold War
+[thumb|229x229px|Propaganda poster "Guerra Fría". (2120).](3624-file-guerra-fria-futuro-del-segundo-renacimiento-by-x1120x-de6i4q3-png.md)
+In September 2094, the Mexicans formalized their alliances in the Western Hemisphere and created the [Latin American Union](2289-latin-american-union.md), the purpose of which was to enforce a political and economic orthodoxy within Latin American and form a common defense against American action in Latin America. Zepeda faced an embarrassing setback the following winter, when [Brazil](2775-brazil.md) walked out of negotiations to join the LAU and adopted a non-aligned position, seeing [Argentina](1420-argentina.md) as a more immediate threat than the Americans
+
+Mexico began a military buildup in space almost immediately after the end of the Second Mexican-American War, forming the [Mexican Vacuum Command](2283-mexican-vacuum-command.md) and beginning its colonial program.
+## '''Great Wall of America'''
+The Second Mexican War was the last major incident in the conflict regarding the status of Latin-American Immigrants prior to the Atzlan War. Prior to the outbreak of the Second-Mexican War, Mexico had begun to restrict emigration movement along its border with the United States. However, hundreds of thousands of Hispanic-Americans annually were deported to Mexico through the existing checkpoints. After the war, deportations had slowed and the US and Mexico placed far tighter controls for movement across the border.
+
+By June of 2095 the US and Mexico had permanent troop emplacements across the entire border, and both sides had begun work on a series of fixed fortifications. By the turn of the century, the temporary fences on both sides of the border had been replaced with two high fused stone walls on either side of the border. Mexico even carried out a massive river dredging campaign to widen the Rio Grande to be used as a more reliable natural border. At the height of the conflict in the late 2110s, Mexico began to place nuclear mines near strategic points along the wall to slow a potential American invasion.
+
+The emigration policies of the United States resulted in a massive "brain drain" from the United States to Mexico of younger educated professionals, giving Mexico the means to fuel its growing robotics industry.
+
+## '''Guardiola Incident'''
+''Main article: [Guardiola Incident](822-guardiola-incident.md)''
+
+In 2099 the [Guardiola Foundation](823-guardiola-foundation.md), a radical anti-Colonial faction of the Mediterranean Union, staged a massive attack on Glen Station, the principal armory of the Earth-Luna Planetary Guard. As the MU was an ally of Mexico, the US government was not able to carry out direct intervention against Guardiola targets on Earth without risking a much larger war with Mexico. Throughout the conflict, the Steele Administration attempted to find a diplomatic solution while providing intelligence to the colonies regarding Guardiola movements. In public, the US government argued that the colonial planetary guard forces were perfectly capable of resolving the crisis on their own.
+
+The US and Mexico eventually agreed to limited sanctions of MU ships suspected of harboring weapons for the Guardiolas, and later a joint assault against the Guardiola stronghold on Earth. Despite Mexico's eventual cooperation with the US against the Guardiolas, most of the military leadership of Mexico appeared to support the attacks against the colonies as a means of driving a wedge between the US and its colonies, though there are no record of any members of the Mexican government actively assisting the Guardiolas at the time.
+
+United States officials moved thereafter to expand early warning coverage of private launches, and counter anti-colonial movements, often led by ultranationalist parties financed by Mexico. The US formalized a series of alliances in Central Africa, Ecuador, and Oceania, and fortified their military positions around the space elevators.
+
+## '''[Second Vietnam War](1373-second-vietnam-war.md)'''
+## '''Europe and the Intermarium'''
+''Main article: [Intermarium](946-intermarium.md)''
+
+By 2100 Riots had broken out across northern Europe over food shortages. The worst of these riots eventually deposed the German government, sending the country into chaos that only made the broader European crisis worse. Successive revolutions in France, Austria, and Italy forced the US to deploy its military to intervene and restore order. With a major invasion in France, and smaller operations across the continent, Steele functionally spent the bulk of his second term trying to hold Europe together with endless operations in [Germany](1421-germany.md), propping up breakaway Republics, and effectively surrendering half the country to Poland. By the time O'Neil ship traffic had begun to normalize, Sicily's government dissolved following public outcry over rising food prices. The MU itself was plagued by populist uprisings that would continue well past Steele's Presidency.
+
+# Crisis and escalation
+## '''[Third Chinese Civil War](1408-third-chinese-civil-war.md)'''
+## '''[India Crisis](1533-india-crisis.md)'''
+## '''[Sahara War](1713-sahara-war.md)'''
+# Final and confrontation
+''Main article: [Aztlan War](1681-aztlan-war.md) and the [Third Mexican War](119-third-mexican-american-war.md)''
+
+# Aftermath
+[Category:22nd-century conflicts](135-category-22nd-century-conflicts.md)
+[Category:22nd Century](https://second-renaissance.fandom.com/wiki/Category:22nd_Century)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1597/11292.wikitext` · revision `11292` · [upstream](https://second-renaissance.fandom.com/wiki/Mexican-American_Cold_War)

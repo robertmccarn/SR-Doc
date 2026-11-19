@@ -1,0 +1,3034 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "812": {
+        "contentmodel": "Scribunto",
+        "lastrevid": 1093,
+        "length": 981,
+        "new": "",
+        "ns": 828,
+        "pageid": 812,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1093,
+            "slots": {
+              "main": {
+                "*": "-- Proof-of-concept for automatic striping\nlocal p = {}\n\nlocal Navbox = require('Module:Navbox')\n\nfunction p.navbox(frame)\n\tlocal args = frame:getParent().args\n\n\tlocal listnums = {}\n\tlocal listcount = 0\n\tlocal t = {}\n\n\tfor k,v in pairs(args) do\n\t\tif type(k) == 'string' and k:match('^list[0-9][0-9]*$') then\n\t\t\tif( v and v ~= '') then\n\t\t\t\tlistcount = listcount + 1\n\t\t\t\tlistnums[listcount] = mw.ustring.gsub(k,'^list([0-9][0-9]*)$', '%1')\n\t\t\tend\n\t\telseif type(k) == 'string' and k:match('^group[0-9][0-9]*$') then\n\t\t\t-- skip for now, processed below\n\t\telseif( v and v ~= '') then\n\t\t\tt[k] = v\n\t\tend\n    end\n\tlocal function lcomp(n1, n2)\n\t\treturn (tonumber(n1) or 0) < (tonumber(n2) or 0)\n\tend\n\ttable.sort(listnums, lcomp)\n\tfor i = 1,listcount do\n\t\tt['list' .. i] = args['list' .. listnums[i]]\n\t\tif( args['group' .. listnums[i]] ~= nil and args['group' .. listnums[i]] ~= '') then\n\t\t\tt['group' .. i] = args['group' .. listnums[i]]\n\t\tend\n\tend\n\t\n\treturn Navbox._navbox(t)\n\nend\n\nreturn p",
+                "contentformat": "text/plain",
+                "contentmodel": "Scribunto"
+              }
+            },
+            "timestamp": "2015-08-29T16:07:17Z"
+          }
+        ],
+        "title": "Module:Navbox with striping",
+        "touched": "2015-08-29T16:07:17Z"
+      },
+      "813": {
+        "contentmodel": "Scribunto",
+        "lastrevid": 1094,
+        "length": 392,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:NAMESPACEID"
+          }
+        ],
+        "new": "",
+        "ns": 828,
+        "pageid": 813,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1094,
+            "slots": {
+              "main": {
+                "*": "-- This module implements {{NAMESPACEID}}.\n\nlocal p = {}\n\nfunction p.main(frame)\n\tlocal ns = frame:getParent().args[1] or mw.title.getCurrentTitle().namespace\n\tlocal nsTable = mw.site.namespaces[ns]\n\tif nsTable then\n\t\treturn nsTable.id\n\telse\n\t\treturn '<strong class=\"error\">Invalid namespace in ' ..\n\t\t'&#123;&#123;[[Template:NAMESPACEID|NAMESPACEID]]&#125;&#125;</strong>'\n\tend\nend\n\nreturn p",
+                "contentformat": "text/plain",
+                "contentmodel": "Scribunto"
+              }
+            },
+            "timestamp": "2015-08-29T16:07:44Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:NAMESPACEID"
+          }
+        ],
+        "title": "Module:NAMESPACEID",
+        "touched": "2015-08-29T16:07:44Z"
+      },
+      "814": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with broken file links"
+          }
+        ],
+        "contentmodel": "Scribunto",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:' .. image .. widthstr .. linkstr .. altstr .. '"
+          }
+        ],
+        "lastrevid": 1095,
+        "length": 7422,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Multiple image"
+          }
+        ],
+        "new": "",
+        "ns": 828,
+        "pageid": 814,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1095,
+            "slots": {
+              "main": {
+                "*": "-- implements [[template:multiple image]]\nlocal p = {}\n\nlocal function isnotempty(s)\n\treturn s and s:match( '^%s*(.-)%s*$' ) ~= ''\nend\n\nlocal function renderImageCell(image, width, height, link, alt, caption, textalign, istyle) \n\tlocal root = mw.html.create('')\n\t\n\tlocal altstr = '|alt=' .. (alt or '')\n\tlocal linkstr = link and ('|link=' .. link) or ''\n\tlocal widthstr = '|' .. tostring(width) .. 'px'\n\t\n\tlocal imagediv = root:tag('div')\n\timagediv:addClass('thumbimage')\n\timagediv:cssText(istyle)\n\tif( height ) then\n\t\timagediv:css('height', tostring(height) .. 'px')\n\t\timagediv:css('overflow', 'hidden')\n\tend\n\timagediv:wikitext('[[file:' .. image .. widthstr .. linkstr .. altstr .. ']]')\n\tif isnotempty(caption) then\n\t\tlocal captiondiv = root:tag('div')\n\t\tcaptiondiv:addClass('thumbcaption')\n\t\tcaptiondiv:css('clear', 'left')\n\t\tif isnotempty(textalign) then\n\t\t\tcaptiondiv:css('text-align', textalign)\n\t\tend\n\t\tcaptiondiv:wikitext(caption)\n\tend\n\treturn tostring(root)\nend\n\nlocal function getWidth(w1, w2)\n\tlocal w\n\tif isnotempty(w1) then\n\t\tw = tonumber(w1)\n\telseif isnotempty(w2) then\n\t\tw = tonumber(w2)\n\tend\n\treturn w or 200\nend\n\nlocal function getPerRow(pstr, ic)\n\t-- split string into array using any non-digit as a dilimiter\n\tlocal pr = mw.text.split(pstr or '', '[^%d][^%d]*')\n\t-- if split failed, assume a single row\n\tif (#pr < 1) then\n\t\tpr = {tostring(ic)}\n\tend\n\t-- convert the array of strings to an array of numbers,\n\t-- adding any implied/missing numbers at the end of the array\n\tlocal r = 1\n\tlocal thisrow = tonumber(pr[1] or ic) or ic\n\tlocal prownum = {}\n\twhile( ic > 0 ) do\n\t\tprownum[r] = thisrow\n\t\tic = ic - thisrow\n\t\tr = r + 1\n\t\t-- use the previous if the next is missing and \n\t\t-- make sure we don't overstep the number of images\n\t\tthisrow = math.min(tonumber(pr[r] or thisrow) or ic, ic)\n\tend\n\treturn prownum\nend\n\nlocal function renderMultipleImages(frame)\n\tlocal pargs = frame:getParent().args\n\tlocal args = frame.args\n\tlocal width = pargs['width'] or ''\n\tlocal dir = pargs['direction'] or ''\n\tlocal align = pargs['align'] or args['align'] or ''\n\tlocal capalign = pargs['caption_align'] or args['caption_align'] or ''\n\tlocal totalwidth = pargs['total_width'] or args['total_width'] or ''\n\tlocal imgstyle = pargs['image_style'] or args['image_style']\n\tlocal header = pargs['header'] or pargs['title'] or ''\n\tlocal footer = pargs['footer'] or ''\n\tlocal perrow = nil\n\tlocal thumbclass = {\n\t\t[\"left\"] = 'tleft',\n\t\t[\"none\"] = 'tnone',\n\t\t[\"center\"] = 'tnone',\n\t\t[\"centre\"] = 'tnone',\n\t\t[\"right\"] = 'tright'\n\t\t}\n\n\t-- find all the nonempty images\n\tlocal imagenumbers = {}\n\tlocal imagecount = 0\n\tfor k, v in pairs( pargs ) do\n\t\tlocal i = tonumber(tostring(k):match( '^%s*image([%d]+)%s*$' ) or '0')\n\t\tif( i > 0 and isnotempty(v) ) then\n\t\t\ttable.insert( imagenumbers, i)\n\t\t\timagecount = imagecount + 1\n\t\tend\n\tend\n\n\t-- sort the imagenumbers\n\ttable.sort(imagenumbers)\n\t\n\t-- create an array with the number of images per row\n\tperrow = getPerRow(dir == 'vertical' and '1' or pargs['perrow'], imagecount)\n\t\n\t-- compute the number of rows\n\tlocal rowcount = #perrow\n\n\t-- store the image widths and compute row widths and maximum row width\n\tlocal widths = {}\n\tlocal widthmax = 0\n\tlocal widthsum = {}\n\tlocal k = 0\n\tfor r=1,rowcount do\n\t\twidthsum[r] = 0\n\t\tfor c=1,perrow[r] do\n\t\t\tk = k + 1\n\t\t\tif( k <= imagecount ) then\n\t\t\t\tlocal i = imagenumbers[k]\n\t\t\t\twidths[k] = getWidth(width, pargs['width' .. i])\n\t\t\t\twidthsum[r] = widthsum[r] + widths[k]\n\t\t\tend\n\t\tend\n\t\twidthmax = math.max(widthmax, widthsum[r])\n\tend\n\n\t-- if total_width has been specified, rescale the image widths\n\tlocal heights = {}\n\tif( isnotempty(totalwidth) ) then\n\t\ttotalwidth = tonumber(totalwidth)\n\t\twidthmax = 0\n\t\tlocal k = 0\n\t\tfor r=1,rowcount do\n\t\t\tlocal koffset = k\n\t\t\tlocal tw = totalwidth - 4 * (perrow[r] - 1) - 12\n\t\t\tlocal ar = {}\n\t\t\tlocal arsum = 0\n\t\t\tfor j=1,perrow[r] do\n\t\t\t\tk = k + 1\n\t\t\t\tif( k<= imagecount ) then\n\t\t\t\t\tlocal i = imagenumbers[k]\n\t\t\t\t\tlocal h = tonumber( pargs['height' .. i] or '' ) or 0\n\t\t\t\t\tif (h > 0) then\n\t\t\t\t\t\tar[j] = widths[k]/h\n\t\t\t\t\t\theights[k] = h\n\t\t\t\t\telse\n\t\t\t\t\t\tar[j] = widths[k]/100\n\t\t\t\t\tend\n\t\t\t\t\tarsum = arsum + ar[j]\n\t\t\t\tend\n\t\t\tend\n\t\t\tlocal ht = tw/arsum\n\t\t\tlocal ws = 0\n\t\t\tk = koffset\n\t\t\tfor j=1,perrow[r] do\n\t\t\t\tk = k + 1\n\t\t\t\tif( k<= imagecount ) then\n\t\t\t\t\tlocal i = imagenumbers[k]\n\t\t\t\t\twidths[k] = math.floor(ar[j]*ht + 0.5)\n\t\t\t\t\tws = ws + widths[k]\n\t\t\t\t\tif heights[k] then\n\t\t\t\t\t\theights[k] = math.floor(ht)\n\t\t\t\t\tend\n\t\t\t\tend\n\t\t\tend\n\t\t\twidthsum[r] = ws\n\t\t\twidthmax = math.max(widthmax, widthsum[r])\n\t\tend\n\tend\t\n\n\t-- start building the array of images, if there are images\n\tif( imagecount > 0 ) then\n\t\t-- compute width of outer div\n\t\tlocal bodywidth = 0\n\t\tfor r=1,rowcount do\n\t\t\tif( widthmax == widthsum[r] ) then\n\t\t\t\tbodywidth = widthmax + 4 * (perrow[r] - 1) + 12\n\t\t\tend\n\t\tend\n\t\t-- The body has a min-width of 100, which needs to be taken into account on specific widths\n\t\tbodywidth = math.max( 100, bodywidth - 8);\n\n\t\tlocal bg = pargs['background color'] or ''\n\t\t-- create the array of images\n\t\tlocal root = mw.html.create('div')\n\t\troot:addClass('thumb')\n\t\troot:addClass('tmulti')\n\t\troot:addClass(thumbclass[align] or 'tright')\n\t\t\n\t\tif( align == 'center' or align == 'centre' ) then\n\t\t\troot:addClass('center')\n\t\tend\n\t\tif( pargs['margin_top'] or args['margin_top']) then\n\t\t\troot:css('margin-top', pargs['margin_top'] or args['margin_top'])\n\t\tend\n\t\tif( pargs['margin_bottom'] or args['margin_bottom']) then\n\t\t\troot:css('margin-bottom', pargs['margin_bottom'] or args['margin_bottom'])\n\t\tend\n\t\tif( bg ~= '' ) then\n\t\t\troot:css('background-color', bg)\n\t\tend\n\n\t\tlocal div = root:tag('div')\n\t\tdiv:addClass('thumbinner')\n\t\tdiv:css('width', tostring(bodywidth) .. 'px')\n\t\t\t:css('max-width', tostring(bodywidth) .. 'px')\n\t\tif( bg ~= '' ) then\n\t\t\tdiv:css('background-color', bg)\n\t\tend\n\t\t-- add the header\n\t\tif( isnotempty(header) ) then\n\t\t\tdiv:tag('div')\n\t\t\t\t:css('clear', 'both')\n\t\t\t\t:css('font-weight', 'bold')\n\t\t\t\t:css('text-align', pargs['header_align'] or 'center')\n\t\t\t\t:css('background-color', pargs['header_background'] or 'transparent')\n\t\t\t\t:wikitext(header)\n\t\tend\n\t\t-- loop through the images\n\t\tlocal k = 0\n\t\tfor r=1,rowcount do\n\t\t\tfor j=1,perrow[r] do\n\t\t\t\tk = k + 1\n\t\t\t\tif( k <= imagecount ) then\n\t\t\t\t\tlocal imagediv = div:tag('div')\n\t\t\t\t\timagediv:addClass('tsingle')\n\t\t\t\t\tif dir ~= 'vertical' then\n\t\t\t\t\t\timagediv:css('float', 'left')\n\t\t\t\t\tend\n\t\t\t\t\tif bg ~= '' then\n\t\t\t\t\t\timagediv:css('background-color', bg);\n\t\t\t\t\tend\n\t\t\t\t\timagediv:css('margin', '1px')\n\t\t\t\t\tlocal i = imagenumbers[k]\n\t\t\t\t\tlocal img = pargs['image' .. i]\n\t\t\t\t\tlocal w = widths[k]\n\t\t\t\t\timagediv:css('width', tostring(2 + w) .. 'px')\n\t\t\t\t\t\t:css('max-width', tostring(2 + w) .. 'px')\n\t\t\t\t\timagediv:wikitext(renderImageCell(img, w, heights[k], \n\t\t\t\t\t\tpargs['link' .. i], pargs['alt' .. i],\n\t\t\t\t\t\tpargs['caption' .. i], capalign, imgstyle))\n\t\t\t\tend\n\t\t\tend\n\t\t\t-- only float content gives a parent height:0, so add a clearing div\n\t\t\tif dir ~= 'vertical' then\n\t\t\t\tdiv:tag('div')\n\t\t\t\t\t:css('clear', 'left')\n\t\t\tend\n\t\tend\n\t\t-- add the footer\n\t\tif( isnotempty(footer) ) then\n\t\t\tdiv:tag('div')\n\t\t\t\t:addClass('thumbcaption')\n\t\t\t\t:css('clear', 'left')\n\t\t\t\t:css('text-align', pargs['footer_align'] or args['footer_align'] or 'left')\n\t\t\t\t:css('background-color', pargs['footer_background'] or 'transparent')\n\t\t\t\t:wikitext(footer)\n\t\tend\n\t\treturn tostring(root)\n\tend\n\treturn ''\nend\n\nfunction p.render( frame )\n    return renderMultipleImages( frame )\nend\n \nreturn p",
+                "contentformat": "text/plain",
+                "contentmodel": "Scribunto"
+              }
+            },
+            "timestamp": "2015-08-29T16:08:56Z"
+          }
+        ],
+        "title": "Module:Multiple image",
+        "touched": "2015-08-29T16:08:56Z"
+      },
+      "815": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6028,
+        "length": 45,
+        "ns": 6,
+        "pageid": 815,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1097,
+            "revid": 6028,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:26:17Z"
+          }
+        ],
+        "title": "File:Dylan J Price.png",
+        "touched": "2021-02-23T20:12:02Z"
+      },
+      "817": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1103,
+        "length": 39,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox election"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 817,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1103,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Template:Infobox election]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-30T17:15:56Z"
+          }
+        ],
+        "title": "Template:Infobox Election",
+        "touched": "2015-08-30T17:15:56Z"
+      },
+      "820": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Timeline"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 10502,
+        "length": 11760,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Brazil"
+          },
+          {
+            "ns": 0,
+            "title": "Canada"
+          },
+          {
+            "ns": 0,
+            "title": "Caribbean annexation"
+          },
+          {
+            "ns": 0,
+            "title": "Conservative Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Great Famine"
+          },
+          {
+            "ns": 0,
+            "title": "Political parties in the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Progress Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Quebec"
+          },
+          {
+            "ns": 0,
+            "title": "Second Chinese Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Sovereign Citizen's Alliance"
+          },
+          {
+            "ns": 0,
+            "title": "The American Troubles"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "Twenty-eighth Amendment to the United States Constitution"
+          },
+          {
+            "ns": 0,
+            "title": "Twenty-ninth Amendment to the United States Constitution"
+          },
+          {
+            "ns": 0,
+            "title": "United Federation of China"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2028"
+          },
+          {
+            "ns": 0,
+            "title": "White Tide"
+          }
+        ],
+        "ns": 0,
+        "pageid": 820,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10466,
+            "revid": 10502,
+            "slots": {
+              "main": {
+                "*": "The '''Revolutions of 2027''', known in some countries as the '''Flood Revolutions''', the '''Starvation Riots''', or the '''Year of Revolution''', were a series of political upheavals throughout the world in 2027. It remains the most widespread revolutionary wave in human history, but reactionary forces had regained control, and the revolutions collapsed typically within a year, though in some cases separatist movements managed to achieve independence.\n\nThe revolutions were essentially a violent reaction to the [[Great Famine|food shortages caused]] by ocean desalination that aimed to unseat many sitting governments. The revolutionary wave began in China in February, and immediately spread to most of Eurasia and parts of Africa. Over 50 countries were affected, but with no coordination or cooperation among the revolutionaries in different countries. Five factors were involved: widespread dissatisfaction with political leadership; demands for a permanent solution to the Refugee Crisis; demands for food; the demands of the working classes; and the upsurge of nationalism.\n\nThe uprisings were led by shaky ad hoc coalitions of reformers, the middle classes and workers, which did not hold together for long. Hundreds of thousands of people were killed, and many more forced into exile. Significant lasting reforms included the creation of the Japanese Extraterritorial Districts, the secession of [[Quebec]] from [[Canada]], introduction of a Presidential system in Turkey, and constitutional reforms in the United States.\n\n==Events by country or region==\n==='''United States of America'''===\nMain article: ''[[White Tide]]''\n\nFor the '[[United States of America|United States]] the situation in 2027 never descended into full revolution, though there were acts of rioting and civil unrest. The country saw increased belligerence from neo-fascist and neo-communist groups during this period, essentially escalating the ongoing wave of domestic terrorism and vigilantism of [[The American Troubles]]. Armed organized political rebellion did not begin until after the [[United States presidential election, 2028|the election of Alexandria Ocasio-Cortez to the presidency in 2028,]] with the rise rebel governments such as the [[Sovereign Citizen's Alliance]].\n\nThe bulk of non-violent political demonstrations came from leftist members of the US Congress, student groups, and Flood Generation progressive organizations who collaborated in opposition to what they saw as a decades long betrayal by the elites. The Neo-Progressive movement hadn't gained much traction until the labor crisis and great famine entered full force; at that point constitutional reforms were tied to a new wave of nationalism and protectionism that was sweeping the country. In late 2027 the Progressive Caucus organized a constitutional convention in Philadelphia to draft amendments to dismantle longstanding injustices in the electoral system. The result was the [[Twenty-eighth Amendment to the United States Constitution|28th]] and [[Twenty-ninth Amendment to the United States Constitution|29th]] Amendments to the US Constitution. The amendments were ratified by October of 2028, a matter of weeks before the [[United States presidential election, 2028|Election of 2028.]]\n\nThe constitutional convention and subsequent adoption of the new amendments led to parties that had already begun to break off from the Democrats and Republicans to swell their ranks, while even newer parties began to break off from the two major parties. The largest of these was the American [[Progress Party (United States)|Progress Party]] which was made up predominantly of economic nationalists and progressives from the Democratic party, and a coalition of new voters and disaffected Republicans.\n\nThe revolutions abroad did have the immediate impact of sending waves of immigrants to the United States. This, in turn, fueled the more nativist [[Conservative Party (United States)|Conservative Party]] formed from the moderate factions of the Democrats and former Republicans, and caused a sharp divide in the [[Political parties in the United States|Labor Party]]. The Conservative and Labor Party's, \"Domestic\" wings, opposed any immigration from poorer African nations out of fear that unskilled laborers from Africa would undercut the incomes of current citizens.\n\n==='''Gulf of Mexico'''===\n''Main article: [[Caribbean annexation]]''\n\nThe flooding caused significant damage the arable land and trade-ports of the island nations of the Gulf of Mexico, leaving these countries with virtually no foreign or domestic food supply, and displacing hundreds of thousands of people, the worst case being in the Bahamas which lost 75% of its land to the sea. Governments collapsed across the Gulf, and thousands took to the Sea to try and find refuge in the US. To reopen trade and halt the violence, the US sent its Navy to provide emergency relief, reopen ports, and stage limited military action in Hispaniola where revolutionaries from both of the Island's nations had took to fighting each other after deposing their governments. The US would expand its peacekeeping mission to the whole of the Gulf after the 2027 Atlantic Hurricane Season left what relief the US had provided, along with the rest of the Gulf nations in ruins. The majority of the population of these Island nations relocated to the United States to emergency refugee camps. With local governments destroyed the US established provisional regimes, eventually accepting these nations as States in 2029 to take advantage of such a large labor pool.\n\n==='''[[United Federation of China|China]]'''===\n''Main article: [[Second Chinese Civil War]]''\n\nChina was already facing a tenuous balance of political forces when sea levels began to rise, with the bulk of the country's wealth concentrated in coastal cities, and the interior being supported with programs funded by the country's wealthy elites. When sea levels rose, well over 100 million people were forced inland. The wealthy heart of Shanghai was spared thanks to one of the world's largest sea walls, but the millions of people who supported the city's rise to prosperity were left to settle in refugee camps. The loss of land to water and the displayed population put even greater strain on China's farmland, which was already suffering from a drought. The Communist regime went through great lengths to hide reports of mass starvation, and attempted to increase benefits to the working poor only to find the Yuan too weak, and tax revenue too atrophied to have any substantive effect. Tensions remained high, but it wasn't until the bursting of the Three-Gorges Dam that destroyed millions of acres of crops and houses along the Yangtze farm belt that the powder keg went off and China entered open rebellion. Tibet and Xinjiang were lost.\n\n==='''Afghanistan-Pakistan'''===\nPakistan's government had stood on failing legs since the US withdrew from Afghanistan (and in many respects from the moment the US entered Afghanistan). The prolonged civil war in Afghanistan placed an unending drain on Pakistan's internal security forces with having to manage security threats in the northwest where the Taliban-aligned groups embedded themselves. Despite successfully reducing terrorist activities throughout Khyber Pahktunkhwa and the reduction of drone strikes by the United States, Afghanistan's fate proved problematic to Pakistan as with its other neighbors in regards to its border security. Two decades of war between the NATO-backed Islamic Republic of Afghanistan and the Taliban ended swiftly and suddenly after the Taliban's offensives culminated in the rapid seizure of numerous provincial capitals, ending when Kabul itself fell. The ISI had secretly provided aid to the Taliban in Afghanistan, but public opinion in Pakistan on the Taliban's victory were varied. It was clear to the Pakistani government that the new government in Afghanistan would still contest the Afghan-Pakistani border where it was able. Nevertheless both Islamabad and Kabul were bound to tread carefully in regards to their standing in the international community during the humanitarian crisis resulting from continuing conflict between the Taliban-led government under Emir Hibatullah Akhundzada and the resistance led by Ahmad Massoud. With the fall of the Russian Federation and China's own economic problems, Pakistan was left isolated and less able to support its military might against rival India. It looked like relief would come when Iran moved into Afghanistan's western provinces, but this only exacerbated tensions with radical elements inside the Afghan and Pakistani military, who saw it as Persian encroachment. This was all but a prelude to the crisis that was thrown into motion with the Great Famine. With the ongoing drought in the region, Pakistan saw some of the worst examples of mass-starvation during the Flood. The same could be said for Afghanistan, a country that didn't have the benefit of a large standing military to maintain order. In 2027, General Wassim Khan led elements of the Pakistani military in a military coup. Khan was never fully supported by the beleaguered members of Pakistan's mountain divisions in the west, and the coup led to mass defections and a civil war that spread across the borders of Afghanistan and Pakistan. With the military fighting itself for control of the largely Pashto core, other ethnic and religious minorities staged secessionist movements, leaving the region, and a nuclear power into chaos. With many permanent members of the UN Security council embroiled in their own civil unrest, the US assembled a hastily crafted coalition of Iran, India, and Turkey to invade and secure the region's nuclear arsenal. India bore the brunt of the commitment of ground forces, while US Naval and Air Forces provided support, and US special forces ex filtrated the nuclear arsenal. The coalition effort in Pakistan was celebrated as a model for international cooperation during the chaotic early days of the Flood.\n\n==='''India and Bangladesh'''===\nIndia was devastated by the Flood, not directly, but by the instability created in its neighboring states. The rising tide and resultant famine lead to the largest single mass migration of the era when 80 million Bangladeshis were driven from their homes to resettle in the Seven Sister States of India. Facing famine and civil unrest at home, and their military stretched thin on the former Pakistani border, India agreed to cede the underpopulated Seven Sisters and a portion of West Bengal to Bangladesh to keep their resources focused on defending the nation's heartland. After pleading with the international community for assistance, the US, and Iran agreed to aid in the removal of nuclear weapons from former Pakistan. The Af-Pak wars drove millions into refugee camps in Kasmir, leading to a persistent state of unrest that eventually forced India to grant the province independence to keep the heart of the country together. Food shortages, riots, and military defections were the order of the day for India for over a decade as the nation's military made every attempt to keep the country together. The national government cracked down on civil liberties, nationalized agriculture and briefly instituted a 1-Child Policy to hold the country together.\n==='''Brazil'''===\nMain article: ''[[Brazil#Green Uprising]]''\n\n[[The Flood]] and [[Great Famine]] contributed to the growing unrest in Brazil. Following the jailings of several presidential candidates running in the 2026 election, the country erupted in protests against the government, eventually leading to a military coup removing Jair Bolsonaro from power.\n[[Category:21st Century]]\n[[Category:Timeline]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-08-17T22:01:41Z"
+          }
+        ],
+        "title": "Revolutions of 2027",
+        "touched": "2024-06-08T01:03:41Z"
+      },
+      "821": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century conflicts"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Flag of Argentina.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Mexico (2074).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 63stars.png"
+          }
+        ],
+        "lastrevid": 9764,
+        "length": 4445,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Argentina"
+          },
+          {
+            "ns": 0,
+            "title": "Filipe Peña"
+          },
+          {
+            "ns": 0,
+            "title": "Luis Zepeda"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "Rayleen Malakar"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          }
+        ],
+        "ns": 0,
+        "pageid": 821,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9763,
+            "revid": 9764,
+            "slots": {
+              "main": {
+                "*": "{{Infobox Military Conflict\n|conflict=Second Mexican-American War\n|partof= Mexican-American Wars\n|image=Coming soon\n|caption=Map of the War's Belligerents in 2090\n|date=June 22, 2090 - August 14, 2092\n|place=Southern Mexico, Central America, Argentina and Chile.\n|causes= Mexican annexation of Central America, U.S. Deportation program.\n|territory=Panama is occupied by the US, the rest of Central America remains with Mexico.\n|result=Status quo ante bellum;\n*Military stalemate\n*Beginning of the [[Mexican-American Cold War]]\n*Independence of Patagonia and Mapuche.\n|combatant1='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n[[File:US_flag_63stars.png|20px]] [[United States]]<br>\n\n|combatant2='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n[[File:Flag_of_Mexico_(2074).png|20px]] [[Mexico]]'''<br>\n[[File:Flag_of_Argentina.png|20px]] [[Argentina]]\n|commander1='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n[[File:US_flag_63stars.png|20px]] [[Rayleen Malakar]]<br>\n[[File:US_flag_63stars.png|20px]] Derek Fabian<br>\n[[File:US_flag_63stars.png|20px]] Lana Obi<br>\n\n|commander2='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n[[File:Flag_of_Mexico_(2074).png|20px]] [[Filipe Peña]]<br>\n[[File:Flag_of_Mexico_(2074).png|20px]] [[Luis Zepeda]]\n|strength2= 173700\n|casualties1= 4000\n|casualties2= 3300\n}}\nThe '''Second Mexican-American War''', also known as the '''Patagonia War''', the '''U.S.–Mexican War''', the '''Latin War''', and the '''\"War over Nothing,\"''' was an armed conflict between the United States and Mexico from 2090 to 2092 in the wake of the 2089 Mexican Annexation of Central America, which the United States considered a direct threat to its interests.\n\nCombat operations lasted for two years, from 2090 to 2092. American forces quickly occupied Panama, then staged a brief incursion into Southern Mexico; meanwhile, Mexican forces, while countering on all fronts, called on their allies in South America to their aid, expanding the War into Argentina, Mexico's most important ally of the war. With American attention split on two fronts, Mexico was able to push American forces back to Panama fighting the Americans to a stalemate by 2092.\n\nThe Treaty of Sao Paulo specified the major concessions by both powers to end the war: the United States agreed to recognize Mexican claims to Central America, drawing the Border at Panama, while Mexico recognized American interests in Panama and Ecuador. Additionally Argentina and Chile were forced to recognize the independence of Machupe and Patagonia, which were little more than American puppet states in the region to counter Mexico's growing influence. The war was officially a stalemate, but most agree that Mexico lost the least and won the most.\n\nThe one issue that both sides took great pains to avoid, but was ultimately the driving force behind both their actions, was the Great Deportation and the Southwestern Crisis. Mexico was fiercely opposed to the United State's deportation of millions of Mexicans from the American Southwest (mostly to Mars and the other colonies, though many made their way back to Mexico), while the United States considered Mexico's \"Ciudadano Expatriado\" policy a direct threat to its sovereignty. Both sides avoided conflict on their mutual border for fear of a larger and bloodier war over which side actually owned the Southwest, but that issue was only forestalled for the Third-Mexican American war in the 2130s.\n\n==Background==\n==Central American theater==\n==South American theater==\nIn an effort to divert Mexican allies from assisting Mexico in Central America, the CIA engineered a series of revolutions in Argentina through local proxies and with some support from Brazil, who wished to cripple their rival neighbor without direct engagement. For the last half century the US policy towards South America had been one designed to keep Brazil and Argentina in check by balancing them off of each other. This was a reversal of that policy. US forces dropped into Argentina to support Patagonia and Machupe's efforts towards independence, and disable Argentine and Chilean naval bases that could be used to support Mexico in the north.\n[[Category:21st-century conflicts]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-09-28T16:35:23Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox Military Conflict"
+          },
+          {
+            "ns": 10,
+            "title": "Template:WPMILHIST Infobox style"
+          }
+        ],
+        "title": "Second Mexican-American War",
+        "touched": "2020-09-28T16:35:23Z"
+      },
+      "822": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century conflicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:22nd-century conflicts"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:GuardiolaFlag.png"
+          }
+        ],
+        "lastrevid": 11004,
+        "length": 9112,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Belt Pirate Wars"
+          },
+          {
+            "ns": 0,
+            "title": "Guardiola Foundation"
+          },
+          {
+            "ns": 0,
+            "title": "Joseph Loveridge"
+          },
+          {
+            "ns": 0,
+            "title": "Lionel Halvidar"
+          },
+          {
+            "ns": 0,
+            "title": "Takashi Akiyama"
+          }
+        ],
+        "ns": 0,
+        "pageid": 822,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9158,
+            "revid": 11004,
+            "slots": {
+              "main": {
+                "*": "{{Infobox Military Conflict\n|conflict=Guardiola Incident\n|partof=\n|image=\n|caption=\n|date=May 1st 2099- February 11th 2100\n|place=Earth Orbit, Luna\n|causes= Guardiola attack on Glenn Station\n|territory=\n|result=Colonial Victory\n*Disbandment of the Guardiola Foundation\n|combatant1=United States Colonies\n|combatant2=[[File:GuardiolaFlag.png|20px]] [[Guardiola Foundation]]\n|commander1='''Colonial Leaders'''\n[[Takashi Akiyama]]<br>\n[[Joseph Loveridge]]<br>\nSibani Pascal<br>\n[[Lionel Halvidar]]\n|commander2='''Guardiola Leaders'''\n[[File:GuardiolaFlag.png|20px]] Roma Guardiola<br>\n[[File:GuardiolaFlag.png|20px]] Alexandre Viray\n|strength1= 22,000\n|strength2= 8,000\n|casualties1= 103,000\n|casualties2= 7600}}\nThe '''Guardiola Incident '''or the''' Cislunar War''' was a conflict between the United States' Orbital and Lunar colonies and the Mediterranean Union based Guardiola Foundation. Though never formally recognized by any major power on Earth as an actual war, it remains a controversial incident in the minds of colonials.\n\nAfter a particularly daring attempt on the life on Takashi Akiyama, who was serving as Chairman of the Interplanetary Trade Commission at the time, the Guardiolas were formally disavowed by the MU. The loss of support from the MU drove the Guardiolas to, what was officially designated \"a Major Terrorist Attack,\" by the governments on Earth. To the colonies, it was all out war. The Guardiola incident lasted barely a year, and the colonies directly engaged them in low orbit, but never directly operated on Earth proper. After the end of the conflict the Guardiolas slowly crumbled, eventually dissolving with the MU in 2102.\n\n==Background==\nThe Guardiola Foundation, a radical anti-Colonial faction of the Mediterranean Union, were founded from within the MU aristocracy. The Guardiolas, while not formally opposed to the idea of space colonization, saw the current power structure of the colonies as a direct threat to their way of life. The post-scarcity colonies flew in the face of the MU's foundation of near feudalistic capitalism. The Guardiolas, like the other oligarchs of the MU, who's way of life were dependent on profits from investments in agribusiness in the Sahara, saw the colonies as potential sources of revolution against their business interests. On a broader level, the Guardiolas saw the growing power of the colonies as a prelude to their dominance over the Earth.\n\nThe Guardiolas began conducting minor cyber and physical terrorist attacks against the space colonies in the Earth-Luna system in the early 2090s, never fromally endorsed by the MU. The Guardiolas were supported by Mexico through unofficial channels within the MU, in the hopes of detering further American monopolization of the colonies. Thoughout the 2090s the Guardiolas continued antagonizing the Earth-Luna colonies; banning the sale of goods imported from the colonies, publishing Terran nativist propaganda, and in some cases attacking civilian spacecraft. Despite continued protests from the colonies to Congress and the Mediterranean Union, harassment and terrorism by the Guardiola Foundation continued for most of the decade.\n\n==Course of the War==\n==='''Outbreak'''===\nOn May 1st, 2099, the Guardiolas staged a massive attack on Glen Station at L1 of the Earth-Luna system. Launching from central Africa, a force of 8000 Guardiola Specialists and some 15 assault ships entered Earth orbit disguised as civilian ships en route to the moon via the L1 colony cluster. Glen station was one of the few colonies that also served as an armory for the Earth Planetary Guard, and with Colonial Militias taken by surprise the Guardiolas were able to secure the armory for themselves, and use the colony as a staging point against the rest of the Earth-Luna system's colonies. Shortly after taking Glen station the Specialists launched a series of strikes on several Lagrangian and Lunar colonies, deploying armored infantrymen and support drones against civilian militias. By the end of May 3rd, the Guardiolas had successfully captured all civilian facilities at the L1 colony cluster. The Guardiolas were careful to never attack US Space Force facilities, and focused their efforts against the colonies themselves. Planetary Guard forces fell back to defend the Collins at L2 that served the great O'Neil ships carrying goods from the outer colonies to Earth-Luna. By May 19th, the colonials had managed to hold the Moon, despite heavy losses in orbit and on the surface. At L2, the Guardiolas withdrew after the loss of 1/5 of their fleet.\n\nWhen the colonial governments, resident commissioners and the ITC all called on the Federal Government for help, they were met with deaf ears. As the Mediterraneans were an ally of Mexico, and while the Guardiolas were only a rogue faction, the US government on Earth refused to get involved directly as it would likely drive the US and Mexico to war after concluding one in South America only a few years earlier. After the final battle at L2, the Territorial governors of Luna approached Chairman Akiyama who immediately called for a united force of colonial militia to quell the Guardiola threat. Mars was quick to send volunteers from its Planetary Guard forces, while the Jovians, Saturnians and Triton all sent what they could via O'Neil ship. While the reinforcements made for the Earth-Luna system, the local militia and planetary guard forces were left to face the Guardiolas at L5 and L4. On July 11, the colony Louverture was decompressed by Guardiola specialists after a four day battle for control of the colony. of the 70,000 residents, only 1,351 survived.\n\n==='''Reinforcements arrive'''===\nOn September 2, 2099, after months of fighting, Martian reinforcements arrived to put down the Guardiolas, who had so far killed over 100,000 people either through direct combat or from decompression. At the battle of Stanford Station, the first wave of Martian ships engaged the Guardiola fleet. With heavy losses on both sides, including the death of Roma Guardiola, the battle came to an end on September 9th. The Guardiolas had lost almost half of their remaining ships at Stanford dispersed to either the Moon or the L4 asteroid quarry, rallying at the few stations they still controlled and even staging a second attempt to reach the lunar surface where they briefly took control of New Moscow before Martian and Lunar Planetary Guard forces retook it on September 29.\n\nAt the Second Battle of Summanus, the Guardiola chain of command was broken after Alexandre Viray and his general staff were killed in action, leaving only a handful of senior officers with no command structure between them to organize their defense. Several captains attempted to organize a final assault on Whidbey Station on December 1, 2099 but were surrounded by the bulk of the colonial fleet.\n\n==='''End of hostilities'''===\nBy January 20, 2100 the Earth orbit had been cleared of the Guardiola presence. For the last several months, Planetary Guard commanders had been devising an assault on the Guardiola stronghold in Catalonia, in what would have been the first invasion of a sovereign state by a colonial force. It was only from the pleads of ITC Chairman Akiyama, often known as “the Other President,” that the colonies did not go through with the invasion, and instead wait for action from the United States government, which had begun a blockade of the MU after the Martians had arrived, in a somewhat lackluster attempt to appease the colonials.\n\n==Aftermath==\nThe US government, in a desire to save face with its colonies, who had now positioned a very angry force of some 20,000 seasoned space warriors in orbit above Earth, launched a coordinated strike on the Guardiola Foundation’s headquarters, and issued joint warrants with the MU and Mexico for the arrest of its surviving members. This got the colonies to stand down, but they would not forget the betrayal by their own government.\n\nThe bad blood between the colonies and Earth after the Guardiola Incident, had turned from contempt to apathy among the majority of the population. As the situation on Earth deteriorated, however, that feeling began to turn to fear and that fear fed the forces of reaction. As the struggle between Mexico and the US threatened to explode into a far worse war than any in this century knew, the colonies feared that such a conflict might spread to them; the specter of the Guardiola Incident continued to haunt the minds of the colonists.\n\n==='''Belt Pirate Wars'''===\nOf the 7600 Guardiola Specialists and officers killed during the conflict, another 173 were captured before war's end. However 227 Specialists remained unaccounted for, and never returned to Earth. It would later be discovered that a small squadron of Guardiola ships and soldiers had retreated to an abandoned mining asteroid beyond Lunar orbit and left the Earth-Luna system to raid colonial O'Neil Ships and stations in the Asteroid Belt, leading to a [[Belt Pirate Wars|series of armed conflicts.]]\n[[Category:21st-century conflicts]]\n[[Category:22nd-century conflicts]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2022-12-29T21:18:53Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox Military Conflict"
+          },
+          {
+            "ns": 10,
+            "title": "Template:WPMILHIST Infobox style"
+          }
+        ],
+        "title": "Guardiola Incident",
+        "touched": "2022-12-29T21:18:53Z"
+      },
+      "823": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century conflicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:22nd-century conflicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former country articles requiring maintenance"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Organizations designated as terrorist by the United States"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Paramilitary organizations"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:GuardiolaFlag.png"
+          }
+        ],
+        "lastrevid": 11072,
+        "length": 8942,
+        "ns": 0,
+        "pageid": 823,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11071,
+            "revid": 11072,
+            "slots": {
+              "main": {
+                "*": "[[File:GuardiolaFlag.png|thumb]] The Guardiola Foundation was a radical anti-colonial faction of the aristocratic Mediterranean Union, that conducted a series of terrorist attacks against several Lagrangian and Lunar colonies between 2097 and 2102. In early 2022, a war with a show made the Guardiola Foundation form. Officially denounced by the Mediterranean Union, though supported quietly during its early operations, the Guardiolas posed a major geopolitical challenge to the United States and Mexico. At the time of their operation the Mediterranean Union was a stable ally of Mexico, and the attacks on the colonies were technically attacks on US Soil. This would have dragged both countries into a war if either country responded directly. Thus the colonies were left to defend themselves, as the Guardiolas typically strike economic the colonies directly rather than Terran military bases. They were eventually disavowed by the MU entirely in 2098 after a particularly daring attempt on the life on Takashi Akiyama, who was serving as Chairman of the Interplanetary Trade Commission at the time. The loss of support from the MU drove the Guardiolas to, what was officially designated \"a Major Terrorist Attack,\" by the governments on Earth. To the colonies, it was all out war. The Guardiola incident lasted barely a year, and the colonies directly engaged them in low orbit, but never directly operated on Earth proper. After the end of the conflict the Guardiolas slowly crumbled, eventually dissolving with the MU in 2102.\n\n== History ==\nThe Refreeze brought with it the restoration of Earth's sea levels to their pre-anthropocene state, but also breathed new life into the Sahara. The new megalakes, inland seas, and rivers carved out of their prehistoric basins fed what has been called the Great Blossoming in Africa. Deserts turned to Savannah, and the new rivers fed farmland, while the inland seas brought fishing industry and the means to ship the bounty of Africa to Mediterranean ports. Riches from these long ignored lands fed a string of independence movements and wars, kept in check only by the Turks and occasionally the Americans. Despite this period of instability, the dynamism of the New Sahara attracted investments from Southern Europe. After a generation of economic depression, separatist movements, nationalist purges, and population decline, the South had finally managed to find some sense of economic normalcy, at least compared to the communitarian balancing act of the Intermarium or the American subsidized welfare states of Atlantic Europe. These investments in North African ports and shipping generated wealth that was in turn spent on goods from North Africa, which in turn spurred more growth. In 2076 these trade partners came together to form the Mediterranean Union, less of a trade bloc and more of a pseudo-oligarchy governed by the would-be aristocrats who made their fortunes from Africa’s economic boom. \n\nThroughout the late 70s and 80s, the MU funded any faction in North-Central Africa that made it easier for them to do business. One of the leaders of this enterprise was a Catlan arms dealer, Victor Guardiola. Guardiola made a fortune selling arms to Tuareg and Azawad rebels, and eventually operated a private army to protect the rest of North-Central Africa from those same rebels. When Occitania and Burgundy began their independence movements, it was because of Guardiola that France chose peaceful separation rather than war. Victor eventually “legitimized,” himself by consolidating his various legal and illegal ventures with those of a number of cohorts to form the Guardiola Foundation in 2083. A consortium of venture capitalists and self-styled aristocrats, the Guardiola Foundation collectively made up roughly 19% of the MU’s economy by 2085. While the Guardiolas were a legitimate business venture for Victor and his partners, their formation had an ulterior motive. In 2081 Mars opened the floodgates for colonization, and to better achieve that the Mars Corporation funded the upgrades of Earth’s limited space elevator network. Upon the completion of the next generation Uganda Tower, scores of potential colonists flooded through Africa to find a new life on Mars. The MU profited greatly from the initial migration, however, the opening of the tower brought with it a new flood of goods from the colonies. Guardiola saw this new flow of goods as a direct threat to his own enterprises in Africa. Initially the MU was happy to take the colonial’s money and ship their goods from African ports, but the Guardiolas furiously lobbied to put tariffs on these goods. The Guardiolas, while not formally opposed to the idea of space colonization, saw the current power structure of the colonies as a direct threat to their way of life. The post-scarcity colonies flew in the face of the MU's foundation of near-feudalistic capitalism. On a broader level, the Guardiolas saw the growing power of the colonies as a prelude to their dominance over the Earth.\n\nIt was not Victor who made the Guardiolas into the bane of the colonies, but rather his son Roma. Roma pushed the Foundation towards radical anti-colonialism and began campaigns aimed at antagonizing the Earth-Luna colonies. Pushing the MU nations to ban the sale of goods imported from the colonies, publishing Terran nativist propaganda, and even conducting a series of cyberattacks on the Earth-Luna colonies during the first half of the 2090s. After Victor Guardiola’s death in 2096, Roma began a far more militant campaign against the Colonies. Using their private army the Guardiolas conducted a series of terrorist attacks against several Lagrangian and Lunar colonies starting in 2097. Officially denounced by the Mediterranean Union, though supported quietly during its early operations, the Guardiolas posed a major geopolitical challenge to the United States and Mexico. At the time of their operation the Mediterranean Union was a stable ally of Mexico, and the attacks on the colonies were technically attacks on US Soil. This would have dragged both countries into a war if either country responded directly. Thus the colonies were left to defend themselves, as the Guardiolas never struck US military assets in space.\n\nThey were eventually disavowed by the MU in 2098 after a particularly daring attempt on the life on Takashi Akiyama, who was serving as Chairman of the Interplanetary Trade Commission at the time. The loss of support from the MU drove the Guardiolas to, what was officially designated \"a Major Terrorist Attack,\" by the governments on Earth. On May 1st, 2099, the Guardiolas staged a massive attack on Glen Station at L1, attacking with a force of 8000 Guardiola Specialists and some 15 assault ships. With the colonies’ calls on the federal government falling on deaf ears, the ITC formed a united front with the Planetary Guard forces of the rest of the colonies. The war nearly spread to Earth, as Planetary Guard commanders had been devising an assault on the Guardiola stronghold in Catalonia after clearing them out of Earth-Luna orbit. Fortunately, Chairman Akiyama was able to persuade the Guard to wait after the US began a blockade of the MU after the Martians had arrived, in a somewhat lackluster attempt to appease the colonials.\n\nAfter the Guardiola Incident, the Foundation began to fall apart. Roma had died at the Battle of Stanford Station, directly engaging the colonials in armor rather than from the safety of his assault ship. Roma’s brothers and his father’s old cohorts attempted to continue attack on the colonies, but by the revolutions of 2102 the organization fell apart with the MU, crushed by the same uprisings that the colonies caused with their embargos after the war. Perhaps the greatest irony of the Guardiola’s attempt to break the colonies was that it did more to unite them than ever before. After the conflict, Lionel Halvidar, who earned the Planetary Guard Cross for his actions at Stanford Station, found his way into politics. The position of ITC chairman became known to many as, “The Other President,” as his orders to the Planetary Guards (who were technically under the US Military) took precedent. The war launched the careers of dozens of military officers and politicians who would go onto play a major role in the Third Mexican-American War, and the incident’s impact on the colonial psyche is what caused the colonials to begin building what would become the Colonial Fleet. The Guardiolas were right about one thing, power of the colonies continued to grow over the course of the 22<sup>nd</sup> Century, and led to greater influence over the Earth.\n[[Category:Former country articles requiring maintenance]]\n[[Category:21st-century conflicts]]\n[[Category:22nd-century conflicts]]\n[[Category:Paramilitary organizations]]\n[[Category:Organizations designated as terrorist by the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-01-30T23:00:12Z"
+          }
+        ],
+        "title": "Guardiola Foundation",
+        "touched": "2023-01-30T23:00:12Z"
+      },
+      "824": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3166,
+        "length": 19,
+        "ns": 6,
+        "pageid": 824,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1131,
+            "revid": 3166,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-05T18:29:38Z"
+          }
+        ],
+        "title": "File:GuardiolaFlag.png",
+        "touched": "2017-09-30T21:57:10Z"
+      },
+      "825": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1135,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 825,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1135,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T00:23:30Z"
+          }
+        ],
+        "title": "File:MarsCorp.png",
+        "touched": "2015-09-01T00:24:07Z"
+      },
+      "826": {
+        "contentmodel": "Scribunto",
+        "lastrevid": 1138,
+        "length": 4718,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Sfnp"
+          }
+        ],
+        "new": "",
+        "ns": 828,
+        "pageid": 826,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1138,
+            "slots": {
+              "main": {
+                "*": "f = {\n\targs_default = {\n\t\tbracket_left = \"\",\n\t\tbracket_right = \"\",\n\t\tbracket_year_left = \"\",\n\t\tbracket_year_right = \"\",\n\t\tpostscript = \"\",\n\t\tpage = \"\",\n\t\tpages = \"\",\n\t\tlocation = \"\",\n\t\tpage_sep = \", p.&nbsp;\",\n\t\tpages_sep = \", pp.&nbsp;\",\n\t\tref = \"\",\n\t\tP1 = \"\",\n\t\tP2 = \"\",\n\t\tP3 = \"\",\n\t\tP4 = \"\",\n\t\tP5 = \"\"\n\t}\n};\n\nfunction trim( str )\n\tif str == nil then\n\t\treturn nil;\n\tend\n\treturn str:match( \"^%s*(.-)%s*$\");\nend    \n\nfunction core( args )\n\tlocal result;\n\n\tif args.P5 ~= \"\" then\n\t\tresult = args.P1 .. ' et al. ' .. args.bracket_year_left .. args.P5 .. \n\t\targs.bracket_year_right;\n\telseif args.P4 ~= \"\" then\n\t\tresult = args.P1 .. ', ' .. args.P2 .. ' &amp; ' .. args.P3 .. ' ' .. \n\t\targs.bracket_year_left .. args.P4 .. args.bracket_year_right;\n\telseif args.P3 ~= \"\" then\n\t\tresult = args.P1 .. ' &amp; ' .. args.P2 .. ' ' .. args.bracket_year_left .. \n\t\targs.P3 .. args.bracket_year_right;\n\telse\n\t\tresult = trim( args.P1 .. ' ' .. args.bracket_year_left .. args.P2 .. \n\t\targs.bracket_year_right )\n\tend\n\n\tif args.ref ~= 'none' then\n\t\tif args.ref ~= \"\" then\n\t\t\tresult = \"[[#\" .. mw.uri.anchorEncode(args.ref) .. \"|\" .. result .. \"]]\";\n\t\telse\n\t\t\tresult = \"[[#CITEREF\" .. mw.uri.anchorEncode(args.P1 .. args.P2 .. args.P3 .. args.P4 .. args.P5) .. \"|\" .. result .. \"]]\";\n\t\tend\n\tend\n\n\tif args.page ~= \"\" then\n\t\tresult = result .. args.page_sep .. args.page;\n\telseif args.pages ~= \"\" then\n\t\tresult = result .. args.pages_sep .. args.pages;\n\tend      \n\n\tif args.location ~= \"\" then\n\t\tresult = result .. \", \" .. args.location;\n\tend\n\n\tresult = args.bracket_left .. result .. args.bracket_right .. args.postscript;\n\treturn result;\nend\n\nfunction f.harvard_core( frame )\n\tlocal args = {};\n\tlocal pframe = frame:getParent();\n\n\targs.bracket_left = pframe.args.BracketLeft or \"\";\n\targs.bracket_right = pframe.args.BracketRight or \"\";\n\targs.bracket_year_left = pframe.args.BracketYearLeft or \"\";\n\targs.bracket_year_right = pframe.args.BracketYearRight or \"\";\n\targs.postscript = pframe.args.Postscript or \"\";\n\tif 'none' == args.postscript then\n\t\targs.postscript = '';\n\tend\n\n\targs.page = pframe.args.Page or \"\";\n\targs.pages = pframe.args.Pages or \"\";\n\targs.location = pframe.args.Location or \"\";\n\targs.page_sep = pframe.args.PageSep or \"\";\n\targs.pages_sep = pframe.args.PagesSep or \"\";\n\targs.ref = pframe.args.REF or \"{{{REF}}}\";\n\targs.P1 = trim( pframe.args.P1 ) or \"\";\n\targs.P2 = trim( pframe.args.P2 ) or \"\";\n\targs.P3 = trim( pframe.args.P3 ) or \"\";\n\targs.P4 = trim( pframe.args.P4 ) or \"\";\n\targs.P5 = trim( pframe.args.P5 ) or \"\";\n\n\treturn core( args );\nend\n\nfunction f.harvard_citation( frame )\n\tlocal args = f.args_default;\n\tpframe = frame:getParent();\n\n\targs.bracket_left = \"(\";\n\targs.bracket_right = \")\";\n\targs.page = pframe.args.p or pframe.args.page or \"\";\n\targs.pages = pframe.args.pp or pframe.args.pages or \"\";\n\targs.location = pframe.args.loc or \"\";\n\targs.ref = pframe.args.ref or pframe.args.Ref or \"\";\n\targs.P1 = trim( pframe.args[1] ) or \"\";\n\targs.P2 = trim( pframe.args[2] ) or \"\";\n\targs.P3 = trim( pframe.args[3] ) or \"\";\n\targs.P4 = trim( pframe.args[4] ) or \"\";\n\targs.P5 = trim( pframe.args[5] ) or \"\";\n\n\treturn core( args );\nend\n\nfunction f.harvard_citation_no_bracket( frame )\n\tlocal args = f.args_default;\n\tpframe = frame:getParent();\n\n\targs.page = pframe.args.p or pframe.args.page or \"\";\n\targs.pages = pframe.args.pp or pframe.args.pages or \"\";\n\targs.location = pframe.args.loc or \"\";\n\targs.ref = pframe.args.ref or pframe.args.Ref or \"\";\n\targs.P1 = trim( pframe.args[1] ) or \"\";\n\targs.P2 = trim( pframe.args[2] ) or \"\";\n\targs.P3 = trim( pframe.args[3] ) or \"\";\n\targs.P4 = trim( pframe.args[4] ) or \"\";\n\targs.P5 = trim( pframe.args[5] ) or \"\";\n\n\treturn core( args );\nend\n\nfunction f.sfn( frame )\n\tlocal args = f.args_default;\n\tfor k, v in pairs( frame.args ) do\t\t\t\t\t\t\t\t\t\t\t-- for {{sfnp}}, override default with values provided in the #invoke:\n\t\targs[k] = v;\t   \n\tend\n\t\n\tpframe = frame:getParent();\n\n\targs.postscript = pframe.args.postscript or pframe.args.ps or \".\";\n\tif 'none' == args.postscript then\n\t\targs.postscript = '';\n\tend\n\targs.page = pframe.args.p or pframe.args.page or \"\";\n\targs.pages = pframe.args.pp or pframe.args.pages or \"\";\n\targs.location = pframe.args.loc or \"\";\n\targs.ref = pframe.args.ref or pframe.args.Ref or \"\";\n\targs.P1 = trim( pframe.args[1] ) or \"\";\n\targs.P2 = trim( pframe.args[2] ) or \"\";\n\targs.P3 = trim( pframe.args[3] ) or \"\";\n\targs.P4 = trim( pframe.args[4] ) or \"\";\n\targs.P5 = trim( pframe.args[5] ) or \"\";\n\n\tlocal result = core( args );\n\tlocal name = \"FOOTNOTE\" .. args.P1 .. args.P2 .. \n\targs.P3 .. args.P4 .. args.P5 .. args.page .. args.pages .. args.location;\n\n\tresult = frame:extensionTag{ name = \"ref\", args = {name=name}, content=result };\n\n\treturn result;\nend\n\nreturn f;",
+                "contentformat": "text/plain",
+                "contentmodel": "Scribunto"
+              }
+            },
+            "timestamp": "2015-09-01T04:19:30Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Sfnp"
+          }
+        ],
+        "title": "Module:Footnotes",
+        "touched": "2015-09-01T04:19:30Z"
+      },
+      "827": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:If-then-else templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Sandbox templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1140,
+        "length": 237,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:When in sandbox"
+          }
+        ],
+        "ns": 10,
+        "pageid": 827,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 1139,
+            "revid": 1140,
+            "slots": {
+              "main": {
+                "*": "#redirect [[Template:When in sandbox]]\n\n<pre>(...because {{When in sandbox}} returns \"/sandbox\" when transcluded on a sandbox page)</pre>\n\n{{DEFAULTSORT:When in sandbox}}\n[[Category:If-then-else templates]]\n[[Category:Sandbox templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:20:29Z"
+          }
+        ],
+        "title": "Template:/sandbox",
+        "touched": "2015-09-01T04:20:40Z"
+      },
+      "828": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1141,
+        "length": 130,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:When in sandbox/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 828,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1141,
+            "slots": {
+              "main": {
+                "*": "<includeonly>{{When pagename is |/sandbox={{{1|/sandbox}}} |other={{{2|}}}}}</includeonly><noinclude>{{Documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:20:40Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:When in sandbox/doc"
+          }
+        ],
+        "title": "Template:When in sandbox",
+        "touched": "2015-09-01T04:20:40Z"
+      },
+      "829": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1142,
+        "length": 2135,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:When pagename is/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 829,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1142,
+            "slots": {
+              "main": {
+                "*": "{{#if:x   <!--Remove surrounding whitespace-->\n| <!--Check for match with full pagename-->\n  {{{ {{#if:{{{page|}}}| {{{page|}}} | {{FULLPAGENAME}} }}   <!--Has data, or is empty but defined-->\n  | <!--Check for match with \"User:Somepage/+\"-->\n    {{{ {{#titleparts:{{#if:{{{page|}}}| {{{page|}}} | {{FULLPAGENAME}} }}|1|1}}/+\n    | <!--Else, are we on a subpage or a basepage?-->\n      {{#if:{{#titleparts:{{#if:{{{page|}}}| {{{page|}}} | {{FULLPAGENAME}} }}|0|2}}\n      | <!--We are on a subpage, check for match with \"User:Somepage/*\"-->\n        {{{ {{#titleparts:{{#if:{{{page|}}}| {{{page|}}} | {{FULLPAGENAME}} }}|1|1}}/*\n        | <!--Check for match with \"Somepage/*\"-->\n          {{{ {{#titleparts:{{#if:{{{page|}}}| {{PAGENAME:{{{page|}}}}} | {{PAGENAME}} }}|1|1}}/*\n          | <!--Check for match with \"/something\"-->\n            {{{ /{{#titleparts:{{#if:{{{page|}}}| {{{page|}}} | {{FULLPAGENAME}} }}|0|-1}}\n            | <!--Check for match with \"/somethin*\"-->\n              {{{ /{{lc: {{padleft:|8| {{#titleparts:{{#if:{{{page|}}}| {{{page|}}} | {{FULLPAGENAME}} }}|0|-1}}# }} }}*\n              | <!--Check for match with \"/someth*\"-->\n                {{{ /{{lc: {{padleft:|6| {{#titleparts:{{#if:{{{page|}}}| {{{page|}}} | {{FULLPAGENAME}} }}|0|-1}}# }} }}*\n                | <!--Check for match with \"/some*\"-->\n                  {{{ /{{lc: {{padleft:|4| {{#titleparts:{{#if:{{{page|}}}| {{{page|}}} | {{FULLPAGENAME}} }}|0|-1}}# }} }}*   <!--Pad with # so \"/a\" doesn't match \"/aaaa*\"-->\n                  | {{{subpage| {{{other|}}} }}}   <!--Respecting empty parameter on purpose-->\n                  }}}\n                }}}\n              }}}\n            }}}\n          }}}\n        }}}\n      | <!--We are on a basepage, check for match with \"Somepage\"-->\n        {{{ {{#if:{{{page|}}}| {{PAGENAME:{{{page|}}}}} | {{PAGENAME}} }}\n        | {{{basepage| {{{other|}}} }}}   <!--Respecting empty parameter on purpose-->\n        }}}\n      }}   <!--End if, are we on a subpage or a basepage?-->\n    }}}\n  }}}\n}}<noinclude>\n\n{{documentation}}\n<!-- Add categories and interwikis to the /doc subpage, not here! -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:21:22Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:When pagename is/doc"
+          }
+        ],
+        "title": "Template:When pagename is",
+        "touched": "2015-09-01T04:21:22Z"
+      },
+      "830": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1143,
+        "length": 2446,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Namespace and pagename-detecting templates/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 830,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1143,
+            "slots": {
+              "main": {
+                "*": "{{Navbox\n| name = Namespace and pagename-detecting templates\n| state = {{{state|{{{1|<noinclude>expanded</noinclude>}}}}}}\n| class = plainlist\n| title = Namespace and pagename-detecting templates\n| tracking = no <!--(to keep documented templates out of hlist tracking category)-->\n\n| group1 = [[Wikipedia:Namespace|Namespace]]\n| list1 =\n {{Navbox |child\n  |groupstyle=font-weight:normal;\n  |listclass=hlist\n  | group1 = Particular\n  | list1 =\n* {{tlbare|When in article}}&nbsp;({{tlbare|main other}})\n* {{tlbare|When on talk page}}&nbsp;({{tlbare|talk other}})\n* {{tlbare|book other}}\n* {{tlbare|category other}}\n* {{tlbare|draft other}}\n* {{tlbare|file other}}\n* {{tlbare|help other}}\n* {{tlbare|module other}}\n* {{tlbare|portal other}}\n* {{tlbare|When on template page}}&nbsp;({{tlbare|template other}})\n* {{tlbare|When on user page}}&nbsp;({{tlbare|user other}})\n* {{tlbare|wikipedia other}}\n* {{tlbare|single namespace}}\n* {{tlbare|If talkspace of}}\n* {{tlbare|If usertalk of}}\n  | group2 = More generic\n  | list2 =\n* {{tlbare|When in namespace}}&nbsp;({{tlbare|namespace detect}})\n* {{tlbare|namespace detect showall}}\n* {{tlbare|main talk category other}}\n* {{tlbare|main talk other}}\n* {{tlbare|talkspace detect}}\n }}\n\n<!---group2 omitted to maintain alternating list backgrounds--->\n\n| group3 = [[Wikipedia:Page name|Pagename]]\n| list3 =\n  {{Aligned table\n   |style=text-align:left;line-height:1.3em;\n   |col1style=padding-right:1.5em;\n   | {{tlbare|When on basepage}} | Detects and acts according to whether it is on a basepage, subpage, subsubpage or beyond.\n   | {{tlbare|When pagename is}} | For pattern matching on the pagename.\n   | {{tlbare|When on page}}     | For pattern matching on the pagename with input reuse.\n   | {{tlbare|pgn}}              | Can take apart and put together pagenames in several ways.\n   | {{tlbare|IP-talk}}          | Returns IP-user talkpage, registered-user talkpage or non-user talkpage.\n   | {{tlbare|IP-user other}}    | For detecting IP-user pages.\n  }}\n\n| belowclass = hlist\n| below =\n* [[Wikipedia:Namespace]]\n* [[Wikipedia:Page name]]\n* [[mw:Help:Magic words|Magic words]]\n* [[mw:Help:Extension:ParserFunctions|ParserFunctions]]\n\n}}<noinclude>\n{{Documentation\n | content =\n{{Collapsible option |statename=optional}}\n\n[[Category:Namespace manipulation templates| ]]\n[[Category:Documentation see also templates]]\n[[Category:Template namespace templates]]\n}}<!--(end Documentation)-->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:22:09Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Namespace and pagename-detecting templates/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Navbox"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Navbar"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Navbox"
+          }
+        ],
+        "title": "Template:Namespace and pagename-detecting templates",
+        "touched": "2015-09-01T04:22:09Z"
+      },
+      "831": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1144,
+        "length": 1213,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Transl/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 831,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1144,
+            "slots": {
+              "main": {
+                "*": "<span title={{ #if: {{{3|}}} | {{#switch: {{{2}}}\n|ISO = {{#switch: {{{1}}}\n |ba\n |be\n |bg\n |uk\n |ab\n |mn\n |kk\n |ky\n |tut\n |bua\n |sah\n |xal\n |ru\n |tg\n |Cyrl = \"ISO 9 Cyrillic\"\n |fa\n |ur\n |ku\n |ps\n |ug\n |ar\n |Arab = \"ISO 233 Arabic\"\n |yi\n |he\n |Hebr = \"ISO 259 Hebrew\"\n |grc\n |el = \"ISO 843 Greek\"\n |ja\n |Hira\n |Kana\n |Hrkt\n |Jpan = \"ISO 3602 Japanese\"\n |pny\n |zho\n |chi\n |zh\n |Hans\n |Hant\n |Han = \"ISO 7098 Chinese\"\n |kat\n |ka = \"ISO 9984 Georgian\"\n |arm\n |hy = \"ISO 9985 Armenian\"\n |tha\n |th = \"ISO 11940 Thai\"\n |kor\n |ko = \"ISO 11941 Korean\"\n |sa\n |hi\n |bn\n |te\n |mr\n |gu\n |kn\n |ml\n |ta\n |dra\n |inc\n |Brah\n |Beng\n |Deva = \"15919 Indic\"\n |#default = \"ISO transliteration\"\n }}\n|DIN = {{#switch: {{{1}}}\n |fa\n |ur\n |ku\n |ps\n |tg\n |ug\n |ar\n |Arab = \"DIN 31635 Arabic\"\n |#default = \"DIN transliteration\"\n }}\n|IAST = \"International Alphabet of Sanskrit Transliteration\"\n|#default = \"{{{1}}} {{{2}}} transliteration\"\n}}\n|{{#switch: {{{1}}}\n |akk\n |sem\n |Phnx = \"Semitic transliteration\"\n |Xsux = \"Cuneiform transliteration\"\n |#default = \"{{ISO 639 name {{{1}}}}} transliteration\"\n }}\n}}  class=\"Unicode\" style=\"white-space:normal; text-decoration: none\">{{{3|{{{2}}}}}}</span><noinclude>\n{{documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:23:13Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Transl/doc"
+          }
+        ],
+        "title": "Template:Transl",
+        "touched": "2015-09-01T04:23:13Z"
+      },
+      "832": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Imbox notice.png"
+          }
+        ],
+        "lastrevid": 1145,
+        "length": 646,
+        "links": [
+          {
+            "ns": 0,
+            "title": "COinS"
+          },
+          {
+            "ns": 10,
+            "title": "Template:COinS safe/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 832,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1145,
+            "slots": {
+              "main": {
+                "*": "{{notice\n  |image={{#ifeq: {{{1|}}}|n|Stop hand nuvola.svg}}\n  |{{#ifeq: {{{1|}}}|n\n    |This template should not be used in citation templates such as {{cs1}} and {{cs2}}, because it includes markup that will pollute the [[COinS]] metadata they produce; see [[Wikipedia:COinS|COinS in Wikipedia]]. {{{addtext|}}}[[Category:Templates not safe for use in citation templates]]\n    |This template is safe for use in citation templates that produce [[COinS]] metadata; see [[Wikipedia:COinS|COinS in Wikipedia]]. If HTML or other markup is added, then the template must be reevaluated. {{{addtext|}}}\n  }}\n}}<noinclude>\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:24:02Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:COinS safe/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Namespace detect"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Notice"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox/core"
+          }
+        ],
+        "title": "Template:COinS safe",
+        "touched": "2015-09-01T04:27:53Z"
+      },
+      "833": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Imbox notice.png"
+          }
+        ],
+        "lastrevid": 1146,
+        "length": 853,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Notice/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 833,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1146,
+            "slots": {
+              "main": {
+                "*": "{{Mbox\n| name       = Notice\n| style      = {{#if:{{{style|}}} |{{#if:{{{small|}}}||margin:inherit auto;width:80%;}} {{{style}}} }}\n| textstyle  = {{{textstyle|}}}\n| subst      = <includeonly>{{subst:substcheck}}</includeonly>\n| demospace  = {{{demospace|}}}\n| image      = {{#if:{{{image|}}} |[[File:{{{image}}}|40px|Notice]]}}\n| small      = {{{small|}}}\n| smallimage = {{#if:{{{image|}}} |[[File:{{{image}}}|30px|Notice]]}}\n| imageright = {{#if:{{{imageright|}}} |{{{imageright}}} |{{#if:{{{shortcut|{{{shortcut1|}}}}}} |{{Ombox/shortcut|{{{shortcut|{{{shortcut1|}}}}}}|{{{shortcut2|}}}|{{{shortcut3|}}}|{{{shortcut4|}}}|{{{shortcut5|}}}}}}} }}\n| text       = {{#if:{{{header|{{{heading|}}}}}} |<div style=\"text-align:center;\">'''{{{header|{{{heading}}}}}}'''</div>}}<!--\n            -->{{{text|{{{1}}}}}}\n}}<noinclude>\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:24:21Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Namespace detect"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Notice/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox/core"
+          }
+        ],
+        "title": "Template:Notice",
+        "touched": "2015-09-01T04:28:09Z"
+      },
+      "834": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1147,
+        "length": 79,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:C/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 834,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1147,
+            "slots": {
+              "main": {
+                "*": "[[:Category:{{{1}}}|{{{2|{{{1}}}}}}]]<noinclude>\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:24:52Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:C/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:C",
+        "touched": "2015-09-01T04:24:52Z"
+      },
+      "835": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1148,
+        "length": 2394,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Script/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 835,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1148,
+            "slots": {
+              "main": {
+                "*": "{{#switch: {{{1|}}}\n<!--scripts with dedicated templates-->\n|Arab = {{script/Arabic|1={{{2}}}}}\n|fa-Arab|ps-Arab|ur-Arab = {{script/Nastaliq|1={{{2}}}}}\n|Bali = {{script/Bali|1={{{2}}}}}\n|Bamu = {{script/Bamum|1={{{2}}}}}\n|Brah = {{script/Brahmi|1={{{2}}}}}\n|Bugi = {{script/Lontara|2={{{2}}}}}\n|Buhd = {{script/Buhid|1={{{2}}}}}\n|Copt = {{script/Coptic|1={{{2}}}}}\n|Cham = {{script/Cham|1={{{2}}}}}\n|Cyrs = {{script/Slavonic|1={{{2}}}}}\n|Geok = {{script/Khutsuri|1={{{2}}}}}\n|Grek = {{script/Greek|1={{{2}}}}}\n|Hebr = {{script/Hebrew|1={{{2}}}}}\n|Java = {{script/Java|1={{{2}}}}}\n|Kali = {{script/Kayah Li|1={{{2}}}}}\n|Khmr = {{script/Khmer|1={{{2}}}}}\n|Latg = {{script/Gaelic|1={{{2}}}}}\n|Latn = {{script/Latin|1={{{2}}}}}\n|Lana = {{script/Tai Tham|1={{{2}}}}}\n|Lisu|Fraser = {{script/Lisu|1={{{2}}}}}\n|Mymr = {{script/Mymr|1={{{2}}}}}\n|Nkoo|Nko = {{script/Nko|1={{{2}}}}}\n|Orkh = {{script/Orkhon|1={{{2}}}}}\n|Osma = {{script/Osmanya|1={{{2}}}}}\n|Phnx = {{script/Phoenician|1={{{2}}}}}\n|Rjng = {{script/Rejang|1={{{2}}}}}\n|Runr = {{script/Runic|1={{{2}}}}}\n|Syre = {{script/Strng|1={{{2}}}}}\n|Syrj = {{script/Serto|1={{{2}}}}}\n|Syrn = {{script/Mdnh|1={{{2}}}}}\n|Tagb = {{script/Tagbanwa|1={{{2}}}}}\n|Talu = {{script/New Tai Lue|1={{{2}}}}}\n|Tavt = {{script/Tai Viet|1={{{2}}}}}\n|Tglg = {{script/Baybayin|1={{{2}}}}}\n|Tfng = {{script/Tifinagh|1={{{2}}}}}\n|Vaii|Vai = {{script/Vai|1={{{2}}}}}\n|Xsux = {{script/Cuneiform|1={{{2}}}}}\n|Yiii|Yi = {{script/Yi|1={{{2}}}}}\n<!--other scripts use standard language spans-->\n|#default = <span {{#switch: {{{1}}}\n  <!--tweaks which should be moved to global CSS classes, with fonts supported in the Universal Language Selector-->\n  |Cprt = style=\"font-size:125%;font-family:'Noto Sans Cypriot', Code2001;\"<!--SMP, rarely supported, state font explicltly-->\n  |Goth = style=\"font-size:125%;\"\n  |Latf = style=\"font-size:125%;font-family:'Breitkopf Fraktur',UnifrakturCook,UniFrakturMaguntia;\"\n  |Linb = style=\"font-size:125%;\"\n  |Ugar = style=\"font-size:125%;font-family:Aegean\"\n  |Xpeo = style=\"font-size:125%;font-family:Artaxerxes,Xerxes,Aegean;\"<!--Use Xerxes for Old Persian-->\n  |#default = class=\"Unicode\"<!--BMP, use generic \"unicode\" CSS class for all other scripts, including \"Latn\" for IPA-->\n }}>{{{2}}}</span>\n}}<noinclude>\n{{template doc}}<!-- Add categories, documentation, and interwiki links to the /doc subpage, not here! -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:25:43Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Script/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Template doc"
+          }
+        ],
+        "title": "Template:Script",
+        "touched": "2015-09-01T04:25:43Z"
+      },
+      "836": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1149,
+        "length": 376,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Script/Arabic/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 836,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1149,
+            "slots": {
+              "main": {
+                "*": "<span class=\"script-arabic script-Arab\" dir=\"rtl\" style=\"font-family:Scheherazade,Lateef,Arial,'Arabic Transparent','Droid Arabic Naskh',Amiri,'Microsoft Sans Serif','Segoe UI','Sakkal Majalla','Microsoft Uighur','Arabic Typesetting',sans-serif,serif;font-size:125%;font-weight:normal;{{{style|}}}\" {{{attributes|}}}>{{{1}}}</span>&lrm;<noinclude>{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:26:05Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Script/Arabic/doc"
+          }
+        ],
+        "title": "Template:Script/Arabic",
+        "touched": "2015-09-01T04:26:05Z"
+      },
+      "837": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1150,
+        "length": 804,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Script/Cuneiform/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 837,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1150,
+            "slots": {
+              "main": {
+                "*": "<span style=\"font-size:125%;font-family:{{#switch: {{{1|}}}\n|sux\n|4 = Akkadian\" title=\"Classical Sumerian cuneiform\"\n|akk\n|elx\n|xeb\n|xhu\n|5 = Akkadian\" title=\"Neo-Sumerian cuneiform\"\n|hit\n|xht\n|xlu\n|6 = 'Free Idg Serif',Akkadian,'Noto Sans Cuneiform','Noto Sans Sumero-Akkadian Cuneiform';\" title=\"Old Assyrian cuneiform\"<!-- use Akkadian and Noto as last resort -->\n|7 = CuneiformNA,Akkadian,'Noto Sans Cuneiform','Noto Sans Sumero-Akkadian Cuneiform';\" title=\"Neo-Assyrian cuneiform\"<!-- use Akkadian and Noto as last resort -->\n|#default = 'Segoe UI Historic','Akkadian','Noto Sans Cuneiform','Noto Sans Sumero-Akkadian Cuneiform';\" title=\"cuneiform text\"\n}} lang=\"{{#switch:{{{1|}}}|akk|elx|hit|sux|xeb|xht|xhu|xlu={{{1}}}|und}}-Xsux\">{{{2|{{{1}}}}}}</span><noinclude>\n\n{{documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:26:30Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Script/Cuneiform/doc"
+          }
+        ],
+        "title": "Template:Script/Cuneiform",
+        "touched": "2015-09-01T04:26:30Z"
+      },
+      "838": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with broken file links"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Template documentation pages"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Ambox warning orange.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Edit-copy green.svg"
+          }
+        ],
+        "lastrevid": 1151,
+        "length": 3515,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Mbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mbox/sandbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mbox/testcases"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mbox templates (small)"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mbox templates see also"
+          },
+          {
+            "ns": 10,
+            "title": "Template:NAMESPACENUMBER:Template:Mbox/doc"
+          },
+          {
+            "ns": 11,
+            "title": "Template talk:Mbox"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Metatemplating"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mbox and messagebox templates"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 838,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1151,
+            "slots": {
+              "main": {
+                "*": "{{Documentation subpage}}\n<!-- Categories go where indicated at the bottom of this page, please; interwikis go to Wikidata (see also: [[Wikipedia:Wikidata]]) -->\n{{High-risk| 188,000+ }}\n{{Lua|Module:Message box}}\n{{Mbox templates (small)}}\n\n{{tl|Mbox}} (\"['''M''']uti-namespace message['''box''']\") is a [[Help:Metatemplating|metatemplate]] with which [[Wikipedia:Namespace|namespace]]-sensitive {{cl|Mbox and messagebox templates|messagebox templates}} can be implemented. The most common of these are {{tl|Ambox}} for articles, {{tl|Tmbox}} for talk pages, {{tl|Imbox}} for file (formerly image) pages, {{tl|Cmbox}} for category pages and {{tl|Ombox}} for other types of page.\n\nNote that this template should only be used for message boxes that really need to adapt their style. Most message boxes do not need this and should use one of the varieties just listed. Using those templates directly means that your template will look the same on its template page and at any other place you show it, which makes it clear on what kind of pages it is supposed to be used. It also gives you access to any extra features those templates offer, and it saves some server load.\n\n== Usage ==\n\nThis template takes the same parameters as {{tl|Ambox}}, {{tl|Imbox}}, etc. See full documentation there.\n\nSome of the boxes this template calls only handles images of max 52px width, thus that limitation also applies to this template or you will get ugly padding problems.\n\n== Demospace ==\n\nThis template optionally takes the \"demospace\" parameter as described at {{tl|Namespace detect}}. That parameter is only for testing and demonstration purposes. If you want to lock your message box to one style then instead use one of the other mboxes directly.\n\nNamespace \"Image:\" was renamed to \"File:\" on 11 December 2008. This template was updated to understand both names well before that, thus it still works fine. For backwards compatibility it still understands \"demospace&nbsp;= image\" which means the same thing as \"demospace&nbsp;= file\". But using \"demospace&nbsp;= image\" is now deprecated.\n\nNamespace \"Book:\" was added to the English Wikipedia on 28 December 2009. This template uses the {{tlf|Ombox}} style on \"Book:\" pages (or when \"demospace&nbsp;= book\") and the {{tlf|Tmbox}} style on \"Book talk:\" pages (or when \"demospace&nbsp;= talk\"). Note that \"demospace&nbsp;= talk\" means any talk space.\n\n== Parameters ==\n\nList of all parameters:\n<pre>\n{{Mbox\n| demospace = {{{demospace|}}} / main / talk / file / category / other\n| type  = speedy / delete / content / style / notice / move / protection\n| image = none / [[File:Some image.svg|40px]]\n| imageright = [[File:Some image.svg|40px]]\n| style = CSS values\n| textstyle  = CSS values\n| text  = The message body text.\n| small = {{{small|}}} / left / yes\n| smallimage = none / [[File:Some image.svg|30px]]\n| smallimageright = none / [[File:Some image.svg|30px]]\n| smalltext  = A shorter message body text.\n}}\n</pre>\n\nNote: The small parameters only have effect when the template appears on an article, talk or \"other\" page type. For their associated documentation, see {{tl|Ambox}}, {{tl|Tmbox}} and/or {{tl|Ombox}}. Using the small parameters when they are not valid has no effect, but also does no harm.\n\n== See also ==\n{{Mbox templates see also}}\n\n<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||\n<!-- Categories go below this line, please; interwikis go to Wikidata, thank you! -->\n[[Category:Mbox and messagebox templates]]\n[[Category:Exclude in print]]\n\n}}</includeonly>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:27:00Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Cl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation subpage"
+          },
+          {
+            "ns": 10,
+            "title": "Template:High-risk"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Lua"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mbox templates (small)"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mbox templates see also"
+          },
+          {
+            "ns": 10,
+            "title": "Template:NAMESPACENUMBER:Template:Mbox/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Namespace detect"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlf"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          },
+          {
+            "ns": 828,
+            "title": "Module:List"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Lua banner"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Message box"
+          },
+          {
+            "ns": 828,
+            "title": "Module:No globals"
+          },
+          {
+            "ns": 828,
+            "title": "Module:TableTools"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Yesno"
+          }
+        ],
+        "title": "Template:Mbox/doc",
+        "touched": "2017-10-17T16:44:06Z"
+      },
+      "839": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Documentation assistance templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1152,
+        "length": 114,
+        "links": [
+          {
+            "ns": 12,
+            "title": "Help:Citation Style 2"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 839,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1152,
+            "slots": {
+              "main": {
+                "*": "[[Help:Citation Style 2|Citation Style 2]]<noinclude>\n[[Category:Documentation assistance templates]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:27:39Z"
+          }
+        ],
+        "title": "Template:Cs2",
+        "touched": "2015-09-01T04:27:39Z"
+      },
+      "840": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Documentation assistance templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1153,
+        "length": 114,
+        "links": [
+          {
+            "ns": 12,
+            "title": "Help:Citation Style 1"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 840,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1153,
+            "slots": {
+              "main": {
+                "*": "[[Help:Citation Style 1|Citation Style 1]]<noinclude>\n[[Category:Documentation assistance templates]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:27:56Z"
+          }
+        ],
+        "title": "Template:Cs1",
+        "touched": "2015-09-01T04:27:56Z"
+      },
+      "841": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1154,
+        "length": 209,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str endswith/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 841,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1154,
+            "slots": {
+              "main": {
+                "*": "{{#ifeq:{{#Invoke:String|sub|s={{{1|}}}| -{{#invoke:String|len|s={{{2}}}}} |ignore_errors=true}}|{{{2|}}}|yes}}<noinclude>\n{{documentation}}\n\n<!-- Add categories to the /doc subpage, not here! -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:28:17Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str endswith/doc"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "Template:Str endswith",
+        "touched": "2015-09-01T04:28:17Z"
+      },
+      "842": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1155,
+        "length": 8737,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:String-handling templates/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 842,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1155,
+            "slots": {
+              "main": {
+                "*": "{{Navbox with collapsible groups\n| name = String-handling templates\n| state = {{{state|expanded}}}\n| bodyclass = plainlist\n| title = String-handling templates\n| selected = {{{selected|{{{expanded|{{{1|}}}}}}}}}\n\n<!---------------------- Trimming ------------------------->\n| abbr1 = trim\n| sect1 = [[Trimming (computer programming)|Trimming]]\n| content1 =\n {{Navbox |child\n\n  | group1 = By counting\n  | list1 =\n   {{Aligned table |fullwidth=on |style=text-align:left; |col1width=50%;\n    | {{Aligned table |style=padding-right:2.5em;\n       |col1style=width:12.5em;text-align:right;white-space:nowrap;padding-right:0.75em; |col2style=font-style:italic;\n       | {{tl|str mid}}       | To return a substring specified by position and length.\n       | {{tl|trunc}}         | To trim down to a specified number of characters.\n       | {{tl|str left}}      | To trim down to a specified number of characters or duplicate the string to a specified number.\n       | {{tl|str crop}}      | To crop a specified number of characters off the end.\n       | {{tl|chop head and tail}} | To crop a specified number of characters off the beginning and end.\n      }}\n    | {{Aligned table\n       |col1style=width:12.5em;text-align:right;white-space:nowrap;padding-right:0.75em; |col2style=font-style:italic;\n       | {{tl|str right}}     | To trim the first specified number of characters.\n       | {{tl|str rightc}}    | To return a number of characters from the end, returns a parameter if the string is empty.\n       | {{tl|str rightmost}} | To trim down to the last specified number of characters.\n       | {{tl|str sub old}}   | To trim down to a specified number, starting at a given number from the left.\n       | {{tl|str sub new}}   | Select a substr based on starting and ending index.\n       | {{tl|str index}}     | Returns a given character from a string, but not accented letters.\n   }} }}\n\n  | group2 = By checking\n  | list2 =\n   {{Aligned table |fullwidth=on |style=text-align:left; |col1width=50%;\n    | {{Aligned table |style=padding-right:2.5em;\n       |col1style=width:12.5em;text-align:right;white-space:nowrap;padding-right:0.75em; |col2style=font-style:italic;\n       | {{tl|trim}}                | To trim any leading or trailing whitespace\n       | {{tl|str letter/trim}}     | To trim down to the beginning letters.\n       | {{tl|str number/trim}}     | To trim down to the beginning numbers.\n       | {{tl|trim brackets}}       | To trim any leading or trailing square brackets.\n      }}\n    | {{Aligned table\n       |col1style=width:12.5em;text-align:right;white-space:nowrap;padding-right:0.75em; |col2style=font-style:italic;\n       | {{tl|first word}}          | To trim down to the first space.\n       | {{tl|remove first word}}   | To remove anything before the first space.\n       | {{tl|last word}}           | To trim down from the last space.\n       | {{tl|remove last word}}    | To remove anything after the last space.\n   }} }}\n\n  | group3 = Dedicated\n  | list3 =\n   {{Aligned table |fullwidth=on |style=text-align:left; |col1width=50%;\n    | {{Aligned table |style=padding-right:2.5em;\n       |col1style=width:12.5em;text-align:right;white-space:nowrap;padding-right:0.75em; |col2style=font-style:italic;\n       | {{tl|delink}}              | Removes wikilink brackets (wikicode).\n       | {{tl|remove file prefix}}  | Removes \"File:\" (or \"Image:\") from filenames.\n       | {{tl|PAGENAMEBASE}}        | To trim off any parenthesis text at the end of a string (disambiguation).\n       | {{tl|title disambig text}} | Returns text in parenthesis at the end of a string (disambiguation).\n      }}\n    | {{Aligned table\n       |col1style=width:12.5em;text-align:right;white-space:nowrap;padding-right:0.75em; |col2style=font-style:italic;\n       | {{tl|WikiProjectbasename}} | Removes \"WikiProject\" from a pagename.\n       | {{tl|remove unranked}}     | Removes the string \"unranked_\" from the left of a string (taxonomy).\n       | {{tl|ship prefix}}         | Returns the length of a ship's name prefix, if listed (ship names).\n       | {{tl|title year}}          | Returns the 4-digit year from a pagename, if any.\n   }} }}\n }}\n\n<!----------- Insertion, replacement, length -------------->\n| abbr2 = IRL\n| sect2 = Insertion, replacement and length\n| content2 =\n {{Aligned table |style=margin:0 auto 0;text-align:left;\n  |  <!---(Insertion, replacement)--->\n    {{Aligned table |style=padding-right:2.5em;\n     |col1style=text-align:right;white-space:nowrap;padding-right:0.75em; |col2style=font-style:italic;\n     | {{tl|strloc insert}} | Inserts a string at character location strloc, or appends if strloc<{{=}}0.\n     | {{tl|loop}}          | Repeat character string a specified number of times.\n     | {{tl|repeat}}        | Repeat a string a specified number of times.\n     | {{tl|replace}}       | Returns the string, after replacing ''all'' occurrences of a specified string with another string.\n     | {{tl|str rep}}       | Returns the string, after replacing the first occurrence of a specified string with another string.\n     | {{tl|str len}}       | Returns a string's length.\n    }}\n  |  <!---(Length)--->\n    {{Aligned table\n     |col1style=text-align:right;white-space:nowrap;padding-right:0.75em; |col2style=font-style:italic;\n     | {{tl|iflenge}}       | [if len]gth [g]reater than or [e]qual to.\n     | {{tl|str ≥ len}}     | To check if a string is \"longer or equally long\" or \"shorter\" than a given length.\n     | {{tl|str ≤ len}}     | To check if a string is \"shorter or equally long\" or \"longer\" than a given length.\n     | {{tl|str ≠ len}}     | To check if a string is \"not equal\" or \"equal\" to a given length.\n     | {{tl|str ≤ ≥ len}}   | To check if a string is \"shorter\", \"equal\", or \"longer\" than a given length.\n }} }}\n\n<!----------------- Analysis, technical ------------------->\n| abbr3 = anlys/tech\n| sect3 = Analysis and technical\n| content3 =\n {{Aligned table |style=margin:0 auto 0;text-align:left;\n  |  <!---(Analysis)--->\n    {{Aligned table |style=padding-right:2.5em;\n     |col1style=text-align:right;white-space:nowrap;padding-right:0.75em; |col2style=font-style:italic;\n     | {{tl|str endswith}}  | To check if a string ends with a given string.\n     | {{tl|str find}}<br/>{{tl|strfind short}} |style2.2=vertical-align:middle;|''Returns the numerical location of a given string in a string.''\n     | {{tl|str find0}}     | Zero-based substring search.\n     | {{tl|str sub find}}  | Searches a substring in a string at the given offset.\n     | {{tl|str letter}}    | Returns the number of letters that begin a string.\n     | {{tl|str number}}    | Returns the number of numbers that begin a string.\n     | {{tl|str gtr str}}   | Compares two strings for alphabetical order, and returns a value accordingly.\n    }}\n  |  <!---(Analysis cont'd)--->\n    {{Aligned table\n     |col1style=text-align:right;white-space:nowrap;padding-right:0.75em; |col2style=font-style:italic;\n     | {{tl|ASCII code}}    | Returns the ASCII value of a single character.\n     | {{tl|a or an}}       | Takes a noun and produces the appropriate indefinite article, based on whether the first letter is a vowel.\n     | &nbsp; | &nbsp;\n     <!---(Technical)--->\n     | [[Module:String]]    | \n     | [[mw:Help:Magic words|...Magic words]] | {{noitalic|About <code><nowiki>{{padleft:&#124;}}</nowiki></code>.}}\n     | [[mw:Help:Extension:ParserFunctions|...ParserFunctions]] | {{noitalic|About <code><nowiki>{{#titleparts:&#124;}}, {{#expr:&#124;}}, {{#ifeq:&#124;}}, </nowiki></code> etc.}}\n }} }}\n\n<!--------------------- (disabled) ------------------------>\n<!----\n| group12 = Feature requests\n| list12 =\n* [[bugzilla:6455]] – Set $wgPFEnableStringFunctions = true on WMF wikis\n* [[bugzilla:26092]] – Enable or install string parsing wikimarkup functionality on WMF wikis\n\n<!----Not in a navbox:\n| group13 = [[Wikipedia:Template sandbox and test cases|Sandboxes, testcases]]\n| list13 =\n* {{tl|Str find/sandbox}}\n* {{tl|Str index/getchar/sandbox}}\n* {{tl|Str index/getchar/testcases}}\n* {{tl|Str index/sandbox}}\n* {{tl|Str index/testcases}}\n* {{tl|Str index any/sandbox}}\n* {{tl|Str index any/testcases}}\n* {{tl|Str left/sandbox}}\n* {{tl|Str len/core/sandbox}}\n* {{tl|Str len/sandbox}}\n* {{tl|Str len/testcases}}\n* {{tl|Str rightc/testcases}}\n* {{tl|Str ≠ len/sandbox}}\n* {{tl|Str ≠ len/testcases}}\n ----->\n\n<!----------------------- below --------------------------->\n| belowclass = hlist\n| below =\n* [[:Category:String manipulation templates]]\n* [[m:Category:String templates]]\n* [[:commons:Category:String manipulation templates]]\n\n| tracking = no <!--(keep all these string templates (by /doc pages) out of the tracking category)-->\n\n}}<noinclude>{{Documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:28:51Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Navbox with collapsible groups"
+          },
+          {
+            "ns": 10,
+            "title": "Template:String-handling templates/doc"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Navbar"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Navbox"
+          }
+        ],
+        "title": "Template:String-handling templates",
+        "touched": "2015-09-01T04:30:05Z"
+      },
+      "843": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1156,
+        "length": 15463,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Navbox with collapsible groups/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 843,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1156,
+            "slots": {
+              "main": {
+                "*": "{{#invoke:navbox|navbox\n|name = {{{name|<noinclude>Navbox with collapsible groups</noinclude>}}}\n|navbar = {{{navbar|}}}\n|state = {{{state|<noinclude>uncollapsed</noinclude>}}}\n|border = {{{border|{{{1|}}}}}}\n\n|title = {{{title<includeonly>|</includeonly>}}}\n|above = {{{above|}}}\n|image = {{{image|}}}\n|imageleft = {{{imageleft|}}}\n\n|bodyclass = {{{bodyclass|}}}\n|titleclass = {{{titleclass|}}}\n|aboveclass = {{{aboveclass|}}}\n|belowclass = {{{belowclass|}}}\n|groupclass = {{{groupclass|}}}\n|listclass = {{{listclass|}}}\n|imageclass = {{{imageclass|}}}\n\n|style = {{{style|}}}{{{bodystyle|}}}\n|basestyle = {{{basestyle|}}}\n|titlestyle = {{{titlestyle|}}}\n|abovestyle = {{{abovestyle|}}}\n|belowstyle = {{{belowstyle|}}}\n|imagestyle = {{{imagestyle|}}}\n|imageleftstyle = {{{imageleftstyle|}}}\n\n|list1 =\n{{#if:{{{group1<includeonly>|</includeonly>}}}{{{sect1|}}}{{{section1|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr1}}} |uncollapsed |{{{state1|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group1style|}}}{{{sect1titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list1style|}}}{{{content1style|}}}\n    |title = {{{group1<includeonly>|</includeonly>}}}{{{sect1|}}}{{{section1|}}}<noinclude> or {{{section1}}} or {{{sect1}}}</noinclude>\n    |list1 = {{{list1<includeonly>|</includeonly>}}}{{{content1|}}}<noinclude> or {{{content1}}}</noinclude>\n    |image = {{{image1|}}}\n    |imageleft = {{{imageleft1|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list1|}}}{{{content1|}}}\n}}\n\n|list2 =\n{{#if:{{{group2<includeonly>|</includeonly>}}}{{{sect2|}}}{{{section2|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr2}}} |uncollapsed |{{{state2|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group2style|}}}{{{sect2titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list2style|}}}{{{content2style|}}}\n    |title = {{{group2<includeonly>|</includeonly>}}}{{{sect2|}}}{{{section2|}}}<noinclude> or {{{section2}}} or {{{sect2}}}</noinclude>\n    |list1 = {{{list2<includeonly>|</includeonly>}}}{{{content2|}}}<noinclude> or {{{content2}}}</noinclude>\n    |image = {{{image2|}}}\n    |imageleft = {{{imageleft2|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list2|}}}{{{content2|}}}\n}}\n\n|list3 =\n{{#if:{{{group3<includeonly>|</includeonly>}}}{{{sect3|}}}{{{section3|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr3}}} |uncollapsed |{{{state3|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group3style|}}}{{{sect3titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list3style|}}}{{{content3style|}}}\n    |title = {{{group3<includeonly>|</includeonly>}}}{{{sect3|}}}{{{section3|}}}<noinclude> or {{{section3}}} or {{{sect3}}}</noinclude>\n    |list1 = {{{list3<includeonly>|</includeonly>}}}{{{content3|}}}<noinclude> or {{{content3}}}</noinclude>\n    |image = {{{image3|}}}\n    |imageleft = {{{imageleft3|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list3|}}}{{{content3|}}}\n}}\n\n|list4 =\n{{#if:{{{group4<includeonly>|</includeonly>}}}{{{sect4|}}}{{{section4|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr4}}} |uncollapsed |{{{state4|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group4style|}}}{{{sect4titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list4style|}}}{{{content4style|}}}\n    |title = {{{group4<includeonly>|</includeonly>}}}{{{sect4|}}}{{{section4|}}}<noinclude> or {{{section4}}} or {{{sect4}}}</noinclude>\n    |list1 = {{{list4<includeonly>|</includeonly>}}}{{{content4|}}}<noinclude> or {{{content4}}}</noinclude>\n    |image = {{{image4|}}}\n    |imageleft = {{{imageleft4|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list4|}}}{{{content4|}}}\n}}\n\n|list5 =\n{{#if:{{{group5<includeonly>|</includeonly>}}}{{{sect5|}}}{{{section5|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr5}}} |uncollapsed |{{{state5|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group5style|}}}{{{sect5titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list5style|}}}{{{content5style|}}}\n    |title = {{{group5<includeonly>|</includeonly>}}}{{{sect5|}}}{{{section5|}}}<noinclude> or {{{section5}}} or {{{sect5}}}</noinclude>\n    |list1 = {{{list5<includeonly>|</includeonly>}}}{{{content5|}}}<noinclude> or {{{content5}}}</noinclude>\n    |image = {{{image5|}}}\n    |imageleft = {{{imageleft5|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list5|}}}{{{content5|}}}\n}}\n\n|list6 =\n{{#if:{{{group6|}}}{{{sect6|}}}{{{section6|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr6}}} |uncollapsed |{{{state6|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group6style|}}}{{{sect6titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list6style|}}}{{{content6style|}}}\n    |title = {{{group6|}}}{{{sect6|}}}{{{section6|}}}\n    |list1 = {{{list6|}}}{{{content6|}}}\n    |image = {{{image6|}}}\n    |imageleft = {{{imageleft6|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list6|}}}{{{content6|<noinclude>''(...etc, to group20/sect20/section20 and list20/content20)''</noinclude>}}}\n}}\n\n|list7 =\n{{#if:{{{group7|}}}{{{sect7|}}}{{{section7|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr7}}} |uncollapsed |{{{state7|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group7style|}}}{{{sect7titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list7style|}}}{{{content7style|}}}\n    |title = {{{group7|}}}{{{sect7|}}}{{{section7|}}}\n    |list1 = {{{list7|}}}{{{content7|}}}\n    |image = {{{image7|}}}\n    |imageleft = {{{imageleft7|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list7|}}}{{{content7|}}}\n}}\n\n|list8 =\n{{#if:{{{group8|}}}{{{sect8|}}}{{{section8|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr8}}} |uncollapsed |{{{state8|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group8style|}}}{{{sect8titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list8style|}}}{{{content8style|}}}\n    |title = {{{group8|}}}{{{sect8|}}}{{{section8|}}}\n    |list1 = {{{list8|}}}{{{content8|}}}\n    |image = {{{image8|}}}\n    |imageleft = {{{imageleft8|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list8|}}}{{{content8|}}}\n}}\n\n|list9 =\n{{#if:{{{group9|}}}{{{sect9|}}}{{{section9|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr9}}} |uncollapsed |{{{state9|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group9style|}}}{{{sect9titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list9style|}}}{{{content9style|}}}\n    |title = {{{group9|}}}{{{sect9|}}}{{{section9|}}}\n    |list1 = {{{list9|}}}{{{content9|}}}\n    |image = {{{image9|}}}\n    |imageleft = {{{imageleft9|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list9|}}}{{{content9|}}}\n}}\n\n|list10 =\n{{#if:{{{group10|}}}{{{sect10|}}}{{{section10|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr10}}} |uncollapsed |{{{state10|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group10style|}}}{{{sect10titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list10style|}}}{{{content10style|}}}\n    |title = {{{group10|}}}{{{sect10|}}}{{{section10|}}}\n    |list1 = {{{list10|}}}{{{content10|}}}\n    |image = {{{image10|}}}\n    |imageleft = {{{imageleft10|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list10|}}}{{{content10|}}}\n}}\n\n|list11 =\n{{#if:{{{group11|}}}{{{sect11|}}}{{{section11|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr11}}} |uncollapsed |{{{state11|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group11style|}}}{{{sect11titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list11style|}}}{{{content11style|}}}\n    |title = {{{group11|}}}{{{sect11|}}}{{{section11|}}}\n    |list1 = {{{list11|}}}{{{content11|}}}\n    |image = {{{image11|}}}\n    |imageleft = {{{imageleft11|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list11|}}}{{{content11|}}}\n}}\n\n|list12 =\n{{#if:{{{group12|}}}{{{sect12|}}}{{{section12|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr12}}} |uncollapsed |{{{state12|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group12style|}}}{{{sect12titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list12style|}}}{{{content12style|}}}\n    |title = {{{group12|}}}{{{sect12|}}}{{{section12|}}}\n    |list1 = {{{list12|}}}{{{content12|}}}\n    |image = {{{image12|}}}\n    |imageleft = {{{imageleft12|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list12|}}}{{{content12|}}}\n}}\n\n|list13 =\n{{#if:{{{group13|}}}{{{sect13|}}}{{{section13|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr13}}} |uncollapsed |{{{state13|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group13style|}}}{{{sect13titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list13style|}}}{{{content13style|}}}\n    |title = {{{group13|}}}{{{sect13|}}}{{{section13|}}}\n    |list1 = {{{list13|}}}{{{content13|}}}\n    |image = {{{image13|}}}\n    |imageleft = {{{imageleft13|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list13|}}}{{{content13|}}}\n}}\n\n|list14 =\n{{#if:{{{group14|}}}{{{sect14|}}}{{{section14|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr14}}} |uncollapsed |{{{state14|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group14style|}}}{{{sect14titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list14style|}}}{{{content14style|}}}\n    |title = {{{group14|}}}{{{sect14|}}}{{{section14|}}}\n    |list1 = {{{list14|}}}{{{content14|}}}\n    |image = {{{image14|}}}\n    |imageleft = {{{imageleft14|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list14|}}}{{{content14|}}}\n}}\n\n|list15 =\n{{#if:{{{group15|}}}{{{sect15|}}}{{{section15|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr15}}} |uncollapsed |{{{state15|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group15style|}}}{{{sect15titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list15style|}}}{{{content15style|}}}\n    |title = {{{group15|}}}{{{sect15|}}}{{{section15|}}}\n    |list1 = {{{list15|}}}{{{content15|}}}\n    |image = {{{image15|}}}\n    |imageleft = {{{imageleft15|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list15|}}}{{{content15|}}}\n}}\n\n|list16 =\n{{#if:{{{group16|}}}{{{sect16|}}}{{{section16|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr16}}} |uncollapsed |{{{state16|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group16style|}}}{{{sect16titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list16style|}}}{{{content16style|}}}\n    |title = {{{group16|}}}{{{sect16|}}}{{{section16|}}}\n    |list1 = {{{list16|}}}{{{content16|}}}\n    |image = {{{image16|}}}\n    |imageleft = {{{imageleft16|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list16|}}}{{{content16|}}}\n}}\n\n|list17 =\n{{#if:{{{group17|}}}{{{sect17|}}}{{{section17|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr17}}} |uncollapsed |{{{state17|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group17style|}}}{{{sect17titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list17style|}}}{{{content17style|}}}\n    |title = {{{group17|}}}{{{sect17|}}}{{{section17|}}}\n    |list1 = {{{list17|}}}{{{content17|}}}\n    |image = {{{image17|}}}\n    |imageleft = {{{imageleft17|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list17|}}}{{{content17|}}}\n}}\n\n|list18 =\n{{#if:{{{group18|}}}{{{sect18|}}}{{{section18|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr18}}} |uncollapsed |{{{state18|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group18style|}}}{{{sect18titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list18style|}}}{{{content18style|}}}\n    |title = {{{group18|}}}{{{sect18|}}}{{{section18|}}}\n    |list1 = {{{list18|}}}{{{content18|}}}\n    |image = {{{image18|}}}\n    |imageleft = {{{imageleft18|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list18|}}}{{{content18|}}}\n}}\n\n|list19 =\n{{#if:{{{group19|}}}{{{sect19|}}}{{{section19|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr19}}} |uncollapsed |{{{state19|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group19style|}}}{{{sect19titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list19style|}}}{{{content19style|}}}\n    |title = {{{group19|}}}{{{sect19|}}}{{{section19|}}}\n    |list1 = {{{list19|}}}{{{content19|}}}\n    |image = {{{image19|}}}\n    |imageleft = {{{imageleft19|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list19|}}}{{{content19|}}}\n}}\n\n|list20 =\n{{#if:{{{group20|}}}{{{sect20|}}}{{{section20|}}}\n | {{#invoke:navbox|navbox|child\n    |navbar = plain\n    |state = {{#ifeq:{{{selected}}}|{{{abbr20}}} |uncollapsed |{{{state20|collapsed}}}}}\n    |titlestyle = {{{basestyle|}}};{{{groupstyle|}}}{{{secttitlestyle|}}}{{{group20style|}}}{{{sect20titlestyle|}}}\n    |liststyle  = {{{liststyle|}}}{{{contentstyle|}}}{{{list20style|}}}{{{content20style|}}}\n    |title = {{{group20|}}}{{{sect20|}}}{{{section20|}}}\n    |list1 = {{{list20|}}}{{{content20|}}}\n    |image = {{{image20|}}}\n    |imageleft = {{{imageleft20|}}}\n    |{{#if:{{{listpadding|}}} |listpadding |void}} = {{{listpadding|}}}\n   }}\n | {{{list20|}}}{{{content20|}}}\n}}\n\n|below = {{{below|}}}\n\n}}<noinclude>\n{{documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:29:26Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Navbox with collapsible groups/doc"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Navbar"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Navbox"
+          }
+        ],
+        "title": "Template:Navbox with collapsible groups",
+        "touched": "2015-09-01T04:29:26Z"
+      },
+      "844": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1157,
+        "length": 163,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Noitalic/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 844,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1157,
+            "slots": {
+              "main": {
+                "*": "<span style=\"font-style:normal;\">{{{1}}}</span><noinclude>\n{{documentation}}\n<!-- PLEASE ADD CATEGORIES AND INTERWIKIS TO THE /doc SUBPAGE, THANKS -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:30:24Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Noitalic/doc"
+          }
+        ],
+        "title": "Template:Noitalic",
+        "touched": "2015-09-01T04:30:24Z"
+      },
+      "845": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1158,
+        "length": 112,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Sfn/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 845,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1158,
+            "slots": {
+              "main": {
+                "*": "<includeonly>{{#invoke:Footnotes|sfn}}</includeonly><noinclude>\n{{documentation}}\n</noinclude><!-- null edit -->",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:31:00Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Sfn/doc"
+          }
+        ],
+        "title": "Template:Sfn",
+        "touched": "2015-09-01T04:31:00Z"
+      },
+      "846": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation pages"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Edit-copy green.svg"
+          }
+        ],
+        "lastrevid": 1159,
+        "length": 271,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Notelist"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 846,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1159,
+            "slots": {
+              "main": {
+                "*": "{{Documentation subpage}}\n<!-- Categories and interwikis go at the bottom of this page. -->\n{{#section:Help:footnotes|pregroup}}\n<includeonly>\n<!-- Categories and interwikis go here: -->\n[[Category:Footnote templates]]\n[[Category:Reference list templates]]\n</includeonly>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:31:32Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation subpage"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Namespace detect"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox/core"
+          }
+        ],
+        "title": "Template:Notelist/doc",
+        "touched": "2015-09-01T04:31:32Z"
+      },
+      "847": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1160,
+        "length": 2481,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox name module/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 847,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1160,
+            "slots": {
+              "main": {
+                "*": "{{ infobox\n| child     = yes\n| decat     = yes <!-- remove from template:infobox tracking categories -->\n| title     = \n\n| label1    = Original title\n|  data1    = {{#if: {{{original|}}}|''{{{original|}}}''}}\n\n| label2    = [[Traditional Chinese characters|Traditional]]\n|  data2    = {{#if:{{{traditional|{{{fanti|}}}}}}|<big>{{{traditional|{{{fanti|}}}}}}</big>}}\n| label3    = [[Simplified Chinese characters|Simplified]]\n|  data3    = {{#if:{{{simplified|{{{jianti|}}}}}}|<big>{{{simplified|{{{jianti|}}}}}}</big>}}\n| label4    = [[Chinese characters|Chinese]]\n|  data4    = {{#if:{{{chinese|{{{Chinese|}}}}}}|<big>{{{chinese|{{{Chinese|}}}}}}</big>}}\n| label5    = [[Pinyin|Mandarin]]\n|  data5    = {{{pinyin|}}}\n| label6    = [[Jyutping|Cantonese]]\n|  data6    = {{{jyutping|}}}\n| label7    = [[Pe̍h-ōe-jī|Hokkien]]\n|  data7    = {{{poj|}}}\n\n| label8    = [[Japanese language|Japanese]]\n|  data8    = {{#if: {{{kanji|}}}|<span class=\"t_nihongo_kanji\" lang=\"ja\">{{{kanji|}}}</span>}}{{#if: {{{kana|}}}|<span class=\"t_nihongo_kanji\" lang=\"ja\">{{{kana|}}}</span>}}\n| label9    = [[Hepburn romanization|Hepburn]]\n|  data9    = {{#if: {{{romaji|}}}|''{{{romaji|}}}''}}\n\n| label10   = {{#switch: {{lc:{{{context|}}}}}|n|nk|north|dprk=[[Hangul|Chos&#335;n'g&#365;l]]|#default=[[Hangul]]}}\n|  data10   = {{#if: {{{hangul|}}}|{{lang|ko-Hang|{{{hangul}}} }} }}\n| label11   = {{#switch: {{lc:{{{context|}}}}}|n|nk|north|dprk=[[Hanja|Hancha]]|#default=[[Hanja]]}}\n|  data11   = {{#if: {{{hanja|}}}|{{#ifeq: {{{hanja|}}}|!|<noinclude>!</noinclude>|{{lang|ko-Hani|{{{hanja}}} }} }} }}\n| label12   = {{#switch: {{lc:{{{context|}}}}}|n|nk|north|dprk=[[McCune–Reischauer]]|#default=[[Revised Romanization of Korean|Revised Romanization]]}}\n|  data12   = {{#if: {{#switch: {{lc:{{{context|}}}}}|n|nk|north|dprk={{{mr|}}}|#default={{{rr|}}} }}|''{{transl|ko|{{#switch: {{lc:{{{context|}}}}}|n|nk|north|dprk={{{mr}}}|#default={{{rr}}} }} }}''}}\n| label13   = {{#switch: {{lc:{{{context|}}}}}|n|nk|north|dprk=[[Revised Romanization of Korean|Revised Romanization]]|#default=[[McCune–Reischauer]]}}\n|  data13   = {{#if: {{#switch: {{lc:{{{context|}}}}}|n|nk|north|dprk={{{rr|}}}|#default={{{mr|}}} }}|''{{transl|ko|{{#switch: {{lc:{{{context|}}}}}|n|nk|north|dprk={{{rr}}}|#default={{{mr}}} }} }}''}}\n\n\n| label14   = Literally\n|  data14   = {{#if: {{{translation|}}}|''{{{translation|}}}''}}\n}}<noinclude>{{documentation}}\n\n<!-- Add cats and interwikis to the /doc subpage -->\n\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:32:47Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox name module/doc"
+          }
+        ],
+        "title": "Template:Infobox name module",
+        "touched": "2015-09-01T04:32:47Z"
+      },
+      "848": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1161,
+        "length": 114,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Trim/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 848,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1161,
+            "slots": {
+              "main": {
+                "*": "<includeonly>{{ {{{|safesubst:}}}#if:1|{{{x|{{{1|}}}}}}}}</includeonly><noinclude>\n\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:33:39Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Trim/doc"
+          }
+        ],
+        "title": "Template:Trim",
+        "touched": "2015-09-01T04:33:39Z"
+      },
+      "849": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1162,
+        "length": 600,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Distinguish/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 849,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1162,
+            "slots": {
+              "main": {
+                "*": "{{#if:{{{1|}}}\n |{{Hatnote|Not to be confused with [[:{{trim|{{{1}}}}}]]{{\n    #if: {{{3|}}}{{{4|}}}\n    | , [[:{{trim|{{{2}}}}}]], {{\n      #if: {{{4|}}}\n      | [[:{{trim|{{{3}}}}}]], or [[:{{trim|{{{4}}}}}]]\n      | or [[:{{trim|{{{3}}}}}]]\n      }}\n    | {{\n      #if: {{{2|}}}\n      | &nbsp;or [[:{{trim|{{{2}}}}}]]\n      }}\n    }}.\n  }}\n}}<noinclude><!-- splitting these lines causes {{Documentation}} template to terminate green shading when Distinguish is used in /doc pages. -->\n{{Documentation}}\n<!-- Add categories to the /doc subpage and interwikis to Wikidata, not here! -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:34:06Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Distinguish/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Distinguish",
+        "touched": "2015-09-01T04:34:06Z"
+      },
+      "850": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1163,
+        "length": 169,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:If affirmed/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 850,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1163,
+            "slots": {
+              "main": {
+                "*": "{{#switch:{{lc:{{{1|}}}}}\n |add|added |affirm|affirmed |include|included |on |true |yes |y = {{{2|}}}\n | #default = {{{3|}}}\n}}<noinclude>\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:34:31Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:If affirmed/doc"
+          }
+        ],
+        "title": "Template:If affirmed",
+        "touched": "2015-09-01T04:34:31Z"
+      },
+      "851": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1164,
+        "length": 189,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Comma separated entries/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 851,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1164,
+            "slots": {
+              "main": {
+                "*": "{{<includeonly>safesubst:</includeonly>#invoke:Separated entries|comma}}<noinclude>\n{{documentation}}\n<!-- Categories go on the /doc subpage, and interwikis go on Wikidata. -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:35:18Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Comma separated entries/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Separated entries"
+          },
+          {
+            "ns": 828,
+            "title": "Module:TableTools"
+          }
+        ],
+        "title": "Template:Comma separated entries",
+        "touched": "2015-09-01T04:35:18Z"
+      },
+      "852": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1165,
+        "length": 115,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Allow wrap/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 852,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1165,
+            "slots": {
+              "main": {
+                "*": "<span class=\"wrap\">{{{1}}}</span><noinclude>{{documentation}}<!--interwikis/categories go inside doc--></noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T04:35:50Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Allow wrap/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Allow wrap",
+        "touched": "2015-09-01T04:35:50Z"
+      },
+      "853": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1168,
+        "length": 2023,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data United States Army/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 853,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1168,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = United States Army\n| shortname alias = U.S. Army\n| flag alias = Flag of the United States Army.svg\n| flag alias-1784 = US flag 13 stars – Betsy Ross.svg\n| flag alias-1795 = StarSpangledBannerFlag.svg\n| flag alias-1818 = US flag 20 stars.svg\n| flag alias-1819 = US flag 21 stars.svg\n| flag alias-1820 = US flag 23 stars.svg\n| flag alias-1822 = US flag 24 stars.svg\n| flag alias-1836 = US flag 25 stars.svg\n| flag alias-1837 = US flag 26 stars.svg\n| flag alias-1845 = US flag 27 stars.svg\n| flag alias-1846 = US flag 28 stars.svg\n| flag alias-1847 = US flag 29 stars.svg\n| flag alias-1848 = US flag 30 stars.svg\n| flag alias-1851 = US flag 31 stars.svg\n| flag alias-1858 = US flag 32 stars.svg\n| flag alias-1859 = US flag 33 stars.svg\n| flag alias-1861 = US flag 34 stars.svg\n| flag alias-1863 = US flag 35 stars.svg\n| flag alias-1865 = US flag 36 stars.svg\n| flag alias-1867 = US flag 37 stars.svg\n| flag alias-1877 = US flag 38 stars.svg\n| flag alias-1890 = US flag 43 stars.svg\n| flag alias-1891 = US flag 44 stars.svg\n| flag alias-1896 = US flag 45 stars.svg\n| flag alias-1908 = US flag 46 stars.svg\n| flag alias-1912 = US flag 48 stars.svg\n| flag alias-1956 = Flag of the United States Army.svg\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n<noinclude>\n| var1 = 1784\n| var2 = 1795   \n| var3 = 1818   \n| var4 = 1819  \n| var5 = 1820   \n| var6 = 1822   \n| var7 = 1836   \n| var8 = 1837  \n| var9 = 1845  \n| var10 = 1846   \n| var11 = 1847   \n| var12 = 1848  \n| var13 = 1851  \n| var14 = 1858  \n| var15 = 1859  \n| var16 = 1861  \n| var17 = 1863   \n| var18 = 1865  \n| var19 = 1867 \n| var20 = 1877  \n| var21 = 1890   \n| var22 = 1891   \n| var23 = 1896   \n| var24 = 1908  \n| var25 = 1912  \n| var26 = 1956\n| related1 = United States\n| related2 = United States Air Force\n| related3 = United States Coast Guard\n| related4 = United States Marine Corps\n| related5 = United States Navy\n</noinclude>\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T16:04:15Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data United States Army/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data United States Army",
+        "touched": "2015-09-01T16:09:20Z"
+      },
+      "854": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data templates of the United States"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages with broken file links"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Flag of the United States Navy.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Naval Jack of the United States.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Seal of the United States Department of the Navy.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Seal of the United States Department of the Navy (1879-1957).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:USNavyInfantryBattalionFlag.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 13 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 15 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 20 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 21 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 23 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 24 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 25 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 26 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 27 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 28 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 29 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 30 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 31 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 32 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 33 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 34 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 35 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 36 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 37 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 38 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 43 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 44 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 45 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 46 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 48 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 49 stars.svg"
+          }
+        ],
+        "lastrevid": 1169,
+        "length": 2693,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data United States Navy/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 854,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1169,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = United States Navy\n| shortname alias = U.S. Navy\n| flag alias = Flag of the United States Navy.svg\n| flag alias-1794 = US Naval Jack 13 stars.svg\n| flag alias-1795 = US Naval Jack 15 stars.svg\n| flag alias-1818 = US Naval Jack 20 stars.svg\n| flag alias-1819 = US Naval Jack 21 stars.svg\n| flag alias-1820 = US Naval Jack 23 stars.svg\n| flag alias-1822 = US Naval Jack 24 stars.svg\n| flag alias-1836 = US Naval Jack 25 stars.svg\n| flag alias-1837 = US Naval Jack 26 stars.svg\n| flag alias-1845 = US Naval Jack 27 stars.svg\n| flag alias-1846 = US Naval Jack 28 stars.svg\n| flag alias-1847 = US Naval Jack 29 stars.svg\n| flag alias-1848 = US Naval Jack 30 stars.svg\n| flag alias-1851 = US Naval Jack 31 stars.svg\n| flag alias-1858 = US Naval Jack 32 stars.svg\n| flag alias-1859 = US Naval Jack 33 stars.svg\n| flag alias-1861 = US Naval Jack 34 stars.svg\n| flag alias-1863 = US Naval Jack 35 stars.svg\n| flag alias-1864 = USNavyInfantryBattalionFlag.svg\n| flag alias-1865 = US Naval Jack 36 stars.svg\n| flag alias-1867 = US Naval Jack 37 stars.svg\n| flag alias-1877 = US Naval Jack 38 stars.svg\n| flag alias-1879 = Seal of the United States Department of the Navy (1879-1957).png\n| flag alias-1890 = US Naval Jack 43 stars.svg\n| flag alias-1891 = US Naval Jack 44 stars.svg\n| flag alias-1896 = US Naval Jack 45 stars.svg\n| flag alias-1908 = US Naval Jack 46 stars.svg\n| flag alias-1912 = US Naval Jack 48 stars.svg\n| flag alias-1957 = Seal of the United States Department of the Navy.svg\n| flag alias-1959 = US Naval Jack 49 stars.svg\n| flag alias-1960 = US Naval Jack.svg\n| flag alias-1975 = Naval Jack of the United States.svg\n| flag alias-1977 = US Naval Jack.svg\n| flag alias-2002 = Naval Jack of the United States.svg\n| border-1879     =\n| border-1957     =\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n<noinclude>\n| var1 = 1794\n| var2 = 1795   \n| var3 = 1818   \n| var4 = 1819  \n| var5 = 1820   \n| var6 = 1822   \n| var7 = 1836   \n| var8 = 1837  \n| var9 = 1845  \n| var10 = 1846   \n| var11 = 1847   \n| var12 = 1848  \n| var13 = 1851  \n| var14 = 1858  \n| var15 = 1859  \n| var16 = 1861  \n| var17 = 1863   \n| var18 = 1864 \n| var19 = 1865  \n| var20 = 1867 \n| var21 = 1877 \n| var22 = 1879 \n| var23 = 1890   \n| var24 = 1891   \n| var25 = 1896   \n| var26 = 1908  \n| var27 = 1912  \n| var28 = 1957 \n| var29 = 1959   \n| var30 = 1960 \n| var31 = 1975\n| var32 = 1977\n| var33 = 2002\n| related1 = United States\n| related2 = United States Air Force\n| related3 = United States Army\n| related4 = United States Coast Guard\n| related5 = United States Marine Corps\n</noinclude>\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T16:05:13Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data United States Navy"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United States Navy/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation subpage"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagdeco"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagdeco/core"
+          }
+        ],
+        "title": "Template:Country data United States Navy",
+        "touched": "2015-09-01T16:11:33Z"
+      },
+      "855": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with broken file links"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Template documentation pages"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Edit-copy green.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United States Navy.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Naval Jack of the United States.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Seal of the United States Department of the Navy.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Seal of the United States Department of the Navy (1879-1957).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:USNavyInfantryBattalionFlag.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 13 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 15 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 20 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 21 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 23 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 24 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 25 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 26 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 27 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 28 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 29 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 30 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 31 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 32 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 33 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 34 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 35 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 36 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 37 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 38 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 43 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 44 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 45 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 46 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 48 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Naval Jack 49 stars.svg"
+          }
+        ],
+        "lastrevid": 1170,
+        "length": 5245,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data United States Navy"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 855,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1170,
+            "slots": {
+              "main": {
+                "*": "{{Documentation subpage}}\n===List of flag variants===\n{| class=\"wikitable\" style=\"text-align:center\"\n! Year !! Flag image (40px) !! Number !! Notes\n|-\n| 1794 || {{Flagdeco|United States Navy|1794|size=40px}} || 1 || Naval jack with 13 stars. Used by the U.S. Navy from March 27, 1794 to May 1, 1795.\n|-\n| 1795 || {{Flagdeco|United States Navy|1795|size=40px}} || 2 || Naval jack with 15 stars. Used from May 1, 1795 to July 3, 1818.\n|-\n| 1818 || {{Flagdeco|United States Navy|1818|size=40px}} || 3 || Naval jack with 20 stars. Used from July 4, 1818 to July 3, 1819.\n|-\n| 1819 || {{Flagdeco|United States Navy|1819|size=40px}} || 4 || Naval jack with 21 stars. Used from July 4, 1819 to July 3, 1820.\n|-\n| 1820 || {{Flagdeco|United States Navy|1820|size=40px}} || 5 || Naval jack with 23 stars. Used from July 4, 1820 to July 3, 1822.\n|-\n| 1822 || {{Flagdeco|United States Navy|1822|size=40px}} || 6 || Naval jack with 24 stars. Used from July 4, 1822 to July 3, 1836.\n|-\n| 1836 || {{Flagdeco|United States Navy|1836|size=40px}} || 7 || Naval jack with 25 stars. Used from July 4, 1836 to July 3, 1837.\n|-\n| 1837 || {{Flagdeco|United States Navy|1837|size=40px}} || 8 || Naval jack with 26 stars. Used from July 4, 1837 to July 3, 1845.\n|-\n| 1845 || {{Flagdeco|United States Navy|1845|size=40px}} || 9 || Naval jack with 27 stars. Used from July 4, 1845 to July 3, 1846.\n|-\n| 1846 || {{Flagdeco|United States Navy|1846|size=40px}} || 10 || Naval jack with 28 stars. Used from July 4, 1846 to July 3, 1847.\n|- \n| 1847 || {{Flagdeco|United States Navy|1847|size=40px}} || 11 || Naval jack with 29 stars. Used from July 4, 1847 to July 3, 1848.\n|-\n| 1848 || {{Flagdeco|United States Navy|1848|size=40px}} || 12 || Naval jack with 30 stars. Used from July 4, 1848 to July 3, 1851.\n|-\n| 1851 || {{Flagdeco|United States Navy|1851|size=40px}} || 13 || Naval jack with 31 stars. Used from July 4, 1851 to July 3, 1858.\n|-\n| 1858 || {{Flagdeco|United States Navy|1858|size=40px}} || 14 || Naval jack with 32 stars. Used from July 4, 1858 to July 3, 1859.\n|-\n| 1859 || {{Flagdeco|United States Navy|1859|size=40px}} || 15 || Naval jack with 33 stars. Used from July 4, 1859 to July 3, 1861.\n|-\n| 1861 || {{Flagdeco|United States Navy|1861|size=40px}} || 16 || Naval jack with 34 stars. Used from July 4, 1861 to July 3, 1863.\n|-\n| 1863 || {{Flagdeco|United States Navy|1863|size=40px}} || 17 || Naval jack with 35 stars. Used from July 4, 1863 to July 3, 1865.\n|-\n| 1864 || {{Flagdeco|United States Navy|1864|size=40px}} || 18 || ''De facto'' flag of the U.S. Navy from 1864 to 1959. Please use this flag to represent the U.S. Navy from December 9, 1864 to April 24, 1959 in articles pertaining to it within this time period.\n|-\n| 1865 || {{Flagdeco|United States Navy|1865|size=40px}} || 19 || Naval jack with 36 stars. Used from July 4, 1865 to July 3, 1867.\n|-\n| 1867 || {{Flagdeco|United States Navy|1867|size=40px}} || 20 || Naval jack with 37 stars. Used from July 4, 1867 to July 3, 1877.\n|-\n| 1877 || {{Flagdeco|United States Navy|1877|size=40px}} || 21 || Naval jack with 38 stars. Used from July 4, 1877 to July 3, 1890.\n|-\n| 1879 || [[File:Seal of the United States Department of the Navy (1879-1957).png|42px]] || 22 || Seal of the United States Department of the Navy from 1879 to 1957.\n|-\n| 1890 || {{Flagdeco|United States Navy|1890|size=40px}} || 23 || Naval jack with 43 stars. Used from July 4, 1890 to July 3, 1891.\n|-\n| 1891 || {{Flagdeco|United States Navy|1891|size=40px}} || 24 || Naval jack with 44 stars. Used from July 4, 1891 to July 3, 1896.\n|-\n| 1896 || {{Flagdeco|United States Navy|1896|size=40px}} || 25 || Naval jack with 45 stars. Used from July 4, 1896 to July 3, 1908.\n|-\n| 1908 || {{Flagdeco|United States Navy|1908|size=40px}} || 26 || Naval jack with 46 stars. Used from July 4, 1908 to July 3, 1912.\n|-\n| 1912 || {{Flagdeco|United States Navy|1912|size=40px}} || 27 || Naval jack with 48 stars. Used from July 4, 1912 to July 3, 1959.\n|-\n| 1957 || [[File:Seal of the United States Department of the Navy.svg|42px]] || 28 || Seal of the United States Department of the Navy from 1957 to the present day.\n|-\n| 1959<br /><small>(default)</small>|| {{Flagdeco|United States Navy|size=40px}} || 29 || The current ''de jure'' flag of the U.S. Navy, adopted on April 24, 1959. Please use this flag to represent the U.S. Navy from April 24, 1959 to the present day in articles that pertain to this time period.\n|-\n| 1959 || {{Flagdeco|United States Navy|1959|size=40px}} || 30 || Naval jack with 49 stars. Used from July 4, 1959 to July 3, 1960.\n|-\n| 1960 || {{Flagdeco|United States Navy|1960|size=40px}} || 31 || Naval jack with 50 stars. Adopted on July 4, 1960.\n|-\n| 1975 || {{Flagdeco|United States Navy|1975|size=40px}} || 32 || Naval jack with 13 stripes. Used from October 13, 1975 to December 31, 1976.\n|-\n| 1977 || {{Flagdeco|United States Navy|1960|size=40px}} || 33 || Naval jack with 50 stars. Re-adopted on January 1, 1977.\n|-\n| 2002 || {{Flagdeco|United States Navy|2002|size=40px}} || 34 || Naval jack with 13 stripes. Used since 2002 to the present day.\n|}\n<includeonly><!-- CATEGORIES HERE, THANKS -->\n[[Category:Country data templates of the United States|Navy, United States of America]]\n</includeonly>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T16:05:42Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data United States Navy"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation subpage"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagdeco"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagdeco/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Namespace detect"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox/core"
+          }
+        ],
+        "title": "Template:Country data United States Navy/doc",
+        "touched": "2015-09-01T16:11:33Z"
+      },
+      "856": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data templates of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 1171,
+        "length": 2062,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data United States Marine Corps/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 856,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1171,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = United States Marine Corps\n| shortname alias = U.S. Marine Corps\n| flag alias = Flag of the United States Marine Corps.svg\n| flag alias-1798 = StarSpangledBannerFlag.svg\n| flag alias-1818 = US flag 20 stars.svg\n| flag alias-1819 = US flag 21 stars.svg\n| flag alias-1820 = US flag 23 stars.svg\n| flag alias-1822 = US flag 24 stars.svg\n| flag alias-1836 = US flag 25 stars.svg\n| flag alias-1837 = US flag 26 stars.svg\n| flag alias-1845 = US flag 27 stars.svg\n| flag alias-1846 = US flag 28 stars.svg\n| flag alias-1847 = US flag 29 stars.svg\n| flag alias-1848 = US flag 30 stars.svg\n| flag alias-1851 = US flag 31 stars.svg\n| flag alias-1858 = US flag 32 stars.svg\n| flag alias-1859 = US flag 33 stars.svg\n| flag alias-1861 = US flag 34 stars.svg\n| flag alias-1863 = US flag 35 stars.svg\n| flag alias-1865 = US flag 36 stars.svg\n| flag alias-1867 = US flag 37 stars.svg\n| flag alias-1877 = US flag 38 stars.svg\n| flag alias-1890 = US flag 43 stars.svg\n| flag alias-1891 = US flag 44 stars.svg\n| flag alias-1896 = US flag 45 stars.svg\n| flag alias-1908 = US flag 46 stars.svg\n| flag alias-1912 = US flag 48 stars.svg\n| flag alias-1914 = Flag of the United States Marine Corps (1914-1939).png\n| flag alias-1939 = Flag of the United States Marine Corps.svg\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n<noinclude>\n| var1 = 1798\n| var2 = 1818   \n| var3 = 1819  \n| var4 = 1820   \n| var5 = 1822   \n| var6 = 1836   \n| var7 = 1837  \n| var8 = 1845  \n| var9 = 1846   \n| var10 = 1847   \n| var11 = 1848  \n| var12 = 1851  \n| var13 = 1858  \n| var14 = 1859  \n| var15 = 1861  \n| var16 = 1863   \n| var17 = 1865 \n| var18 = 1867  \n| var19 = 1877 \n| var20 = 1890  \n| var21 = 1891   \n| var22 = 1896   \n| var23 = 1908   \n| var24 = 1912 \n| var25 = 1914 \n| var26 = 1939\n</noinclude>\n| related1 = United States\n| related2 = United States Air Force\n| related3 = United States Army\n| related4 = United States Coast Guard\n| related5 = United States Navy\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T16:06:43Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data United States Marine Corps/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation subpage"
+          }
+        ],
+        "title": "Template:Country data United States Marine Corps",
+        "touched": "2015-09-01T16:07:38Z"
+      },
+      "857": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation pages"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Edit-copy green.svg"
+          }
+        ],
+        "lastrevid": 1172,
+        "length": 182,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data United States Marine Corps"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 857,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1172,
+            "slots": {
+              "main": {
+                "*": "{{Documentation subpage}}\n<includeonly><!-- CATEGORIES HERE, THANKS -->\n[[Category:Country data templates of the United States|Marine Corps, United States of America]]\n</includeonly>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T16:07:20Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation subpage"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Namespace detect"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox/core"
+          }
+        ],
+        "title": "Template:Country data United States Marine Corps/doc",
+        "touched": "2015-09-01T16:07:20Z"
+      },
+      "858": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1173,
+        "length": 2351,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data United States Coast Guard/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 858,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1173,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = United States Coast Guard\n| shortname alias = U.S. Coast Guard\n| flag alias = Flag of the United States Coast Guard.svg\n| flag alias-1790 = US flag 13 stars – Betsy Ross.svg\n| flag alias-1795 = StarSpangledBannerFlag.svg\n| flag alias-1818 = US flag 20 stars.svg\n| flag alias-1819 = US flag 21 stars.svg\n| flag alias-1820 = US flag 23 stars.svg\n| flag alias-1822 = US flag 24 stars.svg\n| flag alias-1836 = US flag 25 stars.svg\n| flag alias-1837 = US flag 26 stars.svg\n| flag alias-1845 = US flag 27 stars.svg\n| flag alias-1846 = US flag 28 stars.svg\n| flag alias-1847 = US flag 29 stars.svg\n| flag alias-1848 = US flag 30 stars.svg\n| flag alias-1851 = US flag 31 stars.svg\n| flag alias-1858 = US flag 32 stars.svg\n| flag alias-1859 = US flag 33 stars.svg\n| flag alias-1861 = US flag 34 stars.svg\n| flag alias-1863 = US flag 35 stars.svg\n| flag alias-1865 = US flag 36 stars.svg\n| flag alias-1867 = US flag 37 stars.svg\n| flag alias-1877 = US flag 38 stars.svg\n| flag alias-1890 = US flag 43 stars.svg\n| flag alias-1891 = US flag 44 stars.svg\n| flag alias-1896 = US flag 45 stars.svg\n| flag alias-1908 = US flag 46 stars.svg\n| flag alias-1912 = US flag 48 stars.svg\n| flag alias-1915 = Ensign of the United States Coast Guard (1915-1953).png\n| flag alias-1953 = Ensign of the United States Coast Guard.svg\n| flag alias-1959 = US flag 49 stars.svg\n| flag alias-1960 = Flag of the United States (Pantone).svg\n| flag alias-1964 = Flag of the United States Coast Guard.svg\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n<noinclude>\n| var1 = 1790\n| var2 = 1795   \n| var3 = 1818   \n| var4 = 1819  \n| var5 = 1820   \n| var6 = 1822   \n| var7 = 1836   \n| var8 = 1837  \n| var9 = 1845  \n| var10 = 1846   \n| var11 = 1847   \n| var12 = 1848  \n| var13 = 1851  \n| var14 = 1858  \n| var15 = 1859  \n| var16 = 1861  \n| var17 = 1863   \n| var18 = 1865  \n| var19 = 1867 \n| var20 = 1877  \n| var21 = 1890   \n| var22 = 1891   \n| var23 = 1896   \n| var24 = 1908  \n| var25 = 1912  \n| var26 = 1915\n| var27 = 1953  \n| var28 = 1959  \n| var29 = 1960  \n| var30 = 1964\n| related1 = United States\n| related2 = United States Air Force\n| related3 = United States Army\n| related4 = United States Marine Corps\n| related5 = United States Navy\n</noinclude>\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T16:08:59Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data United States Coast Guard/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data United States Coast Guard",
+        "touched": "2015-09-01T16:08:59Z"
+      },
+      "859": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1174,
+        "length": 2023,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data United States Army/doc/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 859,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1174,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = United States Army\n| shortname alias = U.S. Army\n| flag alias = Flag of the United States Army.svg\n| flag alias-1784 = US flag 13 stars – Betsy Ross.svg\n| flag alias-1795 = StarSpangledBannerFlag.svg\n| flag alias-1818 = US flag 20 stars.svg\n| flag alias-1819 = US flag 21 stars.svg\n| flag alias-1820 = US flag 23 stars.svg\n| flag alias-1822 = US flag 24 stars.svg\n| flag alias-1836 = US flag 25 stars.svg\n| flag alias-1837 = US flag 26 stars.svg\n| flag alias-1845 = US flag 27 stars.svg\n| flag alias-1846 = US flag 28 stars.svg\n| flag alias-1847 = US flag 29 stars.svg\n| flag alias-1848 = US flag 30 stars.svg\n| flag alias-1851 = US flag 31 stars.svg\n| flag alias-1858 = US flag 32 stars.svg\n| flag alias-1859 = US flag 33 stars.svg\n| flag alias-1861 = US flag 34 stars.svg\n| flag alias-1863 = US flag 35 stars.svg\n| flag alias-1865 = US flag 36 stars.svg\n| flag alias-1867 = US flag 37 stars.svg\n| flag alias-1877 = US flag 38 stars.svg\n| flag alias-1890 = US flag 43 stars.svg\n| flag alias-1891 = US flag 44 stars.svg\n| flag alias-1896 = US flag 45 stars.svg\n| flag alias-1908 = US flag 46 stars.svg\n| flag alias-1912 = US flag 48 stars.svg\n| flag alias-1956 = Flag of the United States Army.svg\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n<noinclude>\n| var1 = 1784\n| var2 = 1795   \n| var3 = 1818   \n| var4 = 1819  \n| var5 = 1820   \n| var6 = 1822   \n| var7 = 1836   \n| var8 = 1837  \n| var9 = 1845  \n| var10 = 1846   \n| var11 = 1847   \n| var12 = 1848  \n| var13 = 1851  \n| var14 = 1858  \n| var15 = 1859  \n| var16 = 1861  \n| var17 = 1863   \n| var18 = 1865  \n| var19 = 1867 \n| var20 = 1877  \n| var21 = 1890   \n| var22 = 1891   \n| var23 = 1896   \n| var24 = 1908  \n| var25 = 1912  \n| var26 = 1956\n| related1 = United States\n| related2 = United States Air Force\n| related3 = United States Coast Guard\n| related4 = United States Marine Corps\n| related5 = United States Navy\n</noinclude>\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T16:09:19Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data United States Army/doc/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data United States Army/doc",
+        "touched": "2015-09-01T16:09:19Z"
+      },
+      "860": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3302,
+        "length": 19,
+        "ns": 6,
+        "pageid": 860,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1175,
+            "revid": 3302,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-15T04:19:21Z"
+          }
+        ],
+        "title": "File:Flag of the United States Army.svg",
+        "touched": "2017-09-30T21:57:10Z"
+      },
+      "861": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3303,
+        "length": 19,
+        "ns": 6,
+        "pageid": 861,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1176,
+            "revid": 3303,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-15T04:19:32Z"
+          }
+        ],
+        "title": "File:Flag of the United States Coast Guard.svg",
+        "touched": "2017-09-30T21:57:10Z"
+      },
+      "862": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3304,
+        "length": 19,
+        "ns": 6,
+        "pageid": 862,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1177,
+            "revid": 3304,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-15T04:19:50Z"
+          }
+        ],
+        "title": "File:Flag of the United States Marine Corps.svg",
+        "touched": "2017-09-30T21:57:10Z"
+      },
+      "863": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3305,
+        "length": 19,
+        "ns": 6,
+        "pageid": 863,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 1178,
+            "revid": 3305,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-15T04:20:02Z"
+          }
+        ],
+        "title": "File:Flag of the United States Navy.svg",
+        "touched": "2018-06-16T00:04:25Z"
+      },
+      "864": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with broken file links"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Template documentation pages"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Edit-copy green.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag placeholder.svg"
+          }
+        ],
+        "lastrevid": 1179,
+        "length": 823,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Western Sahara"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Noflag"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 864,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1179,
+            "slots": {
+              "main": {
+                "*": "{{documentation subpage}}\n\nThis template is transcluded if a flag template is used without the first parameter, or with an empty first parameter. It can be used to place an \"invisible\" flag icon, as an alternative to using {{tl|noflag}} (which adds a {{tag|span|open}} tag with padding at the size of a flag icon), if one item in a list of items with flags shouldn't have a flag icon. For example:\n* {{flagicon|}} [[Western Sahara]] (<tt><nowiki>{{flagicon|}} [[Western Sahara]]</nowiki></tt>)\nwhich looks the same as\n* {{noflag|[[Western Sahara]]}} (<tt><nowiki>{{noflag|[[Western Sahara]]}}</nowiki></tt>)\n\nFor further instructions, please see: [[Wikipedia:WikiProject Flag Template|WikiProject Flag Template]].\n\n<includeonly>\n[[Category:All country data templates| ]]\n[[Category:Country data templates| ]]\n</includeonly>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-09-01T16:15:22Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation subpage"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Namespace detect"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Noflag"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tag"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl"
+          }
+        ],
+        "title": "Template:Country data/doc",
+        "touched": "2018-09-17T06:36:18Z"
+      }
+    }
+  }
+}

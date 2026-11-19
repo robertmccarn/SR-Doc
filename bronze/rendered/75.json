@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "*": "Navigational_boxes_without_horizontal_lists",
+      "missing": "",
+      "sortkey": ""
+    },
+    {
+      "*": "Templates",
+      "sortkey": "Navbox"
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <a href=\"/wiki/Template:Navbox/doc\" title=\"Template:Navbox/doc\">Template:Navbox/doc</a> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<dl><dt>Description</dt>\n<dd>This template is used to create a basic navigation box.</dd>\n<dt>Syntax</dt>\n<dd>Type <code>{{<strong class=\"mw-selflink selflink\">navbox</strong>&#124;<font color=\"gray\"><i>&lt;...&gt;</i></font>}}</code> somewhere, with parameters as shown below.</dd>\n<dt>Sample output</dt></dl>\n<pre>{{navbox\n|header=Land of Bob\n|body=This [[place]] and that [[place]].\n}}</pre>\n<p>Results in...\n</p>\n<table class=\"navbox\" style=\"border-spacing:0\"><tbody><tr><td style=\"padding:2px\"><table class=\"nowraplinks navbox-inner\" style=\"border-spacing:0;background:transparent;color:inherit\"></table></td></tr></tbody></table></div>\n\n<!-- \nNewPP limit report\nCached time: 20261119205359\nCache expiry: 2592000\nReduced expiry: false\nComplications: [vary‐revision‐sha1]\nCPU time usage: 0.027 seconds\nReal time usage: 0.036 seconds\nPreprocessor visited node count: 203/1000000\nPost‐expand include size: 2378/2097152 bytes\nTemplate argument size: 78/2097152 bytes\nHighest expansion depth: 8/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 87/5000000 bytes\nLua time usage: 0.005/7.000 seconds\nLua memory usage: 639715/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   27.827      1 Template:Documentation\n100.00%   27.827      1 -total\n 93.29%   25.960      1 Template:Navbox/doc\n 69.76%   19.413      1 Template:Navbox\n 14.90%    4.146      1 Template:T\n  7.35%    2.044     20 Template:T/piece\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:75-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205359 and revision id 849. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Navbox/doc",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    }
+  ],
+  "page_id": 75,
+  "revision_id": 849,
+  "title": "Template:Navbox"
+}

@@ -1,0 +1,42 @@
+<includeonly>{{Helpbox
+| name = WikiProject Infoboxes sidebar
+| class = plainlist collapsible {{#ifeq:{{{1|}}}|collapsed |collapsed}}
+| float = {{{float|right}}}
+| titlestyle = font-size:100%;padding:0.5em;
+| title = {{resize|130%|[[Wikipedia:WikiProject Infoboxes|WikiProject Infoboxes]]}}<!--(resized here otherwise [show/hide] link also resized)-->
+| headingstyle = font-size:105%;
+
+| list1 = {{raise|0.25em|[[Wikipedia:List of infoboxes|List of infoboxes]]}}
+
+| group2 = Style and help
+| list2 =
+*[[Wikipedia:Manual of Style/Infoboxes|Manual of Style/Infoboxes]]
+*[[Help:Infobox]]
+
+| group3 = Cleanup
+| list3 =
+ {{Sidebar |bodystyle={{subsidebar bodystyle}} |navbar=off
+  | heading1 = Talk page
+  | content1 =
+*{{tl|Cleanup-infobox}}
+*{{tl|New infobox}}
+*{{tl|Infobox requested}}
+  | heading2 = Article
+  | content2 =
+*{{tl|Missing-taxobox}}
+ }}
+
+| group4 = Building
+| list4 =
+*{{tl|Infobox}}
+*[[Wikipedia:List of infoboxes/Proposed|List of infoboxes/Proposed]]
+
+| group5 = To do 
+| list5 =
+* [[:Category:Wikipedia articles with an infobox request|Add infobox]]
+* [[:Category:Pages needing an infobox conversion|Change template used]]
+* [[:Category:Wikipedia infobox cleanup|Cleanup contents]]
+* [[:Category:Templates suitable for conversion to use Template:Infobox|Convert to use <nowiki>{{</nowiki>Infobox}}]]
+}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>

@@ -1,0 +1,38 @@
+{{Infobox election
+|election_name = United States presidential election, 2140
+|country = United States
+|type = presidential
+|ongoing = no
+| flag_year = 2132
+|previous_election = United States presidential election, 2136
+|previous_year = 2136
+|next_election = United States presidential election, 2144
+|next_year = 2144
+|election_date = November 8, 2140
+| votes_for_election         = All eligible voters who turned out
+| needed_votes               = 51% of votes
+| turnout                    = 80.7%
+|image1 = [[File:Blank_Woman.png|121px|border]]
+|nominee1 = '''[[Cora Fabian]]'''
+|party1 = Union Party
+|home_state1 = [[Earth|Oklahoma]]
+|running_mate1 = '''Mika Sakahki'''
+|office = Vice President
+|popular_vote1 = '''1,453,101,034'''
+|percentage1 = '''53.1%'''
+|title = President
+| image2 = [[File:Blank_Woman.png|121px|border]]
+| nominee2 = Syng Anderson
+| party2 = Conservative
+| home_state2 = [[Earth|England]]
+| running_mate2 = Ian Binshaieg
+| popular_vote2 = 1,217,314,803
+| percentage2 = 44.4%
+|before_election = [[Lionel Halvidar]]
+|before_party = Union
+| after_election = [[Cora Fabian]]
+| after_party = Union
+}}
+
+The '''United States presidential election of 2140''' was the 89th quadrennial presidential election. Vice President [[Cora Fabian]] won the election. 
+[[Category:United States Presidential Elections]]

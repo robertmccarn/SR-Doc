@@ -1,0 +1,3006 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "1666": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4010,
+        "length": 45,
+        "ns": 0,
+        "pageid": 1666,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 4009,
+            "revid": 4010,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Least-concern species]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-08T15:18:59Z"
+          }
+        ],
+        "title": "Least Concern",
+        "touched": "2017-06-08T15:18:59Z"
+      },
+      "1667": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Associated states"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Planets"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 10969,
+        "length": 1019,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Associated state"
+          },
+          {
+            "ns": 0,
+            "title": "Demographics of Tel-ma"
+          },
+          {
+            "ns": 0,
+            "title": "ISO 4217"
+          },
+          {
+            "ns": 0,
+            "title": "Politics of Tel-ma"
+          },
+          {
+            "ns": 0,
+            "title": "Tel-bn"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1667,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10967,
+            "revid": 10969,
+            "slots": {
+              "main": {
+                "*": "{{Infobox country\n|conventional_long_name = United Nations of Tel-ma\n|national_motto = \n|national_anthem = \n|capital = New Voc Shi\n|largest_city = New Voc Shi\n|languages = \n|languages_type = Official languages\n|government_type = Federal presidential constitutional republic\n|leader_title1 = President\n|leader_name1 = \n|legislature = Global Parliament \n|upper_house = General Assembly\n|lower_house = Planetary Senate \n|sovereignty_type = [[Associated state]]\n|established_event1 = \n|established_date1 =\n|area_rank = \n|area_sq_mi = \n|population_estimate = 23,971\n|population_estimate_year = 2160\n|population_estimate_rank = \n|currency = United States Dollar ($)\n|currency_code = USD\n|image_flag =\n|image_coat =\n|leader_title2 = Vice President\n|leader_name2 = \n}}\n\n'''Tel-ma,''' a.k.a. '''Kepler 22a''', is a planet located in the Kepler 22 system and the home planet of the [[Tel-bn]]. Tel-ma is an independent sovereign planet and a United States [[Associated state]].\n[[Category:Planets]]\n[[Category:Associated states]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2022-12-09T19:48:40Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox country"
+          }
+        ],
+        "title": "Tel-ma",
+        "touched": "2022-12-09T19:48:40Z"
+      },
+      "1668": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Planets"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11137,
+        "length": 1082,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Moraks"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1668,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11092,
+            "revid": 11137,
+            "slots": {
+              "main": {
+                "*": "'''Tu''' (''Beta Hydri d''), is the home planet of the [[Moraks]].\n\nTu features only two continents, the larger being Kolsaviv, stretching from the near planet's South Pole to just north of the temperate zone. The lesser continental mass, Koltumiv is roughly the size of Australia, and is only slightly larger than the planet's four large islands which are often debated as to their status. \n\nKolsaviv features an equatorial mountain range that stretches into the continent's southwest, forming two distinct plateaus. A lesser mountain range near the northern Savivian Sea forms a natural temperate zone in the Planet's northern hemisphere with calm waters that facilitate trade among the Savivian kingdoms. The continent also features an equatorial peninsula with Mediterranean climate separated from the Kolsaviv Steppe which is defined by wide grasslands, punctuated by a large depression that forms the planet's largest desert. The cointent's Northwest features wide bands of temperate forests while its southern peninsula features a subtropical rainforest.\n[[Category:Planets]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-03-05T16:38:21Z"
+          }
+        ],
+        "title": "Tu",
+        "touched": "2023-03-05T16:38:21Z"
+      },
+      "1669": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4021,
+        "length": 74,
+        "new": "",
+        "ns": 1,
+        "pageid": 1669,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4021,
+            "slots": {
+              "main": {
+                "*": "Work needs to be done on the text. At least in time for the 2018 midterms.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-09T01:32:45Z"
+          }
+        ],
+        "title": "Talk:Twenty-ninth Amendment to the United States Constitution/@comment-24.165.26.87-20170609013245",
+        "touched": "2017-06-09T01:32:45Z"
+      },
+      "1670": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century economic history"
+          },
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Freelance Jobs US 1990 2040.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Global Population Growth.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US GDP 1990 2040.png"
+          }
+        ],
+        "lastrevid": 11160,
+        "length": 16036,
+        "links": [
+          {
+            "ns": 0,
+            "title": "21st Century"
+          },
+          {
+            "ns": 0,
+            "title": "Early 2020s Recession"
+          },
+          {
+            "ns": 0,
+            "title": "Great Famine"
+          },
+          {
+            "ns": 0,
+            "title": "List of recessions in the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Market Crash of 2027"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Revolutions of 2027"
+          },
+          {
+            "ns": 0,
+            "title": "Seventh Party System"
+          },
+          {
+            "ns": 0,
+            "title": "Space Age"
+          },
+          {
+            "ns": 0,
+            "title": "Terran diaspora"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Timeline of major events"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1670,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11159,
+            "revid": 11160,
+            "slots": {
+              "main": {
+                "*": "{{Periods in US history}}The '''Great Reset''' was a period of global economic, political, and social upheaval lasting throughout most of the 2010s and 2020s. The period was defined by civil unrest and conflict over the social order in most countries, resurgent nationalism and the collapse of international systems, and global economic stagnation marked by rampant income inequality.\n\nWhile the exact beginning of the Great Reset remains debated by historians and economists, there is acceptance that the period was underway by the onset of the Global Financial Crisis and Great Recession in 2008. Some mark the September 11th attacks on the World Trade Center as the beginning of the transitional era between the Reagan Era and the Great Reset. There is definitive consensus that the Great Reset's end came with the [[Revolutions of 2027]] globally, and with the dawning of the [[Seventh Party System]] in the US.\n\n==Features==\n==='''Economic malaise'''===\n[[File:US_GDP_1990_2040.png|thumb|250px|USA annual real GDP from 1990 to 2040, with recession periods highlighted.\n]]\nMost economists agree that the Great Recession was the initiating event for the economic conditions of the Great Reset, however some economic historians argue that the [[Early 2020s Recession]] should be seen as the beginning of the Great Reset. In either case, the global economy of the 2010s was marked by disruptive recessions and atypically slow recoveries with extreme income inequality. The conditions for the Great Reset stemmed from the Great Recession, globalization, and the retirement of the Baby Boomer Generation. Efforts to reduce trade barriers made it easier for corporations to export manufacturing to cheaper foreign labor markets, leading to a decline in traditional domestic manufacturing jobs that was ultimately concluded with the Great Recession. Rising wages in developing nations did not lead to a return in traditional manufacturing as companies simply retooled for cheaper automated processes. All of these trends disproportionately impacted the lower middle classes, and prior to the Early 2020s Recession, older working class men suffered the most. Prior to the Early 2020s Recession, the bottom 47% of Americans could not afford their homes, leading to economic anxiety and the rise of right wing nationalism. Additionally, the drop off in economic activity following the recession and the retirement of the baby boomers resulted in a steady increase in the Personal Savings Rate, and a decline in effective demand, effectively signalling the end of \"supply side economics.\"\n\n===='''Wealth Inequality'''====\nThe unequal distribution of wealth remained high during this period, having grown to the highest levels since the Great Depression. The wealthiest 10% of US earners accounted for 49 percent of the nation's total income, while the top 1% accounted for 20% of total income. Wealth inequality had been steadily increasing from the 1980s to the [[List of recessions in the United States|Great Recession]], however after the financial crisis of 2007–2008, the problem was exacerbated, due in part to government policy at the time favoring bailouts of financial institutions over public works programs and economic nationalization. As a result by the Bear Market cycle of 2018-2019, median household wealth remained 40% lower for lower income families, and 33% lower for middle-income families than before the Great Recession; while upper income families saw a 10% growth in household wealth. From 2007 to 2015, middle income households had fallen from 61% to 50%. After the Late 2010s Recession, it had fallen again to 40%. These conditions were made worse by the fact that the cost of a home in 2015 was roughly four times a median income family's average annual income, and nearly two-thirds their annual income to buy a car. By 2020, 70% of American households were duel income, compared to in 1959 when almost all homes were single income, and a median income family could afford a house with roughly double their average annual income.\n\n===='''Automation and the \"Gig Economy\"'''====\n[[File:Freelance_Jobs_US_1990_2040.png|thumb|250px|The size of the Freelance workforce in the U.S. during 1990–2040, with recession periods highlighted.]]\nArguably the most significant economic trend of the Great Reset was the rise of automation and the explosion in the size of the US Freelance workforce, known colloquially as the \"Gig Economy.\" While seen in popular media as a positive trend, the gig economy's rise was largely used by startups and major corporations as a means of eliminating the need to pay for worker healthcare and pensions. By 2017, 35% of the US workforce were considered some form of Freelancer, either as a full time or secondary job, and the majority of these workers were over the age of 50.\n\nAfter the Early 2020s Recession, these conditions extended to younger workers as the retail sector of the US economy collapsed due to declining disposable income among older consumers who were forced to absorb the bulk of their health and retirement costs. New automated management software made it even easier for corporations to effectively outsource the majority of their workforce, and by 2021 a majority of the US workforce were considered Freelancers in at least some capacity.\n\nAutomation in management allowed wealth concentrated at the coastal regions to contract even further, leading to further declines in effective demand, and greater anxiety and outrage among the workforce. Despite this, the unemployment rate in the US continued to decline as older generations retired and former retail workers either filled their jobs, or moved into freelance work. The cause of the Great Reset was not lack of wages from unemployment, but a contraction in effective demand as the primary consumers of large portions of the economy became retirees and were forced to reduce their expenses toward consumer goods in favor of filling the gap left by the destruction of pensions. In short, as labor became more expensive, money became cheaper and had less buying power, and workers were left shouldering the bulk of their healthcare and retirement expenses.\n\n===='''Labor shortage'''====\n[[File:Global_Population_Growth.png|thumb|250px|Global population growth 1950-2040]]\nFor 500 years labor was always in surplus and as a result capital was expensive, but the Great Reset saw this paradigm flip to where labor became more expensive than capital for the first time in the history of industrial capitalism. The retirement of the baby boomers shifted a greater percentage of the workforce toward elderly care and healthcare services, leaving fierce competition for workers in the service and tech sectors of the economy. Automation played a greater role in reducing the demand for humans in services, but all these automated systems led to a greater demand for IT workers, but did little to impact the demand for healthcare workers in the aging population. Companies were able to pay their employees higher wages than at any time in US history, and many advocated for universal basic income (UBI) or increased minimum wage to reduce competition for labor across the country, when in truth the far greater expense would be to simply cover the cost of healthcare for their workforce. The adoption of automation and labor saving technologies ultimately did not close the productivity gap, and outsourcing to the Indian Ocean basin was hotly opposed by nationalist wings of the Democratic and Republican parties.\n\n==='''Resurgent Nationalism'''===\nThe chief political argument of this era was between established Neo-Liberals or \"Globalists\" and new Nationalists wings of major parties. Neo-Liberalism had been the primary force behind the push for global free trade policies and economic deregulation, exemplified by thinkers like Milton Friedman and Alan Greenspan. Nationalism was seen by neo-liberals as a disruptive and dangerous force, largely dominated by figures like Donald Trump, Viktor Orbán, Marine Le Pen, and Jair Bolsonaro. Nationalism dimmed somewhat as a mainstream political coalition during the early 2020s recession which saw a resurgence of center-left neo-liberal governments. Neo-liberal led left-wing parties maintained a tenuous alliance with economic nationalist wings until the middle of the decade when a combination of increasingly bleak economic conditions and the impact of climate change saw progressive nationalists coalitions break off and form new parties on the left.\n\nMany nationalists who voted with the right wing in the 2010s had actually joined these movements, despite their origins as a Red-Red-Green alliance.\n\n===='''Race-Based Violence'''====\nThis period saw a resurgence in violence directed against minority groups in countries with a predominantly white population. The primary drivers for this violence was the belief in the Great Replacement Theory, which claims that Jewish people are secretly planning on replacing the White race through low birth rates, anti-Whiteism, race-mixing, encouraging non-white immigration to reduce the proportion of white population and the Brazilification of Western nations, all in an effort to replace Whites, their culture, influence, and values. \n\nThis sentiment reached a tipping point during the flood, where proponents believed that the Flood was a planned event or being used as an excuse to accept a massive amount of climate refugees. This hostility was further extended toward women and non-heteronormative groups. Anti-semetic groups also grew in power during this period as right-wing nationalists devolved into outright neo-Nazi and racist groups.\n\nRace-based tensions in the United States came to a head during the 2010s. In 2014, following the shooting of Michael Brown, the Ferguson unrest took place. Accusations of racism or racial bias by the American social and justice systems had fueled widespread protests (and occasionally riots), mainly by African-Americans, in many parts of the country. Later on, racially-fueled shooting of Caucasian police by armed African-Americans had alternatively gave provoked increased counter-protests. Race relations deteriorated and racial violence wasn't seen as this high since the Civil Rights Movement. Caucasian groups in the United States, who were growing tired of increasing accusations of racism against whites was a main factor that gave rise to white supremacy.In 2020 the police killings of George Floyd and others gave rise to renewed unrest.\n\nAnti-Chinese sentiment gained prominence in the 2010s, especially in Northern America, which was due to increased competition for influence globally as China's status as an emerging superpower threatened the unipolar world order created by the United States following the end of the Cold War. With increased tensions between China and the American bloc in East Asia, Anti-Chinese attitudes also fueled racism against Chinese people. Following the COVID-19 pandemic, xenophobia and Anti-Chinese sentiment gained further prominence worldwide as China was perceived to have failed to contain the spread of the virus within their borders by countries within the Anglosphere. This caused several incidents in which people of Chinese ancestry were targeted.\n\nSeveral targeted persecutions and genocides were also organized in this period. Indigenous women in Canda and the United States would continue to experience a disproportional amount of violence committed by criminal actors throughout this period as they had since the 1980s. In Sudan, the government conducted mass killings of the Dafuri people in order to maintain the oppression of non-Arabs since the beginning of the genocide in 2003. In 2009, the targeting of the Tamils in Sri Lanka finally came to and end with the government claiming victory over the Liberation Tigers of Eastern Tamil with the end of the decades long civil war in 2009. In 2014, the Chinese government began to exterminate Uyghurs in order to conduct the sinicization of the region of Xinjiang both ethnically and culturally by establishing re-education camps, suppressing Islam in the region, and forcefully sterilizing the population. During the events which allowed for the rise of the Islamic State, one of the group's many targets would be the Yazidi population of Sinjar, causing their flight from Iraqi Kurdistan. Myanmar began a persecution of the Muslim Rohingya people in 2017, involving genocide and ethnic cleansing, and also sparking a refugee crisis.\n\n===='''End of Agrarianism'''====\nThe economic conditions of the great reset emerged in parallel to several major social trends that placed additional stresses on the social order. Worldwide, birthrates were falling and female participation in the workforce was rising, and in the developed world had been equal to that of men for a generation. These trends signaled a breakdown in traditional family structures that had been in place for much of human history and caused a confrontation between traditionalists and progressives as to the future of national identities.\n\nThe early [[21st Century]] had been defined by a growing divide on \"social issues,\" such as Same-Sex Marriage, Gender Equality, and Religious Acceptance. Partisanship continued to grow in the Western political world following a rise of populism. By 2010, the United States struck down regressive bans on marriage and public service that targeted queer individuals. These social reforms, while popular, ran into extreme opposition from religious communities. Internationally, similar efforts to give women greater economic access led to social upheaval and even violence in developing nations.\n\nThe general consensus among historians is that the social unrest experienced during this period can be attributed to the breakdown of social norms that had been in place from when humans first developed agrarian societies. The economic conditions of the Great Reset beget an acceleration in the erosion of the economic drivers behind an agrarian social order that valued patriarchal family units with large numbers of children. The decline in manual labor jobs disproportionately impacted older men, and the decline in buying power that disproportionately impacted younger people reduced the availability in disposable capital that was often used to support a family.\n\n==Turning Point==\nSocial unrest boiled over during the [[Revolutions of 2027]]. The environmental catastrophe of [[The Flood]] resulted in the sluggish economic conditions and social unrest of the period being exacerbated. The reduced buying power of the workforce contributed to [[Great Famine|food shortages and even famine]], while labor needs could not be met to aid in the rebuilding effort in the damaged cities on the East Coast of the United States. Alt-Right and Alt-Left groups rose to prominence once more and became increasingly belligerent during this period, and the risk of domestic terrorism grew to a level that surpassed the social upheaval of the 1960s.\n\nThe Great Reset came to an end during the Ocasio-Cortez administration's reforms to the US economy following the [[Market Crash of 2027]]. US monetary and financial policy was restructured, and labor markets reformed to encourage immigration. As the broader economic trends were normalized, with a combination of government reforms and a restructuring of the social contract, cheap money and a premium on labor radically shifted the distribution of wealth. Additionally, the crash in the Housing market led to the price of land falling further increasing individual buying power. Per Capita GDP increased dramatically as a result.\n\nThe most important change of the Great Reset was that where for the past 500 years bankers and financiers were most favored for amassing personal wealth, in a labor-scarce society having pools of labor to broker became the means to great wealth. This gave rise to the labor brokers and human capital management firms.\n[[Category:21st Century]]\n[[Category:21st-century economic history]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-03-14T02:01:18Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Aligned table"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Periods in US history"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Aligned table"
+          }
+        ],
+        "title": "Great Reset",
+        "touched": "2025-10-04T16:51:10Z"
+      },
+      "1671": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:22nd-century conflicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:22nd Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mars"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4037,
+        "length": 175,
+        "ns": 0,
+        "pageid": 1671,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4035,
+            "revid": 4037,
+            "slots": {
+              "main": {
+                "*": "The Bradbury Riots are an incident in which a group of people on Mars rioted for more freedoms.\n[[Category:22nd-century conflicts]]\n[[Category:22nd Century]]\n[[Category:Mars]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-09T22:01:32Z"
+          }
+        ],
+        "title": "Bradbury Riots",
+        "touched": "2017-06-09T22:01:33Z"
+      },
+      "1672": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Balkanization Era"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican-American Cold War"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6805,
+        "length": 1378,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Guardiola Incident"
+          },
+          {
+            "ns": 0,
+            "title": "Intermarium"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1672,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6720,
+            "revid": 6805,
+            "slots": {
+              "main": {
+                "*": "The '''Balkanization Era''' was a period of political instability in the Eastern Hemisphere following the [[Guardiola Incident]]. The exact starting date for the era is often debated due to the [[Mexican-American Cold War]] occuring co-existently, however, many do consider the collapse of the Mediterranian Union to be the initial date of the period, while other historians claim that the Balkanization Era is a part of the Mexican-American Cold War. \n\nThe largest region the Balkanization Era affected was Europe, as civil unrest would turn into successionist movements and civil wars. The lack of direct trade relations between the former members of the MU would cause the United States and Mexico to come and aid the former states as a means of attempting to return to the original trade relations. \n\nOne of the largest outcomes during and after the Balkanization Era was the establishment of the [[Intermarium]], which was started by Poland as a means of securing regional stability in Eastern Europe that could do better in terms of stability than the pre-existing Visegrad Group had done over the last few decades. Many historians would never expect that the Intermarium would end up playing a key role as a military alliance in the largest war of the 22nd century, the [[Third Mexican-American War]].\n[[Category:Balkanization Era]]\n[[Category:Mexican-American Cold War]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-03T23:13:12Z"
+          }
+        ],
+        "title": "The Balkanization Era",
+        "touched": "2017-12-03T23:13:12Z"
+      },
+      "1674": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:African flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of Associated states"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6013,
+        "length": 86,
+        "ns": 6,
+        "pageid": 1674,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4044,
+            "revid": 6013,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:African flags]]\n[[Category:Flags]]\n[[Category:Flags of Associated states]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:22:50Z"
+          }
+        ],
+        "title": "File:African Commonwealth Flag.png",
+        "touched": "2017-12-10T16:52:05Z"
+      },
+      "1675": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4045,
+        "length": 308,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data African Commonwealth/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1675,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4045,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = African Commonwealth\n| flag alias = African_Commonwealth_Flag.png\n| alt attribute = Flag of Africa\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-10T15:06:59Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data African Commonwealth/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data African Commonwealth",
+        "touched": "2017-06-10T15:06:59Z"
+      },
+      "1676": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4053,
+        "length": 38,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Timeline of major events"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 1676,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4053,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Timeline of major events]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-10T19:11:18Z"
+          }
+        ],
+        "title": "Timeline",
+        "touched": "2024-12-04T16:13:47Z"
+      },
+      "1677": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5798,
+        "length": 19,
+        "ns": 6,
+        "pageid": 1677,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5638,
+            "revid": 5798,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T15:53:36Z"
+          }
+        ],
+        "title": "File:Arab Flag.png",
+        "touched": "2017-12-10T16:52:05Z"
+      },
+      "1678": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4075,
+        "length": 291,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Arabian Association/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1678,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4075,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Arabian Association\n| flag alias = Arab_Flag.png\n| alt attribute = Flag of Arabia\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-12T02:25:29Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Arabian Association/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Arabian Association",
+        "touched": "2017-06-12T02:25:30Z"
+      },
+      "1679": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4076,
+        "length": 119,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1679,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4076,
+            "slots": {
+              "main": {
+                "*": "Please sign in and create a user name if you're going to add further edits.<ac_metadata title=\"Sign in\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-12T02:29:14Z"
+          }
+        ],
+        "title": "Thread:24.224.66.196/@comment-899576-20170612022914",
+        "touched": "2017-06-12T02:29:15Z"
+      },
+      "1680": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mars"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Timeline"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11637,
+        "length": 9966,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Bradbury"
+          },
+          {
+            "ns": 0,
+            "title": "Bradbury Cooperative"
+          },
+          {
+            "ns": 0,
+            "title": "Mars"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1680,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10485,
+            "revid": 11637,
+            "slots": {
+              "main": {
+                "*": "The '''First Martian Revolution''' a wave of mass political and social unrest that spread through vast areas of [[Mars]], some of which was directed at the Federal government on Earth and the company governments of the Mars Corporation. It included worker strikes, civil unrest, and security mutinies. It led to political reform including the establishment of the Interplanetary Trade Commission.\n\n==Causes==\nWhen the First Mars Revolution Started, it was [[Bradbury]] that acted as the main power broker between the Martians and Adrian Hayer's loose confederacy of colonies that would become the ITC. Prior to the revolution, Bradbury had founded and directly governed the largest network of colonies on the surface of Mars via the [[Bradbury Cooperative]]. As a show of good faith, the ITC set its headquarters in Bradbury. As the billions of new colonists flooded in through the towers at New Richmond, Chamba, New Babylon, Chrysaor, Lucus City, Heavensgate or Midgard, Bradbury's population eventually topped out at 10 million people. A respectably large city, but the state no longer could compete with the sheer size of fertile land in Araby and Magartifer, Tharsis was simply too rocky, too tall, and too arid to support those kinds of projects. But the city remained a crucial trade port, and a center for business and culture. When the MSIF and Maise Luong wanted to start another revolution, they directed their fury at Bradbury, when Earth needed a President to unite the system, they got one from Bradbury.\n\nWhere most of Mars's founding corporations had ceded more and more power to the populace throughout the first half of the 21st Century, the Praxis Group maintained private control of the New Richmond Elevator and the colony itself, leveraging its position as the primary landing site and interplanetary trade port to always be exempt from MarsCorp reforms.\n\n==='''Border closures on Earth'''===\nOn the eve of Mars being opened for large scale human colonization, the space economy stands on the edge of collapse at the threat of the United States government closing its borders. The First Martian Revolution ends with the Rosalind Amendment. Establishing a line of legal separation between the United States on Earth and the space colonies, that essentially makes them semi-autonomous territories. Following the First Martian Revolution, the Mars Corporation official dissolves, and formal territorial governments are established with the Interplanetary Trade Commission serving as an administrative entity.\n\n==='''Representation'''===\nIn 2079 the Delegation of New Richmond submitted a formal petition to Congress calling for New Virginia and any other territory that qualified to be admitted to the Union as a state. \n\n==='''Distribution of resources'''===\nIn March 2077 MarsCorp Chairman Kanzaki, a former CEO of Praxis Group, announced plans to impose planet wide fees on products imported from Earth and travel between the territories. Shortly after the plan was debuted, protests, boycotts, and strikes broke out planet-wide, and Mars seemed poised for Revolution against MarsCorp and more specifically Praxis Group.\n\nFighting between colonists and Praxis security forces broke out whenever a protest was held and assemblies were often broken up by raids. In 2078 members of the Delegation of New Richmond held one of the largest sit-ins in Martian history. 25,000 people surrounded the base of the New Richmond Elevator and stopped all unloading and loading of the most critical supply line for Mars. The Great Sit-In lasted 6 months, thanks to freeze packed food from shipping containers at their disposal, and a wall of people that the security forces could not penetrate. The Praxis Tower at New Richmond handled more trade with Earth and the rest of the Solar System than the other three towers combined, and the loss in operations led to a crash in MarsCorp stock.\n\n==Rise of the Opposition==\n==Start of the revolution==\nThe First Martian Revolution, wasn't really a revolution by any definition known to the politicians on Earth, but to Mars it was the closest they'd ever come to such a change. Mars's first wave colonial population was comprised almost entirely of people who would work to see Mars terraformed over the course of a century, reaching habitability in the late 2070s. That kind of commitment requires a level of patience that isn't seen in most humans, and therefore political change comes more easily as acts of adaptation and compromise. In the 2030s the Mars Corporation changed from a confederacy of semi-autonomous corporate purchase, to a commonwealth of territories under corporate rule. In the 2040s they changed again, as the corporations that founded Mars began using it as a staging point for the outer planets, its citizens ruled themselves more directly. In the 2050s Mars was officially acknowledged as a US Territory and granted a resident commissioner in the US Congress. In the 2060s the non-human rights movement came to Mars, and new questions of liberty began to be asked.\n\nIn the 2070s its citizens began to formally call for full representation in the US Congress. These calls were less for the current citizens, and more for Mars as a whole. When the population cap would be lifted and the billions of new citizens flooded in from Earth, would they be left without representation? As economic activity increased exponentially with the new citizens and the lifting of travel limits, would they be taxed and regulated by a government that did not represent them? For five years these questions went unanswered, and for five years the people of Mars grew restless. Talk of banning all immigration to the United States directly threatened Mars's future, and leave the planet bankrupt. The Mars Corporation, which had been a relatively \"hands off\" entity in the daily lives of Mars's population began meeting to discuss post-Settlement governance of the planet, and just like the US Government, they were content to leave the Martian people out of the conversation. When MarsCorp Chairman Kanzaki announced the plan to impose planet wide fees on products imported from Earth and travel between the territories, Mars finally spoke up. Protests, boycotts, and strikes broke out planet-wide, and Mars seemed poised for revolution against MarsCorp, and potentially the United States on Earth.\n\n==='''MarsCorp response'''===\nIn 2079, on the eve of the next Presidential election, and as MarsCorp's shareholders were reeling from profit losses and the potential loss on their territorial claims, Galileo Development's President, Adrian Hayer proposed a solution. Galileo Development was an offshoot of Lunar Energy Ltd, and while it did not have a direct stake in MarsCorp, it had been shipping Nitrogen down system from Titan to Mars for four decades. Through LE, Galileo agreed to broker a deal with the colonists and Earth, and purchase 35% of MarsCorp's holdings, in exchange for long term trade between the colonies. MarsCorp would be dissolved after its remaining lands were bought by settlers and after reaching out to popular presidential candidates with promises of Helium-3 deliveries from Neptune, Galileo Development was able to deliver a compromise to Mars. When any immigration bill would be brought before Congress, it would stipulate that its policies would not apply to people wishing to relocate to the colonies. These promises quieted the Martians and in 2081 when the borders were closed the Rosalind Amendment was passed with the broader immigration bill, allowing people to immigrate to the United States on Mars, and granting the Martians the right to divide themselves into Territories, just not states. This was enough to satisfy the Martians, and so the First Martian Revolution drew to a close. The seeds of true revolution, however, were planted, and it would be another generation before they would sprout.\n\n==Results==\nMarsCorp's shareholders were reeling from profit losses and the potential loss on their territorial claims, Galileo Development's President, Adrian Hayer proposed a solution. Galileo Development was an offshoot of Lunar Energy Ltd, and while it did not have a direct stake in MarsCorp, it had been shipping Nitrogen down system from Titan to Mars for four decades. Through LE, Galileo agreed to broker a deal with the colonists and Earth, and purchase 35% of MarsCorp's holdings, in exchange for continued trade between the colonies. Praxis agreed, and ceded all claims to New Virginia to the newly created Interplanetary Trade Commission. Praxis would only hold ownership of a financial district in the heart of New Richmond. To prevent any future monopolization of trade, the first order of the ITC was the creation of 12 additional elevators, and improvements to the existing three outside of New Richmond.\n\nThe New Virginia Colony was partitioned in 2085, but the core of the colony around the New Richmond Elevator remained intact. By 2100 New Richmond surpassed every city in the system for size and population; despite its new competition with the other elevators, most colonists still came through New Richmond. The terraforming process left the peninsula in a perfect position for colonists to easily reach the fertile coats of Araby and the farmland stretching from the Chryse Gulf to the Argyre Sea. The wealth of Mars all flowed through New Richmond and New Virginia prospered, so much so that when the Luongists tried to gain a foothold in the colony where the first Revolution had started, they found no support for as Second. New Virginia was comfortable and sought integration over separation. When the first calls for statehood went out in 2134, New Virginia was one of the first to be accepted to join the Union along with 50 other territories across the system. And when the call for colonial reinforcements came down, it was from New Richmond that they ascended to help.\n[[Category:21st Century]]\n[[Category:Mars]]\n[[Category:Timeline]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-09-10T20:27:51Z"
+          }
+        ],
+        "title": "First Martian Revolution",
+        "touched": "2024-09-10T20:32:47Z"
+      },
+      "1681": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:22nd-century conflicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican-American Cold War"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexico"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Third Mexican War"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Aztlan States.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cold War Logo.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Secession 2132.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 81smallstars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:United States of Aztlan.png"
+          }
+        ],
+        "lastrevid": 11295,
+        "length": 9496,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Arthur Yaeger"
+          },
+          {
+            "ns": 0,
+            "title": "Battle of Brazil"
+          },
+          {
+            "ns": 0,
+            "title": "David Castillo"
+          },
+          {
+            "ns": 0,
+            "title": "India Crisis"
+          },
+          {
+            "ns": 0,
+            "title": "Interplanetary Trade Commission"
+          },
+          {
+            "ns": 0,
+            "title": "Latin American Union"
+          },
+          {
+            "ns": 0,
+            "title": "Lionel Halvidar"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Neo-Jeffersonianism"
+          },
+          {
+            "ns": 0,
+            "title": "Oscar Lachman"
+          },
+          {
+            "ns": 0,
+            "title": "Raul Ponce"
+          },
+          {
+            "ns": 0,
+            "title": "Roger Castro"
+          },
+          {
+            "ns": 0,
+            "title": "Sahara War"
+          },
+          {
+            "ns": 0,
+            "title": "Second Depression"
+          },
+          {
+            "ns": 0,
+            "title": "Second Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Second Vietnam War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Chinese Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Timeline of major events"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 0,
+            "title": "United States of Aztlan"
+          },
+          {
+            "ns": 0,
+            "title": "Wend Hayer"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican-American Cold War"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1681,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11291,
+            "revid": 11295,
+            "slots": {
+              "main": {
+                "*": "{{Infobox Military Conflict\n|conflict= Aztlan War\n|partof= [[Third Mexican-American War]]\n|image=[[File:Aztlan_States.png|300px]]\n|caption=Map of the seceding states in 2133.\n|date=February 2, 2133 - 2134\n|place= Southwestern United States, Earth Orbit\n|causes=Secession of Southwestern States \n|territory=\n|result= \n*Fall of Aztlan\n*Start of the [[Third Mexican-American War|Third Mexican War]]\n|combatant1='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n[[File:US_flag_81smallstars.png|20px|border]] [[United States of America|United States]]<br>\n\n|combatant2='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n\n[[File:United_States_of_Aztlan.png|20px|border]] [[United States of Aztlan|Aztlan]]'''\n\n|commander1='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n[[File:US_flag_81smallstars.png|20px|border]] [[Lionel Halvidar]]<br>\n[[File:US_flag_81smallstars.png|20px|border]] [[Wend Hayer]]<br>\n[[File:US_flag_81smallstars.png|20px|border]] [[Arthur Yaeger]]<br>\n\n|commander2='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n[[File:United_States_of_Aztlan.png|20px|border]] [[David Castillo]]<br>\n[[File:United_States_of_Aztlan.png|20px|border]] [[Roger Castro]]<br>\n[[File:United_States_of_Aztlan.png|20px|border]] [[Raul Ponce]]<br>\n|strength1= 485,000\n|strength2= 56,000\n|casualties1= '''Military dead:''' 19,667 <br/>\n'''Civilian dead:''' 18,424<br/>\n'''Total dead:''' 38,091\n|casualties2= '''Military dead:''' 28,780 <br/>\n'''Civilian dead:'''153,100<br/>\n'''Total dead:''' 181,880\n}}\nThe '''Aztlan War,''' also referred to informally as the '''Third American Civil War''', was fought in the United States from 2133 to 2134. After a long standing controversy over regionalism and state's rights, war broke out in February 2 2133, when [[United States of Aztlan|Aztlan Rebels]] attacked Camp Navajo in Arizona, shortly after [[Lionel Halvidar]] was sworn into office. The Union, which proclaimed loyalty to the U.S. Constitution and the federalist system fought against the secessionists of the United States of Aztlan advocating states’ rights to greater autonomy for its largely hispanic citizens and deepening their ties to neighboring Mexico.\n\nWhile the US and Mexico proper did not directly engage on the American homeland, the start of the Second Civil War is generally held as the start-date for the [[Third Mexican-American War]], despite no declaration of war between the US and Mexico having been enacted by either party until the Mexican invasion of the US in December 2134.\n\n==Background==\n{{History of the Mexican-American Cold War}}\n\n==='''Aztlan Autonomous Movement'''===\nWith the mass deportations of the 2080s and the military patrols of their borders that were put in place during the Second Mexican-American War, animosity between the majority Mexican Southwestern States and the rest of the country began to grow and fester during the interwar period. The Dignidad party formed out of this animosity and won majorities in most state governments in the region, and controlling the majority of congressional and senate seats from the Southwest as well. The Party was normally seen as a regionalist party, not advocating secession, rather a degree of separation. A radical offshoot of the party was the Aztlan Autonomous Movement, which did seek to break off from the United States and form either an independent nation or rejoin Mexico.\n\n===='''Cities' Rights'''====\n''Main article: [[Neo-Jeffersonianism]]''\n\n==='''The Second Mexican-American War'''===\nThe Second Mexican-American War was the first conflict to highlight Mexico's rise as a global power. While the conflict only lasted two years and ended in a stalemate, the fact that Mexico was able to fight a conventional war with the US to a standstill revealed that the world's dominant power, the United States, now faced a real challenger that could upset the global balance of power. Following the end of the war, the American alliance system engaged in several small proxy conflicts with the ever growing Mexican sphere, separated at home by a complex network of fixed fortifications along their borders.\n\nThe last war forced Mexico into an arms buildup to guard itself from future confrontation, while forming a detailed network of diplomatic channels with the government of the United States and with the local governments of the decidedly Mexican states of the American South West.\n\n==Course of the War==\n===Secession Crisis===\n[[File:Secession_2132.png|thumb|250px|right|<center>'''Status of the states, 2133.'''</center> {{legend|#A40000| States that seceded before February 2, 2133}} {{legend|#EF2929| States that seceded after February 2, 2133}} {{legend|#FCE94F|Latin-American Majority states which remained loyal to the Union.}} {{legend|#204A87| Union states without Latin-American majorities}}]]\n\nWhen civil war broke out in the United States, Mexico lent military support to the Aztlan rebels, led by  President David Castillo. Over 30,000 foreign volunteers mainly consisted of those who are descended from American nationals overseas, known as the Foreign Patriot Militia, also fought against the Aztlan Nationalists.\n\nThe conflict began with the outbreak of the Second Civil War, a conflict initially fought within the United States to contain rebel states attempting to gain independence from the Union. Seven states in the American southwest, all with overwhelming majorities of citizens with Mexican ancestry, seceded from the union. Seven states with similar ancestry remained within the union during the war. Mexico initially attempted to remain neutral, but militant elements within the Mexican government pushed to engage the US via proxy conflicts around the planet, to give the rebels a fighting chance. By 2134 the conflict escalated and threatened to spill across the border into Mexico, as northern Mexicans, many of whom were once US citizens, began actively supporting Aztlan's bid for independence. In some cases, Mexican volunteer regiments joined up with the Aztlan Army. By the end of 2134, the moderate Garcia administration was removed and replaced by the more radical Jaso administration. The Jaso administration began directly engaging the US across the planet, while supporting the Azlan rebels with weapons and intelligence. Some of the more radical rebels conducted public executions of all those who spoke out against the rebellion or stood in their war. This ultimately led to greater escalation in the conflict, as US forces were recalled from engagements in Africa and Eurasia to put down the rebellion at home.\n\nAztlan claimed that they owned all bases and other federal buildings in the Southwest. Camp Navajo was in Arizona - one of the Aztlan states. However, the fort was controlled by the Union. On February 2 2133, Aztlan forces attacked the base, and after a 9 hour fight, accepted the surrender of the base commander. Following this, President Halvidar nationalized the national guards of the Union states, and called for a buildup of domestic military forces. Shortly after this call to arms was issued, three more southwestern states, and Panama joined with Aztlan instead of supplying forces to fight the rebels. The US Navy then organized a blockade of the California and Texas coastline, and issued an ultimatum to Mexico and the Latin American Union, that any effort to support the rebels would be considered an act of war.\n\nDespite this early showing of support, Aztlan quickly faced setbacks along its periphery. The National Guards of Oklahoma and Colorado remained loyal to the Union, while Eastern Texas subsequently seceded from Texas, joining the Union as the two new states of Brazos and Jacinto. By the end of 2133, Colorado and Oklahoma were effectively under Union control, with Aztlan state governments in exile. The US invaded the rebel states on February 22, 2133, moving through Northern California, Brazos, and Oklahoma. The US saw victories in the Aztlan state of Shasta and Northern Nevada rather quickly, retaking critical military targets, while forces in Texas found the Aztlan rebels more willing to fight than they'd expected.\n\nUS Space Marines were deployed to support the Army in Texas and California and with momentum in New Mexico stalled, President Halvidar approved the use of orbital weapons on certain Aztlan targets. By the end of 2133, the rebel forces had been forced to relocate their capitol to Phoenix, Arizona. Utah, an autonomous state in Aztlan, went so far as to sue for a separate peace on May 11, 2134, allowing the US to surround the remaining Aztlan forces. At this point Deandre Garcia was ousted by a cabinet vote of no confidence, and the country began quietly sending arms to the rebels. By the end of 2134 the US had successfully recaptured much of Texas and California, and were nearing the Aztlan capital in Phoenix. As Union forces prepared to surround and capture Phoenix, Mexican president Edwin Jaso issued an ultimatum to the US: turn back now or face a larger war. Many northern Mexicans supported Aztlan’s bid for independence, and under the dual citizenship program, Mexican citizens.\n[[Category:Third Mexican War]]\n[[Category:22nd-century conflicts]]\n[[Category:Mexican-American Cold War]]\n[[Category:Mexico]]\n[[Category:United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-06-13T20:59:43Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:History of the Mexican-American Cold War"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox Military Conflict"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Legend"
+          },
+          {
+            "ns": 10,
+            "title": "Template:WPMILHIST Infobox style"
+          },
+          {
+            "ns": 10,
+            "title": "Template:·"
+          }
+        ],
+        "title": "Aztlan War",
+        "touched": "2023-06-13T20:59:43Z"
+      },
+      "1682": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Organization infobox templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Society and social science infobox templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:TemplateData documentation"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates generating hCards"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates that add a tracking category"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Ambox warning yellow.png"
+          }
+        ],
+        "lastrevid": 8500,
+        "length": 11368,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Geo (microformat)"
+          },
+          {
+            "ns": 0,
+            "title": "Geographic coordinate system"
+          },
+          {
+            "ns": 0,
+            "title": "Global Positioning System"
+          },
+          {
+            "ns": 0,
+            "title": "Governmental organization"
+          },
+          {
+            "ns": 0,
+            "title": "HCard microformat"
+          },
+          {
+            "ns": 0,
+            "title": "HTML attribute"
+          },
+          {
+            "ns": 0,
+            "title": "Lower case"
+          },
+          {
+            "ns": 0,
+            "title": "Non-governmental organization"
+          },
+          {
+            "ns": 0,
+            "title": "Parsing"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:End date and age"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox Organization/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox Organization/sandbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox Organization/testcases"
+          },
+          {
+            "ns": 10,
+            "title": "Template:NAMESPACENUMBER:Template:Infobox Organization"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Start date and age"
+          },
+          {
+            "ns": 11,
+            "title": "Template talk:Infobox Organization"
+          },
+          {
+            "ns": 12,
+            "title": "Help:HTML in wikitext"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages using infobox organization with unsupported parameters"
+          }
+        ],
+        "ns": 10,
+        "pageid": 1682,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8499,
+            "revid": 8500,
+            "slots": {
+              "main": {
+                "*": "{{Infobox\n| bodyclass = vcard\n\n| titleclass = fn org\n| title = {{{name|{{{organization_name|{{{Non-profit_name|<includeonly>{{PAGENAMEBASE}}</includeonly>}}}}}}}}}\n\n| subheader = {{#if:{{{native_name|{{{native name|}}}}}}|<span class=\"nickname\" {{#if:{{{native_name_lang|}}}|lang=\"{{{native_name_lang}}}\"}}>{{{native_name|{{{native name}}}}}}</span>}}\n\n| image2 = {{#invoke:InfoboxImage|InfoboxImage |image={{{image|}}} |size={{{image_size|{{{imagesize|{{{size|}}}}}}}}} |sizedefault=frameless |alt={{{image_alt|{{{alt|}}}}}} }}\n| caption2 = {{{caption|}}}\n\n| image = {{#invoke:InfoboxImage|InfoboxImage |image={{{logo|{{{organization_logo|{{{Non-profit_logo|}}}}}}}}} |size={{{logo_size|}}} |sizedefault=250px |alt={{{logo_alt|}}} }}\n| caption = {{{logo_caption|}}}\n\n| image3 = {{#invoke:InfoboxImage|InfoboxImage |image={{{map|}}} |size={{{map_size|{{{msize|}}}}}} |sizedefault=250px |alt={{{map_alt|{{{malt|}}}}}} }}\n| caption3 = {{{map_caption|{{{mcaption|}}}}}}\n\n| image4 = {{#invoke:InfoboxImage|InfoboxImage |image={{{map2|}}} |size={{{map2_size|}}} |sizedefault=250px |alt={{{map2_alt|}}} }}\n| caption4 = {{{map2_caption|}}}`\n\n| labelstyle = padding-right:0.6em;<!--(to ensure some gap between any (long/unwrapped) labels and subsequent data on same line)-->\n\n| label1  = Abbreviation\n| class1  = nickname\n|  data1  = {{{abbreviation|}}}\n\n| label2 = Pronunciation\n|  data2 = {{#if:{{{pronounce|}}}{{{Pronounce|}}}{{{Pronunciation|}}}{{{pronunciation|}}}{{{pronounce comment|}}} |<!--\n-->{{ubl|1={{{pronounce|}}}{{{Pronounce|}}}{{{Pronunciation|}}}{{{pronunciation|}}}{{{pronounce ref|}}}&#x20;{{{pronounce comment|}}}<!--\n     -->|2={{{pronounce 2|}}} }}}}\n\n| label3  = Named after\n|  data3  = {{{named_after|}}}\n\n| label4  = Motto\n| class4  = note\n|  data4  = {{{motto|{{{organization_motto|{{{pledge|}}}}}}}}}\n\n| label5  = Predecessor\n|  data5  = {{{predecessor|}}}\n\n| label6  = Merged&nbsp;into\n|  data6  = {{{merged|}}}\n\n| label7  = Successor\n|  data7  = {{{successor|}}}\n\n| label8  = {{#if:{{{formation|}}} |Formation |{{#if:{{{founded_date|{{{founded|}}}}}}|Founded|Established}} }}\n| class8  = note\n|  data8  = {{if empty |{{{formation|}}} |{{{established|}}} |{{{founded_date|{{{founded|}}}}}} }}\n\n| label9  = Founder{{#if:{{{founders|}}}|s}}\n|  data9  = {{#if:{{{founders|}}} |{{{founders}}} |{{{founder|}}} }}\n\n| label10  = Founded at\n|  data10  = {{{founding_location|}}}\n\n| label11  = {{#if:{{{extinction|}}} |Extinction | Dissolved}}\n|  data11  = {{#if:{{{extinction|}}} |{{{extinction}}} |{{{dissolved|}}} }}\n\n| label12  = Merger&nbsp;of\n|  data12  = {{{merger|}}}\n\n| label13 = Type\n|  data13 = {{{type|{{{organization_type|{{{Non-profit_type|}}}}}}}}}\n\n| label14 = {{longitem |{{#if:{{{vat_id|}}} |[[VAT identification number|VAT ID no.]] |[[Taxpayer Identification Number|Tax ID no.]]}} }}\n|  data14 = {{#if:{{{vat_id|}}} |{{{vat_id}}} |{{{tax_id|}}} }}\n\n| label15 = Registration&nbsp;no.\n|  data15 = {{{registration_id|}}}\n\n| label16 = Legal status\n|  data16 = {{{status|}}}\n\n| label17 = {{#if:{{{focus|{{{foci|}}}}}} |Focus |Purpose}}\n|  data17 = {{#if:{{{focus|{{{foci|}}}}}} |{{{focus|{{{foci|}}}}}} |{{{purpose|}}} }}\n\n| label18 = {{longitem|Professional title}}\n|  data18 = {{{professional_title|}}}\n\n| label19 = Headquarters\n|  data19 = {{{headquarters|}}}\n\n| label20 = Location\n| class20 = label\n|  data20 = {{Unbulleted list\n             | 1 = {{comma separated entries\n                    | 1 = {{#if:{{{location_city|}}}    |<span class=\"locality\">{{{location_city}}}</span>}}\n                    | 2 = {{#if:{{{location_country|}}} |<span class=\"country-name\">{{{location_country}}}</span>}}\n                   }}\n             | 2 = {{{location|}}}\n             | 3 = {{comma separated entries\n                    | 1 = {{#if:{{{location_city2|}}}    |<span class=\"locality\">{{{location_city2}}}</span>}}\n                    | 2 = {{#if:{{{location_country2|}}} |<span class=\"country-name\">{{{location_country2}}}</span>}}\n                   }}\n             | 4 = {{{location2|}}}\n            }}\n\n| label21 = Locations\n| class21 = label\n|  data21 = {{Unbulleted list\n             | 1 = {{comma separated entries\n                    | 1 = {{#if:{{{addnl_location_city|}}}    |<span class=\"locality\">{{{addnl_location_city}}}</span>}}\n                    | 2 = {{#if:{{{addnl_location_country|}}} |<span class=\"country-name\">{{{addnl_location_country}}}</span>}}\n                   }}\n             | 2 = {{{addnl_location|{{{additional_location|}}}}}}\n             | 3 = {{comma separated entries\n                    | 1 = {{#if:{{{addnl_location_city2|}}}    |<span class=\"locality\">{{{addnl_location_city2}}}</span>}}\n                    | 2 = {{#if:{{{addnl_location_country2|}}} |<span class=\"country-name\">{{{addnl_location_country2}}}</span>}}\n                   }}\n             | 4 = {{{addnl_location2|{{{additional_location2|}}}}}}\n            }}\n\n| label22 = Coordinates\n|  data22 = {{{coordinates|{{{coords|}}}}}}\n\n| label23 = Origins\n|  data23 = {{{origins|}}}\n\n| label24 = {{longitem |{{#if:{{{area_served|}}} |Area served |Region {{#if:{{{region_served|}}}|served}} }} }}\n|  data24 = {{if empty |{{{area_served|}}} |{{{region_served|}}} |{{{region|}}} }}\n\n| label25 = Product{{#if:{{{products|}}}|s}}\n|  data25 = {{#if:{{{products|}}} |{{{products}}} |{{{product|}}} }}\n\n| label26 = Services\n| class26 = note\n|  data26 = {{{services|}}}\n\n| label27 = Method{{#if:{{{methods|}}}|s}}\n|  data27 = {{#if:{{{methods|}}} |{{{methods}}} |{{{method|}}} }}\n\n| label28 = Field{{#if:{{{fields|}}}|s}}\n|  data28 = {{#if:{{{fields|}}} |{{{fields}}} |{{{field|}}} }}\n\n| label29 = {{longitem |Members{{#if:{{{num_members|{{{members|}}}}}}||hip}} {{#if:{{{num_members_year|{{{membership_year|}}}}}} |{{nobold|({{{num_members_year|{{{membership_year|}}}}}})}} }} }}\n|  data29 = {{#if:{{{num_members|{{{members|}}}}}} |{{{num_members|{{{members}}}}}} |{{{membership|}}} }}\n\n| label30 = {{longitem |Official language{{#if:{{{languages|}}}|s}} }}\n|  data30 = {{#if:{{{languages|}}} |{{{languages}}} |{{{language|}}} }}\n\n| label31 = Owner{{#if:{{{owners|}}}|s}}\n|  data31 = {{#if:{{{owners|}}} |{{{owners}}} |{{{owner|}}} }}\n\n| label32 = {{longitem|Secretary General}}\n|  data32 = {{#if:{{{general|}}} |{{{general}}} |{{{sec_gen|}}} }}\n\n| label33 = {{#if:{{{leader_title|}}} |{{longitem|{{{leader_title}}}}} |Leader}}\n|  data33 = {{{leader_name|}}}\n\n| label34 = {{longitem|{{{leader_title2}}}}}\n|  data34 = {{#if:{{{leader_title2|}}} |{{{leader_name2|}}} }}\n\n| label35 = {{longitem|{{{leader_title3}}}}}\n|  data35 = {{#if:{{{leader_title3|}}} |{{{leader_name3|}}} }}\n\n| label36 = {{longitem|{{{leader_title4}}}}}\n|  data36 = {{#if:{{{leader_title4|}}} |{{{leader_name4|}}} }}\n\n| label37 = {{longitem|[[Board of directors|{{allow wrap|Board&nbsp;of directors}}]]}}\n|  data37 = {{{board_of_directors|}}}\n\n| label38 = {{longitem|Key people}}\n|  data38 = {{{key_people|}}}\n\n| label39 = {{#if:{{{main_organ|}}} |{{longitem|Main organ}} |Publication}}\n|  data39 = {{#if:{{{main_organ|}}} |{{{main_organ}}} |{{{publication|}}} }}\n\n| label40 = {{longitem|Parent organi{{#if:{{{parent_organisation|}}}|s|z}}ation}}\n|  data40 = {{#if:{{{parent_organisation|}}} |{{{parent_organisation}}} |{{{parent_organization|}}} }}\n\n| label41 = [[Subsidiary|Subsidiaries]]\n|  data41 = {{#if:{{{subsidiaries|}}} |{{{subsidiaries}}} |{{{subsid|}}} }}\n\n| label42 = Secessions\n|  data42 = {{{secessions|}}}\n\n| label43 = Affiliations\n|  data43 = {{{affiliations|}}}\n\n| label44 = {{longitem |Budget {{#if:{{{budget_year|}}} |{{nobold|({{{budget_year}}})}} }} }}\n|  data44 = {{{budget|}}}\n\n| label45 = {{longitem |Revenue {{#if:{{{revenue_year|{{{income_year|}}}}}} |{{nobold|({{{revenue_year|{{{income_year|}}}}}})}} }} }}\n|  data45 = {{{revenue|{{{income|}}}}}}\n\n| label46 = Disbursements\n|  data46 = {{{disbursed|{{{disbursements|{{{disbursement|}}}}}}}}}\n\n| label47 = Expenses {{#if:{{{expenses_year|}}} | {{nobold|({{{expenses_year}}})}} }}\n|  data47 = {{{expenses|{{{spent|{{{expense|}}}}}}}}}\n\n| label48 = [[Financial endowment|Endowment]] {{#if:{{{endowment_year|}}} | {{nobold|({{{endowment_year}}})}} }}\n|  data48 = {{{endowment|}}}\n\n| label49 = {{longitem |{{#if:{{{num_staff|}}}{{{staff|}}} |Staff |Employees}} {{#if:{{{num_staff_year|{{{staff_year|{{{num_employees_year|{{{employees_year|}}}}}}}}}}}} |{{nobold|({{{num_staff_year|{{{staff_year|{{{num_employees_year|{{{employees_year|}}}}}}}}}}}})}} }} }}\n|  data49 = {{if empty |{{{num_staff|}}} |{{{staff|}}} |{{{num_employees|}}} |{{{employees|}}} }}\n\n| label50 = {{longitem |Volunteers {{#if:{{{num_volunteers_year|{{{volunteers_year|}}}}}} |{{nobold|({{{num_volunteers_year|{{{volunteers_year|}}}}}})}} }} }}\n|  data50 = {{#if:{{{num_volunteers|}}} |{{{num_volunteers}}} |{{{volunteers|}}} }}\n\n| label53 = Award(s)\n|  data53 = {{{awards|}}}\n\n| label54 = Website\n|  data54 = {{{website|{{{homepage|}}}}}}\n\n| label55 = Remarks\n|  data55 = {{{remarks|}}}\n\n| label56 = {{longitem|Formerly called}}\n| class56 = nickname\n|  data56 = {{if empty |{{{former name|}}} |{{{former_name|}}} |{{{former|}}} |{{{formerly|}}} }}\n\n| belowstyle = border-top:#aaa 1px solid;\n| below = {{{footnotes|}}}\n\n}}<!-- Tracking categories:\n-->{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox organization with unsupported parameters|_VALUE_{{PAGENAME}}]]}}|preview = Page using [[Template:Infobox organization]] with unknown parameter \"_VALUE_\"|ignoreblank=y\n| name| organization_name| Non-profit_name| native_name| native name| native_name_lang| image| image_size| imagesize| size| image_alt| alt| caption| logo| organization_logo| Non-profit_logo| logo_alt |logo_size| logo_caption| map| map_size| msize| map_alt| malt| map_caption| mcaption| map2| map2_size| map2_alt| map2_caption| abbreviation| named_after| motto| organization_motto| pledge| predecessor| merged| successor| formation| founded_date| founded| established| founders| founder| founding_location| extinction| dissolved| merger| type| organization_type| Non-profit_type| vat_id| tax_id| registration_id| status| foci| focus| purpose| professional_title| headquarters| location_city| location_country| location| location_city2| location_country2| location2| addnl_location_city| addnl_location_country| addnl_location| additional_location| addnl_location_city2| addnl_location_country2| addnl_location2| additional_location2| coordinates| coords| origins| area_served| region_served| region| products| product| services| methods| method| fields| field| num_members| members| num_members_year| membership_year| membership| languages| language| owners| owner| general| sec_gen| leader_title| leader_name| leader_title2| leader_name2| leader_title3| leader_name3| leader_title4| leader_name4| board_of_directors| key_people| main_organ| publication| parent_organisation| parent_organization| subsidiaries| subsid| secessions| affiliations| budget_year| budget| revenue_year| income_year| revenue| income| disbursed| disbursements| disbursement| expenses_year| expenses| spent| expense| endowment| endowment_year| num_staff_year| num_staff| staff_year| staff| num_employees_year| num_employees| employees_year| employees| num_volunteers_year| num_volunteers| volunteers_year| volunteers| awards| website| homepage| remarks| former name| former_name| former| formerly| footnotes\n}}<noinclude>\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-28T20:32:27Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Big"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Clc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Clear"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Coord"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation subpage"
+          },
+          {
+            "ns": 10,
+            "title": "Template:End date and age"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Generic template demo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:High-use"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hlist"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox Organization/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox organization"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Longitem"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Lua"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Main other"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Microformat message"
+          },
+          {
+            "ns": 10,
+            "title": "Template:NAMESPACENUMBER:Template:Infobox Organization"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Navbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Organization infoboxes"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Parameter names example"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ROOTPAGENAME"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Start date and age"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str left"
+          },
+          {
+            "ns": 10,
+            "title": "Template:TemplateData header"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Template error report"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:UF-hcard-org"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno-no"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Check for unknown parameters"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Coordinates"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          },
+          {
+            "ns": 828,
+            "title": "Module:List"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Lua banner"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Message box"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Navbox"
+          },
+          {
+            "ns": 828,
+            "title": "Module:No globals"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Parameter names example"
+          },
+          {
+            "ns": 828,
+            "title": "Module:TableTools"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Yesno"
+          }
+        ],
+        "title": "Template:Infobox Organization",
+        "touched": "2018-09-28T20:42:01Z"
+      },
+      "1683": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Countries in Europe"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former countries in Europe"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former country articles requiring maintenance"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Russia"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:European Association.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Russia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Russian Republic.png"
+          }
+        ],
+        "lastrevid": 11554,
+        "length": 2495,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Bashkortostan"
+          },
+          {
+            "ns": 0,
+            "title": "Don Republic"
+          },
+          {
+            "ns": 0,
+            "title": "European Association"
+          },
+          {
+            "ns": 0,
+            "title": "Federal semi-presidential constitutional republic"
+          },
+          {
+            "ns": 0,
+            "title": "Finland"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Russia"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of the Russia"
+          },
+          {
+            "ns": 0,
+            "title": "Karelia"
+          },
+          {
+            "ns": 0,
+            "title": "Little Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Moscow"
+          },
+          {
+            "ns": 0,
+            "title": "National Assembly"
+          },
+          {
+            "ns": 0,
+            "title": "National Council"
+          },
+          {
+            "ns": 0,
+            "title": "Nenetsia"
+          },
+          {
+            "ns": 0,
+            "title": "Poland"
+          },
+          {
+            "ns": 0,
+            "title": "Samara Republic"
+          },
+          {
+            "ns": 0,
+            "title": "State Duma"
+          },
+          {
+            "ns": 0,
+            "title": "Tatarstan"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Ukraine"
+          },
+          {
+            "ns": 0,
+            "title": "Union State"
+          },
+          {
+            "ns": 0,
+            "title": "Ural Republic"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in 2139"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2130s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2139"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 22nd century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in 2029"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 2020s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 2029"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 21st century"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1683,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11262,
+            "revid": 11554,
+            "slots": {
+              "main": {
+                "*": "{{Infobox former country\n| conventional_long_name = Russian Republic\n| common_name            = Russia\n| continent              = Europe\n| region                 = Western Europe\n| government_type        = Federal semi-presidential constitutional republic\n| image_map = \n| image_map_caption = \n| image_flag   = Russian_Republic.png\n| coa_size     = x100px\n| symbol_type  = Arms\n| symbol       = \n| year_start   = 2029\n| year_end     = 2139\n| date_start   = May 16\n| event_start  = \n| date_end     = \n| event_end    = Dissolution\n| p1           = Union State\n| image_p1     = [[File:Flag_of_Russia.png|20px|link=]]\n| s1           = European Association\n| image_s1     = [[File:European_Association.png|20px|link=]]\n| capital      = Moscow\n| title_leader = President\n| leader1      = \n| year_leader1 = \n| legislature  = National Assembly\n| house1       = National Council\n| house2       = State Duma\n| stat_year1   = \n| stat_area1   = \n| stat_pop1    = \n| today        = [[European Association]]\n| footnotes    = \n| width        = 265px\n}}\n\n'''Russia''', officially the '''Russian Republic''', was a sovereign nation in Europe that existed from 2029 to 2138, collapsing as a result of the Intermarium defeat in the [[Third Mexican-American War]]. Founded following the collapse of the Union State and Russia's balkanization at the end of the [[Little Cold War]], the Russian Republic was a federal semi-presidential constitutional republic bordered by [[Karelia]], [[Nenetsia]], and [[Finland]] to the north, [[Ural Republic]] to the east, [[Don Republic]], [[Samara Republic]], [[Tatarstan]], and [[Bashkortostan]] to the south, and [[Ukraine]] and [[Poland]] to the west. The official language of Russia is Russian. The primary religion practiced in the Russian Republic is Eastern Orthodox, although there is no official religion in Russia. The capital of Russia, Moscow, is renowned as one the of the largest and most urbanized capitals in the world, with other large cities including Novgorod and Kazan.\n==History==\n\n=== '''Russian Empire''' ===\n\n==='''Soviet Union'''===\n==='''Russian Federation'''===\n==='''Republic'''===\nFacing new strains of antibiotic resistant bacteria, in 2025, western governments began aggressively funding research into Phage therapy. The new Russian Republic's economy saw a major uptick as phage treatments in use for more than a century found a demand in the West.\n[[Category:Former countries in Europe]]\n[[Category:Russia]]\n[[Category:Countries in Europe]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-07-11T22:43:12Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Both"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country/autocat"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Main other"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ns0"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ordinal"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str find"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "Russia",
+        "touched": "2024-07-11T22:43:12Z"
+      },
+      "1684": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4109,
+        "length": 33,
+        "new": "",
+        "ns": 1,
+        "pageid": 1684,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4109,
+            "slots": {
+              "main": {
+                "*": "Why delete antibiotic-resistance?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-13T01:08:20Z"
+          }
+        ],
+        "title": "Talk:Timeline of major events/@comment-27084453-20170613010820",
+        "touched": "2017-06-13T01:08:20Z"
+      },
+      "1685": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Technology"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:The great experiment by ynot1989 d95e933.png"
+          }
+        ],
+        "lastrevid": 10323,
+        "length": 4564,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1685,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10321,
+            "revid": 10323,
+            "slots": {
+              "main": {
+                "*": "A '''space elevator''' is a type of space transportation system which has been designed for high-volume space-to-ground traffic, with all traffic flow and ingress/egress regulated.\n\n==History==\nIn 2035, Intervol Nano-Systems secured a joint-patent with MarsCorp for a \"Molecular Compiler\" that could produce a continuous ribbon of carbon nanotubes. This led directly to Earth's first space elevator, contracted by the US military through MarsCorp, LaserMotive, and Intervol ; and Praxis Group's elevator at New Richmond.\n\nTo meet the long-term growth in demand for energy spurred by greater automation to deal with the care of the elderly, while also making it easier for immigrants to reach US markets, the US Government works with several Latin American nations to build a TransAmerican rail line from the planned Quito Space Elevator to Helena, Montana in 2038.\n\nThe first elevators were simple nano-ribbons, and in Titan's case they were paper-thin pipes for pumping nitrogen into space to be shipped down-system for Mars. By the 22nd Century, advanced compilers could build elevators robust enough to ship millions of tonnes of goods and people from the surface to space and back.\n\nBy the late 2140s there were 13 Space Elevators on Earth. Most were either built on artificial habitats on water ( as is the case of Maluae, Darwin's Tree, Atlantis, Ancla del Cielo, Paradise Gate, Morgan Tower, Beanstalk and The Line) or on countries with land near the Equator ( Quito Tower and Jarvis Island in the US, Macapa Tower in Brazil, Borneo Tower in Indonesia and Uganda Tower in East Africa). With the advent of the [[Third Mexican-American War|Third American-Mexican War]], much of the future plans were either pushed back or cancelled altogether. However, after the war, plans have picked up steam once again, and by the dawn of the 22nd century it is expected that the number of space elevators will exceed 30.\n\n[[File:The great experiment by ynot1989 d95e933.png|thumb|Earth's 13 space elevators, identified as white dots near the Equator]]\n\n==Construction sequence==\nTypical space elevators are constructed using a sequence generally described as follows. Depending on length and size, construction may take anywhere between a year and a half (construction on the original Lunar elevator took only 19 months) up to as long as five years without politically motivated delays (Brazil's first elevator took more than a decade to be completed due to the Third Mexican War and acts of terrorism.)\n\n#Where the anchor station is founded on land or water, a heavy series of caissons are driven to the bedrock to form an extremely strong foundation for the tether.\n#From the dock foundation, towers of single or multiple columns are erected using nano-reinforced concrete or steel. The towers serve as loading docks for cargo and passengers of the large elevator cars.\n#One or more heavy ''saddles'', which will connect the tether to the dock, are positioned between the towers at the base of the anchor. Since the second generation elevators were built, these saddles are made of extreme-strength nano-materials to resist the tension of the tetgers and form as the main anchor system for the entire structure. \n#Automated construction robots are landed on a source asteroid or comet and begin converting its material into the tether. Most elevators since the 2050s are made from carbon nanotubes, however early elevators on the Moon, Phobos, and a handful of large asteroids used steel or kevlar. A long series of carbon nano-ribbons are spooled into the elevator's tether, usually from a carbon-rich asteroid. This is the most time-intensive process of the construction of the elevators, and can take as long as three years. \n#The spooled tether is moved to a counterweight asteroid and attached to an anchor similar to the one positioned on the surface of the target body. The counterweight asteroid is positioned into stationary orbit over the target.\n#The high strength nano-ribbon (typically a meter wide tether or tube), is pulled in a loop by powered-lander, or ''traveler,'' with one end affixed at the counterweight asteroid. When the traveler reaches the opposite anchorage on the surface it lands below the saddle and spools any excess length of tether (usually very little), before the saddle clamps onto the tether, securing it to the target body.\n#With completion of the primary structure, one or more gondolas are mated to the tether and a habitable station and spaceport is typically constructed on the counterweight asteroid.\n[[Category:Technology]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-03-14T02:20:05Z"
+          }
+        ],
+        "title": "Space Elevators",
+        "touched": "2021-03-14T02:20:05Z"
+      },
+      "1686": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4132,
+        "length": 35,
+        "new": "",
+        "ns": 1,
+        "pageid": 1686,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4132,
+            "slots": {
+              "main": {
+                "*": "Holy shit I want those Epoch games.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-13T04:40:18Z"
+          }
+        ],
+        "title": "Talk:Virtuals/@comment-50.148.216.123-20170613044018",
+        "touched": "2017-06-13T04:40:18Z"
+      },
+      "1687": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4133,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1687,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4133,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-13T04:40:19Z"
+          }
+        ],
+        "title": "Message Wall:50.148.216.123",
+        "touched": "2017-06-13T04:40:20Z"
+      },
+      "1688": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4134,
+        "length": 731,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Virtuals"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1688,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4134,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Virtuals]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-13T04:40:19Z"
+          }
+        ],
+        "title": "Thread:50.148.216.123/@comment-22439-20170613044019",
+        "touched": "2017-06-13T04:40:19Z"
+      },
+      "1689": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4135,
+        "length": 293,
+        "new": "",
+        "ns": 1,
+        "pageid": 1689,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4135,
+            "slots": {
+              "main": {
+                "*": "I'm trying to make the Timeline page tighter, and cover not just individual significant events, but how those events fit within an era. And antibiotic resistance, while interesting, is just fluff and doesn't have much of an impact on the era where it occures. So I moved it to the Russia page.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-13T17:30:16Z"
+          }
+        ],
+        "title": "Talk:Timeline of major events/@comment-27084453-20170613010820/@comment-899576-20170613173016",
+        "touched": "2017-06-13T17:30:16Z"
+      },
+      "1690": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Religious Events"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Timeline"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11056,
+        "length": 3309,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Fifth Great Awakening"
+          },
+          {
+            "ns": 0,
+            "title": "First Contact"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1690,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4140,
+            "revid": 11056,
+            "slots": {
+              "main": {
+                "*": "The '<nowiki/>'''Proclamation of Sapere aude'''' (English: “Dare to know”; and also is loosely translated as “Dare to be wise”, or even more loosely as \"Dare to think for yourself!\"), also called the '''Catholic Awakening''' or the '''Second Catholic Revival''', was the period of Catholic resurgence initiated in response to the [[Fifth Great Awakening]] in the United States, beginning with the Council of Brasília (2054-2066) and ending after [[First Contact]]. The Proclamation of Sapere aude was a comprehensive effort composed of five major elements:\n\n#Ecclesiastical or structural reconfiguration\n#Religious orders\n#Spiritual movements\n#Political dimensions\n#Modernizing Catholic sacramental practice\n\nSuch reforms included the foundation of new seminary procedures for the proper training of priests in not just spirituality and theology of the Church, but also screening procedures for the \"falsely pious\" and \"deviants,\" (a formalization of Church policies adopted over the last 60 years to weed out pedophiles and other criminals). Formally abolishing gender barriers in the Church hierarchy, while defending the oath of celibacy through libido diminishing agents. The reform of religious life by returning orders to their spiritual foundations, and new spiritual movements focusing on good works and a more metaphysical relationship with Christ. New teachings that regarded the stories of the Old and New Testament as anecdotal history of mankind's struggle against its own failings and a passive recognition of the necessity of traditions in the past and their new obsolescence in the present.\n\nThe most controversial reform by far was the adoption of a new dogma on the Will of God or Divine Will, that held that the almighty's will upon the lives of individuals is much more impersonal than had previously been established, and that prayer is unable to impact anything beyond the ethereal.\n\nAs with the schism of the \"Old Catholics\" after the First Vatican Council and the various traditionalist groups after the Second Vatican Council,some Catholics rejecting the new doctrines broke off to found new groups that remained much smaller than the continuing Roman church.\n\n==Fifth Great Awakening==\nMany scholars argue the awakening began in earnest between 2063 and 2075 shortly after First Contact. This stemmed from a Catholic movement that placed emphasis on experiencing what they saw a metaphysical or ethereal relationship with God, rejecting most mortal claims to the miraculous. It also focused on strengthening spiritual convictions through good works. Originally a Protestant movement, its influence spread to some in the Roman Catholic Church at a time when Catholic leaders were opening up to new beliefs, to a renewed emphasis on institutional structures and the new dogmatic interpretations.\n\nThe Church changed in the face of secularizing pressures after World War III. The post-World War III influence of new scientific discoveries such as genetic engineering, the multiverse, and non-human intelligence. The awakening's major trends were largely aimed at trying to reconcile the last century of scientific discovery and social trends with traditional religious dogma in the Abrahamic faiths.\n[[Category:Religious Events]]\n[[Category:21st Century]]\n[[Category:Timeline]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-01-23T22:58:21Z"
+          }
+        ],
+        "title": "Proclamation of Sapere aude",
+        "touched": "2023-01-23T22:58:21Z"
+      },
+      "1691": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:European flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Russian flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6073,
+        "length": 74,
+        "ns": 6,
+        "pageid": 1691,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4152,
+            "revid": 6073,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Russian flags]]\n[[Category:Flags]]\n[[Category:European flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:37:28Z"
+          }
+        ],
+        "title": "File:Flag of Russia.svg",
+        "touched": "2017-11-08T00:10:32Z"
+      },
+      "1692": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6185,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1692,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4153,
+            "revid": 6185,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:07:50Z"
+          }
+        ],
+        "title": "File:US flag 48 stars.svg",
+        "touched": "2017-11-08T00:10:32Z"
+      },
+      "1693": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:European flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Russian flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6094,
+        "length": 74,
+        "ns": 6,
+        "pageid": 1693,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4154,
+            "revid": 6094,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Russian flags]]\n[[Category:Flags]]\n[[Category:European flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:43:54Z"
+          }
+        ],
+        "title": "File:Flag of the Soviet Union (1923-1955).svg",
+        "touched": "2017-11-08T00:10:32Z"
+      },
+      "1694": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:European flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:German flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6051,
+        "length": 73,
+        "ns": 6,
+        "pageid": 1694,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4155,
+            "revid": 6051,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:German flags]]\n[[Category:Flags]]\n[[Category:European flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:31:59Z"
+          }
+        ],
+        "title": "File:Flag of Germany 1933.svg",
+        "touched": "2017-11-08T00:09:53Z"
+      },
+      "1695": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:European flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Russian flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6095,
+        "length": 74,
+        "ns": 6,
+        "pageid": 1695,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4156,
+            "revid": 6095,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Russian flags]]\n[[Category:European flags]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:44:08Z"
+          }
+        ],
+        "title": "File:Flag of the Soviet Union (1955-1980).svg",
+        "touched": "2017-11-08T00:10:32Z"
+      },
+      "1696": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Post-naturalism"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Postnaturalism"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7665,
+        "length": 1663,
+        "links": [
+          {
+            "ns": 0,
+            "title": "De-Extinction"
+          },
+          {
+            "ns": 0,
+            "title": "Earth Working Group"
+          },
+          {
+            "ns": 0,
+            "title": "Postnaturalism"
+          },
+          {
+            "ns": 0,
+            "title": "The Refreeze"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1696,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4167,
+            "revid": 7665,
+            "slots": {
+              "main": {
+                "*": "'''''Humanity's Garden '''''was the title of a nonfiction environmentalist book published in 2029 by University of California ecology professor Peter Shay. It is widely regarded as a major influence in the age of [[Postnaturalism]], just as Racher Carson's book ''Silent Spring '' was for the original environmental movement in the 1970s.\n\nThough an ardent environmentalist, Shay spoke out against traditional forms of environmentalism. He pointed out that, over thousands of years, humanity has altered the world's ecology to such and extent--the main examples he gives are the extinctions of the megafauna in the Americas and Australia and the flightless birds on the Pacific islands--that many of the so-called pristine wilderness areas were not in fact pristine at all, so preserving them in their present state had little ecological value. The title of the book refers to this idea. Earth as a whole is likened to a garden, an artificial ecosystem created by humans. \n\nTaking the analogy further, Shay compared humanity to a gardener, faced with a garden crippled by blight. He advised that humans ought to actively intervene to repair damaged ecosystems to their former state instead of simply preserving what was left. To that end, he strongly supported the use of geoengineering and [[De-Extinction]], which he saw as more effective means of conservation than merely fencing off protected areas. Shay later became a prominent member of the [[Earth Working Group]], and was one of the key figures in carrying out [[The Refreeze]], which he saw as the ultimate vindication of his life's work.\n[[Category:Postnaturalism]]\n[[Category:Post-naturalism]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-17T22:04:24Z"
+          }
+        ],
+        "title": "Humanity's Garden",
+        "touched": "2018-03-17T22:04:24Z"
+      },
+      "1697": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:22nd-century economic history"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4174,
+        "length": 3021,
+        "ns": 0,
+        "pageid": 1697,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4170,
+            "revid": 4174,
+            "slots": {
+              "main": {
+                "*": "The '''Crisis of 2130''' was a period in which the Earth economy collapsed leading to a severe worldwide economic depression that took place during the 2130s. The timing of the Crisis varied across nations; in most countries it started in 2130 and lasted until the late 2134. It was the longest, deepest, and most widespread depression of the 22nd century.\n\nThe crisis was the result of a Market Crash in 2128 in the construction industry, which led to a banking collapse and the exhaustion of the government's small business loan reserves by February 2130. The drying up of private equity made it impossible for Personal Liability Corporations to function, leading to an extremely deep depression. The United States remained in a depression until the Third Mexican War at which point the country had largely implemented Quantum Economic principles on Earth.\n\n==Overview==\nThe Crisis saw a decline in annual real world GDP per‑capita (Purchasing Power weighted), from 2130-2134, according to the U.S. National Bureau of Economic Research (the official arbiter of U.S. recessions). The recession began in May 2130 and ended in August 2134, and thus extended over 52 months.\n\nThe years leading up to the crisis were characterized by an exorbitant rise in personal asset prices and associated boom in economic demand. Further, the U.S. financial system had experienced dramatic growth with little regulatory oversight, making it vulnerable to collapse. US personal asset-backed securities, which had risks that were hard to assess, were marketed around the world, as they offered higher yields than U.S. government bonds and small business loans. Many of these securities were backed by subprime personal loans and micro-mortgages, which collapsed in value when personal business owners began to default on their payments in large numbers starting in 2128.\n\nThe emergence of sub-prime loan losses in 2128 began the crisis and exposed other risky loans and over-inflated personal asset prices. With loan losses mounting and the fall of Rongji Co-Operative on 1 May 2130, a major panic broke out on the constellation bank loan market, resulting in many large and well established investment and commercial banking networks in the United States and Mexico suffering huge losses and facing bankruptcy.\n\nThe global crisis that followed resulted in a sharp drop in international trade, mass unemployment and inflated commodity prices as personal production dried up. Several economists predicted that recovery would likely appear by 2133, and that the recession would be severe, but survivable. However, the Personal Liability system established in the 2080s, or \"Lachmanomics,\" could not handle such a complete devaluation of personal assets. The distribution of production made traditional economic stimulus impossible, and by 2132, many were calling the Crisis the death of post-industrial Capitalism.\n\n==Causes==\n==='''High private debt levels'''===\n==='''Construction bubble'''===\n[[Category:22nd-century economic history]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-15T17:16:38Z"
+          }
+        ],
+        "title": "Crisis of 2130",
+        "touched": "2017-06-15T17:16:38Z"
+      },
+      "1698": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4172,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1698,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4172,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-15T15:13:35Z"
+          }
+        ],
+        "title": "Message Wall:68.71.189.236",
+        "touched": "2017-06-15T15:13:36Z"
+      },
+      "1699": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4173,
+        "length": 731,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Virtuals"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1699,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4173,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Virtuals]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-15T15:13:36Z"
+          }
+        ],
+        "title": "Thread:68.71.189.236/@comment-22439-20170615151336",
+        "touched": "2017-06-15T15:13:36Z"
+      },
+      "1700": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century conflicts"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Balkan Crisis.png"
+          }
+        ],
+        "lastrevid": 9698,
+        "length": 3456,
+        "ns": 0,
+        "pageid": 1700,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4389,
+            "revid": 9698,
+            "slots": {
+              "main": {
+                "*": "The '''Balkan Crisis''' or '''Bosnia Incident of 2049''' occurred when Turkey annexed the Caucasus region of Russia, scaring Poland in the process.\n\nAs the Japanese prepare for their attack against the American Orbital Command Network, the Turks stage a crisis in the Balkans, pushing the Poles to the absolute edge of war, even allowing facilities in the Caucasus to be attacked by Polish drones. While the Geneva peace conference is being mediated by the Americans, Japan prepares to strike, hoping the Americans would rather accept a world with three great empires than risk its own empire in another World War.\n\n[[File:Balkan_Crisis.png|thumb|Naval movements in the Balkans and Black Sea in early 2051.]]\n==History==\nThe key American military threat no longer lied at Sea, but in Space. Since the Space Boom began in the late 2010s the United States had been quietly increasing its military presence in Earth Orbit and on the Moon, protective of valuable energy, mining, and manufacturing operations on Near Earth Asteroids and the lunar surface. During the 2030s the United States reached out to several contractors it had worked with on the commercial mining of lunar Helium-3 to develop increased infrastructure for commercial and eventually military ventures. Gradually the US abandoned the costly and ineffective policy of deploying overburdened infantrymen and petroleum burning vehicles to far corners of the planet to exert its power, to a system of rapid response, force projection technologies that could operate from mobile sea-based platforms and from US Soil directly. These systems still required a global command system, however and to that end the US began the construction of an extensive network of command and control satellites, all managed by three geostationary positioned Orbital Command Stations. Built in secret at the Tycho Shipyards on the moon, the Orbital Command Stations networked with unmanned spy satellites, refueling and repair facilities and orbital bombardment stations. No longer relying on vulnerable land based command centers, the United States could project its power with minimum effort and superb accuracy. Primary command and control moved to the Orbital Command Stations to limit the number of failure points, with space based systems seeming invulnerable to smaller powers. OCS Eisenhower was stationed over Uganda, OCS Kennedy over Papua New Guinea, and the main command station, OCS Reagan was stationed over Ecuador. These stations constituted the primary threat to the Turks and Japanese. Commanding fleets of hypersonic unmanned aircraft and coordinating Naval support around the planet, the Orbital Command Stations could impose devastating blockades on the Turks and Japanese. By 2050 war plans were well underway, and Japan knew that to secure its regional interests it had to destroy the American command structure in space, and prevent any future launches by capturing the American manufacturing and military installations on the Moon. As the Japanese prepared for their attack, the Turks staged a crisis in the Balkans, pushing the Poles to the absolute edge of war, even allowing facilities in the Caucasus to be attacked by Polish drones. While the Geneva peace conference was being mediated by the Americans, Japan prepared to strike, hoping the Americans would rather accept a world with three great empires than risk its own empire in another World War.\n[[Category:21st-century conflicts]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-07-17T15:13:45Z"
+          }
+        ],
+        "title": "Balkan Crisis",
+        "touched": "2020-07-17T15:13:45Z"
+      },
+      "1701": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4181,
+        "length": 27,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Balkan Crisis"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 1701,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4181,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Balkan Crisis]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-15T22:00:58Z"
+          }
+        ],
+        "title": "The Bosnian Incident",
+        "touched": "2020-07-17T15:13:46Z"
+      },
+      "1702": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Weapons"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Flag of Japan.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 50 stars.png"
+          }
+        ],
+        "lastrevid": 11938,
+        "length": 8717,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Hypersonic Weapons"
+          },
+          {
+            "ns": 0,
+            "title": "Orbital Command Stations"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1702,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11937,
+            "revid": 11938,
+            "slots": {
+              "main": {
+                "*": "List of various weapons and vehicles used by major combatants during [[World War III]].\n==Armor==\n{|class=\"wikitable sortable\" border=\"1\" style=\"width:96%\"\n|-\n!scope=\"col\" style=\"width:30%\"|Name of armor\n!scope=\"col\" style=\"width:7%\"|Years<br />in service\n!scope=\"col\" style=\"width:17%\"|Country of origin\n!scope=\"col\" |Description\n|-\n|Raytheon TA-4 || 2029-2052 || [[File:US_flag_50_stars.png|25px]] United States|| First armor model to feature an independent power supply while providing full coverage of the wearer.\n|-\n|General Dynamics TA-19 || 2043-2059 || [[File:US_flag_50_stars.png|25px]] United States|| Lightweight, long battery life armored exoskeleton.\n|-\n|General Dynamics TA-25 || 2049-2068 || [[File:US_flag_50_stars.png|25px]] United States|| General purpose armor\n|-\n|Raytheon-Orbital VA-7 || 2051-2062 || [[File:US_flag_50_stars.png|25px]] United States|| Vacuum rated armor\n|-\n|Type 41 Armor || 2041-2053 || [[File:Flag_of_Japan.png|25px]] Japan || First general purpose armor.\n|-\n|Type 49 Armor || 2049-2061 || [[File:Flag_of_Japan.png|25px]] Japan || Heavy armored exoskeleton rated for micro-artillery fire.\n|-\n|Type 53 Kozane || 2053-2070 || [[File:Flag_of_Japan.png|25px]] Japan || Most technologically sophisticated armor of the war.\n|}\n\n==Small Arms==\n==='''Rifles and LMGs'''===\n{|class=\"wikitable sortable\" border=\"1\" style=\"width:96%\"\n|-\n!scope=\"col\" style=\"width:30%\"|Name of firearm\n!scope=\"col\" style=\"width:7%\"|Years<br />in service\n!scope=\"col\" style=\"width:17%\"|Country of origin\n!scope=\"col\" |Description\n|-\n|M505 Battlerifle|| 2021-2052 || [[File:US_flag_50_stars.png|25px]] United States|| .50 Battle rifle. First rifle to incorporate guided munitions.\n|-\n|Type 41 Rifle || 2041 || [[File:Flag_of_Japan.png|25px]] Japan || 8mm lightweight guided battlerifle\n|}\n\n\n==='''Shotguns'''===\n==='''Pistols and SMGs'''===\n{|class=\"wikitable sortable\" border=\"1\" style=\"width:96%\"\n|-\n!scope=\"col\" style=\"width:30%\"|Name of firearm\n!scope=\"col\" style=\"width:7%\"|Years<br />in service\n!scope=\"col\" style=\"width:17%\"|Country of origin\n!scope=\"col\" |Description\n|-\n|Ruger H13 || 2039-2071 || [[File:US_flag_50_stars.png|25px]] United States|| 13mm Semi-automatic pistol. In 2052 the weapon was given a magnetic assistor and a wider range of ammunition varieties.\n|}\n\n==Heavy Arms==\n==='''Railguns'''===\n{|class=\"wikitable sortable\" border=\"1\" style=\"width:96%\"\n|-\n!scope=\"col\" style=\"width:30%\"|Name of firearm\n!scope=\"col\" style=\"width:7%\"|Years<br />in service\n!scope=\"col\" style=\"width:17%\"|Country of origin\n!scope=\"col\" |Description\n|-\n|BAE Model 14 || 2042-2059 || [[File:US_flag_50_stars.png|25px]] United States|| First light weight mobile railgun. Required a two person crew to operate with a rate of fire of 4 rounds per minute. Original power source only allowed for 13 shots.\n|-\n|M3 Magnetic Rifle|| 2053-2072 || [[File:US_flag_50_stars.png|25px]] United States|| 30mm armor mounted railgun. 50 round shot count.\n|-\n|Type 50 Railgun || 2050-2066 || [[File:Flag_of_Japan.png|25px]] Japan || 30mm armor mounted railgun. 29 shot limit.\n|}\n\n==Tanks and Artillery==\n{|class=\"wikitable sortable\" border=\"1\" style=\"width:96%\"\n|-\n!scope=\"col\" style=\"width:30%\"|Name of vehicle\n!scope=\"col\" style=\"width:17%\"|Type\n!scope=\"col\" style=\"width:7%\"|Years<br />in service\n!scope=\"col\" style=\"width:17%\"|Country of origin\n!scope=\"col\" |Description\n|-\n|M5-A2 Schwarzkopf|| Armored Fighting Vehicle || 2030-2052 || [[File:US_flag_50_stars.png|25px]] United States|| High speed UAGV. Modular armament platform.\n|-\n|PD-9 Pitbull || Armored Fighting Vehicle || 2041 || [[File:US_flag_50_stars.png|25px]] United States || Fire support vehicle.\n|}\n\n==Aircraft==\n{|class=\"wikitable sortable\" border=\"1\" style=\"width:96%\"\n|-\n!scope=\"col\" style=\"width:30%\"|Name of aircraft\n!scope=\"col\" style=\"width:17%\"|Type\n!scope=\"col\" style=\"width:7%\"|Years<br />in service\n!scope=\"col\" style=\"width:17%\"|Country of origin\n!scope=\"col\" |Description\n|-\n|Northrop Grumman AQ-47 Pegasus || Subsonic Attack Aircraft || 2027-2055 || [[File:US_flag_50_stars.png|25px]] United States|| First carrier based UCAV.\n|-\n|Lockheed SR-72 Wraith || Hypersonic Recon/Attack Aircraft || 2027-2055 || [[File:US_flag_50_stars.png|25px]] United States|| First hypersonic attack aircraft.\n|-\n|Boeing AQ-51 Kestrel || Hypersonic Attack Aircraft || 2045-2055 || [[File:US_flag_50_stars.png|25px]] United States|| Near-space operation.\n|-\n|Boeing FQ-47 Ghostfighter|| Unmanned Tactical Fighter || 2034-2055 || [[File:US_flag_50_stars.png|25px]] United States|| First dedicated unmanned fighter.\n|-\n|Northrop Grumman B-21 Raider\n| Subsonic Bomber Aircraft || 2037-2055 || [[File:US_flag_50_stars.png|25px]] United States|| Medium flying-wing bomber.\n|-\n|Northrop Grumman AQ-63 Serval || Hypersonic Attack Aircraft || 2053-2061 || [[File:US_flag_50_stars.png|25px]] United States|| Near-space operation.\n|-\n|Mitsubishi FQ-5 || Unmanned Tactical Fighter || 2041 || [[File:Flag_of_Japan.png|25px]] Japan || Based on FQ-9 Sparrowhawk\n|}\n\n==Spacecraft==\n{|class=\"wikitable sortable\" border=\"1\" style=\"width:96%\"\n|-\n!scope=\"col\" style=\"width:30%\"|Name of spacecraft\n!scope=\"col\" style=\"width:7%\"|Years<br />in service\n!scope=\"col\" style=\"width:17%\"|Country of origin\n!scope=\"col\" |Description\n|-\n|[[Orbital Command Stations|Mk.1 OCS]]|| 2037-2051 || [[File:US_flag_50_stars.png|25px]] United States|| First generation military space platforms.\n|-\n|[[Orbital Command Stations|Mk.2 OCS]]|| 2052-2069 || [[File:US_flag_50_stars.png|25px]] United States || Second generation military space platform\n|-\n|C-8 Super Shuttle|| 2051-2053 || [[File:US_flag_50_stars.png|25px]] United States || First generation American space to surface troop carrier.\n|-\n|A-5 Guardian|| 2051-2059 || [[File:US_flag_50_stars.png|25px]] United States || First generation American assault carrier. Crew of 28 armored space operators or drones.\n|-\n|Type 48 Assault Carrier || 2048 - 2055 || [[File:Flag_of_Japan.png|25px]] Japan || First Assault Carrier. Crew of 20 armored space operators.\n|-\n|Type 54 Gunship || 2054- 2055 || [[File:Flag_of_Japan.png|25px]] Japan || Single cannon gunship deployed for close orbit defense.\n|-\n|Type 53 Drop Carrier || 2053 - 2055 || [[File:Flag_of_Japan.png|25px]] Japan || Earth to Space launched orbital drop troop carrier.\n|}\n\n\n\n==Ships==\n{|class=\"wikitable sortable\" border=\"1\" style=\"width:96%\"\n|-\n!scope=\"col\" style=\"width:30%\"|Lead ship in class\n!scope=\"col\" style=\"width:17%\"|Type\n!scope=\"col\" style=\"width:7%\"|Years<br />in service\n!scope=\"col\" style=\"width:17%\"|Country of origin\n!scope=\"col\" |Description\n|-\n|USS Gerald R. Ford || Aircraft Carrier || 2017-2051 || [[File:US_flag_50_stars.png|25px]] United States|| Last crewed aircraft carrier in the US Navy\n|-\n|USS Michael Mullen || Aircraft Carrier || 2043-2055 || [[File:US_flag_50_stars.png|25px]] United States|| Large unmanned aircraft carrier.\n|-\n|USS Columbia || Ballistic missile submarine|| 2031-2085 || [[File:US_flag_50_stars.png|25px]] United States|| Converted for hypersonic missiles and submarine launched aircraft.\n|-\n|USS Devil Ray|| Submersible anti-ship drone || 2029-2055 || [[File:US_flag_50_stars.png|25px]] United States|| Autonomous anti-submarine platform carrying Mark 53 \"Remora\" torpedoes\n|-\n|USS Whale shark||  Drone arsenal sub || 2039-2062 || [[File:US_flag_50_stars.png|25px]] United States|| Autonomous submarine carrying 80 short range, and later long range hypersonic loitering munitions.\n|-\n| Hiryu || Aircraft carrier submarine || 2041 || [[File:Flag_of_Japan.png|25px]] Japan || Carries 12 FQ-5s\n|}\n\n\n==Missiles and Bombs==\n===Loitering Munitions===\n{|class=\"wikitable sortable\" border=\"1\" style=\"width:96%\"\n|-\n!scope=\"col\" style=\"width:30%\"|Name of firearm\n!scope=\"col\" style=\"width:7%\"|Years<br />in service\n!scope=\"col\" style=\"width:17%\"|Country of origin\n!scope=\"col\" |Description\n|-\n|FGM-343  || 2034-2066 || [[File:US_flag_50_stars.png|25px]] United States|| Subsonic shoulder fired missile with variable 30mm warheads.\n|-\n|FGM-194  || 2052-2079 || [[File:US_flag_50_stars.png|25px]] United States|| Subsonic 20mm missile. Variable warheads not introduced until post-war.\n|}\n\n===[[Hypersonic Weapons|Hypersonic missiles]]===\n{|class=\"wikitable sortable\" border=\"1\" style=\"width:96%\"\n|-\n!scope=\"col\" style=\"width:30%\"|Name of firearm\n!scope=\"col\" style=\"width:7%\"|Years<br />in service\n!scope=\"col\" style=\"width:17%\"|Country of origin\n!scope=\"col\" |Description\n|-\n|Northrop Grumman BGM-711  Scorpion  || 2021-2052 || [[File:US_flag_50_stars.png|25px]] United States|| Hypersonic Ground Launched Cruise Missile\n|-\n|Kawasaki Type 39 Missile|| 2039 || [[File:Flag_of_Japan.png|25px]] Japan || Sea Launched Cruise Missile\n|}[[Category:Weapons]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-10-11T04:27:39Z"
+          }
+        ],
+        "title": "List of World War III weapons",
+        "touched": "2025-10-11T04:27:39Z"
+      },
+      "1703": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4188,
+        "length": 74,
+        "new": "",
+        "ns": 1,
+        "pageid": 1703,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4188,
+            "slots": {
+              "main": {
+                "*": "2021's only four years away. Is the military already developing the M440L?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-16T17:14:16Z"
+          }
+        ],
+        "title": "Talk:List of World War III weapons/@comment-30470028-20170616171416",
+        "touched": "2017-06-16T17:14:16Z"
+      },
+      "1704": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:22nd-century conflicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican-American Cold War"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Cold War Logo.png"
+          }
+        ],
+        "lastrevid": 8444,
+        "length": 4261,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Brazil"
+          },
+          {
+            "ns": 0,
+            "title": "India Crisis"
+          },
+          {
+            "ns": 0,
+            "title": "Interplanetary Trade Commission"
+          },
+          {
+            "ns": 0,
+            "title": "Latin American Union"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Oscar Lachman"
+          },
+          {
+            "ns": 0,
+            "title": "Sahara War"
+          },
+          {
+            "ns": 0,
+            "title": "Second Depression"
+          },
+          {
+            "ns": 0,
+            "title": "Second Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Second Vietnam War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Chinese Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Timeline of major events"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican-American Cold War"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1704,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8010,
+            "revid": 8444,
+            "slots": {
+              "main": {
+                "*": "The '''Battle of Brazil''', also known as the '''Fall of Brazil''', was the combined Mexican and Latin-American invasion of [[Brazil]] during the [[Sahara War]]. In six weeks from 3 May 2129, Mexican-Allied forces defeated loyalist Brazilian forces by mobile operations and toppled the government in Brasilia through organized riots supported with Argentinian and Venezuelan sleeper agents.\n\n==Background==\n{{History of the Mexican-American Cold War}}\n\n==='''Sahara War'''===\nMexico had begun making serious inroads into the economic heartland of the Sahara since the early 2110s, in a bid to potentially upset the U.S-Brazilian led economic model that had existed since the fall of the Mediterranean Union. Brazil and the US cooperated heavily in the wide proxy conflicts for the Sahara, with Brazil directly engaging to protect its interests in Azawad. The conflict ultimately placed a heavy burden on Brazil and public opposition to the deployment of troops to Africa grew more severe as time went on and the death toll rose.\n\n==='''Brazilian debt crisis'''===\n==='''Social unrest'''===\n==='''Entente with the U.S.'''===\nBrazil began siding more and more with the US after the wars for East Africa almost ended with the loss of the Uganda Tower, and the Civil War in China threatened to spill into Macau. Brazil had agreed to commit forces to the Sahara war partly to cement the alliance with the US and securing mutual interests in North Africa.\n\nTo counter any potential US-Brazil entente in the Western Hemisphere, Mexico and its Latin American allies directly invaded Brazil in 2129, citing a desire to restore order after a series of riots broke out in Brasilia; riots engineered by Mexico.\n\nThe Latin American states put down the riots, and then propped up a puppet government that quickly signed a non-aggression pact with Mexico. The Latin American states established satellite states in Southern Brazil, annexed neighboring territory, and now had access to the wealth of the Amazon.\n\n==Mexican strategy==\n==='''Destabilization'''===\nThe Mexican strategy of destabilization by supporting popular uprisings and regionalist groups were partly intended to build alliances for Mexico, but mainly to distract the US around the world with costly wars just to hold onto partners they’d already won. With Brazil out of the picture, and America already busy with with civil wars in India and China, the US didn’t have time to aid a potential ally in South America. Mexico had proven itself to be a major player over the last 50 years, and had shown that the US wasn’t invulnerable. A number of powers closed ranks around Mexico, partly to spare themselves of any further destabilizing conflicts, but also due to a prevailing belief that Mexico would be the dominant power in the 22nd Century.\n\n==Battle==\n==='''Brasilia Riots'''===\nIn January 2129, through Venezuelan and Argentinian sleeper agents, Mexico began organizing several political entities established over the last 10 years to begin a series of demonstrations against the war in the Sahara. While largely organized by local leaders with legitimate grievances, Mexico's proxies posing as both protesters and police were able to escalate the demonstrations into full on riots that by April had paralyzed the Brazilian capital and driven many elected officials to flee Brasilia for their homes.\n\n==='''Amazon operations'''===\n==='''Southern invasion'''===\n==='''Atlantic assault'''===\n\n==Aftermath==\nAfter the Mexican puppet regime was installed, there were dozens of resistance leaders all claiming to be the legitimate government of Brazil, and therefore they ended up fighting each other. As a result, Mexico was able to limit its troop commitments for an occupation, leaving the government in Brasilia in line and neutral, and maintaining a balance of power between local leaders through a tribute/bribery system. With no unified resistance, Brazil remained internally divided, but unable to make any significant moves against Mexico.\n\nBrazil's military forces overseas largely refused to recognize the puppet regime, and formed a government in exile, but this entity was largely occupied with securing West Africa.\n[[Category:22nd-century conflicts]]\n[[Category:Mexican-American Cold War]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-10T02:29:56Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:History of the Mexican-American Cold War"
+          },
+          {
+            "ns": 10,
+            "title": "Template:·"
+          }
+        ],
+        "title": "Battle of Brazil",
+        "touched": "2018-09-10T02:29:56Z"
+      },
+      "1709": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4205,
+        "length": 80,
+        "new": "",
+        "ns": 1,
+        "pageid": 1709,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4205,
+            "slots": {
+              "main": {
+                "*": "I suggest \"Mankind's Garden\" as different name, clicks off the tongue better imo",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-18T23:11:11Z"
+          }
+        ],
+        "title": "Talk:Humanity's Garden/@comment-5590986-20170618231111",
+        "touched": "2017-06-18T23:11:11Z"
+      },
+      "1710": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4207,
+        "length": 171,
+        "new": "",
+        "ns": 1,
+        "pageid": 1710,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4207,
+            "slots": {
+              "main": {
+                "*": "I think an election around this time would probably have more people voting\n\n\n\nLike a lot more. 300 million voters around this time at least probably due to size of the US",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-19T07:26:25Z"
+          }
+        ],
+        "title": "Talk:United States presidential election, 2136/@comment-5590986-20170619072625",
+        "touched": "2017-06-19T07:26:26Z"
+      },
+      "1711": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4213,
+        "length": 84,
+        "ns": 1,
+        "pageid": 1711,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4212,
+            "revid": 4213,
+            "slots": {
+              "main": {
+                "*": "I think a ranking system would address concerns regarding switching to popular vote.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-19T18:39:43Z"
+          }
+        ],
+        "title": "Talk:Twenty-eighth Amendment to the United States Constitution/@comment-5590986-20170619183930",
+        "touched": "2017-06-19T18:39:43Z"
+      },
+      "1712": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4215,
+        "length": 50,
+        "new": "",
+        "ns": 1,
+        "pageid": 1712,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4215,
+            "slots": {
+              "main": {
+                "*": "That is where the Twenty-ninth amendment comes in.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-19T23:39:56Z"
+          }
+        ],
+        "title": "Talk:Twenty-eighth Amendment to the United States Constitution/@comment-5590986-20170619183930/@comment-27084453-20170619233956",
+        "touched": "2017-06-19T23:39:56Z"
+      },
+      "1713": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:22nd-century conflicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican-American Cold War"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Cold War Logo.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Algeria.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Mali.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Mexico (2074).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Nigeria.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Sahara War.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tenere Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tuareg Union Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 81smallstars.png"
+          }
+        ],
+        "lastrevid": 11712,
+        "length": 7633,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Battle of Brazil"
+          },
+          {
+            "ns": 0,
+            "title": "Brazil"
+          },
+          {
+            "ns": 0,
+            "title": "Christopher Reagan"
+          },
+          {
+            "ns": 0,
+            "title": "India Crisis"
+          },
+          {
+            "ns": 0,
+            "title": "Interplanetary Trade Commission"
+          },
+          {
+            "ns": 0,
+            "title": "Joaquín Andrade"
+          },
+          {
+            "ns": 0,
+            "title": "Latin American Union"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican Allies of the Third Mexican War"
+          },
+          {
+            "ns": 0,
+            "title": "Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "Oscar Lachman"
+          },
+          {
+            "ns": 0,
+            "title": "Second Depression"
+          },
+          {
+            "ns": 0,
+            "title": "Second Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Second Vietnam War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Chinese Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Timeline of major events"
+          },
+          {
+            "ns": 0,
+            "title": "Tuareg Union"
+          },
+          {
+            "ns": 0,
+            "title": "U.S. Allies of the Third Mexican War"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican-American Cold War"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1713,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11354,
+            "revid": 11712,
+            "slots": {
+              "main": {
+                "*": "{{Infobox Military Conflict\n|conflict= Sahara War\n|partof= [[Mexican-American Cold War]]\n|image=\n|caption= \n|date= 2117 - 2125\n|place= Sahara\n|causes= \n|territory=\n|result= Military stalemate\n|combatant1='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n'''[[U.S. Allies of the Third Mexican War| United States-Allies]]'''\n\n'''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n[[File:Flag_of_Nigeria.png|20px|border]] Nigeria-Arewa<br>\n[[File:Flag_of_Mali.png|20px|border]] Mali<br>\n[[File:Flag_of_Algeria.png|20px|border]] Algeria\n----\n<small>'''Military Support:'''</small><br>\n[[File:US_flag_81smallstars.png|20px|border]] [[United States of America|United States]]'''<br>\n[[Brazil|Brazil]] (2119)'''<br>\n\n\n|combatant2='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n'''[[Mexican Allies of the Third Mexican War| Mexican-Allies]]'''\n\n'''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n[[File:Tuareg_Union_Flag.png|20px|border]] [[Tuareg Union]]<br>\n[[File:Tenere_Flag.png|20px|border]] Tenere Republic''\n----\n<small>'''Military Support:'''</small><br>\n[[File:Flag_of_Mexico_(2074).png|20px|border]] [[Mexico]]'''<br>\n\n|commander1='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n[[File:US_flag_81smallstars.png|20px|border]] [[Christopher Reagan]]<br>\n\n|commander2='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n[[File:Flag_of_Mexico_(2074).png|20px|border]] [[Joaquín Andrade]]<br>\n}}\n{{History of the Mexican-American Cold War}}\n\nThe '''Sahara War''' was an armed conflict between Nigeria-Arewa and the Tuareg Union. The war was partly the result of Mexican political engineering and long-standing geopolitical tension between the two combatants following the collapse of the MU and the reunification of Nigeria and Arewa. The United States and Brazil both saw limited action during the conflict, as both powers feared that victory by Mexican-backed forces would threaten the Agribusiness in the Sahara, while the US worried such a victory would force the US to split its forces in Europe to protect its North African allies Nigeria fall to the Tuareg.\n\n==Background==\n==='''Dissolution of the Mediterranean Union'''===\nThe Breakup of the Mediterranean Union created a power vacuum in the Sahara, a vacuum that the Tuareg Union and the newly reunified Nigera hoped to fill. The reunification of Nigeria and Arewa was a political coup executed by American diplomats when the wars in East Africa had only just begun. The hope was for Nigeria to be the base of power in West Africa, and to create the means for a Nigerian-Congolese-East African bloc that could secure US space elevator access in the region, along with all major trade routs to get those goods to market. For Mexico, this was unacceptable. It didn't take any prodding to get the Tuareg Union on board to oppose the Nigerians, and for close to a decade their forces stood at odds on a common border. \n\n==='''East-African Wars'''===\nThe East African Federation was an important anchor to American power in space as a host country for a space elevator ground-station. The US had spent decades providing economic support and military aide to keep the country together, but unlike Ecuador or Beanstalk's tower, the Uganda Tower was positioned several hundred miles inland. Mexican intelligence services saw East Africa as a prime target to cripple American power on Earth. By 2110, Mexico had successfully infiltrated the EAF ministries and media, and pushed the election of several regionalist candidates who exacerbated existing social tensions within the Federation between traditionalist forces and progressives.\n\nBy the middle of the 2110s the war in East Africa was starting to go in the American allies favor, and Mexico could not afford to send its own forces to the region. An additional distraction was required.\n\nIn 2117, the situation in East Africa was beginning to turn in the American favor. Kenyan nationalists were beginning to loose ground and the transit lines from the Uganda tower to the Indian Ocean were largely secure. Trade was re-established with the Kush Republic, and US forces engaged in the region were beginning to talk about an armistice. \n\n==='''Nigerian-Arewa reunification'''===\n\n==Course of the war==\n==='''Nigerian-Tuareg Border Skirmishes'''===\nThat year, Mexico's GPS network experienced an unforeseen malfunction and Tuareg troops on regular patrols accidentally crossed into Nigeria 's Northeast province. By the time their navigational system was reestablished they'd found themselves behind Nigerian lines and facing a Nigerian armored battalion to their North. During the chaos, several soldiers claimed that Nigeria was invading Tuareg territory over their communications to command. By the time the mistake had been rectified, the Tuareg had pushed 10 kilometers inside of Nigerian territory, and Nigerian drones had struck the Tuareg military positions and supply lines north of the border.\n\n==='''Hausa-Azawad Rebellions'''===\nWith Nigeria gaining ground in the second year of the war, Mexican operatives began to encourage political distension among the wealthier factions of the Hausa in the regions bordering Lake Chad. However, similar sentiments had already begun to spread in the Azawad region of the Tuareg Union. When the Hausa rose up, Azawad did as well, and one rebellion along the border between both nations became two, and suddenly the Nigerian military found themselves trapped behind two enemy lines. The war began to devolve after that, the few forces in Nigeria available to fight the Hausa were unable to stop the spread of sectarianism at home, while more and more rebel groups began to emerge in response to the Government's refusal to surrender.\n\n==='''Mali enters the War'''===\nAfter two years of civil war, the Brazilians decided it was time to make their own move and deployed a division of their own forces to aid their allies in Mali to push into Azawad and secure Tombouctou. Mexico began to respond to US calls for a ceasefire, and after the Arewa Coup, they had it. The Treaty of Tripoli was signed in a matter of days, as the Junta in Arewa simply wanted a return of its troops who were trapped in Azawad and Tuareg territory. Nigeria was left in pieces.\n\n==='''Nigerian Coup'''===\n==='''International intervention and ceasefire'''===\n\n==Aftermath==\n[[File:Sahara_War.png|thumb|500px|Change in borders after the treaty of Tripoli.]]\nWhile Mexico's attempt to break up the US-Alliance system in the Sahara succeeded, it ultimately proved more costly than either side had expected. The Tuareg Union was facing an internal civil war, and while Nigeria was no divided it had left a dangerous power vacuum in Sub-Saharan Africa. Brazil ultimately gained the most with its proxies in Mali expanding into former Tuareg territory and creating an Azawad buffer between themselves and the rump Tuareg Federation. The war weakened the American position in North Africa, but did little to advance Mexico's cause. The allies they gained were divided and in no position to reverse their fortunes in East Africa. Most troubling was the degree of success Brazil had with their alliance system and their treatment as an equal player at the negotiating table.\n[[Category:22nd-century conflicts]]\n[[Category:Mexican-American Cold War]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-11-08T18:37:38Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:History of the Mexican-American Cold War"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox Military Conflict"
+          },
+          {
+            "ns": 10,
+            "title": "Template:WPMILHIST Infobox style"
+          },
+          {
+            "ns": 10,
+            "title": "Template:·"
+          }
+        ],
+        "title": "Sahara War",
+        "touched": "2024-11-08T18:37:38Z"
+      },
+      "1714": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4223,
+        "length": 32,
+        "new": "",
+        "ns": 1,
+        "pageid": 1714,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4223,
+            "slots": {
+              "main": {
+                "*": "Who was the first human on Mars?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-21T17:24:16Z"
+          }
+        ],
+        "title": "Talk:Mars/@comment-5590986-20170621172415",
+        "touched": "2017-06-21T17:24:16Z"
+      },
+      "1715": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Countries in Asia"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former countries in Asia"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former country articles requiring maintenance"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages with non-numeric formatnum arguments"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:2000px-Flag of Korea 1882.svg.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:East Asia Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of North Korea.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of South Korea.png"
+          }
+        ],
+        "lastrevid": 10807,
+        "length": 5078,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Association of East-Asia"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Korea"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of the Korea"
+          },
+          {
+            "ns": 0,
+            "title": "Japan"
+          },
+          {
+            "ns": 0,
+            "title": "Korean War (2017–2021)"
+          },
+          {
+            "ns": 0,
+            "title": "List of countries by population"
+          },
+          {
+            "ns": 0,
+            "title": "National Assembly"
+          },
+          {
+            "ns": 0,
+            "title": "North Korea"
+          },
+          {
+            "ns": 0,
+            "title": "Park Nak-yeon (last)"
+          },
+          {
+            "ns": 0,
+            "title": "Seoul"
+          },
+          {
+            "ns": 0,
+            "title": "South Korea"
+          },
+          {
+            "ns": 0,
+            "title": "Syngman Rhee (first)"
+          },
+          {
+            "ns": 0,
+            "title": "Unitary presidential constitutional republic"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "Won (₩) KRW"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in 2141"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2140s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2141"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 22nd century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in 1948"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 1940s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 1948"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 20th century"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1715,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9728,
+            "revid": 10807,
+            "slots": {
+              "main": {
+                "*": "{{Infobox former country\n|width = 265px\n|conventional_long_name = United Republic of Korea<br>대한민국/大韓民國<br>Daehan Minguk\n|year_end = 2141\n|common_name = Korea\n|p1 = South Korea\n|image_p1 = [[File:Flag_of_South_Korea.png|20px|link=]]\n|p2 = North Korea\n|image_p2 = [[File:Flag_of_North_Korea.png|20px|link=]]\n|year_start = 1948\n|s1 = Association of East-Asia\n|image_s1 = [[File:East_Asia_Flag.png|20px|link=]]\n|image_flag = 2000px-Flag_of_Korea_1882.svg.png\n|coa_size = 100px\n|symbol_type = Seal\n|capital = Seoul\n|title_leader = President\n|government_type = Unitary presidential constitutional republic\n|continent = Asia\n|leader2 = Park Nak-yeon (last)\n|leader1 = Syngman Rhee (first)\n|year_leader1 = 1948-1960\n|year_leader2 = 2021-2141\n|legislature = National Assembly\n|event_start = National Foundation Day\n|date_start = February 11\n|event_end = Dissolution\n|date_end = September 16\n|stat_year1 = 2140\n|stat_pop1 = 53,011,423\n|currency = Won (₩) KRW\n|today = [[Association of East-Asia]]\n|region = North Pacific\n|anthem = ''Aegukga'' <br>애국가; 愛國歌\n|demonym = Korean\n}}\n'''Korea,''' officially the '''United Republic of Korea''' (URK), was a sovereign state in East Asia, constituting the whole of the Korean Peninsula. Koreans led a distinctive urban lifestyle in the densely populated hubs of Seoul and Pyongyang. With the unification of East Asia into a single Associated State in 2140, the country became a state of the new Association and a major player in Association politics. Since the end of the Republic, Korea has remained part of the Association of East Asia.\n\n==History==\n==='''Ancient Korea'''===\n==='''Three Kingdoms'''===\n==='''Unified Dynasties'''===\n==='''Division'''===\nIn 1945, the Soviet Union and the [[United States]] agreed on the surrender of [[Japan]]ese forces in Korea in the aftermath of World War II, leaving Korea partitioned along the 38th parallel, with the North under Soviet occupation and the South under U.S. occupation. These circumstances soon became the basis for the division of Korea by the two superpowers, exacerbated by their incapability to agree on the terms of Korean independence. The Communist-inspired government in the North received backing from the Soviet Union in opposition to the pro-Western government in the South, leading to Korea's division into two political entities: North Korea (formally the Democratic People's Republic of Korea), and South Korea (formally the Republic of Korea). This eventually led to the [[Korean War (2017–2021)|Korean War]] in 1950, which ended in a stalemate without a formalized peace treaty in 1953, a factor that contributed to the high tensions which would divide the peninsula for over seven decades. Both countries competed with each other as the sole legitimate government of all of Korea.\n\nFrom 2017–2018, tensions in Korea grew as a result of growing tensions between the DPRK, ROK, and the U.S. over the North's nuclear weapons program.\n\n==='''Reunification'''===\nThe Korean reunification was the process that began in 2029 in which the territory of the former Democratic People's Republic of Korea (North Korea) joined the Republic of Korea (South Korea) to form the reunited nation of Korea. The end of the unification process is officially referred to as Korean Unity Day, celebrated on 11 February, 2031 and commemorated yearly from there on out. Following Korean reunification, Seoul was once again designated as the capital of united Korea. The actual process of reunifying, however, would ultimately take decades, only really ending with the outbreak of the [[World War III|Third World War]].\n\nIn the 2040s, as Japan began to impose a more tangible threat to the Korean peninsula, the US began offering military and financial assistance to Korea. This buildup of the military provided much needed economic relief, but also united the country in a way that previous attempts never had been able to. The Korean government reopened North Korean military facilities and factories, driving southern experts north to manage the creation of a wartime economy, and brought the country together with a propaganda campaign designed by Hwang Sye-kyun, a former North Korean propaganda artist. Japan's invasion galvanized this effort, and unified Koreans against a common enemy like they had not seen in a century. In an irony of history, the national capital was temporarily relocated to Pyongyang after the Japanese took Seoul.\n\n==='''Association'''===\n\n==Geography==\nThe Korean peninsula extends southwards for about 1,100 km (680 mi) from continental Asia into the Pacific Ocean and is surrounded by the Sea of Japan (East Sea) to the east, and the Yellow Sea (West Sea) to the west. The Korea Strait connecting the first two bodies of water separates Korea from Japan while the Yalu River to the North served as a border with China. Korea is mainly mountainous, and there are many islands off the south coast, providing numerous natural defenses from the elements.\n[[Category:Former countries in Asia]]\n[[Category:Countries in Asia]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2022-07-19T20:48:14Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Both"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country/autocat"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Main other"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ns0"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ordinal"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str find"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "Korea",
+        "touched": "2022-07-19T20:48:14Z"
+      },
+      "1716": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Weapons"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Flag of Mexico (2074).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 50 stars.png"
+          }
+        ],
+        "lastrevid": 9627,
+        "length": 5222,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Armor"
+          },
+          {
+            "ns": 0,
+            "title": "Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "Olympus-class dreadnought"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1716,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9045,
+            "revid": 9627,
+            "slots": {
+              "main": {
+                "*": "List of various weapons and vehicles used by major combatants during the [[Third Mexican-American War|Third Mexican War.]]\n==[[Armor]]==\n{| class=\"wikitable sortable\" style=\"width:100%; font-size: 90%; text-align: left\"\n|-\n! style=\"width:10%; background: #ffebad;\" | Armor\n! style=\"width:15%; background: #ffebad;\" | Country\n! style=\"width:15%; background: #ffebad;\" | Service date\n! style=\"width:25%; background: #ffebad;\" | Combat role\n! style=\"width:15%; background: #ffebad;\" | Top Landspeed\n! style=\"width:15%; background: #ffebad;\" | Number\n(wartime/total built)\n|-\n|VA-770b\n|[[File:US_flag_50_stars.png|25px]] [[United States]]\n|2137-Present\n|Orbital and Low-Gravity combat\n|1200 km/hr\n|2,591\n|-\n|AP-111\n|[[File:Flag_of_Mexico_(2074).png|25px]] [[Mexico]]\n|2129-41\n|Rapid assault and infiltration\n|1500 km/hr\n|397\n|-\n|TA-115\n|[[File:US_flag_50_stars.png|25px]] [[United States]]\n|2139-Present\n|Multi-Role Squad Command\n|900 km/hr\n|155\n|-\n|TA-105\n|[[File:US_flag_50_stars.png|25px]] [[United States]]\n|2117-39\n|Multi-role\n|900 km/hr\n|2,183\n|-\n|VA-16d\n|[[File:US_flag_50_stars.png|25px]] [[United States]]\n|2119-33\n|Vacuum combat squad command\n|150 km/hr\n|175\n|-\n|AP-70b\n|[[File:Flag_of_Mexico_(2074).png|25px]] [[Mexico]]\n|2130-2141\n|Heavy assault\n|130 km/hr\n|761\n|-\n|AP-32g\n|[[File:Flag_of_Mexico_(2074).png|25px]] [[Mexico]]\n|2121-35\n|Battlefield systems and EM warfare\n|300 km/hr\n|149\n|}\n==Firearms==\n\n==Drones==\n{| class=\"wikitable sortable\" style=\"width:100%; font-size: 90%; text-align: left\"\n|-\n! style=\"width:10%; background: #ffebad;\" | Drone\n! style=\"width:15%; background: #ffebad;\" | Country\n! style=\"width:15%; background: #ffebad;\" | Service date\n! style=\"width:25%; background: #ffebad;\" | Combat role\n! style=\"width:15%; background: #ffebad;\" | Armament\n! style=\"width:15%; background: #ffebad;\" | Number\n(wartime/total built)\n|-\n|LAD-113 Bison II\n|[[File:US_flag_50_stars.png|25px]] [[United States]]\n|2099-2141\n|Heavy support land drone.\n|Micro-artillery pods, dorsal rail-gun.\n|\n|-\n|LAD-208 Loveridge\n|[[File:US_flag_50_stars.png|25px]] [[United States]]\n|2135-2155\n|Area denial land drone.\n|Heavy artillery pods, twin rail guns, VTOL aircraft launch bay.\n|\n|}\n\n==Aircraft==\n{| class=\"wikitable sortable\" style=\"width:100%; font-size: 90%; text-align: left\"\n|-\n! style=\"width:10%; background: #ffebad;\" | Aircraft\n! style=\"width:15%; background: #ffebad;\" | Country\n! style=\"width:15%; background: #ffebad;\" | Service date\n! style=\"width:25%; background: #ffebad;\" | Combat role\n! style=\"width:15%; background: #ffebad;\" | Top Speed\n! style=\"width:15%; background: #ffebad;\" | Number\n(wartime/total built)\n|-\n|Boeing\nF-51 Mustang II\n|[[File:US_flag_50_stars.png|25px]] [[United States]]\n|2052-61\n|Fighter\n|\n|\n|-\n|Northrop Grumman A-24 Bobcat\n|[[File:US_flag_50_stars.png|25px]] [[United States]]\n|2052-61\n|Attack\n|\n|\n|-\n|Boeing\nC-36 Stratotitan\n|[[File:US_flag_50_stars.png|25px]] [[United States]]\n|2052-61\n|Cargo Transport\n|\n|\n|-\n|Lockheed\nMV-24 Vulture\n|[[File:US_flag_50_stars.png|25px]] [[United States]]\n|2052-61\n|Multi-role close-support\n|\n|\n|-\n|Tenoch Model 41\n|[[File:Flag_of_Mexico_(2074).png|25px]] [[Mexico]]\n|2052-61\n|Multi-role close-support\n|\n|\n|-\n|Tenoch Model 64\n|[[File:Flag_of_Mexico_(2074).png|25px]] [[Mexico]]\n|2052-61\n|Transport\n|\n|\n|-\n|Coahuila Model 32\n|[[File:Flag_of_Mexico_(2074).png|25px]] [[Mexico]]\n|2052-61\n|Fighter\n|\n|\n|-\n|Coahuila Model 26\n|[[File:Flag_of_Mexico_(2074).png|25px]] [[Mexico]]\n|2052-61\n|Bomber\n|\n|\n|}\n\n\n==Spacecraft==\n{| class=\"wikitable sortable\" style=\"width:100%; font-size: 90%; text-align: left\"\n|-\n! style=\"width:20%; background: #ffebad;\" | Class\n! style=\"width:20%; background: #ffebad;\" | Type\n! style=\"width:15%; background: #ffebad;\" | Country\n! style=\"width:10%; background: #ffebad;\" | Launch Years\n! style=\"width:10%; background: #ffebad;\" | Length\n! style=\"width:15%; background: #ffebad;\" | Number\n(wartime/total built)\n|-\n|[[Olympus-class dreadnought|Olympus]]\n|Super Dreadnought\n|[[File:US_flag_50_stars.png|25px]] [[United States]]\n|2136-60\n|10km\n|3\n|-\n|Ares\n|Cruiser\n|[[File:US_flag_50_stars.png|25px]] [[United States]]\n|2136-60\n|550km\n|12\n|-\n|James E. Knight\n|Dreadnought\n|[[File:US_flag_50_stars.png|25px]] [[United States]]\n|2110-35\n|600m\n|15\n|-\n|Luis Zepeda\n|Cruiser\n|[[File:Flag_of_Mexico_(2074).png|25px]] [[Mexico]]\n|2134-2139\n|440m\n|9\n|-\n|Armstrong\n|Cruiser\n|[[File:US_flag_50_stars.png|25px]] [[United States]]\n|2082-Present\n|380m\n|79\n|-\n|Hidalgo\n|Drop Carrier\n|[[File:Flag_of_Mexico_(2074).png|25px]] [[Mexico]]\n|2117-2139\n|300m\n|60\n|-\n|Ratana\n|Drop Carrier\n|[[File:US_flag_50_stars.png|25px]] [[United States]]\n|2119-Present\n|200m\n|54\n|-\n|Ranger\n|Assault Carrier\n|[[File:US_flag_50_stars.png|25px]] [[United States]]\n|2136-Present\n|230m\n|38\n|-\n|Ecatepec\n|Assault Carrier\n|[[File:Flag_of_Mexico_(2074).png|25px]] [[Mexico]]\n|2108-2139\n|170m\n|21\n|-\n|Juárez\n|Gunship\n|[[File:Flag_of_Mexico_(2074).png|25px]] [[Mexico]]\n|2121-2140\n|35m\n|71\n|-\n|Grissom\n|Gunship\n|[[File:US_flag_50_stars.png|25px]] [[United States]]\n|2094-2145\n|30m\n|195\n|-\n|SAQ-400\n|Area dominance attack drone\n|[[File:US_flag_50_stars.png|25px]] [[United States]]\n|2104-Present\n|10m\n|5,381\n|}\n\n==Watercraft==\n==Missiles and Bombs==\n[[Category:Weapons]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-05-06T04:27:56Z"
+          }
+        ],
+        "title": "List of Third Mexican War weapons",
+        "touched": "2020-05-07T20:19:18Z"
+      },
+      "1717": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Technology"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6619,
+        "length": 92,
+        "ns": 0,
+        "pageid": 1717,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4237,
+            "revid": 6619,
+            "slots": {
+              "main": {
+                "*": "The Augment Rights Act was an act that put an end to the Falana Act.\n[[Category:Technology]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-11-08T23:25:54Z"
+          }
+        ],
+        "title": "Augment Rights Act",
+        "touched": "2017-11-08T23:25:54Z"
+      },
+      "1718": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Turkey"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7064,
+        "length": 991,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Turkey"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1718,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4254,
+            "revid": 7064,
+            "slots": {
+              "main": {
+                "*": "Abdul Şahin was an Turkish politician and President of [[Turkey]], serving from 2044 to 2054. A decorated veteran of War against ISIS, Şahin became a major leader of the Islamist movement within the country and a sharp critic of the secular government. He gained support by promoting Turkish Islamic nationalism, and Pan-Turkism with charismatic oratory and propaganda. He was elected to the Turkish Parliament in 2039 and rose to lead the Party for a United Turkey (PUT) to a legislative majority in the 2044 elections, leading to his own election to the Presidency.\n\nŞahin ultimately wanted to establish a New Ottoman Empire with a base of power stretching from north Africa into the Eurasian Steppe. To achieve this, he pursued a foreign policy with the declared goal of uniting the Turkic states under a common currency and military; directing the resources of the state towards this goal. This included a massive arms build up in Turkey.\n[[Category:Turkey]]\n[[Category:21st Century]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-11T15:10:02Z"
+          }
+        ],
+        "title": "Abdul Şahin",
+        "touched": "2018-01-11T15:10:02Z"
+      },
+      "1719": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Japan"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7066,
+        "length": 821,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Japan"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1719,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4256,
+            "revid": 7066,
+            "slots": {
+              "main": {
+                "*": "Daitaro Sato, (30 November 1998 – 24 January 2056) was a Japanese politician and statesman known for his leadership of [[Japan]] during the [[World War III|Third World War]]. He served as prime minister longer than any Prime minister since Shinzō Abe(from 2044-2055), and was the first Prime Minister of Japan to serve since the end of the Yamato Dynasty. A noted statesman and orator, Sato was also an officer in the Japanese Self Defense Force, a historian, and writer.\n\nSato is best remembered for being the mastermind behind his country's attack on the American orbital defense network that initiated the Third World War. Upon the end of the conflict he negotiated an armistice with the [[United States of America|United States]] before resigning as Prime Minister and committing ritual suicide.\n[[Category:Japan]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-11T15:16:42Z"
+          }
+        ],
+        "title": "Daitaro Sato",
+        "touched": "2019-08-15T19:21:51Z"
+      },
+      "1720": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Social Reform"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Technology"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 10380,
+        "length": 3988,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Artificial-Intelligence Operating System"
+          },
+          {
+            "ns": 0,
+            "title": "Early 2020s Recession"
+          },
+          {
+            "ns": 0,
+            "title": "Great Reset"
+          },
+          {
+            "ns": 0,
+            "title": "Oscar Lachman"
+          },
+          {
+            "ns": 0,
+            "title": "Second Depression"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1720,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9920,
+            "revid": 10380,
+            "slots": {
+              "main": {
+                "*": "A '''residential mall''' is a modern, chiefly North American, term for a form of '''residential precinct''' or '''living center''', in which one or more buildings form a complex of residences and business with interconnecting walkways that enable residents to walk from unit to unit. Residential malls in 2160 accounted for 48% of living space in the United States.\n\nMany early residential malls were converted from failed \"shopping malls\" which served as centers of retail commerce. However, after the [[Early 2020s Recession|Economic Recessions of the early 2020s]], shopping malls around the country went out of business and were converted into living centers. Technical innovations such as hyperloop tracks and horizontal elevators led to the living center taking on more vertical living space and growing in use.\n\nAs a single built structure, early living centers were often architecturally significant constructions, enabling residents to live and work in spaces protected from the weather.\n\n==History==\nResidential malls first appeared in the United States during the [[Great Reset]] just prior to the recession in 2018. Shopping Mall closures had sharply risen leading up to the recession, and had sharply spiked after the crash. Combined by the reduced personal incomes of younger and rural people, the Mall was seen as an ideal solution to the problem of affordable housing, and many developers began buying and refurbishing retail space for human habitation. Some shopping malls used the trend to save their own storefronts by converting empty \"anchor stores\" into housing.\n\n==='''Early developments'''===\nConverted malls made up the bulk of residential malls in the country prior to the Ocasio-Cortez’s housing reforms of the late 2020s and early 2030s. Developers bought up hundreds of malls during the Late 2010s Recession and converted storefronts into apartments for families without the credit or capital to purchase suburban real-estate. These early examples also catered to retirement communities and some were known to offer low-rent high density living arrangements for the homeless. \n\nAs profits increased, real estate developers began to use the reduced need for parking to convert blacktop and nearby outlet centers into more high density housing and shared-commercial storefronts.\n\n==='''Satellite versions'''===\nThe Pan-California Hyperloop Network led to the first example of Residential Malls as hubs for satellite cities. Developers partnered with the state to create malls around hyperloop stations to offer low-cost housing to commuters working hundreds of miles away in major cities. Where traditional residential malls largely catered to poorer suburbanites, limiting growth, these satellite communities pulled in a more reliable revenue stream. The boom in the construction of satellite malls didn't emerge until the 2040s when the National Hyperloop Network was completed and developers began building malls nationwide purely to serve the needs of urban workers looking to take advantage of lower living expenses in rural communities. \n\n==='''Increasing size'''===\nBy the late 2060s residential mall construction had seen a decline as living costs nation-wide began to even out. With the rise of [[Artificial-Intelligence Operating System|AIOS]] systems and the mass unemployment of the [[Second Depression]], residential malls began to experience a sharp decline in revenue. With the deregulation policies of the [[Oscar Lachman|Lachman administration]] developers began offering residential malls as business centers and upscale vertical plantations for their clients. While multi-story malls had been seen prior to this period, none were more than ten stories high prior to 2083 when New York's 104 story Alphabet City Mall was built (though some debate whether or not these buildings can be classified as Malls given how narrow their proportions and the low density of their living space.\n[[Category:Technology]]\n[[Category:Social Reform]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-04-10T00:29:22Z"
+          }
+        ],
+        "title": "Residential mall",
+        "touched": "2025-10-04T16:51:10Z"
+      }
+    }
+  }
+}

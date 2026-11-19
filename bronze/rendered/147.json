@@ -1,0 +1,8 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"plainlinks ombox ombox-notice\" style=\"\">\n<tbody><tr>\n<td class=\"mbox-image\">\n  <span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://static.wikia.nocookie.net/second-renaissance/images/3/31/Imbox_notice.png/revision/latest?cb=20150808172510\" decoding=\"async\" loading=\"lazy\" width=\"40\" height=\"40\" class=\"mw-file-element\" data-image-name=\"Imbox notice.png\" data-image-key=\"Imbox_notice.png\" data-relevant=\"0\" /></span></span></td>\n<td class=\"mbox-text\" style=\"\"> {{{text}}} </td>\n</tr>\n</tbody></table>\n<!-- \nNewPP limit report\nCached time: 20261119205407\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.007 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 79/1000000\nPost‐expand include size: 570/2097152 bytes\nTemplate argument size: 10/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    1.807      1 Template:Ombox/core\n100.00%    1.807      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:147-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205407 and revision id 201. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [],
+  "page_id": 147,
+  "revision_id": 201,
+  "title": "Template:Ombox"
+}

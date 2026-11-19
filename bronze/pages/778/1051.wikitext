@@ -1,0 +1,6 @@
+#REDIRECT [[Template:Documentation]]
+
+{{Redr|from merge|rcon}}
+
+[[Category:Template documentation]]
+[[Category:Wikipedia formatting and function templates]]

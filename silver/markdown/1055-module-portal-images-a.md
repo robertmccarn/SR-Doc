@@ -1,0 +1,164 @@
+---
+page_id: 1055
+revision_id: 1613
+source_url: https://second-renaissance.fandom.com/wiki/Module%3APortal/images/a
+raw_sha256: 4206a4ee4556a347a3756aebb3111f5c5f4ecc749faf32c7f6b1a30826dd4433
+---
+
+# Module:Portal/images/a
+
+## Preserved source
+
+```wikitext
+--[==[ This is the "A" list of portal image names. It contains a list of portal images for use with [Module:Portal](630-module-portal.md)
+-- for portal names that start with the letter "A". For aliases to existing portal names, and for portal names that
+-- start with other letters, please use the appropriate page from the following list:
+
+-- [Module:Portal/images/b](1051-module-portal-images-b.md)       - for portal names beginning with "B".
+-- [Module:Portal/images/c](1047-module-portal-images-c.md)       - for portal names beginning with "C".
+-- [Module:Portal/images/d](1065-module-portal-images-d.md)       - for portal names beginning with "D".
+-- [Module:Portal/images/e](2279-module-portal-images-e.md)       - for portal names beginning with "E".
+-- [Module:Portal/images/f](1064-module-portal-images-f.md)       - for portal names beginning with "F".
+-- [Module:Portal/images/g](631-module-portal-images-g.md)       - for portal names beginning with "G".
+-- [Module:Portal/images/h](1062-module-portal-images-h.md)       - for portal names beginning with "H".
+-- [Module:Portal/images/i](1060-module-portal-images-i.md)       - for portal names beginning with "I".
+-- [Module:Portal/images/j](1058-module-portal-images-j.md)       - for portal names beginning with "J".
+-- [Module:Portal/images/k](1056-module-portal-images-k.md)       - for portal names beginning with "K".
+-- [Module:Portal/images/l](1054-module-portal-images-l.md)       - for portal names beginning with "L".
+-- [Module:Portal/images/m](1049-module-portal-images-m.md)       - for portal names beginning with "M".
+-- [Module:Portal/images/n](632-module-portal-images-n.md)       - for portal names beginning with "N".
+-- [Module:Portal/images/o](1045-module-portal-images-o.md)       - for portal names beginning with "O".
+-- [Module:Portal/images/p](2280-module-portal-images-p.md)       - for portal names beginning with "P".
+-- [Module:Portal/images/q](2281-module-portal-images-q.md)       - for portal names beginning with "Q".
+-- [Module:Portal/images/r](1063-module-portal-images-r.md)       - for portal names beginning with "R".
+-- [Module:Portal/images/s](1061-module-portal-images-s.md)       - for portal names beginning with "S".
+-- [Module:Portal/images/t](1059-module-portal-images-t.md)       - for portal names beginning with "T".
+-- [Module:Portal/images/u](606-module-portal-images-u.md)       - for portal names beginning with "U".
+-- [Module:Portal/images/v](1057-module-portal-images-v.md)       - for portal names beginning with "V".
+-- [Module:Portal/images/w](2282-module-portal-images-w.md)       - for portal names beginning with "W".
+-- [Module:Portal/images/x](1053-module-portal-images-x.md)       - for portal names beginning with "X".
+-- [Module:Portal/images/y](1050-module-portal-images-y.md)       - for portal names beginning with "Y".
+-- [Module:Portal/images/z](1046-module-portal-images-z.md)       - for portal names beginning with "Z".
+-- [Module:Portal/images/other](1048-module-portal-images-other.md)   - for portal names beginning with any other letters. This includes numbers,
+--                                    letters with diacritics, and letters in non-Latin alphabets.
+-- [Module:Portal/images/aliases](1052-module-portal-images-aliases.md) - for adding aliases for existing portal names. Use this page for variations
+--                                    in spelling and diacritics, etc., no matter what letter the portal begins with.
+
+-- When adding entries, please use alphabetical order. The format of the images table entries is as follows:
+--          ["portal name"] = "image.svg",
+-- The portal name should be the name of your portal, in lower case. For example, the portal name for 
+-- "Portal:United Kingdom" would be "united kingdom". The image name should be capitalised normally, and the "File:"
+-- namespace prefix should be
+-- omitted.
+]==]
+
+return {
+	["a-league"] = "Soccer ball.svg",
+	["abkhazia"] = "Flag of Abkhazia.svg|border",
+	["aboriginal peoples in canada"] = "Aboriginal War Veterans monument (close).JPG",
+	["abu dhabi"] = "Flag of Abu Dhabi.svg|border",
+	["academy award"] = "Video-x-generic.svg",
+	["acadia"] = "Flag of Acadia.svg|border",
+	["acc"] = "ACC Map crop 2014.png",
+	["ac/dc"] = "Acdc logo band.svg",
+	["aerosmith"] = "Joe Perry 1.jpg",
+	["aesthetics"] = "Morning Glory Flower square.jpg",
+	["afghanistan"] = "Flag of Afghanistan.svg|border",
+	["africa"] = "Africa satellite orthographic.jpg",
+	["african american"] = "AmericaAfrica.svg",
+	["agriculture and agronomy"] = "Veranotrigo.jpg",
+	["agropedia"] = "Farmer plowing.jpg",
+	["ahmadiyya"] = "White Minaret Symbol.png",
+	["ahmedabad"] = "Mosque of Sidi Sayed Jaali.JPG",
+	["ai"] = "ArtificialFictionBrain.png",
+	["ajman"] = "Flag of Ajman.svg|border",
+	["akb48"] = "AKB48 logo2.svg",
+	["alabama"] = "Flag of Alabama.svg|border",
+	["alaska"] = "Flag of Alaska.svg|border",
+	["albania"] = "Flag of Albania.svg|border",
+	["alberta"] = "Flag of Alberta.svg|border",
+	["algebra"] = "Arithmetic symbols.svg",
+	["algeria"] = "Flag of Algeria.svg|border",
+	["alien"] = "Alien logo.svg",
+        ["alphabet"] = "Abc.xyz Favicon.png",
+	["alternative medicine"] = "Rod of Asclepius2.svg",
+	["alternative music"] = "Musical note nicu bucule 01.svg",
+	["american civil war"] = "Acw bs 7a.png|border",
+	["american football"] = "Wilsonnflfootball.png",
+	["american revolutionary war"] = "Washington Crossing the Delaware.png|border",
+	["amphibians and reptiles"] = "Lizardicon.svg",
+	["amsterdam"] = "Flag of Amsterdam.svg|border",
+	["amusement parks"] = "Roller Coaster Icon.svg",
+	["anabaptism"] = "Dirk.willems.rescue.ncs.jpg",
+	["analysis"] = "Nuvola apps kmplot.svg",
+	["analytical chemistry"] = "Nuvola apps edu science.svg",
+	["anarchism"] = "BlackFlagSymbol.svg",
+	["ancient egypt"] = "Pyramide Kheops.JPG",
+	["ancient germanic culture"] = "Mjollnir icon.png",
+	["ancient greece"] = "Parthenon from west.jpg",
+	["ancient japan"] = "Mountfujijapan.jpg",
+	["ancient near east"] = "Babylonlion.JPG",
+	["ancient rome"] = "SPQRomani.svg",
+	["andorra"] = "Flag of Andorra.svg|border",
+	["andhra pradesh"] = "Archbridgegodavari.JPG",
+	["anglicanism"] = "Canterbury cathedral.jpg",
+	["anglo-saxon england"] = "Peterborough Chronicle cropped.jpg",
+	["angola"] = "Flag of Angola.svg|border",
+	["a nightmare on elm street"] = "Nightmare Portal.gif",
+	["animal rights"] = "Paw (Animal Rights symbol).svg",
+	["animals"] = "Caribou from Wagon Trails.jpg",
+	["animation"] = "Animation disc.svg",
+	["animation/canadian animation work group"] = "Animation disc Maple Leaf.svg",
+	["anime and manga"] = "Wikipe-tan face.svg",
+	["antarctica"] = "ContinentAntarctica.svg",
+	["anthropology"] = "Moai Easter Island InvMH-35-61-1.jpg",
+	["apple inc."] = "Apple logo black.svg",
+	["aquarium fish"] = "Pterois antennata-3.jpg",
+	["arab world"] = "Flag of the Arab League.svg|border",
+	["arab–israeli conflict"] = "Flickr - Israel Defense Forces - IDF Forces in Staging Areas Around Gaza Strip (1).jpg",
+	["archaeology"] = "Stonehenge Closeup.jpg",
+	["architecture"] = "P parthenon.svg",
+	["arctic"] = "Ibca gebco comp cover.jpg",
+	["argentina"] = "Flag of Argentina.svg|border",
+	["arizona"] = "Flag of Arizona.svg|border",
+	["arkansas"] = "Flag of Arkansas.svg|border",
+	["armenia"] = "Flag of Armenia.svg|border",
+	["arminianism"] = "Arminius 5 flopped and cropped.png",
+	["art"] = "Ballerina-icon.jpg",
+	["arthropods"] = "Cercophonius squama.jpg",
+	["artificial intelligence"] = "Animation2.gif",
+	["arts"] = "Nuvola apps package graphics.png",
+	["aruba"] = "Flag of Aruba.svg|border",
+	["asia"] = "Asia (orthographic projection).svg",
+	["asian americans"] = "1 chinatown san francisco arch gateway.JPG",
+	["asian games"] = "Asian Games logo01.png",
+	["assam"] = "Seal of Assam.png",
+	["association football"] = "Soccer ball.svg",
+	["assyrians"] = "FlagofAssyria.svg|border",
+	["astrobiology"] = "PIA01130 Interior of Europa.jpg",
+	["astrology"] = "Astrologia-tynkä.jpg",
+	["astronomy"] = "Crab Nebula.jpg",
+	["atheism"] = "Atheism template.svg",
+	["athletics"] = "Athletics pictogram.svg",
+	["atlanta"] = "AtlantaPhoenix.jpg",
+	["atlas"] = "BlankMap-World6.svg",
+	["atmosphere"] = "Jupiter 3rd spot.jpg",
+	["atmospheric sciences"] = "Double-alaskan-rainbow.jpg",
+	["austin"] = "Sixth Street Austin.jpg",
+	["australia"] = "Flag of Australia.svg|border",
+	["australian capital territory"] = "Flag of the Australian Capital Territory.svg|border",
+	["australian roads"] = "Australia W5-29.svg",
+	["australian rules football"] = "Sherrin-transparent.png",
+	["austria"] = "Flag of Austria.svg|border",
+	["austria-hungary"] = "Wappen Österreich-Ungarn 1916 (Klein).png",
+	["aviation"] = "Aviacionavion.png",
+	["avril lavigne"] = "LetGo.jpg",
+	["ayyavazhi"] = "Ayyavazh logo transperent.png",
+	["azad kashmir"] = "Flag of Azad Kashmir.svg|border",
+	["azerbaijan"] = "Flag of Azerbaijan.svg|border"
+}
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1055/1613.wikitext` · revision `1613` · [upstream](https://second-renaissance.fandom.com/wiki/Module%3APortal/images/a)

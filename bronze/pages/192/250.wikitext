@@ -1,0 +1,3 @@
+'''[[Template:{{{1}}}]]'''&nbsp;([[Template talk:{{{1}}}|talk]]{{int:dot-separator}}[[Special:Whatlinkshere/Template:{{{1}}}|links]]{{int:dot-separator}}[{{SERVER}}{{localurl:Template:{{{1}}}|action=edit}} edit])<noinclude>
+{{Documentation}}
+</noinclude>

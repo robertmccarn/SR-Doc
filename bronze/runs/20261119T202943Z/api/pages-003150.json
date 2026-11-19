@@ -1,0 +1,1686 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "3287": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9402,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3287,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9402,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:08:04Z"
+          }
+        ],
+        "title": "File:VicePresident-WmAlWheeler.jpg",
+        "touched": "2019-10-19T11:12:09Z"
+      },
+      "3288": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9403,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3288,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9403,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:08:34Z"
+          }
+        ],
+        "title": "File:Thomas Andrews Hendricks.jpg",
+        "touched": "2019-10-19T11:12:09Z"
+      },
+      "3289": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9404,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3289,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9404,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:09:12Z"
+          }
+        ],
+        "title": "File:Levi Morton - Brady-Handy portrait - tight 3x4 crop.jpg",
+        "touched": "2019-10-19T11:17:43Z"
+      },
+      "3290": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9405,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3290,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9405,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:09:46Z"
+          }
+        ],
+        "title": "File:Adlai Ewing Stevenson I head-on-shoulders.jpg",
+        "touched": "2019-10-19T11:15:54Z"
+      },
+      "3291": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9406,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3291,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9406,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:10:21Z"
+          }
+        ],
+        "title": "File:GHobart.jpg",
+        "touched": "2019-10-19T11:15:54Z"
+      },
+      "3292": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9407,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3292,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9407,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:10:58Z"
+          }
+        ],
+        "title": "File:CharlesWFairbanks.jpg",
+        "touched": "2019-10-19T11:20:44Z"
+      },
+      "3293": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9408,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3293,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9408,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:11:42Z"
+          }
+        ],
+        "title": "File:James Sherman, Bain bw photo portrait facing left.jpg",
+        "touched": "2019-10-19T11:17:51Z"
+      },
+      "3294": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9409,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3294,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9409,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:12:21Z"
+          }
+        ],
+        "title": "File:Thomas Riley Marshall headshot.jpg",
+        "touched": "2019-10-19T11:33:18Z"
+      },
+      "3295": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9411,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3295,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9411,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:14:57Z"
+          }
+        ],
+        "title": "File:Chas G Dawes-H&E.jpg",
+        "touched": "2019-10-19T11:29:54Z"
+      },
+      "3296": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9412,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3296,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9412,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:15:32Z"
+          }
+        ],
+        "title": "File:Charles Curtis-portrait.jpg",
+        "touched": "2019-10-19T11:21:53Z"
+      },
+      "3297": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9413,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3297,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9413,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:16:14Z"
+          }
+        ],
+        "title": "File:JohnNanceGarner.png",
+        "touched": "2019-10-19T11:25:29Z"
+      },
+      "3298": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9414,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3298,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9414,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:17:09Z"
+          }
+        ],
+        "title": "File:Henry-A.-Wallace-Townsend.jpeg",
+        "touched": "2019-10-19T11:23:20Z"
+      },
+      "3299": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9415,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3299,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9415,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:17:52Z"
+          }
+        ],
+        "title": "File:Alben Barkley.jpg",
+        "touched": "2019-10-19T11:41:54Z"
+      },
+      "3300": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9417,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3300,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9417,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:22:28Z"
+          }
+        ],
+        "title": "File:Hubert Humphrey crop.jpg",
+        "touched": "2019-10-19T11:39:12Z"
+      },
+      "3301": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9418,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3301,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9418,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:23:12Z"
+          }
+        ],
+        "title": "File:Spiro Agnew.jpg",
+        "touched": "2019-10-19T11:34:19Z"
+      },
+      "3302": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9419,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3302,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9419,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:23:47Z"
+          }
+        ],
+        "title": "File:Nelson Rockefeller.jpg",
+        "touched": "2019-10-19T11:36:38Z"
+      },
+      "3303": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9420,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3303,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9420,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:24:30Z"
+          }
+        ],
+        "title": "File:Vice President Mondale 1977 closeup.jpg",
+        "touched": "2019-10-19T11:39:28Z"
+      },
+      "3304": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9421,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3304,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9421,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:25:57Z"
+          }
+        ],
+        "title": "File:Dan Quayle crop.jpg",
+        "touched": "2019-10-19T11:40:12Z"
+      },
+      "3305": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9422,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3305,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9422,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:26:43Z"
+          }
+        ],
+        "title": "File:Al Gore, Vice President of the United States, official portrait 1994.jpg",
+        "touched": "2019-10-19T11:40:36Z"
+      },
+      "3306": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9423,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3306,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9423,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:27:26Z"
+          }
+        ],
+        "title": "File:46 Dick Cheney 3x4.jpg",
+        "touched": "2019-10-19T11:43:58Z"
+      },
+      "3307": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9424,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3307,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9424,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:28:28Z"
+          }
+        ],
+        "title": "File:Joe Biden official portrait crop.jpg",
+        "touched": "2019-10-19T11:41:43Z"
+      },
+      "3308": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9425,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3308,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9425,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-13T23:29:02Z"
+          }
+        ],
+        "title": "File:Vice President Pence Official Portrait (cropped).jpg",
+        "touched": "2019-10-19T11:45:40Z"
+      },
+      "3309": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9428,
+        "length": 339,
+        "new": "",
+        "ns": 1,
+        "pageid": 3309,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9428,
+            "slots": {
+              "main": {
+                "*": "So i'm not really good at templates, if I were, i'd help you. You could try copying the template from this article https://second-renaissance.fandom.com/wiki/President_of_the_United_States and replace 'president' with 'Vice president and the original images with the relevant ones and so on until it looks like a list of vice presidents",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-15T12:20:19Z"
+          }
+        ],
+        "title": "Talk:Vice President of the United States/@comment-27896700-20191013214434/@comment-78.108.56.35-20191015122019",
+        "touched": "2019-10-15T12:20:19Z"
+      },
+      "3310": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9429,
+        "length": 62,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3310,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9429,
+            "slots": {
+              "main": {
+                "*": "Why can't you just use the same code from the presidents page?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-17T21:14:00Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20191013225719/@comment-899576-20191017211400",
+        "touched": "2019-10-17T21:14:00Z"
+      },
+      "3311": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9430,
+        "length": 24,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3311,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9430,
+            "slots": {
+              "main": {
+                "*": "Very true. I'll try that",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-20T14:53:21Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20191013225719/@comment-27896700-20191020145321",
+        "touched": "2019-10-20T14:53:21Z"
+      },
+      "3312": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Television table cell templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 9431,
+        "length": 374,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:CNone/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 3312,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9431,
+            "slots": {
+              "main": {
+                "*": "<noinclude>{| class=\"wikitable\"\n|-\n|</noinclude>style=\"background:#ececec;vertical-align:middle;text-align:{{{align|center}}};{{{style|}}}\" |{{{1|<!-- Accessibility text for screen readers only --><span style=\"display: none\">Does not appear</span>}}}<noinclude>\n|}\n{{Documentation|Template:Table cell templates/doc}}\n[[Category:Television table cell templates]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-23T16:54:36Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:CNone/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:CNone",
+        "touched": "2019-10-23T16:54:36Z"
+      },
+      "3313": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9432,
+        "length": 78,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Republican Party (US)/meta/color/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 3313,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9432,
+            "slots": {
+              "main": {
+                "*": "{{Political party color|Republican}}<noinclude>\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-23T16:55:32Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Political party color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Republican Party (US)/meta/color/doc"
+          }
+        ],
+        "title": "Template:Republican Party (US)/meta/color",
+        "touched": "2019-10-23T16:56:17Z"
+      },
+      "3314": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9433,
+        "length": 78,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Democratic Party (US)/meta/color/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 3314,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9433,
+            "slots": {
+              "main": {
+                "*": "{{Political party color|Democratic}}<noinclude>\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-23T16:55:55Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Democratic Party (US)/meta/color/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Political party color"
+          }
+        ],
+        "title": "Template:Democratic Party (US)/meta/color",
+        "touched": "2019-10-23T16:56:17Z"
+      },
+      "3315": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9434,
+        "length": 6877,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Political party color/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 3315,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9434,
+            "slots": {
+              "main": {
+                "*": "<includeonly><nowiki>#</nowiki>{{#switch: {{{1|}}}\n<!-- American                                           Use: Know Nothing -->\n<!-- American Party                                     Use: Know Nothing -->\n| American (1924)\n  | American Party (1924)                   = B340D1\n| American (1969)\n  | American Party (1969)                   = CC66FF\n<!-- American Constitution                              Use: Constitution -->\n<!-- American Constitution Party                        Use: Constitution -->\n| American Delta\n  | American Delta Party                    = 355E39\n| American Independent\n  | American Independent Party              = 800080\n| American Labor\n  | American Labor Party\n  | Labor\n  | Labor Party                             = FF6347\n| Americans Elect\n  | Americans Elect Party                   = FFFF88\n| Anti-Administration\n  | Anti-Administration Party               = CCFF66\n| Anti-Jacksonian\n  | Anti-Jacksonian Party\n  | Adams\n  | Adams Party\n  | National Republican\n  | National Republican Party               = FFE6B0\n| Anti-Jacksonian Hold\n  | Anti-Jacksonian Party Hold\n  | Adams Hold\n  | Adams Party Hold\n  | National Republican Hold\n  | National Republican Party Hold          = FFF5D7\n| Anti-Masonic\n  | Anti-Masonic Party                      = FFFF99\n| Anti-Masonic Hold\n  | Anti-Masonic Party Hold                 = FFFFE6\n\n| Conservative\n  | Conservative Party                      = FF8C00\n| Constitution\n  | Constitution Party                      = A356DE\n\n| Democratic\n  | Democratic Party                        = 3333FF\n| Democratic light\n  | Democratic shading                      = B0CEFF <!-- For text-over shading-->\n| Democratic–Farmer–Labor                            <!-- Rule: Use N-dash -->\n  | Democratic–Farmer–Labor Party\n  | Democratic-Farmer-Labor                          <!-- If hyphenated -->\n  | Democratic-Farmer-Labor Party           = 0055A5\n| Democratic-Republican\n  | Democratic-Republican Party                      <!-- Rule: Use hyphen -->\n  | Democratic–Republican\n  | Democratic–Republican Party                      <!-- If N-dash is used -->\n  | Jacksonian Democratic\n  | Jacksonian Democratic Party             = 008000\n| Dixiecrat\n  | Dixiecrat Party                         = F5BCA9\n\n| Farmer–Labor                                       <!-- Rule: Use N-dash -->\n  | Farmer–Labor Party                               <!-- Diff from Democratic–Farmer–Labor -->\n  | Farmer-Labor                                     <!-- If hyphen is used -->\n  | Farmer-Labor Party                      = 66F500\n| Federalist\n  | Federalist Party\n  | Jacksonian Federalist\n  | Jacksonian Federalist Party             = EA9978\n| Free Soil\n  | Free Soil Party                         = CCCC66\n\n| Green\n  | Green Party\n  | Pacific Green\n  | Pacific Green Party                     = 00A95C\n| Greenback\n  | Greenback Party                         = 0BDA51\n\n| Independence\n  | Independence Party                      = FFC14E\n| Independent\n  | Independent Party                       = DDDDCC<!-- old color (yellow): E8E800-->\n| Independent American\n  | Independent American Party              = FFD700\n| Independent Democratic\n  | Independent Democratic Party\n  | Mississippi Freedom Democratic\n  | Mississippi Freedom Democratic Party    = 6699CC\n| Independent Republican\n  | Independent Republican Party            = CC6666<!-- Old color: EE8811-->\n\n| Jacksonian\n  | Jacksonian Party                        = DDEEFF\n| Jacksonian Hold\n  | Jacksonian Party Hold                   = F1F8FF\n\n| Know Nothing                                       <!-- Rule: Use space -->\n  | Know Nothing Party\n  | Know-Nothing                                     <!-- If hyphenated -->\n  | Know-Nothing Party\n  | American\n  | American Party                          = D99FE8\n\n<!-- for Labor, see American Labor-->\n| Liberal\n  | Liberal Party                           = CC0000\n| Liberal Republican\n  | Liberal Republican Party                = FF69B4\n| Libertarian\n  | Libertarian Party                       = FED105\n| Liberty\n  | Liberty Party                           = 00DDDD\n| Liberty Union\n  | Liberty Union Party                     = D6FF33\n\n| Marijuana\n  | Marijuana Party\n  | Legal Marijuana Now\n  | Legal Marijuana Now Party\n  | Marijuana Reform\n  | Marijuana Reform Party\n  | Grassroots\n  | Grassroots Party\n  | Grassroots-Legalize Cannabis\n  | Grassroots-Legalize Cannabis Party      = 50C878\n\n| Natural Law\n  | Natural Law Party                       = 00BFFF\n| National\n  | National Party                          = EE6666\n| National Union  <!-- This is the \"Firebrick\" red taken from predefined [[web colors]] / [[X11 colors]].-->\n  | National Union Party                    = B22222\n| Nonpartisan League\n  | Non-Partisan League\n  | NPL\n  | NPL Party                               = FCF5D9\n| North Dakota Democratic-NPL                        <!-- Not the same as plain NPL -->\n  | North Dakota Democratic-NPL Party       = 0D5CAB\n| Nullifier\n  | Nullifier Party                         = 0EBFB0\n\n| Opposition\n  | Opposition Party                        = FFE153\n| Other                                     \n  | Others                                  = DDDDCC<!-- See Independent -->\n\n| People's\n  | People's Party                          = 00FF7F\n| Populist\n  | Populist Party                          = ACE1AF\n| Pro-Administration\n  | Pro-Administration Party                = 0EBC00\n| Progressive\n  | Progressive Party                       = 5FD170\n| Prohibition\n  | Prohibition Party                       = FF00FF\n\n| Readjuster\n  | Readjuster Party                        = 0EBFE9\n| Republican\n  | Republican Party                        = E81B23\n| Republican light\n  | Republican shading                      = FFB6B6 <!-- For text-over shading-->\n| Reform\n  | Reform Party                            = 6A287E\n| Right to Life\n  | Right to Life Party                     = F4C2C2\n\n| Silver\n  | Silver Party                            = 79CDCD\n| Socialist\n  | Socialist Party                         = CD3700\n| Socialist Workers\n  | Socialist Workers Party                 = AA0000\n\n| Union\n  | Union Party                             = B28466\n| Union Labor\n  | Union Labor Party                       = 6633CC\n| United Utah\n  | United Utah Party                       = 80151F\n| Unionist\n  | Unionist Party\n  | Unionist Party (United States)          = FFAADD\n| Unconditional Unionist\n  | Unconditional Unionist Party            = FFAABB\n\n| Vacant                                    = FFFFFF\n\n| Whig\n  | Whig Party                              = F0C862\n| Workers World\n  | Workers World Party                     = FF33AA\n| Write-in\n  | Write in\n  | Unknown                                 = transparent<!-- See Other -->\n\n| transparent\n\n}}</includeonly><noinclude>\n{{documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-23T16:56:17Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Political party color/doc"
+          }
+        ],
+        "title": "Template:Political party color",
+        "touched": "2019-10-23T16:56:17Z"
+      },
+      "3316": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States political party color templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 9435,
+        "length": 570,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Web colors"
+          },
+          {
+            "ns": 0,
+            "title": "X11 colors"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Party shading/National Union"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Republican Party (US)/meta/color"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 3316,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9435,
+            "slots": {
+              "main": {
+                "*": "{{Political party color|National Union}}<noinclude>\n\nThis is the \"Firebrick\" red taken from predefined [[web colors]] / [[X11 colors]].\n\n== Examples ==\n{|\n|- style=\"color:{{ {{PAGENAME}} }}\"\n| '''This color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:white\"\n| '''White on this color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:black\"\n| '''Black on this color'''\n|}\n\n== See also ==\n* [[Template:Party shading/National Union]]\n* [[Template:Republican Party (US)/meta/color]]\n\n[[Category:United States political party color templates|{{PAGENAME}}]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-23T16:57:09Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:National Union Party (US)/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Political party color"
+          }
+        ],
+        "title": "Template:National Union Party (US)/meta/color",
+        "touched": "2019-10-23T16:57:09Z"
+      },
+      "3317": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States political party color templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 9436,
+        "length": 728,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Party shading/Democratic-Republican"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ROOTPAGENAME"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 3317,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9436,
+            "slots": {
+              "main": {
+                "*": "{{Political party color |Democratic-Republican}}<noinclude>\n\n== Examples ==\n{| class=wikitable\n| style=\"background:white; color:{{ {{PAGENAME}} }}\" | '''This color on white'''\n| style=\"background:{{ {{PAGENAME}} }}; color:white\" | '''White text on this color'''\n|-\n| style=\"background:black; color:{{ {{PAGENAME}} }}\" | '''This color on black'''\n| style=\"background:{{ {{PAGENAME}} }}; color:black\" | '''Black text on this color'''\n|}\n\n== Use ==\n<kbd>| <nowiki>style=\"background-color:{{</nowiki> {{PAGENAME}} <nowiki>}}</nowiki>;\" |</kbd><noinclude>\n\n== See also ==\n* [[ {{ROOTPAGENAME}} ]]\n* [[Template:Party shading/Democratic-Republican]]\n\n[[Category:United States political party color templates|{{PAGENAME}}]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-23T16:57:33Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Democratic-Republican Party/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Political party color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ROOTPAGENAME"
+          }
+        ],
+        "title": "Template:Democratic-Republican Party/meta/color",
+        "touched": "2019-10-23T16:57:33Z"
+      },
+      "3318": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9437,
+        "length": 374,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:ROOTPAGENAME"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 3318,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9437,
+            "slots": {
+              "main": {
+                "*": "<nowiki>#00cc22</nowiki><noinclude>\n== Examples ==\n{|\n|- style=\"color:{{ {{PAGENAME}} }}\"\n| '''This color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:white\"\n| '''White text on this color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:black\"\n| '''Black text on this color'''\n|}\n[[Category:United States political party color templates|{{ROOTPAGENAME}}]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-23T16:58:07Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Pro-Administration Party (US)/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ROOTPAGENAME"
+          }
+        ],
+        "title": "Template:Pro-Administration Party (US)/meta/color",
+        "touched": "2019-10-23T16:58:07Z"
+      },
+      "3319": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States political party color templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 9438,
+        "length": 599,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Party shading/Federalist"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ROOTPAGENAME"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 3319,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9438,
+            "slots": {
+              "main": {
+                "*": "{{Political party color|Federalist}}<noinclude>\n\n== Examples ==\n{|\n|- style=\"color:{{ {{PAGENAME}} }}\"\n| '''This color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:white\"\n| '''White on this color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:black\"\n| '''Black on this color'''\n|}\n\n== Use ==\n<tt>| <nowiki>style=\"background-color:{{</nowiki> {{PAGENAME}} <nowiki>}}</nowiki>;\" |</tt><noinclude>\n\n== See also ==\n* [[ {{ROOTPAGENAME}} ]]\n* [[Template:Party shading/Federalist]]\n\n[[Category:{{ROOTPAGENAME}}]]\n[[Category:United States political party color templates|{{PAGENAME}}]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-23T16:58:26Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Federalist Party/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Political party color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ROOTPAGENAME"
+          }
+        ],
+        "title": "Template:Federalist Party/meta/color",
+        "touched": "2019-10-23T16:58:26Z"
+      },
+      "3320": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9439,
+        "length": 85,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ns/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 3320,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9439,
+            "slots": {
+              "main": {
+                "*": "{{padleft:|{{#expr: {{{1|3}}}*6 }}|&#160;}}<noinclude>\n{{documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-23T16:58:53Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ns/doc"
+          }
+        ],
+        "title": "Template:Ns",
+        "touched": "2019-10-23T16:58:53Z"
+      },
+      "3321": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States political party color templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 9440,
+        "length": 223,
+        "new": "",
+        "ns": 10,
+        "pageid": 3321,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9440,
+            "slots": {
+              "main": {
+                "*": "{{Political party color|Whig}}<noinclude>\n\nSample:\n<span style=\"padding:1px 20px; background:{{Whig Party (US)/meta/color}}\">&nbsp;</span>\n[[Category:United States political party color templates|{{PAGENAME}}]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-23T16:59:31Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Political party color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Whig Party (US)/meta/color"
+          }
+        ],
+        "title": "Template:Whig Party (US)/meta/color",
+        "touched": "2019-10-23T16:59:31Z"
+      },
+      "3322": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9450,
+        "length": 76,
+        "new": "",
+        "ns": 1,
+        "pageid": 3322,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9450,
+            "slots": {
+              "main": {
+                "*": "the presidential table is so wide that it's scrollable, why did this happen?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-25T08:36:23Z"
+          }
+        ],
+        "title": "Talk:President of the United States/@comment-62.109.36.16-20191025083623",
+        "touched": "2019-10-25T08:36:23Z"
+      },
+      "3323": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9452,
+        "length": 30,
+        "new": "",
+        "ns": 1,
+        "pageid": 3323,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9452,
+            "slots": {
+              "main": {
+                "*": "I Burger Reich,kill it in fire",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-28T00:51:05Z"
+          }
+        ],
+        "title": "Talk:Earth/@comment-88.156.132.189-20191028005105",
+        "touched": "2019-10-28T00:51:05Z"
+      },
+      "3324": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9453,
+        "length": 33,
+        "new": "",
+        "ns": 1,
+        "pageid": 3324,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9453,
+            "slots": {
+              "main": {
+                "*": "https://youtu.be/LAINrNxdDlA?t=15",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-10-28T01:18:38Z"
+          }
+        ],
+        "title": "Talk:European Association/@comment-88.156.132.189-20191028011838",
+        "touched": "2019-10-28T01:18:38Z"
+      },
+      "3325": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9461,
+        "length": 75,
+        "new": "",
+        "ns": 1,
+        "pageid": 3325,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9461,
+            "slots": {
+              "main": {
+                "*": "So the US Senate was never reformed? Are there stil two Senators per state?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-11-04T17:35:30Z"
+          }
+        ],
+        "title": "Talk:United States Constitution/@comment-199.204.165.130-20191104173530",
+        "touched": "2019-11-04T17:35:30Z"
+      },
+      "3326": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9475,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3326,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9475,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-11-09T23:58:06Z"
+          }
+        ],
+        "title": "File:Flag of Egypt.png",
+        "touched": "2019-11-15T19:56:56Z"
+      },
+      "3327": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9478,
+        "length": 562,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3327,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9478,
+            "slots": {
+              "main": {
+                "*": "I revamped much of the original sandbox to be a bit more inside your universe and, generally speaking, a bit more plausible. If you could take a look at [https://second-renaissance.fandom.com/wiki/User:SolaceEaSw/ArabianAssyrianWar it ] at some point, that would be great. I was thinking it could be a launch-off point for some of the more minor conflicts featured, since the amount of balkanization in Africa and Asia couldn't have been done without the dropping of blood at some point. Thank you.  <ac_metadata title=\"Arabian-Assyrian War\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-11-10T00:07:05Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-30724590-20191110000705",
+        "touched": "2019-11-10T00:07:05Z"
+      },
+      "3328": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9490,
+        "length": 179,
+        "new": "",
+        "ns": 1,
+        "pageid": 3328,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9490,
+            "slots": {
+              "main": {
+                "*": "Would love to see this updated. Hong Kong is not mentioned as well as what happens to the Uyghurs, and you could possibly expand on desertification with the Gobi Desert expanding.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-11-20T15:37:31Z"
+          }
+        ],
+        "title": "Talk:Second Chinese Civil War/@comment-146.201.175.102-20191120153731",
+        "touched": "2019-11-20T15:37:31Z"
+      },
+      "3329": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9494,
+        "length": 155,
+        "new": "",
+        "ns": 1,
+        "pageid": 3329,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9494,
+            "slots": {
+              "main": {
+                "*": "How come no-one has finished the Shanghai, New Dhaka, Bayou Reclaimation, Everglades Renewal, New Venice, New Zuiderzee, London and San Francisco sections?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-12-04T08:32:38Z"
+          }
+        ],
+        "title": "Talk:Earth Working Group/@comment-112.119.254.112-20191204083238",
+        "touched": "2019-12-04T08:32:38Z"
+      },
+      "3330": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9495,
+        "length": 85,
+        "new": "",
+        "ns": 1,
+        "pageid": 3330,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9495,
+            "slots": {
+              "main": {
+                "*": "Sam Alan and Ivory Toldson would have to be divided into two sections for Dylan Price",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-12-04T21:10:40Z"
+          }
+        ],
+        "title": "Talk:President of the United States/@comment-4.35.14.90-20191204211040",
+        "touched": "2019-12-04T21:10:40Z"
+      },
+      "3331": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9498,
+        "length": 39,
+        "new": "",
+        "ns": 1,
+        "pageid": 3331,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9498,
+            "slots": {
+              "main": {
+                "*": "Why didn't you include Liberia as well?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-12-07T01:20:47Z"
+          }
+        ],
+        "title": "Talk:List of states and territories of the United States/@comment-173.63.114.161-20191207012047",
+        "touched": "2019-12-07T01:20:47Z"
+      },
+      "3332": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9499,
+        "length": 20,
+        "new": "",
+        "ns": 1,
+        "pageid": 3332,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9499,
+            "slots": {
+              "main": {
+                "*": "It's the 100th state",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-12-07T04:50:16Z"
+          }
+        ],
+        "title": "Talk:List of states and territories of the United States/@comment-173.63.114.161-20191207012047/@comment-5590986-20191207045016",
+        "touched": "2019-12-07T04:50:16Z"
+      },
+      "3333": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:CSS image crop using invalid parameters"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Jupiter"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages with reference errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Person.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blank Woman.png"
+          }
+        ],
+        "lastrevid": 10061,
+        "length": 4173,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Conservative Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Earth"
+          },
+          {
+            "ns": 0,
+            "title": "Jupiter"
+          },
+          {
+            "ns": 0,
+            "title": "Union Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "United Republican Party (United States)"
+          }
+        ],
+        "ns": 0,
+        "pageid": 3333,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9510,
+            "revid": 10061,
+            "slots": {
+              "main": {
+                "*": "The Planetary-Governor of the Commonwealth of Jupiter.\n\n==List of Planetary-Governors==\n{{legend2|{{Conservative Party (United States)/meta/color}}|[[Conservative Party (United States)|Conservative]]|border=1px solid #AAAAAA}} (2)\n{{legend2|{{United Republican Party (United States)/meta/color}}|[[United Republican Party (United States)|New Republican]]|border=1px solid #AAAAAA}} (1)\n{{legend2|{{Union Party (United States)/meta/color}}|[[Union Party (United States)|Union]]|border=1px solid #AAAAAA}} (2)\n\n{| class=\"wikitable\" style=\"text-align: center;\"\n|-\n! №\n! colspan=\"2\" | Planetary-Governor\n! State\n! Term of office\n! Party\n! Term<br /><ref group=\"n\" name=\"num\" />\n! style=\"width: 18%;\" colspan=\"2\" | Lieutenant-Governor\n|-\n! style=\"background: {{Union Party (United States)/meta/color}};\" | {{color|white|1}}\n| {{CSS image crop|Image = Blank_Person.jpg|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}\n| '''Jeriel Cortes'''<br /><small>(born 1999)</small>\n| [[Earth|Cascadia]]\n| <span class=\"date\" style=\"white-space: nowrap;\">January 20, 2139</span><br />–<br /><span class=\"date\" style=\"white-space: nowrap;\">January 20, 2143</span><br />\n| [[Union Party (United States)|Union]]\n| 1<br /><small>(2138)</small>\n| style=\"background: {{Union Party (United States)/meta/color}};\" |\n| Andrew Pham\n\n|-\n! style=\"background: {{Union Party (United States)/meta/color}};\" | {{color|white|2}}\n| {{Css Image Crop|Image = Blank_Woman.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 3|oLeft = 5}}\n| '''Nica Rowan'''<br /><small>(born 2042)</small>\n| [[Jupiter|Galileo]]\n| <span class=\"date\" style=\"white-space: nowrap;\">January 20, 2143</span><br />–<br /><span class=\"date\" style=\"white-space: nowrap;\">January 20, 2147</span><br /><ref group=\"n\" name=\"unseated\" />\n| [[Union Party (United States)|Union]]\n| 2<br /><small>(2142)</small>\n| style=\"background: {{Union Party (United States)/meta/color}};\" |\n| Sydney Riler\n\n|-\n! style=\"background: {{Conservative Party (United States)/meta/color}};\" | {{color|white|3}}\n| {{Css Image Crop|Image = Blank_Woman.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 3|oLeft = 5}}\n| '''Emile Yang'''<br /><small>(born 2080)</small>\n| [[Jupiter|Galileo]]\n| <span class=\"date\" style=\"white-space: nowrap;\">January 20, 2147</span><br />–<br /><span class=\"date\" style=\"white-space: nowrap;\">January 20, 2151</span><br /><ref group=\"n\" name=\"unseated\" />\n| [[Conservative Party (United States)|Conservative]]\n| 3<br /><small>(2146)</small>\n| style=\"background: {{Conservative Party (United States)/meta/color}};\" |\n| Philly Gates\n\n|-\n! rowspan=\"2\" style=\"background: {{United Republican Party (United States)/meta/color}};\" | {{color|white|4}}\n| rowspan=\"2\" | {{CSS image crop|Image = Blank_Person.jpg|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}\n| rowspan=\"2\" style=\"width: 16%;\" | '''Buzz Belfast'''<br /><small>(born 2093)</small>\n| rowspan=\"2\" | [[Jupiter|Valhalla]]\n| rowspan=\"2\" | <span class=\"date\" style=\"white-space: nowrap;\">January 20, 2151</span><br />–<br /><span class=\"date\" style=\"white-space: nowrap;\">January 20, 2159</span>\n| rowspan=\"2\" | [[United Republican Party (United States)|New Republican]]\n| 4<br /><small>(2150)</small>\n| style=\"background: {{Liberal Party (United States)/meta/color}};\"| &nbsp;\n| rowspan=\"2\" | David Andruzzi\n\n|-\n| 5<br /><small>(2154)</small>\n| style=\"background: {{United Republican Party (United States)/meta/color}};\" |\n|-\n! rowspan=\"2\" style=\"background: {{Conservative Party (United States)/meta/color}};\" | {{color|white|5}}\n| rowspan=\"2\" | {{CSS image crop|Image = Blank_Woman.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}\n| rowspan=\"2\" | '''Mika Sakahki'''<br /><small>(born 2119)</small>\n| rowspan=\"2\" | [[Jupiter|Galileo]]\n| rowspan=\"2\" | <span class=\"date\" style=\"white-space: nowrap;\">January 20, 2159</span><br />–<br /><span class=\"date\" style=\"white-space: nowrap;\">Present</span>\n| rowspan=\"2\" | [[Conservative Party (United States)|Conservative]]\n| 6<br /><small>(2158)</small>\n| rowspan=\"2\" style=\"background: {{Conservative Party (United States)/meta/color}};\" |\n| rowspan=\"2\" | Abram Inoki\n|}\n[[Category:Jupiter]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-01-19T04:03:20Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:CSS image crop"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative Party (United States)/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Css Image Crop"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ifnumber"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Legend2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Liberal Party (United States)/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Union Party (United States)/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:United Republican Party (United States)/meta/color"
+          }
+        ],
+        "title": "Planetary-Governor of Jupiter",
+        "touched": "2023-06-14T19:51:37Z"
+      },
+      "3334": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9519,
+        "length": 155,
+        "new": "",
+        "ns": 1,
+        "pageid": 3334,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9519,
+            "slots": {
+              "main": {
+                "*": "DAi MOOTHEVI IRUKA ILAYA NU KETA IRUKU ILA NU PATHIL SOLLU EPDI MAIRU MATHIRI SOLITU IRUKATHA ECHA NAIYE >>>>>>>>>>>>>FUCK YOUR SELF AND YOUR MOTHERS TOO ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-01-04T23:07:27Z"
+          }
+        ],
+        "title": "Talk:Artificial-Intelligence Operating System/@comment-42.119.222.190-20200104230727",
+        "touched": "2020-01-04T23:07:27Z"
+      },
+      "3336": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9521,
+        "length": 12,
+        "new": "",
+        "ns": 2,
+        "pageid": 3336,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9521,
+            "slots": {
+              "main": {
+                "*": "{{w:AnoopZ}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-01-08T09:17:32Z"
+          }
+        ],
+        "title": "User:Yuusuke Takazaki",
+        "touched": "2020-01-08T09:17:32Z"
+      },
+      "3337": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9522,
+        "length": 27,
+        "new": "",
+        "ns": 2,
+        "pageid": 3337,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9522,
+            "slots": {
+              "main": {
+                "*": "{{w:User:I_make_userpages}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-01-08T09:17:33Z"
+          }
+        ],
+        "title": "User:I make userpages",
+        "touched": "2020-01-08T09:17:36Z"
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "*": "Templates",
+      "sortkey": ""
+    },
+    {
+      "*": "Under_Construction",
+      "known": "",
+      "missing": "",
+      "sortkey": " "
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table style=\"border: 2px solid #FF6600; border-left: 12px solid #FF6600; margin: -1px 10% 0px; background-color: #fff7f2; vertical-align: middle;\">\n\n<tbody><tr>\n<td style=\"padding: 2px 0 2px 0.5em\"><span typeof=\"mw:File\"><a href=\"https://static.wikia.nocookie.net/second-renaissance/images/4/4b/Under_contruction_icon-red.png/revision/latest?cb=20171205233522\" class=\"mw-file-description image\"><img alt=\"Under contruction icon-red\" src=\"https://static.wikia.nocookie.net/second-renaissance/images/4/4b/Under_contruction_icon-red.png/revision/latest/scale-to-width-down/50?cb=20171205233522\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"42\" class=\"mw-file-element\" data-image-name=\"Under contruction icon-red.png\" data-image-key=\"Under_contruction_icon-red.png\" data-relevant=\"1\" /></a></span>\n</td>\n<td style=\"padding: 0.25em 0.5em; width: 100%;\"><b>The following <i>[[{{{timeline}}}]]</i> page is under construction</b>.\n<p>Please do not edit or alter this article in any way while this template is active. All unauthorized edits may be reverted on the admin's discretion. Propose any changes to the comment section.\n</p>\n</td></tr></tbody></table>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:WIP/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6V0lQL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:WIP/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:WIP/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6V0lQL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:WIP/doc</span></div>\n\n<!-- \nNewPP limit report\nCached time: 20261119205818\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.009 seconds\nReal time usage: 0.012 seconds\nPreprocessor visited node count: 12/1000000\nPost‐expand include size: 403/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    2.427      1 Template:Documentation\n100.00%    2.427      1 -total\n 30.53%    0.741      1 Template:WIP/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:2369-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205818 and revision id 6863. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:WIP/doc",
+      "ns": 10
+    }
+  ],
+  "page_id": 2369,
+  "revision_id": 6863,
+  "title": "Template:WIP"
+}

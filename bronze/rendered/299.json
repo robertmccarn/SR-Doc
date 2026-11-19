@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "*": "Pages_with_broken_file_links",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p><span class=\"flagicon\"><span typeof=\"mw:Error mw:File\"><a href=\"/wiki/Special:Upload?wpDestFile=Flag_placeholder.svg\" class=\"new\" title=\"File:Flag placeholder.svg\"><span class=\"mw-file-element mw-broken-media\" data-width=\"23\" data-height=\"15\">File:Flag placeholder.svg</span></a></span></span>\n</p>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:Flagicon/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6RmxhZ2ljb24vZG9jP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">Template:Flagicon/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:Flagicon/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6RmxhZ2ljb24vZG9jP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">Template:Flagicon/doc</span></div>\n<!-- \nNewPP limit report\nCached time: 20261119205423\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.011 seconds\nReal time usage: 0.024 seconds\nPreprocessor visited node count: 44/1000000\nPost‐expand include size: 593/2097152 bytes\nTemplate argument size: 53/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   10.208      1 -total\n 65.21%    6.657      1 Template:Country_data\n 33.88%    3.459      1 Template:Documentation\n 19.71%    2.012      1 Template:Flagicon/core\n 10.33%    1.055      1 Template:Flagicon/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:299-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205423 and revision id 448. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Flagicon/doc",
+      "ns": 10
+    }
+  ],
+  "page_id": 299,
+  "revision_id": 448,
+  "title": "Template:Flagicon"
+}

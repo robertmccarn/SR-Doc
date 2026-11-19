@@ -1,0 +1,19 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <a href=\"/wiki/Template:Start_infobox_page/doc\" title=\"Template:Start infobox page/doc\">Template:Start_infobox_page/doc</a> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\nThis template and its sister <div style=\"clear:both\"> are intended to facilitate the presentation of an infobox template and its documentation on the infobox template's own page. The documentation should be prepared as a <div style=\"clear:both\"> page. This template then assigns it the lefthand side of the infobox template's page, while the infobox template itself appears on the righthand side of the page, using this code:\n<pre>{| style=\"width:100%; background:transparent;\"\n|- style=\"vertical-align:top;\"\n| &lt;!-----Lefthand side: documentation-----&gt;\n{{documentation}}\n| &lt;!-------Righthand side: template-------&gt;\n</pre>\n<p>This template should be placed between &lt;noinclude&gt; and &lt;/noinclude&gt; tags at the very top of an infobox template page, immediately before the start of the infobox's code thus:\n</p><p><code>&lt;noinclude&gt;{{start infobox page}}&lt;/noinclude&gt;&lt;!--</code><br />\n<code>--&gt;<i>infobox code starts here</i></code>\n</p>\nThe start and end-comment markers (\"<code>&lt;!--</code>\" and \"<code>--&gt;</code>\") are important as they remove the possibility of a spurious space appearing. The <div style=\"clear:both\"> template should then be placed within &lt;noinclude&gt; and &lt;/noinclude&gt; tags on the first line after the end of the template code. For an example, see <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"http://en.wikipedia.org/w/index.php?title=Template:Infobox_Machinima&amp;action=edit\">Infobox Machinima</a>.</div>\n</div></div></div>\n<!-- \nNewPP limit report\nCached time: 20261119205406\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.009 seconds\nReal time usage: 0.014 seconds\nPreprocessor visited node count: 46/1000000\nPost‐expand include size: 3050/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 371/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    7.933      1 Template:Documentation\n100.00%    7.933      1 -total\n 82.20%    6.521      1 Template:Start_infobox_page/doc\n 21.09%    1.673      1 Template:Documentation_subpage\n 15.12%    1.199      3 Template:Tl\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:142-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205406 and revision id 196. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Start infobox page/doc",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    }
+  ],
+  "page_id": 142,
+  "revision_id": 196,
+  "title": "Template:Start infobox page"
+}

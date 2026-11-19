@@ -1,0 +1,15 @@
+{
+  "categories": [
+    {
+      "*": "Pages_with_broken_file_links",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"plainlinks ombox ombox-content\" style=\"\">\n<tbody><tr>\n<td class=\"mbox-image\">\n  <span typeof=\"mw:Error mw:File\"><a href=\"/wiki/Special:Upload?wpDestFile=Imbox_content.png\" class=\"new\" title=\"File:Imbox content.png\"><span class=\"mw-file-element mw-broken-media\" data-width=\"40\" data-height=\"40\">File:Imbox content.png</span></a></span></td>\n<td class=\"mbox-text\" style=\"\"> The design and content of biographical infoboxes should follow Wikipedia's <a href=\"https://en.wikipedia.org/wiki/V\" class=\"extiw\" title=\"wp:V\">verifiability policy</a>, <a href=\"https://en.wikipedia.org/wiki/Manual_of_Style_(infoboxes)\" class=\"extiw\" title=\"wp:Manual of Style (infoboxes)\">infobox style guideline</a> and <a href=\"https://en.wikipedia.org/wiki/Manual_of_Style_(biographies)\" class=\"extiw\" title=\"wp:Manual of Style (biographies)\">biographical style guideline</a>.\nAll content displayed in this template must adhere to the <b><a href=\"https://en.wikipedia.org/wiki/Biographies_of_living_persons\" class=\"extiw\" title=\"wikipedia:Biographies of living persons\">biographies of living persons</a></b> policy if applicable. Unsourced or <a href=\"https://en.wikipedia.org/wiki/Verifiability\" class=\"extiw\" title=\"wikipedia:Verifiability\">poorly sourced</a> contentious material about living persons <b>must be removed immediately</b> from the article and its talk page, especially if potentially <a href=\"https://en.wikipedia.org/wiki/Libel\" class=\"extiw\" title=\"wikipedia:Libel\">libellous</a>. </td>\n\n</tr>\n</tbody></table>\n<!-- \nNewPP limit report\nCached time: 20261119205427\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.017 seconds\nReal time usage: 0.022 seconds\nPreprocessor visited node count: 75/1000000\nPost‐expand include size: 2618/2097152 bytes\nTemplate argument size: 1270/2097152 bytes\nHighest expansion depth: 8/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    4.024      1 Template:Ombox\n100.00%    4.024      1 -total\n 52.14%    2.098      1 Template:Ombox/core\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:338-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205427 and revision id 529. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [],
+  "page_id": 338,
+  "revision_id": 529,
+  "title": "Template:Person infobox header"
+}

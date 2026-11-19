@@ -1,0 +1,70 @@
+{{Infobox Military Conflict
+|conflict=Squirrel Wars
+|partof=
+|image=
+|caption=Map of North America during the war
+|date= October 21, 2067 - July 9, 2069.
+|place= Tu
+|causes=Marooning of the crew of the Constitution
+|territory=Kolsaviv
+|result=Consolidation of much of Kolsaviv.
+|combatant1=
+Crew of the ISV-03 Constitution
+
+|combatant2=
+Native peoples of Tu.
+
+|commander1='''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;">{{{1|Confederate leaders}}}</span>'''
+----
+[[File:US_flag_63stars.png|20px]] Abram Kaplan<br>
+----
+
+|commander2='''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;">{{{1|Savivian leaders}}}</span>'''
+NuoLala
+
+|strength1= 25,000
+|strength2= 107,000
+|casualties1= 4,771
+|casualties2= 32,550
+}}
+The '''[[Moraks|Morak]] First Contact Wars,''' commonly known as the '''Squirrel Wars''' among humans, were the multiple armed conflicts between crew of the IV-103 ''Constitution ''and their host city-states and the native peoples on Tu, as well as the first war between humanity and an alien species. These conflicts occurred across the major continental mass known as Kolsaviv to the Moraks shortly after the town of Xlemir agreed to host the crew of the Constitution.
+
+==Background==
+By 2067 CE or much of the Morak population of Tu had developed agriculture, and the most advanced, had organized feudalistic societies, largely concentrated around the Savivian Sea in the north eastern Kolsaviv mainland and surrounding island chain. Fed by river systems flowing from the surrounding mountains, the Savivian civilizations maintained a collective population 62 million, and were in a perpetual state of conflict with eachother. Outside the Savivian the relatively underpopulated central plains of Kolsaviv played host to a collection of nomadic tribes and small farming towns with little governance between them, save from the occasional Plainlord to come out of the roving tribes or western conquerors coming from over the great Kolian mountains. These plains ran from the northern tundra into equatorial grasslands, gradually leading into southern steppes.
+
+In 2067 the ISV-03 ''Constitution'' arrived at Tu to initiate first contact, however a technical fault in the warp drive led to the ''Constitution's'' falling out of warp deeper in-system, releasing its Bubble Trapp upon a larger asteroid that in turn created a cloud of debris that forced the automated Crew Recovery System to deploy the 6 CRVs that held the ship's crew. CRV 5 was lost during atmospheric entry, killing all on board, and CRV 2 was forced to eject its still suspended crew after being diverted closer to the Savivian Sea.
+
+Formal first contact was initiated with the town of Xlemir, which agreed to host the human explorers in exchange for their services in the summer harvest. Using what few rovers and fabricators they could recover, the crew of the Constitution were able to complete the summer harvest faster than any previous season, and agreed to provide similar services to some of the neighboring towns. They also carried out the standard protocol of building schools and hospitals, but were somewhat more cavalier than the crew of the Enterprise during its mission to Le'ma. Teaching locals about the political and even military history of Earth.
+
+==First battles==
+Captain Kaplan, fearing that his crew would be stranded on Tu indefinitely, organized meetings with local leaders to form some kind of coalition against the rovers, going so far as to provide more sophisticated arms and armor to the plains nations during the fall siege of the rovers. The Xlemir alliance were able to not only repel the rovers, but pushed them back to their homeland in the high steppes to the south. Kaplan, a decedent of Russian Jews, helped organize a governing system loosely based on that of the old Russian Federation, with a common government for the newly conquered plains and autonomous city states for the founding members of the confederacy. The nation would be ruled by an elected monarch who's powers would be checked by a legislative body elected by the military and the educated.
+
+==Border crisis==
+Upon its formation, the Confederation of Free States was the largest on the planet, but suffered from a low population that could not take full advantage of its millions of acres of potential farmland. To this end, the government, under advisement of their human guests, opened their borders to Savivian farmers and migrant workers. Stories of the new technologies and bounty that the Confederates enjoyed had not missed these societies, and tens of thousands of farmers began settling in the central plains. This began hampering the productivity of Savivian farms, which impacted Savivian tax revenue. Various border states attempted to stop their citizens from leaving but the increased patrols on the borders resulted in provincial leaders building up their own forces that engaged in a series of escalating skirmishes between Confederate and Savivian forces.
+
+==Battle of Mola Hill==
+By January 2068, Savivian leaders came together to form a united front against the Confederates. The Xlemir government took the declaration of war by the Savivians as an opportunity for glory and were eager for a fight. The crew of the Constitution did not fully appreciate the balance of power that had been in place on Tu prior to their arrival, and confusion persisted among the officers as to what role they should play in a formal conflict between the more advanced Savivian cultures and the pastoral peoples that had taken them in. Captain Kaplan, continuing to believe that their distress signal had not reached Earth, ordered the crew to assist in any way they could to prepare their hosts for war, up to and including developing weapons and engaging in armed combat. At the time, the Constitution had 31 combat-veteran crew members with Military grade bodies. 14 were deployed with the First Confederate Infantry Division north to the Molasaviv province on the Confederate border with the Savivian Kingdom of Pyulala, the first nation to invade Confederate territory.
+
+Molasaviv was centered around a large artificial hill which served as a foot storage center for the province. Control of Mola Hill meant control over the province, and would provide an invader a ready supply of food to field a larger campaign into the Kolsaviv heartland. This strategy had been used by Pyulalan invaders long before humans had ever landed on Tu. Pyulala invaded with 3 divisions from their own territory, commanding 5 additional divisions from other Savivian nations, a force numbering 15,000 that crossed the eastern mountains dividing the Savivian coast from the heartland. The Pyulalan led force met minimal resistance at first, before converging on Mola Hill where the Confederate force of 14 humans and 2000 Morak Confederates waited to meet them. The Confederate force was commanded by one Maria Er Hong, a veteran officer of the US Space Force who served during the [[World War III|Third World War]], and held a doctorate in Military Anthropology from Princeton. The Savivian force were outfitted with leather and wood armor, short iron swords, javelins, and short-bows. The Confederates carried ''Naginata'' style lances, chain and scale mail armor, and English-style longbows. The Savivian forces could not even get in range of the Confederates before the arrow barrage began, killing nearly 5000 infantrymen in the first five minutes, mostly from their javelin corps. The Confederate force then charged into the terrified Savivians, supported by the 14 humans who carried NASA issued collapsible survival rifles that easily cut down the more heavily armored Savivian forces. After only 15 minutes of fighting, the Savivians broke ranks and retreated from Mola Hill.
+
+==March of the Burning Ones==
+The defeat of Mola Hill was an embarrassment for the Pyulala Kingdom, and forced a change in the thinking of the Savivian leaders. Prior to Mola hill, the Savivians had only had limited contact with humans through captured crew members who had fallen into their sea after being scattered from the main crew's lifeboat capsules. Religious leaders had been screaming that the human visitors were some kind of ethereal monsters that would bring disaster upon their world. Mola Hill convinced the Savivian nations that this could very well be true, and called into service an ancient order of religious warriors simply known as the Burning Ones.
+
+Under the leadership of the Savivian Church (which shared a single oral tradition of religious history and a common theological structure, but worshiped with independent traditions and ceremonies), the Burning Ones marched into the central plains and set fire to everything they came across in a ritualistic purge. Soldiers, civilians, livestock, property, even the grasslands themselves were put to the torch. The human led forces were forced to retreat with the fleeing population to a shallow valley where they could mount a proper defense against the Burning ones.
+
+From the valley, the human led forces were able to use human ranged weapons to their advantage, effectively turning the higher ground that the Burning Ones held into a killbox. The defeat of the order did not stop the advance of the other units, but did severely hamper their ability to defend their own supply lines leading to more victories for the Confederates.
+
+==Arrival of the Enterprise==
+After several smaller incursions against the Savivians the war looked to be once again turning in the Confederates favor the ISV-01 Enterprise arrived in orbit and contacted Abram Kaplan on the surface. After being apprised of the situation NASA immediately ordered Kaplan recall his forces and the Enterprise sue for peace and offer the deepest possible apologies on behalf of NASA and the United States government to the Savivians. Kaplan argued that the war had gone too far to simply call for a ceasefire, while the Savivians were quick to agree to begin negotiations. Kaplan would honor the truce, but maintained for the rest of his life that had the Enterprise joined the fight the war would have been won for the Confederates.
+
+Kaplan was not invited to the negotiating table, instead the diplomatic corps aboard the Enterprise took over the role of chief negotiators for the US while the Confederation of Free States sent a separate, all-Morak, delegation. Negotiations dragged on far longer than NASA had liked as the Confederates opposed every attempt by the American and Savivian delegations to simply end the conflict. After several weeks formal borders and a demilitarized zone were established and despite the pleading of the Confederates no humans would be involved in the enforcing of the DMZ, and embassies would be established in both capitols with no human weapons present in perpetuity.
+
+==Aftermath==
+The crew of the Constitution would largely be returned to Earth while several volunteers from Enterprise would remain behind to continue as a moderating influence on the factions. Upon their belated return to Earth the crews from both ships would spend several months testifying before various Congressional committees over what were seen as two disastrous first contact attempts. Captain Kaplan would be banned for life from captaining spacecraft, and was dishonorably discharged for starting an interspecies war. He would spend the next 11 years on the Rikers rehabilitation community.
+
+Among the general population the crew of the Constitution were seen far more positively, treated in many cases like folk heroes who triumphed over a strange land. The images of Moraks even earned them their popular nickname of "Squirrels" among terrans, due to their vaguely rodent-like appearance. Kaplan's sentence led to a decade spanning grassroots effort to secure his pardon, and to exonerate the crew for their bravery in the face of impossible odds.
+
+NASA used the resulting investigations to draft a code of conduct for first contact missions, and even briefly considered an outright ban on contacting pre-industrial civilizations. This latter proposal was struck down after computer models revealed a grim prospect for the survival of intelligent life based on the number of dead planets humans had discovered in just their first few years of interstellar exploration.
+[[Category:22nd-century conflicts]]
+[[Category:21st-century conflicts]]
+[[Category:Extrasolar conflicts]]

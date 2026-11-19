@@ -1,0 +1,31 @@
+<noinclude>
+{| class="messagebox protected" style="font-size:0.9em;border:2px solid #99B;padding:0;line-height:1.4em;"
+|style="width:49px;vertical-align:middle;"| [[File:Padlock.svg|45px|alt=|link=]]
+| '''This page should NOT be used for testing purposes.'''<br/>This page acts ''only'' as a transclusion for [[Wikipedia:Sandbox]]. If you wish to experiment, please do so at [[Wikipedia:Sandbox]], not here.<br/>This page should only be edited if the ''Sandbox Header'' needs modification. 
+|}<!--
+
+--></noinclude>
+{| style="margin:2px;border:1px dotted #000000;background:transparent;padding:2px;"
+|- style="vertical-align:top;"
+
+<!----------------------- Welcome, information, links ------------------------->
+|style="padding-top:5px;padding-left:5px"| Welcome to {{FULLPAGENAME}}, a '''Wikipedia template sandbox'''. This page allows you to carry out experiments related to template editing. To edit, click the '''edit''' tab above, make your changes and click the '''Save page''' button when finished. Content will '''not''' stay permanently; the template sandboxes are '''automatically cleaned''' every hour.
+
+''Please do not place copyrighted, offensive, illegal or libelous content in the sandboxes. For assistance with template coding, try [[WP:VPT|the technical forum at the Village Pump]].'' 
+
+There are several other template sandboxes you can use to carry out experiments: {{hlist |{{tl|X1}} |{{tl|X2}} |{{tl|X3}} |{{tl|X4}} |{{tl|X5}} |{{tl|X6}} |{{tl|X7}} |{{tl|X8}} |{{tl|X9}} |{{tl|X10}} |{{tl|X11}} |{{tl|X12}} |{{tlg|Template sandbox|alttext=Template&nbsp;sandbox}} }}
+
+You can also conduct tests using the [[Wikipedia:Sandbox|Wikipedia Sandbox]]. For instance, to [[Wikipedia:Transclusion|transclude]] this template there, [{{fullurl:{{transclude|Wikipedia:Sandbox}}|action=edit}} edit it] so that it includes: <code>{{braces|{{BASEPAGENAME}}}}</code>
+
+<!------------------------ Link box on righthand side ------------------------->
+|style="padding-left:10px;"| <div class="toccolours" style="padding:0 10px 5px;text-align:center;white-space:nowrap;">
+'''[[T:TS|Template sandbox]] shortcut'''<br/>
+{{braces|'''[[T:TS]]'''}}
+
+'''More info''' {{hlist|class=nowrap |[[Wikipedia:About the Sandbox|About]] |[[Wikipedia:Editor's index to Wikipedia#Template|Template-related pages]]}} [[mw:Help:Extension:ParserFunctions|Parser functions help]]
+
+'''Sandbox games'''<br/>
+[[Wikipedia:Department of Fun/Word Association|Word Association]]
+</div>
+
+|}<includeonly>{{#ifeq:{{PAGENAME}}|Template sandbox reset | |<!--[[Category:Wikipedia editing aids]]-->}}</includeonly><noinclude>{{Documentation}}</noinclude>

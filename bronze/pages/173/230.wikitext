@@ -1,0 +1,103 @@
+{{navbar|Template-linking templates|plain=1}}
+<noinclude>{{float|{{template shortcut|tl-nav|tl templates}}}}</noinclude>
+
+===General-purpose formatting===
+{| class="wikitable navbox collapsible" style="width:auto;font-size:90%;margin:1.0em auto 1.0em auto;vertical-align:top;text-align:center;"
+|+ Comparison of template-linking templates according to their style
+|-
+!style=*"|
+!style="background:#fcc;"| Link style →
+!style="background:#fee;"| Linked
+!style="background:#fee;"| Unlinked
+!style="background:#fee;"| Linked with subst
+!style="background:#fee;"| Linked including braces
+!style="background:#fee;"| Linked with alternative&nbsp;text
+|-
+!style="background:#ccf;"| Text style ↓
+|'''↓ {{tlx|tlg}} options<sup>1</sup> →'''
+|{{n/a}}
+|{{code|nolink{{=}}yes}}
+|{{code|subst{{=}}yes}}
+|{{code|braceinside{{=}}yes}}
+|{{code|alttext{{=}}Foo}}<br />{{code|2{{=}}Foo}}
+|-
+|style="background:#eef;"| Normal
+| {{n/a}}
+| {{nowrap|{{tlx|tlg}}<sup>1, 2</sup>}}<br />{{tlx|tl}}<br />{{tlx|tlp}}<sup>2</sup><br />{{tlx|tlu}}<sup>4</sup>
+| {{tlx|tlf}}<sup>2</sup>
+| {{tlx|tls}}<br />{{tlx|tlsp}}
+| {{tlx|tn}}
+| {{tlx|tla}}
+|-
+!style="background:#eef;"| <code>Code</code>
+| {{code|code{{=}}yes}} or<br />{{code|tt{{=}}yes}}
+| {{tlx|tlx}}<br />{{tlx|tltt}}<br />{{tlx|tltt2}}
+| {{tlx|tlc}}<sup>2</sup><br />{{tlx|tld}}<sup>2</sup><br />{{tlx|tnull}}
+| {{tlx|tlxs}}<br />{{tlx|tltts}}<br />{{tlx|tltts3}}<br />{{tlx|tltss}}<sup>3</sup>
+| colspan="2" {{n/a}}
+|-
+|style="background:#eef;"| '''Bold'''
+| {{code|bold{{=}}yes}}
+| {{tlx|tlb}}
+| rowspan="3" colspan="4" {{n/a}}
+|-
+|style="background:#eef;"| '''<code>Bold code</code>'''
+| {{code|bold{{=}}yes{{!}}code{{=}}yes}}
+| {{tlx|tlxb}}
+|-
+|style="background:#eef;" | ''<code>Italic code</code>''
+| {{code|italic{{=}}yes{{!}}code{{=}}yes}}
+| {{tlx|tlxi}}
+|}
+{{clear}}
+{{plainlist |style=font-size:90% |
+*<sup>1</sup> {{tlx|tlg}} is the most general, allowing any combination of text style and/or link style options.
+*<sup>2</sup> Prevents wrapping of text by placing it inside {{tag|span|params=class="nowrap"}} tags.
+*<sup>3</sup> Uses monospace font but not {{tag|code}}.
+*<sup>4</sup> Allows links to templates in any namespace.
+}}
+
+===Other formatting templates===
+{| class="wikitable sortable" style="vertical-align:top;"
+! Code example !! Effect !! Notes
+|-
+| {{tlx|tl2|<nowiki>Hatnote|lang=fr</nowiki>}} || {{tl2|hatnote|lang=fr}} || Supports linking to sister projects (e.g., fr:Hatnote)
+|-
+| {{tlx|tlu|User:Ahunt/SSHFS}} || {{tlu|User:Ahunt/SSHFS}} || Supports linking to any namespace
+|-
+| {{tlx|xpd|<nowiki>Hatnote|Some hatnote text</nowiki>}} || {{xpd|hatnote|Some hatnote text}} || Shows code, example and a link to expand the template code
+|-
+<!-- Yes, I know this isn't actually a template-linking template, but it's a heck of a lot easier to find if it's listed in the docs for e.g. {{tl}} -->
+| {{tlx|para|<nowiki>title|<var>book title</var></nowiki>}} || {{para|title|<var>book title</var>}} || Formats template parameters for display, with or without values
+|}
+
+===With utility links===
+{| class="wikitable sortable" style="vertical-align:top;"
+! Code example !! Effect
+|-
+| {{tlx|lts|Hatnote}} || {{lts|hatnote}}
+|-
+| {{tlx|t links|Hatnote}} || {{t links|hatnote}}
+|-
+| {{tlx|tfd links|Hatnote}} || {{tfd links|hatnote}}
+|-
+| {{tlx|tiw|Hatnote}} || {{tiw|hatnote}}
+|-
+| {{tlx|tltt|Hatnote}} || {{tltt|Hatnote}}
+|-
+| {{tlx|tetl|Hatnote}} || {{tetl|Hatnote}}
+|-
+| {{tlx|tsetl|Hatnote}} || {{tsetl|Hatnote}}
+|-
+| {{tlx|ti|Hatnote}} || {{ti|Hatnote}}
+|-
+| {{tlx|tic|Hatnote}} || {{tic|Hatnote}}
+|-
+| {{tlx|tiw|Hatnote}} || {{tiw|Hatnote}}
+|-
+| {{tlx|tlt|Hatnote}} || {{tlt|Hatnote}}
+|-
+| {{tlx|ttl|Hatnote}} || {{ttl|Hatnote}}
+|-
+| {{tlx|twlh|Hatnote}} || {{twlh|Hatnote}}
+|}

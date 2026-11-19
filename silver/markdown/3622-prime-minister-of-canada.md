@@ -1,0 +1,169 @@
+---
+page_id: 3622
+revision_id: 11977
+source_url: https://second-renaissance.fandom.com/wiki/Prime_Minister_of_Canada
+raw_sha256: 888a3aa9265bfe20ea0449cb198516fb55d250e02f3efbe77f60558e04fe3295
+---
+
+# Prime Minister of Canada
+
+## Preserved source
+
+```wikitext
+The '''president of Canada''' (French: president du Canada) was the head of state and government of [Canada](1896-canada.md) from 2047 and the commander-in-chief of the Canadian Armed Forces. The president acted as the head of government for Canada,
+chairs and selects the membership of the Cabinet. As presidents hold office by virtue of their ability to command the confidence of the elected House of Commons, they typically sit as a member of Parliament (MP) and lead the largest party or a coalition in the House of Commons.
+
+The office of President was preceded by that of Prime Minister, which once existed only per long-established convention (originating in Canada's former colonial power, the United Kingdom) that stipulated the monarch's representative, the governor general, must select as prime minister the person most likely to command the confidence of the elected House of Commons; this individual was typically the leader of the political party that holds the largest number of seats in that chamber. Under the Constitution Act, 1867, government power was vested in the monarch (who was the head of state), but in practice the role of the monarch—or their representative, the governor general (or the administrator)—was largely ceremonial and only exercised on the advice of a Cabinet minister. The prime minister also provided advice to the monarch of Canada for the selection of the governor general.Canadian prime ministers were appointed to the Privy Council and styled as the Right Honourable (French: Le très honorable), a privilege maintained for life. 
+
+However, when Canada was established as a Republic in 2029, the offices of Governor-general and prime minister were dissolved and the office of President (elected by the parliament) served as both the head of state and as head of government, separated from the British crown. The president is supported by the Prime Minister's Office and heads the Privy Council Office. The president also effectively appoints individuals to the Senate of Canada and to the Supreme Court of Canada and other federal courts, along with choosing the leaders and boards, as required under law, of various national (formerly Crown) corporations. 
+
+# Dominion Period (1867 - 2029)
+The office is not outlined in any of the documents that constitute the written portion of the Constitution of Canada; executive authority is formally vested in the sovereign and exercised on their behalf by the governor general. The prime ministership is part of Canada's constitutional convention tradition. The office was modelled after that which existed in Britain at the time. John A. Macdonald was commissioned by the Viscount Monck on 24 May 1867, to form the first government of the Canadian Confederation. On 1 July 1867, the first ministry assumed office.
+
+The date for which a prime minister begins their term has been determined by the date that he or she is sworn into their portfolio, as an oath of office as prime minister is not required. However, since 1957, the incoming prime minister has sworn an oath as prime minister. Before 1920, prime ministers' resignations were accepted immediately by the governor general and the last day of the ministries were the date he died or the date of resignation. Since 1920, the outgoing prime minister has only formally resigned when the new government is ready to be formed.
+
+The Interpretation Act of 1967 states that "where an appointment is made effective or terminates on a specified day, that appointment is considered to be effective or to terminate after the end of the previous day". Thus, although the outgoing prime minister formally resigns only hours before the incoming ministry swears their oaths, both during the day, the ministries are effectively changed at midnight the night before. Some sources, including the Parliament of Canada, apply this convention as far back as 1917. Two prime ministers have died in office: John A. Macdonald (1867–1873, 1878–1891), John Thompson (1892–1894), and Faith Ollie Reedan (2058-2063). All others have resigned, either after losing an election or upon retirement.
+
+## Prime Ministers
+# Republican Period (2029 to 2073)
+At the Liberal Party of Canada convention in January 2012, its members debated on a motion to include severing ties with the monarchy as a party platform. The proposed motion was rejected by 67%. However, the debate was held again in 2027 in the reign of King Charles III, and the motion was passed by a meagre 53%. Following increasingly onset problems as a result from the [Flood](637-the-flood.md), an emergency government was declared and the plans for full separation from the crown was set in motion after 3 July, 2029. This was met by widespread protests and fierce resistance from Conservatives.
+
+The country would see itself weaken politically as a result of the resurgent nationalism which gripped the world at the time, culminating in Canada dropping the monarchy in favor of a new Constitution in 2029 that turned the country into a Republic. It also resulted in the secession of Quebec and the First Nations in 2028 and 2048 respectively. The office outlined in the Constitution of 2029, established a president elected by the House of Commons as both head of state and head of government, modeled off of that in South Africa. The Deputy President was also empowered by this new constitution, having authority in the Canadian Parliament.
+
+John Edwick was the last President of Canada, having served from 24 October, 2070 until the Union Act of 2073 (10 January, 2073), which formally annexed Canada into the United States along with [Britain](1913-british-republic.md), New Zealand, and [Australia](1937-australia.md).
+
+## Presidents
+{| class="fandom-table"
+|+
+!'''No.'''
+!Portrait
+!'''Name'''
+'''(birth-death)'''
+
+'''district'''
+!Term of Office
+!Electoral Mandates (Parliaments)
+!Political Party
+!Deputy President
+!Min.
+|-
+|26
+|
+|BLANK
+|14 April 2028 
+– 1 July 2029
+
+(Dominion)
+
+1 July 2029 
+
+– 3/4 July 2034 (Republic)
+|
+|Liberal
+|
+|
+|-
+|27
+|
+|BLANK
+|4 July 2034 – 12 March 2036
+|
+|New Democratic
+|
+|
+|-
+|28
+|
+|BLANK
+|2036 – 2039
+|
+|Liberal
+|
+|
+|-
+|29
+|
+|BLANK
+|2039 – 2044
+|
+|
+|
+|
+|-
+|30
+|
+|BLANK
+|2044 – 2047
+|
+|
+|
+|
+|-
+|31
+|
+|BLANK
+|2047 – 2050
+|
+|
+|
+|
+|-
+|32
+|
+|Jay Cortes
+|2050 – 2057
+|
+|
+|
+|
+|-
+|33
+|
+|Fred Johnson
+|2057 – 2060
+|
+|
+|
+|
+|-
+|34
+|
+|BLANK
+|2060 – 2062
+|
+|
+|
+|
+|-
+|(33)
+|
+|Fred Johnson
+|2062 – 2067
+|
+|
+|
+|
+|-
+|35
+|
+|BLANK
+|2067 – 2070
+|
+|
+|
+|
+|-
+|36
+|
+|John Edwick
+|2070 – 2073
+|
+|
+|
+|
+|}
+```
+
+## Provenance
+
+Raw source: `bronze/pages/3622/11977.wikitext` · revision `11977` · [upstream](https://second-renaissance.fandom.com/wiki/Prime_Minister_of_Canada)

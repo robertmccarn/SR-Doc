@@ -1,0 +1,14 @@
+<nowiki>#F0DC82</nowiki><noinclude>
+
+== Examples ==
+{|
+|- style="color:{{ {{PAGENAME}} }}"
+| '''This color'''
+|- style="background:{{ {{PAGENAME}} }}; color:white"
+| '''White on this color'''
+|- style="background:{{ {{PAGENAME}} }}; color:black"
+| '''Black on this color'''
+|}
+
+[[Category:United States political party color templates|{{PAGENAME}}]]
+</noinclude>

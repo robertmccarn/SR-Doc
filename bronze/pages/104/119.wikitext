@@ -1,0 +1,9 @@
+<div style="clear:both" /><noinclude>
+
+Code: <nowiki><div style="clear:both" /></nowiki>
+
+This causes any previously-established float to clear. The name of this template is a mnemonic for an imaginary horizontal line, which separates floating elements above from those below. 
+
+This is not the same as {{-|clear}}, which is a empty <nowiki><div></nowiki>, not a <nowiki><br></nowiki> element.
+
+[[Category:Templates|{{PAGENAME}}]] [[Category:Utility templates|{{PAGENAME}}]]</noinclude>

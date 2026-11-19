@@ -1,0 +1,25 @@
+<includeonly><div class="{{#if:{{{Description|}}}|thumb <!--
+-->{{#switch:{{{Location|}}}
+ | none | tnone = tnone
+ | left | tleft = tleft
+ | right | tright = tright
+ | center = center
+ | #default = tright }}|<!-- if no description:
+-->{{#switch:{{{Location|}}}
+ | none = floatnone
+ | left = floatleft
+ | right = floatright
+ | center = center }}}}">
+{{#if:{{{Description|}}}|<div class="thumbinner" style="width: {{{cWidth}}}px;">}}
+<div style="width: {{{cWidth}}}px; height: {{{cHeight}}}px; overflow: hidden;">
+<div style="position: relative; top: -{{{oTop}}}px; left: -{{{oLeft}}}px; width: {{{bSize}}}px"><!--
+-->[[File:{{{Image}}}|{{{bSize}}}px|alt={{{Alt|{{{Description|{{{Image}}}}}}}}}{{#if:{{{Link|}}}|{{!}}link={{{Link}}}}}{{#if:{{{Page|}}}|{{!}}page={{{Page}}}}}]]<!--
+--></div>
+{{#if:{{{Description|}}}|</div>
+<div class="thumbcaption">
+<div class="magnify">[[:{{#if:{{{magnify-link|}}}|{{{magnify-link}}}|File:{{{Image}}}}}]]</div>{{{Description}}}
+</div>}}
+</div>
+</div>{{#ifeq:1|{{ifnumber|{{{cWidth|}}}{{{cHeight|}}}{{{oTop|}}}{{{oLeft|}}}{{{bSize|}}}}}||[[Category:CSS image crop using invalid parameters]]}}</includeonly><noinclude>
+{{documentation}}
+</noinclude>

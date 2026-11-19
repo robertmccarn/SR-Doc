@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "*": "Pages_with_broken_file_links",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"plainlinks ombox ombox-content\" style=\"\">\n<tbody><tr>\n<td class=\"mbox-image\">\n  <span typeof=\"mw:Error mw:File\"><a href=\"/wiki/Special:Upload?wpDestFile=Ambox_warning_orange.svg\" class=\"new\" title=\"File:Ambox warning orange.svg\"><span class=\"mw-file-element mw-broken-media\" data-width=\"40\">File:Ambox warning orange.svg</span></a></span></td>\n<td class=\"mbox-text\" style=\"\"> <b>This template is used on <span class=\"plainlinks\"><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"http://tools.wmflabs.org/templatecount/index.php?lang=en&amp;namespace=10&amp;name=High-risk\">a very large number of pages</a>.</span></b><br />To avoid large-scale disruption and unnecessary server load, any changes to this template should first be tested in its <span class=\"new\" title=\"Template:High-risk/sandbox (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SGlnaC1yaXNrL3NhbmRib3g/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">/sandbox</span> or <span class=\"new\" title=\"Template:High-risk/testcases (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SGlnaC1yaXNrL3Rlc3RjYXNlcz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">/testcases</span> subpages, or in your own <a href=\"https://en.wikipedia.org/wiki/Subpages#How_to_create_user_subpages\" class=\"extiw\" title=\"wikipedia:Subpages\">user space</a>. The tested changes can then be added to this page in one single edit. Please consider discussing any changes on the <span class=\"new\" title=\"Template talk:High-risk (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGVfdGFsazpIaWdoLXJpc2s/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">talk page</span> before implementing them. </td>\n</tr>\n</tbody></table>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:High-risk/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SGlnaC1yaXNrL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:High-risk/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:High-risk/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SGlnaC1yaXNrL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:High-risk/doc</span></div>\n\n<!-- \nNewPP limit report\nCached time: 20261119205459\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.027 seconds\nReal time usage: 0.041 seconds\nPreprocessor visited node count: 122/1000000\nPost‐expand include size: 3488/2097152 bytes\nTemplate argument size: 1535/2097152 bytes\nHighest expansion depth: 9/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   13.822      1 -total\n 52.17%    7.211      1 Template:Documentation\n 47.17%    6.520      1 Template:Ombox\n 29.45%    4.071      1 Template:Ombox/core\n  9.38%    1.296      1 Template:High-risk/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:580-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205459 and revision id 818. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:High-risk/sandbox",
+      "ns": 10
+    },
+    {
+      "*": "Template:High-risk/testcases",
+      "ns": 10
+    },
+    {
+      "*": "Template:High-risk/doc",
+      "ns": 10
+    },
+    {
+      "*": "Template talk:High-risk",
+      "ns": 11
+    }
+  ],
+  "page_id": 580,
+  "revision_id": 818,
+  "title": "Template:High-risk"
+}

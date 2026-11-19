@@ -1,0 +1,1385 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "3119": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9048,
+        "length": 102,
+        "new": "",
+        "ns": 1,
+        "pageid": 3119,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9048,
+            "slots": {
+              "main": {
+                "*": "What happens to Egypt between 2019 and WW3? How long does Sisi rule as dicator? Is he ever overthrown?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-01T17:04:28Z"
+          }
+        ],
+        "title": "Talk:Timeline of major events/@comment-78.108.56.35-20190301170428",
+        "touched": "2019-03-01T17:04:28Z"
+      },
+      "3120": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9049,
+        "length": 199,
+        "new": "",
+        "ns": 1,
+        "pageid": 3120,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9049,
+            "slots": {
+              "main": {
+                "*": "Kim's assassinated on 12 February 2028, Pyongyang is secured on March 29, 2029, Does it take a year for the allies to reach Pyongyang, or do the Allies simply wait a year before invading North Korea?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-01T17:08:40Z"
+          }
+        ],
+        "title": "Talk:Korean reunification/@comment-78.108.56.35-20190301170840",
+        "touched": "2019-03-01T17:08:40Z"
+      },
+      "3121": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9050,
+        "length": 120,
+        "new": "",
+        "ns": 1,
+        "pageid": 3121,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9050,
+            "slots": {
+              "main": {
+                "*": "damn, so bolsonaro does actually become a dicator, if i may ask, does he get \"gaddafi'ed\" i.e executed by the civilians?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-01T17:43:27Z"
+          }
+        ],
+        "title": "Talk:Brazil/@comment-78.108.56.35-20190301174327",
+        "touched": "2019-03-01T17:43:27Z"
+      },
+      "3122": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9052,
+        "length": 210,
+        "new": "",
+        "ns": 1,
+        "pageid": 3122,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9052,
+            "slots": {
+              "main": {
+                "*": "What happens to India post-Modi, obviously he can't run in 2024 (i think), who do you think would succeed him?, perhaps Hindu nationalist Yogi Adityanath, if the political scene in India continues to detoriate.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-01T20:49:43Z"
+          }
+        ],
+        "title": "Talk:India/@comment-78.108.56.35-20190301204942",
+        "touched": "2019-03-01T20:49:43Z"
+      },
+      "3123": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9054,
+        "length": 79,
+        "ns": 1,
+        "pageid": 3123,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9053,
+            "revid": 9054,
+            "slots": {
+              "main": {
+                "*": "It is interesting for his death to be at the same year Bush jr and Clinton dies",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-02T05:25:03Z"
+          }
+        ],
+        "title": "Talk:President of the United States/@comment-78.108.56.35-20190301170103/@comment-5590986-20190302052413",
+        "touched": "2019-03-02T05:25:03Z"
+      },
+      "3124": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9055,
+        "length": 60,
+        "new": "",
+        "ns": 1,
+        "pageid": 3124,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9055,
+            "slots": {
+              "main": {
+                "*": "Kim's assassination and allied intervention are months apart",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-02T05:27:19Z"
+          }
+        ],
+        "title": "Talk:Korean reunification/@comment-78.108.56.35-20190301170840/@comment-5590986-20190302052719",
+        "touched": "2019-03-02T05:27:19Z"
+      },
+      "3125": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9056,
+        "length": 51,
+        "new": "",
+        "ns": 1,
+        "pageid": 3125,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9056,
+            "slots": {
+              "main": {
+                "*": "I understand, I was just thinking about his health.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-02T15:15:13Z"
+          }
+        ],
+        "title": "Talk:President of the United States/@comment-78.108.56.35-20190301170103/@comment-78.108.56.35-20190302151513",
+        "touched": "2019-03-02T15:15:13Z"
+      },
+      "3126": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9057,
+        "length": 68,
+        "new": "",
+        "ns": 1,
+        "pageid": 3126,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9057,
+            "slots": {
+              "main": {
+                "*": "So is Kim's death date of 2028 an error? Shoudn't it be 2029? thanks",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-02T15:16:40Z"
+          }
+        ],
+        "title": "Talk:Korean reunification/@comment-78.108.56.35-20190301170840/@comment-78.108.56.35-20190302151640",
+        "touched": "2019-03-02T15:16:40Z"
+      },
+      "3127": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9058,
+        "length": 435,
+        "new": "",
+        "ns": 1,
+        "pageid": 3127,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9058,
+            "slots": {
+              "main": {
+                "*": "I was just thinking, since Clinton, Bush, Trump were born within three months of each other (Trump in June 1946, Bush in July 1946, Clinton in August 1946) wouldn't it be interesting if, when they died in 2038, they'd die within three months of each other? Say Trump dies in March, for example, then Bush dies in April, and Clinton in May. I think fringe conspiracy theorists would have a field day with that one (NWO, Illuminati, etc)",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-02T18:15:00Z"
+          }
+        ],
+        "title": "Talk:President of the United States/@comment-78.108.56.35-20190301170103/@comment-78.108.56.35-20190302181500",
+        "touched": "2019-03-02T18:15:00Z"
+      },
+      "3128": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9061,
+        "length": 139,
+        "new": "",
+        "ns": 1,
+        "pageid": 3128,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9061,
+            "slots": {
+              "main": {
+                "*": "What happens to authoritarians such as; Erdogan, Duterte, Xi, Assad, Mohammed bin Salman, Netanyahu? Are some of them still around by 2027?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-03T16:08:28Z"
+          }
+        ],
+        "title": "Talk:Revolutions of 2027/@comment-78.108.56.35-20190303160828",
+        "touched": "2019-03-03T16:08:28Z"
+      },
+      "3129": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9062,
+        "length": 75,
+        "new": "",
+        "ns": 1,
+        "pageid": 3129,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9062,
+            "slots": {
+              "main": {
+                "*": "And what advantages will provide a compact LGM over a common assault rifle?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-03T22:43:31Z"
+          }
+        ],
+        "title": "Talk:List of World War III weapons/@comment-88.4.111.129-20190303224331",
+        "touched": "2019-03-03T22:43:31Z"
+      },
+      "3130": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9063,
+        "length": 22,
+        "new": "",
+        "ns": 6,
+        "pageid": 3130,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9063,
+            "slots": {
+              "main": {
+                "*": "== Licensing ==\n{{PD}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-04T14:32:10Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:PD"
+          }
+        ],
+        "title": "File:Flag of Venezuela.png",
+        "touched": "2019-03-06T06:53:10Z"
+      },
+      "3131": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10909,
+        "length": 0,
+        "ns": 1200,
+        "pageid": 3131,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9064,
+            "revid": 10909,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2022-11-18T21:29:32Z"
+          }
+        ],
+        "title": "Message Wall:RichardTofen",
+        "touched": "2022-11-18T21:29:32Z"
+      },
+      "3132": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9065,
+        "length": 569,
+        "links": [
+          {
+            "ns": 6,
+            "title": "File:Flag of Venezuela.png"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 3132,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9065,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:File:Flag of Venezuela.png]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-04T14:32:14Z"
+          }
+        ],
+        "title": "Thread:ItVaries/@comment-32769624-20190304143214",
+        "touched": "2019-03-04T14:32:14Z"
+      },
+      "3133": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with broken file links"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 10907,
+        "length": 232,
+        "ns": 2,
+        "pageid": 3133,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9066,
+            "revid": 10907,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2022-11-18T21:29:31Z"
+          }
+        ],
+        "title": "User:RichardTofen",
+        "touched": "2022-11-18T21:29:32Z"
+      },
+      "3134": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9070,
+        "length": 80,
+        "new": "",
+        "ns": 1,
+        "pageid": 3134,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9070,
+            "slots": {
+              "main": {
+                "*": ">be guaido\n\n>overthrow social revolution\n\n>overthrown by social revolution\n\n>tfw",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-05T12:31:46Z"
+          }
+        ],
+        "title": "Talk:Venezuela/@comment-62.109.36.16-20190305123146",
+        "touched": "2019-03-05T12:31:46Z"
+      },
+      "3135": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9073,
+        "length": 149,
+        "new": "",
+        "ns": 1,
+        "pageid": 3135,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9073,
+            "slots": {
+              "main": {
+                "*": "sorry for the many comments, but I keep imaging Lionel Halvidar as old Howard Stark from Marvel. I guess he looks so presidential and statesmanslike.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-06T09:13:13Z"
+          }
+        ],
+        "title": "Talk:Lionel Halvidar/@comment-62.109.36.16-20190306091313",
+        "touched": "2019-03-06T09:13:13Z"
+      },
+      "3136": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9074,
+        "length": 46,
+        "new": "",
+        "ns": 1,
+        "pageid": 3136,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9074,
+            "slots": {
+              "main": {
+                "*": "what would an eleventh party system look like.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-07T11:28:10Z"
+          }
+        ],
+        "title": "Talk:Tenth Party System/@comment-62.109.36.16-20190307112810",
+        "touched": "2019-03-07T11:28:10Z"
+      },
+      "3137": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9075,
+        "length": 323,
+        "new": "",
+        "ns": 1,
+        "pageid": 3137,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9075,
+            "slots": {
+              "main": {
+                "*": "Well right now there is a stable  New world order and cycle maintained by the United States. Something big must happen for this system to collapse or further power vacuums happening. Either the 11th party system would be a break up of parties into smaller ones again, or a government wide coalition to deal with the threat",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-07T21:15:00Z"
+          }
+        ],
+        "title": "Talk:Tenth Party System/@comment-62.109.36.16-20190307112810/@comment-4.35.14.90-20190307211500",
+        "touched": "2019-03-07T21:15:00Z"
+      },
+      "3138": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9076,
+        "length": 15,
+        "new": "",
+        "ns": 1,
+        "pageid": 3138,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9076,
+            "slots": {
+              "main": {
+                "*": "alien invasion?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-08T07:31:28Z"
+          }
+        ],
+        "title": "Talk:Tenth Party System/@comment-62.109.36.16-20190307112810/@comment-62.109.36.16-20190308073128",
+        "touched": "2019-03-08T07:31:28Z"
+      },
+      "3139": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9092,
+        "length": 149,
+        "new": "",
+        "ns": 1,
+        "pageid": 3139,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9092,
+            "slots": {
+              "main": {
+                "*": "Was Hayer a trillionaire? I feel like if you make a business like Hayer did you'd make trillions. By the way, who was the world's first trillionaire?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-09T16:14:30Z"
+          }
+        ],
+        "title": "Talk:Adrian Hayer/@comment-78.108.56.35-20190309161430",
+        "touched": "2019-03-09T16:14:30Z"
+      },
+      "3140": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9095,
+        "length": 69,
+        "new": "",
+        "ns": 1,
+        "pageid": 3140,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9095,
+            "slots": {
+              "main": {
+                "*": "Lead states he was born in 2075, but infobox states he was born 2079.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-09T22:54:16Z"
+          }
+        ],
+        "title": "Talk:Rohan Mustafa/@comment-78.108.56.35-20190309225416",
+        "touched": "2019-03-09T22:54:16Z"
+      },
+      "3141": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9096,
+        "length": 92,
+        "new": "",
+        "ns": 1,
+        "pageid": 3141,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9096,
+            "slots": {
+              "main": {
+                "*": "It says Loveridge's death place is unknown. I'm guessing he died in deep interstellar space?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-09T22:55:22Z"
+          }
+        ],
+        "title": "Talk:Joseph Loveridge/@comment-78.108.56.35-20190309225522",
+        "touched": "2019-03-09T22:55:22Z"
+      },
+      "3142": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9099,
+        "length": 150,
+        "ns": 1,
+        "pageid": 3142,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9098,
+            "revid": 9099,
+            "slots": {
+              "main": {
+                "*": "Probably someone 25-40 years from now\n\nIf Elon Musk is successful in his future projects, he'd probably be the first one\n\n\n\n\n\n\n\nand the first iron man",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-09T23:38:01Z"
+          }
+        ],
+        "title": "Talk:Adrian Hayer/@comment-78.108.56.35-20190309161430/@comment-5590986-20190309233719",
+        "touched": "2019-03-09T23:38:01Z"
+      },
+      "3143": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9102,
+        "length": 344,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3143,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9102,
+            "slots": {
+              "main": {
+                "*": "hi, i know the timeline isn't supposed to go past 2160, but do you have any ideas who might be president after Dom Terragno? Maybe some kind of conservative backlash would happen in 2164,  given that since 2132 the US has been under the rule of either the Union Party or the New Republicans.<ac_metadata title=\"After Terragno\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-10T14:33:04Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-78.108.56.35-20190310143304",
+        "touched": "2019-03-10T14:33:04Z"
+      },
+      "3144": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9104,
+        "length": 291,
+        "ns": 1201,
+        "pageid": 3144,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9103,
+            "revid": 9104,
+            "slots": {
+              "main": {
+                "*": "An idea of what COULD happen may be in this thread\n\n\n\n\n[//second-renaissance.fandom.com/wiki/Thread:1453 https://second-renaissance.fandom.com/wiki/Thread:1453]\n\n\nsome people and presidents are also recycled from previous iterations in Future wiki. Although, the pages for it are deleted now",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-10T20:22:32Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-78.108.56.35-20190310143304/@comment-5590986-20190310201620",
+        "touched": "2019-03-10T20:22:32Z"
+      },
+      "3145": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9105,
+        "length": 386,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3145,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9105,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">Batran99 wrote:\n\nsome people and presidents are also recycled from previous iterations in Future wiki. Although, the pages for it are deleted now\n</div>\nIs it possible to somehow view the deleted pages on Future Wiki, particulary the Presidents list?. Some kind of Internet archive machine? It'd be interesting to see what the previous iterations of Presidents were.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-10T20:50:40Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-78.108.56.35-20190310143304/@comment-78.108.56.35-20190310205040",
+        "touched": "2019-03-10T20:50:40Z"
+      },
+      "3146": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9106,
+        "length": 221,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3146,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9106,
+            "slots": {
+              "main": {
+                "*": "Well, I can't find a link to a deleted list. Although, since it was talked about and decided they would be deleted a while ago, I guess there wasn't much hope in that. Sorry to say, but I don't see a way to retrieve them.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-10T21:03:23Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-78.108.56.35-20190310143304/@comment-27896700-20190310210323",
+        "touched": "2019-03-10T21:03:23Z"
+      },
+      "3147": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9111,
+        "length": 912,
+        "ns": 1201,
+        "pageid": 3147,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9110,
+            "revid": 9111,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">78.108.56.35 wrote:<div class=\"quote\">Batran99 wrote:\n\nsome people and presidents are also recycled from previous iterations in Future wiki. Although, the pages for it are deleted now\n</div>Is it possible to somehow view the deleted pages on Future Wiki, particulary the Presidents list?. Some kind of Internet archive machine? It'd be interesting to see what the previous iterations of Presidents were.</div>\nI remember the list going as far as the 2280s at one point\n\nAt some point, Androids/AI would become presidents. Along with at least one extraterrestrial \n\n\n\n\nIn previous iterations people like Eliza Jin Tao or Avery Johnson were president. Most of the future presidents were independents and there was a socialist party at some point\n\n\n\n\nAnd Reed Chen was in like 2100s instead of 60s.\n\n\n\n\nThere was also Maria Schwarzenegger (descendant), Chelsea Clinton, Malia Obama, and others.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-10T22:05:09Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-78.108.56.35-20190310143304/@comment-5590986-20190310214826",
+        "touched": "2019-03-10T22:05:09Z"
+      },
+      "3148": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9112,
+        "length": 148,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3148,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9112,
+            "slots": {
+              "main": {
+                "*": "damn thats cool. (sorry for derailing the original discussion, i just became curious when you mentioned the previous versions of Second Renaissance)",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-11T08:09:31Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-78.108.56.35-20190310143304/@comment-62.109.36.16-20190311080931",
+        "touched": "2019-03-11T08:09:31Z"
+      },
+      "3149": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9113,
+        "length": 302,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3149,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9113,
+            "slots": {
+              "main": {
+                "*": "By the way, IP Adresses  [https://second-renaissance.fandom.com/wiki/Special:Contributions/78.108.56.35 78.108.56.35] and [https://second-renaissance.fandom.com/wiki/Special:Contributions/62.109.36.16 62.109.36.16] are both me, I'm just in another location right now, just thought you should know.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-11T08:55:30Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-78.108.56.35-20190310143304/@comment-62.109.36.16-20190311085530",
+        "touched": "2019-03-11T08:55:30Z"
+      },
+      "3150": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9114,
+        "length": 220,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3150,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9114,
+            "slots": {
+              "main": {
+                "*": "If you were tasked with creating a new Mount Rushmore, and allowed to only use future presidents from The Second Renaissance, which 4 presidents would you pick and why?<ac_metadata title=\"Mount Rushmore\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-11T14:50:49Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-78.108.56.35-20190311145048",
+        "touched": "2019-03-11T14:50:49Z"
+      },
+      "3151": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9117,
+        "length": 151,
+        "new": "",
+        "ns": 1,
+        "pageid": 3151,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9117,
+            "slots": {
+              "main": {
+                "*": "I assume her children Heather and Chad are by her second spouse Archer Moss, unless Anderson and Heather Suzuki adopted, or got In vitro fertilization.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-11T18:35:16Z"
+          }
+        ],
+        "title": "Talk:Carla Anderson/@comment-78.108.56.35-20190311183516",
+        "touched": "2019-03-11T18:35:16Z"
+      },
+      "3152": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9118,
+        "length": 162,
+        "new": "",
+        "ns": 1,
+        "pageid": 3152,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9118,
+            "slots": {
+              "main": {
+                "*": "Did any of Halvidar's kids grow up to be important?. Most presidential children fade into obscurity, or at least give speeches at party conventions every 4 years.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-11T18:36:33Z"
+          }
+        ],
+        "title": "Talk:Lionel Halvidar/@comment-78.108.56.35-20190311183633",
+        "touched": "2019-03-11T18:36:33Z"
+      },
+      "3153": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9119,
+        "length": 149,
+        "new": "",
+        "ns": 1,
+        "pageid": 3153,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9119,
+            "slots": {
+              "main": {
+                "*": "I know at least some of his children were wiped out in Third Mexican-American War\n\n\n\n\nnotably Hakoda Halvidar, who died in the mexican nuclear attack",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-11T19:24:29Z"
+          }
+        ],
+        "title": "Talk:Lionel Halvidar/@comment-78.108.56.35-20190311183633/@comment-4.35.14.90-20190311192429",
+        "touched": "2019-03-11T19:24:29Z"
+      },
+      "3154": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9120,
+        "length": 36,
+        "new": "",
+        "ns": 1,
+        "pageid": 3154,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9120,
+            "slots": {
+              "main": {
+                "*": "some of his children and descendants",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-11T19:24:54Z"
+          }
+        ],
+        "title": "Talk:Lionel Halvidar/@comment-78.108.56.35-20190311183633/@comment-4.35.14.90-20190311192454",
+        "touched": "2019-03-11T19:24:54Z"
+      },
+      "3155": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9121,
+        "length": 178,
+        "new": "",
+        "ns": 1,
+        "pageid": 3155,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9121,
+            "slots": {
+              "main": {
+                "*": "Damn, it must have been rough for Halvidar, not only having to face the greatest threat the United States had ever faced, but also having your own children die in the same war.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-11T20:05:38Z"
+          }
+        ],
+        "title": "Talk:Lionel Halvidar/@comment-78.108.56.35-20190311183633/@comment-78.108.56.35-20190311200538",
+        "touched": "2019-03-11T20:05:38Z"
+      },
+      "3156": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9122,
+        "length": 55,
+        "new": "",
+        "ns": 1,
+        "pageid": 3156,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9122,
+            "slots": {
+              "main": {
+                "*": "No president is not without their hardships, I suppose.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-11T20:10:25Z"
+          }
+        ],
+        "title": "Talk:Lionel Halvidar/@comment-78.108.56.35-20190311183633/@comment-4.35.14.90-20190311201025",
+        "touched": "2019-03-11T20:10:25Z"
+      },
+      "3157": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9123,
+        "length": 42,
+        "new": "",
+        "ns": 1,
+        "pageid": 3157,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9123,
+            "slots": {
+              "main": {
+                "*": "or no president is without their hardships",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-11T20:11:31Z"
+          }
+        ],
+        "title": "Talk:Lionel Halvidar/@comment-78.108.56.35-20190311183633/@comment-4.35.14.90-20190311201131",
+        "touched": "2019-03-11T20:11:31Z"
+      },
+      "3158": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9124,
+        "length": 126,
+        "new": "",
+        "ns": 1,
+        "pageid": 3158,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9124,
+            "slots": {
+              "main": {
+                "*": "I understand that the European food riots overthrew the German government.\n\nHow did they affect Sweden and the rest of Europe?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-12T08:49:57Z"
+          }
+        ],
+        "title": "Talk:Tom Steele/@comment-62.109.36.16-20190312084957",
+        "touched": "2019-03-12T08:49:57Z"
+      },
+      "3159": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9125,
+        "length": 122,
+        "new": "",
+        "ns": 1,
+        "pageid": 3159,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9125,
+            "slots": {
+              "main": {
+                "*": "Also, I think Tom Steele is my favorite underrated president. He reminds me of a young Mike Pence crossed with Tom Cruise.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-12T15:05:52Z"
+          }
+        ],
+        "title": "Talk:Tom Steele/@comment-62.109.36.16-20190312084957/@comment-78.108.56.35-20190312150552",
+        "touched": "2019-03-12T15:05:52Z"
+      },
+      "3160": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9126,
+        "length": 113,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3160,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9126,
+            "slots": {
+              "main": {
+                "*": "The timeline has a hard stop at 2160. Too much content still needs to be created as it is for the next 140 years.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-12T15:30:56Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-78.108.56.35-20190310143304/@comment-899576-20190312153056",
+        "touched": "2019-03-12T15:30:56Z"
+      },
+      "3161": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9127,
+        "length": 157,
+        "new": "",
+        "ns": 1,
+        "pageid": 3161,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9127,
+            "slots": {
+              "main": {
+                "*": "No, its an error in the code I think. If you don't input a death date it comes up unknonw. He died in DC while still serving as chairman of the Joint Chiefs.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-12T15:36:29Z"
+          }
+        ],
+        "title": "Talk:Joseph Loveridge/@comment-78.108.56.35-20190309225522/@comment-899576-20190312153629",
+        "touched": "2019-03-12T15:36:29Z"
+      },
+      "3162": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9128,
+        "length": 37,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3162,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9128,
+            "slots": {
+              "main": {
+                "*": "Halvidar, Anderson, Price, and Jacobi",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-12T15:37:52Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-78.108.56.35-20190311145048/@comment-899576-20190312153752",
+        "touched": "2019-03-12T15:37:52Z"
+      },
+      "3163": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9129,
+        "length": 390,
+        "new": "",
+        "ns": 1,
+        "pageid": 3163,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9129,
+            "slots": {
+              "main": {
+                "*": "Functionally a dictator until his death, deposed in a coup, deposed in a coup, flees to former Russia to live in exile, deposed in a coup, indicted. Erdogan is around by 2027, as is Duterte (though he's deposed in the Revolutions of 2027. I'm not willing to commit to Xi's demise yet. He'll probably survive the next recession and gain even more power, but he's not gonna survive the Flood.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-12T15:43:10Z"
+          }
+        ],
+        "title": "Talk:Revolutions of 2027/@comment-78.108.56.35-20190303160828/@comment-899576-20190312154310",
+        "touched": "2019-03-12T15:43:10Z"
+      },
+      "3164": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9130,
+        "length": 113,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3164,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9130,
+            "slots": {
+              "main": {
+                "*": "2160 is an election year if I remember, maybe we make a wikipedia style article about the upcoming 2160 election.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-12T15:53:24Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-78.108.56.35-20190310143304/@comment-27896700-20190312155324",
+        "touched": "2019-03-12T15:53:24Z"
+      },
+      "3165": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9131,
+        "length": 62,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3165,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9131,
+            "slots": {
+              "main": {
+                "*": "2160 election already passed, the timeline is in December 2160",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-12T16:09:35Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-78.108.56.35-20190310143304/@comment-4.35.14.90-20190312160935",
+        "touched": "2019-03-12T16:09:35Z"
+      },
+      "3166": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9132,
+        "length": 215,
+        "new": "",
+        "ns": 1,
+        "pageid": 3166,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9132,
+            "slots": {
+              "main": {
+                "*": "seems like 2027 was a bad year for some dictators.\n\nRegarding Duterte, he said a year ago he was going to step down in 2020, now I don't know if he was lying (AKA being Duterte) or is actually grooming a sucessor...",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-12T16:45:04Z"
+          }
+        ],
+        "title": "Talk:Revolutions of 2027/@comment-78.108.56.35-20190303160828/@comment-78.108.56.35-20190312164504",
+        "touched": "2019-03-12T16:45:04Z"
+      },
+      "3167": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9133,
+        "length": 42,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3167,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9133,
+            "slots": {
+              "main": {
+                "*": "unless it changes in regards to the future",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-13T02:15:53Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-78.108.56.35-20190310143304/@comment-5590986-20190313021553",
+        "touched": "2019-03-13T02:15:53Z"
+      },
+      "3168": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9134,
+        "length": 138,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3168,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9134,
+            "slots": {
+              "main": {
+                "*": "Sorry for bothering you, but what about a Mount Rushmore reserved for the worst four presidents?\n\nI guess Thang Levin would be one of them",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-13T07:44:15Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-78.108.56.35-20190311145048/@comment-62.109.36.16-20190313074415",
+        "touched": "2019-03-13T07:44:15Z"
+      }
+    }
+  }
+}

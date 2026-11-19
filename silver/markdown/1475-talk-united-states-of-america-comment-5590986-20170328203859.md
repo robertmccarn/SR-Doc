@@ -1,0 +1,24 @@
+---
+page_id: 1475
+revision_id: 3450
+source_url: https://second-renaissance.fandom.com/wiki/Talk%3AUnited_States_of_America/%40comment-5590986-20170328203859
+raw_sha256: 4481dfe77e6c8b9805320d151958bcb3d918854da4a6399387ae11cb80c52c16
+---
+
+# Talk:United States of America/@comment-5590986-20170328203859
+
+## Preserved source
+
+```wikitext
+in the description it said the US has "<span style="font-size:14px;font-weight:normal;">is a federal presidential constitutional republic comprising 81 states and numerous territories on Earth and throughout local space."</span>
+
+<span style="font-size:14px;font-weight:normal;">while in political divisions it says it has "</span><span style="font-weight:normal;font-size:14px;">The United States is a federal union of eight </span>[http://second-renaissance.wikia.com/wiki/U.S._planetary_commonwealth Planetary Commonwealths]<span style="font-weight:normal;font-size:14px;"> and hundreds of states"</span>
+
+
+
+<span style="font-weight:normal;font-size:14px;">How many states it has exactly? I'd assume it's over 200</span>
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1475/3450.wikitext` · revision `3450` · [upstream](https://second-renaissance.fandom.com/wiki/Talk%3AUnited_States_of_America/%40comment-5590986-20170328203859)

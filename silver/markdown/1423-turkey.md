@@ -1,0 +1,48 @@
+---
+page_id: 1423
+revision_id: 8788
+source_url: https://second-renaissance.fandom.com/wiki/Turkey
+raw_sha256: ae73c53856985c1758ab78468045f2ab89805d4b4eb822793549d56d9cd4016a
+---
+
+# Turkey
+
+## Preserved source
+
+```wikitext
+{{Infobox country
+|name_short = Turkey
+|name = Republic of Turkey
+|image_flag = Flag_of_Turkey.png
+|seal =
+|anthem = "İstiklâl Marşı"<br>The Independence March
+|demonym = Turkish, Turk
+|capital = Istanbul
+|regime = Unitary parliamentary constitutional republic
+|HoStitle = President
+|HoSname = 
+|HoGtitle = Prime Minister
+|legislature = Grand National Assembly
+|population = 82,188,240
+|currency = Turkish lira (TRY)
+|time_zone = FET (UTC+3)
+|calling_code = +90
+|Internet TLD =  .tr
+}}
+'''Turkey''' (Turkish: Türkiye [ˈtyɾcije]), officially the '''Republic of Turkey''' (Turkish: ''Türkiye Cumhuriyeti''; pronounced [ˈtyɾcije d͡ʒumˈhuɾijeti]), is a transcontinental country in Eurasia, mainly in Anatolia in Western Asia, with a smaller portion on the Balkan peninsula in Southeast Europe. Turkey is a democratic, secular, unitary, presidential republic with a diverse cultural heritage. The Bosphorus, the Sea of Marmara, and the Dardanelles, which together form the Turkish Straits, divide Thrace and Anatolia; they also separate Europe and Asia. Turkey's location has given it geopolitical and strategic importance throughout history.
+
+# History
+## '''Rise of Erdogan'''
+After members of the Turkish Armed Forces launched a failed coup attempt against President Recep Tayyip Erdogan, Turkey saw a rapid consolidation of power by the Presidency. This was accumulated in 2017 with a constitutional referendum that saw the office of Prime Minister abolished and the replacing of the country's parliamentary system with a presidential system.
+
+Turkey began expanding its influence over the former states of Syria and Iraq during the latter half of the 2010s and early 2020s, through direct military intervention in post-civil war Syria and through economic shaping projects like the Southeastern Anatolia Project, which saw the creation of a new network of dams and irrigation systems that allowed Turkey to apply further pressure on its neighbors. This period saw the Turks come into regular confrontation with Iran and political competition with Saudi Arabia for American support. As the Saudis increasingly fell out of favor with the Americans, Turkey was able to extend its influence over the whole of the Levant.
+
+## '''[World War III](107-world-war-iii.md)'''
+## '''Decline'''
+## '''[Third Mexican War](119-third-mexican-american-war.md)'''
+[Category:Countries in Asia](https://second-renaissance.fandom.com/wiki/Category:Countries_in_Asia)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1423/8788.wikitext` · revision `8788` · [upstream](https://second-renaissance.fandom.com/wiki/Turkey)

@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "*": "Pages_with_non-numeric_formatnum_arguments",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    },
+    {
+      "*": "Template_documentation_pages",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    },
+    {
+      "*": "Pages_with_broken_file_links",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"plainlinks ombox ombox-notice\" style=\"margin-bottom:1.0em;\">\n<tbody><tr>\n<td class=\"mbox-image\">\n  <span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://static.wikia.nocookie.net/second-renaissance/images/1/15/Edit-copy_green.svg/revision/latest/scale-to-width-down/40?cb=20150808172902\" decoding=\"async\" loading=\"lazy\" width=\"40\" height=\"40\" class=\"mw-file-element\" data-image-name=\"Edit-copy green.svg\" data-image-key=\"Edit-copy_green.svg\" data-relevant=\"0\" /></span></span></td>\n<td class=\"mbox-text\" style=\"\"> <b>This is a <a href=\"https://en.wikipedia.org/wiki/Template_documentation\" class=\"extiw\" title=\"wikipedia:Template documentation\">documentation</a> <a href=\"https://en.wikipedia.org/wiki/Subpages\" class=\"extiw\" title=\"wikipedia:Subpages\">subpage</a> for <a href=\"/wiki/Template:Mbox\" title=\"Template:Mbox\">Template:Mbox</a></b>.<br />It contains usage information, <a href=\"https://en.wikipedia.org/wiki/Categorization\" class=\"extiw\" title=\"wikipedia:Categorization\">categories</a> and other content that is not part of the original template page. </td>\n</tr>\n</tbody></table>\n<table class=\"plainlinks ombox ombox-content\" style=\"\">\n<tbody><tr>\n<td class=\"mbox-image\">\n  <span typeof=\"mw:Error mw:File\"><a href=\"/wiki/Special:Upload?wpDestFile=Ambox_warning_orange.svg\" class=\"new\" title=\"File:Ambox warning orange.svg\"><span class=\"mw-file-element mw-broken-media\" data-width=\"40\">File:Ambox warning orange.svg</span></a></span></td>\n<td class=\"mbox-text\" style=\"\"> <b>This template is used on <span class=\"plainlinks\"><a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"http://tools.wmflabs.org/templatecount/index.php?lang=en&amp;namespace=10&amp;name=Mbox%2Fdoc\">188,000+ pages</a>.</span></b><br />To avoid large-scale disruption and unnecessary server load, any changes to this template should first be tested in its <span class=\"new\" title=\"Template:Mbox/sandbox (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6TWJveC9zYW5kYm94P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">/sandbox</span> or <span class=\"new\" title=\"Template:Mbox/testcases (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6TWJveC90ZXN0Y2FzZXM/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">/testcases</span> subpages, or in your own <a href=\"https://en.wikipedia.org/wiki/Subpages#How_to_create_user_subpages\" class=\"extiw\" title=\"wikipedia:Subpages\">user space</a>. The tested changes can then be added to this page in one single edit. Please consider discussing any changes on the <span class=\"new\" title=\"Template talk:Mbox (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGVfdGFsazpNYm94P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">talk page</span> before implementing them. </td>\n</tr>\n</tbody></table>\n<table class=\"plainlinks ombox mbox-small ombox-notice\" role=\"presentation\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:Error mw:File\"><a href=\"/wiki/Special:Upload?wpDestFile=Lua-logo-nolabel.svg\" class=\"new\" title=\"File:Lua-logo-nolabel.svg\"><span class=\"mw-file-element mw-broken-media\" data-width=\"30\">Lua logo</span></a></span></td><td class=\"mbox-text\">Uses <a href=\"https://en.wikipedia.org/wiki/Lua\" class=\"extiw\" title=\"wikipedia:Lua\">Lua</a>:\n<div><ul><li><a href=\"/wiki/Module:Message_box\" title=\"Module:Message box\">Module:Message box</a></li></ul></div></td></tr></tbody></table>\n<p><span class=\"new\" title=\"Template:Mbox templates (small) (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6TWJveF90ZW1wbGF0ZXNfKHNtYWxsKT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:Mbox templates (small)</span>\n</p>\n<div style=\"clear:both\"> (\"[<b>M</b>]uti-namespace message[<b>box</b>]\") is a <span class=\"new\" title=\"Help:Metatemplating (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvSGVscDpNZXRhdGVtcGxhdGluZz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">metatemplate</span> with which <a href=\"https://en.wikipedia.org/wiki/Namespace\" class=\"extiw\" title=\"wikipedia:Namespace\">namespace</a>-sensitive <a href=\"/wiki/Category:Mbox_and_messagebox_templates\" class=\"newcategory\" title=\"Category:Mbox and messagebox templates\">messagebox templates</a> can be implemented. The most common of these are <div style=\"clear:both\"> for articles, <div style=\"clear:both\"> for talk pages, <div style=\"clear:both\"> for file (formerly image) pages, <div style=\"clear:both\"> for category pages and <div style=\"clear:both\"> for other types of page.\n<p>Note that this template should only be used for message boxes that really need to adapt their style. Most message boxes do not need this and should use one of the varieties just listed. Using those templates directly means that your template will look the same on its template page and at any other place you show it, which makes it clear on what kind of pages it is supposed to be used. It also gives you access to any extra features those templates offer, and it saves some server load.\n</p>\n<div id=\"toc\" class=\"toc\" role=\"navigation\" aria-labelledby=\"mw-toc-heading\"><input type=\"checkbox\" role=\"button\" id=\"toctogglecheckbox\" class=\"toctogglecheckbox\" style=\"display:none\" /><div class=\"toctitle\" lang=\"en\" dir=\"ltr\"><h2 id=\"mw-toc-heading\">Contents</h2><span class=\"toctogglespan\"><label class=\"toctogglelabel\" for=\"toctogglecheckbox\"></label></span></div>\n<ul>\n<li class=\"toclevel-1 tocsection-1\"><a href=\"#Usage\"><span class=\"tocnumber\">1</span> <span class=\"toctext\">Usage</span></a></li>\n<li class=\"toclevel-1 tocsection-2\"><a href=\"#Demospace\"><span class=\"tocnumber\">2</span> <span class=\"toctext\">Demospace</span></a></li>\n<li class=\"toclevel-1 tocsection-3\"><a href=\"#Parameters\"><span class=\"tocnumber\">3</span> <span class=\"toctext\">Parameters</span></a></li>\n<li class=\"toclevel-1 tocsection-4\"><a href=\"#See_also\"><span class=\"tocnumber\">4</span> <span class=\"toctext\">See also</span></a></li>\n</ul>\n</div>\n\n<h2><span class=\"mw-headline\" id=\"Usage\">Usage</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h2>\nThis template takes the same parameters as <div style=\"clear:both\">, <div style=\"clear:both\">, etc. See full documentation there.\n<p>Some of the boxes this template calls only handles images of max 52px width, thus that limitation also applies to this template or you will get ugly padding problems.\n</p>\n<h2><span class=\"mw-headline\" id=\"Demospace\">Demospace</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h2>\nThis template optionally takes the \"demospace\" parameter as described at <div style=\"clear:both\">. That parameter is only for testing and demonstration purposes. If you want to lock your message box to one style then instead use one of the other mboxes directly.\n<p>Namespace \"Image:\" was renamed to \"File:\" on 11 December 2008. This template was updated to understand both names well before that, thus it still works fine. For backwards compatibility it still understands \"demospace&#160;= image\" which means the same thing as \"demospace&#160;= file\". But using \"demospace&#160;= image\" is now deprecated.\n</p><p>Namespace \"Book:\" was added to the English Wikipedia on 28 December 2009. This template uses the <span class=\"nowrap\">&#123;&#123;Ombox&#125;&#125;</span> style on \"Book:\" pages (or when \"demospace&#160;= book\") and the <span class=\"nowrap\">&#123;&#123;Tmbox&#125;&#125;</span> style on \"Book talk:\" pages (or when \"demospace&#160;= talk\"). Note that \"demospace&#160;= talk\" means any talk space.\n</p>\n<h2><span class=\"mw-headline\" id=\"Parameters\">Parameters</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>List of all parameters:\n</p>\n<pre>{{Mbox\n| demospace = {{{demospace|}}} / main / talk / file / category / other\n| type  = speedy / delete / content / style / notice / move / protection\n| image = none / [[File:Some image.svg|40px]]\n| imageright = [[File:Some image.svg|40px]]\n| style = CSS values\n| textstyle  = CSS values\n| text  = The message body text.\n| small = {{{small|}}} / left / yes\n| smallimage = none / [[File:Some image.svg|30px]]\n| smallimageright = none / [[File:Some image.svg|30px]]\n| smalltext  = A shorter message body text.\n}}\n</pre>\nNote: The small parameters only have effect when the template appears on an article, talk or \"other\" page type. For their associated documentation, see <div style=\"clear:both\">, <div style=\"clear:both\"> and/or <div style=\"clear:both\">. Using the small parameters when they are not valid has no effect, but also does no harm.\n<h2><span class=\"mw-headline\" id=\"See_also\">See also</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p><span class=\"new\" title=\"Template:Mbox templates see also (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6TWJveF90ZW1wbGF0ZXNfc2VlX2Fsc28/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:Mbox templates see also</span>\n</p><p><br />\n</p></div></div></div></div></div></div></div></div></div></div></div></div>\n<!-- \nNewPP limit report\nCached time: 20261119205531\nCache expiry: 2592000\nReduced expiry: false\nComplications: [show‐toc]\nCPU time usage: 0.102 seconds\nReal time usage: 0.142 seconds\nPreprocessor visited node count: 528/1000000\nPost‐expand include size: 8832/2097152 bytes\nTemplate argument size: 2668/2097152 bytes\nHighest expansion depth: 17/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 523/5000000 bytes\nLua time usage: 0.031/7.000 seconds\nLua memory usage: 774666/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   94.056      1 -total\n 66.10%   62.172      1 Template:Lua\n 12.83%   12.071      1 Template:Documentation_subpage\n  9.69%    9.118      1 Template:Mbox\n  8.61%    8.099      2 Template:Ombox\n  6.17%    5.805      2 Template:Ombox/core\n  5.79%    5.441      1 Template:High-risk\n  4.99%    4.698      1 Template:Cl\n  3.61%    3.398      2 Template:Tlf\n  2.46%    2.317      1 Template:Namespace_detect\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:838-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205531 and revision id 1151. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Mbox",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Mbox/sandbox",
+      "ns": 10
+    },
+    {
+      "*": "Template:Mbox/testcases",
+      "ns": 10
+    },
+    {
+      "*": "Template:Mbox templates (small)",
+      "ns": 10
+    },
+    {
+      "*": "Template:Mbox templates see also",
+      "ns": 10
+    },
+    {
+      "*": "Category:Mbox and messagebox templates",
+      "ns": 14
+    },
+    {
+      "*": "Module:Message box",
+      "exists": "",
+      "ns": 828
+    },
+    {
+      "*": "Template talk:Mbox",
+      "ns": 11
+    },
+    {
+      "*": "Help:Metatemplating",
+      "ns": 12
+    }
+  ],
+  "page_id": 838,
+  "revision_id": 1151,
+  "title": "Template:Mbox/doc"
+}

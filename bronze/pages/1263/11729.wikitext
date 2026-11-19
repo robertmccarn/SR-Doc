@@ -1,0 +1,171 @@
+{{Infobox election
+|election_name = United States presidential election, 2032
+|country = United States
+|type = presidential
+|ongoing = no
+| flag_year = 2021
+|previous_election = United States presidential election, 2028
+|previous_year = 2028
+|next_election = United States presidential election, 2036
+|next_year = 2036
+|election_date = November 2, 2032
+| votes_for_election         = All eligable voters who participate
+| needed_votes               = 51% of the vote
+| turnout                    = 78.0%
+| image1 = [[File:Alexandria Ocasio-Cortez Official Portrait.jpg|150px]]
+| nominee1 = [[Alexandria Ocasio-Cortez]]
+| party1 = Progress
+| home_state1 = New York
+| running_mate1 = [[Dylan J. Price]]
+| electoral_vote1 = 
+| states_carried1 = 
+| popular_vote1 = 
+| percentage1 = 61.1%
+| image2 = [[File:Benraylujan2032.png|165px]]
+| nominee2 = Ben Ray Lujan
+| party2 = Democrat
+| home_state2 = Texas
+| running_mate2 = Gretchen Whitmer
+| electoral_vote2 =
+| states_carried2 =
+| popular_vote2 =  
+| percentage2 = 22.9%
+| nominee5 = [https://en.wikipedia.org/wiki/George_P._Bush George Prescott Bush]
+| party5 = Libertarian
+| image5 = [[File:20190220 224217.jpg|157px]]
+| home_state5 = Florida
+| running_mate5 = [https://en.wikipedia.org/wiki/Justin_Rockefeller Justin Rockefeller]
+| electoral_vote5 = 
+| states_carried5 = 
+| popular_vote5 = 
+| percentage5 = 9.4%
+| nominee4 = Madison Cawthorn
+| party4 = National Union
+| image4 = [[File:Madison-Cawthorn.jpeg|130px]]
+| home_state4 = North Carolina
+| running_mate4 = Candace Owens
+| electoral_vote4 = 
+| states_carried4 =
+| popular_vote4 = 
+| percentage4 = 6.6%
+| title = President
+| before_election =  [[Alexandria Ocasio-Cortez]]
+| before_party = Progressive
+| after_election = [[Alexandria Ocasio-Cortez]]
+| after_party = Progressive}}
+
+The '''United States presidential election of 2032''' was the sixty-second quadrennial presidential election, held on Tuesday, November 8, 2032. Ocasio-Cortez won the second largest victory of the popular vote in the 21st century, being elected on the first ballot with 61% of the vote. Ocasio-Cortez touted a strong economic recovery from economic malaise of the [[Great Reset]] and the [[Market Crash of 2027|2027-29 recession]], as well as the widespread perception that his presidency had overseen a revival of national confidence and prestige. The enactment of Progressive reforms, such as Universal Healthcare and housing benefits, had proven to be highly popular with most Americans.
+
+Although some political pundits predicted a close race, Ocasio-Cortez went on to win the greatest landslide since the beginning of the [[Seventh Party System|multi-party system]]. Ocasio-Cortez carried popular majorities on the first ballot in every state except Montana and North Dakota.
+
+Because the Republican Party had ceased to exist, many conservative parties threw their weight behind the Libertarian Party and the Patriot Party, while the election was a final attempt for the Democratic Party to be preserved. The failure to retake the presidency was the final nail in the coffin for the Democratic Party, causing it to disband the following year. Meanwhile, the failure of either National Union Party or Libertarian Party to take the presidency had caused the rise of the [[Conservative Party (United States)|Conservative party]] soon after.
+
+==Nominations==
+==='''Progress'''===
+
+{| class="wikitable" style="font-size:90%; text-align:center;"
+|-
+| colspan="30" style="background:#f1f1f1;" |<big>'''Progress Party Ticket, 2032'''</big>
+|-
+! style="width:3em; font-size:135%; background:#DC143C; width:200px;" |[[Dylan J. Price|{{color|white|Alexandria-Ocasio Cortez}}]]
+! style="width:3em; font-size:135%; background:#DC143C; width:200px;" |[[Ivory Toldson|{{color|white|Dylan J. Price}}]]
+|- style="color:#000; font-size:100%; background:#ffd0d7;"
+| style="width:3em; width:200px;" |'''''for President'''''
+| style="width:3em; width:200px;" |'''''for Vice President'''''
+|-
+|[[File:Alexandria Ocasio-Cortez Official Portrait.jpg|thumb]]
+|[[File:Dylan J Price.png|thumb]]
+|-
+|[[President of the United States|47th]]<br>[[President of the United States]]<br /><small>(2029–2037)</small>
+|[[Vice Presidents of the United States|50th]]<br>[[Vice President of the United States]]<br /><small>(2029–2037)</small>
+|}
+
+With an incumbent president running for re-election against token opposition, the race for the Progressive Presidential nomination was largely uneventful, however Vice President Price faced a challenge at the convention from Progressive leaders who attempted to draft California Governor Eric Garcetti for the number two slot. Garcetti did not challenge the party's call for a vote for running mate, but did not expressly endorse it either. Ultimately, Price remained on the ballot with 53% of support from the delegates at the Progress Party Convention in Columbus, Ohio. The delegates unanimously re-nominated President Ocasio-Cortez for a second term.
+
+==='''Democratic'''===
+
+{| class="wikitable" style="font-size:90%; text-align:center;"
+|-
+| colspan="30" style="background:#f1f1f1;" |<big>'''Democratic Party Ticket, 2032'''</big>
+|-
+! style="width:3em; font-size:135%; background:#3333FF; width:200px;" |{{color|white|Ben Ray Lujan}}
+! style="width:3em; font-size:135%; background:#3333FF; width:200px;" |{{color|white|Gretchen Whitmer}}
+|- style="color:#000; font-size:100%; background:#c8ebff;"
+| style="width:3em; width:200px;" |'''''for President'''''
+| style="width:3em; width:200px;" |'''''for Vice President'''''
+|-
+|[[File:Benraylujan2032.png|thumb]]
+|[[File:Gretchen Whitmer.jpg|thumb]]
+|-
+|[[United States Senate|U.S. Senator]]<br>from [https://en.wikipedia.org/wiki/New_Mexico New Mexico]<br /><small>(2021–2039)</small>
+|Governor
+of [https://en.wikipedia.org/wiki/Michigan Michigan]
+
+<small>(2019–2027)</small>
+|-
+| colspan="2" |'''Campaign'''
+|}
+
+==='''Libertarian'''===
+
+{| class="wikitable" style="font-size:90%; text-align:center;"
+|-
+| colspan="30" style="background:#f1f1f1;" |<big>'''Libertarian Party Ticket, 2032'''</big>
+|-
+! style="width:3em; font-size:135%; background:#FFD700; width:200px;" |{{color|white|George Prescott Bush}}
+! style="width:3em; font-size:135%; background:#FFD700; width:200px;" |{{color|white|Justin Rockefeller}}
+|- style="color:#000; font-size:100%; background:#F0E68C;"
+| style="width:3em; width:200px;" |'''''for President'''''
+| style="width:3em; width:200px;" |'''''for Vice President'''''
+|-
+|[[File:20190220 224217.jpg|center|200x200px]]
+|[[File:Blank_Person.jpg|center|200x200px]]
+|-
+|Governor <br>of [[Wikipedia:Florida|Florida]]<br /><small>(2029–2037)</small>
+|[[United States Senate|U.S. Senator]]<br>from [[Wikipedia:Pennsylvania|Pennsylvania]]<br /><small>(2027–2037)</small>
+|-
+| colspan="2" |'''Campaign'''
+|}
+
+==='''National Union'''===
+
+{| class="wikitable" style="font-size:90%; text-align:center;"
+|-
+| colspan="30" style="background:#f1f1f1;" |<big>'''National Union Party Ticket, 2032'''</big>
+|-
+! style="width:3em; font-size:135%; background:#32CD32; width:200px;" |{{color|white|Madison Cawthorne}}
+! style="width:3em; font-size:135%; background:#32CD32; width:200px;" |{{color|white|Candace Owens}}
+|- style="color:#000; font-size:100%; background:#90EE90;"
+| style="width:3em; width:200px;" |'''''for President'''''
+| style="width:3em; width:200px;" |'''''for Vice President'''''
+|-
+|[[File:Madison-Cawthorn.jpeg|center|130px]]
+|[[File:Blank_Woman.png|center|200x200px]]
+|-
+|[[United States House_of_Representatives|U.S. Representative]]<br>from [[Wikipedia:North Carolina|North Carolina]]<br /><small>(2021–2023)</small>
+|U.S. Representative<br>from [[Wikipedia:Connecticut|Connecticut]]<br /><small>(2029–2033)</small>
+|-
+| colspan="2" |'''Campaign'''
+|}
+
+==='''Green'''===
+
+{| class="wikitable" style="font-size:90%; text-align:center;"
+|-
+| colspan="30" style="background:#f1f1f1;" |<big>'''Green Party Ticket, 2032'''</big>
+|-
+! style="width:3em; font-size:135%; background:#32CD32; width:200px;" |{{color|white|Eric Haden}}
+! style="width:3em; font-size:135%; background:#32CD32; width:200px;" |{{color|white|Wilma Jones}}
+|- style="color:#000; font-size:100%; background:#90EE90;"
+| style="width:3em; width:200px;" |'''''for President'''''
+| style="width:3em; width:200px;" |'''''for Vice President'''''
+|-
+|[[File:Blank_Person.jpg|center|200x200px]]
+|[[File:Blank_Woman.png|center|200x200px]]
+|-
+|[[United States Senate|U.S. Senator]]<br>from [[Wikipedia:North Carolina|North Carolina]]<br /><small>(2027–2031)</small>
+|U.S. Representative<br>from [[Wikipedia:Oregon|Oregon]]<br /><small>(2025–2033)</small>
+|-
+| colspan="2" |'''Campaign'''
+|}
+[[Category:United States Presidential Elections]]

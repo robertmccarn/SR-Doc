@@ -1,0 +1,47 @@
+{{Infobox election
+|election_name = United States presidential election, 2148
+|country = United States
+|type = presidential
+|ongoing = no
+| flag_year = 2132
+|previous_election = United States presidential election, 2144
+|previous_year = 2128
+|next_election = United States presidential election, 2152
+|next_year = 2152
+|election_date = November 4, 2148
+| votes_for_election         = All eligible voters who turned out
+| needed_votes               = 51% of votes
+| turnout                    = 72.5%
+|image1 = [[File:Zaya_Blank.png|121px|border]]
+|nominee1 = '''[[Ha-eun Zaya]]'''
+|party1 = Union Party
+|home_state1 = [[Jupiter|Xibalba]]
+|running_mate1 = '''Joaquin Vega'''
+|office = 
+|popular_vote1 = '''1,258,022,433'''
+|percentage1 = '''54.3%'''
+|image2 = [[File:Blank_Person.jpg|121px|border]]
+|nominee2 = Ian Binshaieg
+|party2 = Conservative
+|home_state2 = [[Earth|Queensland]]
+|running_mate2 = Dan Jagan
+|office =
+| popular_vote2 = 78,723,644
+| percentage2 = 24.6%
+| image3 = [[File:Blank_Person.jpg|121px|border]]
+| nominee3 = Axel Mattarella
+| party3 = Progress
+| home_state3 = [[Earth|Wales]]
+| running_mate3 = Luis Castro
+| popular_vote3 = 67,521,934
+| percentage3 = 22.1%
+|title = President
+|title = President
+|before_election = [[Cora Fabian]]
+|before_party = Union
+| after_election = [[Ha-eun Zaya]]
+| after_party = Union
+}}
+
+The '''United States presidential election of 2148''' was the 91st quadrennial presidential election. [[Ha-eun Zaya]] won the election.
+[[Category:United States Presidential Elections]]

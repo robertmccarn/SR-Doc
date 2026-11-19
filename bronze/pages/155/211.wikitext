@@ -1,0 +1,35 @@
+{{Navbox
+| name       = Progress templates
+| title      = Progress templates
+| bodyclass  = hlist
+| state      = {{{state|{{{1|}}}}}}
+
+| group1     = General progress templates
+| list1      =
+*{{tl|Progress bar}}
+*{{tl|Progression}}
+*{{tl|Composition bar}}
+*{{tl|Composition histogram}}
+*{{tl|Percentage bar}}
+*{{tl|Percent-done}}
+*{{tl|Progress meter}}
+*{{tl|Percentile}}
+
+| group2     = Specific-use templates
+| list2      =
+*{{tl|Progress}}
+*{{tl|Backlog progress bar}}
+*{{tl|Progress box}}
+*{{tl|Stage short}}
+*{{tl|Progression rainbow}}
+*{{Tl|WikiProject progression rainbow}}
+
+|belowstyle = font-weight:bold;
+|below = 
+* {{icon|category}} [[:Category:Wikipedia progress templates|Category]]
+* {{icon|list}} [[Wikipedia:List of progress boxes|List]] <small>(partial)</small>
+}}<noinclude>
+
+{{Documentation}}
+<!-- PLEASE ADD THIS TEMPLATE'S CATEGORIES TO THE /doc SUBPAGE, THANKS -->
+</noinclude>

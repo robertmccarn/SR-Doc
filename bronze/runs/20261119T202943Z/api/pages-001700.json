@@ -1,0 +1,2862 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "1771": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7141,
+        "length": 234,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Albania/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "ns": 10,
+        "pageid": 1771,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4438,
+            "revid": 7141,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Albania\n| flag alias = Albania_(2048-2056).png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-02T19:01:47Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Albania/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Albania",
+        "touched": "2018-02-02T19:01:47Z"
+      },
+      "1772": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4441,
+        "length": 241,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Mongol Republic/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "ns": 10,
+        "pageid": 1772,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4440,
+            "revid": 4441,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Mongol Republic\n| flag alias = Flag_of_the_Inner_Mongolian_People's_Party.svg.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-17T17:20:58Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Mongol Republic/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Mongol Republic",
+        "touched": "2017-07-17T17:20:58Z"
+      },
+      "1773": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4442,
+        "length": 208,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data East Turkestan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1773,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4442,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = East Turkestan\n| flag alias = East_Turkestan.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-17T17:23:05Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data East Turkestan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data East Turkestan",
+        "touched": "2017-07-17T17:23:05Z"
+      },
+      "1774": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4445,
+        "length": 202,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Russia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1774,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4445,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Russia\n| flag alias = Russian_Republic.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-17T17:29:17Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Russia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Russia",
+        "touched": "2017-07-17T17:29:17Z"
+      },
+      "1775": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4906,
+        "length": 235,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data British Republic/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "ns": 10,
+        "pageid": 1775,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4446,
+            "revid": 4906,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = British Republic\n| shortname alias = Britain\n| flag alias = Rep_Britain.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-05T01:12:35Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data British Republic/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data British Republic",
+        "touched": "2017-08-05T01:12:35Z"
+      },
+      "1776": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4451,
+        "length": 97,
+        "new": "",
+        "ns": 1,
+        "pageid": 1776,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4451,
+            "slots": {
+              "main": {
+                "*": "What roles did Canada, the Baltics, India, and Russia have in the war? Also, was Quebec involved?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-17T18:19:56Z"
+          }
+        ],
+        "title": "Talk:Allies of World War III/@comment-209.174.60.239-20170717181956",
+        "touched": "2017-07-17T18:19:56Z"
+      },
+      "1777": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4452,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1777,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4452,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-17T18:19:57Z"
+          }
+        ],
+        "title": "Message Wall:209.174.60.239",
+        "touched": "2017-07-17T18:19:58Z"
+      },
+      "1778": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4453,
+        "length": 746,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Allies of World War III"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1778,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4453,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Allies of World War III]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-17T18:19:57Z"
+          }
+        ],
+        "title": "Thread:209.174.60.239/@comment-22439-20170717181957",
+        "touched": "2017-07-17T18:19:57Z"
+      },
+      "1779": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5243,
+        "length": 311,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Poland/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "ns": 10,
+        "pageid": 1779,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4730,
+            "revid": 5243,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Poland\n| flag alias = Flag_of_Poland2.png\n| alt attribute = Flag of Poland\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-20T22:07:51Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Poland/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Poland",
+        "touched": "2017-08-20T22:07:51Z"
+      },
+      "1780": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6155,
+        "length": 45,
+        "ns": 6,
+        "pageid": 1780,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4464,
+            "revid": 6155,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:00:16Z"
+          }
+        ],
+        "title": "File:Stewart M Li Blank.png",
+        "touched": "2017-11-08T00:10:49Z"
+      },
+      "1781": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4484,
+        "length": 44,
+        "new": "",
+        "ns": 1,
+        "pageid": 1781,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4484,
+            "slots": {
+              "main": {
+                "*": "James Buchannan was the first LGBT president",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-18T19:09:00Z"
+          }
+        ],
+        "title": "Talk:Carla Anderson/@comment-27084453-20160305195643/@comment-123.185.38.55-20170718190900",
+        "touched": "2017-07-18T19:09:01Z"
+      },
+      "1782": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4485,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1782,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4485,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-18T19:09:01Z"
+          }
+        ],
+        "title": "Message Wall:123.185.38.55",
+        "touched": "2017-07-18T19:09:02Z"
+      },
+      "1783": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4486,
+        "length": 737,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Carla Anderson"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1783,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4486,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Carla Anderson]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-18T19:09:02Z"
+          }
+        ],
+        "title": "Thread:123.185.38.55/@comment-22439-20170718190902",
+        "touched": "2017-07-18T19:09:02Z"
+      },
+      "1784": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4511,
+        "length": 432,
+        "new": "",
+        "ns": 1,
+        "pageid": 1784,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4511,
+            "slots": {
+              "main": {
+                "*": "Quick reminder, this election is taking plass after the collapse of Reagan-era supply side economic systems, and the Flood, so while Libertarians have more support than ever, its from remnants of the Republican party not willing to call themselves Democrats yet. The Green party would have been a lot more popular had they gotten out of their own way. But Libertarianism and neo-liberalism are not all that popular post-Great Reset.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-19T14:26:25Z"
+          }
+        ],
+        "title": "Talk:United States presidential election, 2032/@comment-899576-20170719142624",
+        "touched": "2017-07-19T14:26:25Z"
+      },
+      "1785": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4513,
+        "length": 88,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1785,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4513,
+            "slots": {
+              "main": {
+                "*": "I don't know how to do that. But I can tell you that I'm ElSqiubbonator from Deviantart.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-19T14:38:37Z"
+          }
+        ],
+        "title": "Thread:73.217.19.207/@comment-899576-20170717011203/@comment-73.217.19.207-20170719143836",
+        "touched": "2017-07-19T14:38:37Z"
+      },
+      "1786": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4516,
+        "length": 165,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1786,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4516,
+            "slots": {
+              "main": {
+                "*": "Take your mouse to the upper right of your screen and hover over the little \"My account\" Icon. Click \"Register.\" put in your info (It's for Wikia, I don't see it). ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-19T18:57:56Z"
+          }
+        ],
+        "title": "Thread:73.217.19.207/@comment-899576-20170717011203/@comment-899576-20170719185756",
+        "touched": "2017-07-19T18:57:56Z"
+      },
+      "1787": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4526,
+        "length": 770,
+        "ns": 1201,
+        "pageid": 1787,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4525,
+            "revid": 4526,
+            "slots": {
+              "main": {
+                "*": "As cloning technology had obviously existed, advanced, and perfected by the 22nd century so many animals can grow up healthy. Was there any incidents that celebrities/famous people (such as George Washington, Napoleon,  Adolf Hitler, or even Lionel Halvidar) was cloned at some point?\n\nI understand that they would probably raised and turned out differently, (or perhaps even someone had the idea to combine the DNA of several famous people to create [http://rickandmorty.wikia.com/wiki/Abradolf_Lincler one person] )  but I was just wondering if there are any laws or there are none (or little) for people to clone famous dead ones? Or if any cloned famous people had existed?<ac_metadata title=\"Whats the status of cloning celebrities/famous people?\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-19T22:56:17Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170719205311",
+        "touched": "2017-07-20T15:55:56Z"
+      },
+      "1788": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4539,
+        "length": 60,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1788,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4539,
+            "slots": {
+              "main": {
+                "*": "http://second-renaissance.wikia.com/wiki/Genetic_Engineering",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-20T14:48:00Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170719205311/@comment-899576-20170720144759",
+        "touched": "2017-07-20T14:48:00Z"
+      },
+      "1789": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4540,
+        "length": 13,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1789,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4540,
+            "slots": {
+              "main": {
+                "*": "OKay then thx",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-20T15:55:56Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170719205311/@comment-5590986-20170720155556",
+        "touched": "2017-07-20T15:55:56Z"
+      },
+      "1790": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Person.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Joe Kennedy III.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 52stars.png"
+          }
+        ],
+        "lastrevid": 11784,
+        "length": 1992,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Alexandria Ocasio-Cortez"
+          },
+          {
+            "ns": 0,
+            "title": "Dylan J. Price"
+          },
+          {
+            "ns": 0,
+            "title": "Ivory Toldson"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2032"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2040"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Labor/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Labor/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Liberal/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Liberal/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Libertarian/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Libertarian/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progressive/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progressive/meta/shortname"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1790,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11730,
+            "revid": 11784,
+            "slots": {
+              "main": {
+                "*": "{{Infobox election\n|election_name = United States presidential election, 2036\n|country = United States\n|type = presidential\n|ongoing = no\n| flag_year = 2035\n|previous_election = United States presidential election, 2032\n|previous_year = 2032\n|next_election = United States presidential election, 2040\n|next_year = 2040\n|election_date = November 4, 2036\n| votes_for_election         = All eligible voters who participate\n| needed_votes               = 51% of the vote\n| turnout                    = 57.0%\n| image1 = [[File:Blank_Person.jpg|150px]]\n| nominee1 = [[Ivory Toldson]]\n| party1 = Labor\n| home_state1 = Maryland\n| running_mate1 = Max Goren\n| electoral_vote1 = \n| states_carried1 = \n| popular_vote1 = \n| percentage1 = 43.2%\n| image2 = [[File:Joe_Kennedy_III.jpg|150px]]\n| nominee2 = Joe P. Kennedy III\n| party2 = Progressive\n| home_state2 = Massachusetts\n| running_mate2 = Paula Swearengin\n| electoral_vote2 =\n| states_carried2 =\n| popular_vote2 =  \n| percentage2 =  41.1%\n| nominee5 = Ron Bernard\n| party5 = Libertarian\n| image5 = [[File:Blank_Person.jpg|150px]]\n| home_state5 = Texas\n| running_mate5 = Chris Haden\n| electoral_vote5 = \n| states_carried5 = \n| popular_vote5 = \n| percentage5 = 2.6%\n| nominee4 = John Scott\n| party4 = Liberal\n| image4 = [[File:Blank_Person.jpg|150px]]\n| home_state4 = Utah\n| running_mate4 = Ivan Howe\n| electoral_vote4 = \n| states_carried4 =\n| popular_vote4 = \n| percentage4 = 13.1%\n| title = President\n| before_election =  [[Alexandria Ocasio-Cortez]]\n| before_party = Progressive\n| after_election = [[Dylan J. Price]]\n| after_party = Labor}}\n\n\n\nThe '''United States presidential election of 2036''' was the sixty-third quadrennial presidential election, held on November 4, 2036. President [[Dylan J. Price]]  and Vice President Ivory Toldson won the election in a Labor-Green coalition.\n\n\n\n==Nominations==\n\n==='''Labor'''===\n\n\n\n==='''Liberal'''===\n\n\n\n==='''Progressive'''===\n\n\n==='''Libertarian'''===\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-05-19T01:02:11Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!-"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United States"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ifempty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/row"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/shortname"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:If empty"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          }
+        ],
+        "title": "United States presidential election, 2036",
+        "touched": "2025-05-19T01:02:11Z"
+      },
+      "1791": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century conflicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Extrasolar conflicts"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11198,
+        "length": 1742,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Tel-bn"
+          },
+          {
+            "ns": 0,
+            "title": "Tel-ma"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1791,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11197,
+            "revid": 11198,
+            "slots": {
+              "main": {
+                "*": "{{Infobox Military Conflict\n|conflict= Great War (Tel-ma)\n|partof=\n|image=\n|caption=\n|date= 2075 - 2087\n|place= [[Tel-ma]]\n|territory=\n|result=Inconclusive\n*Mutual destruction\n*Near-extinction of life on Tel-ma.\n|combatant1='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|Northern Bloc}}}</span>'''\n\n|combatant2='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|Southern Bloc}}}</span>'''\n\n|commander1='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|Northern Leaders}}}</span>'''\n\n|commander2='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|Southern Leaders}}}</span>'''\n\n|strength1= 75.7 million\n|strength2= 69.1 million\n|casualties1= 2 billion\n|casualties2= 3 billion\n}}\n\nThe '''Second Great War of Tel-Ma''' was a global war on [[Tel-ma]] that lasted from 2075 to 2087, although related conflicts began earlier and some factions had continued to fight all the way up to First Contact. It involved the vast majority of the Tel-ma's countries—including all of the great powers—eventually forming two opposing military alliances. It was the most widespread war in Tel-ma's history, and brought much of the planet to a state of total war, erasing the distinction between civilian and military resources. The war was marked by saturation bombing, and the use of nuclear and chemical warfare, the conflict ultimately led to the near extinction of the [[Tel-bn]].\n\n==Background==\n==Course of the war==\n===War breaks out===\n===Nuclear war===\n==Aftermath==\n===First Contact===\n[[Category:21st-century conflicts]]\n[[Category:Extrasolar conflicts]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-04-01T16:11:00Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox Military Conflict"
+          },
+          {
+            "ns": 10,
+            "title": "Template:WPMILHIST Infobox style"
+          }
+        ],
+        "title": "Second Great War (Tel-ma)",
+        "touched": "2023-04-01T16:11:00Z"
+      },
+      "1792": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4582,
+        "length": 243,
+        "ns": 1,
+        "pageid": 1792,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4581,
+            "revid": 4582,
+            "slots": {
+              "main": {
+                "*": "I just noticed something,\n\nIn most other elections we made, most winning candidates has less than 51% of the vote.\n\nDoes that mean that the US constantly has Hung Congresses (or the congress had kept intervening to manually select the winner)?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-22T23:20:17Z"
+          }
+        ],
+        "title": "Talk:United States presidential election, 2036/@comment-5590986-20170722231705",
+        "touched": "2017-07-22T23:20:17Z"
+      },
+      "1793": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4584,
+        "length": 60,
+        "ns": 1,
+        "pageid": 1793,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4583,
+            "revid": 4584,
+            "slots": {
+              "main": {
+                "*": "Ah wait nvm, this is different because of the ranking system",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-22T23:24:32Z"
+          }
+        ],
+        "title": "Talk:United States presidential election, 2036/@comment-5590986-20170722231705/@comment-5590986-20170722232424",
+        "touched": "2017-07-22T23:24:32Z"
+      },
+      "1794": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6096,
+        "length": 19,
+        "ns": 6,
+        "pageid": 1794,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4585,
+            "revid": 6096,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:44:18Z"
+          }
+        ],
+        "title": "File:Flag of the Space Force.png",
+        "touched": "2018-11-08T04:14:41Z"
+      },
+      "1795": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4586,
+        "length": 319,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data United States Space Force/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1795,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4586,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = United States Space Force\n| shortname alias = USSF\n| flag alias = Flag_of_the_Space_Force.png\n| border-1879     =\n| border-1957     =\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-23T14:39:14Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data United States Space Force/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data United States Space Force",
+        "touched": "2017-07-23T14:39:15Z"
+      },
+      "1796": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Person.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blank Woman.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Maya Garcia Blank.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 56stars.png"
+          }
+        ],
+        "lastrevid": 11058,
+        "length": 2013,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Dylan J. Price"
+          },
+          {
+            "ns": 0,
+            "title": "Maya Garcia"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2036"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2044"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Green/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Green/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Labor/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Labor/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Liberal/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Liberal/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progressive/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progressive/meta/shortname"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1796,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10275,
+            "revid": 11058,
+            "slots": {
+              "main": {
+                "*": "{{Infobox election\n|election_name = United States presidential election, 2040\n|country = United States\n|type = presidential\n|ongoing = no\n| flag_year = 2037 \n|previous_election = United States presidential election, 2036\n|previous_year = 2036\n|next_election = United States presidential election, 2044\n|next_year = 2044\n|election_date = November 6, 2040\n| votes_for_election         = All eligible voters who participate\n| needed_votes               = 51% of the vote\n| turnout                    = 68.7%\n| image1 = [[File:Maya_Garcia_Blank.png|150px]]\n| nominee1 = [[Maya Garcia]]\n| party1 = Liberal\n| home_state1 = Texas\n| running_mate1 = George P. Bush\n| electoral_vote1 = \n| states_carried1 = \n| popular_vote1 = \n| percentage1 = 43.2%\n| image2 = [[File:Blank_Person.jpg|150px]]\n| nominee2 = [https://en.wikipedia.org/wiki/Ivory_A._Toldson Ivory Toldson]]\n| party2 = Labor\n| home_state2 = Maryland\n| running_mate2 = Max Goren\n| electoral_vote2 =\n| states_carried2 =\n| popular_vote2 =  \n| percentage2 =  41.1%\n| nominee5 = Tom Redding\n| party5 = Green\n| image5 = [[File:Blank_Person.jpg|150px]]\n| home_state5 = Florida\n| running_mate5 = Fletch Jones\n| electoral_vote5 = \n| states_carried5 = \n| popular_vote5 = \n| percentage5 = 2.6%\n| nominee4 = Eva Landivar\n| party4 = Progressive\n| image4 = [[File:Blank_Woman.png|150px]]\n| home_state4 = Puerto Rico\n| running_mate4 = Richie Dallas\n| electoral_vote4 = \n| states_carried4 =\n| popular_vote4 = \n| percentage4 = 13.1%\n| title = President\n| before_election =  [[Dylan J. Price]]\n| before_party = Labor\n| after_election = [[Maya Garcia|Maya Garcia]]\n| after_party = Conservative}}\n\n\n\nThe '''United States presidential election of 2040''' was the sixty-fourth quadrennial presidential election. Maya Garcia won the election, beating Ivory Toldson. Maya Garcia was the first president of the Conservative Party.\n\n\n==Nominations==\n\n==='''Labor'''===\n\n\n\n==='''Liberal'''===\n\n\n\n==='''Progressive'''===\n\n\n==='''Green'''===\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-01-23T23:33:31Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!-"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United States"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ifempty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/row"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/shortname"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:If empty"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          }
+        ],
+        "title": "United States presidential election, 2040",
+        "touched": "2023-01-23T23:33:31Z"
+      },
+      "1797": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages using infoboxes with thumbnail images"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Person.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blank Woman.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Maya Garcia Blank.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 56stars Black Stripe.png"
+          }
+        ],
+        "lastrevid": 7418,
+        "length": 1907,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Maya Garcia"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2040"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2048"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Green/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Green/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:If empty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Labor/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Labor/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progressive/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progressive/meta/shortname"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1797,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5157,
+            "revid": 7418,
+            "slots": {
+              "main": {
+                "*": "\n\n\n\n{{Infobox election\n|election_name = United States presidential election, 2044\n|country = United States\n|type = presidential\n|ongoing = no\n| flag_year = 2043 \n|previous_election = United States presidential election, 2040\n|previous_year = 2040\n|next_election = United States presidential election, 2048\n|next_year = 2048\n|election_date = November 8, 2044\n| votes_for_election         = All eligible voters who participate\n| needed_votes               = 51% of the vote\n| turnout                    = 68.7%\n| image1 = [[File:Maya_Garcia_Blank.png|150px]]\n| nominee1 = [[Maya Garcia]]\n| party1 = Conservative\n| home_state1 = Texas\n| running_mate1 = George P. Bush\n| electoral_vote1 = \n| states_carried1 = \n| popular_vote1 = \n| percentage1 = 58.2%\n| image2 = [[File:Blank_Woman.png|150px]]\n| nominee2 = Jesse Hovel\n| party2 = Progressive\n| home_state2 = Maryland\n| running_mate2 = Mitch Saxon\n| electoral_vote2 =\n| states_carried2 =\n| popular_vote2 =  \n| percentage2 =  37.1%\n| nominee5 = Tammy Mann\n| party5 = Green\n| image5 = [[File:Blank_Woman.png|150px]]\n| home_state5 = Florida\n| running_mate5 = Alberta Jackson \n| electoral_vote5 = \n| states_carried5 = \n| popular_vote5 = \n| percentage5 = 1.6%\n| nominee4 = Evan Piossex\n| party4 = Labor\n| image4 = [[File:Blank_Person.jpg|thumb|155px]]\n| home_state4 = Puerto Rico\n| running_mate4 = Sue Mary\n| electoral_vote4 = \n| states_carried4 =\n| popular_vote4 = \n| percentage4 = 3.1%\n| title = President\n| before_election =  [[Maya Garcia|Maya Garcia]]\n| before_party = Conservative\n| after_election = [[Maya Garcia|Maya Garcia]]\n| after_party = Conservative}}\n\n\nThe '''United States presidential election of 2044''' was the sixty-fifth quadrennial presidential election. Maya Garcia won re-election.\n\n\n\n==Nominations==\n\n==='''Labor'''===\n\n\n\n==='''Conservative'''===\n\n\n\n==='''Progressive'''===\n\n\n==='''Green'''===\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-25T18:24:15Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:!-"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United States"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ifempty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/row"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/shortname"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:If empty"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          }
+        ],
+        "title": "United States presidential election, 2044",
+        "touched": "2019-03-12T00:09:10Z"
+      },
+      "1799": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4594,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1799,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4594,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-23T19:57:30Z"
+          }
+        ],
+        "title": "Message Wall:2A01:113F:450:BA00:B4B1:24FA:C7C3:38BC",
+        "touched": "2017-07-23T19:57:31Z"
+      },
+      "1800": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4595,
+        "length": 735,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Donald Trump"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1800,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4595,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Donald Trump]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-23T19:57:31Z"
+          }
+        ],
+        "title": "Thread:2A01:113F:450:BA00:B4B1:24FA:C7C3:38BC/@comment-22439-20170723195731",
+        "touched": "2023-01-06T16:29:21Z"
+      },
+      "1801": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4604,
+        "length": 58,
+        "new": "",
+        "ns": 1,
+        "pageid": 1801,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4604,
+            "slots": {
+              "main": {
+                "*": "The percentages of the vote definitely need to be revised.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-24T17:11:24Z"
+          }
+        ],
+        "title": "Talk:United States presidential election, 2040/@comment-30470028-20170724171123",
+        "touched": "2017-07-24T17:11:24Z"
+      },
+      "1802": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4606,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1802,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4606,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-24T19:39:59Z"
+          }
+        ],
+        "title": "Message Wall:76.100.226.206",
+        "touched": "2017-07-24T19:39:59Z"
+      },
+      "1803": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4607,
+        "length": 764,
+        "links": [
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2044"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1803,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4607,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:United States presidential election, 2044]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-24T19:39:59Z"
+          }
+        ],
+        "title": "Thread:76.100.226.206/@comment-22439-20170724193959",
+        "touched": "2017-07-24T19:39:59Z"
+      },
+      "1804": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Woman.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United States.png"
+          }
+        ],
+        "lastrevid": 4833,
+        "length": 1326,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Cora Fabian"
+          },
+          {
+            "ns": 0,
+            "title": "Earth"
+          },
+          {
+            "ns": 0,
+            "title": "Lionel Halvidar"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2136"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2144"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:If empty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Union/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Union Party/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Union Party/meta/shortname"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1804,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4677,
+            "revid": 4833,
+            "slots": {
+              "main": {
+                "*": "{{Infobox election\n|election_name = United States presidential election, 2140\n|country = United States\n|type = presidential\n|ongoing = no\n| flag_year = 2132\n|previous_election = United States presidential election, 2136\n|previous_year = 2136\n|next_election = United States presidential election, 2144\n|next_year = 2144\n|election_date = November 8, 2140\n| votes_for_election         = All eligible voters who turned out\n| needed_votes               = 51% of votes\n| turnout                    = 80.7%\n|image1 = [[File:Blank_Woman.png|121px|border]]\n|nominee1 = '''[[Cora Fabian]]'''\n|party1 = Union Party\n|home_state1 = [[Earth|Oklahoma]]\n|running_mate1 = '''Mika Sakahki'''\n|office = Vice President\n|popular_vote1 = '''1,453,101,034'''\n|percentage1 = '''53.1%'''\n|title = President\n| image2 = [[File:Blank_Woman.png|121px|border]]\n| nominee2 = Syng Anderson\n| party2 = Conservative\n| home_state2 = [[Earth|England]]\n| running_mate2 = Ian Binshaieg\n| popular_vote2 = 1,217,314,803\n| percentage2 = 44.4%\n|before_election = [[Lionel Halvidar]]\n|before_party = Union\n| after_election = [[Cora Fabian]]\n| after_party = Union\n}}\n\nThe '''United States presidential election of 2140''' was the 89th quadrennial presidential election. Vice President [[Cora Fabian]] won the election. \n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-30T18:27:32Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:!-"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United States"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ifempty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/row"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/shortname"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:If empty"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          }
+        ],
+        "title": "United States presidential election, 2140",
+        "touched": "2019-03-12T00:09:10Z"
+      },
+      "1805": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Jacobi.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blank Person.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 56stars Black Stripe.png"
+          }
+        ],
+        "lastrevid": 9179,
+        "length": 3526,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Eurasian Coalition"
+          },
+          {
+            "ns": 0,
+            "title": "Evalyn Jacobi"
+          },
+          {
+            "ns": 0,
+            "title": "Luna"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2048"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2056"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Green/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Green/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:If empty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Libertarian/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Libertarian/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progress/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progress/meta/shortname"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1805,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9178,
+            "revid": 9179,
+            "slots": {
+              "main": {
+                "*": "{{Infobox election\n|election_name = United States presidential election, 2052\n|country = United States\n|type = presidential\n|ongoing = no\n| flag_year = 2043 \n|previous_election = United States presidential election, 2048\n|previous_year = 2048\n|next_election = United States presidential election, 2056\n|next_year = 2056\n|election_date = November 5, 2052\n| votes_for_election         = All elligable voters who participate\n| needed_votes               = 51% of the vote\n| turnout                    = 57.8%\n| image1 = [[File:Blank_Jacobi.png|150px]]\n| nominee1 = [[Evalyn Jacobi]]\n| party1 = Progress\n| home_state1 = Washington\n| running_mate1 = Dan Forest\n| electoral_vote1 = \n| states_carried1 = \n| popular_vote1 = \n| percentage1 = 54.8%\n| image2 = [[File:Blank_Person.jpg|150px]]\n| nominee2 = Paul Blanco\n| party2 = Conservative\n| home_state2 = New Mexico\n| running_mate2 = Pete Lowell \n| electoral_vote2 =\n| states_carried2 =\n| popular_vote2 =  \n| percentage2 = 30.8%\n| nominee5 = Andrew Markwalter\n| party5 = Libertarian\n| image5 = [[File:Blank_Person.jpg|150px]]\n| home_state5 = Kentucky\n| running_mate5 = Harlan Monroe\n| electoral_vote5 = \n| states_carried5 = \n| popular_vote5 = \n| percentage5 = 6.3%\n| nominee4 = Richard Sure\n| party4 = Green\n| image4 = [[File:Blank_Person.jpg|150px]]\n| home_state4 = Colorado\n| running_mate4 = Jasmine Cosgrove\n| electoral_vote4 = \n| states_carried4 =\n| popular_vote4 = \n| percentage4 = 8.1%\n| title = President\n| before_election =  [[Evalyn Jacobi]]\n| before_party = Conservative\n| after_election = [[Evalyn Jacobi]]\n| after_party = Progress}}\nThe '''2052 United States Presidential Election '''was the 67th quadrennial presidential election, held on Tuesday November 5, 2052. Incumbent President Evalyn Jacobi, the Progressive nominee defeated Conservative Paul Blanco in the general election.\n\nThe election was set against the backdrop of World War III, and Jacobi won by a comfortable margin of the popular vote, partly as a result of the recent Allied victory at the Battle of Hainan.\n\n==Background==\nBy early-2052, Japanese-led [[Eurasian Coalition|Coalition]] forces had taken much of the Pacific region, while Turkish, German, and French forces were closing in on Poland. As well, the US was still in the task of rebuilding their space and air power.\n\nJacobi's prospects changed in mid to late-2052. In May of that year, US forces decisively defeated the Japanese at the Battle of Hainan and began to push into the South China Sea, while also seizing Japan's assets in Canada and the North Pacific. In space, Japanese forces were driven from [[Luna]], and in Europe, the US and British air forces were beginning their bombing campaigns against the Turks.\n\nWith the tide turning in favor of the allies and the public's renewed confidence in the administration, Jacobi won a decisive victory on the first ballot, pledging to win the war for the United States.\n\n==Nominations==\nWith the outcome of the war still in doubt, some Progressive leaders opposed Jacobi's re-nomination on the grounds that she could not win. Ohio Governor Matthew Jacobs became the only candidate to contest Jacobi's re-nomination actively, but he withdrew in March when a slew of Progressive officials, including some within the state of Ohio upon whom Jacobs' campaign depended, endorsed Jacobi for re-nomination. Jacobi was still popular with most members of the Progress Party, and she received the nomination for a second term as president at the convention in Atlanta, Georgia on June 7–8, 2052.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-04-11T19:55:07Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:!-"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United States"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ifempty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/row"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/shortname"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:If empty"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          }
+        ],
+        "title": "United States presidential election, 2052",
+        "touched": "2019-04-12T15:09:13Z"
+      },
+      "1806": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4627,
+        "length": 87,
+        "new": "",
+        "ns": 1,
+        "pageid": 1806,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4627,
+            "slots": {
+              "main": {
+                "*": "Just had a realization. We haven't been scaling the popular vote with the population. ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-24T23:14:46Z"
+          }
+        ],
+        "title": "Talk:United States presidential election, 2132/@comment-899576-20170724231446",
+        "touched": "2017-07-24T23:14:46Z"
+      },
+      "1807": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4631,
+        "length": 115,
+        "ns": 1,
+        "pageid": 1807,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4630,
+            "revid": 4631,
+            "slots": {
+              "main": {
+                "*": "I had made that note a while ago back in july 18th, although i fixed it with 2136 just as you made this comment lol",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-24T23:23:07Z"
+          }
+        ],
+        "title": "Talk:United States presidential election, 2132/@comment-899576-20170724231446/@comment-5590986-20170724232252",
+        "touched": "2017-07-24T23:23:07Z"
+      },
+      "1808": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4637,
+        "length": 426,
+        "ns": 1,
+        "pageid": 1808,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4636,
+            "revid": 4637,
+            "slots": {
+              "main": {
+                "*": "\nI also just realized something since I checked the other pages about new states\n<span style=\"font-size:14.6667px;white-space:pre-wrap;\">(Copy paste) Technically if the population was 3.8 billion and the eligible voters (assuming past 18) is 75% (since up to 25% of US is children, 21% in 2017 are children) of the population, formation of new states, and 66% are voting, means at least 1 billion ppl are voting. Right?</span>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-24T23:37:48Z"
+          }
+        ],
+        "title": "Talk:United States presidential election, 2136/@comment-5590986-20170724233313",
+        "touched": "2017-07-24T23:37:48Z"
+      },
+      "1809": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4828,
+        "length": 253,
+        "ns": 0,
+        "pageid": 1809,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4678,
+            "revid": 4828,
+            "slots": {
+              "main": {
+                "*": "The '''United States presidential election of 2144''' was the 90th quadrennial presidential election. President Fabian won re-election. It's the first election to include new states within Latin America.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-30T17:46:55Z"
+          }
+        ],
+        "title": "United States presidential election, 2144",
+        "touched": "2017-07-30T17:46:55Z"
+      },
+      "1810": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Person.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United States.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Zaya Blank.png"
+          }
+        ],
+        "lastrevid": 6674,
+        "length": 1524,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Cora Fabian"
+          },
+          {
+            "ns": 0,
+            "title": "Earth"
+          },
+          {
+            "ns": 0,
+            "title": "Ha-eun Zaya"
+          },
+          {
+            "ns": 0,
+            "title": "Jupiter"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2144"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2152"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:If empty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progress/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progress/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Union/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Union Party/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Union Party/meta/shortname"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1810,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4834,
+            "revid": 6674,
+            "slots": {
+              "main": {
+                "*": "{{Infobox election\n|election_name = United States presidential election, 2148\n|country = United States\n|type = presidential\n|ongoing = no\n| flag_year = 2132\n|previous_election = United States presidential election, 2144\n|previous_year = 2128\n|next_election = United States presidential election, 2152\n|next_year = 2152\n|election_date = November 4, 2148\n| votes_for_election         = All eligible voters who turned out\n| needed_votes               = 51% of votes\n| turnout                    = 72.5%\n|image1 = [[File:Zaya_Blank.png|121px|border]]\n|nominee1 = '''[[Ha-eun Zaya]]'''\n|party1 = Union Party\n|home_state1 = [[Jupiter|Xibalba]]\n|running_mate1 = '''Joaquin Vega'''\n|office = \n|popular_vote1 = '''1,258,022,433'''\n|percentage1 = '''54.3%'''\n|image2 = [[File:Blank_Person.jpg|121px|border]]\n|nominee2 = Ian Binshaieg\n|party2 = Conservative\n|home_state2 = [[Earth|Queensland]]\n|running_mate2 = Dan Jagan\n|office =\n| popular_vote2 = 78,723,644\n| percentage2 = 24.6%\n| image3 = [[File:Blank_Person.jpg|121px|border]]\n| nominee3 = Axel Mattarella\n| party3 = Progress\n| home_state3 = [[Earth|Wales]]\n| running_mate3 = Luis Castro\n| popular_vote3 = 67,521,934\n| percentage3 = 22.1%\n|title = President\n|title = President\n|before_election = [[Cora Fabian]]\n|before_party = Union\n| after_election = [[Ha-eun Zaya]]\n| after_party = Union\n}}\n\nThe '''United States presidential election of 2148''' was the 91st quadrennial presidential election. [[Ha-eun Zaya]] won the election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-11-26T18:26:17Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:!-"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United States"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ifempty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/row"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/shortname"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:If empty"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          }
+        ],
+        "title": "United States presidential election, 2148",
+        "touched": "2019-03-12T00:08:54Z"
+      },
+      "1811": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Former countries in Asia"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former countries in North America"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:First Nations.png"
+          }
+        ],
+        "lastrevid": 12003,
+        "length": 4231,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Carla Anderson"
+          },
+          {
+            "ns": 0,
+            "title": "First Nations War"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1811,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5281,
+            "revid": 12003,
+            "slots": {
+              "main": {
+                "*": "The '''Arctic states''', known in North America as the '''First nations''', were a number of 21st-century arctic lying states created by mostly aboriginal peoples south of the Arctic during the Flood in Eurasia and North America.\n\n==Background==\n[[File:First_Nations.png|thumb|400px|Arctic Nations at their peak in 2049.]]\nFollowing the loss of the West Antarctic ice sheet, a wave of refugees in the North Atlantic and China had fled to find new opportunities around the Arctic Circle where the demand for skilled labor was high.\n\nBeginning in the 2040s, aboriginal leaders began expanding their autonomy, gradually gaining independence from a combination of local political action and support from foreign corporations and governments looking to capitalize on newly accessible resources in the Arctic. In North America the First Nations were able to amicably achieve independence from Canada by allowing favorable access to arctic oil supplies to Canada without having to pay to build the infrastructure, or administer the flow of refugees.\n\n==Refreeze==\nIn 2054 the Earth Working Group positioned Mars Solar Reflectors in Earth Polar Orbit in a geoengineering projects to return global temperatures, and by extent sea levels to pre-anthropocene levels. The project was widely supported by most of the planet which had been adversely effected by the environmental devastation of the Flood, however the Arctic Nations stood in vehement opposition to the project. The solar reflectors would functionally black out the skies over the First Nations, killing crops and reducing temperatures to inhospitable levels; additionally the return of the polar caps would close the Northwest Passage which the first nations depended on as both a major trade rout and access for arctic fishing and hydrocarbons. After several loud protests at the Organization of American States and the Global Environmental Council, the First Nations outrage was ultimately ignored and the project proceeded.\n\n==[[First Nations War]]==\nTo survive, the First Nations allied to invade Canada's northern territories which were still warm enough to support some agriculture and industry (thanks in part to the Earth Working Group's \"rewilding\" of the subarctic). The Arctic Nations had long prepared to defend their valuable oil supplies and funded a military buildup before the Refreeze. Canada and Quebec quickly found themselves being invaded by the First Nations. In 2065, only three weeks into her presidency, US President [[Carla Anderson]] deployed US troops into Canada to end the civil war. US forces in occupied Cascadia and the Yukon invaded westward, while forces from Newfoundland pushed into Quebec to aid the nation in repelling an invasion from the North. With America's entrance into the First Nations War, Canada had hoped that victory would be assured, but one year on, the President Anderson's commitment was clearly marginal at best as she kept US forces in a purely defensive role, mainly to keep the war from reaching American interests. Facing an impatient public in the 2066 midterms, President Anderson put the US on a more direct path to end the conflict. The US successfully captured and occupied Calgary within two weeks after the surge, pushing north into Tlicho proper. Fighting in Alberta calmed, but as Tlicho began to take control of northern Canada's prairies and by extension the majority of Canadian farmlands, the government fell to internal fighting in Manitoba and Ontario. To secure American interests on a larger scale, the US sent peace keeping forces to restore order and installed a military government in Ottawa. By 2067 the US had deployed Space and Naval forces into the Arctic nations, and forced a ceasefire.\n\n==Nenets partition==\n==Greenland annexation==\nGreenland's population was devastated by the effects of the Flood. Sea levels rose faster than new land could be made suitable for resettlement. As ice calving increased during in the 2040s, many simply fled by air to Canada. Prior to annexation, the island's population had fallen to just 870 individuals split between the two remaining settlements on the west coast.\n\n[[Category:Former countries in North America]]\n[[Category:Former countries in Asia]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2026-07-01T21:06:44Z"
+          }
+        ],
+        "title": "Arctic states",
+        "touched": "2026-07-01T21:06:44Z"
+      },
+      "1812": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4650,
+        "length": 27,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Arctic states"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 1812,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4650,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Arctic states]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-25T15:29:33Z"
+          }
+        ],
+        "title": "First Nations",
+        "touched": "2026-07-01T21:06:44Z"
+      },
+      "1813": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Person.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blank Woman.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United States.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Zaya Blank.png"
+          }
+        ],
+        "lastrevid": 5524,
+        "length": 1804,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Earth"
+          },
+          {
+            "ns": 0,
+            "title": "Ha-eun Zaya"
+          },
+          {
+            "ns": 0,
+            "title": "Jupiter"
+          },
+          {
+            "ns": 0,
+            "title": "Luna"
+          },
+          {
+            "ns": 0,
+            "title": "Mars"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2148"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2156"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:If empty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Libertarian/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Libertarian/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progress/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progress/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Union/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Union/meta/shortname"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1813,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5523,
+            "revid": 5524,
+            "slots": {
+              "main": {
+                "*": "{{Infobox election\n|election_name = United States presidential election, 2156\n|country = United States\n|type = presidential\n|ongoing = no\n| flag_year = 2132\n|previous_election = United States presidential election, 2148\n|previous_year = 2148\n|next_election = United States presidential election, 2156\n|next_year = 2156\n|election_date = November 7, 2152\n| votes_for_election         = All eligible voters who turned out\n| needed_votes               = 51% of votes\n| turnout                    = 75.7%\n|image1 = [[File:Zaya_Blank.png|121px|border]]\n|nominee1 = '''[[Ha-eun Zaya]]'''\n|party1 = Union\n|home_state1 = [[Jupiter|Xibala]]\n|running_mate1 = '''Joaquin Vega'''\n|office = \n|popular_vote1 = '''1,500,400,000'''\n|percentage1 = '''48.4%'''\n| image4 = [[File:Blank_Person.jpg|121px|border]]\n| nominee4 = Dell Cortes\n| party4 = Progress\n| home_state4 = [[Mars|Cleopatra]]\n| running_mate4 = Tom Merryl\n| popular_vote4 = 375,100,000\n| percentage4 = 12.1%\n| image5 = [[File:Blank_Woman.png|121px|border]]\n| nominee5 = Halley Roxford\n| party5 = Libertarian\n| home_state5 = [[Earth|Wales]]\n| running_mate5 = Tesla Jones\n| popular_vote5 = 328,600,000\n| percentage5 = 10.6%\n|image2 = [[File:Blank_Person.jpg|121px|border]]\n|nominee2 = Roger Moran\n|party2 = Conservative\n|home_state2 = [[Luna|North Apollo]]\n|running_mate2 = Yuri Blanco\n|office =\n| popular_vote2 = 933,100,000\n| percentage2 = 30.1%\n|title = President\n|title = President\n|before_election = [[Ha-eun Zaya]]\n|before_party = Union\n| after_election = [[Ha-eun Zaya]]\n| after_party = Union\n}}\n\n\n\nThe '''United States presidential election of 2152''' was the 92nd quadrennial presidential election. Incumbent [[Ha-eun Zaya]] won re-election. Shortly after the election, the Libertarian Party disbanded.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-07T03:35:18Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:!-"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United States"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ifempty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/row"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/shortname"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:If empty"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          }
+        ],
+        "title": "United States presidential election, 2152",
+        "touched": "2019-03-12T00:09:10Z"
+      },
+      "1814": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6083,
+        "length": 69,
+        "ns": 6,
+        "pageid": 1814,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4660,
+            "revid": 6083,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:39:59Z"
+          }
+        ],
+        "title": "File:Flag of the Northwest Territories.png",
+        "touched": "2017-11-08T00:10:49Z"
+      },
+      "1815": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages using duplicate arguments in template calls"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Person.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blank Woman.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Dom Terragno Blank.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United States.png"
+          }
+        ],
+        "lastrevid": 11307,
+        "length": 1558,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Dom Terragno"
+          },
+          {
+            "ns": 0,
+            "title": "Earth"
+          },
+          {
+            "ns": 0,
+            "title": "Ha-eun Zaya"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2152"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2160"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Liberacion/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Liberacion/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:New Progressive/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:New Progressive/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:New Republican/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Union/meta/shortname"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1815,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5525,
+            "revid": 11307,
+            "slots": {
+              "main": {
+                "*": "{{Infobox election\n|election_name = United States presidential election, 2156\n|country = United States\n|type = presidential\n|ongoing = no\n| flag_year = 2132\n|previous_election = United States presidential election, 2152\n|previous_year = 2152\n|next_election = United States presidential election, 2160\n|next_year = 2160\n|election_date = November 2, 2156\n| votes_for_election         = All eligible voters who turned out\n| needed_votes               = 51% of votes\n| turnout                    = 83.1%\n|image1 = [[File:Dom_Terragno_Blank.png|121px|border]]\n|nominee1 = '''[[Dom Terragno]]'''\n|party1 = New Progressive\n|home_state1 = [[Earth|Ecuador]]\n|running_mate1 = '''Horace Fitzgerald'''\n|office = \n|popular_vote1 = '''1,628,073,594'''\n|percentage1 = '''51.1%'''\n|image2 = [[File:Blank_Person.jpg|121px|border]]\n|nominee2 = Dan Jagan\n|party2 = Conservative\n|home_state2 = [[Earth|Guyana]]\n|running_mate2 = Jord Teporis\n|office =\n| popular_vote2 = 1,200,042,522\n| percentage2 = 31.3%\n| image3 = [[File:Blank_Woman.png|121px|border]]\n| nominee3 = Gabriela Scioli\n| party3 = Liberacion\n| home_state3 = [[Earth|Panama]]\n| running_mate3 = Nicolás Istúriz\n| popular_vote3 = 674,784,463\n| percentage3 = 17.6%\n|title = President\n|title = President\n|before_election = [[Ha-eun Zaya]]\n|before_party = Union\n| after_election = [[Dom Terragno]]\n| after_party = New Republican\n}}\n\nThe '''United States presidential election of 2156''' was the 93rd quadrennial presidential election. [[Dom Terragno]] won the election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-06-14T19:55:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!-"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United States"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ifempty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/row"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/shortname"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:If empty"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          }
+        ],
+        "title": "United States presidential election, 2156",
+        "touched": "2023-06-14T19:55:37Z"
+      },
+      "1816": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4832,
+        "length": 195,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Dom Terragno"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1816,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4664,
+            "revid": 4832,
+            "slots": {
+              "main": {
+                "*": "The '''United States presidential election of 2160''' was the 94th quadrennial presidential election. Incumbent [[Dom Terragno]] won re-election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-30T17:48:22Z"
+          }
+        ],
+        "title": "United States presidential election, 2160",
+        "touched": "2017-07-30T17:48:22Z"
+      },
+      "1817": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4672,
+        "length": 302,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Tlicho/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "ns": 10,
+        "pageid": 1817,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4665,
+            "revid": 4672,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = United Republic of Tlicho\n| flag alias = Flag_of_Tlicho.gif\n| alt attribute = Flag of Tlicho\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-25T19:00:08Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Tlicho/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Tlicho",
+        "touched": "2017-07-25T19:00:08Z"
+      },
+      "1818": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4666,
+        "length": 283,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Canada/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1818,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4666,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Canada\n| flag alias = Flag_of_Canada.png\n| alt attribute = Flag of Canada\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-25T18:55:20Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Canada/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Canada",
+        "touched": "2017-07-25T18:55:20Z"
+      },
+      "1819": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4667,
+        "length": 299,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Quebec/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1819,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4667,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Republic of Quebec\n| flag alias = Flag_of_Quebec.svg.png\n| alt attribute = Flag of Quebec\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-25T18:56:09Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Quebec/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Quebec",
+        "touched": "2017-07-25T18:56:09Z"
+      },
+      "1820": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6067,
+        "length": 69,
+        "ns": 6,
+        "pageid": 1820,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4668,
+            "revid": 6067,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:35:01Z"
+          }
+        ],
+        "title": "File:Flag of Nunavut.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "1821": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4669,
+        "length": 308,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Nunavut/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1821,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4669,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Confederate Tribes of Nunavut\n| flag alias = Flag_of_Nunavut.png\n| alt attribute = Flag of Nunavut\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-25T18:58:40Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Nunavut/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Nunavut",
+        "touched": "2017-07-25T18:58:40Z"
+      }
+    }
+  }
+}

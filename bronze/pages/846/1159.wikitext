@@ -1,0 +1,8 @@
+{{Documentation subpage}}
+<!-- Categories and interwikis go at the bottom of this page. -->
+{{#section:Help:footnotes|pregroup}}
+<includeonly>
+<!-- Categories and interwikis go here: -->
+[[Category:Footnote templates]]
+[[Category:Reference list templates]]
+</includeonly>

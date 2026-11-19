@@ -1,0 +1,145 @@
+---
+page_id: 137
+revision_id: 272
+source_url: https://second-renaissance.fandom.com/wiki/Template%3AInfobox_political_party
+raw_sha256: 23e8842f3253a255575e4a61896dbb006af82d8fff232f497961bf31332032dd
+---
+
+# Template:Infobox political party
+
+## Preserved source
+
+```wikitext
+{| class="infobox" style="float: right; margin: 0 0 .5em .5em; width: 25em; font-size: 90%;" cellspacing="5"
+|-
+| colspan="2" bgcolor="{{{colorcode|{{{{{party_articletitle}}}/meta/color}}}}}" |
+|-
+! colspan="2" style="text-align: center; font-size: larger;" | '''{{{party_name|{{{name_english}}}}}}'''
+{{#if:{{{name_native|<noinclude>-</noinclude>}}} | <br><div style="text-align: center; font-size: 80%;">'''''{{{name_native}}}'''''</div>
+}}
+|-
+| colspan="2" bgcolor="{{{colorcode|{{{{{party_articletitle}}}/meta/color}}}}}" |
+|-
+{{#if: {{{logo|<noinclude>-</noinclude>}}}{{{party_logo|<noinclude>-</noinclude>}}} |
+! colspan="2" style="padding: 1em 0; text-align: center;" {{!}} {{{party_logo|{{{logo}}}}}}
+{{!}}-
+}}
+{{#if: {{{leader|<noinclude>-</noinclude>}}} |
+{{!}} '''Leader'''
+{{!}} {{{leader}}}
+{{!}}-
+}}
+{{#if: {{{president|<noinclude>-</noinclude>}}} |
+{{!}} '''President'''
+{{!}} {{{president}}}
+{{!}}-
+}}
+{{#if: {{{chairperson|<noinclude>-</noinclude>}}}{{{chairman|<noinclude>-</noinclude>}}} |
+{{!}} '''Chairperson'''
+{{!}} {{{chairman|{{{chairperson}}}}}}
+{{!}}-
+}}
+{{#if: {{{spokesperson|<noinclude>-</noinclude>}}} |
+{{!}} '''Spokesperson'''
+{{!}} {{{spokesperson}}}
+{{!}}-
+}}
+{{#if: {{{leader1_title|<noinclude>-</noinclude>}}} |
+{{!}} '''{{{leader1_title}}}'''
+{{!}} {{{leader1_name}}}
+{{!}}-
+}}
+{{#if: {{{leader2_title|<noinclude>-</noinclude>}}} |
+{{!}} '''{{{leader2_title}}}'''
+{{!}} {{{leader2_name}}}
+{{!}}-
+}}
+{{#if: {{{leader3_title|<noinclude>-</noinclude>}}} |
+{{!}} '''{{{leader3_title}}}'''
+{{!}} {{{leader3_name}}}
+{{!}}-
+}}
+{{!}}-
+{{#if: {{{foundation|<noinclude>-</noinclude>}}} |
+{{!}} '''Founded'''
+{{!}} {{{foundation}}}
+{{!}}-
+}}
+{{#if: {{{dissolution|<noinclude>-</noinclude>}}} |
+{{!}} '''Dissolved'''
+{{!}} {{{dissolution}}}
+{{!}}-
+}}
+{{#if: {{{headquarters|<noinclude>-</noinclude>}}} |
+{{!}} '''Headquarters'''
+{{!}} {{{headquarters}}}
+{{!}}-
+}}
+{{#if: {{{newspaper|<noinclude>-</noinclude>}}} |
+{{!}} '''Official&nbsp;newspaper'''
+{{!}} ''{{{newspaper}}}''
+{{!}}-
+}}
+{{#if: {{{youth_wing|<noinclude>-</noinclude>}}} |
+{{!}} '''Youth&nbsp;wing'''
+{{!}} ''{{{youth_wing}}}''
+{{!}}-
+}}
+{{#if: {{{membership|<noinclude>-</noinclude>}}} |
+{{!}} '''Membership'''&nbsp;{{#if:{{{membership_year|<noinclude>-</noinclude>}}}|({{{membership_year}}})}}
+{{!}} {{{membership}}}
+{{!}}-
+}}
+{{!}}-
+{{#if: {{{ideology|<noinclude>-</noinclude>}}} |
+{{!}} '''Official&nbsp;ideology'''
+{{!}} {{{ideology}}}
+{{!}}-
+}}
+{{#if: {{{national|<noinclude>-</noinclude>}}} |
+{{!}} '''National&nbsp;political position'''
+{{!}} {{{political position}}}
+{{!}}-
+}}
+{{#if: {{{national|<noinclude>-</noinclude>}}} |
+{{!}} '''National&nbsp;affiliation'''
+{{!}} {{{national}}}
+{{!}}-
+}}
+{{#if: {{{international|<noinclude>-</noinclude>}}}{{{international affiliation|<noinclude>-</noinclude>}}} |
+{{!}} '''International&nbsp;affiliation'''
+{{!}} {{{international affiliation|{{{international}}}}}}
+{{!}}-
+}}
+{{#if: {{{europarl|<noinclude>-</noinclude>}}}{{{european parliament group|<noinclude>-</noinclude>}}} |
+{{!}} '''European Parliament Group'''
+{{!}} {{{european parliament group|{{{europarl}}}}}}
+{{!}}-
+}}
+{{#if: {{{colo{{#if:{{{colours|}}}|u|}}rs|<noinclude>-</noinclude>}}} |
+{{!}} '''Official colo{{#if:{{{colours|}}}|u|}}r(s)'''
+{{!}} {{{colo{{#if:{{{colours|}}}|u|}}rs}}}
+{{!}}-
+}}
+{{#if: {{{website|<noinclude>-</noinclude>}}} |
+{{!}}-
+{{!}} '''Website'''
+{{!}} {{{website}}}
+}}
+{{#if: {{{footnotes|<noinclude>-</noinclude>}}} |
+{{!}}-
+{{!}} colspan="2" bgcolor="{{{colorcode|{{{{{party_articletitle}}}/meta/color}}}}}" {{!}}
+{{!}}-
+{{!}} colspan="2" style="vertical-align: top; text-align: left; font-size: 80%;" {{!}} {{{footnotes}}}
+}}
+|}<noinclude>
+<div style="clear:both;"></div>
+
+
+
+[Category:Infobox templates](https://second-renaissance.fandom.com/wiki/Category:Infobox_templates)</noinclude>
+```
+
+## Provenance
+
+Raw source: `bronze/pages/137/272.wikitext` · revision `272` · [upstream](https://second-renaissance.fandom.com/wiki/Template%3AInfobox_political_party)

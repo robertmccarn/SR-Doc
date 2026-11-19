@@ -1,0 +1,1461 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "3338": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9523,
+        "length": 123,
+        "new": "",
+        "ns": 1,
+        "pageid": 3338,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9523,
+            "slots": {
+              "main": {
+                "*": "Seems increasingly unlikely: https://www.cnbc.com/2020/01/13/democrat-cory-booker-drops-out-of-2020-presidential-race.html",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-01-13T16:25:10Z"
+          }
+        ],
+        "title": "Talk:Cory Booker/@comment-199.204.164.130-20200113162510",
+        "touched": "2020-01-13T16:25:10Z"
+      },
+      "3339": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9525,
+        "length": 36,
+        "new": "",
+        "ns": 1,
+        "pageid": 3339,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9525,
+            "slots": {
+              "main": {
+                "*": "Booker was meant to be a placeholder",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-01-16T11:21:26Z"
+          }
+        ],
+        "title": "Talk:Cory Booker/@comment-199.204.164.130-20200113162510/@comment-62.109.36.16-20200116112126",
+        "touched": "2020-01-16T11:21:26Z"
+      },
+      "3340": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9528,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3340,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9528,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-01-24T22:48:33Z"
+          }
+        ],
+        "title": "File:Space Force.png",
+        "touched": "2020-01-30T02:42:35Z"
+      },
+      "3341": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9530,
+        "length": 31,
+        "new": "",
+        "ns": 1,
+        "pageid": 3341,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9530,
+            "slots": {
+              "main": {
+                "*": "what do you mean \"Since 2080\" ?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-01-24T23:22:25Z"
+          }
+        ],
+        "title": "Talk:Conservative Party (United States)/@comment-2600:1017:B104:50A7:FC99:647D:92D5:7CB3-20200124232225",
+        "touched": "2020-01-24T23:22:25Z"
+      },
+      "3342": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9531,
+        "length": 80,
+        "new": "",
+        "ns": 1,
+        "pageid": 3342,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9531,
+            "slots": {
+              "main": {
+                "*": "Everything written on this wikis is written in the perspective of the year 2160.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-01-28T19:48:05Z"
+          }
+        ],
+        "title": "Talk:Conservative Party (United States)/@comment-2600:1017:B104:50A7:FC99:647D:92D5:7CB3-20200124232225/@comment-30470028-20200128194805",
+        "touched": "2020-01-28T19:48:05Z"
+      },
+      "3343": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9534,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 3343,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9534,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-01-29T17:15:31Z"
+          }
+        ],
+        "title": "Message Wall:R.I.P Yuri",
+        "touched": "2020-01-29T17:15:31Z"
+      },
+      "3344": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9535,
+        "length": 635,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Allies of World War III"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Contents"
+          },
+          {
+            "ns": 1200,
+            "title": "Message Wall:YNot1989"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 3344,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9535,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Allies of World War III]]!\n\nIf you need help getting started, check out our [[Help:Contents|help pages]] or [[Message Wall:YNot1989|contact me]] or another admin here. \n\nFor general help, you could also stop by Community Central to explore the [https://community.fandom.com/wiki/Special:Forums?utm_source=foundermessageversion2 forums] and [https://community.fandom.com/wiki/Blog:Fandom_Staff_Blog?utm_source=adminmessageversion2 blogs].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-01-29T17:15:31Z"
+          }
+        ],
+        "title": "Thread:R.I.P Yuri/@comment-32769624-20200129171531",
+        "touched": "2020-01-29T17:15:31Z"
+      },
+      "3345": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 9536,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 3345,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9536,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-01-29T17:15:31Z"
+          }
+        ],
+        "title": "User:R.I.P Yuri",
+        "touched": "2020-01-29T17:15:31Z"
+      },
+      "3346": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9540,
+        "length": 507,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3346,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9540,
+            "slots": {
+              "main": {
+                "*": "What is the specific year when take place the dissolution of russian federation? In various articles read i see diferents years 2023 ... 2025 ... 2027.\n\nWhat is the situation between communist China and nationalist China from the flood to World War 3? What did China join the United States?<br />It's confusing.\n\nWhen you mention the period of \"Mexican Wars\" you refer a  uprisings and civil war in Mexico or wars commanded from Mexico?.<ac_metadata title=\"Dissolution of Russia in 2020´s\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-02-05T18:43:04Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-187.191.59.75-20200205184304",
+        "touched": "2020-02-05T18:43:04Z"
+      },
+      "3347": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9567,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 3347,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9567,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-02-14T21:16:38Z"
+          }
+        ],
+        "title": "Message Wall:Dinotrakker",
+        "touched": "2020-02-14T21:16:38Z"
+      },
+      "3348": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9568,
+        "length": 642,
+        "links": [
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Contents"
+          },
+          {
+            "ns": 1200,
+            "title": "Message Wall:YNot1989"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 3348,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9568,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:President of the United States]]!\n\nIf you need help getting started, check out our [[Help:Contents|help pages]] or [[Message Wall:YNot1989|contact me]] or another admin here. \n\nFor general help, you could also stop by Community Central to explore the [https://community.fandom.com/wiki/Special:Forums?utm_source=foundermessageversion2 forums] and [https://community.fandom.com/wiki/Blog:Fandom_Staff_Blog?utm_source=adminmessageversion2 blogs].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-02-14T21:16:38Z"
+          }
+        ],
+        "title": "Thread:Dinotrakker/@comment-32769624-20200214211638",
+        "touched": "2020-02-14T21:16:38Z"
+      },
+      "3349": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 9569,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 3349,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9569,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-02-14T21:16:38Z"
+          }
+        ],
+        "title": "User:Dinotrakker",
+        "touched": "2020-02-14T21:16:38Z"
+      },
+      "3350": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9570,
+        "length": 300,
+        "new": "",
+        "ns": 1,
+        "pageid": 3350,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9570,
+            "slots": {
+              "main": {
+                "*": "It looks like the opening paragraphs are just copied and pasted from Wikipedia's page on President of the United States, and therefore will have some errors. I replaced one that I knew was wrong (with my limited knowledge of Second Renaissance) but there are probably quite a few others. Just an FYI.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-02-14T21:18:00Z"
+          }
+        ],
+        "title": "Talk:President of the United States/@comment-24199648-20200214211800",
+        "touched": "2020-02-14T21:18:00Z"
+      },
+      "3353": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9575,
+        "length": 379,
+        "new": "",
+        "ns": 1,
+        "pageid": 3353,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9575,
+            "slots": {
+              "main": {
+                "*": "Why would the United States replace the Electoral College? For close to 60 elections now they have used it, so if you've had it for so long why would you change it? Also, Trump causing the death of the Republican Party is stupid. Nixon did worse and the GOP still lives on. Everything on this page is bullshit.\n\nP.S why do they use the FPTP even if the 2-round system is better?!",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-02-23T18:34:16Z"
+          }
+        ],
+        "title": "Talk:United States presidential election, 2028/@comment-179.28.115.42-20200223183416",
+        "touched": "2020-02-23T18:34:16Z"
+      },
+      "3354": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Former countries in Europe"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 10978,
+        "length": 283,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Poland"
+          },
+          {
+            "ns": 0,
+            "title": "Ukraine"
+          }
+        ],
+        "ns": 0,
+        "pageid": 3354,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10977,
+            "revid": 10978,
+            "slots": {
+              "main": {
+                "*": "'''Romania''' Was a former country In '''Eastern Europe'''. It bordered [[Poland]] and Slovakia to the North. Hungary to the West. Vojvodina and Serbia to the Southwest. Bulgaria to the South. and [[Ukraine]] to the East.\n\n{{Alexander_Moreau}}\n[[Category:Former countries in Europe]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2022-12-11T01:40:33Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Alexander Moreau"
+          }
+        ],
+        "title": "Romania",
+        "touched": "2022-12-11T01:40:33Z"
+      },
+      "3355": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9579,
+        "length": 16,
+        "ns": 1,
+        "pageid": 3355,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9578,
+            "revid": 9579,
+            "slots": {
+              "main": {
+                "*": "This page is old",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-02-24T02:09:52Z"
+          }
+        ],
+        "title": "Talk:United States presidential election, 2028/@comment-179.28.115.42-20200223183416/@comment-5590986-20200224020801",
+        "touched": "2020-02-24T02:09:52Z"
+      },
+      "3360": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9587,
+        "length": 174,
+        "new": "",
+        "ns": 1,
+        "pageid": 3360,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9587,
+            "slots": {
+              "main": {
+                "*": "Do not use the navey rank, drop the captian from the middle and put it after colonel, there can only one captain on a space ship You need to have a whole new rank structure ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-03-03T01:02:38Z"
+          }
+        ],
+        "title": "Talk:United States Space Force/@comment-75.104.50.134-20200303010238",
+        "touched": "2020-03-03T01:02:38Z"
+      },
+      "3361": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9591,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 3361,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9591,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-03-12T21:49:56Z"
+          }
+        ],
+        "title": "Message Wall:Jamesmcavoyfanclub",
+        "touched": "2020-03-12T21:49:56Z"
+      },
+      "3362": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9592,
+        "length": 484,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Seventh Party System"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Contents"
+          },
+          {
+            "ns": 1200,
+            "title": "Message Wall:YNot1989"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 3362,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9592,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Seventh Party System]]!\n\nIf you need help getting started, check out our [[Help:Contents|help pages]] or [[Message Wall:YNot1989|contact me]] or another admin here. \n\nFor general help, you could also stop by Community Central to explore the [[w:forums|help forum]] and [[w:sblog|blog]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-03-12T21:49:56Z"
+          }
+        ],
+        "title": "Thread:Jamesmcavoyfanclub/@comment-32769624-20200312214956",
+        "touched": "2020-03-12T21:49:56Z"
+      },
+      "3363": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 9593,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 3363,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9593,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-03-12T21:49:56Z"
+          }
+        ],
+        "title": "User:Jamesmcavoyfanclub",
+        "touched": "2020-03-12T22:08:33Z"
+      },
+      "3364": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9596,
+        "length": 241,
+        "new": "",
+        "ns": 1,
+        "pageid": 3364,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9596,
+            "slots": {
+              "main": {
+                "*": "When this was still on future wiki, i believe the prime minister at the time of WWIII was someone named Edward Ivor Vaughn, i may be misremembering since it was a long time ago, is it still the case now?, since he has not been mentioned",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-03-12T22:04:45Z"
+          }
+        ],
+        "title": "Talk:British Republic/@comment-43826407-20200312220445",
+        "touched": "2020-03-12T22:04:45Z"
+      },
+      "3365": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9598,
+        "length": 53,
+        "new": "",
+        "ns": 1,
+        "pageid": 3365,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9598,
+            "slots": {
+              "main": {
+                "*": "If it is not stated otherwise, it probably could be ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-03-12T22:37:51Z"
+          }
+        ],
+        "title": "Talk:British Republic/@comment-43826407-20200312220445/@comment-5590986-20200312223751",
+        "touched": "2020-03-12T22:37:51Z"
+      },
+      "3366": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9600,
+        "length": 90,
+        "new": "",
+        "ns": 1,
+        "pageid": 3366,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9600,
+            "slots": {
+              "main": {
+                "*": "I think parts of inner Tharsis would be like a desert, like Gobi or the australian outback",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-03-14T23:03:01Z"
+          }
+        ],
+        "title": "Talk:Mars/@comment-43826407-20200314230301",
+        "touched": "2020-03-14T23:03:01Z"
+      },
+      "3367": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9601,
+        "length": 419,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3367,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9601,
+            "slots": {
+              "main": {
+                "*": "I have been following the Second Renaissance for a long while now, but I have a question, what happens to corporations? I recall that you wrote somewhere that Google and Amazon were broken up and/or nationalised, but it has been a while so I do not recall it that well. Did this happen to all major corporations? There must be some big ones still around<ac_metadata title=\"Overall fate of corporations\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-03-14T23:09:46Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-43826407-20200314230946",
+        "touched": "2020-03-14T23:09:46Z"
+      },
+      "3368": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9602,
+        "length": 295,
+        "new": "",
+        "ns": 1,
+        "pageid": 3368,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9602,
+            "slots": {
+              "main": {
+                "*": "Does anyone know what's wrong with the table under Religion? I tried fixing it in source editor assuming it was just duplicated parameters, but nothing changed with it when I removed the duplicates and clicked show preview, it also looks different in visual editor, i'm not experienced with code",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-03-14T23:26:01Z"
+          }
+        ],
+        "title": "Talk:Mars/@comment-43826407-20200314232601",
+        "touched": "2020-03-14T23:26:01Z"
+      },
+      "3370": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9604,
+        "length": 624,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3370,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9604,
+            "slots": {
+              "main": {
+                "*": "No. Private enterprise evolved over the 21st and 22nd centuries, but what you and I know as corporations don't really exist in any meaningful form by the early 22nd Century. Rather than large conglomerates, they're almost like plantation holding after the 2080s reforms by the Lachman administration, using AI and general purpose robots as a source of labor, with only a handful of humans working in a leadership capacity. This means that individuals (especially retired military and politicians) act more like traditional lords and vassals in their business relationships, rather than highly centralized corporate entities.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-03-15T17:46:37Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-43826407-20200314230946/@comment-899576-20200315174637",
+        "touched": "2020-03-15T17:46:37Z"
+      },
+      "3371": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9607,
+        "length": 120,
+        "new": "",
+        "ns": 1,
+        "pageid": 3371,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9607,
+            "slots": {
+              "main": {
+                "*": "Given the fact that Serbia is the only sovereign state, maybe it should get a page of it's own, with flag, emblem etc. ?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-03-24T22:07:54Z"
+          }
+        ],
+        "title": "Talk:European Association/@comment-178.149.157.73-20200324220753",
+        "touched": "2020-03-24T22:07:54Z"
+      },
+      "3374": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9615,
+        "length": 163,
+        "new": "",
+        "ns": 1,
+        "pageid": 3374,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9615,
+            "slots": {
+              "main": {
+                "*": "Gonna have to make some changes on the dates as the COVID-19 pandemic has put delays on a few important space programs, and moved the economic needle considerably.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-04-16T15:26:28Z"
+          }
+        ],
+        "title": "Talk:Timeline of major events/@comment-899576-20200416152628",
+        "touched": "2020-04-16T15:26:28Z"
+      },
+      "3375": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9617,
+        "length": 126,
+        "new": "",
+        "ns": 1,
+        "pageid": 3375,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9617,
+            "slots": {
+              "main": {
+                "*": "How can something be proposed in 2028 when it is 2020? Am I missing something? I read it 3 times and it is the same everytime.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-04-17T14:50:56Z"
+          }
+        ],
+        "title": "Talk:Twenty-eighth Amendment to the United States Constitution/@comment-75.110.139.250-20200417145056",
+        "touched": "2020-04-17T14:50:56Z"
+      },
+      "3376": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9618,
+        "length": 41,
+        "new": "",
+        "ns": 1,
+        "pageid": 3376,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9618,
+            "slots": {
+              "main": {
+                "*": "This takes place in a hypothetical future",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-04-17T20:08:07Z"
+          }
+        ],
+        "title": "Talk:Twenty-eighth Amendment to the United States Constitution/@comment-75.110.139.250-20200417145056/@comment-5590986-20200417200807",
+        "touched": "2020-04-17T20:08:07Z"
+      },
+      "3377": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9620,
+        "length": 40,
+        "new": "",
+        "ns": 1,
+        "pageid": 3377,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9620,
+            "slots": {
+              "main": {
+                "*": "i think you should stop taking drugs lol",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-04-22T11:38:41Z"
+          }
+        ],
+        "title": "Talk:Fifth Great Awakening/@comment-74.221.181.99-20190116202406/@comment-11330246-20200422113840",
+        "touched": "2020-04-22T11:38:41Z"
+      },
+      "3378": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9621,
+        "length": 158,
+        "new": "",
+        "ns": 1,
+        "pageid": 3378,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9621,
+            "slots": {
+              "main": {
+                "*": "If the Space Force is going to operate 'Space \"ships\" then using the US Navy Officer and Enlisted Rank structure makes MUCH MORE Sense.\n\nYea Ole Sailor - Nate",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-04-23T17:46:45Z"
+          }
+        ],
+        "title": "Talk:United States Space Force/@comment-174.53.73.219-20200423174645",
+        "touched": "2020-04-23T17:46:45Z"
+      },
+      "3380": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9626,
+        "length": 8,
+        "new": "",
+        "ns": 1,
+        "pageid": 3380,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9626,
+            "slots": {
+              "main": {
+                "*": "I agree.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-05-04T16:31:30Z"
+          }
+        ],
+        "title": "Talk:United States Space Force/@comment-174.53.73.219-20200423174645/@comment-198.237.49.251-20200504163130",
+        "touched": "2020-05-04T16:31:30Z"
+      },
+      "3381": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9630,
+        "length": 269,
+        "new": "",
+        "ns": 1,
+        "pageid": 3381,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9630,
+            "slots": {
+              "main": {
+                "*": "Wasn't their mention of an American MagRifle on one of the Second Renaissance images in the comments on DeviantArt, and that mid-flight the projectile can change shape or velocity? If so, I would think it would go here, and I would actually like to learn more about it.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-05-07T20:19:18Z"
+          }
+        ],
+        "title": "Talk:List of Third Mexican War weapons/@comment-24.94.92.125-20200507201918",
+        "touched": "2020-05-07T20:19:18Z"
+      },
+      "3383": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9633,
+        "length": 93,
+        "new": "",
+        "ns": 1,
+        "pageid": 3383,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9633,
+            "slots": {
+              "main": {
+                "*": "Omfg imagine being so spoiled you call a world dominated by a first-world country a dystopia.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-05-12T01:28:27Z"
+          }
+        ],
+        "title": "Talk:Earth/@comment-188.157.233.239-20190423184113/@comment-44900736-20200512012827",
+        "touched": "2020-05-12T01:28:27Z"
+      },
+      "3384": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9634,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 3384,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9634,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-05-12T01:28:28Z"
+          }
+        ],
+        "title": "Message Wall:Idkwhatmyusernameshouldbe1",
+        "touched": "2020-05-12T01:28:28Z"
+      },
+      "3385": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9635,
+        "length": 469,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Earth"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Contents"
+          },
+          {
+            "ns": 1200,
+            "title": "Message Wall:YNot1989"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 3385,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9635,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Earth]]!\n\nIf you need help getting started, check out our [[Help:Contents|help pages]] or [[Message Wall:YNot1989|contact me]] or another admin here. \n\nFor general help, you could also stop by Community Central to explore the [[w:forums|help forum]] and [[w:sblog|blog]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-05-12T01:28:28Z"
+          }
+        ],
+        "title": "Thread:Idkwhatmyusernameshouldbe1/@comment-32769624-20200512012828",
+        "touched": "2020-05-12T01:28:28Z"
+      },
+      "3386": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 9636,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 3386,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9636,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-05-12T01:28:28Z"
+          }
+        ],
+        "title": "User:Idkwhatmyusernameshouldbe1",
+        "touched": "2020-05-12T01:28:28Z"
+      },
+      "3387": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9637,
+        "length": 51,
+        "new": "",
+        "ns": 1,
+        "pageid": 3387,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9637,
+            "slots": {
+              "main": {
+                "*": "What's the difference between Terrans and Naturals?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-05-12T01:37:26Z"
+          }
+        ],
+        "title": "Talk:Human/@comment-44900736-20200512013726",
+        "touched": "2020-05-12T01:37:26Z"
+      },
+      "3388": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9638,
+        "length": 21,
+        "new": "",
+        "ns": 1,
+        "pageid": 3388,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9638,
+            "slots": {
+              "main": {
+                "*": "Nice Joke, keep it up",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-05-14T00:28:43Z"
+          }
+        ],
+        "title": "Talk:Artificial-Intelligence Operating System/@comment-122.56.204.173-20200514002843",
+        "touched": "2020-05-14T00:28:43Z"
+      },
+      "3389": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9642,
+        "length": 213,
+        "ns": 1,
+        "pageid": 3389,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9641,
+            "revid": 9642,
+            "slots": {
+              "main": {
+                "*": "Terrans are humans who are both genetically or cybernetically enhanced but still remain looking normal as a natural\n\nNaturals are just ... well ... natural. As said, \"The original, unmodified strain of humanity. \"",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-05-14T00:47:47Z"
+          }
+        ],
+        "title": "Talk:Human/@comment-44900736-20200512013726/@comment-5590986-20200514004626",
+        "touched": "2020-05-14T00:47:47Z"
+      },
+      "3391": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9644,
+        "length": 352,
+        "new": "",
+        "ns": 1,
+        "pageid": 3391,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9644,
+            "slots": {
+              "main": {
+                "*": "2028?  Does this mean this is 'ahead of its time'?  Articles like this are just as linflamatory, inacurate, and dangerous as erroneous news reporting by biased networks.  How then wud one explain the current buzz over a proposed twenty eighth amendment limiting congressional benefits and equal applcation of laws - or is that also some comtrivance?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-05-23T01:04:45Z"
+          }
+        ],
+        "title": "Talk:Twenty-eighth Amendment to the United States Constitution/@comment-74.188.210.252-20200523010445",
+        "touched": "2020-05-23T01:04:45Z"
+      },
+      "3392": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9646,
+        "length": 33,
+        "ns": 1,
+        "pageid": 3392,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9645,
+            "revid": 9646,
+            "slots": {
+              "main": {
+                "*": "This is a fictional timeline dude",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-05-24T20:20:25Z"
+          }
+        ],
+        "title": "Talk:Twenty-eighth Amendment to the United States Constitution/@comment-74.188.210.252-20200523010445/@comment-5590986-20200524202001",
+        "touched": "2020-05-24T20:20:26Z"
+      },
+      "3393": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9648,
+        "length": 40,
+        "new": "",
+        "ns": 1,
+        "pageid": 3393,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9648,
+            "slots": {
+              "main": {
+                "*": "I ought to have you blocked for bigotry.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-05-27T17:10:12Z"
+          }
+        ],
+        "title": "Talk:Human/@comment-81.101.10.49-20171019015627/@comment-27084453-20200527171012",
+        "touched": "2020-05-27T17:10:12Z"
+      },
+      "3394": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9649,
+        "length": 165,
+        "new": "",
+        "ns": 1,
+        "pageid": 3394,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9649,
+            "slots": {
+              "main": {
+                "*": "what the are you talking about, I see you invented the first time machine , your predictions are stupid , because of people like you ai may never be commercialised ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-05-27T21:59:56Z"
+          }
+        ],
+        "title": "Talk:Artificial-Intelligence Operating System/@comment-103.15.63.117-20200527215956",
+        "touched": "2020-05-27T21:59:56Z"
+      },
+      "3395": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9653,
+        "length": 198,
+        "new": "",
+        "ns": 1,
+        "pageid": 3395,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9653,
+            "slots": {
+              "main": {
+                "*": "So, is there any kind of ideological difference between Mexico and the USA, like in the first Cold War? Or is their struggle just an economical/strategic one, like the European powers prior to WWI?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-06-14T12:34:13Z"
+          }
+        ],
+        "title": "Talk:Mexican-American Cold War/@comment-188.84.224.212-20200614123412",
+        "touched": "2020-06-14T12:34:13Z"
+      },
+      "3396": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9654,
+        "length": 23,
+        "new": "",
+        "ns": 1,
+        "pageid": 3396,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9654,
+            "slots": {
+              "main": {
+                "*": "i think it's the latter",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-06-14T17:07:04Z"
+          }
+        ],
+        "title": "Talk:Mexican-American Cold War/@comment-188.84.224.212-20200614123412/@comment-5590986-20200614170704",
+        "touched": "2020-06-14T17:07:04Z"
+      },
+      "3397": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9655,
+        "length": 64,
+        "new": "",
+        "ns": 1,
+        "pageid": 3397,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9655,
+            "slots": {
+              "main": {
+                "*": "anyone else notice how it said the uniforms were issued in 2051?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-06-22T01:38:45Z"
+          }
+        ],
+        "title": "Talk:United States Space Force/@comment-24.115.129.122-20200622013845",
+        "touched": "2020-06-22T01:38:45Z"
+      },
+      "3398": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9656,
+        "length": 704,
+        "new": "",
+        "ns": 1,
+        "pageid": 3398,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9656,
+            "slots": {
+              "main": {
+                "*": "I am all for the great reset, starting with the return of the land.\n\nYou cannot have a reset, without resetting every thing “The first man who, having fenced in a piece of land, and said \"this is mine,\" and found people naive enough to believe him, that man was the true founder of civil society. From how many crimes, wars, and murders, from how many horrors and misfortunes might not any one have saved mankind, by pulling up the stakes, or filling up the ditch, and crying to his fellows, “Beware of listening to this impostor; you are undone if you once forget that the fruits of the earth belong to us all, and the earth itself to nobody.” Jean Jacques Rousseau, The origins of inequality 1754",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-06-22T10:25:11Z"
+          }
+        ],
+        "title": "Talk:Great Reset/@comment-101.161.209.24-20200622102511",
+        "touched": "2020-06-22T10:25:11Z"
+      },
+      "3399": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9657,
+        "length": 24,
+        "new": "",
+        "ns": 1,
+        "pageid": 3399,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9657,
+            "slots": {
+              "main": {
+                "*": "this about the futur e",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-06-22T13:50:54Z"
+          }
+        ],
+        "title": "Talk:United States Space Force/@comment-24.115.129.122-20200622013845/@comment-43826407-20200622135054",
+        "touched": "2020-06-22T13:50:54Z"
+      }
+    }
+  }
+}

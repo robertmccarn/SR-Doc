@@ -1,0 +1,62 @@
+---
+page_id: 2813
+revision_id: 11358
+source_url: https://second-renaissance.fandom.com/wiki/Neo-Jeffersonianism
+raw_sha256: 964aa3209ebfc4590c878cacacceb99466619ca9b05d007f385329cd31e13700
+---
+
+# Neo-Jeffersonianism
+
+## Preserved source
+
+```wikitext
+'''Neo-Jeffersonianism''', is a 21st-century political philosophy in the United States that espoused greater democracy for the common man as that term was then defined. Originating with 56th President [Oscar Lachman](896-oscar-lachman.md) and his supporters, it became the nation's dominant political worldview for a generation. The Neo-Jeffersonians were deeply committed to reshaping the American republic for the modern day, which meant greater political autonomy for cities and municipalities, an insistence on virtue, with a priority for the "yeoman capitalist", and members of the military elite.
+
+They were initially antagonistic to the financial and political elite, distrusted immigrant labor, and were suspicious of the colonial system of government and economics. Neo-Jeffersonian politics persisted as an element of the [Conservative Party](310-conservative-party-united-states.md) into the early 22nd century, as exemplified by the rise of the Conservative-MLP coalition.
+
+At the beginning of the Neo-Jeffersonian era, only two states (New York and Massachusetts) had established Municipal Sovereignty laws and establishing Municipal counties as the primary means for electing state Senators. This was bitterly challenged in courts as going against the "one man,one vote" principle. By the end of the period, more than half of the states had followed suit, including virtually all of the states in the Southwest. States then also moved on to placing military qualifications for holding high office, chiefly for Senators and Governors. Lachman's party, the Conservatives, were then in full control of the apparatus of government—from the state legislature and city hall to the White House.
+
+# Origins
+The ideals that would form the basis of the Neo-Jeffersonian revolution can be traced to the rise of [Postnaturalism](1215-postnaturalism.md) following [the third world war,](107-world-war-iii.md) and the subsequent [political and social upheavals of the late 2060s and 2070s](1074-augment-rights-movement.md). The Flood generation who entered the workforce during World War III were largely restricted from traditional economic activity by wartime economic policies. Post-war they faced a job market that could provide them employment, but few opportunities for advancement in the face of their older peers who by this point were all but assured a continued position in the socio-economic order thanks to advances in [bio-technology](1085-genetic-engineering.md). Social-anthropologists have come to identify the Flood Generation's attitude during this time as one of mass social envy and resentment that manifested into a contempt of lifestyle. Millennial were seen by their children's generation as rootless, entitled, and even corrupt with a "contempt for structure and a worship of the state," as said by early Neo-Jeffersonian journalist Alexandra Freeman.
+
+Neo-Jeffersonian was ultimately a reaction to the augment-rights movements of the 2070s which many conservative thinkers saw as the beginning of the end of humanity itself. Freeman in particular would wright, "by letting people mutilate their bodies into these monstrous forms, we surrender our country, our species to the monstrous." While the early Neo-Jeffersonian movement failed to stop the passage of the [Augment Rights Act](1717-augment-rights-act.md), it did form the political and social organization that would define American politics in the 2080s.
+
+# Positions
+## '''Political reforms'''
+Lachman fulfilled his promise of reforming the government to be driven more by meritocracy than seniority or patronage. Most of his cabinet included veterans such as himself who had distinguished themselves during their service both in and out of the armed forces.
+
+Lachman's policies included ending immigration into the terrestrial United States and removing temporary visa holders from the Southwest. Lachman was denounced as a tyrant by opponents on both ends of the political spectrum who saw the deportations as nothing less than ethnic cleansing.
+
+Lachman supported policies that gave more power to cities, and pushed for a constitutional amendment that would reduce the minimum size of a congressional district to 250,000 residents and give preference to urban areas in redistricting.
+
+Lachman vigorously exercised his veto power to halt public works projects proposed by the progressives. He argued it was not the Federal government's job to fund projects of "a local nature" and or those lacking a connection to the nation as a whole. The debates in Congress reflected the new vision of federalism. The Neo-Jeffersonians saw cities as having supplanted states as the primary means of political organization at the local level, while the Progressives saw the nation as a single entity and the states as an important element of the union.
+
+## '''Economics'''
+Neo-Jeffersonians held that the economy of the United States should rely more on entrepreneurial activity to create more efficient, decentralized businesses than the institutions of the Progressive Era. However, Lachman's ideals were not opposed to growing larger companies. In fact he argued that coopetition between the new generation of enterprises would be the natural result of this process in many sectors of the economy.
+
+Lachman's belief was that unlimited expansion of federal agencies and state-owned franchises would lead to the growth of a class of the permanently unemployed, dependent on an ever growing welfare state for sustenance. The population would no longer be independent voters, and Lachman feared this would lead to the destruction of the Republic. The solution the Conservative party came up with was to create hyper-localized business entities and provide tax breaks for smaller companies while imposing a graduated corporate tax on larger businesses.
+
+The Neo-Jeffersonians did not share Jefferson's fear of international trade, in fact they opposed the protectionist measures of the Progressives and pushed to tear down trade barriers.
+
+## '''Limited government'''
+While the Progressives advocated for a strong central government, Neo-Jeffersonians argued for strong local and state governments and a weak federal government. Self-sufficiency, self-government and individual responsibility were in the Neo-Jeffersonian worldview to be the highest ideals of good governance. In Lachman's opinion, there was virtually nothing infeasible to local government, and the Federal government's only role should be national defense and opening international opportunities.
+
+## '''Social Order'''
+Neo-Jeffersonianism, while nominally a political movement, was also a social movement that sought to end what the Flood Generation saw as the rootlessness of the Millenials. Neo-Jeffersonians sought to reintroduce an old social order to the US to provide stability in the face of what they saw as a storm of disruption, particularly with regards to the structure of the family and the social hierarchy. The US saw the introduction of a far more rigid family structure during this period, and while some Neo-Jeffersonians sought a return to the "nuclear family" of the 20th Century, most Neo-Jeffersonians held to the idea that the rise of a largely automated, disposable workforce, would necessitate the return to social systems that existed during the bulk of human history when disposable human workforces were the norm. This gave rise to the establishment of new legal rights for family units, structured more like those of a corporation than the in the past. More importantly, these reforms established the principals of adding non-biological relations to the family structure, and creating a non-patriarchal family hierarchy, structured like a board of directors with the most successful or simply the oldest member taking the role as head of the family.
+
+# Neo-Jeffersonian Presidents
+In addition to Lachman, his second Secretary of State and one of the leaders of the Conserviatve Party, [Rayleen Malakar](1377-rayleen-malakar.md), served as president. Malakar was defeated in the next election by [Seras Stultz](1383-seras-stultz.md). Stultz fell out of favor with the Left-Wing coalition when she reached an accommodation with the Neo-Jeffersonians. Stultz was then succeeded by Tom Steele, a Jeffersonian who won the election of 2096 with Lachman's endorsement. Stewart M. Li and Christopher Reagan had been a supporters of Lachman as well. Thang Levin served in Li's administration as Ambassador to Japan and as Reagan's Secretary of State, and as President pushed to integrate Neo-Jeffersonianism with Mexican aristocratic republicanism.
+
+# Legacy
+Many felt Lachman's advocacy of limited government was little more than a veneer for a political agenda to transfer power to the military elite and the investor class. Former President Ocasio-Cortez went so far as to express that she felt that Lachman wanted to create a powerful aristocracy in the United States which would ultimately destroy the Republic and leave the country divided among competing city-states. This view would be later echoed by President Lionel Halvidar who claimed that Neo-Jeffersonian was, "Neither New nor Jeffersonian. It is an ideology designed to bring feudalism to America."
+
+Neo-Jeffersonian economic and political reforms are largely held to be the primary cause of the massive growth in the wealth gap in the United States prior to the Halvidar administration. There is still some debate about how Cities' Rights arguments for smaller government played a role in the eventual outbreak of the [Second American Civil War](3679-second-american-civil-war.md). Some aspects of Neo-Jeffersonianism did survive and were highly praised, especially in the colonies.
+[Category:Politics](https://second-renaissance.fandom.com/wiki/Category:Politics)
+[Category:21st Century](https://second-renaissance.fandom.com/wiki/Category:21st_Century)
+[Category:21st-century economic history](https://second-renaissance.fandom.com/wiki/Category:21st-century_economic_history)
+[Category:22nd Century](https://second-renaissance.fandom.com/wiki/Category:22nd_Century)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/2813/11358.wikitext` · revision `11358` · [upstream](https://second-renaissance.fandom.com/wiki/Neo-Jeffersonianism)

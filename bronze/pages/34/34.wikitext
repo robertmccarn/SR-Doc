@@ -1,0 +1,6 @@
+*#|Wiki Content
+**#newlychanged#|Recently Changed Pages
+**#category1#
+**#category2#
+*#|Community
+**Blog:Recent_posts|Recent blog posts

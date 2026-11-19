@@ -1,0 +1,2425 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "1": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1,
+        "length": 227,
+        "new": "",
+        "ns": 14,
+        "pageid": 1,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1,
+            "slots": {
+              "main": {
+                "*": "To add a new category to a page you can click the Category button at the bottom of the page and type in the name you'd like your category to be called.\n\nA full list of existing categories can be found at [[Special:Categories]].",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "Category:Browse",
+        "touched": "2016-12-29T19:35:46Z"
+      },
+      "10": {
+        "contentmodel": "wikitext",
+        "lastrevid": 10,
+        "length": 500,
+        "links": [
+          {
+            "ns": 12,
+            "title": "Help:Community Team"
+          },
+          {
+            "ns": 12,
+            "title": "Help:SpamTaskForce"
+          }
+        ],
+        "new": "",
+        "ns": 2,
+        "pageid": 10,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 10,
+            "slots": {
+              "main": {
+                "*": "The '''Maintenance script''' account is used by [[Help:Community Team|Wikia Staff]] or [[Help:SpamTaskForce|VSTF]] to make automated deletions across multiple pages or multiple wikis.\n\nIf you feel the script deleted a page it should not have deleted, any [[Special:ListAdmins|admin]] on this wiki can undelete that page. Please inform the [[Wikia:Community Team|Community Team]] about any problems with this script.\n\n* ''[[Special:Contributions/Maintenance_script|Maintenance script contributions]]''",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "User:Maintenance script",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "11": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11,
+        "length": 285,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Permission/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 11,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11,
+            "slots": {
+              "main": {
+                "*": "<div class=\"boilerplate\" id=\"c-fairuse\" style=\"width:90%; margin:0 auto; padding:10px; border:1px solid #A8ACA8; background:#FFFFCC; color:#000;\">\n'''''This file is copyrighted. The copyright holder has given permission for its use.'''''\n</div><noinclude>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Permission/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:Permission",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "12": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 12,
+        "length": 258,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Self/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 12,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 12,
+            "slots": {
+              "main": {
+                "*": "<div class=\"boilerplate\" id=\"c-fairuse\" style=\"width:90%; margin:0 auto; padding:10px; border:1px solid #A8ACA8; background:#FFFFCC; color:#000;\">\n'''''This file was uploaded by the photographer or author.'''''\n</div><noinclude>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Self/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:Self",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "13": {
+        "contentmodel": "wikitext",
+        "lastrevid": 13,
+        "length": 17,
+        "new": "",
+        "ns": 2,
+        "pageid": 13,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 13,
+            "slots": {
+              "main": {
+                "*": "{{w:User:Avatar}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "User:Avatar",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "14": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Example.jpg"
+          }
+        ],
+        "lastrevid": 14,
+        "length": 1018,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox/doc"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Infobox"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Tables"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Templates"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 14,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 14,
+            "slots": {
+              "main": {
+                "*": "<onlyinclude>{| class=\"wikia-infobox\"\n\n|-\n! class=\"wikia-infobox-header\" colspan=\"2\" | {{{title|''Unknown''}}}\n\n|-\n{{#if: {{{image|}}} |\n{{!}} class=\"wikia-infobox-image\" colspan=\"2\" {{!}} [[File:{{{image}}}|{{{imagewidth|210}}}px|{{{imagecaption|}}}]]\n| }}\n\n|-\n{{#if: {{{imagecaption|}}} |\n{{!}} class=\"wikia-infobox-caption\" colspan=\"2\" {{!}} {{{imagecaption}}}\n| }}\n\n|- \n! colspan=\"2\" | <div class=\"wikia-infobox-section-header\">Some attributes</div>\n\n|-\n! First\n| {{{first|''Unknown''}}}\n\n|-\n! Second\n| {{{second|''Unknown''}}}\n\n|-\n! Third\n| {{{third|''Unknown''}}}\n\n|-\n! colspan=\"2\" | <div class=\"wikia-infobox-section-header\">Other attributes</div>\n\n|-\n{{#if: {{{fourth|}}} |\n! Fourth\n{{!}} {{{fourth}}}\n| }}\n\n|-\n{{#if: {{{fifth|}}} |\n! Fifth\n{{!}} {{{fifth}}}\n| }}\n\n|-\n{{#if: {{{sixth|}}} |\n! Sixth\n{{!}} {{{sixth}}}\n| }}\n\n|- style=\"font-size:0; line-height:0;\"\n! style=\"width:50%; padding:0\" |\n! style=\"width:50%; padding:0\" |\n\n|}</onlyinclude><noinclude><br style=\"clear:both;\"/>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox/doc"
+          }
+        ],
+        "title": "Template:Infobox",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "15": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 15,
+        "length": 757,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Cc-by-sa-3.0/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 15,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 15,
+            "slots": {
+              "main": {
+                "*": "{| class=\"boilerplate\" id=\"c-fairuse\" style=\"width:90%; margin:0 auto; padding:10px; border:2px solid #88A; background:#FFFFCC; color:black;\"\n|-\n| align=\"center\" |http://images.wikia.com/messaging/images//thumb/7/79/CC_some_rights_reserved.svg/90px-CC_some_rights_reserved.svg.png<br />http://images.wikia.com/messaging/images//thumb/1/11/Cc-by_new_white.svg/24px-Cc-by_new_white.svg.png http://images.wikia.com/messaging/images//thumb/d/df/Cc-sa_white.svg/24px-Cc-sa_white.svg.png\n| '''''This work is licensed under the Creative Commons [http://creativecommons.org/licenses/by-sa/3.0/ <span style=\"color:#002bb8;\">Attribution-ShareAlike 3.0</span>] License.<br />{{#if:{{{1|}}}|<br />Attribution: {{{1|}}}}}'''''\n|}<noinclude>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Cc-by-sa-3.0/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:Cc-by-sa-3.0",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "16": {
+        "contentmodel": "wikitext",
+        "lastrevid": 16,
+        "length": 24,
+        "new": "",
+        "ns": 2,
+        "pageid": 16,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 16,
+            "slots": {
+              "main": {
+                "*": "{{:w:User:Kirkburn/Who}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "User:Kirkburn",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "17": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 17,
+        "length": 466,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 17,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 17,
+            "slots": {
+              "main": {
+                "*": "<includeonly>{| class=\"article-table\" style=\"width:100%;\"\n|- style=\"font-size:18px;\"\n! Template documentation follows\n|-\n| ''Note: the template above may sometimes be partially or fully invisible.''\n|-\n| Visit [[Template:{{PAGENAMEE}}/doc]] to edit this documentation. ([[Template:Documentation|How does this work?]])\n|}\n<div style=\"margin:0 1em;\">\n{{{{PAGENAME}}/doc}}</div></includeonly><noinclude>{{documentation}}[[Category:Template documentation| ]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:Documentation",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "18": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 18,
+        "length": 156,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 14,
+        "pageid": 18,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 18,
+            "slots": {
+              "main": {
+                "*": "This category should contain all '''template documentation pages'''. See [[Template:Documentation]] for more details.\n\n[[Category:Templates| Documentation]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "Category:Template documentation",
+        "touched": "2015-08-29T06:03:03Z"
+      },
+      "19": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 19,
+        "length": 1667,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 19,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 19,
+            "slots": {
+              "main": {
+                "*": "==Description==\nThis template is used to insert descriptions on template pages.\n\n==Syntax==\nAdd <code><nowiki><noinclude></nowiki>{{t|documentation}}<nowiki></noinclude></nowiki></code> at the end of the template page.\n\n==Usage==\n\n===On the Template page===\nThis is the normal format when used:\n\n<pre>\nTEMPLATE CODE<includeonly>Any categories to be inserted into articles by the template</includeonly><noinclude>\n{{documentation}}</noinclude>\n</pre>\n\n''If your template is not a completed div or table, you may need to close the tags just before <code><nowiki>{{documentation}}</nowiki></code> is inserted (within the noinclude tags).''\n\n''A line break right before <code><nowiki>{{documentation}}</nowiki></code> can also be useful as it helps prevent the documentation template \"running into\" previous code.''\n\n===On the Template/doc page===\nNormally, you will want to write something like the following on the documentation page:\n\n<pre>\n==Description==\nThis template is used to do something.\n\n==Syntax==\nType <code>{{t|templatename}}</code> somewhere.\n\n==Samples==\n<code>&lt;nowiki>{{templatename|input}}&lt;/nowiki></code> \n\nresults in...\n\n{{templatename|input}}\n\n<includeonly>Any categories for the template itself</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>\n</pre>\n\nUse any or all of the above description/syntax/sample output sections. You may also want to add \"see also\" or other sections.\n\nNote that the above example also uses the [[Template:T]] and [[Template:T/piece]] templates.\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:Documentation/doc",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "2": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Browse"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Planets"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:About.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Alo YBP1194 c.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cold War Logo.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Helping-01.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Liza Maheswaran.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:New Articles.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Poll.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:SR Timeline.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Slider"
+          },
+          {
+            "ns": 6,
+            "title": "File:User Blogs-01.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Welcome.png"
+          }
+        ],
+        "lastrevid": 11916,
+        "length": 5304,
+        "links": [
+          {
+            "ns": 0,
+            "title": "21st Century"
+          },
+          {
+            "ns": 0,
+            "title": "22nd Century"
+          },
+          {
+            "ns": 0,
+            "title": "Alo"
+          },
+          {
+            "ns": 0,
+            "title": "Androids"
+          },
+          {
+            "ns": 0,
+            "title": "Armor"
+          },
+          {
+            "ns": 0,
+            "title": "Augment Rights Movement"
+          },
+          {
+            "ns": 0,
+            "title": "Earth"
+          },
+          {
+            "ns": 0,
+            "title": "Genetic Engineering"
+          },
+          {
+            "ns": 0,
+            "title": "Gravitonics"
+          },
+          {
+            "ns": 0,
+            "title": "Great Reset"
+          },
+          {
+            "ns": 0,
+            "title": "K'lerin"
+          },
+          {
+            "ns": 0,
+            "title": "Liza Maheswaran"
+          },
+          {
+            "ns": 0,
+            "title": "Luna"
+          },
+          {
+            "ns": 0,
+            "title": "Mars"
+          },
+          {
+            "ns": 0,
+            "title": "Moraks"
+          },
+          {
+            "ns": 0,
+            "title": "Non-Human Civil Rights Movement"
+          },
+          {
+            "ns": 0,
+            "title": "Poll archive"
+          },
+          {
+            "ns": 0,
+            "title": "Quantum Capacitor"
+          },
+          {
+            "ns": 0,
+            "title": "Quantum Economic Model"
+          },
+          {
+            "ns": 0,
+            "title": "Sahara War"
+          },
+          {
+            "ns": 0,
+            "title": "Sol system"
+          },
+          {
+            "ns": 0,
+            "title": "Tel-bn"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Timeline"
+          },
+          {
+            "ns": 0,
+            "title": "Venus"
+          },
+          {
+            "ns": 0,
+            "title": "Virtuals"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          },
+          {
+            "ns": 4,
+            "title": "Second Renaissance Wikia:Community Portal"
+          },
+          {
+            "ns": 4,
+            "title": "Second Renaissance Wikia:Templates"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Editing"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Article stubs"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Images"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11780,
+            "revid": 11916,
+            "slots": {
+              "main": {
+                "*": "<mainpage-leftcolumn-start />\n<center>\n[[File:Welcome.png|center|700px|link=]]'''An encyclopedia for Sean McKnight's Second Renaissance series that [[Help:Editing|anyone can edit]].\n\n[[Special:Statistics|{{NUMBEROFARTICLES}} articles]] since August 2015.<br />\n[[File:About.png|320px|center|link=]]\n</center>\n'''The Second Renaissance''' is a futurist series written by American engineer and writer Sean McKnight (YNot1989). He began creating this series in 2007 and reworked it over the course of years to its current form. The Second Renaissance chronicles the next century of politics and war, science and technology, culture and history through the lens of realist forecasting via high concept sci-fi. Originally envisioned as a Utopian sci-fi universe, the series has evolved into a brutally realist look into the next century and beyond. The Second Renaissance started life on [http://future.wikia.com/wiki/Scenario:_The_Second_Renaissance Future.wikia], and the bulk of its material is still there for all to enjoy, however, it has been given its own site because Future.wikia could not contain it any longer.\n\n''\"Once in a great while, civilizations undergo a period of massive society change effecting everything from economics to culture. In the 14th Century, Western Civilization underwent the first change of this kind, and since then many smaller ones have occurred across the globe. The Age of Enlightenment, the Industrial Revolution, the Information age. However none of these smaller revolutions compare to the magnitude of change that occurred during the Renaissance over three centuries. In the 22nd Century the world entered into the Second Renaissance. This is the story of how that came to be.\"''\n\n''This is a future history prone to being overwritten by real-world events though updating can lag behind.''\n\n[[File:New_Articles.png|center|link=]]\n<gallery type=\"slider\">\nSlider\nSR_Timeline.png|link=Timeline|linktext=Chronology of Events\nLiza Maheswaran.png|link=Liza Maheswaran|linktext=Character spotlight: Liza Maheswaran\nCold_War_Logo.png|link=Sahara War|linktext=The conflict in the Sahara\nAlo YBP1194 c.png|link=Alo|linktext=Advanced civilizations\n</gallery>\n<br />\n\n{{MainpageHeading SecondRenaissance|Contents <small>([[Special:Allpages|view all pages]])</small>}}\n{{col-begin}}\n{{col-2}}\n'''Society and Technology'''\n* [[Armor]]\n* [[Virtuals]]\n* [[Gravitonics]]\n* [[Genetic Engineering]]\n* [[Quantum Capacitor]]\n* [[Non-Human Civil Rights Movement]]\n* [[Augment Rights Movement]]\n\n'''Aliens and Non-humans'''\n*[[K'lerin]]\n*[[Moraks]]\n*[[Tel-bn]]\n*[[Androids]]\n\n{{col-2}}\n'''War and Politics'''\n* [[Timeline]]\n* [[21st Century]]\n* [[22nd Century]]\n* [[Great Reset]]\n* [[Quantum Economic Model]]\n* [[Third Mexican-American War|Third Mexican War]]\n* [[World War III]]\n\n'''[[Sol system|Planets]]'''\n* [[Earth]]\n* [[Mars]]\n* [[Luna]]\n* [[Venus]]\n{{col-end}}\n\n[[File:Poll.png|center|link=]]\n<poll>\nIf there was a book set in the Second Renaissance universe, what would you want it to be about?\nThe Flood\nWorld War III\nThe Guardiola Incident\nThe Belt Pirate Wars\nThe Third Mexican-American War\n</poll>\n<center><small>Vote now!</small><br />[[Poll archive|See more >]]</center>\n<br />\n\n<mainpage-endcolumn />\n<mainpage-rightcolumn-start />\n[[File:User_Blogs-01.png|center|link=]]\n<bloglist count=3 summary=true summarylength=300 timestamp=true>\n<title></title>\n<type>bloglist</type>\n<order>date</order>\n<category>Blog posts</category>\n</bloglist>\n<br />\n[[File:Helping-01.png|center|link=]]\n<center>We are currently housing [[Special:Statistics|{{NUMBEROFARTICLES}}]] articles, and [[Special:Statistics|{{NUMBEROFFILES}}]] files. We need YOUR help expanding and adding articles to the wiki!</center> \n\n<div style=\"font-variant: small-caps\"><center>[[Special:Newpages|New pages]] | [[Wikia:Help:Tutorial|Wiki tutorial]] | [[Wikia:Category:Help|Help pages]]</center></div>\n\n<center>If you're new to wikia, please use the above links to get started.</center>\n<center>If you already have editing experience, and you noticed an article from Future.wikia is missing to the series, please to contribute, use the box below to create it:</center>\n<createbox>width=30</createbox><br />\n\n; Adding content\n* Every wiki has two list of articles that need help called  '''[[:Category:Article stubs|\"Stubs\"]]''' and '''[[Special:Wantedpages|\"Wanted Articles\"]]'''. Don't be shy, just get in there. \n* Uploading [[:Category:Images|images]] is another really easy way to help out - see the '''[[Special:Upload]]''' page!\n* You can find a list of useful templates on [[:Category:Templates]], some of which are documented on the '''[[Project:Templates|templates project page]]'''.\n\n; Talk and more...\n* Check out the '''[[Project:Community Portal|community portal]]''' to see what the community is working on, to give feedback or just to say hi.\n* See [[Special:RecentChanges]] to see what's new.(No longer available to anyone without a registered Fandom account)\n<mainpage-endcolumn /><br style=\"clear:both;\" />__NOTOC__<!-- This removes the table of contents -->\n\n__NOEDITSECTION__ <!-- This removes the section edit links -->\n\n----\n{{AffiliatedWikis}}\n----\n<mainpage-endcolumn/>\n<br style=\"clear:both;\" />\n__NOTOC__\n__NOEDITSECTION__\n__NOWYSIWYG__\n[[Category:Planets|Planets]]\n[[Category:Browse]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-10-04T03:38:22Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:AffiliatedWikis"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Col-2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Col-begin"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Col-end"
+          },
+          {
+            "ns": 10,
+            "title": "Template:MainpageHeading SecondRenaissance"
+          }
+        ],
+        "title": "Second Renaissance Wikia",
+        "touched": "2025-10-04T03:38:22Z"
+      },
+      "20": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 20,
+        "length": 643,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 20,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 20,
+            "slots": {
+              "main": {
+                "*": ";Description\n:A template link with a variable number of example parameters (0-20), which can be used to show example inputs.\n:Utilises [[Template:T/piece]].\n;Syntax\n:{{t|t|parameter1|parameter2|parameter3|parameter4|...|parameter20}}\n;Sample code\n:<code><nowiki>{{t|infobox}}</nowiki></code> gives...\n:{{t|infobox}}\n:<code><nowiki>{{t|infobox|Item1|Item2|Item3|Item4|Item5|...}}</nowiki></code> gives...\n:{{t|infobox|Item1|Item2|Item3|Item4|Item5|...}}\n;See also\n:[[w:c:wow:Template:T|Template:T]] on WoWWiki\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:T/doc",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "21": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 21,
+        "length": 294,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 21,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 21,
+            "slots": {
+              "main": {
+                "*": ";Description\n:Parameter piece for {{t|t}}, controls styling/showing of parameter fragments.\n;See also\n:[[w:c:wow:Template:T/piece|Template:T/piece]] on WoWWiki\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:T/piece/doc",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "22": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Example.jpg"
+          }
+        ],
+        "lastrevid": 22,
+        "length": 2113,
+        "links": [
+          {
+            "ns": 12,
+            "title": "Help:Infobox"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Tables"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Templates"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 22,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 22,
+            "slots": {
+              "main": {
+                "*": "==Description==\nThis template is a sample infobox, to aid in the creation of new infoboxes.\n\nRecommended usage: copy the template code to a new template page, and edit it there.\n\n===Infobox and template background===\nSee [[Help:Templates]], [[Help:Infobox]] and [[Help:Tables]] for some background on how templates and infoboxes work.\n\n===Building blocks===\nThe infobox is made of the following basic building blocks:\n\n* Overall table class: <code>class=\"wikia-infobox\"</code>\n* Table heading cell class: <code>class=\"wikia-infobox-header\"</code>\n* Use row header marks (\"<code>!</code>\") for row title cells ''(and \"<code>|</code>\" for normal cells)''\n* Section separator line: give the header below it a wrapping <code>div</code> with <code>class=\"wikia-infobox-section-header\"</code>\n* Image cell class: <code>class=\"wikia-infobox-image\"</code>\n* Image caption cell class: <code>class=\"wikia-infobox-caption\"</code>\n\n===Other notes===\n* The Title, First, Second, and Third rows show ''\"Unknown\"'' if their values are not specified.\n* The Image, Imagecaption, Fourth, Fifth, and Sixth rows won't show up if their values are not specified: they are each completely enclosed in an 'if' statement.\n\n==Syntax==\n<pre>\n{{infobox\n | title         = \n | image         = [e.g. \"Example.jpg\"]\n | imagewidth    = [e.g. \"150\"] [default: 210 pixels]\n | imagecaption  = \n | first         =\n | second        =\n | third         =\n | fourth        =\n | fifth         =\n | sixth         =\n}}\n</pre>\n\n==Samples==\n<pre>\n{{infobox\n | title         = A pretty flower\n | image         = Example.jpg\n | imagewidth    = 100\n | imagecaption  = Floweris flowerum\n | first         = Pink and green\n | second        = Outdoors\n | fourth        = Annual\n}}\n</pre>\n\nResults in...\n\n{{infobox\n | title         = A pretty flower\n | image         = Example.jpg\n | imagewidth    = 100\n | imagecaption  = Floweris flowerum\n | first         = Pink and green\n | second        = Outdoors\n | fourth        = Annual\n}}\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox"
+          }
+        ],
+        "title": "Template:Infobox/doc",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "23": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 23,
+        "length": 270,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Fairuse"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 23,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 23,
+            "slots": {
+              "main": {
+                "*": ";Description\n:This template is used to mark images as fair use.\n;Syntax\n:Type <code>{{t|fairuse}}</code> on the image information page.\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:Fairuse/doc",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "24": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 24,
+        "length": 341,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Permission"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 24,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 24,
+            "slots": {
+              "main": {
+                "*": ";Description\n:This template is used to mark images as being copyrighted, but the copyright holder has given permission for its use.\n;Syntax\n:Type <code>{{t|permission}}</code> on the image information page.\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:Permission/doc",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "25": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 25,
+        "length": 309,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Self"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 25,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 25,
+            "slots": {
+              "main": {
+                "*": ";Description\n:This template is used to mark images as having been uploaded by the photographer or author.\n;Syntax\n:Type <code>{{t|self}}</code> on the image information page.\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:Self/doc",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "26": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 26,
+        "length": 441,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Cc-by-sa-3.0"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 26,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 26,
+            "slots": {
+              "main": {
+                "*": ";Description\n:This template is used to mark images with the [http://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA-3.0] license.\n;Syntax\n:Type <code>{{t|cc-by-sa-3.0|attribution details}}</code> on the image information page.\n:Replace \"<code>attribution details</code>\" with information about the source.\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:Cc-by-sa-3.0/doc",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "27": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 27,
+        "length": 283,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:PD"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 27,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 27,
+            "slots": {
+              "main": {
+                "*": ";Description\n:This template is used to mark images as being in the public domain.\n;Syntax\n:Type <code>{{t|PD}}</code> on the image information page.\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:PD/doc",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "28": {
+        "contentmodel": "wikitext",
+        "lastrevid": 28,
+        "length": 161,
+        "links": [
+          {
+            "ns": 12,
+            "title": "Help:Contents"
+          }
+        ],
+        "new": "",
+        "ns": 2,
+        "pageid": 28,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 28,
+            "slots": {
+              "main": {
+                "*": "The '''CreateWiki script''' sets up pages on newly [[w:special:createwiki|created wikis]]. For [[help:contents|help]], you can [[Special:Contact|contact Wikia]].",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "User:CreateWiki script",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "29": {
+        "contentmodel": "wikitext",
+        "lastrevid": 29,
+        "length": 18,
+        "links": [
+          {
+            "ns": 12,
+            "title": "Help:Contents"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Welcome tool"
+          }
+        ],
+        "new": "",
+        "ns": 2,
+        "pageid": 29,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 29,
+            "slots": {
+              "main": {
+                "*": "{{int:User Wikia}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "User:Wikia",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "3": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3,
+        "length": 238,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:PD/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 3,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3,
+            "slots": {
+              "main": {
+                "*": "<div class=\"boilerplate\" id=\"c-fairuse\" style=\"width:90%; margin:0 auto; padding:10px; border:1px solid #A8ACA8; background:#FFFFCC; color:#000;\">\n'''''This file is in the public domain'''''\n</div><noinclude>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:PD/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:PD",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "30": {
+        "contentmodel": "wikitext",
+        "lastrevid": 30,
+        "length": 130,
+        "new": "",
+        "ns": 502,
+        "pageid": 30,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 30,
+            "slots": {
+              "main": {
+                "*": "<bloglist summary=\"true\" timestamp=\"true\" count=50>\n<title>Recent posts</title>\n<type>plain</type>\n<order>date</order>\n</bloglist>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "Blog:Recent posts",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "31": {
+        "contentmodel": "wikitext",
+        "lastrevid": 31,
+        "length": 14,
+        "new": "",
+        "ns": 2,
+        "pageid": 31,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 31,
+            "slots": {
+              "main": {
+                "*": "{{w:XeanWiki}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "User:Xean",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "32": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Images"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 32,
+        "length": 130,
+        "new": "",
+        "ns": 6,
+        "pageid": 32,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 32,
+            "slots": {
+              "main": {
+                "*": "Cropped and resized from [[Commons:Image:LotusBud0048a.jpg]]\n\n*Photographer: [[Commons:User:Fg2|Fg2]]\n\n{{PD}}\n\n[[Category:Images]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:PD"
+          }
+        ],
+        "title": "File:Example.jpg",
+        "touched": "2015-08-28T05:47:07Z"
+      },
+      "33": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7112,
+        "length": 24,
+        "ns": 2,
+        "pageid": 33,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 33,
+            "revid": 7112,
+            "slots": {
+              "main": {
+                "*": "{{wikia::User:DaNASCAT}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-31T19:31:27Z"
+          }
+        ],
+        "title": "User:TimmyQuivy",
+        "touched": "2018-01-31T19:31:27Z"
+      },
+      "34": {
+        "contentmodel": "wikitext",
+        "lastrevid": 34,
+        "length": 134,
+        "new": "",
+        "ns": 8,
+        "pageid": 34,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 34,
+            "slots": {
+              "main": {
+                "*": "*#|Wiki Content\n**#newlychanged#|Recently Changed Pages\n**#category1#\n**#category2#\n*#|Community\n**Blog:Recent_posts|Recent blog posts",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "MediaWiki:Wiki-navigation",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "35": {
+        "contentmodel": "wikitext",
+        "lastrevid": 35,
+        "length": 30,
+        "new": "",
+        "ns": 2,
+        "pageid": 35,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 35,
+            "slots": {
+              "main": {
+                "*": "{{Wikia:User:Semanticdrifter}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "User:Semanticdrifter",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "36": {
+        "contentmodel": "wikitext",
+        "lastrevid": 36,
+        "length": 217,
+        "new": "",
+        "ns": 2,
+        "pageid": 36,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 36,
+            "slots": {
+              "main": {
+                "*": "This account is used by Wikia Staff when they add videos to Wikia from our content partners. If there are any problems with this account on your wiki, please inform the [[Wikia:Community Team|Community Support Team]].",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "User:Wikia Video Library",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "37": {
+        "contentmodel": "wikitext",
+        "lastrevid": 37,
+        "length": 20,
+        "new": "",
+        "ns": 2,
+        "pageid": 37,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 37,
+            "slots": {
+              "main": {
+                "*": "{{Wikia:User:BertH}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "User:BertH",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "38": {
+        "contentmodel": "wikitext",
+        "lastrevid": 38,
+        "length": 29,
+        "new": "",
+        "ns": 2,
+        "pageid": 38,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 38,
+            "slots": {
+              "main": {
+                "*": "{{Wikia:User:ELEETE_starter}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "User:Mighty No. 9",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "39": {
+        "contentmodel": "wikitext",
+        "lastrevid": 39,
+        "length": 18,
+        "new": "",
+        "ns": 2,
+        "pageid": 39,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 39,
+            "slots": {
+              "main": {
+                "*": "{{w:user:Gurgate}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "User:Gurgate",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "4": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4,
+        "length": 307,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Fairuse/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 4,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4,
+            "slots": {
+              "main": {
+                "*": "<div class=\"boilerplate\" id=\"c-fairuse\" style=\"width:90%; margin:0 auto; padding:10px; border:1px solid #A8ACA8; background:#FFFFCC; color:#000;\">\n'''''This file  is copyrighted. It will be used in a way that qualifies as fair use under US copyright law.'''''\n</div><noinclude>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Fairuse/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:Fairuse",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "40": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 40,
+        "length": 579,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 40,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 40,
+            "slots": {
+              "main": {
+                "*": "<nowiki>{{</nowiki>[[Template:{{{1}}}|{{{1}}}]]{{t/piece|{{{2|---}}}}}{{t/piece|{{{3|---}}}}}{{t/piece|{{{4|---}}}}}{{t/piece|{{{5|---}}}}}{{t/piece|{{{6|---}}}}}{{t/piece|{{{7|---}}}}}{{t/piece|{{{8|---}}}}}{{t/piece|{{{9|---}}}}}{{t/piece|{{{10|---}}}}}{{t/piece|{{{11|---}}}}}{{t/piece|{{{12|---}}}}}{{t/piece|{{{13|---}}}}}{{t/piece|{{{14|---}}}}}{{t/piece|{{{15|---}}}}}{{t/piece|{{{16|---}}}}}{{t/piece|{{{17|---}}}}}{{t/piece|{{{18|---}}}}}{{t/piece|{{{19|---}}}}}{{t/piece|{{{20|---}}}}}{{t/piece|{{{21|---}}}}}<nowiki>}}</nowiki><noinclude>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:T",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "41": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 41,
+        "length": 120,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 41,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 41,
+            "slots": {
+              "main": {
+                "*": "{{#ifeq: {{{1|---}}}|---||&#124;<font color=\"gray\">''&lt;{{{1}}}&gt;''</font>}}<noinclude>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece/doc"
+          }
+        ],
+        "title": "Template:T/piece",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "42": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 42,
+        "length": 46,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:!/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Parser functions"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Table"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 42,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 42,
+            "slots": {
+              "main": {
+                "*": "<onlyinclude>|</onlyinclude>\n{{documentation}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:!",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "43": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 43,
+        "length": 387,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Parser functions"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Table"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 43,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 43,
+            "slots": {
+              "main": {
+                "*": ";Description\n:This template is used for creating a pipe, in [[Help:Table|wikitables]] contained in [[Help:Parser functions|Parser functions]].\n;Syntax\n:Insert this template using <code>{{t|!}}</code>\n;See also\n:[[m:Template:!|Template:!]] on Meta-Wiki.\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:!/doc",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "44": {
+        "contentmodel": "wikitext",
+        "lastrevid": 44,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 44,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 44,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "File:Communitylogo.png",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "45": {
+        "contentmodel": "wikitext",
+        "lastrevid": 91,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 45,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 45,
+            "revid": 91,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:41Z"
+          }
+        ],
+        "title": "File:Wiki.png",
+        "touched": "2015-08-08T00:46:41Z"
+      },
+      "46": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 46,
+        "length": 334,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:CC-BY-SA/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 46,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 46,
+            "slots": {
+              "main": {
+                "*": "<div class=\"boilerplate\" id=\"cc-by-sa\" style=\"width:90%; margin:0 auto; padding:10px; border:1px solid #A8ACA8; background:#FFFFCC; color:#000;\">\n'''''This file is licensed under the [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-Share Alike License].'''''\n</div><noinclude>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:CC-BY-SA/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:CC-BY-SA",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "47": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 47,
+        "length": 248,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Other free/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 47,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 47,
+            "slots": {
+              "main": {
+                "*": "<div class=\"boilerplate\" id=\"c-fairuse\" style=\"width:90%; margin:0 auto; padding:10px; border:1px solid #A8ACA8; background:#FFFFCC; color:#000;\">\n'''''This file is licensed under a free license.'''''\n</div><noinclude>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Other free/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:Other free",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "48": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 48,
+        "length": 318,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Other free"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 48,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 48,
+            "slots": {
+              "main": {
+                "*": ";Description\n:This template is used to mark images with a free license not covered by other image templates.\n;Syntax\n:Type <code>{{t|Other free}}</code> on the image information page.\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:Other free/doc",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "49": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 49,
+        "length": 285,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:CC-BY-SA"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 49,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 49,
+            "slots": {
+              "main": {
+                "*": ";Description\n:This template is used to mark images with the CC-BY-SA license.\n;Syntax\n:Type <code>{{t|CC-BY-SA}}</code> on the image information page.\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:CC-BY-SA/doc",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "5": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5,
+        "length": 19,
+        "new": "",
+        "ns": 2,
+        "pageid": 5,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5,
+            "slots": {
+              "main": {
+                "*": "{{int:User Sannse}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "User:Sannse",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "50": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 50,
+        "length": 281,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:From Wikimedia/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 50,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 50,
+            "slots": {
+              "main": {
+                "*": "<div class=\"boilerplate\" id=\"c-fairuse\" style=\"width:90%; margin:0 auto; padding:10px; border:1px solid #A8ACA8; background:#FFFFCC; color:#000;\">\n'''''This file was originally uploaded on Wikipedia or another Wikimedia project.'''''\n</div><noinclude>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:From Wikimedia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:From Wikimedia",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "6": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6,
+        "length": 239,
+        "new": "",
+        "ns": 2,
+        "pageid": 6,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6,
+            "slots": {
+              "main": {
+                "*": "This account was used by '''[[w:c:www:About|Wikia, Inc.]]''' to import the starter content to this wiki in an automated way (some templates, MediaWiki messages, and other essentials). \n\n* ''[[Special:Contributions/Default|Contributions]]''",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "User:Default",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "7": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7,
+        "length": 464,
+        "new": "",
+        "ns": 2,
+        "pageid": 7,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7,
+            "slots": {
+              "main": {
+                "*": "This account is used by Wikia Staff when they run the maintenance script <code>rebuildMessages.php</code>. This updates or rebuilds the interface messages to be the same as the MediaWiki default on the Central Wikia wiki.\n\nThis account is not a bot and cannot be blocked. If there is a problem with the text of the default messages, please inform the [[Wikia:Community Team|Community Support Team]].\n\n* ''[[Special:Contributions/MediaWiki default|Contributions]]''",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "User:MediaWiki default",
+        "touched": "2015-08-08T00:46:29Z"
+      },
+      "8": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Browse"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 8,
+        "length": 190,
+        "links": [
+          {
+            "ns": 4,
+            "title": "Second Renaissance Wikia:Templates"
+          }
+        ],
+        "new": "",
+        "ns": 14,
+        "pageid": 8,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8,
+            "slots": {
+              "main": {
+                "*": "This is the base category for '''templates'''. Templates should be placed in appropriate subcategories.\n\nSee [[Project:Templates]] for collated information on templates.\n\n[[Category:Browse]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "Category:Templates",
+        "touched": "2024-06-08T01:03:40Z"
+      },
+      "9": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9,
+        "length": 338,
+        "new": "",
+        "ns": 2,
+        "pageid": 9,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 9,
+            "slots": {
+              "main": {
+                "*": "The '''Edit page script''' account is used by Wikia Staff to make automated edits across multiple pages or multiple wikis.\n\nIf there is a problem with the content of any pages edited by this script, please inform the [[Wikia:Community Team|Community Team]].\n\n* ''[[Special:Contributions/Edit page script|Edit page script contributions]]''",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "User:Edit page script",
+        "touched": "2015-08-08T00:46:29Z"
+      }
+    }
+  }
+}

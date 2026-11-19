@@ -1,0 +1,40 @@
+-- Proof-of-concept for automatic striping
+local p = {}
+
+local Navbox = require('Module:Navbox')
+
+function p.navbox(frame)
+	local args = frame:getParent().args
+
+	local listnums = {}
+	local listcount = 0
+	local t = {}
+
+	for k,v in pairs(args) do
+		if type(k) == 'string' and k:match('^list[0-9][0-9]*$') then
+			if( v and v ~= '') then
+				listcount = listcount + 1
+				listnums[listcount] = mw.ustring.gsub(k,'^list([0-9][0-9]*)$', '%1')
+			end
+		elseif type(k) == 'string' and k:match('^group[0-9][0-9]*$') then
+			-- skip for now, processed below
+		elseif( v and v ~= '') then
+			t[k] = v
+		end
+    end
+	local function lcomp(n1, n2)
+		return (tonumber(n1) or 0) < (tonumber(n2) or 0)
+	end
+	table.sort(listnums, lcomp)
+	for i = 1,listcount do
+		t['list' .. i] = args['list' .. listnums[i]]
+		if( args['group' .. listnums[i]] ~= nil and args['group' .. listnums[i]] ~= '') then
+			t['group' .. i] = args['group' .. listnums[i]]
+		end
+	end
+	
+	return Navbox._navbox(t)
+
+end
+
+return p

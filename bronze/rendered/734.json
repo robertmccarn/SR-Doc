@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "*": "Footnote_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    },
+    {
+      "*": "Reference_list_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><div class=\"reflist\" style=\"list-style-type: lower-alpha;\">\n</div>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <a href=\"/wiki/Template:Notelist/doc\" title=\"Template:Notelist/doc\">Template:Notelist/doc</a> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<p><a href=\"https://community.fandom.com/wiki/Help:Footnotes\" title=\"Help:Footnotes\">Help:Footnotes</a>\n</p>\n</div>\n<!-- \nNewPP limit report\nCached time: 20261119205518\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.018 seconds\nReal time usage: 0.024 seconds\nPreprocessor visited node count: 64/1000000\nPost‐expand include size: 735/2097152 bytes\nTemplate argument size: 33/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   10.843      1 -total\n 71.86%    7.792      1 Template:Documentation\n 57.86%    6.274      1 Template:Notelist/doc\n 26.06%    2.826      1 Template:Reflist\n 19.16%    2.077      1 Template:Documentation_subpage\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:734-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205518 and revision id 1006. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Notelist/doc",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Help:Footnotes",
+      "ns": 12
+    }
+  ],
+  "page_id": 734,
+  "revision_id": 1006,
+  "title": "Template:Notelist"
+}

@@ -1,0 +1,7 @@
+Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Flora and Fauna of Kepler 22B]]!
+
+If you need help getting started, check out our [[Help:Contents|help pages]] or [[Message Wall:YNot1989|contact me]] or another admin here. 
+
+For general help, you could also stop by Community Central to explore the [[w:forums|help forum]] and [[w:sblog|blog]].
+
+Enjoy your time at {{SITENAME}}!<ac_metadata title="Welcome to Second Renaissance Wikia!"> </ac_metadata>

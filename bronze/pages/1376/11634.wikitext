@@ -1,0 +1,31 @@
+{{Infobox officeholder
+|name=Christopher Reagan
+|image=Blank_Person.jpg
+|border
+|imagesize=265px
+|alt=
+|caption=
+|order=[[President of the United States|62nd]]
+|office=President of the United States
+|vicepresident=Eliza Jin Tao
+|predecessor=[[Stewart M. Li]]
+|successor=[[Miriam Weinstein]]
+|birth_date=2066
+|birth_place= Colorado
+|nationality= American
+|party=[[Horizon Party (United States)|Horizon]]
+|spouse= 
+|children=
+|religion= Congregationalism
+|profession=Civil Servant<br />Politician
+|termend = January 20, 2121
+|termstart = January 20, 2117}}
+
+Christopher Reagan was the 62nd President serving from 2117 to 2121. He was a descendant of Ronald Reagan, the 40th President of the United States .
+==Personal Life==
+===Early Years===
+Christopher Reagan was born in Colorado in 2066 to his parents Richard (who was the grandson of Michael Reagan, Ronald Reagan's adopted son) and Irene Reagan.
+===Entering Politics===
+==2116 Presidential Election==
+==Presidency (2117-2121)==
+[[Category:Presidents of the United States]]

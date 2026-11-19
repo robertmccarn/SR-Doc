@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "*": "Balkanization_Era",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    },
+    {
+      "*": "Mexican-American_Cold_War",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>The <b>Balkanization Era</b> was a period of political instability in the Eastern Hemisphere following the <a href=\"/wiki/Guardiola_Incident\" title=\"Guardiola Incident\">Guardiola Incident</a>. The exact starting date for the era is often debated due to the <a href=\"/wiki/Mexican-American_Cold_War\" title=\"Mexican-American Cold War\">Mexican-American Cold War</a> occuring co-existently, however, many do consider the collapse of the Mediterranian Union to be the initial date of the period, while other historians claim that the Balkanization Era is a part of the Mexican-American Cold War. \n</p><p>The largest region the Balkanization Era affected was Europe, as civil unrest would turn into successionist movements and civil wars. The lack of direct trade relations between the former members of the MU would cause the United States and Mexico to come and aid the former states as a means of attempting to return to the original trade relations. \n</p><p>One of the largest outcomes during and after the Balkanization Era was the establishment of the <a href=\"/wiki/Intermarium\" title=\"Intermarium\">Intermarium</a>, which was started by Poland as a means of securing regional stability in Eastern Europe that could do better in terms of stability than the pre-existing Visegrad Group had done over the last few decades. Many historians would never expect that the Intermarium would end up playing a key role as a military alliance in the largest war of the 22nd century, the <a href=\"/wiki/Third_Mexican-American_War\" title=\"Third Mexican-American War\">Third Mexican-American War</a>.\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119205708\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.004 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:1672-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205708 and revision id 6805. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Guardiola Incident",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Intermarium",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Mexican-American Cold War",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Third Mexican-American War",
+      "exists": "",
+      "ns": 0
+    }
+  ],
+  "page_id": 1672,
+  "revision_id": 6805,
+  "title": "The Balkanization Era"
+}

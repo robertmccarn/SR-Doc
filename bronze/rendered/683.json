@@ -1,0 +1,35 @@
+{
+  "categories": [
+    {
+      "*": "Pages_with_broken_file_links",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"messagebox protected\" style=\"font-size:0.9em;border:2px solid #99B;padding:0;line-height:1.4em;\">\n<tbody><tr>\n<td style=\"width:49px;vertical-align:middle;\"><span typeof=\"mw:Error mw:File\"><a href=\"/wiki/Special:Upload?wpDestFile=Padlock.svg\" class=\"new\" title=\"File:Padlock.svg\"><span class=\"mw-file-element mw-broken-media\" data-width=\"45\">File:Padlock.svg</span></a></span>\n</td>\n<td><b>This page should NOT be used for testing purposes.</b><br />This page acts <i>only</i> as a transclusion for <a href=\"https://en.wikipedia.org/wiki/Sandbox\" class=\"extiw\" title=\"wikipedia:Sandbox\">Wikipedia:Sandbox</a>. If you wish to experiment, please do so at <a href=\"https://en.wikipedia.org/wiki/Sandbox\" class=\"extiw\" title=\"wikipedia:Sandbox\">Wikipedia:Sandbox</a>, not here.<br />This page should only be edited if the <i>Sandbox Header</i> needs modification.\n</td></tr></tbody></table>\n<table style=\"margin:2px;border:1px dotted #000000;background:transparent;padding:2px;\">\n\n\n<tbody><tr style=\"vertical-align:top;\">\n<td style=\"padding-top:5px;padding-left:5px\">Welcome to Template:Template sandbox heading, a <b>Wikipedia template sandbox</b>. This page allows you to carry out experiments related to template editing. To edit, click the <b>edit</b> tab above, make your changes and click the <b>Save page</b> button when finished. Content will <b>not</b> stay permanently; the template sandboxes are <b>automatically cleaned</b> every hour.\n<p><i>Please do not place copyrighted, offensive, illegal or libelous content in the sandboxes. For assistance with template coding, try <a href=\"https://en.wikipedia.org/wiki/VPT\" class=\"extiw\" title=\"wp:VPT\">the technical forum at the Village Pump</a>.</i> \n</p>\nThere are several other template sandboxes you can use to carry out experiments: <div class=\"hlist\"><ul><li><div style=\"clear:both\"></div></li><li><div style=\"clear:both\"></div></li><li><div style=\"clear:both\"></div></li><li><div style=\"clear:both\"></div></li><li><div style=\"clear:both\"></div></li><li><div style=\"clear:both\"></div></li><li><div style=\"clear:both\"></div></li><li><div style=\"clear:both\"></div></li><li><div style=\"clear:both\"></div></li><li><div style=\"clear:both\"></div></li><li><div style=\"clear:both\"></div></li><li><div style=\"clear:both\"></div></li><li>{{<a href=\"/wiki/Template:Template_sandbox\" title=\"Template:Template sandbox\">Template&#160;sandbox</a>}}</li></ul></div>\n<p>You can also conduct tests using the <a href=\"https://en.wikipedia.org/wiki/Sandbox\" class=\"extiw\" title=\"wikipedia:Sandbox\">Wikipedia Sandbox</a>. For instance, to <a href=\"https://en.wikipedia.org/wiki/Transclusion\" class=\"extiw\" title=\"wikipedia:Transclusion\">transclude</a> this template there, <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Wikipedia:Sandbox?action=edit\">edit it</a> so that it includes: <code>{{Template sandbox heading}}</code>\n</p>\n</td>\n<td style=\"padding-left:10px;\"><div class=\"toccolours\" style=\"padding:0 10px 5px;text-align:center;white-space:nowrap;\">\n<p><b><a href=\"/wiki/T:TS\" class=\"mw-redirect\" title=\"T:TS\">Template sandbox</a> shortcut</b><br />\n{{<b><a href=\"/wiki/T:TS\" class=\"mw-redirect\" title=\"T:TS\">T:TS</a></b>}}\n</p>\n<b>More info</b> <div class=\"hlist nowrap\"><ul><li><a href=\"https://en.wikipedia.org/wiki/About_the_Sandbox\" class=\"extiw\" title=\"wikipedia:About the Sandbox\">About</a></li><li><a href=\"https://en.wikipedia.org/wiki/Editor%27s_index_to_Wikipedia#Template\" class=\"extiw\" title=\"wikipedia:Editor&#39;s index to Wikipedia\">Template-related pages</a></li></ul></div> <a href=\"https://mediawiki.org/wiki/Help:Extension:ParserFunctions\" class=\"extiw\" title=\"mw:Help:Extension:ParserFunctions\">Parser functions help</a>\n<p><b>Sandbox games</b><br />\n<a href=\"https://en.wikipedia.org/wiki/Department_of_Fun/Word_Association\" class=\"extiw\" title=\"wikipedia:Department of Fun/Word Association\">Word Association</a>\n</p>\n</div>\n</td></tr></tbody></table>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:Template sandbox heading/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGVtcGxhdGVfc2FuZGJveF9oZWFkaW5nL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:Template_sandbox_heading/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:Template sandbox heading/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGVtcGxhdGVfc2FuZGJveF9oZWFkaW5nL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:Template sandbox heading/doc</span></div>\n<!-- \nNewPP limit report\nCached time: 20261119205512\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.044 seconds\nReal time usage: 0.068 seconds\nPreprocessor visited node count: 288/1000000\nPost‐expand include size: 3023/2097152 bytes\nTemplate argument size: 207/2097152 bytes\nHighest expansion depth: 10/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 12/5000000 bytes\nLua time usage: 0.005/7.000 seconds\nLua memory usage: 640278/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   42.136      1 -total\n 60.80%   25.619      2 Template:Hlist\n 27.94%   11.772      1 Template:Transclude\n 13.79%    5.809      1 Template:Tlg\n  5.83%    2.456      1 Template:Documentation\n  4.58%    1.931      2 Template:Braces\n  3.52%    1.482     12 Template:Tl\n  2.88%    1.213      1 Template:!))\n  2.64%    1.112      1 Template:!((\n  2.46%    1.038      1 Template:Template_sandbox_heading/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:683-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205512 and revision id 951. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Template sandbox",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Template sandbox heading/doc",
+      "ns": 10
+    },
+    {
+      "*": "T:TS",
+      "exists": "",
+      "ns": 0
+    }
+  ],
+  "page_id": 683,
+  "revision_id": 951,
+  "title": "Template:Template sandbox heading"
+}

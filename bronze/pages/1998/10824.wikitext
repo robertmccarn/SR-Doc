@@ -1,0 +1,38 @@
+{{Infobox country
+|conventional_long_name = Central Eurasian Union
+|national_motto = 
+|national_anthem = 
+|capital = Chelyabinsk
+|largest_city = Samara
+|languages = English, Russian
+|languages_type = Official languages
+|government_type = Federal presidential constitutional republic
+|leader_title1 = President
+|leader_name1 = 
+|legislature = National Duma 
+|upper_house = High Senate
+|lower_house = State Duma 
+|established_event1 = Founded
+|sovereignty_type = Unification
+|established_event2 = 
+|established_date1 = October 16, 2156
+|established_event3 =  
+|established_date2 = 
+|established_event4 = 
+|established_date3 =
+|established_date4 = 
+|area_rank = 6th
+|area_sq_mi = 
+|population_estimate = 91 Million
+|population_estimate_year = 2160
+|population_estimate_rank = 
+|currency = United States Dollar ($)
+|currency_code = USD
+|image_flag = Central_Eurasian_Union.png
+|image_coat = Ural_CoA.png
+|leader_title2 = Vice President
+|leader_name2 = 
+}}
+
+The Central Eurasian Union is an [[associated state]] of the [[United States of America|United States]].
+[[Category:Associated states]]

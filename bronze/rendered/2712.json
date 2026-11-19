@@ -1,0 +1,15 @@
+{
+  "categories": [
+    {
+      "*": "Pages_with_broken_file_links",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><figure class=\"thumb  \" typeof=\"mw:File/Thumb\" style=\"width: 220px\"> \t<a href=\"/wiki/Special:Upload?wpDestFile=Placeholder\" class=\"new\" title=\"File:Placeholder\"><span class=\"mw-file-element mw-broken-media\">File:Placeholder</span></a> \t \t<figcaption class=\"thumbcaption\"> \t</figcaption> </figure>\n<p>This is your user page. Please edit this page to tell the community about yourself!\n</p>\n<h2><span class=\"mw-headline\" id=\"My_favorite_pages\">My favorite pages</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a title=\"Sign in to edit\" class=\"mw-editsection-visualeditor\" data-tracking-label=\"log-in-edit-section\" data-action=\"edit-section\" href=\"https://auth.fandom.com/signin?redirect=https%3A%2F%2Fsecond-renaissance.fandom.com%2Fwiki%2FUser%3AContracorriente12%3Fveaction%3Dedit%26section%3D1&amp;uselang=en&amp;metadata=article-registration-edit-article-section\" data-auth-modal=\"signin\" data-testid=\"log-in-edit-section\" aria-label=\"Sign in to edit\"><svg class=\"wds-icon wds-icon-tiny\" aria-hidden=\"true\" focusable=\"false\"><use xlink:href=\"#wds-icons-pencil-tiny\"></use></svg></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<ul><li>Add links to your favorite pages on the wiki here!</li>\n<li>Favorite page #2</li>\n<li>Favorite page #3</li></ul>\n<!-- \nNewPP limit report\nCached time: 20261119205850\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 3/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:2712-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205850 and revision id 7819. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [],
+  "page_id": 2712,
+  "revision_id": 7819,
+  "title": "User:Contracorriente12"
+}

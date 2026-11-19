@@ -1,0 +1,26 @@
+---
+page_id: 2589
+revision_id: 8024
+source_url: https://second-renaissance.fandom.com/wiki/Constructors
+raw_sha256: b00c0721bc710d3d22e4f873765702ef34c09800913396109c374acdfecabfe3
+---
+
+# Constructors
+
+## Preserved source
+
+```wikitext
+
+'''"Constructors" '''is the common name given to the only sapient species known to have lived on the colony moon Valhalla, which orbits a gas giant planet around the star Upsilon Andromedae. Unlike most alien vanished species, which are known only from a handful of ancient ruins and fossils, the biology, culture, and even languages of the Constructors are quite well known. Their civilization seemingly disappeared less than 400 years before humans arrived on Valhalla, and the reason why has yet to be adequately explained. The invention of the [chronoscope](https://second-renaissance.fandom.com/wiki/chronoscope) has been proposed as solution to this.
+# Evolution
+Much of what is known about the Constructors biologically is based on their nearest living relatives, which are as close to them as chimpanzees are to humans. All "vertebrates" on Valhalla descended from a radially symmetrical ancestor not unlike a starfish, with a mouth on the end of a ventral proboscis and five eyes on stalks. Some of these creature developed secondary bilateral symmetry, moving on only four limbs and using the fifth as a supportive "tail", but others retained the ancestral five-limbed body plan. One of the latter evolved into a clade of flexible, intelligent omnivores, capable of manipulating tools with all five of their limbs, and this quickly led to sapience. 
+# Culture
+From what is known about the Constructors, it is believed that they originated around 1 million years ago, making them as a species significantly older than humanity. However, their technological progress was much more slow-paced--they evidently went several centuries between their first powered flight and their first spacecraft. This was largely due to their cultural fear of the unknown, which is evident in much of their writing and art that has survived. They also did not develop nuclear weapons, so the means by which they exterminated themselves (if that is indeed what happened) are unclear.
+# Theories of Disappearance
+The Constructors, despite being a long-lived and advanced species, inexplicably disappeared from Valhalla around 1700 AD. The conventional explanation is that a disease outbreak--perhaps facilitated by biological warfare-- killed them off. However, other explanations have also been suggested from time to time. Since the Constructors apparently were developing space travel at the time of their extinction, it has been proposed by some archaeologists that perhaps they are ''not'' extinct, but merely evacuated their planet for unknown reasons.
+[Category:Alien species](1458-category-alien-species.md)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/2589/8024.wikitext` · revision `8024` · [upstream](https://second-renaissance.fandom.com/wiki/Constructors)

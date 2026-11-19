@@ -1,0 +1,3 @@
+Republican<noinclude>
+[[Category:United States Republican Party shortname templates|{{PAGENAME}}]]
+</noinclude>

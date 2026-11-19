@@ -1,0 +1,4337 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "152": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1078,
+        "length": 178,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Pp-template/doc"
+          }
+        ],
+        "ns": 10,
+        "pageid": 152,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 206,
+            "revid": 1078,
+            "slots": {
+              "main": {
+                "*": "<includeonly>{{#invoke:Protection banner|main}}</includeonly><noinclude>\n{{documentation}}\n<!-- Categories go on the /doc subpage, and interwikis go on Wikidata. -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-29T05:14:16Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Pp-template/doc"
+          }
+        ],
+        "title": "Template:Pp-template",
+        "touched": "2015-08-29T05:14:16Z"
+      },
+      "153": {
+        "contentmodel": "wikitext",
+        "lastrevid": 208,
+        "length": 848,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Composition bar/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "ns": 10,
+        "pageid": 153,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 207,
+            "revid": 208,
+            "slots": {
+              "main": {
+                "*": "<div style=\"border: {{{border-width|1px}}} solid {{{border-color|#c0c0c0}}}; background-color: {{{background-color|#f0f0f0}}}; width: {{{width|100}}}px; height: 1.5em;\"><div style=\"position: absolute; background-color:{{#if:{{both|{{{4|}}}|{{{5|}}}}}\n    |rgb({{#expr:255*{{{3|255}}}}},{{#expr:255*{{{4|0}}}}},{{#expr:255*{{{5|0}}}}})\n    |{{{hex|{{{3|#CCCCCC}}}}}} }}; width: {{#expr:floor({{{width|100}}}*{{{1|{{#expr:{{{width|100}}}/2}}}}}/{{{2|{{{width|100}}}}}})}}px; height: 1.5em;\"></div><div style=\"position: absolute; font-weight: bold; width: {{{width|100}}}px; height: 1.5em; text-align: center; z-index: 5; color: {{{color|#000}}};\">{{formatnum:{{{1|50}}}}}&nbsp;/&nbsp;{{formatnum:{{{2|100}}}}}{{#if:{{{per|}}}|&nbsp;&nbsp;&nbsp;({{#expr:(({{{1|50}}}/{{{2|100}}})*100)round 0}}%)}}</div></div><noinclude>\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T18:33:16Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Both"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Composition bar"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Composition bar/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Composition bar",
+        "touched": "2015-08-08T21:15:37Z"
+      },
+      "154": {
+        "contentmodel": "wikitext",
+        "lastrevid": 242,
+        "length": 501,
+        "ns": 10,
+        "pageid": 154,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 210,
+            "revid": 242,
+            "slots": {
+              "main": {
+                "*": "{| \n|-\n! Code !! Result\n|-\n| style=\"font-size: 95%\"| <code><nowiki>{{Composition bar|50|100|red}}</nowiki></code>\n| {{Composition bar|50|100|red}}\n|-\n| style=\"font-size: 95%\"| <code><nowiki>{{Composition bar|50|100|red|color=#FFFFFF}}</nowiki></code>\n| {{Composition bar|50|100|red|color=#FFFFFF}}\n|-\n| style=\"font-size: 95%\"| <code><nowiki>{{Composition bar|50|100|red|color=#FFFFFF|background-color=#000000}}</nowiki></code>\n| {{Composition bar|50|100|red|color=#FFFFFF|background-color=#000000}}\n|}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T19:59:24Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Both"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Composition bar"
+          }
+        ],
+        "title": "Template:Composition bar/doc",
+        "touched": "2015-08-08T21:15:37Z"
+      },
+      "155": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Wikipedia progress templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 211,
+        "length": 900,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progress templates/doc"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Template"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 155,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 211,
+            "slots": {
+              "main": {
+                "*": "{{Navbox\n| name       = Progress templates\n| title      = Progress templates\n| bodyclass  = hlist\n| state      = {{{state|{{{1|}}}}}}\n\n| group1     = General progress templates\n| list1      =\n*{{tl|Progress bar}}\n*{{tl|Progression}}\n*{{tl|Composition bar}}\n*{{tl|Composition histogram}}\n*{{tl|Percentage bar}}\n*{{tl|Percent-done}}\n*{{tl|Progress meter}}\n*{{tl|Percentile}}\n\n| group2     = Specific-use templates\n| list2      =\n*{{tl|Progress}}\n*{{tl|Backlog progress bar}}\n*{{tl|Progress box}}\n*{{tl|Stage short}}\n*{{tl|Progression rainbow}}\n*{{Tl|WikiProject progression rainbow}}\n\n|belowstyle = font-weight:bold;\n|below = \n* {{icon|category}} [[:Category:Wikipedia progress templates|Category]]\n* {{icon|list}} [[Wikipedia:List of progress boxes|List]] <small>(partial)</small>\n}}<noinclude>\n\n{{Documentation}}\n<!-- PLEASE ADD THIS TEMPLATE'S CATEGORIES TO THE /doc SUBPAGE, THANKS -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T18:35:58Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Collapsible option"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation subpage"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Navbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Para"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progress templates/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Template other"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Navbar"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Navbox"
+          }
+        ],
+        "title": "Template:Progress templates",
+        "touched": "2015-08-29T05:33:08Z"
+      },
+      "156": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation pages"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Edit-copy green.svg"
+          }
+        ],
+        "lastrevid": 212,
+        "length": 317,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Progress templates"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Template"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 156,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 212,
+            "slots": {
+              "main": {
+                "*": "{{Documentation subpage}}\n<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->\n\n{{collapsible option|statename=optional}}\n\n<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||\n<!-- Categories go here, and interwikis go in Wikidata -->\n[[Category:Wikipedia progress templates| ]]\n}}</includeonly>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T18:36:27Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Collapsible option"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation subpage"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Namespace detect"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Para"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Template other"
+          }
+        ],
+        "title": "Template:Progress templates/doc",
+        "touched": "2015-09-01T04:28:09Z"
+      },
+      "157": {
+        "contentmodel": "wikitext",
+        "lastrevid": 213,
+        "length": 2118,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Collapsible option/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Template"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 157,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 213,
+            "slots": {
+              "main": {
+                "*": "'''How to manage this template's initial visibility'''<br />\nTo manage this template's visibility when it first appears, [[Help:Template#Parameters|add the parameter]]:\n:{{para|state|collapsed}} to show the template in its collapsed state, i.e. hidden apart from its titlebar&nbsp;– e.g. <code><nowiki>{{</nowiki><includeonly>{{</includeonly>BASEPAGENAME<includeonly>}}</includeonly><nowiki> |state=collapsed}}</nowiki></code>\n:{{para|state|expanded}} to show the template in its expanded state, i.e. fully visible&nbsp;– e.g. <code><nowiki>{{</nowiki><includeonly>{{</includeonly>BASEPAGENAME<includeonly>}}</includeonly><nowiki> |state=expanded}}</nowiki></code>\n:{{para|state|autocollapse}} to show the template in its collapsed state ''but only if'' there is another template of the same type on the page&nbsp;– e.g. <code><nowiki>{{</nowiki><includeonly>{{</includeonly>BASEPAGENAME<includeonly>}}</includeonly><nowiki> |state=autocollapse}}</nowiki></code>\n\nUnless set otherwise (see the {{para|state}} parameter in the template's code), the template's default state is <code>{{#switch:{{{default|}}}|collapsed=collapsed|expanded=expanded|autocollapse|#default=autocollapse}}</code>.<!--\n-->{{#if:{{{align|}}}|\n:{{para|align|''value''}} is also available; where ''value'' can be either <code>right</code> or <code>left</code>. The default is <code>center</code>\n}}{{#if:{{{title-background|}}}|:{{para|title-background|''value''}} is also available; where ''value'' can be either <code>navbox</code> or a <code>color</code>. The default is <code>none</code> and <code>navbox</code> defaults to the default navbox color.\n}}{{#if:{{{width|}}}|\n:{{para|width|''value''}} is also available; where ''value'' can be either <code>N [em/%/px]</code> or <code>auto</code>. The default is <code>100%</code>\n}}<!--\nAdd {{pp-template}} if template page where this template is transcluded is protected:\n-->{{template other\n    | {{#if:{{PROTECTIONLEVEL:edit}} |{{pp-template|docusage=yes}}\n       | {{#if:{{PROTECTIONLEVEL:move}} |{{pp-move|docusage=yes|small=yes}} }}\n   }} }}<noinclude>\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T18:37:06Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Collapsible option/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Para"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Template other"
+          }
+        ],
+        "title": "Template:Collapsible option",
+        "touched": "2015-08-08T18:38:49Z"
+      },
+      "158": {
+        "contentmodel": "wikitext",
+        "lastrevid": 214,
+        "length": 267,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Para/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 158,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 214,
+            "slots": {
+              "main": {
+                "*": "<code class=\"nowrap\" {{#if:{{{plain|}}}|style=\"border:none;background-color:inherit;color:inherit;\"}}>&#124;{{#if:{{{1|}}}|{{{1}}}&#61;}}{{{2|}}}</code><noinclude>\n{{Documentation}}\n<!--Categories and interwikis go near the bottom of the /doc subpage.-->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T18:37:40Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Para/doc"
+          }
+        ],
+        "title": "Template:Para",
+        "touched": "2015-08-08T18:37:40Z"
+      },
+      "159": {
+        "contentmodel": "wikitext",
+        "lastrevid": 215,
+        "length": 435,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Template other/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 159,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 215,
+            "slots": {
+              "main": {
+                "*": "{{#switch:\n  <!--If no or empty \"demospace\" parameter then detect namespace-->\n  {{#if:{{{demospace|}}}\n  | {{lc: {{{demospace}}} }}    <!--Use lower case \"demospace\"-->\n  | {{#ifeq:{{NAMESPACE}}|{{ns:Template}}\n    | template\n    | other\n    }}\n  }}\n| template = {{{1|}}}\n| other\n| #default = {{{2|}}}\n}}<!--End switch--><noinclude>\n\n{{documentation}}\n<!-- Add categories and interwikis to the /doc subpage, not here! -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T18:38:24Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Template other/doc"
+          }
+        ],
+        "title": "Template:Template other",
+        "touched": "2015-08-08T18:38:24Z"
+      },
+      "160": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:TemplateData documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 216,
+        "length": 391,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:TemplateDataHeader/doc"
+          },
+          {
+            "ns": 14,
+            "title": "Category:TemplateData documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 160,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 216,
+            "slots": {
+              "main": {
+                "*": "<div class=\"templatedata-header\">{{#if:{{{noheader|}}}| |This is the [[Wikipedia:TemplateData|TemplateData]] documentation for this template used by [[Wikipedia:VisualEditor|VisualEditor]] and other tools.}}\n\n'''{{{1|{{BASEPAGENAME}}}}}'''\n</div><includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||\n[[Category:TemplateData documentation]]\n}}</includeonly><noinclude>\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T18:40:08Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation subpage"
+          },
+          {
+            "ns": 10,
+            "title": "Template:TemplateDataHeader"
+          },
+          {
+            "ns": 10,
+            "title": "Template:TemplateDataHeader/doc"
+          }
+        ],
+        "title": "Template:TemplateDataHeader",
+        "touched": "2015-08-29T05:33:08Z"
+      },
+      "161": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:TemplateData documentation"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Template documentation pages"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Edit-copy green.svg"
+          }
+        ],
+        "lastrevid": 217,
+        "length": 1004,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:TemplateDataHeader"
+          },
+          {
+            "ns": 14,
+            "title": "Category:TemplateData documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 161,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 217,
+            "slots": {
+              "main": {
+                "*": "{{Documentation subpage}}\n<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->\n\nInserts a brief header for the template data section. Adds the page to [[:Category:TemplateData documentation]].\n\n== Usage ==\n<pre>\n==TemplateData== or ==Parameters== or ==Usage==\n{{TemplateDataHeader}}\n<templatedata>{\n...\n}</templatedata>\n</pre>\n\nUse <code><nowiki>{{TemplateDataHeader|Template name}}</nowiki></code> if you want an alternative name for the template to be displayed.\n\n==Parameters==\n{{TemplateDataHeader}}\n<templatedata>{\n  \"description\": \"Inserts a brief header for the template data section. Adds the page to [[Category:TemplateData documentation]]\",\n  \"params\": {\n    \"1\": {\n      \"label\": \"Template name\",\n      \"description\": \"The name of the template to display. Default is {{BASEPAGENAME}}.\",\n      \"type\": \"string\",\n      \"required\": false\n    }\n  }\n}</templatedata>\n\n==See also==\n\n<includeonly>\n<!-- Categories go here, and interwikis go in Wikidata -->\n\n</includeonly>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T18:40:38Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation subpage"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Namespace detect"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:TemplateDataHeader"
+          }
+        ],
+        "title": "Template:TemplateDataHeader/doc",
+        "touched": "2015-09-01T04:28:09Z"
+      },
+      "162": {
+        "contentmodel": "wikitext",
+        "lastrevid": 218,
+        "length": 766,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tld/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 162,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 218,
+            "slots": {
+              "main": {
+                "*": "{{Tlg|code=yes|nolink=yes|subst={{{subst|}}}|nowrap={{#if:{{{allowlinebreak|}}}||yes}}|{{{1|}}}<!--\n-->|2{{#ifeq:{{{2}}}|{{{2|x}}}||x}}={{{2}}}<!--\n-->|3{{#ifeq:{{{3}}}|{{{3|x}}}||x}}={{{3}}}<!--\n-->|4{{#ifeq:{{{4}}}|{{{4|x}}}||x}}={{{4}}}<!--\n-->|5{{#ifeq:{{{5}}}|{{{5|x}}}||x}}={{{5}}}<!--\n-->|6{{#ifeq:{{{6}}}|{{{6|x}}}||x}}={{{6}}}<!--\n-->|7{{#ifeq:{{{7}}}|{{{7|x}}}||x}}={{{7}}}<!--\n-->|8{{#ifeq:{{{8}}}|{{{8|x}}}||x}}={{{8}}}<!--\n-->|9{{#ifeq:{{{9}}}|{{{9|x}}}||x}}={{{9}}}<!--\n-->|10{{#ifeq:{{{10}}}|{{{10|x}}}||x}}={{{10}}}<!--\n-->|11{{#ifeq:{{{11}}}|{{{11|x}}}||x}}={{{11}}}<!--\n-->|12{{#ifeq:{{{12}}}|{{{12|x}}}||x}}={{{12}}}}}<noinclude>\n{{Documentation|Template:Tlc/doc}}\n<!-- Add categories and interwikis to the /doc subpage, not here! -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T18:44:41Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tld/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlg"
+          }
+        ],
+        "title": "Template:Tld",
+        "touched": "2015-08-08T20:33:35Z"
+      },
+      "163": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Internal template-link templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages using invalid self-closed HTML tags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Typing-aid templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 219,
+        "length": 2613,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Fr:Template:hatnote"
+          },
+          {
+            "ns": 0,
+            "title": "Monospaced font"
+          },
+          {
+            "ns": 0,
+            "title": "Word wrap"
+          },
+          {
+            "ns": 2,
+            "title": "User:Ahunt/SSHFS"
+          },
+          {
+            "ns": 10,
+            "title": "Template:AbC"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Abc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hatnote"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hatnote/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hatnote/sandbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hatnote/testcases"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Lts"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Para"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T links"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Template-linking templates"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tetl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tfd links"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ti"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tic"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tiw"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tla"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlb"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tld"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlf"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlg/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlp"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tls"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlsp"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlt"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltss"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltt"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltt2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltts"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltts3"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlu"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlx"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlxb"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlxi"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlxs"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tn"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tnull"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tsetl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ttl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Twlh"
+          },
+          {
+            "ns": 10,
+            "title": "Template:X0"
+          },
+          {
+            "ns": 10,
+            "title": "Template:X1"
+          },
+          {
+            "ns": 10,
+            "title": "Template:X2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:X3"
+          },
+          {
+            "ns": 10,
+            "title": "Template:X4"
+          },
+          {
+            "ns": 10,
+            "title": "Template:X5"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd"
+          },
+          {
+            "ns": 11,
+            "title": "Template talk:Hatnote"
+          },
+          {
+            "ns": 11,
+            "title": "Template talk:Template-linking templates"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Substitution"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Hatnote"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 163,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 219,
+            "slots": {
+              "main": {
+                "*": "<includeonly><!--\n -->{{#if:{{{nowrap|}}}        |<span class=\"nowrap\">}}<!--\n -->{{#if:{{{code|{{{tt|}}}}}} |<code> |{{#if:{{{plaincode|}}}|<code style=\"border:none;background:transparent;\">}} }}<!--\n -->{{#if:{{{braceinside|}}}   | |<nowiki>{{</nowiki>}}<!--\n -->{{#if:{{{subst|}}}         |[[Help:Substitution|subst]]:}}<!--\n\n -->{{#if:{{{bold|{{{boldlink|{{{boldname|}}}}}}}}} |'''}}<!--\n -->{{#if:{{{nolink|}}} |<!--then omit template link, else:\n  -->| {{#if:{{{braceinside|}}} |<nowiki>{</nowiki>}}<!--\n       -->{{!((}}:<!--(start building link with \"[[:\")\n                   -->{{#ifeq:{{padleft:|1|{{{1}}}}}|: <!--i.e. if {{{1}}}'s first character is a colon,\n              then:--> |{{FULLPAGENAME:{{{1}}}}}<!--\n              else:--> |{{#switch:{{NAMESPACE:{{#if:{{{1|}}}|{{{1}}}|{{FULLPAGENAME}}}}}}\n                         | {{ns:0}} = {{ns:10}}:{{#if:{{{1|}}}|{{PAGENAME:{{{1}}}}}|{{PAGENAME}}}}\n                         | #default = {{#if:{{{1|}}}|{{FULLPAGENAME:{{{1}}}}}|{{FULLPAGENAME}}}}\n                      }}}}<!--\n       -->{{!}}<!--(pipe between link and label, i.e. [[:link|label]])\n -->}}<!--\n -->{{#if:{{{braceinside|}}} |<nowiki>{</nowiki>}}<!--\n label / template name:\n -->{{{alttext|{{#if:{{{1|}}}|{{{1}}}|{{#ifeq:{{NAMESPACE}}|{{ns:Template}}|{{PAGENAME}}|{{FULLPAGENAME}}}}}}}}}<!--\n -->{{#if:{{{braceinside|}}} |<nowiki>}</nowiki>}}<!--\n -->{{#if:{{{nolink|}}} | |<!--\n       -->{{!))}}<!--(end link)\n    -->{{#if:{{{braceinside|}}} |<nowiki>}</nowiki>}}<!-- \n -->}}<!--\n -->{{#if:{{{bold|{{{boldlink|{{{boldname|}}}}}}}}} |'''}}<!--\n\n -->{{#if:{{{italic|{{{italics|}}}}}} |<span style=\"font-style:italic;\">}}<!--\n -->{{#ifeq:{{{2|¬}}}|¬ | |&#124;{{#tag:nowiki|{{{2}}}}}}}<!--\n -->{{#ifeq:{{{3|¬}}}|¬ | |&#124;{{#tag:nowiki|{{{3}}}}}}}<!--\n -->{{#ifeq:{{{4|¬}}}|¬ | |&#124;{{#tag:nowiki|{{{4}}}}}}}<!--\n -->{{#ifeq:{{{5|¬}}}|¬ | |&#124;{{#tag:nowiki|{{{5}}}}}}}<!--\n -->{{#ifeq:{{{6|¬}}}|¬ | |&#124;{{#tag:nowiki|{{{6}}}}}}}<!--\n -->{{#ifeq:{{{7|¬}}}|¬ | |&#124;{{#tag:nowiki|{{{7}}}}}}}<!--\n -->{{#ifeq:{{{8|¬}}}|¬ | |&#124;{{#tag:nowiki|{{{8}}}}}}}<!--\n -->{{#ifeq:{{{9|¬}}}|¬ | |&#124;{{#tag:nowiki|{{{9}}}}}}}<!--\n -->{{#ifeq:{{{10|¬}}}|¬ | |&#124;{{#tag:nowiki|{{{10}}}}}}}<!--\n -->{{#ifeq:{{{11|¬}}}|¬ | |&#124;{{#tag:nowiki|{{{11}}}}}}}<!--\n -->{{#if:{{{12|}}} |&#124;…}}<!--\n -->{{#if:{{{italic|{{{italics|}}}}}} |</span>}}<!--\n\n -->{{#if:{{{braceinside|}}} | |<nowiki>}}</nowiki>}}<!--\n -->{{#if:{{{code|{{{tt|}}}}}}{{{plaincode|}}} |</code>}}<!--\n -->{{#if:{{{nowrap|}}} |</span>}}<!--\n--></includeonly><noinclude>\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T18:45:28Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!(("
+          },
+          {
+            "ns": 10,
+            "title": "Template:!))"
+          },
+          {
+            "ns": 10,
+            "title": "Template:1x"
+          },
+          {
+            "ns": 10,
+            "title": "Template:="
+          },
+          {
+            "ns": 10,
+            "title": "Template:Align"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Aligned table"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Big"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Clear"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Code"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation subpage"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hatnote"
+          },
+          {
+            "ns": 10,
+            "title": "Template:If"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Lts"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Middot"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mono"
+          },
+          {
+            "ns": 10,
+            "title": "Template:N/a"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Navbar"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Nowrap"
+          },
+          {
+            "ns": 10,
+            "title": "Template:P1"
+          },
+          {
+            "ns": 10,
+            "title": "Template:P2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Para"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Plainlist"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Resize"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Small"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Smaller"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T links"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tag"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Template-linking templates"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tetl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tfd links"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ti"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tic"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tiw"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlf"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlg"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlg/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlt"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltt"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlu"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlx"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Toolbar"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tsetl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ttl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Twlh"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Void"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd/code"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd/url"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd/w"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd1"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Aligned table"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Hatnote"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Navbar"
+          },
+          {
+            "ns": 828,
+            "title": "Module:TableTools"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Toolbar"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Yesno"
+          }
+        ],
+        "title": "Template:Tlg",
+        "touched": "2021-03-29T19:41:22Z"
+      },
+      "164": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages using invalid self-closed HTML tags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Template documentation pages"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Edit-copy green.svg"
+          }
+        ],
+        "lastrevid": 220,
+        "length": 6041,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Fr:Template:hatnote"
+          },
+          {
+            "ns": 0,
+            "title": "Monospaced font"
+          },
+          {
+            "ns": 0,
+            "title": "Word wrap"
+          },
+          {
+            "ns": 2,
+            "title": "User:Ahunt/SSHFS"
+          },
+          {
+            "ns": 10,
+            "title": "Template:AbC"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Abc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hatnote"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hatnote/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hatnote/sandbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hatnote/testcases"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Lts"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Para"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T links"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Template-linking templates"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tetl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tfd links"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ti"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tic"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tiw"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tla"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlb"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tld"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlf"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlg"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlp"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tls"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlsp"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlt"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltss"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltt"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltt2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltts"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltts3"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlu"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlx"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlxb"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlxi"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlxs"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tn"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tnull"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tsetl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ttl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Twlh"
+          },
+          {
+            "ns": 10,
+            "title": "Template:X0"
+          },
+          {
+            "ns": 10,
+            "title": "Template:X1"
+          },
+          {
+            "ns": 10,
+            "title": "Template:X2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:X3"
+          },
+          {
+            "ns": 10,
+            "title": "Template:X4"
+          },
+          {
+            "ns": 10,
+            "title": "Template:X5"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd"
+          },
+          {
+            "ns": 11,
+            "title": "Template talk:Hatnote"
+          },
+          {
+            "ns": 11,
+            "title": "Template talk:Template-linking templates"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Substitution"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Hatnote"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 164,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 220,
+            "slots": {
+              "main": {
+                "*": "{{Documentation subpage}}\n<!-- PLEASE ADD CATEGORIES WHERE INDICATED AT THE BOTTOM OF THIS PAGE -->\n\n{{tl|tlg}} (abbreviating \"[t]emplate [l]ink {{small|(with)}} [g]eneral {{small|(options)}}\") is a generalised version of the {{tl|tl}} (\"template link\") template. It can be used to replace or implement {{tlf|tl}} and related templates such as {{tl|tlb}}, {{tl|tlx}}, etc.\n\n===Parameters===\n; {{big|Named}}\nWith the exception of {{mono|alttext}}, {{tlf|tlg}}'s named parameters are toggles that are either omitted (default) or activated (by being assigned a value such as \"on\", \"yes\", \"true\", \"include\", etc). They may be included in any order (see Examples below):\n{| class=\"wikitable\"\n! Parameter || Action || As in\n|-\n | braceinside || Include innermost braces as part of the template link                             || {{tl|tlw}}\n|-\n | bold<br/>boldlink<br/>boldname || Renders the template link/name in '''bold'''                   || {{tl|tlb}} {{tl|tlx}} etc.\n|-\n | code        || Display output using the ([[Monospaced font|monospaced]]) HTML <nowiki><code></nowiki> formatting || {{tl|tlc}} {{tl|tlx}} etc.\n|-\n | italic<br/>italics || Display any parameters accompanying the template link/name in ''italic/s'' || {{tl|tlxi}}\n|-\n | nolink      || Don't render the template name as a link                                          || {{tl|tln}}\n|-\n | nowrap      || Prevent the insertion of line breaks ([[word wrap]]) in the output                || \n|-\n | subst       || Include a [[Help:Substitution|subst:]] prefix before the template link/name       || {{tl|tls}}\n|-\n | <nowiki>|alttext=[text]</nowiki> || Use [text] as the label for the template link  || {{tl|tla}}\n|}\n\n; {{big|Unnamed}}\n{{tlf|tlg}} may take up to ten unnamed parameters as parameters accompanying the template link (or name); see Examples below.\n\n===Examples===\n{{#switch:{{SITENAME}} |Wikipedia|Meta= |\n; Note: On the source sister projects, en.wikipedia and Meta, '''X0, X1, X2, …, X9 are sandbox templates''' for experimentation on involved templates that need be in template space. An auto-cleansing software facility exists that might be used to duplicate the facility on other Sister projects.\n}}\n{{Aligned table\n |cols=3 |class=wikitable |style=border:1;cellpadding:4;\n | '''Code'''                         | '''Output'''               | '''Remarks'''\n | {{tlx|tlg|Abc}}                    | {{tlg|Abc}}                | \n | {{tlx|tlg|abC}}                    | {{tlg|abC}}                | template names are case-sensitive\n | {{tlx|tlg|abc}}                    | {{tlg|abc}}                | first letter is case-insensitive though\n | {{tlx|tlg|x0}}                     | {{tlg|x0}}                 | \n | {{tlx|tlg|x0|code{{=}}on}}         | {{tlg|x0|code=on}}         | &lt;code&gt; style\n | {{tlx|tlg|x0|plaincode{{=}}on}}    | {{tlg|x0|plaincode=on}}    | plaincode style\n | {{tlx|tlg|x0|bold{{=}}on}}         | {{tlg|x0|bold=on}}         | bold link/name\n | {{tlx|tlg|x1|one|italic{{=}}on}}   | {{tlg|x1|one|italic=on}}   | parameter/s in italics\n | {{tlx|tlg|x0|nolink{{=}}on}}       | {{tlg|x0|nolink=on}}       | \n | {{tlx|tlg|x0|subst{{=}}on}}        | {{tlg|x0|subst=on}}        | \n | {{tlx|tlg|x0|braceinside{{=}}on}}  | {{tlg|x0|braceinside=on}}  | \n | {{tlx|tlg|x0|alttext{{=}}x0 link}} | {{tlg|x0|alttext=x0 link}} | \n | {{tlx|tlg|x0|bold{{=}}on|code{{=}}on|braceinside{{=}}on}} | {{tlg|x0|bold=on|code=on|braceinside=on}} | No reason you can't combine multiple parameter settings\n | {{tlx|tlg|x1|one}}                 | {{tlg|x1|one}}             | \n | {{tlx|tlg|x2|one|two}}             | {{tlg|x2|one|two}}         | \n | {{tlx|tlg|x2|bold{{=}}on|code{{=}}on|one|two}} | {{tlg|x2|bold=on|code=on|one|two}} | Can combine named and anonymous parameters …\n | {{tlx|tlg|x2|one|two|bold{{=}}on|code{{=}}on}} | {{tlg|x2|one|two|bold=on|code=on}} | … in any order …\n | {{tlx|tlg|x2|one|code{{=}}on|two|bold{{=}}on|three}} | {{tlg|x2|one|code=on|two|bold=on|three}} | … even intermixed …\n | {{tlx|tlg|x2|one|code{{=}}on|two|bold{{=}}on|three|italic{{=}}on}} | {{tlg|x2|one|code=on|two|bold=on|three|italic=on}} | … with many different configurations.\n | {{tlx|tlg|x3|1|2|3|4|5|6|7|8|9&#124;10}}               | {{tlg|x3|1|2|3|4|5|6|7|8|9|10}}      | \n | {{tlx|tlg|x4|1|2|3|4|5|6|7|8|9&#124;10&#124;11}}       | {{tlg|x4|1|2|3|4|5|6|7|8|9|10|11}}   | up to 10 parameters, then …\n | {{tlx|tlg|x5|1|2|3|4|5|6|7|8|9&#124;10&amp;#124;11}}   | {{tlg|x5|1|2|3|4|5|6|7|8|9|10&#124;11}} | {{align|right|<code>&amp;#124;</code> for more}}\n | {{tlx|tlg}}                                            | {{tlg}}                              | with no arguments, the current page name is substituted\n | {{tlx|tlg|x1|x&#61;u}}                                 | {{tlg|x1|x{{=}}u}}                   | '''{{=}}''' won't work\n | {{tlx|tlg|x1|x&amp;#61;u}}                             | {{tlg|x1|x&#61;u}}                   | {{align|right|<code>&amp;#61;</code> is okay}}\n | {{tlx|tlg|x1|x<nowiki>{{=}}</nowiki>u}}                | {{tlg|x1|x{{=}}u}}                   | {{align|right|<code><nowiki>{{=}}</nowiki></code> is okay}}\n | {{tlx|tlg|x1|x&lt;nowiki&gt;&#61;&lt;/nowiki&gt;u}}    | {{tlg|x1|x<nowiki>=</nowiki>u}}      | {{align|right|sticky nowiki is okay}}\n | {{tlx|tlg|x2|<nowiki />|two|<nowiki />|<nowiki />}}    | {{tlg|x2||two||}}                    | empty parameters work too, even at the end\n | {{tlx|tlg|x2|<nowiki>2=one</nowiki>|two}}              | {{tlg|x2|2{{=}}one|two}}             | '''two''' clobbers '''2{{=}}one'''\n | {{tlx|tlg|x2|<nowiki>3=two</nowiki>|<nowiki>2=one</nowiki>}} | {{tlg|x2|3{{=}}two|2{{=}}one}} | {{align|right|right to left okay}}\n}}\n; Unlimited parameters as one nowiki string\n{{tlx|tlg|convert|<nowiki>&lt;nowiki>14|m|ftin|abbr=out|sp=us&lt;/nowiki></nowiki>}}\n\n== See also ==\n{{Template-linking templates}}\n\n<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox |\n| <!-- CATEGORIES BELOW THIS LINE, PLEASE: -->\n[[Category:Internal template-link templates]]\n[[Category:Typing-aid templates]]\n}}</includeonly>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T18:45:45Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!(("
+          },
+          {
+            "ns": 10,
+            "title": "Template:!))"
+          },
+          {
+            "ns": 10,
+            "title": "Template:1x"
+          },
+          {
+            "ns": 10,
+            "title": "Template:="
+          },
+          {
+            "ns": 10,
+            "title": "Template:Align"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Aligned table"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Big"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Clear"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Code"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation subpage"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hatnote"
+          },
+          {
+            "ns": 10,
+            "title": "Template:If"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Lts"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Middot"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mono"
+          },
+          {
+            "ns": 10,
+            "title": "Template:N/a"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Namespace detect"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Navbar"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Nowrap"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:P1"
+          },
+          {
+            "ns": 10,
+            "title": "Template:P2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Para"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Plainlist"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Resize"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Small"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Smaller"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T links"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tag"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Template-linking templates"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tetl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tfd links"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ti"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tic"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tiw"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlf"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlg"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlt"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltt"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlu"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlx"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Toolbar"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tsetl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ttl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Twlh"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Void"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd/code"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd/url"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd/w"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd1"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Aligned table"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Hatnote"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Navbar"
+          },
+          {
+            "ns": 828,
+            "title": "Module:TableTools"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Toolbar"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Yesno"
+          }
+        ],
+        "title": "Template:Tlg/doc",
+        "touched": "2021-03-29T19:41:22Z"
+      },
+      "165": {
+        "contentmodel": "wikitext",
+        "lastrevid": 221,
+        "length": 177,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Big/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 165,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 221,
+            "slots": {
+              "main": {
+                "*": "<span style=\"font-size: 120%;\">{{{1}}}</span><noinclude>\n{{Documentation}}\n<!-- Please add categories to the /doc subpage; interwikis go to Wikidata, thank you. -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T18:46:22Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Big/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Big",
+        "touched": "2015-08-08T18:46:22Z"
+      },
+      "166": {
+        "contentmodel": "wikitext",
+        "lastrevid": 222,
+        "length": 145,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Small/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 166,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 222,
+            "slots": {
+              "main": {
+                "*": "<small style=\"font-size:85%;\">{{{1}}}</small><noinclude>\n<!--Categories and interwikis go in the /doc sub-page.-->\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T18:47:19Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Small/doc"
+          }
+        ],
+        "title": "Template:Small",
+        "touched": "2015-08-08T18:47:19Z"
+      },
+      "167": {
+        "contentmodel": "wikitext",
+        "lastrevid": 225,
+        "length": 187,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mono/doc"
+          }
+        ],
+        "ns": 10,
+        "pageid": 167,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 223,
+            "revid": 225,
+            "slots": {
+              "main": {
+                "*": "<span style=\"font-family: monospace, monospace;\">{{{2|{{{1}}}}}}</span><noinclude>\n{{Documentation}}\n<!-- Categories go on the /doc subpage and interwikis go on Wikidata. -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T18:48:58Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mono/doc"
+          }
+        ],
+        "title": "Template:Mono",
+        "touched": "2015-08-08T18:48:58Z"
+      },
+      "168": {
+        "contentmodel": "wikitext",
+        "lastrevid": 224,
+        "length": 644,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlf/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 168,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 224,
+            "slots": {
+              "main": {
+                "*": "<span class=\"nowrap\">&#123;&#123;{{#if:{{{1|}}}|{{{1}}}| tlf&#124;...}}<!--\n-->{{#ifeq:{{{2|x}}}|{{{2|}}}| &#124;{{{2}}} | }}<!--\n-->{{#ifeq:{{{3|x}}}|{{{3|}}}| &#124;{{{3}}} | }}<!--\n-->{{#ifeq:{{{4|x}}}|{{{4|}}}| &#124;{{{4}}} | }}<!--\n-->{{#ifeq:{{{5|x}}}|{{{5|}}}| &#124;{{{5}}} | }}<!--\n-->{{#ifeq:{{{6|x}}}|{{{6|}}}| &#124;{{{6}}} | }}<!--\n-->{{#ifeq:{{{7|x}}}|{{{7|}}}| &#124;{{{7}}} | }}<!--\n-->{{#ifeq:{{{8|x}}}|{{{8|}}}| &#124;{{{8}}} | }}<!--\n-->{{#ifeq:{{{9|x}}}|{{{9|}}}| &#124;{{{9}}} | }}<!--\n-->&#125;&#125;</span><noinclude>\n\n{{documentation}}\n<!-- Add categories and interwikis to the /doc sub-page, not here! -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T18:48:41Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlf/doc"
+          }
+        ],
+        "title": "Template:Tlf",
+        "touched": "2015-08-08T18:48:41Z"
+      },
+      "169": {
+        "contentmodel": "wikitext",
+        "lastrevid": 226,
+        "length": 1051,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlx/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 169,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 226,
+            "slots": {
+              "main": {
+                "*": "<includeonly><!--\n    --><code><!--\n        --><nowiki>{{</nowiki>{{#if:{{{subst|}}} |[[Help:Substitution|subst]]:}}<!--\n                     -->[[{{{LANG|}}}{{{SISTER|}}}{{ns:Template}}:{{{1|}}}|{{{1|}}}]]<!--\n                          -->{{#if:{{{2|}}}  |&#124;{{{2}}}}}<!--\n                          -->{{#if:{{{3|}}}  |&#124;{{{3}}}}}<!--\n                          -->{{#if:{{{4|}}}  |&#124;{{{4}}}}}<!--\n                          -->{{#if:{{{5|}}}  |&#124;{{{5}}}}}<!--\n                          -->{{#if:{{{6|}}}  |&#124;{{{6}}}}}<!--\n                          -->{{#if:{{{7|}}}  |&#124;{{{7}}}}}<!--\n                          -->{{#if:{{{8|}}}  |&#124;{{{8}}}}}<!--\n                          -->{{#if:{{{9|}}}  |&#124;{{{9}}}}}<!--\n                          -->{{#if:{{{10|}}} |&#124;{{{10}}}}}<!--\n                          -->{{#if:{{{11|}}} |&#124;{{{11}}}}}<!--\n                          -->{{#if:{{{12|}}} |&#124;''…''}}<!--\n        --><nowiki>}}</nowiki><!--\n    --></code><!--\n--></includeonly><noinclude>\n{{Documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T18:50:16Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlx/doc"
+          }
+        ],
+        "title": "Template:Tlx",
+        "touched": "2015-08-08T18:50:16Z"
+      },
+      "170": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Lua-based templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages using invalid self-closed HTML tags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages with broken file links"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Table and column templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Lua-logo-nolabel.svg"
+          }
+        ],
+        "lastrevid": 227,
+        "length": 73,
+        "links": [
+          {
+            "ns": 0,
+            "title": "CSS styling"
+          },
+          {
+            "ns": 0,
+            "title": "HTML attribute"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Aligned table/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Sans-serif"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Var"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Table"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Aligned table"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 170,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 227,
+            "slots": {
+              "main": {
+                "*": "{{#invoke:aligned table|table}}<noinclude>\n{{documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T18:50:52Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Aligned table"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Aligned table/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation subpage"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Lua"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Nowrap"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Sans-serif"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tld"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlg"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Var"
+          },
+          {
+            "ns": 10,
+            "title": "Template:\\"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Aligned table"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/blacklist"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/config"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/data"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/shared"
+          },
+          {
+            "ns": 828,
+            "title": "Module:List"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Lua banner"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Message box"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Message box/configuration"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Namespace detect/config"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Namespace detect/data"
+          },
+          {
+            "ns": 828,
+            "title": "Module:No globals"
+          },
+          {
+            "ns": 828,
+            "title": "Module:TableTools"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Yesno"
+          }
+        ],
+        "title": "Template:Aligned table",
+        "touched": "2021-03-29T19:41:22Z"
+      },
+      "171": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages using invalid self-closed HTML tags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages with broken file links"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Template documentation pages"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Edit-copy green.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lua-logo-nolabel.svg"
+          }
+        ],
+        "lastrevid": 228,
+        "length": 6894,
+        "links": [
+          {
+            "ns": 0,
+            "title": "CSS styling"
+          },
+          {
+            "ns": 0,
+            "title": "HTML attribute"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Aligned table"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Sans-serif"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Var"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Table"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Aligned table"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 171,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 228,
+            "slots": {
+              "main": {
+                "*": "{{Documentation subpage}}\n{{Lua|icononly=on |Module:Aligned table}}\n<!----Please place categories where indicated at the bottom of this page and interwikis in Wikidata---->\nThe purpose is of this template is for generating simple tables in locations where [[Help:Table|standard table markup]] is either not possible, without significant use of the {{tld|!}} magic word (e.g., with a {{tl|sidebar}} template), or cumbersome (due to the repetitive use of specification of the same style statement in each row). This template should <u>not</u> be used to replace [[Help:Table|standard table markup]] in articles.  This template is meant to be complimentary to {{tl|infobox}} or {{tl|sidebar}}, and <u>not</u> a replacement for {{tl|infobox}} or {{tl|sidebar}}.\n\nA simpler method to include a table in a template that does not directly support table markup is to create the table in a sub-template using standard markup and transclude it.\n\n== Full syntax ==\n\nFor parameter explanations, see table below.\n\n<pre style=\"overflow:auto;\">\n{{Aligned table\n| cols =\n| fullwidth =\n| class =\n| style =\n| colwidth =\n| leftright =\n| colstyle =\n| rowstyle =\n\n<!--for Cth column:-->\n| colCwidth =\n| colCclass =\n| colCalign =\n| colCstyle =\n| colCnowrap =\n\n<!--for Rth row:-->\n| rowRclass =\n| rowRstyle =\n| rowRheader =\n\n<!--for cell R,C:-->\n| classR.C =\n| styleR.C =\n\n| (cell 1,1) | (cell 1,2) | ... | ...\n| (cell 2,1) | (cell 2,2) | ... | ...\n}}\n</pre>\n\n== Parameters ==\n\n{{Aligned table\n |cols=4 |class=wikitable |style=line-height:1.35em;\n |colstyle=padding-right:1.0em;\n |col2width=40.0em\n |col4style=padding-left:1.0em;text-align:center;\n\n |row1header=on\n | Parameter\n | Description\n | Examples\n | Default\n\n <!-------Overall-------->\n | cols\n | Number of columns in the table.\n | <code><nowiki> |cols=4 </nowiki></code>\n | 2\n\n | fullwidth\n | {{nowrap|Set to anything (\"on\", \"true\", \"yes\", etc) to ensure table spans entire width available.}}<br />(Effect is to remove border-spacing and add width:100% to the table's styling.)\n | <code><nowiki> |fullwidth=on </nowiki></code>\n | ''not set''\n\n | class\n | CSS/[[HTML attribute|HTML class]]/es applied to the table.\n | <code><nowiki> |class=wikitable &nbsp; |class=infobox</nowiki><br /><nowiki>|class=sortable nowrap &nbsp; |class=sidebar</nowiki></code>\n | ''none''\n\n | style\n | [[CSS styling]] applied to the table.\n | <code>{{nowrap|<nowiki> |style=width:80%;background:transparent; </nowiki>}}</code>\n | ''none''\n\n | colwidth\n | Width of each column (or include \"width:...;\" in <kbd>colstyle</kbd>).\n | <code><nowiki> |colwidth=6.0em &nbsp; |colwidth=25%</nowiki></code>\n | ''not set''\n\n | colstyle\n | CSS styling applied to each column.\n | <code><nowiki> |colstyle=background:transparent; </nowiki></code>\n | \"\n\n | rowstyle\n | CSS styling applied to each row.\n | <code><nowiki> |rowstyle=text-align:center; </nowiki></code>\n | \"\n\n <!-------Columns-------->\n | leftright\n | Set to anything (\"on\", \"true\", \"yes\", etc) in place of <kbd><nowiki>|col1align=left</nowiki></kbd> and <kbd><nowiki>|col2align=right</nowiki></kbd>\n | <code><nowiki> |leftright=on </nowiki></code>\n | ''not set''\n\n | col{{var|C}}width\n | Width of column number {{var|C}} (or include \"width:...;\" in <kbd>col{{var|C}}style</kbd>).\n | <code><nowiki> |col2width=9.0em &nbsp; |col3width=35%</nowiki></code>\n | ''none set''\n\n | col{{var|C}}class\n | Class/es applied to column number {{var|C}}.\n | <code><nowiki> |col1class=navbox-group </nowiki></code>\n | \"\n\n | col{{var|C}}align\n | Alignment (left{{\\}}right{{\\}}center) for column {{var|C}}'s cell contents (or include \"text-align:...;\" in <kbd>col{{var|C}}style</kbd>).\n | <code><nowiki> |col4align=right </nowiki></code>\n | ''none set''\n\n | col{{var|C}}nowrap\n | Set to anything (\"on\", \"true\", \"yes\", etc) to add \"white-space:nowrap;\" to column {{var|C}}'s cell styling (i.e. to prevent lines within its cells from wrapping; or include \"nowrap\" in <kbd>col{{var|C}}class</kbd> or \"white-space:nowrap;\" in <kbd>col{{var|C}}style</kbd>).\n | <code><nowiki> |col5nowrap=on </nowiki></code>\n | \"\n\n | col{{var|C}}style\n | CSS styling applied to column number {{var|C}}.\n | <code><nowiki> |col4style=font-style:italic; </nowiki></code>\n | \"\n\n\n | col{{var|C}}header\n | Set to any value (e.g. <code>Y</code>) to change col's cells from data cells to table headers (headings).\n | <code><nowiki> |col1header=on </nowiki></code>\n | ''not set''\n\n <!--------Rows---------->\n | row{{var|R}}class\n | Class/es applied to row number {{var|R}}.\n | <code><nowiki> |row10class=navbox-abovebelow </nowiki></code>\n | ''none set''\n\n | row{{var|R}}style\n | CSS styling applied to row number {{var|R}}.\n | <code><nowiki> |row2style=font-weight:bold; </nowiki></code>\n | \"\n\n | row{{var|R}}header\n | Set to any value (e.g. <code>Y</code>) to change row's cells from data cells to table headers (headings).\n | <code><nowiki> |row1header=on </nowiki></code>\n | ''not set''\n\n <!--------Cells--------->\n | class{{var|R}}.{{var|C}}\n | Class/es applied to cell in row {{var|R}}, column {{var|C}}. Overrides any other class attributions (<kbd>row{{var|R}}class</kbd>, <kbd>col{{var|C}}class</kbd>).\n | <code><nowiki> |class1.2=adr </nowiki></code>\n | ''none set''\n\n | style{{var|R}}.{{var|C}}\n | CSS styling applied to cell in row {{var|R}}, column {{var|C}}. Overrides any more general styling (<kbd>leftright</kbd>, <kbd>col{{var|C}}align</kbd>, <kbd>row{{var|R}}style</kbd>, etc).\n | <code><nowiki> |style5.3=text-align:right; </nowiki></code>\n | \"\n\n | {{sans-serif|''Unnamed parameters''}}\n | Each unnamed parameter is taken to be the next cell in the table, starting at the table's top left corner and working left to right from top to bottom.\n | <code>{{!}} Azerbaijan {{!}} Malta {{!}} Zaire</code>\n | empty\n}}\n\n== Examples ==\n\n<pre>\n{{Aligned table\n|cols=3 |class=wikitable\n| A | 1 | a\n| B | 2 | b\n}}\n</pre>\n{{Aligned table\n|cols=3 |class=wikitable\n| A | 1 | a\n| B | 2 | b\n}}\n\n<pre>\n{{Aligned table\n|cols=4 |class=wikitable\n|col1align=center |col2align=center\n|col3align=right  |col4align=right\n| AAA | aa    | 123  | 12345\n| B   | bbbbb | 1234 | 2\n}}\n</pre>\n{{Aligned table\n|cols=4 |class=wikitable\n|col1align=center |col2align=center\n|col3align=right  |col4align=right\n| AAA | aa    | 123  | 12345\n| B   | bbbbb | 1234 | 2\n}}\n\n<pre>\n{{Aligned table\n|class=wikitable |style=width:20em;\n|col1align=center |col2align=right\n| AAA | 123\n| B   | 2\n}}\n</pre>\n{{Aligned table\n|class=wikitable |style=width:20em;\n|col1align=center |col2align=right\n| AAA | 123\n| B   | 2\n}}\n\n<pre>\n{{Aligned table\n|cols=3 |class=wikitable sortable\n|row1header=y\n| U | # | l\n| A | 1 | a\n| B | 2 | b\n}}\n</pre>\n{{Aligned table\n|cols=3 |class=wikitable sortable\n|row1header=y\n| U | # | l\n| A | 1 | a\n| B | 2 | b\n}}\n\n<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox |\n| <!-- Categories below this line, please; interwikis to Wikidata. -->\n[[Category:Table and column templates]]\n}}</includeonly>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T18:51:29Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Aligned table"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation subpage"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Lua"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Namespace detect"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Nowrap"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Sans-serif"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tld"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlg"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Var"
+          },
+          {
+            "ns": 10,
+            "title": "Template:\\"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Aligned table"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/blacklist"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/config"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/data"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Category handler/shared"
+          },
+          {
+            "ns": 828,
+            "title": "Module:List"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Lua banner"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Message box"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Message box/configuration"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Namespace detect/config"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Namespace detect/data"
+          },
+          {
+            "ns": 828,
+            "title": "Module:No globals"
+          },
+          {
+            "ns": 828,
+            "title": "Module:TableTools"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Yesno"
+          }
+        ],
+        "title": "Template:Aligned table/doc",
+        "touched": "2021-03-29T19:41:22Z"
+      },
+      "172": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 229,
+        "length": 196,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Lua/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 172,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 229,
+            "slots": {
+              "main": {
+                "*": "<includeonly>{{#invoke:Lua banner|main}}</includeonly><noinclude>\n{{Lua|Module:Lua banner}}\n{{documentation}}\n<!-- Categories go on the /doc subpage and interwikis go on Wikidata. -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T18:51:48Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Lua"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Lua/doc"
+          },
+          {
+            "ns": 828,
+            "title": "Module:List"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Lua banner"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Message box"
+          },
+          {
+            "ns": 828,
+            "title": "Module:No globals"
+          },
+          {
+            "ns": 828,
+            "title": "Module:TableTools"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Yesno"
+          }
+        ],
+        "title": "Template:Lua",
+        "touched": "2017-10-17T16:44:06Z"
+      },
+      "173": {
+        "contentmodel": "wikitext",
+        "lastrevid": 230,
+        "length": 3737,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Fr:Template:hatnote"
+          },
+          {
+            "ns": 2,
+            "title": "User:Ahunt/SSHFS"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hatnote"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hatnote/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hatnote/sandbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hatnote/testcases"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Lts"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Para"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T links"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tetl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tfd links"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ti"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tic"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tiw"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl-nav"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl templates"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tla"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlb"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tld"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlf"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlg"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlp"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tls"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlsp"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlt"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltss"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltt"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltt2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltts"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltts3"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlu"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlx"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlxb"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlxi"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlxs"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tn"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tnull"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tsetl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ttl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Twlh"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd"
+          },
+          {
+            "ns": 11,
+            "title": "Template talk:Hatnote"
+          },
+          {
+            "ns": 11,
+            "title": "Template talk:Template-linking templates"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Hatnote"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 173,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 230,
+            "slots": {
+              "main": {
+                "*": "{{navbar|Template-linking templates|plain=1}}\n<noinclude>{{float|{{template shortcut|tl-nav|tl templates}}}}</noinclude>\n\n===General-purpose formatting===\n{| class=\"wikitable navbox collapsible\" style=\"width:auto;font-size:90%;margin:1.0em auto 1.0em auto;vertical-align:top;text-align:center;\"\n|+ Comparison of template-linking templates according to their style\n|-\n!style=*\"|\n!style=\"background:#fcc;\"| Link style →\n!style=\"background:#fee;\"| Linked\n!style=\"background:#fee;\"| Unlinked\n!style=\"background:#fee;\"| Linked with subst\n!style=\"background:#fee;\"| Linked including braces\n!style=\"background:#fee;\"| Linked with alternative&nbsp;text\n|-\n!style=\"background:#ccf;\"| Text style ↓\n|'''↓ {{tlx|tlg}} options<sup>1</sup> →'''\n|{{n/a}}\n|{{code|nolink{{=}}yes}}\n|{{code|subst{{=}}yes}}\n|{{code|braceinside{{=}}yes}}\n|{{code|alttext{{=}}Foo}}<br />{{code|2{{=}}Foo}}\n|-\n|style=\"background:#eef;\"| Normal\n| {{n/a}}\n| {{nowrap|{{tlx|tlg}}<sup>1, 2</sup>}}<br />{{tlx|tl}}<br />{{tlx|tlp}}<sup>2</sup><br />{{tlx|tlu}}<sup>4</sup>\n| {{tlx|tlf}}<sup>2</sup>\n| {{tlx|tls}}<br />{{tlx|tlsp}}\n| {{tlx|tn}}\n| {{tlx|tla}}\n|-\n!style=\"background:#eef;\"| <code>Code</code>\n| {{code|code{{=}}yes}} or<br />{{code|tt{{=}}yes}}\n| {{tlx|tlx}}<br />{{tlx|tltt}}<br />{{tlx|tltt2}}\n| {{tlx|tlc}}<sup>2</sup><br />{{tlx|tld}}<sup>2</sup><br />{{tlx|tnull}}\n| {{tlx|tlxs}}<br />{{tlx|tltts}}<br />{{tlx|tltts3}}<br />{{tlx|tltss}}<sup>3</sup>\n| colspan=\"2\" {{n/a}}\n|-\n|style=\"background:#eef;\"| '''Bold'''\n| {{code|bold{{=}}yes}}\n| {{tlx|tlb}}\n| rowspan=\"3\" colspan=\"4\" {{n/a}}\n|-\n|style=\"background:#eef;\"| '''<code>Bold code</code>'''\n| {{code|bold{{=}}yes{{!}}code{{=}}yes}}\n| {{tlx|tlxb}}\n|-\n|style=\"background:#eef;\" | ''<code>Italic code</code>''\n| {{code|italic{{=}}yes{{!}}code{{=}}yes}}\n| {{tlx|tlxi}}\n|}\n{{clear}}\n{{plainlist |style=font-size:90% |\n*<sup>1</sup> {{tlx|tlg}} is the most general, allowing any combination of text style and/or link style options.\n*<sup>2</sup> Prevents wrapping of text by placing it inside {{tag|span|params=class=\"nowrap\"}} tags.\n*<sup>3</sup> Uses monospace font but not {{tag|code}}.\n*<sup>4</sup> Allows links to templates in any namespace.\n}}\n\n===Other formatting templates===\n{| class=\"wikitable sortable\" style=\"vertical-align:top;\"\n! Code example !! Effect !! Notes\n|-\n| {{tlx|tl2|<nowiki>Hatnote|lang=fr</nowiki>}} || {{tl2|hatnote|lang=fr}} || Supports linking to sister projects (e.g., fr:Hatnote)\n|-\n| {{tlx|tlu|User:Ahunt/SSHFS}} || {{tlu|User:Ahunt/SSHFS}} || Supports linking to any namespace\n|-\n| {{tlx|xpd|<nowiki>Hatnote|Some hatnote text</nowiki>}} || {{xpd|hatnote|Some hatnote text}} || Shows code, example and a link to expand the template code\n|-\n<!-- Yes, I know this isn't actually a template-linking template, but it's a heck of a lot easier to find if it's listed in the docs for e.g. {{tl}} -->\n| {{tlx|para|<nowiki>title|<var>book title</var></nowiki>}} || {{para|title|<var>book title</var>}} || Formats template parameters for display, with or without values\n|}\n\n===With utility links===\n{| class=\"wikitable sortable\" style=\"vertical-align:top;\"\n! Code example !! Effect\n|-\n| {{tlx|lts|Hatnote}} || {{lts|hatnote}}\n|-\n| {{tlx|t links|Hatnote}} || {{t links|hatnote}}\n|-\n| {{tlx|tfd links|Hatnote}} || {{tfd links|hatnote}}\n|-\n| {{tlx|tiw|Hatnote}} || {{tiw|hatnote}}\n|-\n| {{tlx|tltt|Hatnote}} || {{tltt|Hatnote}}\n|-\n| {{tlx|tetl|Hatnote}} || {{tetl|Hatnote}}\n|-\n| {{tlx|tsetl|Hatnote}} || {{tsetl|Hatnote}}\n|-\n| {{tlx|ti|Hatnote}} || {{ti|Hatnote}}\n|-\n| {{tlx|tic|Hatnote}} || {{tic|Hatnote}}\n|-\n| {{tlx|tiw|Hatnote}} || {{tiw|Hatnote}}\n|-\n| {{tlx|tlt|Hatnote}} || {{tlt|Hatnote}}\n|-\n| {{tlx|ttl|Hatnote}} || {{ttl|Hatnote}}\n|-\n| {{tlx|twlh|Hatnote}} || {{twlh|Hatnote}}\n|}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T19:00:49Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:1x"
+          },
+          {
+            "ns": 10,
+            "title": "Template:="
+          },
+          {
+            "ns": 10,
+            "title": "Template:Clear"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Code"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Float"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hatnote"
+          },
+          {
+            "ns": 10,
+            "title": "Template:If"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Lts"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Middot"
+          },
+          {
+            "ns": 10,
+            "title": "Template:N/a"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Navbar"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Nowrap"
+          },
+          {
+            "ns": 10,
+            "title": "Template:P1"
+          },
+          {
+            "ns": 10,
+            "title": "Template:P2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Para"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Plainlist"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Resize"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Smaller"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T links"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tag"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Template shortcut"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tetl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tfd links"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ti"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tic"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tiw"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlt"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltt"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlu"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tlx"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Toolbar"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tsetl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ttl"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Twlh"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Void"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd/code"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd/url"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd/w"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd1"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Hatnote"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Navbar"
+          },
+          {
+            "ns": 828,
+            "title": "Module:TableTools"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Toolbar"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Yesno"
+          }
+        ],
+        "title": "Template:Template-linking templates",
+        "touched": "2018-09-28T20:41:15Z"
+      },
+      "174": {
+        "contentmodel": "wikitext",
+        "lastrevid": 231,
+        "length": 94,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Navbar/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 174,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 231,
+            "slots": {
+              "main": {
+                "*": "<includeonly>{{#invoke:Navbar|navbar}}</includeonly><noinclude>\n{{documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T19:01:48Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Navbar/doc"
+          }
+        ],
+        "title": "Template:Navbar",
+        "touched": "2015-08-08T19:01:48Z"
+      },
+      "175": {
+        "contentmodel": "wikitext",
+        "lastrevid": 232,
+        "length": 502,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Float/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 175,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 232,
+            "slots": {
+              "main": {
+                "*": "<includeonly><div style=\"position:relative;text-align:left;\"><!--\n    --><div style=\"width:{{{width|}}};position:absolute;\n                   top:{{{top|0}}};right:{{{right|0}}};bottom:{{{bottom|}}};left:{{{left|}}};\n                   {{#if:{{{2|}}} |{{#ifeq:{{{1}}}|left |left:0;}}}}\"><!--\n        -->{{#if:{{{2|}}} |{{{2}}} |{{{1|{{color|red|'''Error: Parameter missing''' {{smaller|([[Template:Float]])}}}}}}} }}<!--\n    --></div></div><!--\n--></includeonly><noinclude>{{Documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T19:02:12Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Float/doc"
+          }
+        ],
+        "title": "Template:Float",
+        "touched": "2015-08-08T19:02:12Z"
+      },
+      "176": {
+        "contentmodel": "wikitext",
+        "lastrevid": 233,
+        "length": 586,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Lts/doc"
+          },
+          {
+            "ns": 11,
+            "title": "Template talk:Lts"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 176,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 233,
+            "slots": {
+              "main": {
+                "*": "<span style=\"padding-right:3px;\">[[:Template:{{{1|{{PAGENAME}}}}}|Template:{{ucfirst:{{{1|{{PAGENAME}}}}}}}]]</span><!--\n --><span class=\"plainlinks nourlexpansion lx\" style=\"font-size: 85%;\"><!--\n     -->([{{fullurl:Template:{{{1|{{PAGENAME}}}}}|action=edit}} edit]&#160;<!--\n      -->[[:Template talk:{{{1|{{PAGENAME}}}}}|talk]]&#160;<!--\n      -->[{{fullurl:Special:Whatlinkshere/Template:{{{1|{{PAGENAME}}}}}|limit=500}} links]&#160;<!--\n      -->[{{fullurl:Template:{{{1|{{PAGENAME}}}}}|action=history}} history]<!--\n     -->)</span><!--\n--><noinclude>{{Documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T19:49:16Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Lts/doc"
+          }
+        ],
+        "title": "Template:Lts",
+        "touched": "2015-08-08T19:49:16Z"
+      },
+      "177": {
+        "contentmodel": "wikitext",
+        "lastrevid": 234,
+        "length": 3072,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Example"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Example/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Example/sandbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Example/testcases"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T links/doc"
+          },
+          {
+            "ns": 11,
+            "title": "Template talk:Example"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 177,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 234,
+            "slots": {
+              "main": {
+                "*": "<span class=\"plainlinks nourlexpansion lx\" style=\"{{{style|}}}\">{{{prefix|}}} {{yesno|{{{sandboxlinks|no}}}<!--\n----- sandboxlinks=no -----\n-->|no=[[:Template:{{{1|Example}}}|{{ucfirst:{{{1|Example}}}}}]]&#x20;<!--\n--><span style=\"font-size:85%; {{{liststyle|}}}\">([{{fullurl:Template:{{ucfirst:{{{1|Example}}}}}|action=edit}} edit]<!--\n-->{{middot}}[[Template talk:{{{1|Example}}}|talk]]<!--\n-->{{middot}}[{{fullurl:Template:{{ucfirst:{{{1|Example}}}}}|action=history}} history]<!--\n-->{{middot}}[{{fullurl:Special:Whatlinkshere/Template:{{ucfirst:{{{1|Example}}}}}|limit=999}} links]<!--\n-->{{middot}}[{{fullurl:Special:PrefixIndex/Template:{{ucfirst:{{{1|Example}}}}}/}} /subpages]<!--\n-->{{middot}}[[Template:{{{1|Example}}}/doc|/doc]]<!--\n-->{{middot}}[{{fullurl:Template:{{ucfirst:{{{1|Example}}}}}/doc|action=edit}} /doc edit]<!--\n-->{{middot}}[[Template:{{{1|Example}}}/sandbox|/sbox]]<!--\n-->{{middot}}[{{fullurl:Special:ComparePages|page1={{urlencode:Template:{{ucfirst:{{{1|Example}}}}}}}&page2={{urlencode:Template:{{ucfirst:{{{1|Example}}}}}/sandbox}}}} /sbox&nbsp;diff]<!--\n-->{{middot}}[[Template:{{{1|Example}}}/testcases|/test]]</span><!--\n\n----- sandboxlinks=yes -----\n-->|yes='''{{{1|Example}}}'''[[:Template:{{{1|Example}}}/sandbox|/sandbox]]&#x20;<!--\n--><span style=\"font-size:85%; {{{liststyle|}}}\">(<span style=\"background:#dbffdb;\"><!--\n-->[{{fullurl:Template:{{ucfirst:{{{1|Example}}}}}/sandbox|action=edit}} edit]<!--\n-->{{middot}}[{{fullurl:Special:ComparePages|page1={{urlencode:Template:{{ucfirst:{{{1|Example}}}}}}}&page2={{urlencode:Template:{{ucfirst:{{{1|Example}}}}}/sandbox}}}} diff]<!--\n-->{{middot}}[[Template:{{{1|Example}}}/testcases|/test]]<!--\n-->{{middot}}[[Template talk:{{{1|Example}}}|t]]<!--\n-->{{middot}}[{{fullurl:Template:{{ucfirst:{{{1|Example}}}}}/sandbox|action=history}} h]<!--\n-->{{middot}}[{{fullurl:Special:Whatlinkshere/Template:{{ucfirst:{{{1|Example}}}}}/sandbox|limit=999}} lk]<!--\n--></span><!-- SOURCE:\n-->{{middot}}[[:Template:{{{1|Example}}}|<span style=\"background:#ffdbdb;\">Source</span>]]{{middot}}<!--\n-->[{{fullurl:Template:{{ucfirst:{{{1|Example}}}}}|action=edit}} <span style=\"background:#ffdbdb;\">e</span>]<!--\n-->{{middot}}[[Template talk:{{{1|Example}}}|talk]]<!--\n-->{{middot}}[{{fullurl:Template:{{ucfirst:{{{1|Example}}}}}|action=history}} hist]<!--\n-->{{middot}}[{{fullurl:Special:Whatlinkshere/Template:{{ucfirst:{{{1|Example}}}}}|limit=999}} links]<!--\n-->{{middot}}[{{fullurl:Special:PrefixIndex/Template:{{ucfirst:{{{1|Example}}}}}/}} /subpages]<!--\n-->{{middot}}[[Template:{{{1|Example}}}/doc|/doc]]<!--\n-->{{middot}}[{{fullurl:Template:{{ucfirst:{{{1|Example}}}}}/doc|action=edit}} /doc edit]<!--\n--></span>}}<!--end yes/no\n----- module -----\n--><span style=\"font-size:85%; {{{liststyle|}}}\">{{#if:{{{module|}}}|{{middot}}<!--by param-->[[Module:{{{module|}}}]]|{{#if:{{{module}}}|<!--auto add when eponymous bluelink-->{{#ifexist:Module:{{{1|}}}|{{middot}}[[Module:{{{1|}}}]]}}|<!-- blank so no link -->}}}}<!--\n-->)</span></span> {{{suffix|}}}<noinclude>\n{{documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T19:50:42Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Middot"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T links/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          }
+        ],
+        "title": "Template:T links",
+        "touched": "2015-08-08T21:01:15Z"
+      },
+      "178": {
+        "contentmodel": "wikitext",
+        "lastrevid": 235,
+        "length": 355,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 178,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 235,
+            "slots": {
+              "main": {
+                "*": "{{<includeonly>safesubst:</includeonly>#switch: {{<includeonly>safesubst:</includeonly>lc: {{{1|¬}}} }}\n |no\n |n\n |false\n |0        = {{{no|<!-- null -->}}}\n |         = {{{blank|{{{no|<!-- null -->}}}}}}\n |¬        = {{{¬|}}}\n |yes\n |y\n |true\n |1        = {{{yes|yes}}}\n |#default = {{{def|{{{yes|yes}}}}}}\n}}<noinclude>\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T19:51:33Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno/doc"
+          }
+        ],
+        "title": "Template:Yesno",
+        "touched": "2015-08-08T19:51:33Z"
+      },
+      "179": {
+        "contentmodel": "wikitext",
+        "lastrevid": 236,
+        "length": 139,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Middot/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 179,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 236,
+            "slots": {
+              "main": {
+                "*": "&nbsp;<b>&middot;</b>&#32;<noinclude>\n\n{{documentation}}\n<!-- Add categories and interwikis to the /doc subpage, not here! -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T19:52:39Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Middot/doc"
+          }
+        ],
+        "title": "Template:Middot",
+        "touched": "2015-08-08T19:52:39Z"
+      },
+      "180": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with broken file links"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Cube.svg"
+          }
+        ],
+        "lastrevid": 237,
+        "length": 521,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Example/doc"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Template"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 180,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 237,
+            "slots": {
+              "main": {
+                "*": "<div class=\"wikipediauserbox\" style=\"float:left;margin:1px;border:1px solid #999;\">\n{| style=\"<!--width:262px;-->background:#eee;\" cellspacing=\"0\"\n|- style=\"vertical-align:middle;\"\n|style=\"padding:4px 0 0 4px;\"| [[File:Cube.svg|40px|alt=|link=]]\n|style=\"font-size:8pt;height:45px;padding:0 4px;vertical-align:middle;text-align:left;line-height:1.25em;color:black;\"| {{nowrap|This is an example of a template.<br/>For help with templates, see [[Help:Template]].}}\n|}\n</div><noinclude>{{clear}}{{Documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T19:53:59Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Clear"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Example/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Nowrap"
+          }
+        ],
+        "title": "Template:Example",
+        "touched": "2015-08-29T05:30:40Z"
+      },
+      "181": {
+        "contentmodel": "wikitext",
+        "lastrevid": 238,
+        "length": 120,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Nowrap/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 181,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 238,
+            "slots": {
+              "main": {
+                "*": "<span class=\"nowrap\">{{{1}}}</span><noinclude>\n{{documentation}}\n<!--interwikis/categories go inside doc-->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T19:54:33Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Nowrap/doc"
+          }
+        ],
+        "title": "Template:Nowrap",
+        "touched": "2015-08-08T19:54:33Z"
+      },
+      "182": {
+        "contentmodel": "wikitext",
+        "lastrevid": 239,
+        "length": 1476,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Example"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tfd links/doc"
+          },
+          {
+            "ns": 11,
+            "title": "Template talk:Example"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 182,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 239,
+            "slots": {
+              "main": {
+                "*": "<span id=\"{{#ifeq:{{{catfd|}}}| |Template:|Category:}}{{ucfirst:{{{1|Example}}}}}\" class=\"plainlinks nourlexpansion lx\"><!--\n -->[[:{{#ifeq:{{{catfd|}}}| |Template:|Category:}}{{ucfirst:{{{1|Example}}}}}]]&nbsp;<!--\n Note: the &nbsp; immediately before this note ensures a subsequent parenthesis not linewrapped away from the intial template link\n -->{{#if:{{{2|}}} |([[Wikipedia:Templates for discussion/Log/{{{2}}}#Template:{{{1|Example}}}|{{date|{{{2}}}|dmy}}]])&#32;}}<!--\n -->{{Toolbar |separator=dot\n     |1=[{{fullurl:{{#ifeq:{{{catfd|}}}| |Template|Category}}:{{ucfirst:{{{1|Example}}}}}|action=edit}} edit]\n     |2=[[{{#ifeq:{{{catfd|}}}| |Template|Category}} talk:{{ucfirst:{{{1|Example}}}}}|talk]]\n     |3=[{{fullurl:{{#ifeq:{{{catfd|}}}| |Template|Category}}:{{ucfirst:{{{1|Example}}}}}|action=history}} history]\n     |4={{#ifeq:{{{catfd|}}}| |[{{fullurl:Special:Whatlinkshere/Template:{{ucfirst:{{{1|Example}}}}}|limit=999}} links]}}\n     |5=[{{fullurl:Special:Log|page={{urlencode:{{#ifeq:{{{catfd|}}}| |Template|Category}}:{{ucfirst:{{{1|Example}}}}}}}}} logs]\n     |6=[{{fullurl:Special:PrefixIndex/Template:{{ucfirst:{{{1|Example}}}}}/}} subpages]\n     |7=[{{fullurl:{{#ifeq:{{{catfd|}}}| |Template|Category}}:{{ucfirst:{{{1|Example}}}}}|action=delete&wpReason={{urlencode:[[{{#if:{{{2|}}} |Wikipedia:Templates for discussion/Log/{{{2}}}|{{FULLPAGENAME}}}}#Template:{{{1|Example}}}]]}}}} delete]\n    }}<!--\n--></span><noinclude>\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T19:55:51Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tfd links/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Toolbar"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:TableTools"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Toolbar"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Yesno"
+          }
+        ],
+        "title": "Template:Tfd links",
+        "touched": "2015-08-08T21:01:15Z"
+      },
+      "183": {
+        "contentmodel": "wikitext",
+        "lastrevid": 240,
+        "length": 103,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Toolbar/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 183,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 240,
+            "slots": {
+              "main": {
+                "*": "{{<includeonly>safesubst:</includeonly>#invoke:Toolbar|main}}<noinclude>\n{{documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T19:56:27Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Toolbar/doc"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:TableTools"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Toolbar"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Yesno"
+          }
+        ],
+        "title": "Template:Toolbar",
+        "touched": "2015-08-08T19:56:27Z"
+      },
+      "184": {
+        "contentmodel": "wikitext",
+        "lastrevid": 241,
+        "length": 171,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hatnote/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 184,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 241,
+            "slots": {
+              "main": {
+                "*": "<includeonly>{{#invoke:Hatnote|hatnote}}</includeonly><noinclude>\n{{documentation}}\n<!-- Categories go on the /doc subpage, and interwikis go on Wikidata. -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T19:57:49Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hatnote/doc"
+          }
+        ],
+        "title": "Template:Hatnote",
+        "touched": "2015-08-08T19:57:49Z"
+      },
+      "185": {
+        "contentmodel": "wikitext",
+        "lastrevid": 243,
+        "length": 412,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tiw/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 185,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 243,
+            "slots": {
+              "main": {
+                "*": "{{#if:{{{2|}}}\n | [[:{{{1}}}:Template:{{{2}}}]]&nbsp;{{smaller|([[:{{{1}}}:Special:Whatlinkshere/Template:{{{2}}}|backlinks]] [{{fullurl:{{{1}}}:Template:{{{2}}}|action=edit}} edit])}}\n | [[Template:{{{1|{{PAGENAME}}}}}]]&nbsp;{{smaller|([[Special:Whatlinkshere/Template:{{{1|{{PAGENAME}}}}}|backlinks]] [{{fullurl:w:Template:{{{1|{{PAGENAME}}}}}|action=edit}} edit])}}\n}}<noinclude>{{Documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T20:00:50Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Resize"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Smaller"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tiw/doc"
+          }
+        ],
+        "title": "Template:Tiw",
+        "touched": "2015-08-08T21:03:26Z"
+      },
+      "186": {
+        "contentmodel": "wikitext",
+        "lastrevid": 244,
+        "length": 102,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Smaller/TemplateData"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Smaller/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 186,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 244,
+            "slots": {
+              "main": {
+                "*": "{{Resize|90%|{{{1}}}}}<noinclude>\n{{Documentation|Template:Resize/doc}}\n{{/TemplateData}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T20:01:09Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Resize"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Smaller/TemplateData"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Smaller/doc"
+          }
+        ],
+        "title": "Template:Smaller",
+        "touched": "2015-08-08T20:03:09Z"
+      },
+      "187": {
+        "contentmodel": "wikitext",
+        "lastrevid": 245,
+        "length": 251,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Resize/TemplateData"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Resize/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 187,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 245,
+            "slots": {
+              "main": {
+                "*": "{{#if:{{{2|}}}\n|<span style=\"font-size:{{{1|}}};\">{{{2|}}}</span>\n|<span style=\"font-size:90%;\">{{{1}}}</span>\n}}<noinclude>\n{{documentation}}\n{{Resize/TemplateData}}\n<!--PLEASE ADD CATEGORIES AND INTERWIKIS TO THE /doc SUBPAGE, THANKS-->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T20:02:58Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Resize/TemplateData"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Resize/doc"
+          }
+        ],
+        "title": "Template:Resize",
+        "touched": "2015-08-08T20:02:58Z"
+      },
+      "188": {
+        "contentmodel": "wikitext",
+        "lastrevid": 246,
+        "length": 233,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltt/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 188,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 246,
+            "slots": {
+              "main": {
+                "*": "<code title=\"{{{2}}}\"><!--\n -->&#123;&#123;[[Template:{{{1}}}|{{{1}}}]]<!--\n    -->{{#if:{{{par|}}}  |{{!}}{{{par}}}}}<!--\n    -->{{#if:{{{par2|}}} |{{!}}{{{par2}}}}}&#125;&#125;<!--\n--></code><noinclude>{{Documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T20:04:33Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tltt/doc"
+          }
+        ],
+        "title": "Template:Tltt",
+        "touched": "2015-08-08T20:04:33Z"
+      },
+      "189": {
+        "contentmodel": "wikitext",
+        "lastrevid": 247,
+        "length": 1236,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tetl/doc"
+          },
+          {
+            "ns": 11,
+            "title": "Template talk:Tetl"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 189,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 247,
+            "slots": {
+              "main": {
+                "*": "{{<small>&#160;</small><!--\n  -->[[{{ns:Template}}:{{{1|{{PAGENAME}}}}}|{{{1|{{PAGENAME}}}}}]]<!--\n  -->{{#if:{{{2|}}} |<code>&#124;</code>{{{2}}} }}<!--\n  -->{{#if:{{{3|}}} |<code>&#124;</code>{{{3}}} }}<!--\n  -->{{#if:{{{4|}}} |<code>&#124;</code>{{{4}}} }}<!--\n  -->{{#if:{{{5|}}} |<code>&#124;</code><i>etc.</i> }}<!--\n--><small>&#160;</small>}}<br/><!--\n--><span class=\"plainlinksneverexpand\"><!--\n    --><small>[{{fullurl:Special:Whatlinkshere/Template:{{{1|{{PAGENAME}}}}}|limit=500}} links]</small>&#160;<!--\n    --><small>[[:Template talk:{{{1|{{PAGENAME}}}}}|talk]]</small>&#160;<!--\n    --><small>[{{fullurl:Template:{{{1|{{PAGENAME}}}}}|action=edit}} view]</small><!--\n--></span><noinclude>\n\n{{Documentation\n | content =\n* Like {{lts|tlx}} and {{tlx|tlsp}} for up to three parameters, used in template lists adding links in the same style as {{tlx|lts/}} and {{tlx|tlrow}}. See above for an example what it does.\n* {{tlx|tetl}} now covers the previously separate '''tetlp'''{{\\}}'''tnetlp'''{{\\}}'''tnetl''' templates.\n* [[Template talk:Tlx|Template:Tetl documentation]]\n\n===See also===\n* {{tl|tlsetl}}\n\n[[Category:Internal template-link templates]]\n[[Category:Pagelinks templates]]\n}}<!--(end Documentation)-->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T20:05:17Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tetl/doc"
+          }
+        ],
+        "title": "Template:Tetl",
+        "touched": "2015-08-08T20:05:17Z"
+      },
+      "190": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 248,
+        "length": 1210,
+        "links": [
+          {
+            "ns": 11,
+            "title": "Template talk:Tsetl"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 190,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 248,
+            "slots": {
+              "main": {
+                "*": "{{<small>&#160;</small><!--\n  -->[[Wikipedia:Template substitution|subst]]<code>:</code><!--\n       -->[[{{ns:Template}}:{{{1|{{PAGENAME}}}}}|{{{1|{{PAGENAME}}}}}]]<!--\n            -->{{#if:{{{2|}}} |<code>&#124;</code>{{{2}}}}}<!--\n            -->{{#if:{{{3|}}} |<code>&#124;</code>{{{3}}}}}<!--\n            -->{{#if:{{{4|}}} |<code>&#124;</code>{{{4}}}}}<!--\n            -->{{#if:{{{5|}}} |<code>&#124;</code><i>etc.</i>}}<!--\n--><small>&#160;</small>}}<br/>&#160;<!--\n--><span class=\"plainlinksneverexpand\"><!--\n    --><small>[{{fullurl:Special:Whatlinkshere/Template:{{{1|{{PAGENAME}}}}}|limit=500}} links]&#160;<!--\n           -->[[:Template talk:{{{1|{{PAGENAME}}}}}|talk]]&#160;<!--\n           -->[{{fullurl:Template:{{{1|{{PAGENAME}}}}}|action=edit}} view]<!--\n    --></small><!--\n--></span><noinclude>\n{{doc|content=\nLike {{lts|tlx}} and {{tlx|tlsp}} for up to three parameters, used in template lists adding links in the same style as {{tlx|lts/}} and {{tlx|tlrow}}. See above for an example what it does.\n\nUse {{tlx|tetl}} for the version without [[Wikipedia:Template substitution|subst]]<code>:</code>.\n\n[[Category:Internal template-link templates]]\n[[Category:Pagelinks templates]]\n}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T20:07:00Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Doc"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Documentation"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Message box"
+          },
+          {
+            "ns": 828,
+            "title": "Module:No globals"
+          }
+        ],
+        "title": "Template:Tsetl",
+        "touched": "2017-10-17T16:44:06Z"
+      },
+      "191": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 249,
+        "length": 182,
+        "new": "",
+        "ns": 10,
+        "pageid": 191,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 249,
+            "slots": {
+              "main": {
+                "*": "{{#invoke:documentation|main|_content={{ {{#invoke:documentation|contentTitle}}}}}}<noinclude>\n<!-- Categories go on the /doc subpage, and interwikis go on Wikidata. -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T20:07:32Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Documentation"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Message box"
+          },
+          {
+            "ns": 828,
+            "title": "Module:No globals"
+          }
+        ],
+        "title": "Template:Doc",
+        "touched": "2017-10-17T16:44:06Z"
+      },
+      "192": {
+        "contentmodel": "wikitext",
+        "lastrevid": 250,
+        "length": 254,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ti/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 192,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 250,
+            "slots": {
+              "main": {
+                "*": "'''[[Template:{{{1}}}]]'''&nbsp;([[Template talk:{{{1}}}|talk]]{{int:dot-separator}}[[Special:Whatlinkshere/Template:{{{1}}}|links]]{{int:dot-separator}}[{{SERVER}}{{localurl:Template:{{{1}}}|action=edit}} edit])<noinclude>\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T20:08:53Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ti/doc"
+          }
+        ],
+        "title": "Template:Ti",
+        "touched": "2015-08-08T20:08:53Z"
+      },
+      "193": {
+        "contentmodel": "wikitext",
+        "lastrevid": 251,
+        "length": 269,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tic/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 193,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 251,
+            "slots": {
+              "main": {
+                "*": "<span class=\"plainlinks\">[[Template:{{{1}}}]]&nbsp;([[Template talk:{{{1}}}|talk]] [{{SERVER}}{{localurl:Special:Whatlinkshere/Template:{{{1}}}|limit=500}} links] [{{SERVER}}{{localurl:Template:{{{1}}}|action=edit}} edit])</span><noinclude>{{Documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T20:09:15Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tic/doc"
+          }
+        ],
+        "title": "Template:Tic",
+        "touched": "2015-08-08T20:09:15Z"
+      },
+      "194": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Internal template-link templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pagelinks templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 252,
+        "length": 278,
+        "new": "",
+        "ns": 10,
+        "pageid": 194,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 252,
+            "slots": {
+              "main": {
+                "*": "&#123;{[[Template:{{{1}}}|{{{1}}}]]}}&nbsp;([[Template talk:{{{1}}}|t]]/[{{SERVER}}{{localurl:Special:Whatlinkshere/Template:{{{1}}}|limit=999}} l])<noinclude>\n{{pp-template|small=yes}}\n\n[[Category:Internal template-link templates]]\n[[Category:Pagelinks templates]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T20:09:47Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Pp-template"
+          },
+          {
+            "ns": 828,
+            "title": "Module:File link"
+          },
+          {
+            "ns": 828,
+            "title": "Module:No globals"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Protection banner"
+          }
+        ],
+        "title": "Template:Tlt",
+        "touched": "2017-10-17T16:44:06Z"
+      },
+      "195": {
+        "contentmodel": "wikitext",
+        "lastrevid": 253,
+        "length": 11518,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Pp-meta/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 195,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 253,
+            "slots": {
+              "main": {
+                "*": "{{#ifeq:{{#switch:{{lc:{{{type}}}}}\n  |move=<!--\n -->{{#ifeq:\n      {{#switch:{{lc:{{{demolevel|undefined}}}}}\n        |semi |autoconfirmed           = autoconfirmed\n        |administrator |full |sysop    = sysop\n        |undefined                     = {{PROTECTIONLEVEL:move}}\n        |#default                      = <!--fallback value: null\n   -->}}\n      |sysop|yes|no\n    }}\n  |create=<!--\n -->{{#if:\n      {{#switch:{{lc:{{{demolevel|undefined}}}}}\n        |semi |autoconfirmed           = autoconfirmed\n        |administrator |full |sysop    = sysop\n        |undefined                     = {{PROTECTIONLEVEL:create}}\n        |#default                      = <!--fallback value: null\n   -->}}\n      |yes|no\n    }}\n  |template=<!--\n -->{{#if:\n      {{#switch:{{lc:{{{demolevel|undefined}}}}}\n        |templateeditor |template      = templateeditor\n        |administrator |full |sysop    = sysop\n        |undefined                     = {{PROTECTIONLEVEL:edit}}\n        |#default                      = <!--fallback value: null\n   -->}}\n      |yes|no\n    }}\n  |pc1 =<!--\n -->{{#ifeq:\n      {{#switch:{{lc:{{{demolevel|undefined}}}}}\n        |pc1                           = autoconfirmed <!-- this is the value that the PENDINGCHANGELEVEL magic word returns for pc1 -->\n        |undefined                     = {{PENDINGCHANGELEVEL}}\n        |#default                      = <!--fallback value: null\n   -->}}\n      |autoconfirmed\n      |yes|no\n    }}\n  |pc2 =<!--\n -->{{#ifeq:\n      {{#switch:{{lc:{{{demolevel|undefined}}}}}\n        |pc2                           = review <!-- this is the value that the PENDINGCHANGELEVEL magic word returns for pc2 -->\n        |undefined                     = {{PENDINGCHANGELEVEL}}\n        |#default                      = <!--fallback value: null\n   -->}}\n      |review\n      |yes|no\n    }}\n|#default<!--includes all other types-->=<!--\n -->{{#if:\n      {{#switch:{{lc:{{{demolevel|undefined}}}}}\n        |semi |autoconfirmed           = autoconfirmed\n        |administrator |full |sysop    = sysop\n        |undefined                     = {{PROTECTIONLEVEL:edit}}\n        |#default                      = <!--fallback value: null\n   -->}}\n      |{{#ifeq:{{#switch:{{lc:{{{disallowlevel|}}}}}\n                 |semi |autoconfirmed           = autoconfirmed\n                 |administrator |full |sysop    = sysop\n                 |#default                      = <!--fallback value: null-->}}\n         |{{#switch:{{lc:{{{demolevel|undefined}}}}}\n            |semi |autoconfirmed           = autoconfirmed\n            |administrator |full |sysop    = sysop\n            |undefined                     = {{PROTECTIONLEVEL:edit}}\n            |#default                      = <!--fallback value: null\n       -->}}\n         |no|yes\n       }}\n   |no}}\n}}|yes|{{#ifeq:{{lc:{{{small|}}}}}|yes|\n<div class=\"metadata topicon nopopups\" id=\"protected-icon\" style=\"display:none; right:{{#if:{{{right|}}}|{{{right}}}|55px}};\">[[Image:{{{image|{{#switch:{{lc:{{{type}}}}}\n |full=Padlock.svg\n |semi=Padlock-silver.svg\n |template=Padlock-pink.svg\n |pc1=Padlock-silver-light.svg\n |pc2=Padlock-orange.svg\n |move=Padlock-olive.svg\n |indef=Padlock-red.svg\n |office=Padlock-black.svg\n |create=Padlock-skyblue.svg\n |#default=Transparent.gif\n}}}}}|20px|link={{{icon-link|Wikipedia:Protection policy#{{lc:{{{type}}}}}}}}|{{{icon-text|{{#switch:{{lc:{{{type}}}}}\n|pc1 = All edits by unregistered and new users are subject to review\n|pc2 = All edits by users who are not reviewers or administrators are subject to review\n|template = This is a permanently protected {{pp-meta/pagetype}}\n|#default = This {{pp-meta/pagetype}} is {{#switch:{{lc:{{{type}}}}}\n  |semi=semi-\n  |move=move-\n  |indef=permanently<nowiki> </nowiki>\n  |create=creation-\n  |office=<!--null, but should this have a special tag?-->\n  |full\n  |#default=<!--null-->\n  }}protected\n}}{{#ifeq:{{lc:{{{type}}}}}|indef||{{#if:{{{expiry|}}}|<nowiki> </nowiki>until {{#time:F j, Y|{{{expiry}}}}}{{#if:{{{icon-reason|}}}|,}}}}}}{{#if:{{{icon-reason|}}}|<nowiki> </nowiki>{{{icon-reason}}}}}.}}}|alt={{#ifeq:{{lc:{{{type}}}}}|template\n |{{#switch:{{NAMESPACENUMBER}}\n   |10|828=Permanently protected {{pp-meta/pagetype}}\n   |#default=Page permanently protected\n  }}\n |Page {{#switch:{{lc:{{{type}}}}}\n          |pc1=protected with pending changes level 1\n          |pc2=protected with pending changes level 2\n          |semi=semi-protected\n          |move=move-protected\n          |indef=permanently protected\n          |create=creation-protected\n          |office=<!--null, but should this have a special tag?-->\n          |full\n          |#default=protected\n       }}\n}}]]</div>\n|<!-- else, not small -->\n{{mbox \n| name = {{{name|Pp-meta}}}\n| subst = {{{subst|}}}\n| demospace = {{{demospace|}}}\n| type = protection\n| image = [[Image:{{{image|{{#switch:{{lc:{{{type}}}}}\n |full=Padlock.svg\n |semi=Padlock-silver.svg\n |pc1=Padlock-silver-light.svg\n |pc2=Padlock-orange.svg\n |move=Padlock-olive.svg\n |template=Padlock-pink.svg\n |indef=Padlock-red.svg\n |office=Padlock-black.svg\n |create=Padlock-skyblue.svg\n |#default=Transparent.gif\n}}}}}|40px|{{{icon-text|{{#ifeq:{{lc:{{{type}}}}}|template\n                         |{{#switch:{{NAMESPACENUMBER}}\n                           |10|828=This is a permanently protected {{pp-meta/pagetype}}\n                           |#default=This page is permanently protected\n                          }}\n                         |This page is {{#switch:{{lc:{{{type}}}}}\n                                        |pc1=protected with pending changes level 1\n                                        |pc2=protected with pending changes level 2\n                                        |semi=semi-protected\n                                        |move=move-protected\n                                        |indef=permanently protected\n                                        |create=creation-protected\n                                        |office=protected<!--should this have a special tag?-->\n                                        |full\n                                        |#default=protected\n                                       }}\n                        }}.}}}]]\n| text = '''{{{reason-text|{{#switch:{{lc:{{{type}}}}}\n |full=This {{pp-meta/pagetype}} is currently [[Help:Protection|protected]] from editing\n |semi=Editing of this {{pp-meta/pagetype}} by [[Wikipedia:User access levels#New users|new]] or [[Wikipedia:User access levels#Unregistered users|unregistered]] users is currently [[Help:Protection|disabled]]\n |pc1=All edits made to this {{pp-meta/pagetype}} by [[Wikipedia:User access levels#New users|new]] or [[Wikipedia:User access levels#Unregistered users|unregistered]] users are currently [[Wikipedia:Pending changes|subject to review]]\n |pc2=All edits made to this {{pp-meta/pagetype}} by users who are not [[Wikipedia:Reviewing|reviewers]] or [[Wikipedia:Administrators|administrators]] are currently [[Wikipedia:Pending changes|subject to review]]\n |move=This {{pp-meta/pagetype}} is currently [[Help:Protection|protected]] from [[Help:Moving a page|page moves]]\n |template=This is a permanently [[Help:Protection|protected]] {{pp-meta/pagetype}}, as it is [[Wikipedia:High-risk templates|high-risk]]\n |indef=This page is [[Help:Protection|protected]] from editing ''indefinitely''\n |office=This {{pp-meta/pagetype}} is currently [[Help:Protection|protected]] from editing\n |create=[[Help:Starting a new page|Recreation]] of this {{pp-meta/pagetype}} [[Help:Protection|has been disabled]]\n}}{{#ifeq:{{lc:{{{type}}}}}|indef||{{#if:{{{expiry|}}}|&#32;until {{#time:F j, Y|{{{expiry}}}}}{{#if:{{{reason|}}}|,}}}}}}{{{reason<includeonly>|</includeonly>}}}.}}}'''<br /> {{{explanation-text|{{#ifeq:{{lc:{{{dispute}}}}}|yes|This protection is '''not''' an endorsement of the {{#ifeq:{{{type}}}|move|[{{fullurl:Special:Log|type=move&page={{FULLPAGENAMEE}}}} current title]|[{{fullurl:{{FULLPAGENAMEE}}|action=history}} current version]}}.}} See the [[Wikipedia:Protection policy|protection policy]] and [{{fullurl:Special:Log|type={{#switch:{{lc:{{{type}}}}} | pc1 | pc2 = stable | #default = protect }}&page={{FULLPAGENAMEE}}}} {{#switch:{{lc:{{{type}}}}} | pc1 | pc2 = pending changes | #default = protection }} log] for more details. {{#switch:{{lc:{{{type}}}}}\n |full|indef=Please discuss any changes on the [[{{TALKPAGENAME}}#{{#if:{{{section|}}}|{{{section}}}|top}}|talk page]]; you may {{Submit an edit request/link|display=submit a request}} to ask an [[Wikipedia:Administrators|administrator]] to make an edit if it is [[Help:Minor edit#When to mark an edit as a minor edit|uncontroversial]] or supported by [[Wikipedia:Consensus|consensus]]. {{#ifeq:{{NAMESPACE}}|{{ns:8}}<!--MediaWiki-->||You may also [[Wikipedia:Requests for page protection#Current requests for reduction in protection level|request]] that this page be unprotected.}}\n |semi=If you cannot edit this {{pp-meta/pagetype}} and you wish to make a change, you can {{#ifeq:{{NAMESPACE}}|{{TALKSPACE}}||{{submit an edit request/link|type=semi|display=request an edit}}, [[{{TALKPAGENAME}}|discuss changes on the talk page]],}} [[Wikipedia:Requests for page protection#Current requests for reduction in protection level|request unprotection]], [[Special:Userlogin|log in]], or [[Special:UserLogin/signup|create an account]].\n |move=The page may still be edited but cannot be moved until unprotected. Please discuss any suggested moves on the [[{{TALKPAGENAME}}|talk page]] or at [[Wikipedia:Requested moves]].  You can also [[Wikipedia:Requests for page protection|request]] that the page be unprotected.  \n |template=Please discuss any changes on the [[{{TALKPAGENAME}}#{{#if:{{{section|}}}|{{{section}}}|top}}|talk page]]; you may {{Submit an edit request/link|type=template|display=submit a request}} to ask an [[Wikipedia:Administrators|administrator]] or [[Wikipedia:Template editor|template editor]] to make an edit if it is [[Help:Minor edit#When to mark an edit as a minor edit|uncontroversial]] or supported by [[Wikipedia:Consensus|consensus]]. {{#ifeq:{{NAMESPACE}}|{{ns:8}}<!--MediaWiki-->||You may also [[Wikipedia:Requests for page protection|request]] that this page be unprotected.}}\n |office=If you can edit this page, please discuss all changes and additions on the [[{{TALKPAGENAME}}|talk page]] first. '''Do not remove protection from this page unless you are authorized by the Wikimedia Foundation to do so.'''\n |create=Please see the {{#if:{{{xfd|}}}|'''[[{{{xfd}}}|deletion discussion]]''' or the}} [{{fullurl:Special:Log|type=delete&page={{FULLPAGENAMEE}}}} deletion log] for details of why this page was deleted. If you would like to create a page at this title, you must first [[Wikipedia:Requests for page protection|request]] for it to be unprotected, or contact the administrator who deleted the page for the deleted material to be restored. If unsuccessful, you can use [[Wikipedia:Deletion review|deletion review]].\n}}}}}\n}}\n}}|{{#ifeq:{{FULLPAGENAME}}|Template:Pp-meta|<!--nothing-->|[[Category:Wikipedia pages with incorrect protection templates]]}}}}<!--End if small--><includeonly>{{#ifeq:{{PROTECTIONLEVEL:edit}}{{lc:{{{demolevel|undefined}}}}}|templateeditorundefined|{{#switch:{{NAMESPACE}}|Template|Module=|[[Category:Wikipedia template-protected pages other than templates and modules]]}}}}{{#ifeq:{{lc:{{{categories|no}}}}}|no||{{{categories|}}}}}</includeonly><noinclude>\n\n{{documentation}}\n<!-- Add categories and interwikis to the /doc subpage, not here! -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T20:10:13Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Pp-meta/doc"
+          }
+        ],
+        "title": "Template:Pp-meta",
+        "touched": "2015-08-08T20:10:13Z"
+      },
+      "196": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Internal template-link templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pagelinks templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 254,
+        "length": 206,
+        "new": "",
+        "ns": 10,
+        "pageid": 196,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 254,
+            "slots": {
+              "main": {
+                "*": "[[Template:{{{1}}}]] ([[Special:Whatlinkshere/Template:{{{1}}}|links]], [[Template talk:{{{1}}}|talk]])<noinclude>\n[[Category:Internal template-link templates]]\n[[Category:Pagelinks templates]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T20:11:25Z"
+          }
+        ],
+        "title": "Template:Twlh",
+        "touched": "2015-08-08T20:11:25Z"
+      },
+      "197": {
+        "contentmodel": "wikitext",
+        "lastrevid": 255,
+        "length": 539,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 197,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 255,
+            "slots": {
+              "main": {
+                "*": "{{{{{substnp|}}}if|subst={{{substnp|}}}|eq|{{{4|+}}}|{{{4|-}}}|{{xpd3|d={{{d|}}}|gives={{{gives|gives}}}|l={{{l|}}}|{{{1}}}|{{{2|}}}|{{{3|}}}|{{{4}}}}}|{{{{{substnp|}}}if|subst={{{substnp|}}}|eq|{{{3|-}}}|{{{3|+}}}|{{xpd2|d={{{d|}}}|gives={{{gives|gives}}}|l={{{l|}}}|{{{1}}}|{{{2|}}}|{{{3}}}}}|{{{{{substnp|}}}if|subst={{{substnp|}}}|eq|{{{2|-}}}|{{{2|+}}}|{{xpd1|d={{{d|}}}|gives={{{gives|gives}}}|l={{{l|}}}|{{{1|}}}|{{{2|}}}}}|{{xpd0|d={{{d|}}}|gives={{{gives|gives}}}|l={{{l|}}}|{{{1}}}}}}}}}}}<noinclude>{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T20:11:54Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:If"
+          },
+          {
+            "ns": 10,
+            "title": "Template:P1"
+          },
+          {
+            "ns": 10,
+            "title": "Template:P2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd0"
+          }
+        ],
+        "title": "Template:Xpd",
+        "touched": "2015-08-08T20:14:10Z"
+      },
+      "198": {
+        "contentmodel": "wikitext",
+        "lastrevid": 256,
+        "length": 282,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:If/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 198,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 256,
+            "slots": {
+              "main": {
+                "*": "{{ {{{|safesubst:}}}p{{ {{{|safesubst:}}}#ifeq:{{{1}}}|eq|1|2}}|{{ {{{|safesubst:}}}p{{ {{{|safesubst:}}}#ifeq:{{{2}}}|{{{3}}}|1|2}}|{{{4|}}}|{{{5|}}}}}|{{ {{{|safesubst:}}}p{{ {{{|safesubst:}}}#if{{{1}}}:{{{2}}}|1|2}}|{{{3}}}|{{{4|}}}}}}}<noinclude>\n\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T20:12:14Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:If/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:P2"
+          }
+        ],
+        "title": "Template:If",
+        "touched": "2015-08-08T21:06:46Z"
+      },
+      "199": {
+        "contentmodel": "wikitext",
+        "lastrevid": 257,
+        "length": 120,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:P2/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 199,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 257,
+            "slots": {
+              "main": {
+                "*": "{{{2}}}<noinclude>\n\n{{documentation}}\n<!-- Add categories and interwikis to the /doc subpage, not here! -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T20:12:31Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:P2/doc"
+          }
+        ],
+        "title": "Template:P2",
+        "touched": "2015-08-08T20:12:31Z"
+      },
+      "200": {
+        "contentmodel": "wikitext",
+        "lastrevid": 258,
+        "length": 120,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:P1/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 200,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 258,
+            "slots": {
+              "main": {
+                "*": "{{{1}}}<noinclude>\n\n{{documentation}}\n<!-- Add categories and interwikis to the /doc subpage, not here! -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T20:13:07Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:P1/doc"
+          }
+        ],
+        "title": "Template:P1",
+        "touched": "2015-08-08T20:13:07Z"
+      },
+      "201": {
+        "contentmodel": "wikitext",
+        "lastrevid": 259,
+        "length": 308,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd0/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 201,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 259,
+            "slots": {
+              "main": {
+                "*": "<noinclude>{{documentation}}</noinclude><includeonly><code>\"{&#123;{{#if:{{{l|}}}|{{xpd/wl|{{{1}}}}}|<nowiki/>{{{1}}}}}}&#125;\"</code> {{{gives|{{{s|gives}}}}}} \"{{{{{1}}}}}\" {{#ifeq:{{{gives}}}|{{!!}}|{{!!}}}} [{{fullurl:special:ExpandTemplates|input=%22%7B%7B{{urlencode:{{{1}}}}}%7D%7D%22}}]</includeonly>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T20:13:58Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Xpd0/doc"
+          }
+        ],
+        "title": "Template:Xpd0",
+        "touched": "2015-08-08T20:13:58Z"
+      }
+    }
+  }
+}

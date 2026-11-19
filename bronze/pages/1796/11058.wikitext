@@ -1,0 +1,76 @@
+{{Infobox election
+|election_name = United States presidential election, 2040
+|country = United States
+|type = presidential
+|ongoing = no
+| flag_year = 2037 
+|previous_election = United States presidential election, 2036
+|previous_year = 2036
+|next_election = United States presidential election, 2044
+|next_year = 2044
+|election_date = November 6, 2040
+| votes_for_election         = All eligible voters who participate
+| needed_votes               = 51% of the vote
+| turnout                    = 68.7%
+| image1 = [[File:Maya_Garcia_Blank.png|150px]]
+| nominee1 = [[Maya Garcia]]
+| party1 = Liberal
+| home_state1 = Texas
+| running_mate1 = George P. Bush
+| electoral_vote1 = 
+| states_carried1 = 
+| popular_vote1 = 
+| percentage1 = 43.2%
+| image2 = [[File:Blank_Person.jpg|150px]]
+| nominee2 = [https://en.wikipedia.org/wiki/Ivory_A._Toldson Ivory Toldson]]
+| party2 = Labor
+| home_state2 = Maryland
+| running_mate2 = Max Goren
+| electoral_vote2 =
+| states_carried2 =
+| popular_vote2 =  
+| percentage2 =  41.1%
+| nominee5 = Tom Redding
+| party5 = Green
+| image5 = [[File:Blank_Person.jpg|150px]]
+| home_state5 = Florida
+| running_mate5 = Fletch Jones
+| electoral_vote5 = 
+| states_carried5 = 
+| popular_vote5 = 
+| percentage5 = 2.6%
+| nominee4 = Eva Landivar
+| party4 = Progressive
+| image4 = [[File:Blank_Woman.png|150px]]
+| home_state4 = Puerto Rico
+| running_mate4 = Richie Dallas
+| electoral_vote4 = 
+| states_carried4 =
+| popular_vote4 = 
+| percentage4 = 13.1%
+| title = President
+| before_election =  [[Dylan J. Price]]
+| before_party = Labor
+| after_election = [[Maya Garcia|Maya Garcia]]
+| after_party = Conservative}}
+
+
+
+The '''United States presidential election of 2040''' was the sixty-fourth quadrennial presidential election. Maya Garcia won the election, beating Ivory Toldson. Maya Garcia was the first president of the Conservative Party.
+
+
+==Nominations==
+
+==='''Labor'''===
+
+
+
+==='''Liberal'''===
+
+
+
+==='''Progressive'''===
+
+
+==='''Green'''===
+[[Category:United States Presidential Elections]]

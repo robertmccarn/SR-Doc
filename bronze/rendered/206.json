@@ -1,0 +1,18 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"shortcutbox shortcutbox-template plainlinks noprint\" style=\"float:right;margin:0.3em 0.3em 0.3em 1.0em;border:1px solid #aaa;background:#fff;padding:3px;text-align:center;\"><tbody><tr><th style=\"font-size:85%;border:none;background:transparent;\"> Shortcut\n<div class=\"plainlist\" style=\"font-size:120%;font-family:monospace;\">\n<ul><li>&#123;&#123;<strong class=\"mw-selflink selflink\">Template shortcut</strong>&#125;&#125;</li></ul></div></th></tr>\n</tbody></table>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:Template shortcut/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGVtcGxhdGVfc2hvcnRjdXQvZG9jP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">Template:Template_shortcut/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:Template shortcut/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGVtcGxhdGVfc2hvcnRjdXQvZG9jP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">Template:Template shortcut/doc</span></div>\n<!-- \nNewPP limit report\nCached time: 20261119205413\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.010 seconds\nReal time usage: 0.016 seconds\nPreprocessor visited node count: 56/1000000\nPost‐expand include size: 601/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    3.335      1 Template:Documentation\n100.00%    3.335      1 -total\n 35.23%    1.175      1 Template:Template_shortcut/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:206-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205413 and revision id 264. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Template shortcut/doc",
+      "ns": 10
+    }
+  ],
+  "page_id": 206,
+  "revision_id": 264,
+  "title": "Template:Template shortcut"
+}

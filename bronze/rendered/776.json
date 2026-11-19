@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "*": "TemplateData_documentation",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:Refend/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6UmVmZW5kL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:Refend/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:Refend/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6UmVmZW5kL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:Refend/doc</span></div>\n<div class=\"templatedata-header\">This is the <a href=\"https://en.wikipedia.org/wiki/TemplateData\" class=\"extiw\" title=\"wikipedia:TemplateData\">TemplateData</a> documentation for this template used by <a href=\"https://en.wikipedia.org/wiki/VisualEditor\" class=\"extiw\" title=\"wikipedia:VisualEditor\">VisualEditor</a> and other tools.\n<p><b>Refend</b>\n</p>\n</div>\n<section class=\"mw-templatedata-doc-wrap\"><header><p class=\"mw-templatedata-doc-desc\">Ends a reference lists started by {{refbegin}}.</p></header><table class=\"wikitable mw-templatedata-doc-params\"><caption><p class=\"mw-templatedata-caption\">Template parameters<mw:edittemplatedata page=\"Template:Refend\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><td class=\"mw-templatedata-doc-muted\" colspan=\"7\">No parameters specified</td></tr></tbody></table></section>\n\n<!-- \nNewPP limit report\nCached time: 20261119205523\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.011 seconds\nReal time usage: 0.018 seconds\nPreprocessor visited node count: 22/1000000\nPost‐expand include size: 835/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 563/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    7.095      1 -total\n 79.75%    5.658      1 Template:Template_doc\n 19.57%    1.389      1 Template:TemplateDataHeader\n 14.14%    1.003      1 Template:Refend/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:776-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205523 and revision id 1049. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Refend/doc",
+      "ns": 10
+    }
+  ],
+  "page_id": 776,
+  "revision_id": 1049,
+  "title": "Template:Refend"
+}

@@ -1,0 +1,6 @@
+&#123;{[[Template:{{{1}}}|{{{1}}}]]}}&nbsp;([[Template talk:{{{1}}}|t]]/[{{SERVER}}{{localurl:Special:Whatlinkshere/Template:{{{1}}}|limit=999}} l])<noinclude>
+{{pp-template|small=yes}}
+
+[[Category:Internal template-link templates]]
+[[Category:Pagelinks templates]]
+</noinclude>

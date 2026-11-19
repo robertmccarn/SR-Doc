@@ -1,0 +1,22 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"plainlinks ombox ombox-notice\" style=\"\">\n<tbody><tr>\n<td class=\"mbox-image\">\n  <span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://static.wikia.nocookie.net/second-renaissance/images/3/31/Imbox_notice.png/revision/latest?cb=20150808172510\" decoding=\"async\" loading=\"lazy\" width=\"40\" height=\"40\" class=\"mw-file-element\" data-image-name=\"Imbox notice.png\" data-image-key=\"Imbox_notice.png\" data-relevant=\"0\" /></span></span></td>\n<td class=\"mbox-text\" style=\"\"> This template is safe for use in citation templates that produce <span class=\"new\" title=\"COinS (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvQ09pblM/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">COinS</span> metadata; see <a href=\"https://en.wikipedia.org/wiki/COinS\" class=\"extiw\" title=\"wikipedia:COinS\">COinS in Wikipedia</a>. If HTML or other markup is added, then the template must be reevaluated. </td>\n</tr>\n</tbody></table>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:COinS safe/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6Q09pblNfc2FmZS9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:COinS_safe/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:COinS safe/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6Q09pblNfc2FmZS9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:COinS safe/doc</span></div>\n\n<!-- \nNewPP limit report\nCached time: 20261119205530\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.019 seconds\nReal time usage: 0.030 seconds\nPreprocessor visited node count: 201/1000000\nPost‐expand include size: 2827/2097152 bytes\nTemplate argument size: 810/2097152 bytes\nHighest expansion depth: 14/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   17.171      1 -total\n 83.31%   14.305      1 Template:Notice\n 59.23%   10.171      1 Template:Mbox\n 29.71%    5.101      1 Template:Ombox\n 17.18%    2.950      1 Template:Ombox/core\n 16.37%    2.811      1 Template:Namespace_detect\n 16.30%    2.798      1 Template:Documentation\n  6.94%    1.191      1 Template:COinS_safe/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:832-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205530 and revision id 1145. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:COinS safe/doc",
+      "ns": 10
+    },
+    {
+      "*": "COinS",
+      "ns": 0
+    }
+  ],
+  "page_id": 832,
+  "revision_id": 1145,
+  "title": "Template:COinS safe"
+}

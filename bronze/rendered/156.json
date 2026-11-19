@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "*": "Template_documentation_pages",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"plainlinks ombox ombox-notice\" style=\"margin-bottom:1.0em;\">\n<tbody><tr>\n<td class=\"mbox-image\">\n  <span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://static.wikia.nocookie.net/second-renaissance/images/1/15/Edit-copy_green.svg/revision/latest/scale-to-width-down/40?cb=20150808172902\" decoding=\"async\" loading=\"lazy\" width=\"40\" height=\"40\" class=\"mw-file-element\" data-image-name=\"Edit-copy green.svg\" data-image-key=\"Edit-copy_green.svg\" data-relevant=\"0\" /></span></span></td>\n<td class=\"mbox-text\" style=\"\"> <b>This is a <a href=\"https://en.wikipedia.org/wiki/Template_documentation\" class=\"extiw\" title=\"wikipedia:Template documentation\">documentation</a> <a href=\"https://en.wikipedia.org/wiki/Subpages\" class=\"extiw\" title=\"wikipedia:Subpages\">subpage</a> for <a href=\"/wiki/Template:Progress_templates\" title=\"Template:Progress templates\">Template:Progress templates</a></b>.<br />It contains usage information, <a href=\"https://en.wikipedia.org/wiki/Categorization\" class=\"extiw\" title=\"wikipedia:Categorization\">categories</a> and other content that is not part of the original template page. </td>\n</tr>\n</tbody></table>\n<p><b>How to manage this template's initial visibility</b><br />\nTo manage this template's visibility when it first appears, <a href=\"https://community.fandom.com/wiki/Help:Template\" title=\"Help:Template\">add the parameter</a>:\n</p>\n<dl><dd><code class=\"nowrap\">&#124;state&#61;collapsed</code> to show the template in its collapsed state, i.e. hidden apart from its titlebar&#160;– e.g. <code>{{Progress templates |state=collapsed}}</code></dd>\n<dd><code class=\"nowrap\">&#124;state&#61;expanded</code> to show the template in its expanded state, i.e. fully visible&#160;– e.g. <code>{{Progress templates |state=expanded}}</code></dd>\n<dd><code class=\"nowrap\">&#124;state&#61;autocollapse</code> to show the template in its collapsed state <i>but only if</i> there is another template of the same type on the page&#160;– e.g. <code>{{Progress templates |state=autocollapse}}</code></dd></dl>\n<p>Unless set otherwise (see the <code class=\"nowrap\">&#124;state&#61;</code> parameter in the template's code), the template's default state is <code>autocollapse</code>.\n</p><p><br />\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119205408\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.026 seconds\nReal time usage: 0.044 seconds\nPreprocessor visited node count: 292/1000000\nPost‐expand include size: 5430/2097152 bytes\nTemplate argument size: 1211/2097152 bytes\nHighest expansion depth: 17/100\nExpensive parser function count: 2/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 65/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   21.416      1 -total\n 58.52%   12.533      1 Template:Documentation_subpage\n 40.95%    8.769      1 Template:Collapsible_option\n 40.41%    8.654      1 Template:Mbox\n 23.50%    5.032      1 Template:Template_other\n 22.39%    4.796      1 Template:Ombox\n 12.46%    2.668      1 Template:Ombox/core\n 10.24%    2.192      1 Template:Namespace_detect\n  7.36%    1.575      4 Template:Para\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:156-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205408 and revision id 212. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Progress templates",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Help:Template",
+      "ns": 12
+    }
+  ],
+  "page_id": 156,
+  "revision_id": 212,
+  "title": "Template:Progress templates/doc"
+}

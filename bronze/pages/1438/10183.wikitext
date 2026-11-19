@@ -1,0 +1,95 @@
+{{Infobox former country
+| conventional_long_name = Eurasian Trade and Security Coalition
+| native_name = 
+| common_name = Coalition
+| _noautocat  = yes
+| status      = [[Wikipedia:Collective security#Collective defense|Military alliance]]
+| continent   = Eurasia
+| era         = World War III
+|life_span = 2046-2055
+ | event_start = 
+ | year_start = 2046
+ | date_start = 25 November 
+ | event_end = Dissolved
+ | year_end = 2055
+ | date_end = 2 September
+ | event1 = [[Bilateral Security Agreement]]
+ | date_event1= 2046
+ | event2 = 
+ | date_event2 = 
+| p1 = 
+| p1_flag = 
+| image_map2  = WWIII.png
+| image_map2_caption = {{plainlist | style = padding-left: 0.6em; text-align: left; |
+*{{color box|#63B74E}} [[Allies of World War III|Allied forces]]
+*{{color box|#2AACF6}} '''Coalition forces''' (and their allies)
+*{{color box|#00FFFF}} Coalition forces entering after 2052.
+*{{color box|#C6BDC7}} Neutral powers}}
+----
+{{plainlist | style = padding-left: 0.6em; text-align: left; |
+'''Bilateral Agreement:'''
+*{{flag|Japan|size=22px}} 
+*{{flag|Turkey|size=22px}}
+}}
+----
+{{plainlist | style = padding-left: 0.6em; text-align: left; |
+'''Greater Caspian Community:''' 
+*{{flag|Egypt|size=22px}}
+*{{flag|Arabian Federal Republic|size=22px}}
+*{{flag|Turkmenistan|size=22px}} 
+*{{flag|Uzbekistan|size=22px}}
+*{{flag|Karakalpakstan|size=22px}}
+*{{flag|Kazakhstan|size=22px}}
+*{{flag|Kyrgyzstan|size=22px}}
+*{{flag|State of Assyria|size=22px}}
+*{{flag|Lebanon|size=22px}}
+*{{flag|Alawite State|size=22px}}
+*{{flag|Jabal al Druze|size=22px}}
+}}
+----
+{{plainlist | style = padding-left: 0.6em; text-align: left; |
+'''North Pacific Security Council:'''
+*{{flag|Primorye|size=22px}} 
+*{{flag|State of Manchuria|size=22px}} 
+*{{flag|Mongol Republic|size=22px}}
+*{{flag|Kamchatka Republic|size=22px}} }}
+----
+{{plainlist | style = padding-left: 0.6em; text-align: left; |
+'''Co-Belligerents:'''
+*{{flag|Chukotka|size=22px}}
+*{{flag|East Turkestan|size=22px}}
+*{{flag|Albania|size=22px}} 
+*{{flag|Chinese State|size=22px}}
+*{{flag|Republic of Sicily and Naples}}
+*{{flag|Laos|size=22px}}
+*{{flag|Vietnam|size=22px}} }}}}
+
+
+
+
+The '''Eurasian Coalition''', were the countries that together opposed the [[Allies of World War III|Allied powers]] during the [[World War III|Third World War]] (2051–2055). The Coalition promoted the alliance as seeking to unify Eurasia under a common economic and security pact, but did not completely coordinate their activities.
+
+The Coalition grew out of the diplomatic efforts of Turkey and Japan to secure their own economic and security interests in the mid-2040s, specifically in opposition to what was seen as unfair treatment by the United Nations. The first step was the treaty signed by Turkey and Japan in 2046. [[Abdul Şahin]] declared on 1 November that the chaos of Eurasia could only be secured by a common Coalition of concerned powers. The Eurasian Trade and Security Coalition became a military alliance in 2046 under the Bilateral Security Agreement of 2046 leading to the integration of the military aims of Turkey and Japan, and their treaty bound allies.
+
+At its zenith during World War III, the Coalition presided over territories that occupied large parts of the Eurasian Steppe, the European Plain, and the North Pacific. Bilateral summits were rare, and cooperation and coordination were fairly limited. The war ended in 2055 with the defeat of the Coalition powers and the dissolution of their alliance. As in the case of the Allies, membership of the Coalition was fluid, with some nations switching sides or changing their degree of military involvement over the course of the war.
+
+==Major affiliated combatants==
+==='''Turkey'''===
+Turkey begins a prolonged occupation of Arabia after the fall of the Islamic State and US disengagement from the Middle East. Over the next decade Turkish power expanded to every corner of the Middle East and even into southern Russia. The Turks used infrastructure to consolidate their power, building the largest oil pipeline in history, stretching from the Arctic to the Bosporus.
+
+[[File:Greater_Caspian_Community.png|thumb|Greater Caspian Community at its greatest extent]]
+Şahin in 2052 described the outbreak of World War III as the failure of the old Euro-American International System at keeping Eurasia at peace after the fall of Russia, forcing Turkey to intervene to protect itself. Sahin reasoned that the war was the result of the Americans refusing to create a suitable coalition and then resenting Turkey when they took the lead. Sahin saw it as Turkey's duty to become a world power and change the geopolitical order of Western Eurasia.
+
+==='''Japan'''===
+The Japanese had organized their base of power under the North Pacific Security Council, Free Trade Zone with an integrated military under Japanese command that at the time of its formation was lauded as the Pacific NATO.
+
+[[File:North_Pacific_Security_Council.png|thumb|North Pacific Security Council at its greatest extent]]
+
+After the fall of China and Russia, Japan was left the soul military power in the Northern Pacific, and the US once again encouraged Japan to take action, this time as the enforcer of international law in a chaotic region. The result was the crafting of the North Pacific Security Council, at the time a loose coalition of former Russian nations and business interests who met regularly to discuss common regional interests. The US worked with the NPSC regularly to secure Russian and Chinese nuclear and space assets that had come under threat, and the council was eventually granted a special position within the United Nations with Japan representing the bloc as a permanent member of the United Nations Security Council.
+
+By 2034 the council formalized its membership and crafted a common defense under Japan, and by 2039 the NPSC included free trade provisions that allowed Japan to begin exporting its industrial capacity to regions with a population surplus. It wasn't long after that Japan began formalizing its economic interests in the region with the creation of the Extraterritorial Districts, and the path to a confrontation with the US began.
+
+==Minor affiliated combatants==
+==='''Germany'''===
+==='''France'''===
+[[Category:World War III]]

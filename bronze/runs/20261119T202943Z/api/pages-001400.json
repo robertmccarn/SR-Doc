@@ -1,0 +1,1534 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "1459": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3394,
+        "length": 25,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1459,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3394,
+            "slots": {
+              "main": {
+                "*": "Who did you have in mind?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-23T16:37:14Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170323142446/@comment-899576-20170323163714",
+        "touched": "2017-03-23T16:37:14Z"
+      },
+      "1460": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3395,
+        "length": 17,
+        "new": "",
+        "ns": 1,
+        "pageid": 1460,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3395,
+            "slots": {
+              "main": {
+                "*": "Of course, he is.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-23T17:12:31Z"
+          }
+        ],
+        "title": "Talk:Reed Chen/@comment-5590986-20170323141123/@comment-27084453-20170323171230",
+        "touched": "2017-03-23T17:12:31Z"
+      },
+      "1461": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3397,
+        "length": 215,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1461,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3397,
+            "slots": {
+              "main": {
+                "*": "Please don't change anything. It would screw things up. I do think though that once the first 100 days are over we should do a major revamp of the Trump page, the 2020 page, and everything remotely connected to him.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-23T19:04:40Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170323142446/@comment-30470028-20170323190440",
+        "touched": "2017-03-23T19:04:40Z"
+      },
+      "1462": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3401,
+        "length": 533,
+        "ns": 1201,
+        "pageid": 1462,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3400,
+            "revid": 3401,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">Freedim98 wrote:<br />Please don't change anything. It would screw things up. I do think though that once the first 100 days are over we should do a major revamp of the Trump page, the 2020 page, and everything remotely connected to him.</div>\nI was speaking about future presidents after the fact, I saw that presidents were added overtime (when I last saw the second rennaisance, Lionel Halvidar was still president), it wouldn't screw things up to continue making new Presidents to continue the timeline y'know.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-23T22:48:21Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170323142446/@comment-5590986-20170323224657",
+        "touched": "2017-03-23T22:48:22Z"
+      },
+      "1463": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3402,
+        "length": 62,
+        "new": "",
+        "ns": 1,
+        "pageid": 1463,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3402,
+            "slots": {
+              "main": {
+                "*": "It should note that he should be the first Asian president imo",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-23T22:49:11Z"
+          }
+        ],
+        "title": "Talk:Reed Chen/@comment-5590986-20170323141123/@comment-5590986-20170323224911",
+        "touched": "2017-03-23T22:49:11Z"
+      },
+      "1464": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4417,
+        "length": 3078,
+        "ns": 1201,
+        "pageid": 1464,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3421,
+            "revid": 4417,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">YNot1989 wrote:<br />Who did you have in mind?</div>\n(I noticed that this thread is 1453 lol sry just a little nervous)\n\nWell how good is the security of the United States as of the 2160s? Because I have noticed that there hasn't been one disruption of presidential terms for almost 200 years (last was like 1970s). I'd assume that the security tech in the future would be enough to protect the US president, although many people can find a way around it. So basically what I am proposing is something that could spice things up a bit in the long uninterrupted presidential timeline. You probably guessed it would be an assassination.\n\nSo heres how it would go: I noticed that the latest president, Dom, is nearing the 2160 presidential election. Which is actually a perfect pinning point for a president in the 2160s to mirror events similar to the [https://en.wikipedia.org/wiki/Lincoln%E2%80%93Kennedy_coincidences_urban_legend#The_list lincoln-kennedy coincidence] .\n\nWhat I am proposing is that the current president, Dom, would lose presidential nomination (which probably didn't happen for a while in the timeline as well)  (or maybe he only plans 1 term) to a different member of the New Republican party (so it could switch from Republican Pres in 1860s, Democrat Pres in 1960s, and New Republican again in 2160s) so they could get elected in 2160s.\n\nPerhaps a charismatic someone named Gord (or Jord) Teporis (Genitive latin for: of Trepidity, of coolness, or of warmth) (it can be noted he has a 7 letter last name similar to Kennedy or Lincoln), can be elected president of the United States in 2161 until his assassination in early 2164 (between '63 for Kennedy and '65 for Lincoln). Elected to the House of Representatives in 2146, being from Saturn. He ran for vice presidential nomination in 2156 but was defeated by Horace. Perhaps some sort of youth trend (or just his popularity at personally reaching out to people like gaming or something) helped. Teporis win nomination (in mirroring from Kennedy) at perhaps 38 years old (referencing Lisa Simpson becoming president as a 38 year old) and being one of the youngest president of the US (any other age can be fine tho, if it can't be 38 then he should at least be the first \"Rainbow\" human as president, perhaps a purple streak through his hair, or both), as well as being the first president who's home is from Saturn. He can be the result of the [http://second-renaissance.wikia.com/wiki/Ninth_Party_System 2160 rise of a new American Nationalism ]according to this (I realize that  he could be about to deal with colonial integration as Teporis is from Saturn) (and perhaps the Union-Progress party would win in 2168 presidential election in result)\n\nHis vice president can be Anakin Ford Johnson (referencing the two Lyndon and Andrew Johnsons, and also referencing Ford theatre lincoln was in and Ford car kennedy rode on, and the vice pres 6 letter names).\n\nthat was my idea to help spice up the uninterrupted presidential full-term timeline, anything to change?what do you think?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-17T05:37:29Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170323142446/@comment-5590986-20170323234044",
+        "touched": "2017-07-17T05:37:29Z"
+      },
+      "1465": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3416,
+        "length": 60,
+        "new": "",
+        "ns": 1,
+        "pageid": 1465,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3416,
+            "slots": {
+              "main": {
+                "*": "I am afraid that moniker is already taken by Dylan J. Price.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-24T01:30:32Z"
+          }
+        ],
+        "title": "Talk:Reed Chen/@comment-5590986-20170323141123/@comment-27084453-20170324013032",
+        "touched": "2017-03-24T01:30:32Z"
+      },
+      "1466": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3417,
+        "length": 50,
+        "new": "",
+        "ns": 1,
+        "pageid": 1466,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3417,
+            "slots": {
+              "main": {
+                "*": "Dylan J. Price?\n\nMeh, well half-asian I'd presume?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-24T01:35:11Z"
+          }
+        ],
+        "title": "Talk:Reed Chen/@comment-5590986-20170323141123/@comment-5590986-20170324013511",
+        "touched": "2017-03-24T01:35:12Z"
+      },
+      "1467": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3418,
+        "length": 16,
+        "new": "",
+        "ns": 1,
+        "pageid": 1467,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3418,
+            "slots": {
+              "main": {
+                "*": "I think so, too.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-24T01:58:57Z"
+          }
+        ],
+        "title": "Talk:Reed Chen/@comment-5590986-20170323141123/@comment-27084453-20170324015857",
+        "touched": "2017-03-24T01:58:57Z"
+      },
+      "1468": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3422,
+        "length": 581,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1468,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3422,
+            "slots": {
+              "main": {
+                "*": "I appreciate your proposal. But 2160 is the current cutoff date. If I decide to extend it, I'd be happy to include your idea.\n\nNow, I am open to changing the order of succession of Presidents (though some are set in stone. Carla Anderson, Tom Steele, Evalyn Jacobi, Lionel Halvidar, Oscar Lachman, the big ones basically) however it is worth noting that the formation of the office, only one British Prime minister has ever been assassinated, Spencer Perceval in 1821, almost 200 years ago. So its not that odd for so much time to pass without an assassination of a head of state.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-24T23:39:22Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170323142446/@comment-899576-20170324233922",
+        "touched": "2017-03-24T23:39:23Z"
+      },
+      "1469": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3423,
+        "length": 302,
+        "new": "",
+        "ns": 1,
+        "pageid": 1469,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3423,
+            "slots": {
+              "main": {
+                "*": "You'll notice that I never mention this despite Presidents becoming a lot more diverse as time goes on. This is because to someone reading this in 2160, your race is seen as no more significant than your ancestry (in the context of white guys claiming they're 1/16 Irish, 3/16 French, and 3/4 Scottish)",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-24T23:43:03Z"
+          }
+        ],
+        "title": "Talk:Reed Chen/@comment-5590986-20170323141123/@comment-899576-20170324234303",
+        "touched": "2017-03-24T23:43:03Z"
+      },
+      "1470": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3429,
+        "length": 901,
+        "ns": 1201,
+        "pageid": 1470,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3428,
+            "revid": 3429,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">YNot1989 wrote:<br />I appreciate your proposal. But 2160 is the current cutoff date. If I decide to extend it, I'd be happy to include your idea.\n\nNow, I am open to changing the order of succession of Presidents (though some are set in stone. Carla Anderson, Tom Steele, Evalyn Jacobi, Lionel Halvidar, Oscar Lachman, the big ones basically) however it is worth noting that the formation of the office, only one British Prime minister has ever been assassinated, Spencer Perceval in 1821, almost 200 years ago. So its not that odd for so much time to pass without an assassination of a head of state.\n</div>\nAlright, thank you. Would i be able to contribute to the lore of the page (Teporis') if it's ever created?\n\nAnd btw, I was thinking of a few ideas to change several presidents, but I think most of them are already set in stone so maybe not rn\n\n\n\nthx for the reply and info",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-25T01:03:05Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170323142446/@comment-5590986-20170325005658",
+        "touched": "2017-03-25T01:03:05Z"
+      },
+      "1471": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3430,
+        "length": 1109,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1471,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3430,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">Batran99 wrote:<br /><div class=\"quote\">YNot1989 wrote:<br />I appreciate your proposal. But 2160 is the current cutoff date. If I decide to extend it, I'd be happy to include your idea.\n\nNow, I am open to changing the order of succession of Presidents (though some are set in stone. Carla Anderson, Tom Steele, Evalyn Jacobi, Lionel Halvidar, Oscar Lachman, the big ones basically) however it is worth noting that the formation of the office, only one British Prime minister has ever been assassinated, Spencer Perceval in 1821, almost 200 years ago. So its not that odd for so much time to pass without an assassination of a head of state.\n</div>Alright, thank you. Would i be able to contribute to the lore of the page (Teporis') if it's ever created?\n\nAnd btw, I was thinking of a few ideas to change several presidents, but I think most of them are already set in stone so maybe not rn\n\n\n\nthx for the reply and info\n</div>\nI think that most of the presidents are fine, and if they are gonna be changed it should wait until the revamp will do after Trump's first hundred days are over.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-25T01:56:05Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170323142446/@comment-30470028-20170325015605",
+        "touched": "2017-03-25T01:56:05Z"
+      },
+      "1472": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3431,
+        "length": 172,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1472,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3431,
+            "slots": {
+              "main": {
+                "*": "If I give the go ahead to create said President you are free to expand the lore, but I retain my right to approve anything created for this universe and edit at my leisure.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-25T03:32:13Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170323142446/@comment-899576-20170325033213",
+        "touched": "2017-03-25T03:32:13Z"
+      },
+      "1473": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3434,
+        "length": 260,
+        "ns": 1201,
+        "pageid": 1473,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3433,
+            "revid": 3434,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">YNot1989 wrote:<br />If I give the go ahead to create said President you are free to expand the lore, but I retain my right to approve anything created for this universe and edit at my leisure.</div>\nWell i understand, that's why I asked lol",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-25T06:22:12Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170323142446/@comment-5590986-20170325061844",
+        "touched": "2017-03-25T06:22:12Z"
+      },
+      "1474": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Associated states"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Countries in Asia"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:255px-Flag of India.svg.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Emblem of India.png"
+          }
+        ],
+        "lastrevid": 11815,
+        "length": 4213,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Bangladesh"
+          },
+          {
+            "ns": 0,
+            "title": "Coat of arms of India"
+          },
+          {
+            "ns": 0,
+            "title": "Demographics of India"
+          },
+          {
+            "ns": 0,
+            "title": "Eurasian Coalition"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of India"
+          },
+          {
+            "ns": 0,
+            "title": "ISO 4217"
+          },
+          {
+            "ns": 0,
+            "title": "List of countries by population"
+          },
+          {
+            "ns": 0,
+            "title": "Politics of India"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1474,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11808,
+            "revid": 11815,
+            "slots": {
+              "main": {
+                "*": "{{Infobox country\n|conventional_long_name = United Indian Republic\n|national_motto = \"Satyameva Jayate\"\n|national_anthem = \"Jana Gana Mana\"\n|capital = New Delhi\n|largest_city = Karachi\n|languages = English, Hindi|languages_type = Official languages\n|government_type = Federal presidential constitutional republic\n|leader_title1 = President\n|leader_name1 = Giani Patil\n|legislature = Parliament of India\n|upper_house = Senate\n|lower_house = House of the People\n|established_event1 = Founded\n|sovereignty_type = Unification\n|established_event2 = \n|established_date1 = January 16, 2141\n|established_event3 =  \n|established_date2 = \n|established_event4 = \n|established_date3 =\n|established_date4 = \n|area_rank = 6th\n|area_sq_mi = \n|population_estimate = >1.334 billion\n|population_estimate_year = 2160\n|population_estimate_rank = 3rd\n|currency = United States Dollar ($)\n|currency_code = USD\n|image_flag = 255px-Flag of India.svg.png\n|image_coat = Emblem_of_India.png\n|leader_title2 = Vice President\n|leader_name2 = Mohammad Shah \n}}\n\n'''India''' is an independent sovereign nation and a United States associated state consisting of the whole of the Indian Subcontinent. The region is commonly called India in contemporaneous usage, however the formal political union is also called the United Indian Republic was one of the founding members of the American protectorate system.\n\nIndia was divided for much of its history, having only been unified for less than a century by the British Empire, prior to the Compact of Free Association with the United States. India was divided between fifteen nation-states prior to unification after the Third Mexican War (2141), and after the end of British rule in 1947 the subcontinent was split between two Muslim and one Hindu majority states.\n\n==History==\n==='''British Raj'''===\n==='''Decolonization and Independence'''===\n\n=== [[The Flood]] ===\nThe famine caused by The Flood plunged Pakistan into civil war, prompting India to send a large military force to the India-Pakistan Border to maintain security. However, the large influx of refugees into Kashmir caused by the war between Afghanistan and various Pakistani factions eventually caused an uprising against Indian administration. India, wanting to focus more on addressing the Bangladeshi revolt, granted the Kashmiris independence after Iran and the US agreed to help India remove nuclear weapons from Pakistan.   \n\nAs for the Bangladeshi revolt, the Bangladeshi government collapsed in October 2027, prompting a large influx of 80 million Bengali Muslim refugees into northeast India, and the Indian government struggled to provide adequate accommodations for them, causing the Bengali population in West Bengal and northeast India to revolt against the Indian government. They were soon joined by the Assamese and other northeast Indian ethnic groups wishing to gain more autonomy from India. Between 2027-2029, the forces of the  [[Bangladesh|People's Republic of Bangladesh]] expelled all Indian forces and defeated opposing ethnic militias to consolidate a new stable Bangladeshi government, and in May 2029 India recognized the new borders of Bangladesh in the Kolkata Accords.   \n\nDuring the Bangladesh-India War, the former state of Sikkim voted to join Nepal, seceding from India as all-out fighting broke out between the Bangladeshis and Indians, and they closed off their border and largely avoided the chaos that engulfed the rest of the subcontinent.  \n\nFood shortages, riots, and military defections were the order of the day for India for over a decade as the nation's military made every attempt to keep the country together. The national government cracked down on civil liberties, nationalized agriculture and briefly instituted a 1-Child Policy to hold the country together. \n\n===[[World War III]]===\nIndia was a member of the [[United States of America|United States]]-led alliance in the war, but their role in the war is limited given the domestic instability of the country, and the Indians only sent minimal military aid and personnel to aid in the fighting, in addition to embargoes on [[Eurasian Coalition|Coalition]] countries\n[[Category:Countries in Asia]]\n[[Category:Associated states]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-07-19T18:19:58Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          }
+        ],
+        "title": "India",
+        "touched": "2025-07-19T18:19:58Z"
+      },
+      "1475": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3450,
+        "length": 725,
+        "new": "",
+        "ns": 1,
+        "pageid": 1475,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3450,
+            "slots": {
+              "main": {
+                "*": "in the description it said the US has \"<span style=\"font-size:14px;font-weight:normal;\">is a federal presidential constitutional republic comprising 81 states and numerous territories on Earth and throughout local space.\"</span>\n\n<span style=\"font-size:14px;font-weight:normal;\">while in political divisions it says it has \"</span><span style=\"font-weight:normal;font-size:14px;\">The United States is a federal union of eight </span>[http://second-renaissance.wikia.com/wiki/U.S._planetary_commonwealth Planetary Commonwealths]<span style=\"font-weight:normal;font-size:14px;\"> and hundreds of states\"</span>\n\n\n\n<span style=\"font-weight:normal;font-size:14px;\">How many states it has exactly? I'd assume it's over 200</span>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-28T20:38:59Z"
+          }
+        ],
+        "title": "Talk:United States of America/@comment-5590986-20170328203859",
+        "touched": "2017-03-28T20:38:59Z"
+      },
+      "1476": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3453,
+        "length": 5,
+        "new": "",
+        "ns": 1,
+        "pageid": 1476,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3453,
+            "slots": {
+              "main": {
+                "*": "Fixed",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-03-28T21:31:25Z"
+          }
+        ],
+        "title": "Talk:United States of America/@comment-5590986-20170328203859/@comment-30470028-20170328213125",
+        "touched": "2017-03-28T21:31:25Z"
+      },
+      "1477": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Technology"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11384,
+        "length": 4912,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Biorobotics boom"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican Vacuum Command"
+          },
+          {
+            "ns": 0,
+            "title": "O'Neil Ships"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1477,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11161,
+            "revid": 11384,
+            "slots": {
+              "main": {
+                "*": "'''Orbital Habitats''' or simply '''Orbitals''' or '''Habitats '''are a variety of human settlements in space that are not confined to the surface of a large planet or moon. Most space colonies were constructed from asteroids or comets from the Asteroid Belt and the Kuiper Belt, the first being mining colonies constructed in the early 2020s. As of 2160 space colonies number in the thousands, from small habitats to the Mexican Orbitals.\n\n==Types==\n===Orbitals===\nOrbitals were the first colonies, built out of Near Earth Asteroids and used either as mining or manufacturing satellites. At present, the largest orbital colonies are Mexico's Lagrangian Orbitals, which are as large as the larger O'Neil Ships. Orbitals are used primarily for processing space-based resources, though Mexico's have been largely converted into military installations since their initial creation as off-world economic zones. Most reside near Earth, and are largely used for manufacturing, research, and military purposes. Only a handful are self contained communities, the largest by far are Mexico's Lagrangian colonies, while most of those the US uses are either farmworlds, or luxury worlds for the super-rich (the latter are some of the only colonies that do not participate in the ITC and are still technically part of territories on Earth.) The rest are used for trade, mining, and infrastructure care and maintenance. Outside of Earth, there are orbitals that serve these purposes as well, but the overwhelming majority are gas mining stations in the outer planets.\n\n===='''Beachhead Orbitals'''====\nGiven the volumetric limits of warp travel, NASA prioritizes the construction of habitats in the Lagrange points of alien planets from in-situ materials. These habitats, or Beachhead Orbitals, begin as a single cylinder that can house a crew of only a few thousand, with facilities for agriculture and life support. \n\n===='''Lighthouses'''====\nThe largest exosolar orbitals are located in the void of space near commonly used warp-transit routs and serve as way stations in the event of serious damage to a spacecraft, while coordinating a local element of the United Interferometry Network for charting clear paths for warp travel. These colonies have permanent human populations of usually only a few families supported by thousands of [[Biorobotics boom|biorobots]], and usually host a small fleet of warp capable probes permanently stationed there to provide emergency assistance to stranded Interstellar Vehicles.\n\n===='''Ahuiateteo Orbitals'''====\n''Main article: [[Mexican Vacuum Command]]''\n\nFrom 2112 to 2137, Mexico operated five Super-Orbitals that served as both permanent space colonies, and military instillations. These habitats,  were positioned at Earth-Solar Lagrangian points. The stations are supported by smaller orbitals in Earth-Luna Lagrangian points, intentionally placed near high value American targets to shadow the American space fleet.\n\nEach station measured 50km in length, the largest O'Neil cylinders prior to the launch of the Nyx and Hydra interstellar O'Neil Ships. With an internal surface area of 2,827 km2, nearly twice that of Mexico City, each orbital could support a population of millions of civilians, soldiers and drones, and generate huge surpluses of food and manufactured goods for Mexico's terrestrial needs.\n\nThe Mexican orbitals were outfitted with multiple super-mass drivers capable of sending a single projectile or clusters of projectiles to Earth with extreme precision. This made it possible for Mexico to have an orbital strike capability without needing to launch a large cluster of platforms. For space-to-space combat each station sported a network point-defense lasers, Casava howitzers, and a nuclear pumped laser capable of firing as one or a cluster of beams. The Ahuiateteo orbitals also acted as shipyards and docks for the Mexican space fleet, and held a compliment of Vacuum commandos, all permanently stationed on the colonies for rapid response against the American Space Force. These stations would remain a threat through the Third Mexican War, and the last battle in space would be fought securing the command orbital at Earth-Solar L1 in 2137.\n\nThese spacecraft were so large that it was not feasible to propel them under chemical or even nuclear propulsion to different orbits. Thus the American governments decision to simply decommission their weapon systems and repurpose them as entirely civilian habitats.\n\n===O'Neil Ships===\n''Main article: [[O'Neil Ships]]''\n\nThe largest of these colonies are the O'Neil ships that travel along the Interplanetary Transport Network ferrying cargo and passengers between the major colony worlds.\n\n===Platforms===\nPlatforms are relatively small colonies that serve as the counterweights and harbors for Space Elevators. The largest Platform in the system is the New Richmond Starport.\n[[Category:Technology]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-10-19T17:36:37Z"
+          }
+        ],
+        "title": "Orbitals",
+        "touched": "2023-10-19T17:36:37Z"
+      },
+      "1478": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3469,
+        "length": 54,
+        "new": "",
+        "ns": 1,
+        "pageid": 1478,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3469,
+            "slots": {
+              "main": {
+                "*": "Ihave a feeling there would be even more frustration ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-03T14:23:06Z"
+          }
+        ],
+        "title": "Talk:Cory Booker/@comment-24.224.66.196-20161209164038/@comment-5590986-20170403142306",
+        "touched": "2017-04-03T14:23:06Z"
+      },
+      "1479": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century conflicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Military Technology"
+          },
+          {
+            "ns": 14,
+            "title": "Category:World War III"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11985,
+        "length": 8515,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Alexandria Ocasio-Cortez"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican Vacuum Command"
+          },
+          {
+            "ns": 0,
+            "title": "Sol system"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1479,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11970,
+            "revid": 11985,
+            "slots": {
+              "main": {
+                "*": "'''Orbital Command Stations''', or '''OCS's''' (codenamed '''GARITE''' AND '''2020''') were space stations utilized by the United States military in order to coordinate its forces and rapidly deploy them across both Earth and the [[Sol system|cislunar space]]. During their service lives, the Orbital Command Stations formed the linchpin the Orbital Defense Network, a fleet of reconnaissance, GPS, and defensive satellites in addition to On-orbit Servicing, Assembly, and Manufacturing (OSAM) platforms and orbital depots built and launched from 2033 to 2048. Three of the stations, and most of the accompanying network of satellites were destroyed in the Thanksgiving Attacks of 2051, beginning the [[World War III|Third World War]].\n\n==Program history and logistics==\nBy the early 2030s, the United States space fleet consisted of aging geostationary satellites, and ultra-low orbit communications satellite megaconstellations that were being technically outpaced by a new generation of spacecraft. The development of satellite guided drones during the Ukraine War and their global proliferation made improving these satellite systems a strategic priority for the US. After a precursor study on the effectiveness of the Artemis VI crew's satellite life-extension mission, President [[Alexandria Ocasio-Cortez]] on 23 November 2033 approved the development of a permanent crewed platform under the initial codeword Garite, the Middle English word for \"Watchtower.\" GARITE began by reorganizing several ongoing National Reconnaissance Office and Space Force programs under a single program director.\n\nSubsystem level components began design and testing at Sunnyvale, CA in 2034, and construction on the stations began in 2037 at Tycho Base by Lunar Energy Ltd. and Tycho Space Systems. Five stations were initially requested, two polar and three equatorial, however cost overruns forced the cancellation of two stations. Construction began in secret chambers at the Tycho shipyards, disguised as part of the shipbuilding effort for NASA's Galileo Space Station program. All three stations were completed and Launched in 2040 while the near side of the moon was facing away from Earth. The station segments were blanketed in metamaterial shrouds and positioned in Geostationary orbit for final assembly, trisecting the Earth. The main command station OCS-101 was stationed over Ecuador, while the other two stations OCS-102 and 103 were stationed over Uganda and Papua New Guinea. After a year of shakedown tests, the stations' shrouds were removed and the program revealed to the public. \n\nWhile initially proposed as OSAM stations, responsible for satellite servicing and on-orbit command and control, by the time of their deployment the GARITE program sought to provide comprehensive C2 capabilities from Space, effectively eliminating communication lag time between strategic commanders and the ships, troops, and aircraft in the field. By 2043 the United States had replaced the Unified Combatant Command system with the Orbital Combatant Command system, subdivided into three primary commands: Western Command (USWESTCOM), Central Command (USCENTCOM), and Eastern Command (USEASTCOM). Each of these commands oversaw subordinate commands stationed in their regions on Earth. At the time, this change was seen as a means to limit the number of failure points, with space based systems seeming invulnerable to smaller powers.\n\nBy 2048, plans were in place to retire the original 3 OCS stations by 2060, replacing them with a next-generation fleet of 5 primary platforms that would serve exclusively as command headquarters while OSAM and satellite command duties would devolve to 15 secondary platforms. The destruction of the network forced a reevaluation of the design logic of the OCS network, and successive space fleets would be almost entirely mobile rather than fixed in Geostationary Orbit.\n\n==Design==\n===Initial design specifications===\nAccording to declassified USSF records, the initial key design elements included i) solid state power supply, ii) ONISQ quantum computers for on-orbit data processing of the Orbital Defense Network, iii) quarters for 150 guardians, iv) support facilities for crews to operate up to 100 days without resupply, v) hardened hulls to withstand impacts from space debris and ground based lasers, and vi) onboard defense systems to defeat ASAT weapons.\n\nOnce completed, the stations consisted of a hardened Stanford Torus which housed crew quarters, recreational facilities, and offices. Four integrated truss segments housed various unpressurized components, radiators, and mounts for logistics carriers. The trusses converged on the Utility and OSAM segments, which included shielded docks for spacecraft, Ka-band multi-beam antennas, wireless power receivers, and the station's primary Ku-band Space-to-Ground Antenna.\n\n===Propulsion module===\nA hydrazine-powered propulsion system mounted at four points along the exterior of the habitation torus allowed the OCS platforms to make small orbital adjustments. In order to increase the orbital lifetime OCSs, the propulsion module could be refueled using On-Orbit servicing satellites deployed from orbital depots. Plans were made for a more powerful engine, with a nuclear thermal rocket having begun prototype testing at Tycho in 2039. The proposed upgrade was terminated in 2047, with the classified report justifying the cancelation due to prohibitively high costs associated with: upgrading the structural points of the stations to handle a more powerful propulsion system, providing adequate shielding to the crew, developing space suits sufficiently shielded against radiation for reactor maintenance, and the mass penalty associated with all of these proposed upgrades in addition to the physical shielding required to prevent damage to the reactor. By 2050 a proposal was put forward advocating fusion thermal propulsion systems, however this solution was still under review at the time of the Thanksgiving Attacks. A fusion propulsion system would be used on the Block II OCS ''Retribution.''\n\n==Destruction==\nOn Thanksgiving day, 2051, all three of the original Orbital Command Stations were destroyed in pebble mob attacks by the Japanese. The only crew members who survived the attack were deployed on servicing missions to other satellites at the time, and all but 6 guardians died from oxygen depravation before being able to reach a civilian space station. This attack not only crippled US C2 capabilities in space, but also sent the Cislunar economy into a tailspin and severely hurt terrestrial markets that depended on in-space mining, manufacturing, and services.\n\n==Successor==\nAfter the Battle for Luna concluded, the Space Force initiated a crash program to complete and deploy the unfished OCS-104. The program required the inclusion of prototype components being tested for the original Block II OCS program, including the new Power and Propulsion Module, which allowed the station to easily conduct plane change maneuvers using one of the first miniaturized nuclear fusion reactors. Further, the Block II OCS included superconducting quantum computers, and a prototype quantum LiDAR system that could track objects under 5mm. In support of the Block II platform, named ''Retribution'' by its first crew, were a compliment of next generation OSAM and imaging satellites.\n\n==Legacy==\nThe Mk. 2 OCS Station, officially designated the M-2 Vanguard in 2058, remained in service until 2069 at which point it was converted into a museum in Lunar orbit. C2 duties were transferred over to a new generation of stations and multirole spacecraft, chiefly the M-4 Thor which shared much of the design heritage from the M-2 and OCS platforms.\n\nThe design of the OCS has influenced all successive generations of military command stations and influenced the structure of modern US and Mexican military command systems. After the war the US, fearing another total loss of critical infrastructure, created a command network based around many layers of redundancy with multiple heavily fortified bases networking command to smaller platforms that could replace the duties of the larger stations if they were destroyed. Mexico preferred to create [[Mexican Vacuum Command|stations so large that destroying them would be almost impossible]], and leave them permanently staffed rather than rotating crews back to Earth.\n[[Category:Military Technology]]\n[[Category:World War III]]\n[[Category:21st-century conflicts]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2026-03-01T05:34:47Z"
+          }
+        ],
+        "title": "Orbital Command Stations",
+        "touched": "2026-03-01T05:34:47Z"
+      },
+      "1480": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3485,
+        "length": 93,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1480,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3485,
+            "slots": {
+              "main": {
+                "*": "Do you create the maps for The Second Renaissance? <ac_metadata title=\"Maps\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-06T05:07:07Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-30724590-20170406050707",
+        "touched": "2017-04-06T14:44:22Z"
+      },
+      "1481": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3486,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1481,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3486,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-06T05:07:09Z"
+          }
+        ],
+        "title": "Message Wall:SolaceEaSw",
+        "touched": "2017-12-03T15:00:49Z"
+      },
+      "1482": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3487,
+        "length": 559,
+        "links": [
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          },
+          {
+            "ns": 1201,
+            "title": "Thread:1480"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1482,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3487,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Thread:1480|Maps]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-06T05:07:10Z"
+          }
+        ],
+        "title": "Thread:SolaceEaSw/@comment-22439-20170406050710",
+        "touched": "2017-04-06T05:07:10Z"
+      },
+      "1483": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3488,
+        "length": 4,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1483,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3488,
+            "slots": {
+              "main": {
+                "*": "Yes.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-06T05:15:19Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-30724590-20170406050707/@comment-899576-20170406051519",
+        "touched": "2017-04-06T05:15:19Z"
+      },
+      "1484": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3489,
+        "length": 153,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1484,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3489,
+            "slots": {
+              "main": {
+                "*": "What program do you use? I'm creating a timeline on Future, and I would like to use very detailed maps on it, since there is a lot of conflicts and wars.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-06T10:32:30Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-30724590-20170406050707/@comment-30724590-20170406103230",
+        "touched": "2017-04-06T10:32:30Z"
+      },
+      "1485": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3493,
+        "length": 464,
+        "ns": 1201,
+        "pageid": 1485,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3490,
+            "revid": 3493,
+            "slots": {
+              "main": {
+                "*": "Hi, I've looked at many of your maps, and some pages. For one thing, if you could direct me to the page that gives a reason why Fiji, Vanuatu, Samoa, etc. Were annexed by America that would be helpful.\n\nAnd second thing, on all of your maps, I notice Tonga is not even named. If it is part of the US, well that sucks. However If it isn't, it would be nice to see an Oceanic Nation still independent!\n\nPeace Out, -Firestorm<ac_metadata title=\"Tonga\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-06T14:38:05Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-33193012-20170406143511",
+        "touched": "2017-04-07T13:15:38Z"
+      },
+      "1486": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5935,
+        "length": 0,
+        "ns": 1200,
+        "pageid": 1486,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3491,
+            "revid": 5935,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-26T23:09:24Z"
+          }
+        ],
+        "title": "Message Wall:X3ccBliTzz",
+        "touched": "2017-09-26T23:09:24Z"
+      },
+      "1487": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5937,
+        "length": 560,
+        "links": [
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          },
+          {
+            "ns": 1201,
+            "title": "Thread:1485"
+          }
+        ],
+        "ns": 1201,
+        "pageid": 1487,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3492,
+            "revid": 5937,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Thread:1485|Tonga]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-26T23:09:24Z"
+          }
+        ],
+        "title": "Thread:X3ccBliTzz/@comment-22439-20170406143538",
+        "touched": "2017-09-26T23:09:24Z"
+      },
+      "1488": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3494,
+        "length": 4,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1488,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3494,
+            "slots": {
+              "main": {
+                "*": "GIMP",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-06T14:39:20Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-30724590-20170406050707/@comment-899576-20170406143920",
+        "touched": "2017-04-06T14:39:20Z"
+      },
+      "1489": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3495,
+        "length": 7,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1489,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3495,
+            "slots": {
+              "main": {
+                "*": "thanks.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-06T14:44:22Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-30724590-20170406050707/@comment-30724590-20170406144422",
+        "touched": "2017-04-06T14:44:22Z"
+      },
+      "1490": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3496,
+        "length": 221,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1490,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3496,
+            "slots": {
+              "main": {
+                "*": "Those islands were annexed because it was clear they were in no position to govern themselves with the constant threat of the rising tides from the Flood. And Tonga was among the many island chains lost beneath the waves.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-06T15:07:28Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-33193012-20170406143511/@comment-30470028-20170406150728",
+        "touched": "2017-04-06T15:07:28Z"
+      },
+      "1491": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3518,
+        "length": 18,
+        "ns": 6,
+        "pageid": 1491,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3506,
+            "revid": 3518,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Maps]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-06T20:03:47Z"
+          }
+        ],
+        "title": "File:Washington dc 2133 by ynot1989-daeykff.png",
+        "touched": "2017-04-06T20:03:47Z"
+      },
+      "1492": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6097,
+        "length": 19,
+        "ns": 6,
+        "pageid": 1492,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3508,
+            "revid": 6097,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:44:38Z"
+          }
+        ],
+        "title": "File:Flag of the United Nations.svg.png",
+        "touched": "2017-11-08T00:10:31Z"
+      },
+      "1493": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6063,
+        "length": 19,
+        "ns": 6,
+        "pageid": 1493,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3510,
+            "revid": 6063,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:34:20Z"
+          }
+        ],
+        "title": "File:Flag of NATO.svg.png",
+        "touched": "2017-11-08T00:09:52Z"
+      },
+      "1495": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of Associated states"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6196,
+        "length": 59,
+        "ns": 6,
+        "pageid": 1495,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3514,
+            "revid": 6196,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of Associated states]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:11:07Z"
+          }
+        ],
+        "title": "File:255px-Flag of India.svg.png",
+        "touched": "2017-11-08T00:09:53Z"
+      },
+      "1497": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3520,
+        "length": 109,
+        "new": "",
+        "ns": 1,
+        "pageid": 1497,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3520,
+            "slots": {
+              "main": {
+                "*": "am i missing something or isn't the President needs to be a natural born citizen? This page implied Dom isn't",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-07T00:08:22Z"
+          }
+        ],
+        "title": "Talk:Dom Terragno/@comment-5590986-20170407000822",
+        "touched": "2017-04-07T00:08:22Z"
+      },
+      "1498": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3521,
+        "length": 97,
+        "new": "",
+        "ns": 1,
+        "pageid": 1498,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3521,
+            "slots": {
+              "main": {
+                "*": "Ecuador was annexed by the US after the Third Mexican-American War. That'd make things different.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-07T00:20:32Z"
+          }
+        ],
+        "title": "Talk:Dom Terragno/@comment-5590986-20170407000822/@comment-30470028-20170407002032",
+        "touched": "2017-04-07T00:20:32Z"
+      },
+      "1499": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3522,
+        "length": 31,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1499,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3522,
+            "slots": {
+              "main": {
+                "*": "O_O\n\nOk thank you for the help!",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-07T01:40:44Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-33193012-20170406143511/@comment-33193012-20170407014044",
+        "touched": "2017-04-07T01:40:44Z"
+      },
+      "1500": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3523,
+        "length": 386,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1500,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3523,
+            "slots": {
+              "main": {
+                "*": "Well that's interesting you know, because I have found Tonga on the maps. It is south east from Fiji, but not named. \n\nSo if it's underwater, why is it still there?\n\nhttp://blog.petaflop.de/wp-content/uploads/2008/10/weltkarte-meeresspiegel-anstieg-um-100m-100-meter-metres-world-map-sea-level-rise.jpg\n\nSome Island nations aren't even threatened. I'll be back later to finish this too.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-07T02:58:20Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-33193012-20170406143511/@comment-33193012-20170407025820",
+        "touched": "2017-04-07T02:58:20Z"
+      },
+      "1501": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3524,
+        "length": 157,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1501,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3524,
+            "slots": {
+              "main": {
+                "*": "I honestly assumed, and with good reason too, that it was obliterated by the Flood if it wasn't named. Regardless, it was almost certainly annexed by the US.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-07T11:52:23Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-33193012-20170406143511/@comment-76.16.92.6-20170407115223",
+        "touched": "2017-04-07T11:52:23Z"
+      },
+      "1502": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3525,
+        "length": 146,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1502,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3525,
+            "slots": {
+              "main": {
+                "*": "Well Tonga has done fine without foreign power, in fact it was the  only nation in Oceania to not be colonized.\n\nIt is Clearly visible on the map.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-07T13:15:37Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-33193012-20170406143511/@comment-33193012-20170407131537",
+        "touched": "2017-04-07T13:15:38Z"
+      },
+      "1503": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3528,
+        "length": 131,
+        "ns": 1,
+        "pageid": 1503,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3527,
+            "revid": 3528,
+            "slots": {
+              "main": {
+                "*": "ik that, Ecuador was annexed in 2130s, but Dom was born in 2109, that makes him not a natural born citizen is what im trying to say",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-07T14:55:20Z"
+          }
+        ],
+        "title": "Talk:Dom Terragno/@comment-5590986-20170407000822/@comment-5590986-20170407145437",
+        "touched": "2017-04-07T14:55:20Z"
+      },
+      "1504": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3529,
+        "length": 267,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1504,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3529,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm new to this wiki and I'm just wondering what is happening after 2160? I've been watching you DeviantArt Page, and waiting for a 2170, 2180 or something like that map.\n\nIf you can tell me, thanks!<ac_metadata title=\"Sorry to bother You, again.\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-08T11:48:08Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-33193012-20170408114808",
+        "touched": "2017-04-08T15:36:34Z"
+      },
+      "1505": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3530,
+        "length": 364,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1505,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3530,
+            "slots": {
+              "main": {
+                "*": "There seems to be a discrepancy in the population figures for Earth, some pages say that it is the most populated commonwealth, but in the figures it says that Earth only has 1 billion people with Mars having 3 billion.  What is the real population of Earth?\n\nAnd also, what is the total human population as of 2170?<ac_metadata title=\"Population\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-08T12:23:51Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-124.104.123.215-20170408122351",
+        "touched": "2017-04-09T18:02:27Z"
+      },
+      "1506": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3531,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1506,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3531,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-08T12:23:52Z"
+          }
+        ],
+        "title": "Message Wall:124.104.123.215",
+        "touched": "2017-04-08T12:23:53Z"
+      },
+      "1507": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3532,
+        "length": 745,
+        "links": [
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          },
+          {
+            "ns": 1201,
+            "title": "Thread:1505"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1507,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3532,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Thread:1505|Population]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-08T12:23:53Z"
+          }
+        ],
+        "title": "Thread:124.104.123.215/@comment-22439-20170408122353",
+        "touched": "2017-04-08T12:23:53Z"
+      },
+      "1508": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3533,
+        "length": 26,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1508,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3533,
+            "slots": {
+              "main": {
+                "*": "The timeline ends at 2160.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-08T15:15:44Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-33193012-20170408114808/@comment-30470028-20170408151544",
+        "touched": "2017-04-08T15:15:44Z"
+      },
+      "1509": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3534,
+        "length": 16,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1509,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3534,
+            "slots": {
+              "main": {
+                "*": "Oh ok thank you.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-08T15:36:33Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-33193012-20170408114808/@comment-33193012-20170408153633",
+        "touched": "2017-04-08T15:36:33Z"
+      },
+      "1510": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3535,
+        "length": 90,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1510,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3535,
+            "slots": {
+              "main": {
+                "*": "Earth is the most populated planet, but the US commonwealth on Earth is the third largest.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-08T16:59:58Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-124.104.123.215-20170408122351/@comment-899576-20170408165958",
+        "touched": "2017-04-08T16:59:58Z"
+      }
+    }
+  }
+}

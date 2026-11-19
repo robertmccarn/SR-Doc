@@ -1,0 +1,2180 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "1978": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5826,
+        "length": 51,
+        "ns": 6,
+        "pageid": 1978,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5145,
+            "revid": 5826,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T17:22:43Z"
+          }
+        ],
+        "title": "File:US flag 60 stars.png",
+        "touched": "2019-06-13T20:26:43Z"
+      },
+      "1979": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5827,
+        "length": 51,
+        "ns": 6,
+        "pageid": 1979,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5147,
+            "revid": 5827,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T17:22:50Z"
+          }
+        ],
+        "title": "File:US flag 78 stars.png",
+        "touched": "2017-11-08T00:11:11Z"
+      },
+      "1980": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5167,
+        "length": 9,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1980,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5167,
+            "slots": {
+              "main": {
+                "*": "Huzzah :D",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-18T16:48:18Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170818021548/@comment-5590986-20170818164818",
+        "touched": "2017-08-18T16:48:18Z"
+      },
+      "1981": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5172,
+        "length": 75,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1981,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5172,
+            "slots": {
+              "main": {
+                "*": "http://second-renaissance.wikia.com/wiki/File:Flag_of_the_United_States.png",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-18T17:55:52Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170818021548/@comment-899576-20170818175552",
+        "touched": "2017-08-18T17:56:00Z"
+      },
+      "1982": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5176,
+        "length": 210,
+        "ns": 1201,
+        "pageid": 1982,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5175,
+            "revid": 5176,
+            "slots": {
+              "main": {
+                "*": "Pretty nice. i am personally curious what it would look like if the \"solid\" and \"hollow\" stars were switched around, but the unique star that represents the sun could set something up for more in the future lol",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-18T18:21:56Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170818021548/@comment-5590986-20170818181905",
+        "touched": "2017-08-18T18:21:56Z"
+      },
+      "1983": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5178,
+        "length": 339,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Republic of China/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1983,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5178,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = China\n| flag alias = Flag_of_the_Republic_of_China.png\n| alt attribute = Flag of the Republic of China\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-18T19:20:49Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Republic of China/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Republic of China",
+        "touched": "2017-08-18T19:20:49Z"
+      },
+      "1984": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of commonwealths of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5195,
+        "length": 76,
+        "ns": 6,
+        "pageid": 1984,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5187,
+            "revid": 5195,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of commonwealths of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-19T17:26:22Z"
+          }
+        ],
+        "title": "File:Neptune Flag.png",
+        "touched": "2017-11-08T00:11:11Z"
+      },
+      "1985": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5188,
+        "length": 313,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Neptune/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1985,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5188,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Neptune\n| flag alias = Neptune_Flag.png\n| alt attribute = Flag of the Planetary Commonwealth of Neptune\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-19T06:24:33Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Neptune/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Neptune",
+        "touched": "2017-08-19T06:24:33Z"
+      },
+      "1986": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of commonwealths of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5196,
+        "length": 76,
+        "ns": 6,
+        "pageid": 1986,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5189,
+            "revid": 5196,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of commonwealths of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-19T17:26:46Z"
+          }
+        ],
+        "title": "File:Uranus Flag.png",
+        "touched": "2017-11-08T00:11:11Z"
+      },
+      "1987": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5190,
+        "length": 310,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Uranus/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1987,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5190,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Uranus\n| flag alias = Uranus_Flag.png\n| alt attribute = Flag of the Planetary Commonwealth of Uranus\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-19T06:44:50Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Uranus/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Uranus",
+        "touched": "2017-08-19T06:44:50Z"
+      },
+      "1988": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Planetary Commonwealths of the United States"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Planets"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Uranus2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Uranus Flag.png"
+          }
+        ],
+        "lastrevid": 8832,
+        "length": 7389,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Demographics of Uranus"
+          },
+          {
+            "ns": 0,
+            "title": "Eternal Spring Revolt"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Uranus"
+          },
+          {
+            "ns": 0,
+            "title": "ISO 4217"
+          },
+          {
+            "ns": 0,
+            "title": "List of countries by population"
+          },
+          {
+            "ns": 0,
+            "title": "O'Neil Ships"
+          },
+          {
+            "ns": 0,
+            "title": "Planetary-Governor of Earth"
+          },
+          {
+            "ns": 0,
+            "title": "Politics of Uranus"
+          },
+          {
+            "ns": 0,
+            "title": "Sol system"
+          },
+          {
+            "ns": 0,
+            "title": "U.S. planetary commonwealth"
+          },
+          {
+            "ns": 0,
+            "title": "Uranus of Uranus"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1988,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8823,
+            "revid": 8832,
+            "slots": {
+              "main": {
+                "*": "{{Infobox country\n|image_flag = Uranus_Flag.png\n|image_map = \n|conventional_long_name = Uranus Commonwealth\n|national_motto = \"On the Raggedy Edge\"\n|national_anthem = \"The Star-Spangled Banner\"\n|capital = Herschel\n|largest_city = Herschel\n|languages = English (de facto)\n|languages_type = \n|government_type = United States Planetary Commonwealth\n|leader_title1 = [[Planetary-Governor of Earth|Planetary-Governor]]\n|leader_name1 = Link Chuan\n|leader_title2 = Lieutenant Governor\n|leader_name2 = Harry Rajoelina\n|legislature = Planetary Congress\n|upper_house = Planetary Senate\n|lower_house = Planetary House of Representatives\n|established_event1 = Formation \n|sovereignty_type = Admission to the Union\n|established_date1 = April 12, 2151\n|area_rank = 8th\n|area_sq_mi = \n|population_estimate = 56 Million\n|population_estimate_year = 2160\n|population_estimate_rank = 8th\n|currency = United States dollar ($)\n|currency_code = USD\n\n|image_symbol = Uranus2.jpg|symbol_type = Uranus}}Uranus is the seventh planet in the [[Sol system]], and the most recent [[U.S. planetary commonwealth]] to be admitted to the Union. The main drivers of the Uranian economy are resource extraction—mostly Helium-3 and ices..\n\n==History==\n==='''21st Century'''===\n\n==Moons==\nDespite being closer to Earth than Neptune, the low gravity of the Uranian moons made it a less than ideal candidate for colonization. Titania and Oberon were tented in 2079, and paraterraforming has proceeded at roughly the same speed as on Triton and the other bodies of the outer solar system. The local biospheres are expected to be fully sustainable by the end of the 22nd Century, however these moons already hosts a breathable atmosphere suitable for Lunarians and other human subspecies.\n\nDue to the poor conditions of the system's moons, there have been numerous proposals to end the terraforming operations and either deorbit the five largest moons into a body roughly half the mass of Luna or reposition a large kuiper belt object into Uranian orbit.\n\n==='''Titania'''===\nAt present Titania and The largest settlement in the Uranian system is on Titania, in the city of Herschel, with a population of 4 million people. Titania's population is mostly made up of Lunarians and Avians, making up 58% and 30% of the permanent population respectively. The local economy is largely supported by the gas mining industry, but also hosts a thriving tourist trade thanks to the moon's low gravity flight opportunities.\n\n==='''Oberon'''===\nOberon has the second largest population in the Commonwealth, with 70% of its 15 million citizens living in the states of Shakespeare and Hamlet. Oberon, like Titania is currently being paraterraformed, and is heavily dependent on the gas mining industry for its economy.\n\n==='''Umbriel'''===\n==='''Ariel'''===\n==='''Miranda'''===\n\n==Orbitals==\nNearly one 40% of the permanent residents around Uranus live in orbiting colonies rather than on the surfaces of the system's moons. This is a larger portion of a planetary system's population than anywhere in the solar system. These stations were built using the material of most of the smaller natural satellites around the planet, and many are named for the body from which they were built. Due to the moon's wealth of Helium-3, efforts to expand the planet's habitable colonies have continued, with the most radical proposals, the Tempest Project, going so far as to suggest dissassembling Ariel and Miranda to create the two largest orbitals in history, with an internal surface area close to that of Mars.\n\nThe High orbital population led many to propose simply ceding governance of the solar system's many [[O'Neil Ships]] to Uranus, as a potential solution to the crisis that preceded the [[Eternal Spring Revolt]].\n\n==Government and Politics==\nTitania and Oberon were tented in 2079 by prospective companies CastleCorp and Helix-Oblisk Inc.., and paraterraforming has proceeded at roughly the same speed as on Triton and the other bodies of the outer solar system. Before the 22nd century, CastleCorp and Helix-Oblisk acted as governing bodies. Since the founding of the Interplanetary Trade Commission and colonial integration, Uranus has transitioned to a modern Republican government.\n\n==='''Government'''===\nThe planetary capital is Herschel. Uranus is organized into three branches of government – the executive branch consisting of the Planetary Governor and the other independently elected constitutional officers; the legislative branch consisting of the Planetary House and Senate; and the judicial branch consisting of the Uranian Supreme Court and lower courts. The commonwealth also allows ballot propositions: direct participation of the electorate by initiative, referendum, recall, and ratification.\n\n===='''Executive branch'''====\n</p>\n===='''Legislative branch'''====\n</p>\n===='''Judicial branch'''====\n</p>\n==='''Political Divisions'''===\n\nThe Uranus Commonwealth is a commonwealth of over a dozen states, many territories and a large number of orbital and colony ship possessions. The states and territories are the principal administrative districts in the commonwealth. These are divided into subdivisions of counties and independent cities. The states choose the Planetary Governor of the Uranus. Planetary Congressional Districts are reapportioned among the states following each decennial Census of Population. The single member districts of each state are drawn according to algorithmic appropriation of representation based on population.\n\nUranus's large population of orbital dwelling citizens has led to it having the largest number of distributed territories in the Solar System, and the only known examples of \"distributed states\" with Sycorax, Puck, Portia, Juliet, and Belinda being clusters of colonies in distinct orbits allowing for regular contact with one another (usually as a result of being positioned in a Lagrangian position).\n\n{| class=\"wikitable sortable\"\n|- bgcolor=\"#cccccc\"\n! #\n!States\n!Capital\n!Ratification‡ or Admission\n!Preceding Entity\n|- valign=\"top\" halign=\"left\"\n|1\n|Herschel\n|Herschel\n|December 9, 2135\n|Titania Territory\n|- valign=\"top\" halign=\"left\"\n|2\n|Hamlet\n|Elsinore\n|December 9, 2135\n|Oberon Territory\n|- valign=\"top\" halign=\"left\"\n|3\n|Imogen\n|Imogen City\n|December 7, 2137\n|Titania Territory\n|- valign=\"top\" halign=\"left\"\n|4\n|Umbriel\n|New Shanghai\n|December 7, 2137\n|Umbriel Territory\n|- valign=\"top\" halign=\"left\"\n|5\n|Avia\n|Skyreach\n|September 4, 2147\n|Avia Territory\n|- valign=\"top\" halign=\"left\"\n|6\n|Iras\n|Atlas City\n|September 4, 2147\n|Avia Territory\n|- valign=\"top\" halign=\"left\"\n|7\n|Miranda\n|Everfree\n|September 4, 2147\n|Miranda Territory\n|- valign=\"top\" halign=\"left\"\n|8\n|Ariel\n|Markarth\n|September 4, 2147\n|Titania Territory\n|- valign=\"top\" halign=\"left\"\n|9\n|Shakespeare\n|Falstaff\n|September 4, 2147\n|Oberon Territory\n|- valign=\"top\" halign=\"left\"\n|10\n|Belinda\n|Chastity\n|September 4, 2147\n|Belinda Colony Cluster\n|- valign=\"top\" halign=\"left\"\n|11\n|Portia\n|Wolfgang\n|July 9, 2149\n|Portia Colony Cluster\n|- valign=\"top\" halign=\"left\"\n|12\n|Puck\n|Community City\n|July 9, 2149\n|Puck Colony Cluster\n|- valign=\"top\" halign=\"left\"\n|13\n|Sycorax\n|New Constantinople\n|July 9, 2149\n|Sycorax Colony Cluster\n|- valign=\"top\" halign=\"left\"\n|14\n|Juliet\n|Aether\n|March 4, 2151\n|Juliet Colony Cluster\n|}\n[[Category:Planets]]\n[[Category:Planetary Commonwealths of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-01-25T20:32:04Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          }
+        ],
+        "title": "Uranus",
+        "touched": "2019-01-25T20:32:04Z"
+      },
+      "1989": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6146,
+        "length": 19,
+        "ns": 6,
+        "pageid": 1989,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5197,
+            "revid": 6146,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:57:39Z"
+          }
+        ],
+        "title": "File:Regency of New Menorca.png",
+        "touched": "2017-11-08T00:11:11Z"
+      },
+      "1990": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6147,
+        "length": 19,
+        "ns": 6,
+        "pageid": 1990,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5204,
+            "revid": 6147,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:57:50Z"
+          }
+        ],
+        "title": "File:Republic of Eboracum .png",
+        "touched": "2017-11-08T00:11:11Z"
+      },
+      "1991": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6121,
+        "length": 19,
+        "ns": 6,
+        "pageid": 1991,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5206,
+            "revid": 6121,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:50:15Z"
+          }
+        ],
+        "title": "File:Knights of Schubart.png",
+        "touched": "2017-11-08T00:11:11Z"
+      },
+      "1992": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6122,
+        "length": 19,
+        "ns": 6,
+        "pageid": 1992,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5872,
+            "revid": 6122,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:50:28Z"
+          }
+        ],
+        "title": "File:Lombardo's Confederacy.png",
+        "touched": "2017-11-08T00:11:26Z"
+      },
+      "1993": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5809,
+        "length": 19,
+        "ns": 6,
+        "pageid": 1993,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5216,
+            "revid": 5809,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T15:55:52Z"
+          }
+        ],
+        "title": "File:Central Eurasian Union.png",
+        "touched": "2017-12-10T16:52:05Z"
+      },
+      "1994": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5217,
+        "length": 334,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Central Eurasian Union/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1994,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5217,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias =  Central Eurasian Union\n| flag alias = Central_Eurasian_Union.png\n| alt attribute = Flag of India\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-20T18:10:59Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Central Eurasian Union/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Central Eurasian Union",
+        "touched": "2017-08-20T18:10:59Z"
+      },
+      "1995": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5219,
+        "length": 305,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Iran/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1995,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5219,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias =  Iran\n| flag alias = Flag_of_Iran.png\n| alt attribute = Flag of Iran\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-20T18:14:07Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Iran/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Iran",
+        "touched": "2017-08-20T18:14:07Z"
+      },
+      "1996": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5224,
+        "length": 339,
+        "ns": 1,
+        "pageid": 1996,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5223,
+            "revid": 5224,
+            "slots": {
+              "main": {
+                "*": "We need to update this to align with the flags of the United States and Free Association pages\n\nbecause some states and Free Associations have different dates of admission\n\nNot to mention we need to probably reform the State Abbreviations because 26 letters x 26 letters = 676? combinations, and the US has 850 states. Maybe into 3 letters",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-20T20:10:02Z"
+          }
+        ],
+        "title": "Talk:Earth/@comment-5590986-20170820200614",
+        "touched": "2017-08-20T20:10:03Z"
+      },
+      "1997": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5225,
+        "length": 23,
+        "new": "",
+        "ns": 1,
+        "pageid": 1997,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5225,
+            "slots": {
+              "main": {
+                "*": "Or revamp the Flag page",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-20T20:11:24Z"
+          }
+        ],
+        "title": "Talk:Earth/@comment-5590986-20170820200614/@comment-5590986-20170820201124",
+        "touched": "2017-08-20T20:11:24Z"
+      },
+      "1998": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Associated states"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Central Eurasian Union.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ural CoA.png"
+          }
+        ],
+        "lastrevid": 10824,
+        "length": 1088,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Associated state"
+          },
+          {
+            "ns": 0,
+            "title": "Coat of arms of Central Eurasian Union"
+          },
+          {
+            "ns": 0,
+            "title": "Demographics of Central Eurasian Union"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Central Eurasian Union"
+          },
+          {
+            "ns": 0,
+            "title": "ISO 4217"
+          },
+          {
+            "ns": 0,
+            "title": "Politics of Central Eurasian Union"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1998,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5702,
+            "revid": 10824,
+            "slots": {
+              "main": {
+                "*": "{{Infobox country\n|conventional_long_name = Central Eurasian Union\n|national_motto = \n|national_anthem = \n|capital = Chelyabinsk\n|largest_city = Samara\n|languages = English, Russian\n|languages_type = Official languages\n|government_type = Federal presidential constitutional republic\n|leader_title1 = President\n|leader_name1 = \n|legislature = National Duma \n|upper_house = High Senate\n|lower_house = State Duma \n|established_event1 = Founded\n|sovereignty_type = Unification\n|established_event2 = \n|established_date1 = October 16, 2156\n|established_event3 =  \n|established_date2 = \n|established_event4 = \n|established_date3 =\n|established_date4 = \n|area_rank = 6th\n|area_sq_mi = \n|population_estimate = 91 Million\n|population_estimate_year = 2160\n|population_estimate_rank = \n|currency = United States Dollar ($)\n|currency_code = USD\n|image_flag = Central_Eurasian_Union.png\n|image_coat = Ural_CoA.png\n|leader_title2 = Vice President\n|leader_name2 = \n}}\n\nThe Central Eurasian Union is an [[associated state]] of the [[United States of America|United States]].\n[[Category:Associated states]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2022-07-20T13:37:41Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          }
+        ],
+        "title": "Central Eurasian Union",
+        "touched": "2022-07-20T13:37:41Z"
+      },
+      "1999": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5239,
+        "length": 368,
+        "new": "",
+        "ns": 1,
+        "pageid": 1999,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5239,
+            "slots": {
+              "main": {
+                "*": "If there are states outside of Planetary Commonwealths prior to the body becoming a Planetary Commonwealth. I'd assume there are more states outside the system whos celestial body has not gained admission to become a commonwealth.\n\nMaybe there are states on Pluto and possibly on other systems outside Earth like Planet Atlantis (but i doubt there is any states there)",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-20T21:51:14Z"
+          }
+        ],
+        "title": "Talk:U.S. planetary commonwealth/@comment-5590986-20170820215114",
+        "touched": "2017-08-20T21:51:14Z"
+      },
+      "2000": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6130,
+        "length": 69,
+        "ns": 6,
+        "pageid": 2000,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5241,
+            "revid": 6130,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:52:54Z"
+          }
+        ],
+        "title": "File:Melanesia.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2001": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5242,
+        "length": 311,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Melanesia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2001,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5242,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Melanesia\n| flag alias = Melanesia.png\n| alt attribute = Flag of Melanesia\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-20T22:07:40Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Melanesia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Melanesia",
+        "touched": "2017-08-20T22:07:41Z"
+      },
+      "2002": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Associated states"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:African Commonwealth Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Arab Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Central Eurasian Union.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:East Asia Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:European Association.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Indonesia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Iran.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Trans-siberia.png"
+          }
+        ],
+        "lastrevid": 5645,
+        "length": 3893,
+        "links": [
+          {
+            "ns": 0,
+            "title": "African Commonwealth"
+          },
+          {
+            "ns": 0,
+            "title": "Arabian Association"
+          },
+          {
+            "ns": 0,
+            "title": "Association of East-Asia"
+          },
+          {
+            "ns": 0,
+            "title": "Central Eurasian Union"
+          },
+          {
+            "ns": 0,
+            "title": "European Association"
+          },
+          {
+            "ns": 0,
+            "title": "Indonesia"
+          },
+          {
+            "ns": 0,
+            "title": "Iran"
+          },
+          {
+            "ns": 0,
+            "title": "Trans-Siberia"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Federated States of Umknovola"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United Nations of Tel-ma"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2002,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5644,
+            "revid": 5645,
+            "slots": {
+              "main": {
+                "*": "An '''associated state''' is the minor partner in a formal, free relationship between a political territory with a degree of statehood and the [[United States]], for which no other specific term, such as protectorate, is adopted. The details of such free association are contained in the Treaty of San Juan, Article X, and the Associated Statehood Act of 2139 and are specific to the countries involved. Free associated states can be described as independent or not, but free association is not a qualification of an entity's statehood or status as a subject of international law.\n\n\n==States in a formal association==\n{| class=\"wikitable\"\n! width=\"160px\" | Minor partner\n! class=\"unsortable\" width=\"200px\" |Associated since\n! class=\"unsortable\" |Level of association\n! class=\"unsortable\" |International status\n|-\n| {{flag|Association of East-Asia}}\n| 2140\n| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.\n|Independence in foreign relations recognized per the London Accords.\n|-\n| {{flag|European Association}}\n| 2139\n| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.\n|Independence in foreign relations recognized per the London Accords.\n|-\n| {{flag|Trans-Siberia}}\n| 2141\n| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.\n|Independence in foreign relations recognized per the London Accords.\n|-\n| {{flag|African Commonwealth}}\n| 2152\n| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.\n|Independence in foreign relations recognized per the London Accords.\n|-\n| {{flag|Central Eurasian Union}}\n| 2156\n| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.\n|Independence in foreign relations recognized per the London Accords.\n|-\n| {{flag|Arabian Association}}\n| 2140\n| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.\n|Independence in foreign relations recognized per the London Accords.\n|-\n| {{flag|Iran}}\n| 2140\n| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.\n|Independence in foreign relations recognized per the London Accords.\n|-\n| {{flag|Indonesia}}\n| 2144\n| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.\n|Independence in foreign relations recognized per the London Accords.\n|-\n| {{flag|United Nations of Tel-ma}}\n| 2157\n| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.\n|Independence in foreign relations recognized per treaty.\n|-\n| {{flag|Federated States of Umknovola}}\n| 2158\n| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.\n|Independence in foreign relations recognized per treaty.\n|}\n[[Category:Associated states]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-12T16:04:02Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data African Commonwealth"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Arabian Association"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Association of East-Asia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Central Eurasian Union"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data European Association"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Federated States of Umknovola"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Indonesia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Iran"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Trans-Siberia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United Nations of Tel-ma"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flag"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flag/core"
+          }
+        ],
+        "title": "Associated state",
+        "touched": "2020-12-13T11:12:34Z"
+      },
+      "2003": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5250,
+        "length": 167,
+        "new": "",
+        "ns": 1,
+        "pageid": 2003,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5250,
+            "slots": {
+              "main": {
+                "*": "Is freedom of movement, residence, and work still an aspect of free association with the US? Of course it might just be a given witht the Global Transit System and QEM",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-21T02:12:02Z"
+          }
+        ],
+        "title": "Talk:Associated state/@comment-29372813-20170821021202",
+        "touched": "2017-08-21T02:12:02Z"
+      },
+      "2004": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5251,
+        "length": 37,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2004,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5251,
+            "slots": {
+              "main": {
+                "*": "Are we too late to proposal our own?!",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-21T06:04:44Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170818021548/@comment-24.165.26.87-20170821060444",
+        "touched": "2017-08-21T06:04:44Z"
+      },
+      "2005": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5252,
+        "length": 53,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2005,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5252,
+            "slots": {
+              "main": {
+                "*": "Well if you have a better idea than mine be my guest.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-21T13:40:00Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170818021548/@comment-899576-20170821134000",
+        "touched": "2017-08-21T13:40:00Z"
+      },
+      "2006": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5253,
+        "length": 6,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2006,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5253,
+            "slots": {
+              "main": {
+                "*": "Rip me",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-21T16:18:03Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170818021548/@comment-5590986-20170821161803",
+        "touched": "2017-08-21T16:18:04Z"
+      },
+      "2007": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5808,
+        "length": 19,
+        "ns": 6,
+        "pageid": 2007,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5255,
+            "revid": 5808,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T15:55:44Z"
+          }
+        ],
+        "title": "File:American Polynesia.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2008": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5256,
+        "length": 339,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Polynesia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2008,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5256,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Polynesia Territory\n| flag alias = American_Polynesia.png\n| alt attribute = Flag of American Polynesia\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-21T16:22:35Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Polynesia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Polynesia",
+        "touched": "2017-08-21T16:22:35Z"
+      },
+      "2009": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5807,
+        "length": 69,
+        "ns": 6,
+        "pageid": 2009,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5257,
+            "revid": 5807,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T15:55:37Z"
+          }
+        ],
+        "title": "File:Western Australia.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2010": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5258,
+        "length": 342,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Western Australia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2010,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5258,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = West Australia Territory\n| flag alias = Western_Australia.png\n| alt attribute = Flag of Western Australia\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-21T16:26:02Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Western Australia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Western Australia",
+        "touched": "2017-08-21T16:26:03Z"
+      },
+      "2011": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5806,
+        "length": 50,
+        "ns": 6,
+        "pageid": 2011,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5259,
+            "revid": 5806,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T15:55:27Z"
+          }
+        ],
+        "title": "File:Flag of Yukon.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2012": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5260,
+        "length": 321,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Yukon/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2012,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5260,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Yukon Territory\n| flag alias = Flag_of_Yukon.png\n| alt attribute = Flag of the Yukon\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-21T16:28:01Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Yukon/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Yukon",
+        "touched": "2017-08-21T16:28:01Z"
+      },
+      "2013": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5805,
+        "length": 69,
+        "ns": 6,
+        "pageid": 2013,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5261,
+            "revid": 5805,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T15:55:18Z"
+          }
+        ],
+        "title": "File:Falkland Territorial Flag.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2014": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5262,
+        "length": 355,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Falklands/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2014,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5262,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Falkland Islands Territory\n| flag alias = Falkland_Territorial_Flag.png\n| alt attribute = Flag of the Falkland Islands\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-21T16:33:31Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Falklands/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Falklands",
+        "touched": "2017-08-21T16:33:31Z"
+      },
+      "2015": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Russian flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5804,
+        "length": 27,
+        "ns": 6,
+        "pageid": 2015,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5265,
+            "revid": 5804,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Russian flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T15:55:08Z"
+          }
+        ],
+        "title": "File:Primorye.png",
+        "touched": "2017-11-08T00:12:20Z"
+      },
+      "2016": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5267,
+        "length": 308,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Primorye/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2016,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5267,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Primorye\n| flag alias = Primorye.png\n| alt attribute = Flag of Primorye\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-21T19:01:26Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Primorye/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Primorye",
+        "touched": "2017-08-21T19:01:27Z"
+      },
+      "2017": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Russian flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5803,
+        "length": 46,
+        "ns": 6,
+        "pageid": 2017,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5268,
+            "revid": 5803,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Russian flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T15:55:00Z"
+          }
+        ],
+        "title": "File:Chukotka .png",
+        "touched": "2017-11-08T00:09:48Z"
+      },
+      "2018": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5269,
+        "length": 309,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Chukotka/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2018,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5269,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Chukotka\n| flag alias = Chukotka_.png\n| alt attribute = Flag of Chukotka\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-21T19:02:02Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Chukotka/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Chukotka",
+        "touched": "2017-08-21T19:02:02Z"
+      },
+      "2019": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5270,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2019,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5270,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-21T21:46:48Z"
+          }
+        ],
+        "title": "File:Official New United States of America Flag 2.png",
+        "touched": "2017-08-21T21:52:15Z"
+      },
+      "2020": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Official New United States of America Flag 2.png"
+          }
+        ],
+        "lastrevid": 5271,
+        "length": 437,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2020,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5271,
+            "slots": {
+              "main": {
+                "*": "[[File:Official_New_United_States_of_America_Flag_2.png|thumb|Concept Flag SR USA]]Just a proposed design. The star in the middle represents the federal government. The 13 stars can either represent the original 13 colonies, or eventually 13 planets or star systems. The downward arrow represents America's past history, particularly on Earth. The arrow pointing upward represents America's aspiring future among the stars. Just an idea.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-21T21:52:15Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170818021548/@comment-32917534-20170821215215",
+        "touched": "2017-08-21T21:52:15Z"
+      },
+      "2021": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5272,
+        "length": 115,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2021,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5272,
+            "slots": {
+              "main": {
+                "*": "Neat, but no. We're forgoing the 13 stars for 8 to represent the commonwealths and no arrows for the national flag.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-22T02:12:27Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170818021548/@comment-899576-20170822021227",
+        "touched": "2017-08-22T02:12:29Z"
+      },
+      "2022": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5273,
+        "length": 779,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2022,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5273,
+            "slots": {
+              "main": {
+                "*": "If I understand right, the wiki is supposed to be up to 2160, and that's already after the former Mexican sphere has been annexed and accented to the Union. I assume you're just waiting to work on other things before adding those to the wiki (I can see the Amazonian territories in the territories section). I do have some questions about how the accented though, mainly about citizenship. Were the refugees and those who didn't flee to the colonies become citizens of the US, at least after some time? This also probably has implications for Venus, as it was a big place of refuge for Terran and specifically Latin American refugees. Did the \"60,000\" or \"100,000\" citizens rule come into play for accention to the Union?<ac_metadata title=\"Latin American States\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-22T12:42:51Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-29372813-20170822124251",
+        "touched": "2017-08-23T03:15:04Z"
+      },
+      "2023": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5274,
+        "length": 133,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2023,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5274,
+            "slots": {
+              "main": {
+                "*": "100,000 for statehood. 50 Million for planetary commonwealth status. You can still be a US citizen if you just reside in a territory.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-22T14:06:33Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-29372813-20170822124251/@comment-899576-20170822140633",
+        "touched": "2017-08-22T14:06:34Z"
+      },
+      "2024": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5275,
+        "length": 359,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2024,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5275,
+            "slots": {
+              "main": {
+                "*": "Ah, and yeah I understood that beforehand. It was more a question about the status of the people from Latin America, wether they were placed on some accellerated track for citizenship or just automatically gained it as a result of annexation. It'd be strange to have states with small minorities of citizens and a massive class of legal resident non-citizens.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-22T14:34:44Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-29372813-20170822124251/@comment-29372813-20170822143444",
+        "touched": "2017-08-22T14:34:47Z"
+      },
+      "2025": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5276,
+        "length": 49,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2025,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5276,
+            "slots": {
+              "main": {
+                "*": "It was more like post-Civil War Reconstruction. ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-23T03:15:03Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-29372813-20170822124251/@comment-899576-20170823031503",
+        "touched": "2017-08-23T03:15:03Z"
+      },
+      "2026": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6041,
+        "length": 18,
+        "ns": 6,
+        "pageid": 2026,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5280,
+            "revid": 6041,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Maps]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:28:53Z"
+          }
+        ],
+        "title": "File:First Nations.png",
+        "touched": "2017-11-08T00:09:48Z"
+      },
+      "2027": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century economic history"
+          },
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11558,
+        "length": 4846,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Earth"
+          },
+          {
+            "ns": 0,
+            "title": "Genetic Engineering"
+          },
+          {
+            "ns": 0,
+            "title": "Revolutions of 2027"
+          },
+          {
+            "ns": 0,
+            "title": "Third Agricultural Revolution"
+          },
+          {
+            "ns": 0,
+            "title": "White Tide"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2027,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10678,
+            "revid": 11558,
+            "slots": {
+              "main": {
+                "*": "The '''Great Famine''' was a period of mass starvation and disease on [[Earth]] lasting between 2024 to 2033. Estimates of the death toll vary, but ranging from 100 million to half a billion deaths. The famine led to worldwide [[revolutions of 2027|revolutions and social unrest]], and was only stopped by the [[Third Agricultural Revolution|mass market adoption of vat grown meats and improved agriculture conditions in the northern hemisphere.]]\n\nThe proximate causes of famine was sea level rise and ocean desalination which ravaged fishing yields throughout the North Atlantic during the late 2020s and 30s, and destroyed billions of acres of arable land. However, the global impact was disproportionate, as 17% of the global population were dependent of Fish as a staple food source and only the desalination largely impacted the North Atlantic before water salinity evened out, thereby impacting fish harvested in North American and European markets more severely than in Asia, which only saw a 22% reduction in fishing yields compared to the North Atlantic's 70%. The impact on arable land was also disproportionate as rice farming was far more heavily impacted than other forms of agriculture. This is believed to have been the chief cause of the Great Famine as 3.5 Billion people depended on Rice for 20% of their daily calories. Production of rice in 2027 was cut in half and would not recover to pre-flood levels until 2079. The damage done to Bangladesh alone reduced rice production by 9%.\n\nThe famine and its effects permanently changed the demographic, political, and cultural landscapes of many countries. For both the local populations and those in the resulting diaspora, the famine entered folk memory and became a rallying point for revolutionary and separatist groups. The already strained relations between many Chinese peasants and the Communist government in Beijing soured further, heightening ethnic and sectarian tensions in Pakistan, and boosted nationalist sentiment and political action in Europe and America.\n\nThe Great Famine forced tens of millions of families to abandon their farms. Many of these families migrated north into former Russia and the Americas to find that the worldwide recession had rendered economic conditions there little better than those they had left.\n\nThe Great Famine has been the subject of many cultural works, notably the novel ''The Chain'' (2035) by Zillur Haque, the documentary ''Hunger'' (2041), and photographs depicting the conditions of migrants by photographers the world over.\n\n==Causes and contributing factors==\nWhile today treated as a single period of starvation and food insecurity, until the end of the 21st century the Great Famine was identified as 3 separate events: the Famine of 2024, the Great Famine of 2027, and the American Famine of 2029-2031. While these famines impacted specific regions of the world for only the aforementioned periods, worldwide food insecurity and starvation did not end until the technologies that led to the [[Third Agricultural Revolution]] went global.\n\n==='''Supply China Interruptions'''===\nThe 2020s saw the collapse of a global economic system that had emerged at the end of the Second World War, commonly referred to as the Breton Woods System. This collapse is generally accepted to have begun with the COVID-19 pandemic, however at the time most associated it with the escalation of the Russo-Ukrainian War in 2022 and subsequent collapse of the Russian Federation. Prior to the Russo-Ukrainian War, Russia was the world's largest exporter of wheat and fertilizers, and Ukraine was the world's 5th largest exporter of wheat. The war, beginning at the start of the 2022 planting season, interrupted the export of fertilizer at the start of planting season, and limited the export of grain to the wider world during the Fall of 2022. The subsequent global famine killed some 40 million people in 2024.\n\nThe period of famine starting in 2027 resulting from the Flood, while primarily associated with the loss of arable land and ocean desalination, also saw the destruction of most of the world's largest port cities, severely limiting international maritime shipping of both food and agricultural inputs.\n\nThe American phase of famine, resulting directly from the [[White Tide]], was unique among the prior famines as it was primarily limited to the production and export of livestock feed, of which the United States was the world's primary producer.\n\n==='''Ocean desalination'''===\n==='''Sea level rise and loss of arable land'''===\n==='''Rice dependency'''===\n\n==Government response==\nBy 2027 the United Nations finally came to an agreement to reduce barriers to adoption of GMOs and improve the speed of research for [[Genetic Engineering]] and cloning.\n\n[[Category:21st Century]]\n[[Category:21st-century economic history]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-07-15T22:58:41Z"
+          }
+        ],
+        "title": "Great Famine",
+        "touched": "2024-07-15T22:58:41Z"
+      }
+    }
+  }
+}

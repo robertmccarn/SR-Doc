@@ -1,0 +1,1558 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "2384": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6924,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2384,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6924,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-13T19:16:41Z"
+          }
+        ],
+        "title": "File:Placeholder Coat of Arms.png",
+        "touched": "2018-01-02T06:52:01Z"
+      },
+      "2385": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder Coat of Arms.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Placeholder Flag.png"
+          }
+        ],
+        "lastrevid": 6925,
+        "length": 281,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2385,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6925,
+            "slots": {
+              "main": {
+                "*": "Hey, there seems to be that a lot of countries lack either a flag or a coat of arms in the page. I think it would be a good idea to use these as placeholders: \n[[File:Placeholder_Flag.png|thumb]]\n\n[[File:Placeholder_Coat_of_Arms.png|thumb]]<ac_metadata title=\"Idea\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-13T19:16:45Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20171213191645",
+        "touched": "2017-12-13T19:40:14Z"
+      },
+      "2386": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6928,
+        "length": 14,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2386,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6928,
+            "slots": {
+              "main": {
+                "*": "Ah, good plan.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-13T19:37:48Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20171213191645/@comment-899576-20171213193748",
+        "touched": "2017-12-13T19:37:48Z"
+      },
+      "2387": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6930,
+        "length": 69,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2387,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6930,
+            "slots": {
+              "main": {
+                "*": "Thanks. Now I'm just going to fill in a few thousand wikipedia links.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-13T19:40:13Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20171213191645/@comment-27896700-20171213194013",
+        "touched": "2017-12-13T19:40:13Z"
+      },
+      "2388": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6939,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2388,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6939,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-13T20:14:06Z"
+          }
+        ],
+        "title": "File:Andrés Manuel López Obrador.jpg",
+        "touched": "2019-03-11T18:03:45Z"
+      },
+      "2389": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6941,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2389,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6941,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-13T20:17:35Z"
+          }
+        ],
+        "title": "File:Guadalupe Victoria - 02.jpg",
+        "touched": "2019-03-11T18:03:46Z"
+      },
+      "2390": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6942,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2390,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6942,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-13T20:19:20Z"
+          }
+        ],
+        "title": "File:Vicente Ramón Guerrero Saldaña.png",
+        "touched": "2019-03-11T18:03:47Z"
+      },
+      "2391": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6943,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2391,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6943,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-13T20:21:13Z"
+          }
+        ],
+        "title": "File:Jose Maria Bocanegra.PNG",
+        "touched": "2019-03-11T18:03:46Z"
+      },
+      "2392": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6944,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2392,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6944,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-13T20:23:04Z"
+          }
+        ],
+        "title": "File:Pedro Velez.PNG",
+        "touched": "2019-03-11T18:03:46Z"
+      },
+      "2393": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6945,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2393,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6945,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-13T20:24:15Z"
+          }
+        ],
+        "title": "File:Oleo Antonio Lopez de Santa Anna.PNG",
+        "touched": "2019-03-11T18:03:46Z"
+      },
+      "2394": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6946,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2394,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6946,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-13T20:26:49Z"
+          }
+        ],
+        "title": "File:Anastasio Bustamante Oleo (480x600).png",
+        "touched": "2019-03-11T18:03:45Z"
+      },
+      "2395": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6947,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2395,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6947,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-13T21:59:57Z"
+          }
+        ],
+        "title": "File:Valentín Gómez Farías.png",
+        "touched": "2019-03-11T18:03:47Z"
+      },
+      "2396": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6948,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2396,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6948,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-13T22:03:59Z"
+          }
+        ],
+        "title": "File:Miguel Barragan Oleo (480x600).png",
+        "touched": "2019-03-11T18:03:46Z"
+      },
+      "2397": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9012,
+        "length": 765,
+        "ns": 2,
+        "pageid": 2397,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9011,
+            "revid": 9012,
+            "slots": {
+              "main": {
+                "*": "\n== Mexican Crisis ==\nPersonally, I believe that the situation in Mexico will have to get worse before the government will take any serious action. Thus, an idea I have is the Mexican Crisis.\n\nSometime between the presidencies of Saul Rodriguez Calderón and Maria Vasquez Salazar, I personally believe there should be some sort of civil war in Mexico. This civil war would probably consist of the the secession of several regions (Yucatan and Chiapas?) and some sort of splinter government (Backed by the US?) in Northern Mexico. This civil war could last for about a decade before the central government is able to quell the rebellions. This could lead to a resentment of the US and lay the groundwork for not only Renacido but also the Mexican-American Cold War.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-02-22T17:23:43Z"
+          }
+        ],
+        "title": "User:NewHorizons123/Sandbox",
+        "touched": "2019-02-22T17:23:43Z"
+      },
+      "2398": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6966,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2398,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6966,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-16T17:58:05Z"
+          }
+        ],
+        "title": "File:Coat of arms of Mexico.png",
+        "touched": "2018-01-03T23:56:28Z"
+      },
+      "2399": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6967,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2399,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6967,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-16T18:13:18Z"
+          }
+        ],
+        "title": "File:Second Mexican Empire Flag.png",
+        "touched": "2018-01-04T00:04:08Z"
+      },
+      "2400": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6979,
+        "length": 306,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2400,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6979,
+            "slots": {
+              "main": {
+                "*": "Ok, if you will let me, I would like to go around and change some of the \"generic names\" in some of the president pages, (meaning the lists.) I won't do anything to the American Presidents, but I'd like to tinker with some of the others, like the Mexican Presidents.<ac_metadata title=\"Hey\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-18T12:46:20Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20171218124620",
+        "touched": "2017-12-18T20:23:41Z"
+      },
+      "2401": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6980,
+        "length": 128,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2401,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6980,
+            "slots": {
+              "main": {
+                "*": "(If you are doing that could you do me a favor and keep some of the names like Eduardo Flores or Miguel Hernandez? Thx if u do.)",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-18T17:02:31Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20171218124620/@comment-5590986-20171218170231",
+        "touched": "2017-12-18T17:02:31Z"
+      },
+      "2402": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6981,
+        "length": 86,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2402,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6981,
+            "slots": {
+              "main": {
+                "*": "Yeah. I was going to change the names such as Jes Julio and other somewhat dumb names.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-18T17:33:38Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20171218124620/@comment-27896700-20171218173338",
+        "touched": "2017-12-18T17:33:38Z"
+      },
+      "2403": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6983,
+        "length": 122,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2403,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6983,
+            "slots": {
+              "main": {
+                "*": "The names of those listed in the Renacido category of the Mexican Presidents are set in stone, but otherwise go for it. ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-18T20:21:51Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20171218124620/@comment-899576-20171218202151",
+        "touched": "2017-12-18T20:21:51Z"
+      },
+      "2404": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6984,
+        "length": 2,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2404,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6984,
+            "slots": {
+              "main": {
+                "*": "Ok",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-18T20:23:40Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20171218124620/@comment-27896700-20171218202340",
+        "touched": "2017-12-18T20:23:41Z"
+      },
+      "2405": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6993,
+        "length": 38,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Korean War (2018–2021)"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 2405,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6993,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Korean War (2018–2021)]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-19T15:38:38Z"
+          }
+        ],
+        "title": "Korean War (2017–2021)",
+        "touched": "2018-01-21T17:08:22Z"
+      },
+      "2406": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:European Organizations"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Egypt (2040-2099).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Med Union.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Med Union Map.png"
+          }
+        ],
+        "lastrevid": 9583,
+        "length": 5765,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Arab Republic of Egypt"
+          },
+          {
+            "ns": 0,
+            "title": "Christian Lemma"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of the"
+          },
+          {
+            "ns": 0,
+            "title": "Free Trade Union"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Tunesia"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2406,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9582,
+            "revid": 9583,
+            "slots": {
+              "main": {
+                "*": "\n{{Infobox former country\n | conventional_long_name = Mediterranean Union\n | native_name = \n | common_name =\n | _noautocat = yes\n | status = Free Trade Union\n | continent = Africa, Europe\n | image_flag   = Med_Union.png\n | era = [[Mexican-American Cold War]]\n | event_start =\n | year_start = 2077\n | date_start =\n | event_end =\n | year_end = 2103\n | date_end =\n | event1 = \n | date_event1=\n | event2 = \n | date_event2 =\n | image_map  = Med_Union_Map.png\n | image_map_caption =\n----\n{{plainlist | style = padding-left: 0.6em; text-align: left; |\n*{{flag|Egypt|size=22px}}\n*{{flag|Tunesia|size=22px}}\n }}}}\n\nThe '''Mediterranean Union''' (also known as the '''MU '''or the '''Med''') was a regional bloc and a conglomerate mainly based in Europe and parts of Northern Africa.  The Mediterranean Union largely dominated Europe following the World War III, and its members states had been continuously the home of influential and successful European artists, philosophers, musicians, sportspeople, entrepreneurs, scientists, engineers, and inventors. At times it had the capability to rival Mexico in space-age capabilities. \n=='''History'''==\n==='''Origins'''===\nThe turn of the 21st Century saw southern Europe enter into the worst Depression in a century, the perfect storm of a sovereign debt crisis, a declining population and contracting markets from German exports. One by one, the nation's of southern Europe struck out on their own to protect themselves from everything the EU was telling them was actually a good thing: Free Trade, a single market, a common currency, a united financial system, all these things benefited the European core countries of Germany, France, and the Low countries, but were a disaster to the less industrial Mediterranean nations.\n\nThe free travel policies that defined the union's efforts to tear down nationalist barriers trapped millions of Middle-Eastern refugees in nations that didn't want them, as Northern European countries, at first hungry for cheap labor, voted to close their borders and leave Southern European and North Africa holding the bags. By the time the South Greenland Ice Sheet slipped into the Atlantic, many southern Europeans were sick to the teeth with their richer neighbors forcing them to shoulder the burden of a union that Greece and the Catalans had the good sense to leave. The mass die off of fish following the desalination of the Atlantic, and the subsequent food shortages were the final straw that led to the Revolutions of 2027, which saw southern Italy's successful bid for separation, along with Corsica, and Sardinia; Serbia's war with Bosnia and Croatia (partly spurred by Turkish and Polish proxies).\n\nTo prosper in the 21st Century, the Mediterraneans saw no other option than to emulate the example of their ancestors. Those that had gotten rich off the Great Flowering of the Sahara established themselves as the oligarchs over a new currency and trade union, crafted largely to support their own business interests. The governments they controlled, and the society they shaped reflected an romantic view of 19th Century social norms; some might say a reaction to the perceived decadence of the American over-culture that had long since defined life in contemporary Europe. Along with social structures lifted from the 19th century, the market lords of the MU lifted the political system from ancient history, using their own status as non-government leaders to secure territory in port cities in the region and around the world.\n\n<p style=\"font-weight:400;margin-top:0.4em;margin-bottom:0.5em;\">The Refreeze brought with it the restoration of Earth's sea levels to their pre-anthropocene state, but also breathed new life into the Sahara. The new megalakes, inland seas, and rivers carved out of their prehistoric basins fed what has been called the Great Blossoming in Africa. Deserts turned to Savannah, and the new rivers fed farmland, while the inland seas brought fishing industry and the means to ship the bounty of Africa to Mediterranean ports. Riches from these long ignored lands fed a string of independence movements and wars, kept in check only by the Turks and occasionally the Americans.</p>\n==='''Foundation and Rise'''===\n<span style=\"font-weight:400;\">Despite this period of instability, the dynamism of the New Sahara attracted investments from Southern Europe. After a generation of economic depression, separatist movements, nationalist purges, and population decline, the South had finally managed to find some sense of economic normalcy, at least compared to the communitarian balancing act of the Intermarium or the American subsidized welfare states of Atlantic Europe. These investments in North African ports and shipping generated wealth that was in turn spent on goods from North Africa, which in turn spurred more growth. </span>\n\nThe mastermind and forefather of the Mediterranean Union was [[Christian Lemma]], a former Italian Prime Minister (2061-2073) and politician, who was unsatisfied with American over-culture and wished to push for a type of European-dominated union (although via Italy and Sicily). He contacted powerful politicians and business executives in many countries around the Mediterranean to help start a push for a economic confederacy by the mid 2070s. Talks and gatherings began to become more frequent to soon draw up a plan for the new union. <span style=\"font-weight:400;\">In 2076 these trade partners came together to form the Mediterranean Union, less of a trade bloc and more of a pseudo-oligarchy governed by the would-be aristocrats who made their fortunes from Africa’s economic boom.</span>\n\n==='''Guardiola Incident and Decline'''===\n\n==='''Collapse'''===\n=='''Legacy'''==\n[[Category:European Organizations]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-02-27T14:29:49Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Both"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Egypt"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Tunesia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flag"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flag/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Plainlist"
+          }
+        ],
+        "title": "Mediterranean Union",
+        "touched": "2020-07-22T05:21:54Z"
+      },
+      "2407": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7001,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2407,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7001,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-21T03:52:01Z"
+          }
+        ],
+        "title": "File:Med Union.png",
+        "touched": "2018-01-08T03:35:36Z"
+      },
+      "2408": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Political parties in the United States"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Politics"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11348,
+        "length": 3689,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Ninth Party System"
+          },
+          {
+            "ns": 0,
+            "title": "Political parties in the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2408,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11347,
+            "revid": 11348,
+            "slots": {
+              "main": {
+                "*": "{{Infobox political party\n|name_english       = Liberacion Party\n|logo               = \n|colorcode          = #AA0044\n|chairperson        = \n|founded            = 14 March 2144\n|headquarters       = \n|student_wing       = \n|youth_wing         = \n|membership_year    = \n|membership         = \n|ideology           = Big Tent <br> Multiculturalism <br> Regionalism \n|colors             = Purpure\n|website            = \n|country            = \n|country_dab1       = \n}}\n\nThe '''Liberacion party''', also known as the '''Liberationist Party '''(and colliquially known as the Liberationists), is a party that held its origins as a grand coalition of nationalist groups after the [[Third Mexican-American War]]. The party advocates for political autonomy, traditionalism, separatism, and cultural preservation. \n\nThe party ideological base was molded when many became concerned that global unification could lead to the extinction of certain cultures and ethnic groups that reside within their borders overtime. They generally argue that separate groups of people should be able to govern themselves independently or autonomously. By the rise of the Tenth party system, the Liberacion party had gradually shifted its definition into a party that advocates for multiculturalism and regionalism, fearing the decline of many cultures and languages around the world as a consequence of American expansionism. Outside of North America, many supporters of the party advocate for anti-expansionism. Their shift towards less radical policies had attracted many minor libertarian groups, particularly those who had an multiethnic background.They also oppose the establishment of Free States in planets of extraterrestrial species and preferred the alien species to be assisted to “ascend” to space at their own will rather than being absorbed through \"cultural imperialism\".\n\nUnlike most parties, the Liberationist Party is more of a \"big tent\" party, composing itself of many factions united in a common goal. Although, the party holds more libertarian economic, social, and political values despite having groups who think otherwise.\n\nThe party has enjoyed popularity around recently annexed regions of the [[United States of America|United States]] (such as Latin America) and enjoyed greater success outside the country in the associated states (such as the European Association).    \n\n== History ==\nThe Liberacion Party was formed during the 2144 Presidential Election and steadily grew into prominence by the 2146 midterm elections. It was formed as a merger of many minor parties in Latin America that had largely opposed American occupation and annexation of their countries, including the now largely unpopular [[Political parties in the United States|Dignidad Party]]. It supported self-determination and preservation of foreign culture within the recently occupied and protectorate territories. It later became a symbol for those who had also opposed the rising American hegemony in countries outside of the United States during the era of the [[Ninth Party System]].\n\nBy the Tenth party system, the party became less radicalized as the party took on a more 'American-friendly' policy to attract voters. It still opposes American hegemony advocates for political autonomy, in which separate groups of people should be able to govern themselves independently or autonomously. They now generally prefer global co-operation not in form of a single united world government but rather large groups of people having equal sovereignty and reputation to voluntarily form a world organization instead, similar to the UN.\n[[Category:Political parties in the United States]]\n[[Category:Politics]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-07-06T18:50:08Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox political party"
+          }
+        ],
+        "title": "Liberacion Party (United States)",
+        "touched": "2023-07-06T18:50:08Z"
+      },
+      "2409": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7007,
+        "length": 46,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Liberacion Party (United States)"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 2409,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7007,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Liberacion Party (United States)]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-23T03:49:43Z"
+          }
+        ],
+        "title": "Liberaccion Party (United States)",
+        "touched": "2023-07-06T18:50:08Z"
+      },
+      "2410": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7015,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2410,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7015,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-26T01:16:28Z"
+          }
+        ],
+        "title": "Message Wall:Alexfc",
+        "touched": "2017-12-26T01:16:29Z"
+      },
+      "2411": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7016,
+        "length": 547,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Mars"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2411,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7016,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Mars]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-26T01:16:28Z"
+          }
+        ],
+        "title": "Thread:Alexfc/@comment-32769624-20171226011628",
+        "touched": "2017-12-26T01:16:28Z"
+      },
+      "2412": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 7017,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2412,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7017,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-26T01:16:29Z"
+          }
+        ],
+        "title": "User:Alexfc",
+        "touched": "2020-04-22T11:38:42Z"
+      },
+      "2413": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7028,
+        "length": 605,
+        "ns": 1201,
+        "pageid": 2413,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7019,
+            "revid": 7028,
+            "slots": {
+              "main": {
+                "*": "I've seen some BLANK portraits (specifically US) you have made a while ago, and I noticed that one of them look like it's based off of Hillary Clinton (female BLANK). So I was wonder what are the people you base the BLANK portraits off of?\n\nMainly portraits of some presidents like Dylan Price, Oscar Lachman (which reminds me of Jimmy Fallon), Carla Anderson (which reminds me of Ellen DeGeneres for some reason), Thang Levin, Lionel Halvidar (modified Woodrow Wilson?), and Dom Terragno. (which I have an interest in)<ac_metadata title=\"who are some of the BLANK portraits based off of?\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-31T23:52:11Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20171228014403",
+        "touched": "2018-01-28T19:47:49Z"
+      },
+      "2414": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7020,
+        "length": 97,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2414,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7020,
+            "slots": {
+              "main": {
+                "*": "They're all from stock photos I think, save for the blank woman who is an old picture of Clinton.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-29T19:28:37Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20171228014403/@comment-899576-20171229192837",
+        "touched": "2017-12-29T19:28:38Z"
+      },
+      "2415": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7021,
+        "length": 354,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2415,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7021,
+            "slots": {
+              "main": {
+                "*": "oh okay, do you still have some of the stock photos from before you edited them? or no?\n\n\n\n(I actually got a drawing tablet for christmas, so now I can make some digital art instead of sketching on paper. I was contemplating on drawing portraits,cartoons, or concept art for some of the presidents and such. So I wanted to have a \"general idea\", y'know?)",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-29T19:36:51Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20171228014403/@comment-5590986-20171229193651",
+        "touched": "2017-12-29T19:36:51Z"
+      },
+      "2416": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7033,
+        "length": 91,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2416,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7033,
+            "slots": {
+              "main": {
+                "*": "I threw them together really quickly and didn't save the GIMP files with the photos I used.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-02T00:37:07Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20171228014403/@comment-899576-20180102003707",
+        "touched": "2018-01-02T00:37:07Z"
+      },
+      "2417": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7034,
+        "length": 5,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2417,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7034,
+            "slots": {
+              "main": {
+                "*": "Dang.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-02T01:04:15Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20171228014403/@comment-5590986-20180102010415",
+        "touched": "2018-01-02T01:04:15Z"
+      },
+      "2418": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:China"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Countries in Asia"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former countries in Asia"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11711,
+        "length": 4270,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Japan"
+          },
+          {
+            "ns": 0,
+            "title": "Late 2010s Recession"
+          },
+          {
+            "ns": 0,
+            "title": "Republic of China"
+          },
+          {
+            "ns": 0,
+            "title": "Second Chinese Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2418,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11710,
+            "revid": 11711,
+            "slots": {
+              "main": {
+                "*": "The People's Republic of China (PRC; Chinese: 中华人民共和国) was a communist country in East Asia.\n\n==History==\n==='''Revolution and Mao Zedong'''===\n\n==== '''Civil War''' ====\n''Main Article: [https://en.wikipedia.org/wiki/Chinese_Civil_War Chinese Civil War] and [https://en.wikipedia.org/wiki/World_War_II World War II]''\n\nThe '''Chinese Civil War''' was fought between the Kuomintang (K.M.T)-led government of the [[Republic of China]] and the forces of the [https://en.wikipedia.org/wiki/Chinese_Communist_Party Chinese Communist Party] (C.C.P.), with armed conflict continuing intermittently from 1 August 1927 until Communist victory resulted in their total control over mainland China on 7 December 1949.\n\nThe war is generally divided into two phases with an interlude: from August 1927 to 1937, the First United Front alliance of the K.M.T. and C.C.P. collapsed during the Northern Expedition, and the Nationalists controlled most of China. From 1937 to 1945, hostilities were mostly put on hold as the Second United Front fought the Japanese invasion of China with eventual help from the Allies of World War II, although armed clashes between [[Japan]] and the Allies remained common. Exacerbating the divisions within China further was the formation of the Wang Jingwei regime, a Japan-sponsored puppet government ostensibly led by Wang Jingwei, which was established to nominally govern the regions of China that came under Japanese occupation.\n\nThe civil war resumed as soon as it became apparent that Japanese defeat was imminent, with the communists gaining the upper hand in the second phase of the war from 1945 to 1949, generally referred to as the Chinese Communist Revolution. The Communists gained control of mainland China and proclaimed the People's Republic of China in 1949, forcing the leadership of the Republic of China to retreat to the island of Taiwan. Starting in the 1950s, a lasting political and military stand-off between the two sides of the Taiwan Strait has ensued, with the R.O.C. in Taiwan and the P.R.C. on mainland China both claiming to be the legitimate government of all China. After the Second Taiwan Strait Crisis, both tacitly ceased to engage in open conflict in 1979; however, no armistice or peace treaty has ever been signed.\n\n===='''Sino-Soviet Split'''====\n''Main Article: [[Wikipedia:Sino-Soviet split|Sino-Soviet split]]''\n==='''Rise of Deng Xiaoping and economic reforms'''===\n==='''Chinese Economic Miracle'''===\n===='''Great Recession'''====\n==='''Return to Dictatorship'''===\n===='''CCP Purges and Xi Jinping'''====\n===='''Economic Crash'''====\n''Main article: [[Late 2010s Recession]]''\n\nFor several years prior to the Crash of 2018, Chinese investors began buying up properties overseas in an act of capital flight to safeguard their wealth against the coming crash. China faced the largest credit bubble in history, with formal bank loans totaling over $33 trillion before the crash, and a shadow banking system holding another $37 trillion in dark money loans.\n\n===='''Second Civil War'''====\n''Main article: [[The Flood]] and [[Second Chinese Civil War]]''\n\nThe '''Second Chinese Civil War''' was a war fought between the Chinese Communist Party (C.C.P.)-led government of the People's Republic of China and the Chinese separatist forces.\n\nFollowing the rise of sea level attributed to the loss of the Greenland Ice Sheet, over 100 million people were forced inland. The wealthy heart of Shanghai was spared thanks to one of the world's largest sea walls, but the millions of people who supported the city's rise to prosperity were left in refugee camps. The loss of land to The Flood and the displayed population put even greater strain on China's farmland. The Communist regime went through great lengths to hide reports of mass starvation. The C.C.P. also attempted to increase benefits to the working poor only to find the Yuan too weak and tax revenue was too atrophied to have any substantive effect. Tensions remained high but it wasn't until the bursting of the Three-Gorges Dam that the powder keg went off and Chinese separatist forces entered open rebellion against the People's Republic of China.\n[[Category:Former countries in Asia]]\n[[Category:Countries in Asia]]\n[[Category:China]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-11-08T18:36:01Z"
+          }
+        ],
+        "title": "People's Republic of China",
+        "touched": "2024-11-08T18:36:01Z"
+      },
+      "2419": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7043,
+        "length": 179,
+        "ns": 6,
+        "pageid": 2419,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7041,
+            "revid": 7043,
+            "slots": {
+              "main": {
+                "*": "<span style=\"color:rgb(170,170,170);font-family:ProximaNovaCond,sans-serif;font-size:15px;font-weight:400;\">Photo: </span>[https://www.facebook.com/ZineddineHas Zinnedine Hashas]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-08T23:50:43Z"
+          }
+        ],
+        "title": "File:Mars 2050.jpg",
+        "touched": "2018-01-24T21:52:50Z"
+      },
+      "2420": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7046,
+        "length": 390,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2420,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7046,
+            "slots": {
+              "main": {
+                "*": "How does the Government of the US work? If planetary commonwealths are treated as States were, then States would probably be treated as counties, which would make the counties virtually powerless, leading to it being just a 3 tiered republic with some weird asterisk attached.\n\nIf you could define the powers each level has, that would be great.<ac_metadata title=\"Question\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-09T18:34:08Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20180109183408",
+        "touched": "2018-01-10T21:23:19Z"
+      },
+      "2421": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7047,
+        "length": 28,
+        "new": "",
+        "ns": 1,
+        "pageid": 2421,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7047,
+            "slots": {
+              "main": {
+                "*": "Erm... There's nothing here.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-09T18:36:05Z"
+          }
+        ],
+        "title": "Talk:People's Republic of China/@comment-27896700-20180109183605",
+        "touched": "2018-01-09T18:36:05Z"
+      },
+      "2422": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7048,
+        "length": 256,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2422,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7048,
+            "slots": {
+              "main": {
+                "*": "The structure of state governments has remained unchanged. The difference now is that they’re no longer represented in Congress. That had been moved to the commonwealths, with each commonwealth having two senators and a certain number of representatives.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-09T22:10:29Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20180109183408/@comment-30470028-20180109221029",
+        "touched": "2018-01-09T22:10:29Z"
+      },
+      "2423": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7058,
+        "length": 1825,
+        "ns": 1201,
+        "pageid": 2423,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7049,
+            "revid": 7058,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">Freedim98 wrote:<br />The structure of state governments has remained unchanged. The difference now is that they’re no longer represented in Congress. That had been moved to the commonwealths, with each commonwealth having two senators and a certain number of representatives.</div>\nWe need to keep track of these stuff.\n\nthough \n<p style=\"font-weight:400;margin-top:0.4em;margin-bottom:0.5em;\">[http://second-renaissance.wikia.com/wiki/United_States_of_America#political_divisions http://second-renaissance.wikia.com/wiki/United_States_of_America#Political_Divisions]</p>\n\n<p style=\"font-weight:400;\">\"<span style=\"font-size:14px;font-weight:400;\">In 2133 the 35th Amendment was passed to solve the problem of colonial administration. The individual states, almost entirely based off of online direct representation, had become too unruly to govern across multiple worlds. Representation was incredibly skewed, with the heavily populated states left to the mercy of a large number of Senators from the many underpopulated colonial states. To allow for fairer, more democratic representation, and a greater level of autonomy for the citizenry, the Second Bill of Rights established the Four Tier Republic, creating planetary Commonwealths, that would administer the states and in turn be administered by the Federal Government. The Second Bill of Rights reformed both the House of Representatives and the Senate to represent Commonwealths instead of states, while internal governance of the Commonwealths would be left up to local choice, though most chose online parlaiments. The Commonwealths do not have the right to secede from the Union.\"</span></p>\n<p style=\"font-weight:400;\">\n</p>\n\n<p style=\"font-weight:400;\"><span style=\"font-size:14px;font-weight:400;\">the rest is Freedim's answer</span></p>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-09T22:48:55Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20180109183408/@comment-5590986-20180109223231",
+        "touched": "2018-01-09T22:48:55Z"
+      },
+      "2424": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7052,
+        "length": 461,
+        "ns": 1201,
+        "pageid": 2424,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7051,
+            "revid": 7052,
+            "slots": {
+              "main": {
+                "*": "<span style=\"font-weight:400;\">I wonder what is the number of representatives per population? I'd assume it grew to 1 representative per 1,000,000 people? (that means 5,700+ representatives, which sounds reasonable in future numbers) or like 1 representative per 10,000,000 people (570+ which sounds more reasonable in our numbers, the future would probably not be bothered by bigger numbers though...especially when the electoral college was removed)? </span>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-09T22:35:57Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20180109183408/@comment-5590986-20180109223529",
+        "touched": "2018-01-09T22:35:57Z"
+      },
+      "2425": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7055,
+        "length": 1308,
+        "ns": 1201,
+        "pageid": 2425,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7054,
+            "revid": 7055,
+            "slots": {
+              "main": {
+                "*": "[http://second-renaissance.wikia.com/wiki/United_States_of_America#political_divisions http://second-renaissance.wikia.com/wiki/United_States_of_America#Political_Divisions]\n\n\"<span style=\"font-size:14px;font-weight:400;\">In 2133 the 35th Amendment was passed to solve the problem of colonial administration. The individual states, almost entirely based off of online direct representation, had become too unruly to govern across multiple worlds. Representation was incredibly skewed, with the heavily populated states left to the mercy of a large number of Senators from the many underpopulated colonial states. To allow for fairer, more democratic representation, and a greater level of autonomy for the citizenry, the Second Bill of Rights established the Four Tier Republic, creating planetary Commonwealths, that would administer the states and in turn be administered by the Federal Government. The Second Bill of Rights reformed both the House of Representatives and the Senate to represent Commonwealths instead of states, while internal governance of the Commonwealths would be left up to local choice, though most chose online parlaiments. The Commonwealths do not have the right to secede from the Union.\"</span>\n\n\n\n<span style=\"font-size:14px;font-weight:400;\">the rest is Freedim's answer</span>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-09T22:39:38Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20180109183408/@comment-5590986-20180109223724",
+        "touched": "2018-01-09T22:39:38Z"
+      },
+      "2426": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7057,
+        "length": 735,
+        "ns": 1201,
+        "pageid": 2426,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7056,
+            "revid": 7057,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">NewHorizons123 wrote:<br />How does the Government of the US work? If planetary commonwealths are treated as States were, then States would probably be treated as counties, which would make the counties virtually powerless, leading to it being just a 3 tiered republic with some weird asterisk attached.\n\nIf you could define the powers each level has, that would be great.\n</div>\nI don't think that is the most accurate analogy. Counties are not definitely powerless, as they have representation or control in individual state governments, (which kinda does affect state decisions which in turn affect the commonwealth). \n\nBesides, since when individual counties are all that important in the big picture anyways? ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-09T22:45:40Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20180109183408/@comment-5590986-20180109224451",
+        "touched": "2018-01-09T22:45:40Z"
+      },
+      "2427": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7059,
+        "length": 269,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2427,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7059,
+            "slots": {
+              "main": {
+                "*": "True, but I'd still like to possibly see the exact difference in powers between the Federal, Planetary, State, and County level. Because what i'm hearing is that the states are the same, which would lead to Planetary Commonwealths being just for simplicity in Congress.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-10T13:20:25Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20180109183408/@comment-27896700-20180110132025",
+        "touched": "2018-01-10T13:20:26Z"
+      },
+      "2428": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7060,
+        "length": 50,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2428,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7060,
+            "slots": {
+              "main": {
+                "*": "and not having much jurisdiction in it's own land.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-10T13:21:10Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20180109183408/@comment-27896700-20180110132110",
+        "touched": "2018-01-10T13:21:10Z"
+      },
+      "2429": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7061,
+        "length": 359,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2429,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7061,
+            "slots": {
+              "main": {
+                "*": "I think the main difference in power is that County are like the states of States, while States are like the states of planetary commonwealths, and planetary commonwealths are like states of the Federal government. It's like a chain of command per se.\n\nthey are all just divisions and subdivisions and \"subsubdivisions\". if that is what you are trying to get.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-10T19:00:57Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20180109183408/@comment-5590986-20180110190057",
+        "touched": "2018-01-10T19:00:57Z"
+      },
+      "2430": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7062,
+        "length": 38,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2430,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7062,
+            "slots": {
+              "main": {
+                "*": "I guess that's a simple way to put it.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-10T21:23:19Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27896700-20180109183408/@comment-27896700-20180110212319",
+        "touched": "2018-01-10T21:23:19Z"
+      },
+      "2431": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7076,
+        "length": 146,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2431,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7076,
+            "slots": {
+              "main": {
+                "*": "Where do extraterrestrial species that immigrated to the Sol System mainly reside?<ac_metadata title=\"Extraterrestrial population\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-18T09:15:26Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20180118091526",
+        "touched": "2018-01-18T11:47:06Z"
+      },
+      "2432": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7077,
+        "length": 53,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2432,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7077,
+            "slots": {
+              "main": {
+                "*": "The colonies.  It actually depends on their biology.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-18T11:47:05Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20180118091526/@comment-31711431-20180118114705",
+        "touched": "2018-01-18T11:47:05Z"
+      },
+      "2433": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Human populations"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 9557,
+        "length": 3498,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Population growth"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2433,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7518,
+            "revid": 9557,
+            "slots": {
+              "main": {
+                "*": "'''Demography''', or '''Demographics''', is the statistical study of populations, especially human and extraterrestrial beings. As a very general science, it can analyze any kind of dynamic living population, i.e., one that changes over time or space (see population dynamics). Demography encompasses the study of the size, structure, and distribution of these populations, and spatial or temporal changes in them in response to birth, migration, aging, and death. Based on the demographic research of the earth, earth's population up to the year 2200 and 2500 can be estimated by demographers. Demographics are quantifiable characteristics of a given population.\n\nIn biology, a population is all the organisms of the same group or species, which live in a particular geographical area, and have the capability of interbreeding.The area that is used to define a sexual population is defined as the area where inter-breeding is potentially possible between any pair within the area, and where the probability of interbreeding is greater than the probability of cross-breeding with individuals from other areas. \n\nIn sociology, population refers to a collection of sophant beings such as Humans, Moraks, or Equoloii. Demography is a social science which entails the statistical study of populations. Population in simpler terms is the number of people in a city or town, region, country, world, system, sphere, cluster, or galaxy; population is usually determined by a process called census (a process of collecting, analyzing, compiling and publishing data). This article mainly refers to current major sapient or intelligent beings that has developed a civilization at one point. \n\n==Earthsphere Population==\n\nThe Earthsphere population, also known as the Earthsphere is the total number of intelligent beings (or sophants) currently living. The Earthsphere, a political term derrived from Earth (planet) and sphere (of influence), refers to a group of peoples living within political entities of common origins and history. The population was estimated to have reached well over 14.73 billion as of 2160. Multiple projections estimates that current trends will further increase up to 18 to 20 billion by the 23rd century. This does not include alien originated countries, a group of galactic political entities with common ties within a sphere of influence is called a '-cluster'.\n\nIn the 21st and early 22nd centuries, the population has seen a steady decline in the birth rate due to environmental pressures, global food supplies, regional (and global) conflicts, and energy resources. However, the 2150 projections show a continued increase in population in the near future with a steady increase in population growth rate within the last decade. Some analysts have highlighted the Terran diaspora as a major factor to the increasing population growth due to economic opportunities, better living space, and adventurous colonialism. Estimates of the total number of humans who have ever lived range from 125 to 130 billion.\n\n== Statistics ==\n\n=== '''Age Structure''' ===\n\n=== '''Population Growth''' ===\nMain Article: ''[[Population growth]]''\n\n=== '''Birth Rate''' ===\n\n=== '''Death Rate''' ===\n\n=== '''Sex Ratio''' ===\n\n=== '''Demonym''' ===\nThe demonym for the inhabitants of the Earthsphere is Terran. Although, the term has not been used by inhabitants of extraterrestrial associated states.\n\n== Species and Ethnicity ==\n\n== Religion ==\n\n== Education ==\n[[Category:Human populations]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-02-10T13:53:32Z"
+          }
+        ],
+        "title": "Demographics",
+        "touched": "2020-02-10T13:53:32Z"
+      }
+    }
+  }
+}

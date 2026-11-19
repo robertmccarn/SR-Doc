@@ -1,0 +1,33 @@
+{| style="clear:right; float:right; width:15.0em; margin-left:1.0em; padding:0.2em; border:1px solid #000000; background:#f2f2f2; font-size:90%; text-align:center; line-height:1.4em;" cellspacing="0" cellpadding="2"
+|-
+|style="background:white; font-size:85%; line-height:1.8em;"|
+<div style="padding-bottom:0.25em;">[[Image:Cold_War_Logo.png|frameless|upright=.6818182]]</div>
+Part of [[:Category:Mexican-American Cold War|a series]] on the<br/>
+<span style="font-size:125%;">'''History of the [[Mexican-American Cold War]]'''</span>
+|-
+!style="padding:0.2em 0.5em; background:#ccf;"| Origins
+|-
+|style="padding:0.2em 0.5em;"|[[Second Depression]]<br><small>([[Oscar Lachman|Mass Deportations]])</small><br>[[Second Mexican-American War|Second Mexican War]]<br>[[United States of America|US-Allies]]<br>[[Latin American Union]]<br>[[Interplanetary Trade Commission]]
+|-
+!style="padding:0.2em 0.5em; background:#ccf;"| [[Second Vietnam War]]
+|-
+!style="padding:0.2em 0.5em; background:#ccf;"| [[Third Chinese Civil War]]
+|-
+!style="padding:0.2em 0.5em; background:#ccf;"| [[India Crisis]]
+|-
+!style="padding:0.2em 0.5em; background:#ccf;"| [[Sahara War]]
+|-
+!style="padding:0.2em 0.5em; background:#ccf;"| [[Battle of Brazil]]
+|-
+!style="padding:0.2em 0.5em; background:#ccf;"| [[Third Mexican-American War|Third Mexican War]]
+|-
+!!style="padding:0.2em 0.5em; center: background:white"|[[Timeline of major events|Timeline]] {{·}} [[:Category:Mexican-American Cold War|Conflicts]]
+|-
+
+|}<noinclude>
+{{clear}}
+
+== See also ==
+
+[[Category:War and conflict templates]]
+</noinclude>

@@ -1,0 +1,33 @@
+{{Infobox country
+|conventional_long_name = United Nations of Tel-ma
+|national_motto = 
+|national_anthem = 
+|capital = New Voc Shi
+|largest_city = New Voc Shi
+|languages = 
+|languages_type = Official languages
+|government_type = Federal presidential constitutional republic
+|leader_title1 = President
+|leader_name1 = 
+|legislature = Global Parliament 
+|upper_house = General Assembly
+|lower_house = Planetary Senate 
+|sovereignty_type = [[Associated state]]
+|established_event1 = 
+|established_date1 =
+|area_rank = 
+|area_sq_mi = 
+|population_estimate = 23,971
+|population_estimate_year = 2160
+|population_estimate_rank = 
+|currency = United States Dollar ($)
+|currency_code = USD
+|image_flag =
+|image_coat =
+|leader_title2 = Vice President
+|leader_name2 = 
+}}
+
+'''Tel-ma,''' a.k.a. '''Kepler 22a''', is a planet located in the Kepler 22 system and the home planet of the [[Tel-bn]]. Tel-ma is an independent sovereign planet and a United States [[Associated state]].
+[[Category:Planets]]
+[[Category:Associated states]]

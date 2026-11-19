@@ -1,0 +1,21 @@
+---
+page_id: 1079
+revision_id: 2003
+source_url: https://second-renaissance.fandom.com/wiki/AstroBlues
+raw_sha256: 67b568824622192e50e215f4088febe47af174d791e9a19dfb12392c97067dd1
+---
+
+# AstroBlues
+
+## Preserved source
+
+```wikitext
+AstroBlues is a style of music that was popular in the 2040s in the United States. It was developed by the residents of space colonies on the Moon and the asteroids. The style is a fusion of the blues, jazz, country, R&B (all styles of it), soft rock, pop, hip-hop (which at the same time was evolving into a way similar to jazz when it evolved into bebop), and electronic music (all styles of it). It ended up influencing [Epical Music](1082-epical-music.md) in the 2060s.
+# History
+TBA
+[Category:21st-century music](https://second-renaissance.fandom.com/wiki/Category:21st-century_music)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1079/2003.wikitext` · revision `2003` · [upstream](https://second-renaissance.fandom.com/wiki/AstroBlues)

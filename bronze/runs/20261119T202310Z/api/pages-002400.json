@@ -1,0 +1,2087 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "2491": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7231,
+        "length": 43,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Lebanon"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2491,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7231,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Template:Country data Lebanon]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:25:29Z"
+          }
+        ],
+        "title": "Template:Country data Lebanese Republic",
+        "touched": "2018-02-03T20:25:30Z"
+      },
+      "2492": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7233,
+        "length": 46,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Kazakhstan"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2492,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7233,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Template:Country data Kazakhstan]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:26:07Z"
+          }
+        ],
+        "title": "Template:Country data Republic of Kazakhstan",
+        "touched": "2018-02-03T20:26:07Z"
+      },
+      "2493": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7235,
+        "length": 41,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Egypt"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2493,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7235,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Template:Country data Egypt]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:26:45Z"
+          }
+        ],
+        "title": "Template:Country data Arab Republic of Egypt",
+        "touched": "2018-02-03T20:26:58Z"
+      },
+      "2494": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7238,
+        "length": 46,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Kyrgyzstan"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2494,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7238,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Template:Country data Kyrgyzstan]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:29:05Z"
+          }
+        ],
+        "title": "Template:Country data Kyrgyz Republic",
+        "touched": "2018-02-03T20:29:05Z"
+      },
+      "2495": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7240,
+        "length": 50,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Karakalpakstan"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2495,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7240,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Template:Country data Karakalpakstan]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:29:28Z"
+          }
+        ],
+        "title": "Template:Country data Republic of Karakalpakstan",
+        "touched": "2018-02-03T20:29:28Z"
+      },
+      "2496": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7242,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2496,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7242,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:31:17Z"
+          }
+        ],
+        "title": "File:Flag of Tunisia.png",
+        "touched": "2018-02-14T19:16:06Z"
+      },
+      "2497": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7243,
+        "length": 230,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Tunisia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2497,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7243,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Tunisia\n| flag alias = Flag_of_Tunisia.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:31:24Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Tunisia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Tunisia",
+        "touched": "2018-02-03T20:31:24Z"
+      },
+      "2498": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7244,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2498,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7244,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:32:19Z"
+          }
+        ],
+        "title": "File:Flag of the Turks and Caicos Islands.png",
+        "touched": "2018-02-14T19:13:25Z"
+      },
+      "2499": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7245,
+        "length": 268,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Turks and Caicos Islands/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2499,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7245,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Turks and Caicos Islands\n| flag alias = Flag_of_the_Turks_and_Caicos_Islands.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:32:27Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Turks and Caicos Islands/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Turks and Caicos Islands",
+        "touched": "2018-02-03T20:32:27Z"
+      },
+      "2500": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7246,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2500,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7246,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:33:36Z"
+          }
+        ],
+        "title": "File:Flag of Tuvalu.png",
+        "touched": "2018-02-14T19:14:27Z"
+      },
+      "2501": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7247,
+        "length": 228,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Tuvalu/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2501,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7247,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Tuvalu\n| flag alias = Flag_of_Tuvalu.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:33:43Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Tuvalu/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Tuvalu",
+        "touched": "2018-02-03T20:33:43Z"
+      },
+      "2502": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7248,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2502,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7248,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:34:21Z"
+          }
+        ],
+        "title": "File:Flag of Uganda.png",
+        "touched": "2018-02-14T19:17:54Z"
+      },
+      "2503": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7249,
+        "length": 228,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Uganda/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2503,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7249,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Uganda\n| flag alias = Flag_of_Uganda.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:34:28Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Uganda/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Uganda",
+        "touched": "2018-02-03T20:34:28Z"
+      },
+      "2504": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7250,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2504,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7250,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:35:34Z"
+          }
+        ],
+        "title": "File:Flag of Ukraine.png",
+        "touched": "2022-05-28T07:19:20Z"
+      },
+      "2505": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7251,
+        "length": 230,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Ukraine/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2505,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7251,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Ukraine\n| flag alias = Flag_of_Ukraine.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:35:40Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Ukraine/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Ukraine",
+        "touched": "2018-02-03T20:35:40Z"
+      },
+      "2506": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7252,
+        "length": 243,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data United Arab Emirates/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2506,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7252,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = UAE\n| flag alias = Flag_of_the_United_Arab_Emirates.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:38:16Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data United Arab Emirates/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data United Arab Emirates",
+        "touched": "2018-02-03T20:38:16Z"
+      },
+      "2507": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7253,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2507,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7253,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:39:23Z"
+          }
+        ],
+        "title": "File:Flag of the Vatican City.png",
+        "touched": "2018-02-14T19:16:57Z"
+      },
+      "2508": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7255,
+        "length": 244,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Vatican City/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "ns": 10,
+        "pageid": 2508,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7254,
+            "revid": 7255,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Vatican City\n| flag alias = Flag_of_the_Vatican_City.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:42:04Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Vatican City/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Vatican City",
+        "touched": "2018-02-03T20:42:04Z"
+      },
+      "2509": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7264,
+        "length": 238,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data South Korea/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2509,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7264,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = South Korea\n| flag alias = Flag_of_South_Korea.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:22:01Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data South Korea/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data South Korea",
+        "touched": "2018-02-04T19:22:01Z"
+      },
+      "2510": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7265,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2510,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7265,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:31:19Z"
+          }
+        ],
+        "title": "File:Flag of Trinidad and Tobago.png",
+        "touched": "2018-02-04T19:42:08Z"
+      },
+      "2511": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7266,
+        "length": 254,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Trinidad and Tobago/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2511,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7266,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Trinidad and Tobago\n| flag alias = Flag_of_Trinidad_and_Tobago.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:31:26Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Trinidad and Tobago/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Trinidad and Tobago",
+        "touched": "2018-02-04T19:31:26Z"
+      },
+      "2512": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7267,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2512,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7267,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:31:45Z"
+          }
+        ],
+        "title": "File:Flag of Tonga.png",
+        "touched": "2018-02-04T19:41:27Z"
+      },
+      "2513": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7268,
+        "length": 226,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Tonga/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2513,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7268,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Tonga\n| flag alias = Flag_of_Tonga.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:31:53Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Tonga/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Tonga",
+        "touched": "2018-02-04T19:31:53Z"
+      },
+      "2514": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7269,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2514,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7269,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:34:15Z"
+          }
+        ],
+        "title": "File:Flag of Tokelau.png",
+        "touched": "2018-02-15T10:49:31Z"
+      },
+      "2515": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7270,
+        "length": 230,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Tokelau/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2515,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7270,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Tokelau\n| flag alias = Flag_of_Tokelau.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:34:31Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Tokelau/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Tokelau",
+        "touched": "2018-02-04T19:34:31Z"
+      },
+      "2516": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7271,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2516,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7271,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:34:49Z"
+          }
+        ],
+        "title": "File:Flag of Togo.png",
+        "touched": "2018-02-04T19:46:14Z"
+      },
+      "2517": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7272,
+        "length": 224,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Togo/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2517,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7272,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Togo\n| flag alias = Flag_of_Togo.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:34:58Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Togo/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Togo",
+        "touched": "2018-02-04T19:34:58Z"
+      },
+      "2518": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7273,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2518,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7273,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:35:22Z"
+          }
+        ],
+        "title": "File:Flag of The Gambia.png",
+        "touched": "2018-02-15T10:49:14Z"
+      },
+      "2519": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7274,
+        "length": 232,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Gambia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2519,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7274,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Gambia\n| flag alias = Flag_of_The_Gambia.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:35:28Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Gambia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Gambia",
+        "touched": "2018-02-04T19:35:28Z"
+      },
+      "2520": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7275,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2520,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7275,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:35:58Z"
+          }
+        ],
+        "title": "File:Flag of Thailand.png",
+        "touched": "2018-02-04T19:48:20Z"
+      },
+      "2521": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7276,
+        "length": 232,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Thailand/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2521,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7276,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Thailand\n| flag alias = Flag_of_Thailand.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:36:06Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Thailand/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Thailand",
+        "touched": "2018-02-04T19:36:06Z"
+      },
+      "2522": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7277,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2522,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7277,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:36:18Z"
+          }
+        ],
+        "title": "File:Flag of Tanzania.png",
+        "touched": "2018-02-04T19:48:21Z"
+      },
+      "2523": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7278,
+        "length": 232,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Tanzania/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2523,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7278,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Tanzania\n| flag alias = Flag_of_Tanzania.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:36:26Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Tanzania/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Tanzania",
+        "touched": "2018-02-04T19:36:26Z"
+      },
+      "2524": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7279,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2524,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7279,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:36:39Z"
+          }
+        ],
+        "title": "File:Flag of Tajikistan.png",
+        "touched": "2018-02-15T10:52:28Z"
+      },
+      "2525": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7280,
+        "length": 236,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Tajikistan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2525,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7280,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Tajikistan\n| flag alias = Flag_of_Tajikistan.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:36:47Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Tajikistan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Tajikistan",
+        "touched": "2018-02-04T19:36:47Z"
+      },
+      "2526": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7283,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2526,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7283,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:44:29Z"
+          }
+        ],
+        "title": "File:Flag of Syria.png",
+        "touched": "2018-02-04T19:59:48Z"
+      },
+      "2527": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7284,
+        "length": 226,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Syria/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2527,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7284,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Syria\n| flag alias = Flag_of_Syria.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:44:35Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Syria/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Syria",
+        "touched": "2018-02-04T19:44:35Z"
+      },
+      "2528": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7285,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2528,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7285,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:44:46Z"
+          }
+        ],
+        "title": "File:Flag of Switzerland.png",
+        "touched": "2018-02-15T10:59:48Z"
+      },
+      "2529": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7286,
+        "length": 238,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Switzerland/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2529,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7286,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Switzerland\n| flag alias = Flag_of_Switzerland.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:44:54Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Switzerland/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Switzerland",
+        "touched": "2018-02-04T19:44:54Z"
+      },
+      "2530": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7287,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2530,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7287,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:45:12Z"
+          }
+        ],
+        "title": "File:Flag of Sweden.png",
+        "touched": "2018-02-15T10:59:48Z"
+      },
+      "2531": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7288,
+        "length": 228,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Sweden/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2531,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7288,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Sweden\n| flag alias = Flag_of_Sweden.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:45:21Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Sweden/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Sweden",
+        "touched": "2018-02-04T19:45:21Z"
+      },
+      "2532": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7289,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2532,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7289,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:45:32Z"
+          }
+        ],
+        "title": "File:Flag of Swaziland.png",
+        "touched": "2018-02-15T10:58:25Z"
+      },
+      "2533": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7290,
+        "length": 234,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Swaziland/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2533,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7290,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Swaziland\n| flag alias = Flag_of_Swaziland.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:45:38Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Swaziland/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Swaziland",
+        "touched": "2018-02-04T19:45:38Z"
+      },
+      "2534": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7291,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2534,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7291,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:45:53Z"
+          }
+        ],
+        "title": "File:Flag of Suriname.png",
+        "touched": "2018-02-15T10:58:21Z"
+      },
+      "2535": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7292,
+        "length": 232,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Suriname/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2535,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7292,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Suriname\n| flag alias = Flag_of_Suriname.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:46:00Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Suriname/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Suriname",
+        "touched": "2018-02-04T19:46:00Z"
+      },
+      "2536": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7293,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2536,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7293,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:46:14Z"
+          }
+        ],
+        "title": "File:Flag of Sudan.png",
+        "touched": "2018-02-15T10:58:28Z"
+      },
+      "2537": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7294,
+        "length": 226,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Sudan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2537,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7294,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Sudan\n| flag alias = Flag_of_Sudan.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:46:22Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Sudan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Sudan",
+        "touched": "2018-02-04T19:46:23Z"
+      },
+      "2538": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7295,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2538,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7295,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:46:35Z"
+          }
+        ],
+        "title": "File:Flag of Sri Lanka.png",
+        "touched": "2018-02-15T10:58:29Z"
+      },
+      "2539": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7296,
+        "length": 234,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Sri Lanka/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2539,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7296,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Sri Lanka\n| flag alias = Flag_of_Sri_Lanka.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:46:41Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Sri Lanka/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Sri Lanka",
+        "touched": "2018-02-04T19:46:41Z"
+      },
+      "2540": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7297,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2540,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7297,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T19:47:09Z"
+          }
+        ],
+        "title": "File:Flag of Spain.png",
+        "touched": "2021-05-09T06:14:28Z"
+      }
+    }
+  }
+}

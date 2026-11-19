@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "*": "Flags",
+      "sortkey": ""
+    },
+    {
+      "*": "United_States",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>The&#160;<b>flags&#160;of the&#160;U.S.&#160;states,&#160;territories&#160;and&#160;federal district</b>&#160;exhibit a variety of regional influences and local histories, as well as different styles and design principles. Nonetheless, the majority of the states' flags share the same design pattern consisting of the&#160;state seal&#160;superimposed on a monochrome background, commonly blue.\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119081829\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.001 seconds\nReal time usage: 0.001 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:1434-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119081829 and revision id 6836. Rendering was triggered because: page-view\n -->\n</div>",
+  "links": [],
+  "page_id": 1434,
+  "revision_id": 6836,
+  "title": "Category:Flags of states of the United States"
+}

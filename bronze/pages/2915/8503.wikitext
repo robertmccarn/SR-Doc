@@ -1,0 +1,4 @@
+[[:Category:{{#ifeq:{{str left|{{{1}}}|9}}|Category:|{{str right|{{{1}}}|9}}|{{{1}}}}}]]&nbsp;({{PAGESINCATEGORY:{{#ifeq:{{str left|{{{1}}}|9}}|Category:|{{str right|{{{1}}}|9}}|{{{1}}}}}|{{{2|all}}}}})<noinclude>
+{{Documentation|Template:Clc/doc}}
+[[Category:Internal category-link templates]]
+</noinclude>

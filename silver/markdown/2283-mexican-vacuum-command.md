@@ -1,0 +1,60 @@
+---
+page_id: 2283
+revision_id: 10610
+source_url: https://second-renaissance.fandom.com/wiki/Mexican_Vacuum_Command
+raw_sha256: 983dd806240ff5e1673a46cdf46882cbc8ee40c48c7fcec3837270ef11c2f9e7
+---
+
+# Mexican Vacuum Command
+
+## Preserved source
+
+```wikitext
+The '''Mexican Vacuum Command''' ("''Comando Mexicano de Vacio''") was a Command Division of the National Defense Secretariat (SEDENA), created initially in 2090 to help institutionalize the use of outer space by the Mexican Special Forces. It officially became an independent agency in 2113. The Secretariat of Orbital Defense, with a headquarters at L1 Colony, also functioned as the Commander in Chief of all Mexican Armed Forces in Space. Military space-operations coordinated by CMV proved to be very valuable for the Mexican-led coalition during the latter half of the [Mexican-American Cold War](1597-mexican-american-cold-war.md).
+
+Unlike the United States Space Force, which is just an independent branch of the United States Armed Forces, Mexico's Vacuum Command existed as separate from the chain of command of operations on Earth, which were organized under the Mexican Terrestrial Command (''Comando Terrestre Mexicano''). Separate branches of the Mexican Army and Navy were created specifically for space-based combat, effectively dividing responsibilities of SEDENA in two.
+
+# History
+After Filipe Peña and the Revolution Party's takeover in 2090 elections, Mexico began to pursue a greatly enlarged military. During its struggle for power, the Revolution party promised to recover Mexico's lost national pride. It proposed military rearmament claiming that America's unilateral deportation of millions of citizens into their territory and dominance over space were an embarrassment for all Mexicans. The military buildup became the topmost priority of the Peña administration. Peña would then spearhead one of the greatest expansions of space-based industrial production and civil improvement Mexico had ever seen.
+
+Then Interior Secretary [Luis Zepeda](1537-luis-zepeda.md), already one of the most influential Revolution party figures of the time, and the Mexican Council of Economic Advisors introduced a wide variety of programs in order to build up the Mexican military and improve Mexico's infrastructure, even more so than the civil works programs introduced during the [Second Depression](1446-second-depression.md). One element of this was the creation of the early Vacuum Command, which operated primarily as a special forces unified command structure of the Mexican Armed Forces. After the end of the [Second Mexican-American War](821-second-mexican-american-war.md) and the death of Filipe Peña, Zepeda pushed for a military buildup and exploring ways to counter US military dominance in space.
+
+## '''Project Ahuiateteo'''
+''Main article: [Project Ahuiateteo](3620-project-ahuiateteo.md)''
+
+To close the power gap between Mexico and the United States, in the 2080s the Vacuum Command launched ''Project Ahuiateteo'', named for the five Aztec gods of excess and pleasure, to build five super-[Orbitals](1477-orbitals.md) under the guise of extravagant tourist destinations. After a decade of construction, Mexico unveiled the true purpose of the Ahuiateteo colonies in 2112, demonstrating their capabilities a single kinetic strike on a small island in the South Pacific. While the yield of the impact was impressive, 2 killotonnes, the distance terrified the American public and escalated the Mexican-American Cold War.
+
+Mexico then used these heavily armed platforms to build and maintain a larger and more nimble space force, deploying a few thousand drones and attack satellites upon their debut, and training its in-space commandos from this position. The threat of planetary bombardment and the political fallout that would come from killing hundreds of thousands of civilians forced the US to accept these orbitals as a reality for a quarter century.
+
+## '''Mexican power in space (2113-2134)'''
+Mexico formally established an independent Space Force, the Secretariat of Orbital Defense, on May 1, 2113, with Jaso as Secretary and Commanding General. He was stationed at the L1 Colony and for 19 years would directly oversee and command Mexican operations in Space, and by extension Mexican deployments around the World. 
+
+With a foothold in Earth Orbit Mexico began to expand and defend its interests in space, capturing asteroids and building a large space fleet. Mexican mining interests extended as far out as the orbit of Jupiter, harvesting Trojan asteroids and moving them toward their L1 and L2 Earth-Solar quarries, and building infrasructure across the solar system to continually maintain Mexican space assets. Vacuum Command bases were established near the Trojans and on long transit orbits between Jupiter and Earth. Despite this effort to capture space-based resources, Mexico was formally an anti-colonial power, and believed the American colonies held far too much sway over system-wide economics and political power. However due to the extreme gap in population and power between Mexico and the Colonies, Vacuum Command never made any serious attempt to push the Mexcian navy to directly engage the colonials, and preferred to keep almost all of its forces near Earth.
+
+Prior to the outbreak of the Third Mexican War, the Mexican Navy under Vacuum Command held a fleet of 1100 human operated ships and up to a million drones.
+
+# Bases
+At its height the Mexican Vacuum Command had only one quarter the instillations of the US Space Force, the bulk of which were operated by the Mexican Navy. Most of Mexico's positions in space that provided command and control were organized into clusters of chip-sats that operated a completely distributed network of autonomous command and control. Human decision making could be conducted anywhere on Earth or in space, but Mexico maintained human-level command positions at their Earth-Solar orbitals.
+
+## '''Earth Orbit'''
+## '''Lagrangian Points'''
+## '''Colonies'''
+# Equipment
+## '''Spacecraft'''
+### '''Cruisers'''
+Mexican cruisers were co-developed not long after the Second Mexican-American War with help from the [Guardiola Foundation](823-guardiola-foundation.md) originally from stolen American designs. Zepeda-class cruisers were used primarily for long-range land, sea, and space strike capability, and were capable of light bombardment from orbit. The Zepeda-class was Mexico's only cruiser to enter service. At twice the length of the American Armstrong-Class it was considered the peak of its class of vessel. Of the five ships Mexico built, all five were destroyed during the Third Mexican War.
+
+### '''Drops carriers'''
+### '''Assault carriers'''
+### '''Gunships'''
+### '''Orbital Battle Stations'''
+## '''Aircraft'''
+## '''Weapons'''
+[Category:Military Technology](1414-category-military-technology.md)
+[Category:Mexico](https://second-renaissance.fandom.com/wiki/Category:Mexico)
+[Category:Mexican-American Cold War](https://second-renaissance.fandom.com/wiki/Category:Mexican-American_Cold_War)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/2283/10610.wikitext` · revision `10610` · [upstream](https://second-renaissance.fandom.com/wiki/Mexican_Vacuum_Command)

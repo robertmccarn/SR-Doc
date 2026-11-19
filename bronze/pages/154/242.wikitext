@@ -1,0 +1,13 @@
+{| 
+|-
+! Code !! Result
+|-
+| style="font-size: 95%"| <code><nowiki>{{Composition bar|50|100|red}}</nowiki></code>
+| {{Composition bar|50|100|red}}
+|-
+| style="font-size: 95%"| <code><nowiki>{{Composition bar|50|100|red|color=#FFFFFF}}</nowiki></code>
+| {{Composition bar|50|100|red|color=#FFFFFF}}
+|-
+| style="font-size: 95%"| <code><nowiki>{{Composition bar|50|100|red|color=#FFFFFF|background-color=#000000}}</nowiki></code>
+| {{Composition bar|50|100|red|color=#FFFFFF|background-color=#000000}}
+|}

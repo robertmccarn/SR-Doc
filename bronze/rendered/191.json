@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "*": "Pages_with_broken_file_links",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><div id=\"template-documentation\" class=\"template-documentation iezoomfix\">\n<div style=\"padding-bottom:3px;border-bottom:1px solid #aaa;margin-bottom:1ex\">\n<span style=\"font-weight:bold;font-size:125%\"><span typeof=\"mw:Error mw:File\"><a href=\"/wiki/Special:Upload?wpDestFile=Test_Template_Info-Icon_-_Version_(2).svg\" class=\"new\" title=\"File:Test Template Info-Icon - Version (2).svg\"><span class=\"mw-file-element mw-broken-media\" data-width=\"50\">Documentation icon</span></a></span> Template documentation</span><span class=\"mw-editsection-like plainlinks\" id=\"doc&#95;editlinks\">&#91;<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Doc/doc?action=edit&amp;preload=Template%3ADocumentation%2Fpreload\">create</a>&#93;</span></div>\n<div style=\"clear:both\">\n</div></div><table id=\"documentation-meta-data\" class=\"plainlinks fmbox fmbox-system\" role=\"presentation\" style=\"background-color: #ecfcf4\"><tbody><tr><td class=\"mbox-text\" style=\"font-style: italic\">Editors can experiment in this template's sandbox <small style=\"font-style: normal;\">(<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Doc/sandbox?action=edit&amp;preload=Template%3ADocumentation%2Fpreload-sandbox\">create</a> &#124; <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Doc/sandbox?preload=Template%3ADoc&amp;action=edit&amp;summary=Create+sandbox+version+of+%5B%5BTemplate%3ADoc%5D%5D\">mirror</a>)</small> and testcases <small style=\"font-style: normal;\">(<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Doc/testcases?action=edit&amp;preload=Template%3ADocumentation%2Fpreload-testcases\">create</a>)</small> pages.<br />Please add categories to the <span class=\"new\" title=\"Template:Doc/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6RG9jL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">/doc</span> subpage. <a href=\"/wiki/Special:PrefixIndex/Template:Doc/\" title=\"Special:PrefixIndex/Template:Doc/\">Subpages of this template</a>.</td></tr></tbody></table>\n\n<!-- \nNewPP limit report\nCached time: 20261119205412\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.034 seconds\nReal time usage: 0.050 seconds\nPreprocessor visited node count: 14/1000000\nPost‐expand include size: 1509/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 5/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nLua time usage: 0.018/7.000 seconds\nLua memory usage: 894515/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:191-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205412 and revision id 249. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Doc/doc",
+      "ns": 10
+    },
+    {
+      "*": "Template:Doc/sandbox",
+      "ns": 10
+    },
+    {
+      "*": "Template:Doc/testcases",
+      "ns": 10
+    },
+    {
+      "*": "Template:Doc/Print",
+      "ns": 10
+    }
+  ],
+  "page_id": 191,
+  "revision_id": 249,
+  "title": "Template:Doc"
+}

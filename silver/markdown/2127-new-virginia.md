@@ -1,0 +1,58 @@
+---
+page_id: 2127
+revision_id: 8529
+source_url: https://second-renaissance.fandom.com/wiki/New_Virginia
+raw_sha256: 61609b8f3c34114290167aa5c03dfe373bf123a1d474be28c18585c1b8a55041
+---
+
+# New Virginia
+
+## Preserved source
+
+```wikitext
+{{Infobox country
+|conventional_long_name = State of New Virginia
+|national_motto = "Sic Itur Ad Astra"
+|national_anthem = 
+|capital = Aram
+|largest_city = New Richmond
+|languages = English (de facto)
+|demonym = New Virginian
+|languages_type = 
+|lang_others= Chinese, Tamil, Bengal, Japanese, French, Spanish, etc.
+|government_type =
+|leader_title1 = Governor
+|leader_name1 = Chandri Wei
+|legislature = New Virginia State Legislature
+|upper_house = Senate
+|lower_house = State Assembly
+|established_event1 = Formation 
+|sovereignty_type = Admitted to the Union
+|established_date1 = December 1, 2134
+|area_rank =
+|area_sq_mi = 
+|population_estimate = 44,934,231
+|population_estimate_year = 2160
+|population_estimate_rank = 1st
+|currency = United States dollar ($)
+|currency_code = USD
+|image_flag = New_Virginia_Flag.png
+|image_coat = New_Virginia_Seal.png
+|image_map = Map_of_New_Virginia.png
+|leader_title2 = Lieutenant Governor
+|leader_name2 = Kim C. Hotchkiss
+}}
+'''New Virginia''' is a state in the Chryse Sound region of [Mars](318-mars.md) located between just North of the Margartifer lowlands. New Virginia is nicknamed the "Gateway to Mars" because of its status as the home state of the first and by far the most developed space elevator. The geography and climate of the State are shaped by the lowland plains and marshlands of the Aram peninsula, which provide habitat for much of its [flora and fauna](2045-flora-and-fauna-of-mars.md). The capital of the State is Aram; New Richmond is the most populous city, and Praxis County is the most populous political subdivision. The State's estimated population as of 2160 is over 44.9 million.
+
+# History
+One of the original Martian colonies, New Virginia was first settled in 2031 by the Praxis Group, a collection of venture capitalists hoping to capitalize on the value of the Margaritifer lowlands that would form an equatorial peninsula once terraforming gifted Mars with Oceans. Its first settlement of New Richmond would go on to become one of the most important settlements on Mars after the construction of the first space elevator just outside of settlement proper in 2039. The Praxis Group aggressively pushed for greater expansion of the Mars Transit Network from New Richmond, which became a central hub for new settlers seeking lives across the planet. Naturally, many simply chose to remain in New Richmond and serve the needs of the millions that would descend from the elevator.
+
+In many respects, the First Martian Revolution was born in New Virginia. Where most of Mars's founding corporations had ceded more and more power to the populace throughout the first half of the 21st Century, the Praxis Group maintained private control of the New Richmond Elevator and the colony itself, leveraging its position as the primary landing site and interplanetary trade port to always be exempt from MarsCorp reforms. When Martians began to formally call for Representation in the US Congress it was in New Virginia where the first calls were made, not by Praxis, but by the Delegation of New Richmond, an unrecognized political group that had been quietly gathering support with the other colonies for some time. However, where most of the colonies who joined in the calls for representation did so out of a desire to see their new citizens granted all the rights and privileges they had done without for so long, the Delegation had an ulterior motive: to unseat the Hegemony of the Praxis Group before the Second Wave began. When MarsCorp Chairman Kanzaki, a former CEO of Praxis, announced the plan to impose planet wide fees on products imported from Earth and travel between the territories, Mars finally spoke up. Protests, boycotts, and strikes broke out planet-wide, and Mars seemed poised for Revolution against MarsCorp, and potentially the United States on Earth. But it was Praxis where the only real hatred was directed. Fighting between colonists and Praxis security forces broke out whenever a protest was held and assemblies were often broken up by raids. In 2078 members of the Delegation held one of the largest sit-ins in recorded history. 25,000 people surrounded the base of the New Richmond Elevator and stopped all unloading and loading of the most critical supply line for Mars. With freeze packed food from shipping containers at their disposal, and a wall of people that the security forces could not penetrate, the protest lasted months. MarsCorp's shareholders were reeling from profit losses and the potential loss on their territorial claims, Galileo Development's President, Adrian Hayer proposed a solution. Galileo Development was an offshoot of Lunar Energy Ltd, and while it did not have a direct stake in MarsCorp, it had been shipping Nitrogen down system from Titan to Mars for four decades. Through LE, Galileo agreed to broker a deal with the colonists and Earth, and purchase 35% of MarsCorp's holdings, in exchange for continued trade between the colonies. Praxis agreed, and ceded all claims to New Virginia to the newly created Interplanetary Trade Commission. Praxis would only hold ownership of a financial district in the heart of New Richmond. To prevent any future monopolization of trade, the first order of the ITC was the creation of 12 additional elevators, and improvements to the existing three outside of New Richmond.
+
+The New Virginia Colony was partitioned in 2085, but the core of the colony around the New Richmond Elevator remained intact. By 2100 New Richmond surpassed every city in the system for size and population; despite its new competition with the other elevators, most colonists still came through New Richmond. The terraforming process left the peninsula in a perfect position for colonists to easily reach the fertile coats of Araby and the farmland stretching from the Chryse Gulf to the Argyre Sea. The wealth of Mars all flowed through New Richmond and New Virginia prospered, so much so that when the Luongists tried to gain a foothold in the colony where the first Revolution had started, they found no support for as Second. New Virginia was comfortable and sought integration over separation. When the first calls for statehood went out in 2134, New Virginia was one of the first to be accepted to join the Union along with 50 other territories across the system. And when the call for colonial reinforcements came down, it was from New Richmond that they ascended to help.
+[Category:Mars](https://second-renaissance.fandom.com/wiki/Category:Mars)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/2127/8529.wikitext` · revision `8529` · [upstream](https://second-renaissance.fandom.com/wiki/New_Virginia)

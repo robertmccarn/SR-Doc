@@ -1,0 +1,4202 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "2434": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7080,
+        "length": 323,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2434,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7080,
+            "slots": {
+              "main": {
+                "*": "Hello!\n\nI am the representative from the [http://ru.future.wikia.com/wiki/Будущее_вики Russian Future Wiki]. Don't You mind of translating of the Second Renaissance scenario and related articles to russian? With attribution of course)\n\nYours respectfully, \n\nKost<ac_metadata title=\"Translation\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-20T07:13:14Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-26077895-20180120071314",
+        "touched": "2018-01-20T17:45:42Z"
+      },
+      "2435": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7081,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2435,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7081,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-20T07:13:15Z"
+          }
+        ],
+        "title": "Message Wall:Kostdanila",
+        "touched": "2018-01-20T07:13:17Z"
+      },
+      "2436": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7082,
+        "length": 566,
+        "links": [
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          },
+          {
+            "ns": 1201,
+            "title": "Thread:2434"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2436,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7082,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Thread:2434|Translation]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-20T07:13:16Z"
+          }
+        ],
+        "title": "Thread:Kostdanila/@comment-32769624-20180120071316",
+        "touched": "2018-01-20T07:13:16Z"
+      },
+      "2437": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 7083,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2437,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7083,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-20T07:13:17Z"
+          }
+        ],
+        "title": "User:Kostdanila",
+        "touched": "2018-01-20T07:13:17Z"
+      },
+      "2438": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7129,
+        "length": 88,
+        "ns": 1,
+        "pageid": 2438,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7086,
+            "revid": 7129,
+            "slots": {
+              "main": {
+                "*": "I wonder if this should be changed to demographics so it can be expanded upon a lot more",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-02T00:34:49Z"
+          }
+        ],
+        "title": "Talk:Demographics/@comment-5590986-20180120085753",
+        "touched": "2018-02-02T00:34:49Z"
+      },
+      "2439": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7087,
+        "length": 115,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2439,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7087,
+            "slots": {
+              "main": {
+                "*": "No, you may not include my content on your wikia. You may link and reference people to this wikia, but that is all.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-20T14:46:44Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-26077895-20180120071314/@comment-899576-20180120144643",
+        "touched": "2018-01-20T14:46:44Z"
+      },
+      "2440": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7088,
+        "length": 53,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2440,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7088,
+            "slots": {
+              "main": {
+                "*": "Too bad they can't read english.\n\nBest regards,\n\nKost",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-20T17:45:42Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-26077895-20180120071314/@comment-26077895-20180120174542",
+        "touched": "2018-01-20T17:45:42Z"
+      },
+      "2441": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7091,
+        "length": 27,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Korean Crisis"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 2441,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7091,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Korean Crisis]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-21T17:08:22Z"
+          }
+        ],
+        "title": "Korean War (2018–2021)",
+        "touched": "2020-03-27T23:43:10Z"
+      },
+      "2442": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7098,
+        "length": 255,
+        "new": "",
+        "ns": 1,
+        "pageid": 2442,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7098,
+            "slots": {
+              "main": {
+                "*": "Did Turkish Special Opratives regularly plant explosives in neutral, nearby states in WW3? Jacobi was killed in the capital of Iran, who IIRC sat out WW3, what reason would Turkey have to enrage any neighbors who could threaten Turkish territory directly?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-22T19:04:24Z"
+          }
+        ],
+        "title": "Talk:Evalyn Jacobi/@comment-29372813-20180122190424",
+        "touched": "2018-01-22T19:04:24Z"
+      },
+      "2443": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7101,
+        "length": 661,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2443,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7101,
+            "slots": {
+              "main": {
+                "*": "Well after trying to find some obscure celebrity/obscure politician photos to manipulate to help with this timeline's portraits. I think I found \"Thang Levin\". I compared the two shapes and they seem the match up.\n\nOrig: https://i.imgur.com/IuF4VHQ.jpg\n\nSo I made some modifications with it (considering that life extension + appearances + genetic modifications in the future would probably be more advanced and makes humans nearing what we would deem \"middle age\" seem like \"young adult\" years) for the timeline:\n\nMod: https://i.imgur.com/dIiVde6.jpg\n\nTho, I may have some ideas for the collar and suit. But the face is more important atm.\n\nwhat do you think?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-28T02:11:10Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20171228014403/@comment-5590986-20180128021110",
+        "touched": "2018-01-28T02:11:10Z"
+      },
+      "2444": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7103,
+        "length": 383,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2444,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7103,
+            "slots": {
+              "main": {
+                "*": "I forgot that I used Governor Locke for Levin. The suit needs work, and while the edit on the face is great, he looks a little too youthful and not so Presidential. Its why I like just keeping Silhouettes as from what I understand its difficult to properly change someone's expression in photoshop. Please don't spend an excessive amount of time on this project if you don't have to.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-28T17:36:00Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20171228014403/@comment-899576-20180128173600",
+        "touched": "2018-01-28T17:36:00Z"
+      },
+      "2445": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7106,
+        "length": 1134,
+        "ns": 1201,
+        "pageid": 2445,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7105,
+            "revid": 7106,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">YNot1989 wrote:<br />I forgot that I used Governor Locke for Levin. The suit needs work, and while the edit on the face is great, he looks a little too youthful and not so Presidential. Its why I like just keeping Silhouettes as from what I understand its difficult to properly change someone's expression in photoshop. Please don't spend an excessive amount of time on this project if you don't have to.</div>\nEh, well Gov. Locke is like in his late 60s while Levin was in his late 40s. I thought that advancement in the future would make presidents look more youthful than what their age portrays (like Kennedy but more nostalgic of him), considering that (at least the appearance of) aging would be somewhat slower and ideas of what Presidents would look like would change overtime. but ok\n\n<span style=\"font-style:italic;font-weight:400;\">\"Please don't spend an excessive amount of time on this project if you don't have to.\"</span>\n\nEh, well I do these things when I am bored so no worries. I like to spend that time (re)creating things, i'd rather not let most of my ideas go to waste if you know what I mean.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-28T19:48:42Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20171228014403/@comment-5590986-20180128194748",
+        "touched": "2018-01-28T19:48:42Z"
+      },
+      "2446": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former countries in Asia"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former countries in Europe"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former countries in North America"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former countries in South America"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former countries in the British Isles"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Albania (2048-2056).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:American Polynesia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Australia 2037.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bahamas.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Belize.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cuba.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Ecuador.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Egypt (2040-2099).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Afghanistan.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Algeria.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Andorra.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Angola.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Anguilla.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Antigua and Barbuda.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Argentina.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Armenia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Aruba.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Austria.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Azerbaijan.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Bahrain.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Bangladesh.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Barbados.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Belarus.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Belgium.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Benin.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Bermuda.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Bhutan.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Bolivia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Bosnia and Herzegovina.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Botswana.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Brazil.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Canada.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Chile.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of China (2058-2108).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Colombia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Costa Rica.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Croatia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Curaçao.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Denmark.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Djibouti.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Dominica.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of East Timor.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Estonia2.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Greenland.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Honduras.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Hungary.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Iceland.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of India.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Indonesia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Iran.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Ireland.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Israel.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Japan.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Kazakhstan.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Kyrgyzstan.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Laos.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Latvia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Lebanon.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Lithuania.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Madagascar.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Mexico (2074).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Nicaragua.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Norway.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Peru (war).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Poland2.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Portugal.svg.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Romania.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Slovakia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Slovenia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Somalia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of South Africa.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of South Korea.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of South Sudan.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Spain.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Sri Lanka.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Sudan.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Suriname.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Swaziland.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Sweden.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Switzerland.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Syria.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Tajikistan.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Tanzania.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Thailand.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of The Gambia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Togo.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Tokelau.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Tonga.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Trinidad and Tobago.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Tunisia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Turkey.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Turkmenistan.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Tuvalu.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Uganda.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Ukraine.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Uruguay.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Uzbekistan.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Vanuatu.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Vietnam.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Wallis and Futuna.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Yemen.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Zambia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Zimbabwe.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Czech Republic.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Sahrawi Arab Democratic Republic.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Solomon Islands.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Turks and Caicos Islands.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United Arab Emirates.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United Cyprus Republic.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United Kingdom.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United States.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Vatican City.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Global Population Growth.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Guyana US Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hispaniola.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jamaica.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Micronesia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:New Zealand Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Paraguay.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Puerto Rico.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Russian Republic.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Venezuela.png"
+          }
+        ],
+        "lastrevid": 7467,
+        "length": 25600,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Afghanistan"
+          },
+          {
+            "ns": 0,
+            "title": "Albania"
+          },
+          {
+            "ns": 0,
+            "title": "Algeria"
+          },
+          {
+            "ns": 0,
+            "title": "Andorra"
+          },
+          {
+            "ns": 0,
+            "title": "Angola"
+          },
+          {
+            "ns": 0,
+            "title": "Anguilla"
+          },
+          {
+            "ns": 0,
+            "title": "Antigua and Barbuda"
+          },
+          {
+            "ns": 0,
+            "title": "Arab Republic of Egypt"
+          },
+          {
+            "ns": 0,
+            "title": "Argentina"
+          },
+          {
+            "ns": 0,
+            "title": "Armenia"
+          },
+          {
+            "ns": 0,
+            "title": "Aruba"
+          },
+          {
+            "ns": 0,
+            "title": "Australia"
+          },
+          {
+            "ns": 0,
+            "title": "Austria"
+          },
+          {
+            "ns": 0,
+            "title": "Azerbaijan"
+          },
+          {
+            "ns": 0,
+            "title": "Bahamas"
+          },
+          {
+            "ns": 0,
+            "title": "Bahrain"
+          },
+          {
+            "ns": 0,
+            "title": "Bangladesh"
+          },
+          {
+            "ns": 0,
+            "title": "Barbados"
+          },
+          {
+            "ns": 0,
+            "title": "Belarus"
+          },
+          {
+            "ns": 0,
+            "title": "Belgium"
+          },
+          {
+            "ns": 0,
+            "title": "Belize"
+          },
+          {
+            "ns": 0,
+            "title": "Benin"
+          },
+          {
+            "ns": 0,
+            "title": "Bermuda"
+          },
+          {
+            "ns": 0,
+            "title": "Bhutan"
+          },
+          {
+            "ns": 0,
+            "title": "Bolivia"
+          },
+          {
+            "ns": 0,
+            "title": "Bosnia"
+          },
+          {
+            "ns": 0,
+            "title": "Botswana"
+          },
+          {
+            "ns": 0,
+            "title": "Brazil"
+          },
+          {
+            "ns": 0,
+            "title": "Canada"
+          },
+          {
+            "ns": 0,
+            "title": "Chile"
+          },
+          {
+            "ns": 0,
+            "title": "China"
+          },
+          {
+            "ns": 0,
+            "title": "Colombia"
+          },
+          {
+            "ns": 0,
+            "title": "Costa Rica"
+          },
+          {
+            "ns": 0,
+            "title": "Croatia"
+          },
+          {
+            "ns": 0,
+            "title": "Cuba"
+          },
+          {
+            "ns": 0,
+            "title": "Curaçao"
+          },
+          {
+            "ns": 0,
+            "title": "Cyprus"
+          },
+          {
+            "ns": 0,
+            "title": "Czech Republic"
+          },
+          {
+            "ns": 0,
+            "title": "Denmark"
+          },
+          {
+            "ns": 0,
+            "title": "Djibouti"
+          },
+          {
+            "ns": 0,
+            "title": "Dominica"
+          },
+          {
+            "ns": 0,
+            "title": "East Timor"
+          },
+          {
+            "ns": 0,
+            "title": "Estonia"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Ecuador"
+          },
+          {
+            "ns": 0,
+            "title": "France"
+          },
+          {
+            "ns": 0,
+            "title": "Gambia"
+          },
+          {
+            "ns": 0,
+            "title": "Great Reset"
+          },
+          {
+            "ns": 0,
+            "title": "Greenland"
+          },
+          {
+            "ns": 0,
+            "title": "Guyana"
+          },
+          {
+            "ns": 0,
+            "title": "Hispaniola"
+          },
+          {
+            "ns": 0,
+            "title": "Honduras"
+          },
+          {
+            "ns": 0,
+            "title": "Hungary"
+          },
+          {
+            "ns": 0,
+            "title": "Iceland"
+          },
+          {
+            "ns": 0,
+            "title": "India"
+          },
+          {
+            "ns": 0,
+            "title": "Indonesia"
+          },
+          {
+            "ns": 0,
+            "title": "Iran"
+          },
+          {
+            "ns": 0,
+            "title": "Ireland"
+          },
+          {
+            "ns": 0,
+            "title": "Israel"
+          },
+          {
+            "ns": 0,
+            "title": "Jamaica"
+          },
+          {
+            "ns": 0,
+            "title": "Japan"
+          },
+          {
+            "ns": 0,
+            "title": "Kazakhstan"
+          },
+          {
+            "ns": 0,
+            "title": "Kyrgyzstan"
+          },
+          {
+            "ns": 0,
+            "title": "Laos"
+          },
+          {
+            "ns": 0,
+            "title": "Latvia"
+          },
+          {
+            "ns": 0,
+            "title": "Lebanon"
+          },
+          {
+            "ns": 0,
+            "title": "List of recessions in the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Lithuania"
+          },
+          {
+            "ns": 0,
+            "title": "Madagascar"
+          },
+          {
+            "ns": 0,
+            "title": "Market Crash of 2027"
+          },
+          {
+            "ns": 0,
+            "title": "Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "New Zealand"
+          },
+          {
+            "ns": 0,
+            "title": "Nicaragua"
+          },
+          {
+            "ns": 0,
+            "title": "Norway"
+          },
+          {
+            "ns": 0,
+            "title": "Paraguay"
+          },
+          {
+            "ns": 0,
+            "title": "Peru"
+          },
+          {
+            "ns": 0,
+            "title": "Poland"
+          },
+          {
+            "ns": 0,
+            "title": "Polynesia Territory"
+          },
+          {
+            "ns": 0,
+            "title": "Portugal"
+          },
+          {
+            "ns": 0,
+            "title": "Puerto Rico"
+          },
+          {
+            "ns": 0,
+            "title": "Romania"
+          },
+          {
+            "ns": 0,
+            "title": "Russia"
+          },
+          {
+            "ns": 0,
+            "title": "Slovakia"
+          },
+          {
+            "ns": 0,
+            "title": "Slovenia"
+          },
+          {
+            "ns": 0,
+            "title": "Solomon Islands"
+          },
+          {
+            "ns": 0,
+            "title": "Somalia"
+          },
+          {
+            "ns": 0,
+            "title": "South Africa"
+          },
+          {
+            "ns": 0,
+            "title": "South Korea"
+          },
+          {
+            "ns": 0,
+            "title": "South Sudan"
+          },
+          {
+            "ns": 0,
+            "title": "Spain"
+          },
+          {
+            "ns": 0,
+            "title": "Sri Lanka"
+          },
+          {
+            "ns": 0,
+            "title": "Sudan"
+          },
+          {
+            "ns": 0,
+            "title": "Suriname"
+          },
+          {
+            "ns": 0,
+            "title": "Swaziland"
+          },
+          {
+            "ns": 0,
+            "title": "Sweden"
+          },
+          {
+            "ns": 0,
+            "title": "Switzerland"
+          },
+          {
+            "ns": 0,
+            "title": "Syria"
+          },
+          {
+            "ns": 0,
+            "title": "Tajikistan"
+          },
+          {
+            "ns": 0,
+            "title": "Tanzania"
+          },
+          {
+            "ns": 0,
+            "title": "Thailand"
+          },
+          {
+            "ns": 0,
+            "title": "Togo"
+          },
+          {
+            "ns": 0,
+            "title": "Tokelau"
+          },
+          {
+            "ns": 0,
+            "title": "Tonga"
+          },
+          {
+            "ns": 0,
+            "title": "Trinidad and Tobago"
+          },
+          {
+            "ns": 0,
+            "title": "Trust Territory of Micronesia"
+          },
+          {
+            "ns": 0,
+            "title": "Tunisia"
+          },
+          {
+            "ns": 0,
+            "title": "Turkey"
+          },
+          {
+            "ns": 0,
+            "title": "Turkmenistan"
+          },
+          {
+            "ns": 0,
+            "title": "Turks and Caicos Islands"
+          },
+          {
+            "ns": 0,
+            "title": "Tuvalu"
+          },
+          {
+            "ns": 0,
+            "title": "UAE"
+          },
+          {
+            "ns": 0,
+            "title": "Uganda"
+          },
+          {
+            "ns": 0,
+            "title": "Ukraine"
+          },
+          {
+            "ns": 0,
+            "title": "United Kingdom"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "Uruguay"
+          },
+          {
+            "ns": 0,
+            "title": "Uzbekistan"
+          },
+          {
+            "ns": 0,
+            "title": "Vanuatu"
+          },
+          {
+            "ns": 0,
+            "title": "Vatican City"
+          },
+          {
+            "ns": 0,
+            "title": "Venezuela"
+          },
+          {
+            "ns": 0,
+            "title": "Vietnam"
+          },
+          {
+            "ns": 0,
+            "title": "Wallis and Futuna"
+          },
+          {
+            "ns": 0,
+            "title": "Western Sahara"
+          },
+          {
+            "ns": 0,
+            "title": "Yemen"
+          },
+          {
+            "ns": 0,
+            "title": "Zambia"
+          },
+          {
+            "ns": 0,
+            "title": "Zimbabwe"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Brunei"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Bulgaria"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Burkina Faso"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Burundi"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Cambodia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Cameroon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Cape Verde"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Caribbean Netherlands"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Cayman Islands"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Central African Republic"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Chad"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Comoros"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Cook Islands"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Democratic Republic of the Congo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data El Salvador"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Equatorial Guinea"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Eritrea"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Ethiopia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Falkland"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Faroe Islands"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Fiji"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Finland"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data French Guiana"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Gabon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Georgia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Germany"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Ghana"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Gibraltar"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Greece"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Grenada"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Guadeloupe"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Guatemala"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Guinea"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Guinea-Bissau"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Haiti"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Hong Kong"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Iraq"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Isle of Man"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Italy"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Ivory Coast"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Jordan"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Kenya"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Kiribati"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Kuwait"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Lesotho"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Liberia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Libya"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Liechtenstein"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Luxembourg"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Macau"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Macedonia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Malawi"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Malaysia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Maldives"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Mali"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Malta"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Marshall Islands"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Martinique"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Mauritania"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Mauritius"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Mayotte"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Moldova"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Monaco"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Mongolia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Montenegro"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Montserrat"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Morocco"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Mozambique"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Myanmar"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Namibia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Nauru"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Nepal"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Netherlands"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data New Caledonia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Niger"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Nigeria"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Niue"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data North Korea"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Northern Mariana Islands"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Oman"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Pakistan"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Palau"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Palestine"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Panama"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Papua New Guinea"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Philippines"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Qatar"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Republic of the Congo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Rwanda"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Réunion"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Saint Helena"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Saint Kitts and Nevis"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Saint Lucia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Saint Pierre and Miquelon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Saint Vincent and the Grenadines"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Samoa"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data San Marino"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Saudi Arabia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Senegal"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Serbia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Seychelles"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Sierra Leone"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Singapore"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Sint Maarten"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data São Tomé and Príncipe"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Virgin Islands"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data flag"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2446,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7466,
+            "revid": 7467,
+            "slots": {
+              "main": {
+                "*": "In biology or human geography, '''population growth''' is the increase in the number of individuals in a population.\n[[File:Global_Population_Growth.png|thumb|300px]]\n\n==History==\nPopulation began growing rapidly in the Western world early in the industrial revolution of the late 18th century. The reasons for the \"Modern Rise of Population\" were particularly investigated by the British health scientist Thomas McKeown (1912-1988).\n\nBy the mid 20th century population growth in most of the Western World had leveled off while developing nations like China and India were experiencing population explosions. A theory of global overpopulation grew during this era, in part the result of the Post-World War II \"Baby Boom,\" that saw a spike in population growth. By the middle of the 1960s, growth rates had peaked and had begun to steadily decline, by the turn of the millennium, many developed countries were beginning to see population decline as birthrates fell faster than the mortality rate. The worst cases of this were seen in Germany, Russia, Korea, and Japan.\n\n==='''21st Century Labor Shortage'''===\nA consequence of the reduced growth rate was an imbalance between the size of generations with respect to retirees and the working population, leading to a shortage of labor in the mid 2020s that impacted the entire developed world.\n\nA consequence of urbanization, low birth rates stemmed from a society's transition to post-agrarianism. In agrarian and low-level industrial societies, children were treated as an economic asset necessary for supporting the working population while young and large families led to multiple sources of income. Additionally, agrarian and industrial societies often lack the capital for a robust social-welfare system, thus larger families could more easily support parents and grandparents in old age. Urban, post-agrarian societies do not require such a readily available source of unskilled labor, and in fact the cost of raising a child goes up exponentially with a society's requirements for success in life. Thus children in post-agrarian societies are the height of conspicuous consumption, as they hinder the productivity of workers, reduce the upward momentum of careers, and drain significant economic assets with no possibility of making up the difference until they are well into their 20s. Thus, Urbanization incentivises people to have fewer, if any, children.\n\nBy the 2020s, urbanization had reached a tipping point where the world entered a [[Great Reset|transitional period]] in which the older generations had not yet died, leaving a relatively small number of workers supporting a very large group of retirees. This was made more pronounced due to the development of longevity and life extension technologies in developed nations. The [[Market Crash of 2027]] was essentially a result of this transitional period, as the market could not meet demand and the working age population could not be productive enough to pay off the debts incurred by the older generation, [[List of recessions in the United States|leading to a major economic dislocation]], ultimately resolved by automation and immigration policies adopted in the late 2020s and 2030s.\n\n==='''List'''===\n{| class=\"wikitable sortable\" style=\"text-align: right\"\n|+Population (in thousands)\n|-\n!Country/dependent territory\n!2020\n!2030\n!2040\n!2050\n!2060\n!2070\n!2080\n!2090\n!2100\n|-\n|align=center|'''Total'''||'''7,734,581'''||'''8,477,475'''||'''9,134,735'''||'''9,704,191'''||'''10,165,231'''||'''10,530,831'''||'''10,821,289'''||'''11,041,445'''||'''11,200,627'''\n|-\n|align=left|{{flag|Afghanistan}}\n|36,443\n|43,852\n|50,602\n|55,955\n|59,619\n|61,507\n|61,518\n|60,007\n|57,638\n\n|-\n|align=left|{{flag|Albania}}\n|2,935\n|2,954\n|2,855\n|2,710\n|2,554\n|2,370\n|2,161\n|1,940\n|1,755\n\n|-\n|align=left|{{flag|Algeria}}\n|43,008\n|48,274\n|52,496\n|56,461\n|59,183\n|60,454\n|61,115\n|61,422\n|61,060\n\n|-\n|align=left|{{flag|Andorra}}\n|70\n|71\n|73\n|72\n|69\n|66\n|63\n|62\n|60\n\n|-\n|align=left|{{flag|Angola}}\n|29,245\n|39,351\n|51,581\n|65,473\n|80,565\n|96,196\n|111,604\n|126,014\n|138,738\n\n|-\n|align=left|{{flag|Anguilla}}\n|15\n|16\n|16\n|15\n|14\n|14\n|13\n|12\n|11\n\n|-\n|align=left|{{flag|Antigua and Barbuda}}\n|96\n|105\n|111\n|114\n|116\n|117\n|117\n|115\n|114\n\n|-\n|align=left|{{flag|Argentina}}\n|45,517\n|49,365\n|52,699\n|55,445\n|57,470\n|58,646\n|59,100\n|59,042\n|58,572\n\n|-\n|align=left|{{flag|Armenia}}\n|3,038\n|2,993\n|2,879\n|2,729\n|2,542\n|2,335\n|2,124\n|1,942\n|1,793\n|-\n|align=left|{{flag|Aruba}}\n|105\n|107\n|106\n|102\n|98\n|95\n|92\n|88\n|84\n|-\n|align=left|{{flag|Australia}}\n|25,598\n|28,482\n|31,032\n|33,496\n|35,780\n|37,788\n|39,556\n|41,078\n|42,389\n\n|-\n|align=left|{{flag|Austria}}\n|8,656\n|8,844\n|8,894\n|8,846\n|8,716\n|8,578\n|8,464\n|8,377\n|8,335\n|-\n|align=left|{{flag|Azerbaijan}}\n|10,241\n|10,727\n|10,961\n|10,963\n|10,749\n|10,457\n|10,142\n|9,883\n|9,636\n|-\n|align=left|{{flag|Bahamas}}\n|410\n|446\n|471\n|489\n|500\n|505\n|505\n|502\n|498\n\n|-\n|align=left|{{flag|Bahrain}}\n|1,486\n|1,642\n|1,759\n|1,822\n|1,834\n|1,805\n|1,746\n|1,674\n|1,602\n|-\n|align=left|{{flag|Bangladesh}}\n|170,467\n|186,460\n|197,134\n|202,209\n|201,942\n|197,165\n|189,317\n|179,711\n|169,541\n|-\n|align=left|{{flag|Barbados}}\n|288\n|290\n|288\n|282\n|275\n|271\n|267\n|263\n|259\n|-\n|align=left|{{flag|Belarus}}\n|9,365\n|8,977\n|8,513\n|8,125\n|7,757\n|7,416\n|7,183\n|7,046\n|6,916\n|-\n|align=left|{{flag|Belgium}}\n|11,634\n|12,019\n|12,315\n|12,527\n|12,652\n|12,772\n|12,923\n|13,076\n|13,210\n|-\n|align=left|{{flag|Belize}}\n|398\n|472\n|535\n|588\n|629\n|656\n|670\n|676\n|677\n\n|-\n|align=left|{{flag|Benin}}\n|12,361\n|15,593\n|19,050\n|22,549\n|25,946\n|29,070\n|31,756\n|33,915\n|35,544\n|-\n|align=left|{{flag|Bermuda}}\n|61\n|59\n|57\n|54\n|50\n|48\n|46\n|44\n|42\n|-\n|align=left|{{flag|Bhutan}}\n|817\n|886\n|929\n|950\n|948\n|922\n|881\n|836\n|793\n|-\n|align=left|{{flag|Bolivia}}\n|11,548\n|13,177\n|14,679\n|15,963\n|16,978\n|17,676\n|18,066\n|18,199\n|18,118\n\n|-\n|align=left|{{flag|Bosnia}}\n|3,758\n|3,584\n|3,340\n|3,069\n|2,793\n|2,521\n|2,271\n|2,071\n|1,919\n|-\n|align=left|{{flag|Botswana}}\n|2,460\n|2,817\n|3,126\n|3,389\n|3,573\n|3,674\n|3,719\n|3,720\n|3,681\n|-\n|align=left|{{flag|Brazil}}\n|215,997\n|228,663\n|236,015\n|238,270\n|236,014\n|229,664\n|220,413\n|210,255\n|200,305\n\n|-\n|align=left|{{flag|Virgin Islands}}||33||35||37||38||38||38||37||37||36\n|-\n|align=left|{{flag|Brunei}}||450||496||528||546||549||538||522||505||489\n|-\n|align=left|{{flag|Bulgaria}}||6,884||6,300||5,691||5,154||4,645||4,186||3,846||3,611||3,406\n|-\n|align=left|{{flag|Burkina Faso}}||20,861||27,244||34,695||42,789||51,221||59,648||67,641||74,818||80,990\n|-\n|align=left|{{flag|Burundi}}||13,126||17,357||22,505||28,668||35,235||42,249||49,450||56,315||62,662\n|-\n|align=left|{{flag|Cambodia}}||16,809||18,991||20,939||22,545||23,656||24,315||24,485||24,316||23,928\n|-\n|align=left|{{flag|Cameroon}}||26,333||32,947||40,398||48,362||56,430||64,222||71,320||77,448||82,382\n|-\n|align=left|{{flag|Canada}}\n|37,600\n|40,390\n|42,479\n|44,136\n|45,534\n|46,841\n|47,955\n|48,865\n|49,668\n\n|-\n|align=left|{{flag|Cape Verde}}||553||614||667||707||730||735||724||704||680\n|-\n|align=left|{{flag|Caribbean Netherlands}} ||26||28||29||30||30||31||31||31||32\n|-\n|align=left|{{flag|Cayman Islands}} ||64||71||77||82||85||90||94||97||99\n|-\n|align=left|{{flag|Central African Republic}}||5,409||6,490||7,623||8,782||9,874||10,815||11,572||12,142||12,515\n|-\n|align=left|{{flag|Chad}}||16,431||21,946||28,247||35,131||42,355||49,642||56,664||63,137||68,927\n|-\n|align=left|{{flag|Chile}}\n|18,842\n|20,250\n|21,142\n|21,601\n|21,662\n|21,412\n|20,956\n|20,348\n|19,744\n\n|-\n|align=left|{{flag|China}}\n|1,402,848\n|1,415,545\n|1,394,715\n|1,348,056\n|1,276,757\n|1,197,533\n|1,122,569\n|1,055,073\n|1,004,392\n\n|-\n|align=left|{{flag|Colombia}}\n|50,229\n|53,175\n|54,723\n|54,927\n|54,073\n|52,451\n|50,245\n|47,765\n|45,321\n\n|-\n|align=left|{{flag|Comoros}}||883||1,081||1,290||1,502||1,705||1,892||2,058||2,197||2,307\n|-\n|align=left|{{flag|Cook Islands}}||21||23||23||24||24||23||23||22||21\n|-\n|align=left|{{flag|Costa Rica}}||5,044||5,413||5,650||5,759||5,746||5,635||5,446||5,214||4,993\n\n|-\n|align=left|{{flag|Croatia}}||4,162||3,977||3,771||3,554||3,333||3,118||2,923||2,757||2,615\n\n|-\n|align=left|{{flag|Cuba}}\n|11,366\n|11,237\n|10,909\n|10,339\n|9,573\n|8,795\n|8,162\n|7,591\n|7,103\n\n|-\n|align=left|{{flag|Curaçao}}||164||175||183||189||194||199||204||206||208\n\n|-\n|align=left|{{flag|Cyprus}}||1,218||1,300||1,359||1,402||1,425||1,425||1,410||1,395||1,386\n\n|-\n|align=left|{{flag|Czech Republic}}\n|10,573\n|10,461\n|10,194\n|9,965\n|9,672\n|9,286\n|9,007\n|8,876\n|8,774\n\n|-\n|align=left|{{flag|Democratic Republic of the Congo}}\n|90,169\n|120,304\n|155,794\n|195,277\n|237,217\n|279,644\n|320,393\n|357,191\n|388,733\n|-\n|align=left|{{flag|Denmark}}\n|5,776\n|6,003\n|6,173\n|6,299\n|6,430\n|6,568\n|6,690\n|6,773\n|6,838\n|-\n|align=left|{{flag|Djibouti}}\n|947\n|1,054\n|1,133\n|1,186\n|1,212\n|1,210\n|1,189\n|1,161\n|1,126\n\n|-\n|align=left|{{flag|Dominica}}\n|74\n|76\n|76\n|74\n|71\n|67\n|62\n|57\n|52\n\n|-\n|align=left|{{flag|Hispaniola}}\n|11,107\n|12,087\n|12,819\n|13,238\n|13,377\n|13,288\n|13,005\n|12,567\n|12,027\n\n|-\n|align=left|{{flag|East Timor}}||1,315||1,577||1,856||2,162||2,448||2,709||2,940||3,117||3,234\n\n|-\n|align=left|{{flag|Ecuador}}\n|17,338\n|19,563\n|21,484\n|23,013\n|24,108\n|24,767\n|25,006\n|24,881\n|24,499\n\n|-\n|align=left|{{flag|Egypt}}||100,518||117,102||134,428||151,111||165,322||177,557||187,609||195,518||200,802\n|-\n|align=left|{{flag|El Salvador}}||6,231||6,408||6,476||6,390||6,183||5,855||5,417||4,911||4,420\n|-\n|align=left|{{flag|Equatorial Guinea}}||971||1,238||1,521||1,816||2,113||2,390||2,634||2,834||2,984\n|-\n|align=left|{{flag|Eritrea}}||5,892||7,311||8,870||10,421||11,845||13,122||14,190||15,020||15,616\n|-\n|align=left|{{flag|Estonia}}\n|1,295\n|1,243\n|1,183\n|1,129\n|1,072\n|1,014\n|966\n|932\n|904\n\n|-\n|align=left|{{flag|Ethiopia}}||111,971||138,297||164,270||188,455||209,459||225,774||236,555||241,853||242,644\n|-\n|align=left|{{flag|Falkland}}||3||3||3||3||3||3||3||3||3\n|-\n|align=left|{{flag|Faroe Islands}}\n|49\n|50\n|52\n|52\n|52\n|53\n|53\n|53\n|52\n|-\n|align=left|{{flag|Fiji}}||915||940||943||924||890||847||799||749||696\n|-\n|align=left|{{flag|Finland}}||5,585||5,706||5,739||5,752||5,783||5,821||5,844||5,853||5,857\n|-\n|align=left|{{flag|France}}||65,720||68,007||69,931||71,137||72,061||73,109||74,259||75,245||75,998\n|-\n|align=left|{{flag|French Guiana}} ([[France]])||304||381||463||546||626||703||775||838||891\n|-\n|align=left|{{flag|Polynesia}}\n|296\n|313\n|325\n|330\n|331\n|326\n|317\n|307\n|297\n|-\n|align=left|{{flag|Gabon}}||1,917||2,321||2,743||3,164||3,551||3,882||4,148||4,343||4,466\n|-\n|align=left|{{flag|Georgia}}||3,977||3,868||3,680||3,483||3,247||2,992||2,772||2,593||2,438\n|-\n|align=left|{{flag|Germany}}||80,392||79,294||77,300||74,513||71,391||68,843||66,634||64,690||63,244\n|-\n|align=left|{{flag|Ghana}}||30,530||36,865||43,454||50,071||56,175||61,686||66,462||70,222||73,033\n|-\n|align=left|{{flag|Gibraltar}}||33||33||33||32||31||30||30||29||28\n|-\n|align=left|{{flag|Greece}}||10,825||10,480||10,124||9,705||9,135||8,540||8,063||7,706||7,393\n|-\n|align=left|{{flag|Greenland}}||56||57||55||52||50||48||46||43||41\n|-\n|align=left|{{flag|Grenada}}||109||112||112||110||105||98||89||80||72\n|-\n|align=left|{{flag|Guadeloupe}}||478||491||500||498||485||473||463||452||437\n|-\n|align=left|{{flag|flag| Guam}}||180||200||216||228||236||242||245||244||242\n|-\n|align=left|{{flag|Guatemala}}||18,015||21,424||24,730||27,754||30,337||32,344||33,742||34,539||34,812\n|-\n|align=left|{{flag|Guinea}}||14,355||18,276||22,700||27,486||32,411||37,242||41,723||45,702||49,049\n|-\n|align=left|{{flag|Guinea-Bissau}}||2,068||2,541||3,045||3,564||4,061||4,518||4,919||5,246||5,489\n|-\n|align=left|{{flag|Guyana}}\n|787\n|821\n|824\n|806\n|783\n|749\n|699\n|645\n|595\n\n|-\n|align=left|{{flag|Haiti}}\n|11,378\n|12,578\n|13,534\n|14,189\n|14,523\n|14,552\n|14,338\n|13,981\n|13,544\n|-\n|align=left|{{flag|Honduras}}\n|8,651\n|9,737\n|10,607\n|11,217\n|11,576\n|11,662\n|11,481\n|11,106\n|10,646\n\n|-\n|align=left|{{flag|Hong Kong}}\n|7,557\n|7,951\n|8,107\n|8,148\n|8,109\n|7,991\n|7,887\n|7,883\n|7,924\n|-\n|align=left|{{flag|Hungary}}\n|9,685\n|9,275\n|8,784\n|8,318\n|7,865\n|7,400\n|7,021\n|6,742\n|6,506\n\n|-\n|align=left|{{flag|Iceland}}\n|342\n|364\n|380\n|389\n|393\n|394\n|393\n|389\n|384\n|-\n|align=left|{{flag|India}}\n|1,388,859\n|1,527,658\n|1,633,728\n|1,705,333\n|1,745,182\n|1,753,604\n|1,737,150\n|1,704,073\n|1,659,786\n|-\n|align=left|{{flag|Indonesia}}\n|271,857\n|274,482\n|281,439\n|288,237\n|286,038\n|280,116\n|271,864\n|260,316\n|242,648\n\n|-\n|align=left|{{flag|Iran}}\n|83,424\n|88,559\n|91,205\n|92,219\n|89,617\n|84,217\n|78,601\n|73,941\n|69,637\n|-\n|align=left|{{flag|Iraq}}\n|41,972\n|54,071\n|68,127\n|83,652\n|99,958\n|116,776\n|133,507\n|149,428\n|163,905\n|-\n|align=left|{{flag|Ireland}}\n|4,874\n|5,204\n|5,519\n|5,789\n|5,943\n|6,050\n|6,170\n|6,293\n|6,372\n\n|-\n|align=left|{{flag|Isle of Man}}\n|91\n|96\n|101\n|104\n|107\n|109\n|111\n|113\n|114\n|-\n|align=left|{{flag|Israel}}\n|8,718\n|9,998\n|11,301\n|12,610\n|13,808\n|14,873\n|15,833\n|16,655\n|17,285\n\n|-\n|align=left|{{flag|Italy}}\n|59,741\n|59,100\n|58,078\n|56,513\n|54,387\n|52,346\n|51,067\n|50,316\n|49,647\n|-\n|align=left|{{flag|Ivory Coast}}||25,566||32,143||39,882||48,797||58,717||69,342||80,285||91,065||101,154\n|-\n|align=left|{{flag|Jamaica}}\n|2,840\n|2,867\n|2,811\n|2,710\n|2,558\n|2,362\n|2,139\n|1,910\n|1,704\n\n|-\n|align=left|{{flag|Japan}}\n|125,039\n|120,127\n|113,788\n|107,411\n|101,440\n|95,135\n|89,871\n|86,108\n|83,175\n|-\n|align=left|{{flag|Jordan}}\n|8,167\n|9,109\n|10,492\n|11,717\n|12,644\n|13,335\n|13,835\n|14,105\n|14,147\n|-\n|align=left|{{flag|Kazakhstan}}||18,616||20,072||21,265||22,447||23,282||23,814||24,325||24,693||24,712\n|-\n|align=left|{{flag|Kenya}}||52,187||65,412||80,091||95,505||110,757||125,137||137,988||148,681||156,856\n|-\n|align=left|{{flag|Kiribati}}||122||142||159||178||195||210||224||235||244\n|-\n|align=left|{{flag|Kuwait}}||4,317||4,987||5,499||5,924||6,193||6,314||6,394||6,462||6,484\n|-\n|align=left|{{flag|Kyrgyzstan}}||6,384||7,097||7,713||8,248||8,618||8,854||9,009||9,085||9,046\n|-\n|align=left|{{flag|Laos}}||7,398||8,489||9,421||10,172||10,673||10,914||10,910||10,717||10,411\n|-\n|align=left|{{flag|Latvia}}\n|1,919\n|1,806\n|1,692\n|1,593\n|1,504\n|1,423\n|1,358\n|1,315\n|1,278\n\n|-\n|align=left|{{flag|Lebanon}}||5,891||5,292||5,517||5,610||5,629||5,517||5,273||4,988||4,741\n|-\n|align=left|{{flag|Lesotho}}||2,258||2,486||2,728||2,987||3,210||3,368||3,472||3,531||3,548\n|-\n|align=left|{{flag|Liberia}}\n|5,091\n|6,414\n|7,892\n|9,436\n|10,992\n|12,495\n|13,863\n|15,032\n|15,977\n|-\n|align=left|{{flag|Liechtenstein}}||39||41||42||43||44||44||45||46||47\n|-\n|align=left|{{flag|Lithuania}}\n|2,795\n|2,655\n|2,505\n|2,375\n|2,272\n|2,181\n|2,107\n|2,056\n|2,013\n\n|-\n|align=left|{{flag|Luxembourg}}||605||678||743||803||858||907||952||993||1,030\n|-\n|align=left|{{flag|Libya}}||6,700||7,418||7,980||8,375||8,516||8,515||8,476||8,360||8,144\n|-\n|align=left|{{flag|Macau}}||634||720||784||838||886||923||952||984||1,023\n|-\n|align=left|{{flag|Macedonia}}||2,088||2,078||2,021||1,938||1,846||1,742||1,641||1,556||1,487\n|-\n|align=left|{{flag|Madagascar}}\n|27,799\n|35,960\n|45,177\n|55,294\n|65,972\n|76,740\n|87,187\n|96,877\n|105,499\n\n|-\n|align=left|{{flag|Malawi}}||20,022||26,584||34,360||43,155||52,546||62,024||71,182||79,657||87,056\n|-\n|align=left|{{flag|Malaysia}}||32,374||36,107||38,853||40,725||41,995||42,418||42,059||41,437||40,778\n|-\n|align=left|{{flag|Maldives}}||393||437||469||494||503||497||481||459||438\n|-\n|align=left|{{flag|Mali}}||20,457||27,370||35,854||45,404||55,560||65,910||75,944||85,085||92,981\n|-\n|align=left|{{flag|Malta}}||423||428||423||411||400||387||372||358||348\n|-\n|align=left|{{flag|Marshall Islands}}||53||56||62||67||69||73||76||76||75\n|-\n|align=left|{{flag|Martinique}}||395||391||380||358||336||321||312||302||289\n|-\n|align=left|{{flag|Mauritania}}||4,573||5,666||6,844||8,049||9,242||10,386||11,428||12,323||13,059\n|-\n|align=left|{{flag|Mauritius}}||1,291||1,310||1,295||1,249||1,194||1,136||1,071||1,007||952\n|-\n|align=left|{{flag|Mayotte}}||273||344||421||497||567||629||682||724||752\n|-\n|align=left|{{flag|Mexico}}\n|134,837\n|148,133\n|157,762\n|163,754\n|166,111\n|164,969\n|161,119\n|155,266\n|148,404\n\n|-\n|align=left|{{flag|Micronesia}}\n|108\n|118\n|125\n|129\n|132\n|131\n|127\n|121\n|116\n|-\n|align=left|{{flag|Moldova}}||4,021||3,839||3,557||3,243||2,909||2,555||2,246||2,024||1,856\n|-\n|align=left|{{flag|Monaco}}||38||40||42||44||46||48||51||53||55\n|-\n|align=left|{{flag|Mongolia}}||3,179||3,519||3,785||4,028||4,218||4,330||4,409||4,455||4,487\n|-\n|align=left|{{flag|Montenegro}}||626||618||600||574||547||518||489||462||437\n|-\n|align=left|{{flag|Montserrat}}||5||5||5||5||5||5||5||5||5\n|-\n|align=left|{{flag|Morocco}}||36,444||39,787||42,148||43,696||44,364||44,184||43,414||42,298||40,888\n|-\n|align=left|{{flag|Mozambique}}||31,993||41,437||52,777||65,544||79,139||92,783||105,777||117,539||127,648\n|-\n|align=left|{{flag|Myanmar}}||56,242||60,242||62,804||63,575||63,171||61,990||60,122||57,956||56,026\n|-\n|align=left|{{flag|Namibia}}||2,731||3,272||3,805||4,322||4,780||5,156||5,440||5,631||5,730\n|-\n|align=left|{{flag|Nauru}}||10||11||11||11||10||10||9||9||9\n|-\n|align=left|{{flag|Nepal}}||30,184||33,104||35,027||36,159||36,439||35,797||34,283||32,110||29,677\n|-\n|align=left|{{flag|Netherlands}}\n|17,185\n|17,605\n|17,738\n|17,602\n|17,435\n|17,371\n|17,358\n|17,302\n|17,220\n|-\n|align=left|{{flag|New Caledonia}}||280||311||339||363||383||399||409||416||419\n|-\n|align=left|{{flag|New Zealand}}\n|4,730\n|5,103\n|5,395\n|5,607\n|5,762\n|5,899\n|6,016\n|6,079\n|6,094\n\n|-\n|align=left|{{flag|Nicaragua}}\n|6,418\n|7,033\n|7,537\n|7,863\n|8,006\n|7,958\n|7,730\n|7,386\n|6,996\n\n|-\n|align=left|{{flag|Niger}}||24,315||35,966||51,878||72,238||96,461||123,628||152,492||181,549||209,334\n|-\n|align=left|{{flag|Nigeria}}||206,831||262,599||327,406||398,508||473,123||548,863||622,731||691,183||752,247\n|-\n|align=left|{{flag|Niue}}||2||2||2||2||2||2||2||2||2\n|-\n|align=left|{{flag|North Korea}}\n|25,763\n|26,701\n|27,030\n|26,907\n|26,582\n|26,205\n|25,783\n|25,333\n|24,842\n|-\n|align=left|{{flag|Northern Mariana Islands}}||56||56||55||51||45||40||36||32||29\n|-\n|align=left|{{flag|Norway}}\n|5,494\n|5,945\n|6,321\n|6,658\n|6,961\n|7,222\n|7,462\n|7,667\n|7,845\n|-\n|align=left|{{flag|Oman}}||4,816||5,238||5,507||5,844||6,070||6,092||6,023||5,909||5,751\n|-\n|align=left|{{flag|Pakistan}}||208,437||244,916||278,987||309,640||332,978||349,490||359,782||364,284||364,283\n|-\n|align=left|{{flag|Palau}}||22||25||27||28||29||29||30||30||29\n|-\n|align=left|{{flag|Palestine}}||5,333||6,765||8,259||9,791||11,273||12,628||13,804||14,776||15,516\n|-\n|align=left|{{flag|Panama}}\n|4,231\n|4,781\n|5,238\n|5,599\n|5,854\n|6,006\n|6,074\n|6,073\n|6,012\n|-\n|align=left|{{flag|Papua New Guinea}}||8,413||10,057||11,699||13,240||14,634||15,831||16,780||17,475||17,951\n|-\n|align=left|{{flag|Paraguay}}\n|7,067\n|7,845\n|8,458\n|8,895\n|9,162\n|9,234\n|9,126\n|8,915\n|8,665\n\n|-\n|align=left|{{flag|Peru}}\n|33,317\n|36,855\n|39,754\n|41,899\n|43,196\n|43,672\n|43,432\n|42,665\n|41,557\n\n|-\n|align=left|{{flag|Philippines}}\n|108,436\n|123,575\n|137,020\n|148,260\n|157,074\n|163,318\n|167,016\n|168,609\n|168,618\n|-\n|align=left|{{flag|Poland}}\n|38,407\n|37,207\n|35,286\n|33,136\n|30,827\n|28,245\n|25,732\n|23,783\n|22,289\n|-\n|align=left|{{flag|Portugal}}\n|10,161\n|9,845\n|9,576\n|9,216\n|8,752\n|8,295\n|7,934\n|7,661\n|7,407\n|-\n|align=left|{{flag|Puerto Rico}}\n|3,675\n|3,638\n|3,536\n|3,367\n|3,155\n|2,916\n|2,667\n|2,425\n|2,212\n\n|-\n|align=left|{{flag|Qatar}}\n|2,452\n|2,781\n|3,013\n|3,205\n|3,332\n|3,381\n|3,352\n|3,262\n|3,170\n|-\n|align=left|{{flag|Republic of the Congo}}\n|5,263\n|6,790\n|8,647\n|10,732\n|12,979\n|15,339\n|17,702\n|19,964\n|22,015\n|-\n|align=left|{{flag|Romania}}\n|18,848\n|17,639\n|16,449\n|15,207\n|13,932\n|12,815\n|11,983\n|11,309\n|10,700\n\n|-\n|align=left|{{flag|Russia}}\n|142,898\n|138,652\n|132,892\n|128,599\n|124,604\n|120,728\n|118,741\n|118,281\n|117,445\n|-\n|align=left|{{flag|Rwanda}}\n|12,997\n|15,785\n|18,644\n|21,187\n|23,222\n|24,714\n|25,576\n|25,873\n|25,692\n|-\n|align=left|{{flag|Réunion}}||892||947||981||989||976||956||935||906||870\n|-\n|align=left|{{flag|Saint Helena}}||4||4||4||4||4||4||4||4||3\n|-\n|align=left|{{flag|Saint Kitts and Nevis}}||58||63||66||68||68||67||66||65||63\n|-\n|align=left|{{flag|Saint Lucia}}||192||202||207||207||203||197||188||178||168\n|-\n|align=left|{{flag|Saint Pierre and Miquelon}}||6||7||7||7||7||7||7||7||7\n|-\n|align=left|{{flag|Saint Vincent and the Grenadines}}||111||112||112||109||104||98||91||84||77\n|-\n|align=left|{{flag|Samoa}}||199||210||228||241||249||258||264||265||262\n|-\n|align=left|{{flag|San Marino}}||32||33||33||33||32||31||31||30||30\n|-\n|align=left|{{flag|São Tomé and Príncipe}}||211||256||305||353||399||442||480||512||538\n|-\n|align=left|{{flag|Saudi Arabia}}||34,366||39,132||43,136||46,059||47,686||48,453||48,722||48,427||47,586\n|-\n|align=left|{{flag|Senegal}}||17,487||22,802||29,086||36,223||43,835||51,782||59,886||67,762||75,042\n|-\n|align=left|{{flag|Serbia}}||8,674||8,281||7,817||7,331||6,870||6,423||6,007||5,641||5,334\n|-\n|align=left|{{flag|Seychelles}}||99||101||101||100||96||92||88||84||81\n|-\n|align=left|{{flag|Sierra Leone}}||7,160||8,598||10,041||11,392||12,562||13,484||14,105||14,422||14,489\n|-\n|align=left|{{flag|Singapore}}||6,007||6,418||6,647||6,681||6,561||6,360||6,116||5,859||5,593\n|-\n|align=left|{{flag|Sint Maarten}}||41||46||49||52||55||57||59||61||63\n|-\n|align=left|{{flag|Slovakia}}\n|5,435\n|5,353\n|5,136\n|4,892\n|4,628\n|4,322\n|4,056\n|3,876\n|3,732\n\n|-\n|align=left|{{flag|Slovenia}}\n|2,075\n|2,054\n|2,003\n|1,942\n|1,865\n|1,786\n|1,733\n|1,709\n|1,693\n\n|-\n|align=left|{{flag|Solomon Islands}}\n|640\n|757\n|878\n|992\n|1,095\n|1,187\n|1,262\n|1,316\n|1,354\n\n|-\n|align=left|{{flag|Somalia}}\n|12,423\n|16,493\n|21,388\n|27,030\n|33,285\n|39,835\n|46,412\n|52,670\n|58,311\n\n|-\n|align=left|{{flag|South Africa}}\n|56,669\n|60,034\n|63,001\n|65,540\n|67,183\n|67,865\n|67,703\n|66,920\n|65,696\n\n|-\n|align=left|{{flag|South Korea}}\n|51,251\n|52,519\n|52,398\n|50,593\n|47,926\n|45,101\n|42,359\n|40,101\n|38,504\n\n|-\n|align=left|{{flag|South Sudan}}\n|14,122\n|17,810\n|21,744\n|25,855\n|29,941\n|33,726\n|37,029\n|39,729\n|41,752\n\n|-\n|align=left|{{flag|Spain}}\n|46,194\n|45,920\n|45,647\n|44,840\n|43,114||41,102||39,730||39,044||38,337\n\n|-\n|align=left|{{flag|Sri Lanka}}\n|21,157\n|21,536\n|21,446\n|20,836\n|19,824\n|18,672\n|17,450\n|16,158\n|14,857\n\n|-\n|align=left|{{flag|Sudan}}\n|45,308\n|56,443\n|68,311\n|80,284\n|92,015\n|102,980\n|112,636\n|120,777\n|127,328\n\n|-\n|align=left|{{flag|Suriname}}\n|565\n|599\n|619\n|624\n|620\n|608\n|591\n|570\n|548\n\n|-\n|align=left|{{flag|Swaziland}}\n|1,366\n|1,507\n|1,648\n|1,792\n|1,915\n|2,005\n|2,059\n|2,082\n|2,082\n\n|-\n|align=left|{{flag|Sweden}}\n|10,120\n|10,766\n|11,290\n|11,881\n|12,463\n|12,990\n|13,525\n|14,015\n|14,470\n\n|-\n|align=left|{{flag|Switzerland}}\n|8,654\n|9,223\n|9,660\n|10,019\n|10,304\n|10,543\n|10,775\n|11,011\n|11,245\n\n|-\n|align=left|{{flag|Syria}}\n|20,994\n|28,647\n|32,070\n|34,902\n|36,958\n|38,167\n|38,703\n|38,667\n|38,098\n\n|-\n|align=left|{{flag|Tajikistan}}\n|9,419\n|11,102\n|12,685\n|14,288\n|15,577\n|16,657\n|17,546\n|18,157\n|18,559\n\n|-\n|align=left|{{flag|Tanzania}}\n|62,267\n|82,927\n|108,174\n|137,136\n|168,831\n|202,342\n|236,225\n|268,963\n|299,133\n\n|-\n|align=left|{{flag|Thailand}}\n|68,581\n|68,250\n|66,190\n|62,452\n|57,698\n|52,956\n|48,674\n|44,882\n|41,604\n\n|-\n|align=left|{{flag|Gambia}}\n|2,326\n|3,105\n|4,010\n|4,981\n|5,954\n|6,878\n|7,705\n|8,385\n|8,896\n\n|-\n|align=left|{{flag|Togo}}\n|8,294\n|10,489\n|12,991\n|15,681\n|18,434\n|21,163\n|23,728\n|25,993\n|27,873\n\n|-\n|align=left|{{flag|Tokelau}}\n|1\n|1\n|2\n|2\n|2\n|2\n|2\n|2\n|2\n\n|-\n|align=left|{{flag|Tonga}}\n|111\n|121\n|132\n|140\n|146\n|153\n|157\n|159\n|159\n\n|-\n|align=left|{{flag|Trinidad and Tobago}}\n|1,378\n|1,372\n|1,341\n|1,291\n|1,223\n|1,150\n|1,087\n|1,033\n|984\n\n|-\n|align=left|{{flag|Tunisia}}\n|11,835\n|12,686\n|13,166\n|13,476\n|13,530\n|13,333\n|13,072\n|12,820\n|12,494\n\n|-\n|align=left|{{flag|Turkey}}\n|82,256\n|87,717\n|92,744\n|95,819\n|96,856\n|96,043\n|93,973\n|91,197\n|87,983\n|-\n|align=left|{{flag|Turkmenistan}}\n|5,685\n|6,160\n|6,432\n|6,555\n|6,514\n|6,337\n|6,104\n|5,857\n|5,606\n|-\n|align=left|{{flag|Turks and Caicos Islands}}\n|37\n|42\n|45\n|48\n|49\n|51\n|51\n|52\n|52\n\n|-\n|align=left|{{flag|Tuvalu}}\n|10\n|11\n|11\n|11\n|11\n|12\n|11\n|11\n|11\n\n|-\n|align=left|{{flag|Uganda}}\n|45,856\n|61,929\n|80,904\n|101,873\n|124,029\n|146,276\n|167,483\n|186,650\n|202,868\n\n|-\n|align=left|{{flag|Ukraine}}\n|43,679\n|40,892\n|37,818\n|35,117\n|32,542\n|30,149\n|28,492\n|27,415\n|26,857\n\n|-\n|align=left|{{flag|United Arab Emirates}}\n|9,822\n|10,977\n|11,995\n|12,789\n|13,283\n|13,567\n|13,619\n|13,480\n|13,389\n\n|-\n|align=left|{{flag|United Kingdom}}\n|66,700\n|70,113\n|72,840\n|75,361\n|77,255\n|78,775\n|80,255\n|81,434\n|82,370\n|-\n|align=left|{{flag|United States}}\n|333,546\n|355,765\n|373,767\n|388,865\n|403,504\n|418,014\n|430,628\n|441,154\n|450,385\n\n|-\n|align=left|{{flag|Uruguay}}\n|3,495\n|3,596\n|3,653\n|3,667\n|3,642\n|3,579\n|3,486\n|3,374\n|3,258\n\n|-\n|align=left|{{flag|Uzbekistan}}\n|31,767\n|34,397\n|36,168\n|37,126\n|36,953\n|36,111\n|34,924\n|33,522\n|32,077\n|-\n|align=left|{{flag|Vanuatu}}\n|294\n|354\n|416\n|476\n|531\n|580\n|621\n|654\n|677\n\n|-\n|align=left|{{flag|Vatican City}}\n|1\n|1\n|1\n|1\n|1\n|1\n|1\n|1\n|1\n\n|-\n|align=left|{{flag|Venezuela}}\n|33,116\n|36,673\n|39,513\n|41,562\n|42,847\n|43,442\n|43,401\n|42,841\n|41,927\n\n|-\n|align=left|{{flag|Vietnam}}\n|98,157\n|105,220\n|109,925\n|112,783\n|113,233\n|111,875\n|109,677\n|107,215\n|105,076\n|-\n|align=left|{{flag|Wallis and Futuna}}\n|13\n|13\n|13\n|13\n|13\n|13\n|13\n|12\n|12\n\n|-\n|align=left|{{flag|Western Sahara}}\n|631\n|738\n|828\n|901\n|955\n|992\n|1,020\n|1,039\n|1,047\n\n|-\n|align=left|{{flag|Yemen}}\n|30,030\n|36,335\n|42,211\n|47,170\n|50,657\n|52,443\n|52,851\n|52,244\n|50,826\n\n|-\n|align=left|{{flag|Zambia}}\n|18,882\n|25,313\n|33,371\n|42,975\n|53,885\n|65,870\n|78,652\n|91,808\n|104,869\n\n|-\n|align=left|{{flag|Zimbabwe}}\n|17,471\n|21,353\n|25,510\n|29,615\n|33,146\n|35,969\n|38,113\n|39,547\n|40,263\n|}\n[[Category:Former countries in Europe]]\n[[Category:Former countries in Asia]]\n[[Category:Former countries in North America]]\n[[Category:Former countries in South America]]\n[[Category:Former countries in the British Isles]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-28T00:55:30Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Afghanistan"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Albania"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Algeria"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Andorra"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Angola"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Anguilla"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Antigua and Barbuda"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Argentina"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Armenia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Aruba"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Australia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Austria"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Azerbaijan"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Bahamas"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Bahrain"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Bangladesh"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Barbados"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Belarus"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Belgium"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Belize"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Benin"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Bermuda"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Bhutan"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Bolivia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Bosnia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Botswana"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Brazil"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Brunei"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Bulgaria"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Burkina Faso"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Burundi"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Cambodia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Cameroon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Canada"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Cape Verde"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Caribbean Netherlands"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Cayman Islands"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Central African Republic"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Chad"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Chile"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data China"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Colombia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Comoros"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Cook Islands"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Costa Rica"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Croatia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Cuba"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Curaçao"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Cyprus"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Czech Republic"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Democratic Republic of the Congo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Denmark"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Djibouti"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Dominica"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data East Timor"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Ecuador"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Egypt"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data El Salvador"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Equatorial Guinea"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Eritrea"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Estonia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Ethiopia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Falkland"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Faroe Islands"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Fiji"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Finland"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data France"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data French Guiana"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Gabon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Gambia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Georgia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Germany"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Ghana"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Gibraltar"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Greece"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Greenland"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Grenada"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Guadeloupe"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Guatemala"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Guinea"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Guinea-Bissau"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Guyana"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Haiti"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Hispaniola"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Honduras"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Hong Kong"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Hungary"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Iceland"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data India"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Indonesia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Iran"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Iraq"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Ireland"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Isle of Man"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Israel"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Italy"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Ivory Coast"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Jamaica"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Japan"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Jordan"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Kazakhstan"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Kenya"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Kiribati"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Kuwait"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Kyrgyzstan"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Laos"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Latvia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Lebanon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Lesotho"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Liberia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Libya"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Liechtenstein"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Lithuania"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Luxembourg"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Macau"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Macedonia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Madagascar"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Malawi"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Malaysia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Maldives"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Mali"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Malta"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Marshall Islands"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Martinique"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Mauritania"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Mauritius"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Mayotte"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Mexico"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Micronesia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Moldova"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Monaco"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Mongolia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Montenegro"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Montserrat"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Morocco"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Mozambique"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Myanmar"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Namibia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Nauru"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Nepal"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Netherlands"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data New Caledonia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data New Zealand"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Nicaragua"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Niger"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Nigeria"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Niue"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data North Korea"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Northern Mariana Islands"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Norway"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Oman"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Pakistan"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Palau"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Palestine"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Panama"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Papua New Guinea"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Paraguay"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Peru"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Philippines"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Poland"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Polynesia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Portugal"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Puerto Rico"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Qatar"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Republic of the Congo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Romania"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Russia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Rwanda"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Réunion"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Saint Helena"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Saint Kitts and Nevis"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Saint Lucia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Saint Pierre and Miquelon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Saint Vincent and the Grenadines"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Samoa"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data San Marino"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Saudi Arabia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Senegal"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Serbia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Seychelles"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Sierra Leone"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Singapore"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Sint Maarten"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Slovakia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Slovenia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Solomon Islands"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Somalia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data South Africa"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data South Korea"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data South Sudan"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Spain"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Sri Lanka"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Sudan"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Suriname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Swaziland"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Sweden"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Switzerland"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Syria"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data São Tomé and Príncipe"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Tajikistan"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Tanzania"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Thailand"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Togo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Tokelau"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Tonga"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Trinidad and Tobago"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Tunisia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Turkey"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Turkmenistan"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Turks and Caicos Islands"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Tuvalu"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Uganda"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Ukraine"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United Arab Emirates"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United Kingdom"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United States"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Uruguay"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Uzbekistan"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Vanuatu"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Vatican City"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Venezuela"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Vietnam"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Virgin Islands"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Wallis and Futuna"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Western Sahara"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Yemen"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Zambia"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data Zimbabwe"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data flag"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flag"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flag/core"
+          }
+        ],
+        "title": "Population growth",
+        "touched": "2025-10-09T14:22:14Z"
+      },
+      "2447": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7111,
+        "length": 213,
+        "new": "",
+        "ns": 1,
+        "pageid": 2447,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7111,
+            "slots": {
+              "main": {
+                "*": "This page needs serious work. Ignore the population figures, I'll tweak those in time, but if anyone wants to clean up the actual list of country names and add those we've added to the timeline, I'd appreciate it.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-31T18:16:28Z"
+          }
+        ],
+        "title": "Talk:Population growth/@comment-899576-20180131181628",
+        "touched": "2018-01-31T18:16:28Z"
+      },
+      "2448": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7113,
+        "length": 29,
+        "links": [
+          {
+            "ns": 2,
+            "title": "User:TimmyQuivy"
+          }
+        ],
+        "new": "",
+        "ns": 2,
+        "pageid": 2448,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7113,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[User:TimmyQuivy]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-01-31T19:31:28Z"
+          }
+        ],
+        "title": "User:DaNASCAT",
+        "touched": "2018-01-31T21:49:05Z"
+      },
+      "2449": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Literature"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11202,
+        "length": 2292,
+        "ns": 0,
+        "pageid": 2449,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10936,
+            "revid": 11202,
+            "slots": {
+              "main": {
+                "*": "'''American Empire''' was a geopolitical text putting forth the notion that, due to the Flood, the United States has become an \"unintentional empire\" and must start behaving in a more mature fashion befitting of such a nation.\n\n==Overview==\n==='''Part 1: The Origins of Empire'''===\nThe book was published while Stephen Michaels was president of the US Naval War College, and was a culmination of his ideas regarding US foreign policy and international relations.\n\nMichaels began the book with an examination of what factors lead to America's economic power and geography's impact on a nation's foreign policy, focusing a great deal on how the country's rise to prominence after World War II. He identifies such features as geography, population, and government, and argues that American military supremacy is a consequence of these factors, reinforcing the belief in an \"Unintentional Empire.\"\n\nThe book goes on to describe the power vacuum left after the fall of the Soviet Union and what the period of conflicts in the Middle East reveal about America's political immaturity.\n\n==='''Part 2: Reconciling the Empire and the Republic'''===\nThe book's second section outlines the risk that the Empire plays to the Republican experiment, though makes few political assertions. Michaels instead focuses on historical examples of Republicans that fell to Imperialism. He asserts that the risk for the US is not the slow surrender of legislative authority the the President but rather the rise of a Caesar in response to political discord and corruption at the Federal Level.\n\n==='''Part 3: The Necessary Doctrine'''===\nThe book's final chapter outwardly advocates for the next President to adopt a doctrine of local balance of power enabled by American military \"Viceroys\" who would command not only American troops, but have direct command over local forces; abandoning the alliance system of NATO in favor of more direct dominion. However, Michaels also argues that the US should reduce its permanent presence around the world in favor of a tiered system of priorities and deployments.\n\n*Tier 1: Diplomatic relations\n*Tier 2: Pressuring regional powers\n*Tier 3: Balance of power\n*Tier 4: Military cooperation\n*Tier 5: Direct Intervention\n\n==Impact on US foreign policy==\n[[Category:Literature]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-04-04T17:18:21Z"
+          }
+        ],
+        "title": "American Empire",
+        "touched": "2023-04-04T17:18:21Z"
+      },
+      "2450": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Literature"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 10409,
+        "length": 3709,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Conservative Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Dylan J. Price"
+          },
+          {
+            "ns": 0,
+            "title": "Great Reset"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2450,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8196,
+            "revid": 10409,
+            "slots": {
+              "main": {
+                "*": "'''A State of Merit,''' is the 2039 magnum opus of American sociologist Brandon Tran. It created a profound shift in conservative politics, and formed the political manifesto of many post-flood policies that would define the early identity [[Conservative Party (United States)|Conservative Party]] of the United States. \n\nEventually, its ideals out of many others had gradually helped and defined the rise of Neo-Jeffersonianism. Tran believed in limited regulations within business to help them expand employment, and argued that new automation technologies made the city preeminent over the state and nation-government by allowing solutions to problems to be rapidly tested and disseminated through society.\n\n==Tran's aims in State of Merit==\nTran was a long time critic of many contemporary democratic institutions. He wrote that the current democratic system of the United states had devolved into a ‘popularity contest’ that can easily sway the masses to vote on whoever is more “good-looking, more confident, or already popular” the person is rather than how good a person are at his/her job. \n\nWith multiple parties comes division with each side vying for control. He argued that each person of their own respective parties would identify and exaggerate many problems at hand to “forward their own agendas” and gather votes. And if such person loses an election, citizens of their party would cause violence within the streets costing lives and property damage in millions of dollars, citing the aftermath of the 2016 and the 2024 election. He argues that many current parts about democracy, specifically elections, promotes violent tendencies of citizens. He compares national/state elections to a game of sports; where two or more teams root for each other, if the game is hyped up enough and one side wins, the other losing side riots. (But he does accept this was what things were and what he should work with).\n\n==Summary of the State of Merit==\n==='''Part I: Introduction'''===\nThe first part of A State of Merit attempts to analyze the causes of the [[Great Reset]] and predicts the breakdown of the economic model established under the [[Dylan J. Price|Price administration]]. Tran supports the argument that the Great Reset was the inevitable result of the consolidation of power in the hands of a few major corporations, and even argues that the Progressives were right to carry out a new era of Trust Busting. He goes on to argue that the decision to nationalize larges segments of the economy was where the Price coalition went too far, and that it would inevitably lead to an economy that would be too inflexible to adapt to new technologies and social conditions.\n\n==='''Part II: Definitions and ideas'''===\nTran advocates for the establishment of a purely meritorious system, devoid of human meddling and bias, which he argued was more achievable now with advanced automation technologies. He puts for the notion that automation has made it possible to distribute economic power more uniformly than at any point in human history, and that the government should support this effort with policies designed to encourage small businesses that can use new automation solutions to manage the workforce in a decentralized fashion .\n\nAnd systems of smaller entities where it bases you on if you “work smart, not hard” whilst in line with laws and regulations. He believes that the more efficient and more resourceful you work, the more you should be rewarded (although it doesn’t mean that those who work hard wouldn’t get rewarded at all).\n\n==='''Part III: The Inevitability of Patronage'''===\n==='''Part IV: The Essential need of Meritocracy'''===\n[[Category:Literature]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-05-04T02:27:22Z"
+          }
+        ],
+        "title": "A State of Merit",
+        "touched": "2021-05-04T02:27:22Z"
+      },
+      "2451": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Article for deletion"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7310,
+        "length": 427,
+        "ns": 0,
+        "pageid": 2451,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7123,
+            "revid": 7310,
+            "slots": {
+              "main": {
+                "*": "'''Tanning the Donkey: The Life and Death of the Democratic Party''' was created ten years in response to 'Skinning the Elephant', the book \ndescribes the series of circumstances that led to the rise of competing \nfactions and the ultimate fracturing of the Democrat party after the \nfall of the Republican party. The book describes the Clinton Era to the \nlast pitch of Julian Castro in 2032.\n[[Category:Article for deletion]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-04T20:03:42Z"
+          }
+        ],
+        "title": "Tanning the Donkey",
+        "touched": "2018-02-04T20:03:42Z"
+      },
+      "2452": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Literature"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7138,
+        "length": 315,
+        "ns": 0,
+        "pageid": 2452,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7124,
+            "revid": 7138,
+            "slots": {
+              "main": {
+                "*": "'''The Great Deluge '''was a''' '''scientific and sociological analysis of the Flood ending with several proposals of various solutions. Many of these proposals would go on to be the basis of several goals of the Earth Working Group. The term 'Great Deluge' was also popularized by the book.\n[[Category:Literature]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-02T18:59:49Z"
+          }
+        ],
+        "title": "The Great Deluge",
+        "touched": "2018-02-02T18:59:50Z"
+      },
+      "2453": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Literature"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7137,
+        "length": 311,
+        "ns": 0,
+        "pageid": 2453,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7125,
+            "revid": 7137,
+            "slots": {
+              "main": {
+                "*": "'''Starbound''' describes the invention and evolution of early Terran space travel along with several scenarios and short stories of possible events leading up to and the results from its invention. It was influential to the creation of one of the first versions of the space warp drive.\n[[Category:Literature]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-02T18:59:42Z"
+          }
+        ],
+        "title": "Starbound",
+        "touched": "2018-02-02T18:59:43Z"
+      },
+      "2454": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Theories"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 9563,
+        "length": 2020,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Constructors"
+          },
+          {
+            "ns": 0,
+            "title": "Tel-bn"
+          },
+          {
+            "ns": 0,
+            "title": "Tu"
+          },
+          {
+            "ns": 0,
+            "title": "Velminyak"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2454,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8460,
+            "revid": 9563,
+            "slots": {
+              "main": {
+                "*": "'''''Inevitable Tetrapods '''''was a composition of various theories attempting to explain the convergent evolution of tetrapod-esque (four-limbed) body plans on planets with complex animal-like life. The book's title is something of a misnomer, as it does acknowledge the existence of alien species with more than four limbs. Its main thesis, however, is that the evolution of four limbs is a \"path of least resistance\" for vertebrate-like organisms evolving a land-dwelling lifestyle, at least under Earth-like circumstances. The fewer limbs an organism has, so the argument goes, the less complex its movement, ergo the fewer resources it needs to consume.\n\nFurthermore, the majority of land vertebrate-analogs on alien worlds were, like tetrapods on Earth, descended from fish-like swimmers (though they in turn often had ancestors that varied considerably--the first \"vertebrates\" on [[Tu]], for example, resembled velvet worms, but these later evolved a fishlike form). The fluidity of water, rather than other environmental conditions such as atmosphere composition or gravity, dictates the form of a swimming creature, so these swimmers often ended up looking superficially similar to fish on Earth, with torpedo-shaped bodies and fins. Such body shapes, the writers argued, were predisposed to evolving tetrapod-like forms when colonizing land.\n\nNon-tetrapodal aliens, such as the [[Velminyak]], the [[Tel-bn]], and the [[Constructors]], seem to have primarily evolved on worlds where the common ancestor of the local land \"vertebrates\" were not fish-like. The Tel-bn evolved from amphibious squid-like creatures, the Velminyak from something akin to polychaetes, and the Constructors from creatures resembling starfish.\n\nThe book was well-received in the exobiological community, with biologist Lauren Naish going as far as to declare it \"the best treatise ever written on convergent evolution and the forces that drive it,\" and calling it \"a must-have for any lover of tetrapod zoology.\"\n[[Category:Theories]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-02-10T13:58:34Z"
+          }
+        ],
+        "title": "Inevitable Tetrapods",
+        "touched": "2020-02-10T13:58:34Z"
+      },
+      "2455": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7128,
+        "length": 26,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Demographics"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 2455,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7128,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Demographics]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-02T00:34:49Z"
+          }
+        ],
+        "title": "Population",
+        "touched": "2020-02-10T13:53:32Z"
+      },
+      "2456": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7131,
+        "length": 25,
+        "new": "",
+        "ns": 1,
+        "pageid": 2456,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7131,
+            "slots": {
+              "main": {
+                "*": "This page already exists.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-02T01:25:27Z"
+          }
+        ],
+        "title": "Talk:Tanning the Donkey/@comment-30470028-20180202012527",
+        "touched": "2018-02-02T01:25:27Z"
+      },
+      "2457": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7133,
+        "length": 103,
+        "new": "",
+        "ns": 1,
+        "pageid": 2457,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7133,
+            "slots": {
+              "main": {
+                "*": "Oops! Sorry. Because of that, I fixed the link on the Notable Literature page. You can delete this one.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-02T02:53:25Z"
+          }
+        ],
+        "title": "Talk:Tanning the Donkey/@comment-30470028-20180202012527/@comment-27084453-20180202025325",
+        "touched": "2018-02-02T02:53:25Z"
+      },
+      "2458": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7142,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2458,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7142,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-02T19:02:03Z"
+          }
+        ],
+        "title": "File:Flag of Afghanistan.png",
+        "touched": "2018-02-13T22:48:11Z"
+      },
+      "2459": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7143,
+        "length": 238,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Afghanistan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2459,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7143,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Afghanistan\n| flag alias = Flag_of_Afghanistan.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-02T19:02:24Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Afghanistan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Afghanistan",
+        "touched": "2018-02-02T19:02:24Z"
+      },
+      "2460": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7144,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2460,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7144,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-02T19:04:28Z"
+          }
+        ],
+        "title": "File:Flag of Algeria.png",
+        "touched": "2018-05-11T01:21:50Z"
+      },
+      "2461": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7145,
+        "length": 230,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Algeria/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2461,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7145,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Algeria\n| flag alias = Flag_of_Algeria.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-02T19:04:35Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Algeria/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Algeria",
+        "touched": "2018-02-02T19:04:35Z"
+      },
+      "2462": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7146,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2462,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7146,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-02T19:05:49Z"
+          }
+        ],
+        "title": "File:Flag of Andorra.png",
+        "touched": "2018-02-13T22:52:01Z"
+      },
+      "2463": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7147,
+        "length": 230,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Andorra/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2463,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7147,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Andorra\n| flag alias = Flag_of_Andorra.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-02T19:05:56Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Andorra/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Andorra",
+        "touched": "2018-02-02T19:05:56Z"
+      },
+      "2464": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7148,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2464,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7148,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-02T19:06:35Z"
+          }
+        ],
+        "title": "File:Flag of Angola.png",
+        "touched": "2018-02-13T22:50:49Z"
+      },
+      "2465": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7149,
+        "length": 228,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Angola/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2465,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7149,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Angola\n| flag alias = Flag_of_Angola.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-02T19:06:40Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Angola/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Angola",
+        "touched": "2018-02-02T19:06:40Z"
+      },
+      "2466": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7150,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2466,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7150,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-02T19:09:12Z"
+          }
+        ],
+        "title": "File:Flag of Anguilla.png",
+        "touched": "2018-02-13T22:51:53Z"
+      },
+      "2467": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7151,
+        "length": 232,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Anguilla/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2467,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7151,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Anguilla\n| flag alias = Flag_of_Anguilla.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-02T19:09:21Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Anguilla/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Anguilla",
+        "touched": "2018-02-02T19:09:21Z"
+      },
+      "2468": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7152,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2468,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7152,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-02T19:10:01Z"
+          }
+        ],
+        "title": "File:Flag of Antigua and Barbuda.png",
+        "touched": "2018-02-13T22:52:14Z"
+      },
+      "2469": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7153,
+        "length": 254,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Antigua and Barbuda/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2469,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7153,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Antigua and Barbuda\n| flag alias = Flag_of_Antigua_and_Barbuda.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-02T19:10:12Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Antigua and Barbuda/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Antigua and Barbuda",
+        "touched": "2018-02-02T19:10:12Z"
+      },
+      "2477": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7213,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2477,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7213,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:07:53Z"
+          }
+        ],
+        "title": "File:Flag of Zimbabwe.png",
+        "touched": "2018-02-14T19:02:01Z"
+      },
+      "2478": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7214,
+        "length": 232,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Zimbabwe/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2478,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7214,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Zimbabwe\n| flag alias = Flag_of_Zimbabwe.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:08:01Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Zimbabwe/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Zimbabwe",
+        "touched": "2018-02-03T20:08:01Z"
+      },
+      "2479": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7215,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2479,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7215,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:09:18Z"
+          }
+        ],
+        "title": "File:Flag of Zambia.png",
+        "touched": "2018-02-14T19:03:15Z"
+      },
+      "2480": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7216,
+        "length": 228,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Zambia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2480,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7216,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Zambia\n| flag alias = Flag_of_Zambia.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:09:28Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Zambia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Zambia",
+        "touched": "2018-02-03T20:09:29Z"
+      },
+      "2481": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7217,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2481,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7217,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:13:19Z"
+          }
+        ],
+        "title": "File:Flag of Wallis and Futuna.png",
+        "touched": "2018-02-14T19:05:02Z"
+      },
+      "2482": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7218,
+        "length": 250,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Wallis and Futuna/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2482,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7218,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Wallis and Futuna\n| flag alias = Flag_of_Wallis_and_Futuna.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:13:27Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Wallis and Futuna/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Wallis and Futuna",
+        "touched": "2018-02-03T20:13:27Z"
+      },
+      "2483": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7219,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2483,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7219,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:13:54Z"
+          }
+        ],
+        "title": "File:Flag of Yemen.png",
+        "touched": "2018-02-14T19:06:59Z"
+      },
+      "2484": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7220,
+        "length": 226,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Yemen/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2484,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7220,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Yemen\n| flag alias = Flag_of_Yemen.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:13:59Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Yemen/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Yemen",
+        "touched": "2018-02-03T20:14:00Z"
+      },
+      "2485": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7221,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2485,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7221,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:14:58Z"
+          }
+        ],
+        "title": "File:Flag of the Sahrawi Arab Democratic Republic.png",
+        "touched": "2018-02-14T19:05:43Z"
+      },
+      "2486": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7222,
+        "length": 266,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Western Sahara/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2486,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7222,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Western Sahara\n| flag alias = Flag_of_the_Sahrawi_Arab_Democratic_Republic.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:15:05Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Western Sahara/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Western Sahara",
+        "touched": "2018-02-03T20:15:05Z"
+      },
+      "2487": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7223,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2487,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7223,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:20:47Z"
+          }
+        ],
+        "title": "File:Flag of the United Kingdom.png",
+        "touched": "2018-02-14T19:09:20Z"
+      },
+      "2488": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7225,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2488,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7225,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:21:56Z"
+          }
+        ],
+        "title": "File:Flag of Vanuatu.png",
+        "touched": "2018-02-14T19:08:58Z"
+      },
+      "2489": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7226,
+        "length": 230,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Vanuatu/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2489,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7226,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Vanuatu\n| flag alias = Flag_of_Vanuatu.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:22:43Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Vanuatu/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Vanuatu",
+        "touched": "2018-02-03T20:22:43Z"
+      },
+      "2490": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7228,
+        "length": 46,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Uzbekistan"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2490,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7228,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Template:Country data Uzbekistan]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:23:56Z"
+          }
+        ],
+        "title": "Template:Country data Republic of Uzbekistan",
+        "touched": "2018-02-03T20:23:56Z"
+      }
+    }
+  }
+}

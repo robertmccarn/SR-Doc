@@ -1,0 +1,22 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p><span typeof=\"mw:File\"><a href=\"https://static.wikia.nocookie.net/second-renaissance/images/b/be/Green_Taiwan_in_White_Cross.png/revision/latest?cb=20171017164243\" class=\"mw-file-description image\"><img alt=\"Green Taiwan in White Cross\" src=\"https://static.wikia.nocookie.net/second-renaissance/images/b/be/Green_Taiwan_in_White_Cross.png/revision/latest/scale-to-width-down/20?cb=20171017164243\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" data-image-name=\"Green Taiwan in White Cross.png\" data-image-key=\"Green_Taiwan_in_White_Cross.png\" data-relevant=\"1\" /></a></span> <span class=\"new\" title=\"Democratic Progressive Party (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvRGVtb2NyYXRpY19Qcm9ncmVzc2l2ZV9QYXJ0eT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Democratic Progressive Party</span>\n</p>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:DPP/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6RFBQL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:DPP/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:DPP/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6RFBQL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:DPP/doc</span></div>\n\n<!-- \nNewPP limit report\nCached time: 20261119205513\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.010 seconds\nReal time usage: 0.019 seconds\nPreprocessor visited node count: 9/1000000\nPost‐expand include size: 425/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    7.478      1 -total\n 68.04%    5.088      1 Template:DPP/logo\n 31.06%    2.323      1 Template:Documentation\n 12.68%    0.948      1 Template:DPP/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:695-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205513 and revision id 965. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:DPP/doc",
+      "ns": 10
+    },
+    {
+      "*": "Democratic Progressive Party",
+      "ns": 0
+    }
+  ],
+  "page_id": 695,
+  "revision_id": 965,
+  "title": "Template:DPP"
+}

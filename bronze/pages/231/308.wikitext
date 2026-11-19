@@ -1,0 +1,16 @@
+<nowiki>#3333FF</nowiki><noinclude>
+
+== Examples ==
+{|
+|- style="color:{{ {{PAGENAME}} }}"
+| '''This color'''
+|- style="background:{{ {{PAGENAME}} }}; color:white"
+| '''White on this color'''
+|- style="background:{{ {{PAGENAME}} }}; color:black"
+| '''Black on this color'''
+|}
+
+== See also ==
+* [[Template:Republican Party (United States)/meta/color]]
+[[Category:United States Democratic Party color templates| United States]]
+</noinclude>

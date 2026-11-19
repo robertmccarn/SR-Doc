@@ -1,0 +1,218 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Template:Aligned table | Second Renaissance</title><link rel="stylesheet" href="../assets/wiki.css"></head><body><header class="top"><a class="brand" href="../index.html">Second Renaissance Wikia</a><a href="../all-pages.html">Explore</a><a href="../categories.html">Categories</a><input id="search" class="search" placeholder="Search this wiki" oninput="findPage(this.value)"></header><div class="layout"><aside><h3>Navigation</h3><a href="../index.html">Main page</a><a href="../all-pages.html">All pages</a><a href="../categories.html">Categories</a><h3>Archive</h3><a href="../continuity.html">Continuity report</a><a href="../source-corpus.html">Source provenance</a></aside><main><h1 class="title">Template:Aligned table</h1><article class="article"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><table></table>
+<table class="article-table" style="width:100%;">
+
+<tbody><tr style="font-size:18px;">
+<th>Template documentation follows
+</th></tr>
+<tr>
+<td><i>Note: the template above may sometimes be partially or fully invisible.</i>
+</td></tr>
+<tr>
+<td>Visit <a href="pages/171-template-aligned-table-doc.html" title="Template:Aligned table/doc">Template:Aligned_table/doc</a> to edit this documentation. (<a href="pages/17-template-documentation.html" title="Template:Documentation">How does this work?</a>)
+</td></tr></tbody></table>
+<div style="margin:0 1em;">
+<table class="plainlinks ombox mbox-small ombox-notice" role="presentation"><tbody><tr><td class="mbox-image"><span typeof="mw:Error mw:File"><a href="https://second-renaissance.fandom.com/wiki/Special:Upload?wpDestFile=Lua-logo-nolabel.svg" class="new" title="File:Lua-logo-nolabel.svg"><span class="mw-file-element mw-broken-media" data-width="30">Lua logo</span></a></span></td><td class="mbox-text">Uses <a href="https://en.wikipedia.org/wiki/Lua" class="extiw" title="wikipedia:Lua">Lua</a>:
+<div><ul><li><a href="pages/675-module-aligned-table.html" title="Module:Aligned table">Module:Aligned table</a></li></ul></div></td></tr></tbody></table>
+The purpose is of this template is for generating simple tables in locations where <a href="https://community.fandom.com/wiki/Help:Table" title="Help:Table">standard table markup</a> is either not possible, without significant use of the <span class="nowrap"><code>{{!}}</code></span> magic word (e.g., with a <div style="clear:both"> template), or cumbersome (due to the repetitive use of specification of the same style statement in each row). This template should <u>not</u> be used to replace <a href="https://community.fandom.com/wiki/Help:Table" title="Help:Table">standard table markup</a> in articles.  This template is meant to be complimentary to <div style="clear:both"> or <div style="clear:both">, and <u>not</u> a replacement for <div style="clear:both"> or <div style="clear:both">.
+<p>A simpler method to include a table in a template that does not directly support table markup is to create the table in a sub-template using standard markup and transclude it.
+</p>
+<h2><span class="mw-headline" id="Full_syntax">Full syntax</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For parameter explanations, see table below.
+</p>
+<pre style="overflow:auto;">{{Aligned table
+| cols =
+| fullwidth =
+| class =
+| style =
+| colwidth =
+| leftright =
+| colstyle =
+| rowstyle =
+
+&lt;!--for Cth column:--&gt;
+| colCwidth =
+| colCclass =
+| colCalign =
+| colCstyle =
+| colCnowrap =
+
+&lt;!--for Rth row:--&gt;
+| rowRclass =
+| rowRstyle =
+| rowRheader =
+
+&lt;!--for cell R,C:--&gt;
+| classR.C =
+| styleR.C =
+
+| (cell 1,1) | (cell 1,2) | ... | ...
+| (cell 2,1) | (cell 2,2) | ... | ...
+}}
+</pre>
+<h2><span class="mw-headline" id="Parameters">Parameters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="line-height:1.35em;"><tbody><tr style="vertical-align:top"><th scope="col" style="padding-right:1.0em;;"> Parameter
+ </th><th scope="col" style="width:40.0em;padding-right:1.0em;;"> Description
+ </th><th scope="col" style="padding-right:1.0em;;"> Examples
+ </th><th scope="col" style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> Default
+ </th></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> cols
+ </td><td style="width:40.0em;padding-right:1.0em;;"> Number of columns in the table.
+ </td><td style="padding-right:1.0em;;"> <code> |cols=4 </code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> 2
+ </td></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> fullwidth
+ </td><td style="width:40.0em;padding-right:1.0em;;"> <span class="nowrap">Set to anything ("on", "true", "yes", etc) to ensure table spans entire width available.</span><br />(Effect is to remove border-spacing and add width:100% to the table's styling.)
+ </td><td style="padding-right:1.0em;;"> <code> |fullwidth=on </code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> <i>not set</i>
+ </td></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> class
+ </td><td style="width:40.0em;padding-right:1.0em;;"> CSS/<a href="pages/1043-html-attribute.html" class="mw-redirect" title="HTML attribute">HTML class</a>/es applied to the table.
+ </td><td style="padding-right:1.0em;;"> <code> |class=wikitable &#160; |class=infobox<br />|class=sortable nowrap &#160; |class=sidebar</code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> <i>none</i>
+ </td></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> style
+ </td><td style="width:40.0em;padding-right:1.0em;;"> <span class="new" title="CSS styling (page does not exist)" data-uncrawlable-url="L3dpa2kvQ1NTX3N0eWxpbmc/YWN0aW9uPWVkaXQmcmVkbGluaz0x">CSS styling</span> applied to the table.
+ </td><td style="padding-right:1.0em;;"> <code><span class="nowrap"> |style=width:80%;background:transparent; </span></code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> <i>none</i>
+ </td></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> colwidth
+ </td><td style="width:40.0em;padding-right:1.0em;;"> Width of each column (or include "width:...;" in <kbd>colstyle</kbd>).
+ </td><td style="padding-right:1.0em;;"> <code> |colwidth=6.0em &#160; |colwidth=25%</code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> <i>not set</i>
+ </td></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> colstyle
+ </td><td style="width:40.0em;padding-right:1.0em;;"> CSS styling applied to each column.
+ </td><td style="padding-right:1.0em;;"> <code> |colstyle=background:transparent; </code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> "
+ </td></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> rowstyle
+ </td><td style="width:40.0em;padding-right:1.0em;;"> CSS styling applied to each row.
+ </td><td style="padding-right:1.0em;;"> <code> |rowstyle=text-align:center; </code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> "
+ </td></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> leftright
+ </td><td style="width:40.0em;padding-right:1.0em;;"> Set to anything ("on", "true", "yes", etc) in place of <kbd>|col1align=left</kbd> and <kbd>|col2align=right</kbd>
+ </td><td style="padding-right:1.0em;;"> <code> |leftright=on </code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> <i>not set</i>
+ </td></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> col<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Varwidth</span>
+ </td><td style="width:40.0em;padding-right:1.0em;;"> Width of column number <span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Var</span> (or include "width:...;" in <kbd>col<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Varstyle</span></kbd>).
+ </td><td style="padding-right:1.0em;;"> <code> |col2width=9.0em &#160; |col3width=35%</code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> <i>none set</i>
+ </td></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> col<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Varclass</span>
+ </td><td style="width:40.0em;padding-right:1.0em;;"> Class/es applied to column number <span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Var</span>.
+ </td><td style="padding-right:1.0em;;"> <code> |col1class=navbox-group </code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> "
+ </td></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> col<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Varalign</span>
+ </td><td style="width:40.0em;padding-right:1.0em;;"> Alignment (left&#160;/&#32;right&#160;/&#32;center) for column <span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Var</span>'s cell contents (or include "text-align:...;" in <kbd>col<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Varstyle</span></kbd>).
+ </td><td style="padding-right:1.0em;;"> <code> |col4align=right </code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> <i>none set</i>
+ </td></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> col<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Varnowrap</span>
+ </td><td style="width:40.0em;padding-right:1.0em;;"> Set to anything ("on", "true", "yes", etc) to add "white-space:nowrap;" to column <span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Var</span>'s cell styling (i.e. to prevent lines within its cells from wrapping; or include "nowrap" in <kbd>col<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Varclass</span></kbd> or "white-space:nowrap;" in <kbd>col<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Varstyle</span></kbd>).
+ </td><td style="padding-right:1.0em;;"> <code> |col5nowrap=on </code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> "
+ </td></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> col<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Varstyle</span>
+ </td><td style="width:40.0em;padding-right:1.0em;;"> CSS styling applied to column number <span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Var</span>.
+ </td><td style="padding-right:1.0em;;"> <code> |col4style=font-style:italic; </code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> "
+<p><br />
+</p>
+ </td></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> col<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Varheader</span>
+ </td><td style="width:40.0em;padding-right:1.0em;;"> Set to any value (e.g. <code>Y</code>) to change col's cells from data cells to table headers (headings).
+ </td><td style="padding-right:1.0em;;"> <code> |col1header=on </code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> <i>not set</i>
+ </td></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> row<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Varclass</span>
+ </td><td style="width:40.0em;padding-right:1.0em;;"> Class/es applied to row number <span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Var</span>.
+ </td><td style="padding-right:1.0em;;"> <code> |row10class=navbox-abovebelow </code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> <i>none set</i>
+ </td></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> row<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Varstyle</span>
+ </td><td style="width:40.0em;padding-right:1.0em;;"> CSS styling applied to row number <span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Var</span>.
+ </td><td style="padding-right:1.0em;;"> <code> |row2style=font-weight:bold; </code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> "
+ </td></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> row<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Varheader</span>
+ </td><td style="width:40.0em;padding-right:1.0em;;"> Set to any value (e.g. <code>Y</code>) to change row's cells from data cells to table headers (headings).
+ </td><td style="padding-right:1.0em;;"> <code> |row1header=on </code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> <i>not set</i>
+ </td></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> class<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Var</span>.<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Var</span>
+ </td><td style="width:40.0em;padding-right:1.0em;;"> Class/es applied to cell in row <span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Var</span>, column <span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Var</span>. Overrides any other class attributions (<kbd>row<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Varclass</span></kbd>, <kbd>col<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Varclass</span></kbd>).
+ </td><td style="padding-right:1.0em;;"> <code> |class1.2=adr </code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> <i>none set</i>
+ </td></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> style<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Var</span>.<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Var</span>
+ </td><td style="width:40.0em;padding-right:1.0em;;"> CSS styling applied to cell in row <span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Var</span>, column <span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Var</span>. Overrides any more general styling (<kbd>leftright</kbd>, <kbd>col<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Varalign</span></kbd>, <kbd>row<span class="new" title="Template:Var (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6VmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Template:Varstyle</span></kbd>, etc).
+ </td><td style="padding-right:1.0em;;"> <code> |style5.3=text-align:right; </code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> "
+ </td></tr><tr style="vertical-align:top"><td style="padding-right:1.0em;;"> <span class="new" title="Template:Sans-serif (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6U2Fucy1zZXJpZj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Template:Sans-serif</span>
+ </td><td style="width:40.0em;padding-right:1.0em;;"> Each unnamed parameter is taken to be the next cell in the table, starting at the table's top left corner and working left to right from top to bottom.
+ </td><td style="padding-right:1.0em;;"> <code>| Azerbaijan | Malta | Zaire</code>
+ </td><td style="padding-right:1.0em;;padding-left:1.0em;text-align:center;"> empty
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<pre>{{Aligned table
+|cols=3 |class=wikitable
+| A | 1 | a
+| B | 2 | b
+}}
+</pre>
+<table class="wikitable"><tbody><tr style="vertical-align:top"><td> A </td><td> 1 </td><td> a
+</td></tr><tr style="vertical-align:top"><td> B </td><td> 2 </td><td> b
+</td></tr></tbody></table>
+<pre>{{Aligned table
+|cols=4 |class=wikitable
+|col1align=center |col2align=center
+|col3align=right  |col4align=right
+| AAA | aa    | 123  | 12345
+| B   | bbbbb | 1234 | 2
+}}
+</pre>
+<table class="wikitable"><tbody><tr style="vertical-align:top"><td style="text-align:center;"> AAA </td><td style="text-align:center;"> aa    </td><td style="text-align:right;"> 123  </td><td style="text-align:right;"> 12345
+</td></tr><tr style="vertical-align:top"><td style="text-align:center;"> B   </td><td style="text-align:center;"> bbbbb </td><td style="text-align:right;"> 1234 </td><td style="text-align:right;"> 2
+</td></tr></tbody></table>
+<pre>{{Aligned table
+|class=wikitable |style=width:20em;
+|col1align=center |col2align=right
+| AAA | 123
+| B   | 2
+}}
+</pre>
+<table class="wikitable" style="width:20em;"><tbody><tr style="vertical-align:top"><td style="text-align:center;"> AAA </td><td style="text-align:right;"> 123
+</td></tr><tr style="vertical-align:top"><td style="text-align:center;"> B   </td><td style="text-align:right;"> 2
+</td></tr></tbody></table>
+<pre>{{Aligned table
+|cols=3 |class=wikitable sortable
+|row1header=y
+| U | # | l
+| A | 1 | a
+| B | 2 | b
+}}
+</pre>
+<table class="wikitable sortable"><tbody><tr style="vertical-align:top"><th scope="col"> U </th><th scope="col"> # </th><th scope="col"> l
+</th></tr><tr style="vertical-align:top"><td> A </td><td> 1 </td><td> a
+</td></tr><tr style="vertical-align:top"><td> B </td><td> 2 </td><td> b
+</td></tr></tbody></table></div>
+</div></div></div></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20261119205410
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.077 seconds
+Real time usage: 0.120 seconds
+Preprocessor visited node count: 675/1000000
+Post‐expand include size: 47136/2097152 bytes
+Template argument size: 143/2097152 bytes
+Highest expansion depth: 9/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1519/5000000 bytes
+Lua time usage: 0.026/7.000 seconds
+Lua memory usage: 1314655/104857600 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   66.900      1 Template:Documentation
+100.00%   66.900      1 -total
+ 97.90%   65.497      1 Template:Aligned_table/doc
+ 57.67%   38.578      1 Template:Lua
+ 21.29%   14.243      5 Template:Aligned_table
+  8.38%    5.603      1 Template:Tld
+  4.03%    2.698      1 Template:Tlg
+  2.12%    1.418      1 Template:Documentation_subpage
+  1.99%    1.332      2 Template:Nowrap
+  1.90%    1.274      2 Template:\
+-->
+
+<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:170-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205410 and revision id 227. Rendering was triggered because: api-parse
+ -->
+</div></article><div class="meta">Mirrored from <a href="https://second-renaissance.fandom.com/wiki/Template%3AAligned_table">Fandom</a> · revision 227 · page ID 170</div></main></div><script src="../assets/wiki.js"></script></body></html>

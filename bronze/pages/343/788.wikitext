@@ -1,0 +1,207 @@
+{{Documentation subpage}}
+
+===Earth State flags===
+{{mono|Country_data}} templates are also available for each of the fifty [[Earth|Earth state]]s and the District of Columbia:
+{| style="background-color:#ecfcf4"
+|-
+| [[Template:Country data Alabama]] || {{flag|Alabama}}
+|-
+| [[Template:Country data Alaska]] || {{flag|Alaska}}
+|-
+| [[Template:Country data Alberta]] || {{flag|Alberta}}
+|-
+| [[Template:Country data Antilles]] || {{flag|Antilles}}
+|-
+| [[Template:Country data Athabasca]] || {{flag|Athabasca}}
+|-
+| [[Template:Country data Arizona]] || {{flag|Arizona}}
+|-
+| [[Template:Country data Arkansas]] || {{flag|Arkansas}}
+|-
+| [[Template:Country data Bahamas]] || {{flag|Bahamas}}
+|-
+| [[Template:Country data Belize]] || {{flag|Belize}}
+|-
+| [[Template:Country data California]] || {{flag|California}}
+|-
+| [[Template:Country data Cascadia]] || {{flag|Cascadia}}
+|-
+| [[Template:Country data Colorado]] || {{flag|Colorado}}
+|-
+| [[Template:Country data Connecticut]] || {{flag|Connecticut}}
+|-
+| [[Template:Country data Cook]] || {{flag|Cook}}
+|-
+| [[Template:Country data Cuba]] || {{flag|Cuba}}
+|-
+| [[Template:Country data Delaware]] || {{flag|Delaware}}
+|-
+| [[Template:Country data England]] || {{flag|England}}
+|-
+| [[Template:Country data Florida]] || {{flag|Florida}}
+|-
+| [[Template:Country data Georgia (U.S. state)]] || {{flag|Georgia (U.S. state)}}
+|-
+| [[Template:Country data Guyana]] || {{Flag|Guyana}}
+|-
+| [[Template:Country data Hawaii]] || {{flag|Hawaii}}
+|-
+| [[Template:Country data Hispaniola]] || {{flag|Hispaniola}}
+|-
+| [[Template:Country data Hudson]] || {{flag|Hudson}}
+|-
+| [[Template:Country data Idaho]] || {{flag|Idaho}}
+|-
+| [[Template:Country data Illinois]] || {{flag|Illinois}}
+|-
+| [[Template:Country data Indiana]] || {{flag|Indiana}}
+|-
+| [[Template:Country data Iowa]] || {{flag|Iowa}}
+|-
+| [[Template:Country data Ireland]] || {{flag|Ireland}}
+|-
+| [[Template:Country data Jamaica]] || {{flag|Jamaica}}
+|-
+| [[Template:Country data Kansas]] || {{flag|Kansas}}
+|-
+| [[Template:Country data Keewatin]] || {{flag|Keewatin}}
+|-
+| [[Template:Country data Kentucky]] || {{flag|Kentucky}}
+|-
+| [[Template:Country data Louisiana]] || {{flag|Louisiana}}
+|-
+| [[Template:Country data Maine]] || {{flag|Maine}}
+|-
+| [[Template:Country data Manitoba]] || {{flag|Manitoba}}
+|-
+| [[Template:Country data Maryland]] || {{flag|Maryland}}
+|-
+| [[Template:Country data Massachusetts]] || {{flag|Massachusetts}}
+|-
+| [[Template:Country data Michigan]] || {{flag|Michigan}}
+|-
+| [[Template:Country data Minnesota]] || {{flag|Minnesota}}
+|-
+| [[Template:Country data Mississippi]] || {{flag|Mississippi}}
+|-
+| [[Template:Country data Missouri]] || {{flag|Missouri}}
+|-
+| [[Template:Country data Montana]] || {{flag|Montana}}
+|-
+| [[Template:Country data Nebraska]] || {{flag|Nebraska}}
+|-
+| [[Template:Country data Nevada]] || {{flag|Nevada}}
+|-
+| [[Template:Country data Newfoundland]] || {{flag|Newfoundland}}
+|-
+| [[Template:Country data New Hampshire]] || {{flag|New Hampshire}}
+|-
+| [[Template:Country data New Jersey]] || {{flag|New Jersey}}
+|-
+| [[Template:Country data New Mexico]] || {{flag|New Mexico}}
+|-
+| [[Template:Country data New York]] || {{flag|New York}}
+|-
+| [[Template:Country data New Zealand]] || {{flag|New Zealand}}
+|-
+| [[Template:Country data North Carolina]] || {{flag|North Carolina}}
+|-
+| [[Template:Country data North Dakota]] || {{flag|North Dakota}}
+|-
+| [[Template:Country data Nova Scotia]] || {{flag|Nova Scotia}}
+|-
+| [[Template:Country data Ohio]] || {{flag|Ohio}}
+|-
+| [[Template:Country data Oklahoma]] || {{flag|Oklahoma}}
+|-
+| [[Template:Country data Ontario]] || {{flag|Ontario}}
+|-
+| [[Template:Country data Oregon]] || {{flag|Oregon}}
+|-
+| [[Template:Country data Pennsylvania]] || {{flag|Pennsylvania}}
+|-
+| [[Template:Country data Puerto Rico]] || {{Flag|Puerto Rico}}
+|-
+| [[Template:Country data Rhode Island]] || {{flag|Rhode Island}}
+|-
+| [[Template:Country data Queensland]] || {{flag|Queensland}}
+|-
+| [[Template:Country data Riverina]] || {{flag|Riverina}}
+|-
+| [[Template:Country data Saskatchewan]] || {{flag|Saskatchewan}}
+|-
+| [[Template:Country data Scotland]] || {{flag|Scotland}}
+|-
+| [[Template:Country data South Australia]] || {{flag|South Australia}}
+|-
+| [[Template:Country data South Carolina]] || {{flag|South Carolina}}
+|-
+| [[Template:Country data South Dakota]] || {{flag|South Dakota}}
+|-
+| [[Template:Country data Superior]] || {{flag|Superior}}
+|-
+| [[Template:Country data Tasmania]] || {{flag|Tasmania}}
+|-
+| [[Template:Country data Tennessee]] || {{flag|Tennessee}}
+|-
+| [[Template:Country data Texas]] || {{flag|Texas}}
+|-
+| [[Template:Country data Utah]] || {{flag|Utah}}
+|-
+| [[Template:Country data Vermont]] || {{flag|Vermont}}
+|-
+| [[Template:Country data Victoria]] || {{flag|Victoria}}
+|-
+| [[Template:Country data Virginia]] || {{flag|Virginia}}
+|-
+| [[Template:Country data Wales]] || {{flag|Wales}}
+|-
+| [[Template:Country data Washington]] || {{flag|Washington}}
+|-
+| [[Template:Country data West Virginia]] || {{flag|West Virginia}}
+|-
+| [[Template:Country data Wisconsin]] || {{flag|Wisconsin}}
+|-
+| [[Template:Country data Wyoming]] || {{flag|Wyoming}}
+|-
+| [[Template:Country data Washington, D.C.]] || {{flag|Washington, D.C.}}
+|}
+
+===Luna State Flags===
+
+===Mars State flags===
+
+===Unincorporated territory flags===
+{{mono|Country_data}} templates are also available for several organized [[territories of the United States]]. Many of the unorganized territories are either uninhabited or have no indigenous inhabitants, and also do not have unique flags. For those, please use <code><nowiki>{{flagicon|United States}}</nowiki></code>.
+{| style="background-color:#ecfcf4"
+|-
+| [[Template:Country data American Samoa]] || {{Flag|American Samoa|size=23px}}
+|-
+| [[Template:Country data Guam]] || {{Flag|Guam|size=23px}}
+|-
+| [[Template:Country data Northern Mariana Islands]] || {{Flag|Northern Mariana Islands|size=23px}}
+|-
+| [[Template:Country data U.S. Virgin Islands]] || {{Flag|U.S. Virgin Islands|size=23px}}
+|}
+
+===Military branch flags===
+{{mono|Country_data}} templates are also available for some U.S. military branches.
+{| style="background-color:#ecfcf4"
+|-
+| [[Template:Country data United States Air Force]] || {{Flagdeco|United States Air Force|size=23px}} [[United States Air Force]]
+|-
+| [[Template:Country data United States Army]] || {{Flagdeco|United States Army|size=23px}} [[United States Army]]
+|-
+| [[Template:Country data United States Coast Guard]] || {{Flagdeco|United States Coast Guard|size=23px}} [[United States Coast Guard]]
+|-
+| [[Template:Country data United States Marine Corps]] || {{Flagdeco|United States Marine Corps|size=23px}} [[United States Marine Corps]]
+|-
+| [[Template:Country data United States Navy]] || {{Flagdeco|United States Navy|size=23px}} [[United States Navy]]
+|}
+<includeonly>
+[[Category:Country data templates of countries|United States]]
+[[Category:Country data templates of the United States| ]]
+</includeonly>
+<noinclude>
+[[pt:Predefinição:Country data Estados Unidos/doc]] 
+</noinclude>

@@ -1,0 +1,51 @@
+{{Infobox Military Conflict
+|conflict= Second Vietnam War
+|partof= Mexican-American Proxy Wars
+|image=[[File:2nd_Vietnam_War.png|270px]]
+|caption=Map of the War's Belligerents in 2105
+|date=February 2, 2102- April 4, 2106
+|place=Vietnam
+|causes= Vietnamese Military Coup d'état
+|territory=
+|result= Military stalemate
+|combatant1='''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;">{{{1|}}}</span>'''
+'''[[U.S. Allies of the Third Mexican War| United States-Allies]]'''
+
+'''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;">{{{1|}}}</span>'''
+[[File:US_flag_81smallstars.png|20px|border]] [[United States of America|United States]]<br>
+[[File:Flag_of_China_(2058-2108).png|20px|border]] [[United Federation of China|China]]<br>
+[[File:Cham_Flag.png|20px|border]] [[wp:Champa|Champa]]<br>
+[[File:National Vietnamese_Army.png|20px|border]] National Vietnamese Army
+
+|combatant2='''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;">{{{1|}}}</span>'''
+'''[[Mexican Allies of the Third Mexican War| Mexican-Allies]]'''
+
+'''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;">{{{1|}}}</span>'''
+[[File:Flag_of_Vietnam.png|20px|border]] [[wp:Vietnam|Vietnam]]'''<br>
+[[File:Flag_of_the_Khmer_Republic.png|20px|border]] [[wp:Khmer Republic|Khmer Republic]]
+
+----
+<small>'''Military Support:'''</small><br>
+[[File:Flag_of_Mexico_(2074).png|20px|border]] [[Mexico]]'''<br>
+
+|commander1='''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;">{{{1|}}}</span>'''
+[[File:US_flag_81smallstars.png|20px|border]] [[Tom Steele]]<br>
+
+|commander2='''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;">{{{1|}}}</span>'''
+[[File:Flag_of_Mexico_(2074).png|20px|border]] [[Luis Zepeda]]<br>
+}}
+
+The '''Second Vietnam War''' was a protracted armed conflict that began in 2102 with the invasion of Vietnam by the United States-led coalition to restore the democratically elected government of Nguyen Tan Luong. The conflict continued until the 2106 Taipei Peace Talks divided the country and declared a ceasefire, though the conflict was technically still ongoing until the Third Mexican-American War ended.
+
+==Background==
+{{History of the Mexican-American Cold War}}
+
+In 2101 Vietnam held the most contentious election in its history. Nguyen Tan Luong was a reformer who called for Vietnam to adopt the Quantum Economic Model, much as its neighbor China was attempting to do, and unite the East in a common market. Luong was opposed by candidates backed by Mexico, who were vehemently opposed to the QEM. Luong narrowly won the election, leading to riots across the country's northern territories. Luong was captured in a military coup shortly after taking office, and a Junta was put in place that called for new elections. The US supported Luong's election and Mexico supported the claims by the Junta that Luong was a dangerous radical.
+
+==Course of the War==
+The US formed a coalition with China, the Philippines, Thailand, and Indonesia to invade and return Luong to office and restore order while Mexican operators distributed weapons and armor to fuel the Junta's resistance and predicted sectarian conflict. The US-backed coalition invaded in February 2102.
+
+==Aftermath==
+After the end of the Second Vietnam War, many Chinese soldiers returned home to not only find their economy still devoid of opportunities, but the Federalist government delaying pensions for veterans. The whole situation was a powder keg, and Mexico was quick to exploit it for their own benefit. After making contacts with local regionalists, Mexican operatives quickly established separatists movements from within local Chinese Army regiments. With a little social engineering, all of Southern China was quickly in open revolt against the Federalist government in Beijing. The revolts in the South eventually became a coup de tat that forced the Americans to invade and pacify the Chinese capital. After a short, but costly civil war, some order began to be restored by 2108 and a provisional republic governed from American-run Shanghai had been propped up. Taiwan and Manchuria were in open rebellion, but not by Mexican sponsored revolutionaries, but revolts from local governments who refused to submit to a government so incapable of keeping the country in one piece.
+[[Category:22nd-century conflicts]]
+[[Category:Mexican-American Cold War]]

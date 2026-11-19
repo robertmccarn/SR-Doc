@@ -1,0 +1,51 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"plainlinks ombox ombox-style\" style=\"\">\n<tbody><tr>\n<td class=\"mbox-image\">\n  <span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://static.wikia.nocookie.net/second-renaissance/images/2/23/Ambox_warning_yellow.png/revision/latest?cb=20150811222658\" decoding=\"async\" loading=\"lazy\" width=\"40\" height=\"34\" class=\"mw-file-element\" data-image-name=\"Ambox warning yellow.png\" data-image-key=\"Ambox_warning_yellow.png\" data-relevant=\"0\" /></span></span></td>\n<td class=\"mbox-text\" style=\"\"> <b>This template employs intricate features of template syntax.</b>\n<div style=\"font-size:95%; padding-bottom:2px;\">You are encouraged to familiarise yourself with its setup and <a href=\"https://meta.wikimedia.org/wiki/Help:Parser_function\" class=\"extiw\" title=\"m:Help:Parser function\">parser functions</a> before editing the template. If your edit causes unexpected problems, please <a href=\"https://community.fandom.com/wiki/Help:Reverting\" title=\"Help:Reverting\">undo</a> it quickly, as this template may appear on a large number of pages.<br />\nRemember that you can conduct experiments, and should test all improvements, in either the <span class=\"nowraplinks\"><a href=\"/wiki/Template:Template_sandbox\" title=\"Template:Template sandbox\">general Template sandbox</a></span> or your user space before changing anything here.</div> </td>\n</tr>\n</tbody></table>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:Intricate template/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SW50cmljYXRlX3RlbXBsYXRlL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:Intricate_template/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:Intricate template/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SW50cmljYXRlX3RlbXBsYXRlL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:Intricate template/doc</span></div>\n\n<!-- \nNewPP limit report\nCached time: 20261119205425\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.030 seconds\nReal time usage: 0.042 seconds\nPreprocessor visited node count: 105/1000000\nPost‐expand include size: 3357/2097152 bytes\nTemplate argument size: 1513/2097152 bytes\nHighest expansion depth: 14/100\nExpensive parser function count: 6/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   17.684      1 -total\n 83.04%   14.685      1 Template:Ombox\n 68.67%   12.144      1 Template:Ombox/core\n 16.29%    2.880      1 Template:Documentation\n  6.02%    1.064      1 Template:Intricate_template/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:320-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205425 and revision id 509. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Intricate template/sandbox",
+      "ns": 10
+    },
+    {
+      "*": "Template:Intricate template/Sandbox",
+      "ns": 10
+    },
+    {
+      "*": "Template:Intricate template/test sandbox",
+      "ns": 10
+    },
+    {
+      "*": "Template:Intricate template/Test sandbox",
+      "ns": 10
+    },
+    {
+      "*": "Template:Intricate template/test",
+      "ns": 10
+    },
+    {
+      "*": "Template:Intricate template/Test",
+      "ns": 10
+    },
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Template sandbox",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Intricate template/doc",
+      "ns": 10
+    },
+    {
+      "*": "Help:Reverting",
+      "ns": 12
+    }
+  ],
+  "page_id": 320,
+  "revision_id": 509,
+  "title": "Template:Intricate template"
+}

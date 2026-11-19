@@ -1,0 +1,13 @@
+{
+  "categories": [
+    {
+      "*": "Templates",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"infobox\" style=\"width: 315px; border-spacing: 2px; text-align: left; font-size: 90%;\">\n\n<tbody><tr>\n<th colspan=\"2\" style=\"background-color: #B0C4DE; text-align: center; vertical-align: middle;\">Infobox Military Conflict\n</th></tr>\n\n\n\n\n<tr>\n<td colspan=\"2\">\n<table class=\"infobox\" width=\"100%\" style=\"margin: 0; cellpadding: 0; padding: 0; border: 0;\">\n\n\n\n<tbody><tr>\n<th style=\"padding-right: 1em;\">Location\n</th>\n<td>\n</td></tr>\n<tr>\n<th style=\"padding-right: 1em;\">Causes\n</th>\n<td>\n</td></tr>\n<tr>\n<th style=\"padding-right: 1em;\">Result\n</th>\n<td>\n</td></tr>\n\n</tbody></table>\n</td></tr>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</tbody></table>\n<!-- \nNewPP limit report\nCached time: 20261119205403\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 82/1000000\nPost‐expand include size: 395/2097152 bytes\nTemplate argument size: 18/2097152 bytes\nHighest expansion depth: 5/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    1.645      1 -total\n 96.12%    1.581      2 Template:WPMILHIST_Infobox_style\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:108-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205403 and revision id 123. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [],
+  "page_id": 108,
+  "revision_id": 123,
+  "title": "Template:Infobox Military Conflict"
+}

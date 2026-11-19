@@ -1,0 +1,104 @@
+---
+page_id: 3593
+revision_id: 11507
+source_url: https://second-renaissance.fandom.com/wiki/White_Tide
+raw_sha256: fc966186af90ddc0e86b539b3c65072b205bd04595553bf828e8830e22eade7f
+---
+
+# White Tide
+
+## Preserved source
+
+```wikitext
+{{WIP}}
+{{Infobox Military Conflict
+|conflict= White Tide
+|image= 
+|caption=Military situation in 2024
+|date=2028 - 2035
+|place=United States of America, (with spillovers into Mexico and Canada)
+|causes=2020, 2024 and 2028 US presidential elections<br>
+Laws against a women's right to choose<br>
+The spread of LGBT grooming conspiracy theories<br>
+January 6th 2021 Capitol insurrection
+|territory=
+|result=US Federal Victory
+*Rebellions and Secessions crushed
+*Pretender states dissolved 
+*Federal raids against extremist groups continued into mid 2030s
+|combatant1='''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;"></span>'''
+[20px](658-file-us-flag-51stars-png.md) '''[United States](217-united-states-of-america.md)''' <small></small><br>
+[20px](462-file-flag-of-canada-png.md) '''[Canada](1896-canada.md)'''<br>
+[20px](947-file-flag-of-mexico-2074-png.md) '''[Mexico](1391-mexico.md)'''
+
+|combatant2='''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;"></span>'''
+'''Far-right pretender states'''<br>
+[20px](3667-file-sca-flag-2030-2031-png.md) [SCA](2718-sovereign-citizen-s-alliance.md) (2028-2031)<br/>
+[20px](3668-file-northwest-territorial-imperative-flag-png.md) American Redoubt (2031-2035)<br/>
+[20px](2719-file-christian-separatist-flag-png.md) Christian Republic (from 2031-2033)<br/>
+[20px](430-file-flag-of-texas-png.md) 2nd Republic of Texas (2031-2032)<br/>
+[20px](3617-file-confederate-rebel-flag-png.md)Neo-Confederates (2031-2034)<br/>
+Disorganized Far-right Militants’ Remnant<br>
+Rebel Police Forces
+
+|combatant3='''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;"></span>'''
+'''Far-left rebel groups'''<br>
+
+|commander1='''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;"></span>'''
+[20px](658-file-us-flag-51stars-png.md) [Alexandria Ocasio-Cortez](3592-alexandria-ocasio-cortez.md)<br>
+
+|commander2='''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;"></span>'''
+[20px](3667-file-sca-flag-2030-2031-png.md) [Donald Trump Jr.](https://second-renaissance.fandom.com/wiki/Donald_Trump_Jr.)<br/>
+[20px](3667-file-sca-flag-2030-2031-png.md) Michael Wallace †<br/>
+[20px](3667-file-sca-flag-2030-2031-png.md) Michael Flynn †
+
+|commander3='''<span title="{{{2|{{{1|}}}}}}" class="fakelinks" style="cursor: pointer; color: #002bb8;"></span>'''
+<br>
+<br>
+
+|strength1= 8.9 million
+|strength2= 8.1 million
+|casualties1= 8.55 million
+|casualties2= 4.45 million
+}}
+
+The '''Second American Civil War,''' also referred to as '''Civil War II''', '''CWII'', and occasionally the '''White Tide''', was a multi-sided insurrection in the United States fought between the forces of the Federal Government, along with domestic and foreign allies, and various domestic pretender and secessionist governments opposing both the Federal government and each other in varying combinations. The conflict began in late 2028 with the Columbus Insurrection, Ohio, and is usually deemed to have ended with the Battle of Salmon, Idaho in 2033.
+
+After Alexandria Ocasio-Cortez won the November 2028 presidential election on an anti-racism platform, several militia coalitions stormed the state capitols of 18 states, successfully capturing the capitols of Alabama, Texas, Idaho, Ohio, and Kansas. Before the inauguration of Ocasio-Cortez, the state governments of Indiana, Nebraska, and South Dakota voted to secede from the Union and pledged loyalty to the rebel governments in Columbus and Topeka. The Federal Government responded shortly after AOC's inauguration in January of 2029 when Federal troops repelled an attack on Fort Wayne, Indiana. Additional rebel state governments arose in the following months, either joining one of the existing pretender republics or creating new ones. 
+
+The conflict was primarily political and nationalistic, fueled by ethnic and religious tension. A key issue was the Ocasio-Cortez administration's open door immigration policy to attract skilled labor, and in general the United States adoption of more egalitarian social policies towards non-whites. White-nationalists in turn wanted to expel all non-white immigrants from the US, or failing to accomplish this, establish a "white homeland" via political secession.
+
+# Background
+## '''The Great Reset'''
+The Great Recession and later COVID-19 pandemic upended many economic norms that had been in place since the 1980s, made worse by the mass retirement of the Baby Boomer generation. The result of these events was a labor shortage and a cycle of inflation that significantly reduced the buying power of most Americans. Attempts to mitigate inflation by raising interest rates were unsuccessful, however most Americans remained opposed to increasing immigration as a means to free up the money supply. Leftists opposed this policy believing it was a deliberate attempt to drive down wages, and Conservatives opposed it on racist grounds.
+
+As a result the 2020s saw inflation grow with limited relief and the buying power of businesses and consumers continued to decline as productivity continued to fall, leading to ever growing supply chain interruptions. This created the economic conditions that drove a new cycle of political radicalization.
+
+## Police radicalization
+Beginning in the 2010s and intensifying in the 2020s violence by police against African Americans became an increasingly visible issue, largely due to the increased prevalence of cell phone and body cameras. Prior to this, police were able to carry out violence with impunity, particularly against African Americans. On May 25, 2020 George Floyd was chocked to death by Minneapolis police officer Derek Chauvin while four other police officers watched. The murder of Floyd, which was recorded in its entirety, sparked a national outcry and a wave of protests and riots against police brutality that would last until the early 2030s; and brought three distinct movements against police violence to the forefront of American politics: 
+
+## The Flood
+''Main article: [The Flood](637-the-flood.md)''
+
+With the calving of the South Greenland Ice Sheet, the Federal government was forced to divert resources and political attention away from combatting extremist groups and seek political cooperation with many right-wing politicians. In the lead up to the sheet's loss, popular perception was one of renewed bipartisanship, however extremist politicians only doubled down on their rhetoric. There was a fear that the purported temporary resettlement of refugees were little more than an attempt by the coastal cities to "colonize the heartland," and many far-right leaders claimed the calving was a hoax even after the initial wave of flooding made landfall on the eastern seaboard.
+
+Most domestic climate refugees were temporarily resettled to camps in their home states, or simply returned to their families out of state. The greatest exception to this was the Warren Camp in Ohio, which serviced the populations from New Jersey, Maryland, and Delaware that could not be resettled in New York or Pennsylvania. The strongest opposition to resettlement actually came from states that had the smallest number of climate refugees.
+
+## Elections of 2028
+The displacement of tens of millions of refugees from the coasts of the country, regions predominantly more leftist than the interior, caused a political crisis as many right-leaning states found themselves with an surge of voters who tipped the scales in favor of Progressive candidates. Patriot Party voters in these states found the results of these elections unacceptable and almost universally cried fraud. The most visible example of this was with the Gubernatorial elections in Ohio and the Presidential Election which saw Alexandria-Ocasio Cortez not only sweep the Midwest which in the previous election had nearly gone to the Patriot party, but also put a Progressive in the Ohio statehouse.
+
+
+# Aftermath
+The town of Salmon Idaho was abandoned save for a small memorial marking the end of hostilities. The Federal Government occupied much of the midwest for the remainder of the 2030s and suspended the Posse Comitatus Act in order to directly enforce civil rights. Institutional racism was expunged from government at every level over the 2030s, while refugees and new immigrant groups were directly settled in the occupied states to drown out the remaining political influence of white supremacists. Several wartime and post-war constitutional amendments worked to expand voting rights and the government's power to enforce those rights, while new laws and court decisions curtailed gun rights. Prior to the war there were over 400 million firearms in civilian hands. Post-war the number was less than 100 million, largely due to capturing the arms of rebel troops and their stockpiles and the National Firearm Licensing Act.
+
+# Impact
+## Genocide, concentration camps, and slave labor
+The rebel states were responsible for series of human rights abuses and crimes against humanity that ranged from suppression of basic freedoms to acts of genocide. Prior to the war, many of the states that would come under rebel control passed increasingly draconian laws against voting rights and against queer youth, particularly trans youth and their parents, many of whom were forcibly separated prior to the war. During the conflict, many of these states rounded up trans people into concentration camps either to be held as prisoners, used as slave labor, forcibly given hormone therapy to "correct their gender," and near the end of the war outright killed in mass executions. The worst perpetrators of these crimes were the Sovereign Citizens' Alliance, who by the end of the war had perpetrated the industrialized murder of some 700,000 LGBTQIA, non-Christian, and non-white citizens. All told, a total of 1.5 million Americans were killed by the various pretender governments and separatist states, while 4 million people were forced into slave labor or concentration camps of some kind, including many POWs and refugees. Such atrocities and countless of acts of injustice have further inflamed the already immense hatred of many Americans toward many conservatives and the far-right to the boiling point as the war began, one that has been built over the years since 2016 and especially during the 2020s since the 2021 Capitol Riot, when increasing reactionary attitudes are demonstrated by the right in general. During and after the war has saw many act of vengeance against many Republicans who people held as the enablers of the years-long crisis, and the centrist neoliberal conservative Democrats who is complacent and out-out-touch with the matters, as well as against other conservatives, libertarians, fascists, conservative Christians and their organizations, being treats with contempt at best and revenge killing at worse. In fact, the relatively large surge in domestic enlistment that continuously swells the ranks of the military, as well as the increase in leftist, loyalist militias before and during the years of war has been considered to be the result of vindictive attitudes from liberals and progressives. In the many interviews conducted by the Associated Press, it was revealed that many militia fighters and military service-members have friends or loved one that are non-whites, non-Christians, LGBTQIAs, oppositional and loyalist liberals or progressives, and so on, or they just despise the injustice while having no close connections to the people that have either been massacred or not. But there is also a notable amount of soldiers who were actually victims that managed to escape into federal and loyalist territories, making the war a very personal thing to many. This kind of anger has been compared and considered to be even far eclipsed the one seen after 9/11, with many going so far as to compared them to hatred against Germans and Japanese by the Allies during and after World War II.
+
+# Human displacement
+During the war, over 50 million people were displaced from their homes that had not prior been displaced by the Flood.
+```
+
+## Provenance
+
+Raw source: `bronze/pages/3593/11507.wikitext` · revision `11507` · [upstream](https://second-renaissance.fandom.com/wiki/White_Tide)

@@ -1,0 +1,47 @@
+{{Infobox election
+|election_name = United States presidential election, 2156
+|country = United States
+|type = presidential
+|ongoing = no
+| flag_year = 2132
+|previous_election = United States presidential election, 2152
+|previous_year = 2152
+|next_election = United States presidential election, 2160
+|next_year = 2160
+|election_date = November 2, 2156
+| votes_for_election         = All eligible voters who turned out
+| needed_votes               = 51% of votes
+| turnout                    = 83.1%
+|image1 = [[File:Dom_Terragno_Blank.png|121px|border]]
+|nominee1 = '''[[Dom Terragno]]'''
+|party1 = New Progressive
+|home_state1 = [[Earth|Ecuador]]
+|running_mate1 = '''Horace Fitzgerald'''
+|office = 
+|popular_vote1 = '''1,628,073,594'''
+|percentage1 = '''51.1%'''
+|image2 = [[File:Blank_Person.jpg|121px|border]]
+|nominee2 = Dan Jagan
+|party2 = Conservative
+|home_state2 = [[Earth|Guyana]]
+|running_mate2 = Jord Teporis
+|office =
+| popular_vote2 = 1,200,042,522
+| percentage2 = 31.3%
+| image3 = [[File:Blank_Woman.png|121px|border]]
+| nominee3 = Gabriela Scioli
+| party3 = Liberacion
+| home_state3 = [[Earth|Panama]]
+| running_mate3 = Nicolás Istúriz
+| popular_vote3 = 674,784,463
+| percentage3 = 17.6%
+|title = President
+|title = President
+|before_election = [[Ha-eun Zaya]]
+|before_party = Union
+| after_election = [[Dom Terragno]]
+| after_party = New Republican
+}}
+
+The '''United States presidential election of 2156''' was the 93rd quadrennial presidential election. [[Dom Terragno]] won the election.
+[[Category:United States Presidential Elections]]

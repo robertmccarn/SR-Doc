@@ -1,0 +1,3 @@
+#REDIRECT [[Template:Template sandbox heading]]
+
+{{Redr|move|rcon}}

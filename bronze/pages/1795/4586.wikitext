@@ -1,0 +1,13 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = United States Space Force
+| shortname alias = USSF
+| flag alias = Flag_of_the_Space_Force.png
+| border-1879     =
+| border-1957     =
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+
+}}

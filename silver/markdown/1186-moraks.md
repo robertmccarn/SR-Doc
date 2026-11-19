@@ -1,0 +1,37 @@
+---
+page_id: 1186
+revision_id: 11377
+source_url: https://second-renaissance.fandom.com/wiki/Moraks
+raw_sha256: 27ec7c270ca0223ea9dd2251851d84d2caeb82d620b91a377aa976a79a2cfaa3
+---
+
+# Moraks
+
+## Preserved source
+
+```wikitext
+'''Moraks''' or '''''Scuiranthropus lophops''''' are the dominant lifeforms and only known sentient species occupying Beta Hydri d, known as '''[Tu](1668-tu.md)''' to the inhabitants. They are characterized by erect posture, bipedal locomotion and the decorative patterns typical of the males of their species.
+
+# Anatomy and physiology
+Moraks are a sexually dimorphic species, with females standing 1.2 meter in height and males standing a 1.5 meter on average and featuring distinct bright pigment patterns across their bodies. They are bipedal, mammal-like, and have two arms with hands that include four digits on an elongated hand featuring joints at the knuckles and the palm. They feature a smooth sloping nasal bridge and round, partially recessed eyes.
+
+# Society and Structure
+# Evolution
+Although the Moraks resemble Earthly mammals (and were even nicknamed "squirrels" at one point due to their rodent-like features), there are a number of important differences that show the similarity is truly only skin-deep. The distant ancestors of "vertebrates" on Tu resembled Earth's velvet worms more than anything else, and had hydrostatic muscles. Tu's "vertebrates" have hydrocarbon-fortified bones rather than calcium-fortified ones like vertebrates on Earth. As with Earth, Tu underwent numerous mass extinctions before the current dominant clade, the one to which the Moraks belong, rose to prominence.<span> They also do not nurse their young, as mammals do, but feed them with a glandular secretion produced from their mouths.</span> The direct ancestors of the Moraks, like those of humans, were omnivorous plains-dwellers with large brains that had taken up using tools. 
+
+# History
+## Ancient history
+## Cradles of civilization
+The Morak Bronze Age saw the development of cities and civilizations along the interior rivers near the Savivian Sea and the northeastern temperate lowlands around 9000 BCE.
+
+## Little Ice Age (c. 8000 BCE - 3000 BCE).
+## First Contact
+The most developed societies on Tu have reached the Iron age, and have developed feudalistic nations. In 2067 the IV-103 ''Constitution'' arrived at Tu to initiate first contact, however a technical fault with its warp drive resulted in the ship dropping out of warp near a large trojan asteroid (estimated to be roughly the size of Deimos) instead of near the edge of the system. The release of the Constitution's "Bubble Trap" destroyed the asteroid and blew back enough radiation and debris to force the automated Crew Recovery System to deploy the six CRVs. One burn up on entry, another was forced to eject its passengers still in suspended animation. The crew of the Constitution would spend the next three months attempting to contact NASA, who would re-task the IV-101 ''Enterprise'' to rendezvous and assist in repairs and if need be evacuation. The evacuation of the Constitution was observed by the Moraks as a spectacular meteor shower in the remote equatorial grasslands of the major continental mass. The explorers were scattered all of the region, and many were captured by local police, military and religious orders. The bulk of the ship's crew landed in a relatively unpopulated segment of the plains, however, after a lengthy disagreement between various members of the crew and diplomatic corps, First contact was initiated with a nearby town (partly due to the lack of sufficient equipment to extract enough food and water to sustain the crew for an extended period of time). The first deliberate attempt at first contact was fairly well received, despite initial setbacks with the language barrier. The town of Xlemir agreed to host the human explorers in exchange for their services in the summer harvest. It wasn't long after this initial agreement of asylum that the so called [Squirrel Wars](1286-squirrel-wars.md) began.
+
+By the time the Enterprise arrived to aid the Constitution's crew, ten people had died in prison cells or been executed by religious orders. Those in the central grasslands had used their knowledge to build up the pastoral peoples and city states into the largest confederacy on the planet. After they were relieved of their mission, and the Constitution and the Enterprise returned to Earth, NASA began hearings through the First Contact Committee. While the Enterprise's first mission was determined to have followed first contact protocol to the letter, the more open approach of the Constitution was determined to have had a more positive impact on the Morak civilizations.
+[Category:Alien species](1458-category-alien-species.md)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1186/11377.wikitext` · revision `11377` · [upstream](https://second-renaissance.fandom.com/wiki/Moraks)

@@ -1,0 +1,94 @@
+{{Infobox former country
+|conventional_long_name = United Mexican States
+| common_name            = Mexico
+| continent              = North America
+| region                 = Latin America
+| government_type        = Federal presidential constitutional republic
+| image_map              = 
+| image_map_caption      = 
+| image_flag             = Flag_of_Mexico_(2074).png
+| coa_size               = x70px
+| symbol_type            = Coat of Arms
+| symbol                 = Coat of arms of Mexico
+| image_coat             = Coat_of_arms_of_Mexico.png
+| year_start             = 1876
+| year_end               = 2139
+| era                    = 
+|national_motto = 
+|national_anthem = ''Himno Nacional Mexicano''
+|capital = Mexico City
+|largest_city = Mexico City
+|languages = Spanish
+|languages_type = National language
+| event_pre    = Independence from Spain Declared
+| date_pre     = 16 September 1810
+| event_start  = [[Wikipedia:Spanish_American_wars_of_independence#New_Spain_and_Central_America|Independence recognized]]
+| date_start   = 28 December 1836
+| event1       = First constitution
+| date_event1  = 4 October 1824
+| event2       = Second constitution
+| date_event2  = 5 February 1857
+| event3       = Current constitution
+| date_event3  = 5 February 1917
+| event_end    = Treaty of San Juan
+| date_end     = November 19, 2139
+| p1           = Second Mexican Empire
+| image_p1     = [[File:Second_Mexican_Empire_Flag.png|20px|link=]]
+| s1           = United States of America
+| image_s1     = [[File:Flag_of_the_United_States.png|20px|link=]]
+| title_leader = President
+| leader1      = [[Edwin Jaso]]
+| year_leader1 = 2134-2139
+| title_deputy = Vice President
+| deputy1      = 
+| legislature  = Congress
+| house1       = Senate
+| house2       = Chamber of Deputies
+| stat_year1   = 2130
+| stat_area1   = 2406339
+| stat_pop1    = 213142002
+| today        = [[United States of America]]
+| footnotes    = 
+| width        = 265px
+| currency = Peso ($)
+}}'''Mexico''' (Spanish: México, pronounced: [ˈme.xi.ko]), officially the '''United Mexican States''' (Spanish: Estados Unidos Mexicanos) was a federal republic in the southern half of North America. At its height in the 2130s it was bordered to the north by the United States; to the south and west by the Pacific Ocean; to the southeast by Panama and the Caribbean Sea; to the east by the Gulf of Mexico; and during the [[Third Mexican-American War]] claimed most territory of the [[United States of Aztlan|South-Western United States]].
+
+For much of its history, Mexico was on uneasy terms with the United States, facing sporadic armed conflicts early in its history with the [[Wikipedia:Texas Revolution|Texas War]] (c.1835-1836), [[Wikipedia:Mexican Mexican–American War|the First Mexican-American War]] (c.1846-1848), followed by sporadic episodes of peace and revolution preceding the Mexican Golden Age leading to a series of armed conflicts known as the Mexican Wars (c. 2091 - 2139). Mexico also had to deal with hostile Revolutionaries throughout much of its history. After the Third Mexican War ended in 2139 with Mexico's total defeat, U.S. forces occupied the country and, after the Treaty of San Juan, annexed it into the Union. Nearly all of the other Mexican client-states and former Mexican dependencies subsequently fell into American hands.
+
+==History==
+==='''Pre-Columbian Mexico'''===
+The earliest complex civilization in Mexico was the Olmec culture, which flourished on the Gulf Coast from around 1500 BCE. The formative-era of Mesoamerica is considered one of the six independent cradles of civilization.
+
+In Central Mexico, the height of the classic period saw the ascendancy of Teotihuacan, which formed a military and commercial empire whose political influence stretched south into the Maya area as well as north until its collapse around 600 CE.
+
+During the post-classic era came the emergence of the Aztec empire. The Aztec of Central Mexico built a tributary empire covering most of central Mexico, and would fall to Spanish conquest in the 16th century. Over the next centuries Mexican indigenous cultures were gradually subjected to Spanish colonial rule.
+
+==='''Spanish Conquest (1519–1821)'''===
+==='''War of Independence (1810–1821)'''===
+==='''Imperial period (1821-1867)'''===
+==='''Porfiriato (1876–1911)'''===
+==='''Mexican Revolution and one-party rule (1910–2000)'''===
+==='''Economic modernization (2000–2067)'''===
+The Flood did not severely impact Mexican territory, but the changing climate did put additional strains on Mexico's agricultural sector as drought struck the country's north and floods plagued Mexico City. In 2041, Hurricane Elliot led to flooding so severe that the Mexican government called for the Earth Working Group to rebuilt the ancient lakes at the heart of the Valley of Mexico to solve the historic flooding problems that plagued the country's capital and largest city. The project would feature a major urban redevelopment campaign for Mexico city and the surrounding regions impacted by the hurricane in a project that came to be a major symbol of Mexican national pride. Using chronoscope data, Mexican architects with the EW were able to fully restore Tenochtitlan as both a center for tourism, and modern city.
+
+Capital flight from China and Europe, combined with progressive policies towards [[Biotech bubble|biotech research]], gave Mexico the tools for strong economic growth during the 2030s and 40s. The country continued to receive investment and support from the United States in the form of construction loans (which helped spur the development of new infrastructure), and preferential trade deals that eased investment in the country.
+
+During [[World War III]], Mexico remained an important ally of the US, though it did not directly engage the [[Eurasian Coalition|Coalition forces]] during the conflict. Mexico was briefly approached by the Japanese in an attempt to split the Organization of American States. Mexico, however, was quick to reject Japan's petition, and the government made the US aware of the scheme immediately, the administration believing the alliance with the US was too beneficial to risk.
+
+==='''Emergence as a great power (2067-2092)'''===
+By the Refreeze Mexico had supplanted Indonesia, becoming the world's 4th largest economy, largely a result from the biotech sector and the country's adoption of [[Genetic Engineering|new GM crop and fertilization techniques,]] previously only used for terraforming, that helped create a resurgent agriculture sector. Mexico would also be a major player in the [[Biorobotics boom]], benefiting from international technology transfer agreements from the United States.
+
+The country's relationship with the US remained cordial, even after the American ban on military activities in Space from other nations, which Mexico strongly opposed. Mexico's military continued to be a major buyer of American military equipment through the 2070s. The Mexican-American Split ultimately came about after the US reversal of its immigration policy, and the mass deportation of people to Mexico.
+
+==='''Cold War with the United States ([[Tel:2092–2134|2092–2134]])'''===
+{{History of the Mexican-American Cold War}}
+Main Article: [[Mexican-American Cold War]]
+
+During the 2090s and 2110s Mexico began a major military buildup and economic expansion, developing advanced infrastructure and pushing its reach out into space, the first nation to do so since the Third World War. While the creation of a [[Mexican Vacuum Command|military presence in space]] is often the most recognized feature of Mexico effort to counter the US, the country also adopted programs to enhance its economic standing against the US. Mexico became the world's number one producer of [[Android|robotic labor]] by the end of the 21st Century, and aggressively pursued late period free market policies to grow its economy, forming a single free trade zone across Latin America that effectively extended the Mexican economy over the whole of the region.
+
+[[File:Map_of_Mexico_by_CaptainMME45.png|300px|thumb|Mexico during the height of the Mexican-American Cold War.]]
+
+==Economy==
+Prior to the Third Mexican-American War, Mexico had the Earth's second largest economy by nominal GDP and was the world's number one producer of [[Artificial-Intelligence Operating System|AI software]] and consumer robotics. Mexican cybernetics technology had largely surpassed that of the terrestrial United States by the 2090s, though American colonial enterprises were still considered superior to any on Earth, and were only limited by Earth's relatively meager Space-to-Surface commerce infrastructure. Mexico also held a virtual monopoly on neural imprinting technology, and were able to rapidly train its population to outpace the US workforce in their skill-sets. Mexico placed tight controls on this technology and would not allow it to be exported beyond the [[Latin American Union]], though there is evidence to suggest it has been used against political figures around the world during the Mexican-American Cold War.
+[[Category:Former countries in North America]]
+[[Category:Mexico]]

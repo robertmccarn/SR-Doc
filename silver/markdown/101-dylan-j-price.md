@@ -1,0 +1,81 @@
+---
+page_id: 101
+revision_id: 11894
+source_url: https://second-renaissance.fandom.com/wiki/Dylan_J._Price
+raw_sha256: 32ca994ae6ccf0e59f20d0da150c329d82460b227cf00969d28835b700b3b9b1
+---
+
+# Dylan J. Price
+
+## Preserved source
+
+```wikitext
+<br />
+{{Infobox officeholder
+|border
+|name = Dylan James Price
+|image = Dylan_J_Price.png
+|imagesize = 265px
+|deputy2 = 
+|office2 = Governor of California
+|order2 = 41st
+|successor2 = 
+|party = [Democrat](273-political-parties-in-the-united-states.md) <small>(2004–2060)</small><br />[Progress](136-progress-party-united-states.md) <small>(2060-death)</small>
+|office = President of the United States
+|order = [49th](214-president-of-the-united-states.md)
+|predecessor = [Alexandria Ocasio-Cortez](3592-alexandria-ocasio-cortez.md)
+|successor =[Maya Garcia](1262-maya-garcia.md) 
+|vicepresident = [Ivory Toldson](https://second-renaissance.fandom.com/wiki/Ivory_Toldson)
+|birth_date = April 13, 1985
+|birth_place = San Francisco, California, Earth
+|death_date = October 11, 2093 (age 108)
+|death_place = Seattle, Washington, United States, North America, Earth
+|nationality = American
+|spouse = Heidi
+|profession = Lawyer<br />Politician
+|religion = Episcopalianism
+|term_start = January 20th, 2037
+|term_end = January 20th, 2045
+|term_start2 = January, 2027
+|term_end2 = January, 2029}}
+
+'''Dylan James Price''' (November 9, 1985 – 2093) was an American politician who served as the 51st [Vice President](3271-vice-president-of-the-united-states.md) (2029-2037) and 49th [President of the United States](214-president-of-the-united-states.md) (2037–2045). A member of the [Democratic Party](273-political-parties-in-the-united-states.md), Price's would spend most of his presidency continuing with the policies laid out by his predecessor and dealing with the rising power of [Turkey](1423-turkey.md) and [Japan](949-japan.md) against US interests.
+
+During Ocasio-Cortez's second term as president, Price was vice president, and built the organizational structure for the coalescing Progressive Coalition, particularly in California. He was successful in the jockeying to become Ocasio-Cortez's picked successor, and was elected president in 2036. Price faced a few challengers from the [Democratic Party](273-political-parties-in-the-united-states.md) in his presidential bid, but was elected with the nomination of both the Liberal and Farmer-Labor caucuses and most of his fellow Progressives.
+
+# Governor of California (2027–29)
+[thumb|left|2026 California gubernatorial results. (Counties won by Price are in Red)](1352-file-2024-california-governor-s-race-png.md)
+California Progressive Democrats were impressed with Price's political views and charisma after his "Challenge of a Generation" speech, and in early 2026 he announced his campaign for Governor of California in the 2026 gubernatorial election. He defeated incumbent Lieutenant Governor Eleni Kounalakis in the general election, running on a theme of renewal for the state's struggling rural agrarian and urban gig-economy population, calling for new taxes on the wealthy and an aggressive campaign for new affordable housing and transportation infrastructure. His platform was considered to be a state-level version of Bernie Sanders' Presidential platform, which he had largely supported in 2016 and 2020, and also one which are also been implemented in other states by his fellow Progressives at the same time, with [AOC](3592-alexandria-ocasio-cortez.md) in New York as a notable example. In his term, his administration restructured the California Labor and Workforce Development Agency to make use of project management software that had become commonplace among several Silicon Valley based corporations. This software was adopted across the state government over his first year as Governor and significantly reduced government waste while increasing the size of the state workforce. Shortly after the reforms to the administration, Price pushed the state legislature to fund the construction on the Pan-California Hyperloop Network.
+
+In 2024 Price broke with his own party’s neoliberal "Conservative Democrats" and threw his support to Progressive Democrat Nina Turner's aborted run for the Ohio U.S. Senate seat in the election of 2024. In doing this, Price and Ocasio-Cortez would continue their reputation as two of the most outspoken opponents of the Democratic Party neoliberal conservative establishment, which would strengthen their ties as fellow well-known, young and time-changing progressives even further. After the Flood devastated California and government relief efforts floundered, Price was emboldened to run for Governor as a Progressive Democrat in 2026, handily defeating his Liberal Democratic and Republican opponents. His second term saw a greater emphasis on resolving the affordable housing crisis facing his state, and his administration supported a series of new zoning laws that discouraged new suburban developments to reduce housing prices through high-density projects like [Residential malls,](1720-residential-mall.md) that would built near or serve as hubs for the state's hyperloop network. By the time he entered the 2028 Presidential election, California was one of the only states in the Union with no refugee camps.
+
+# Vice Presidency
+TBA
+
+# Presidency
+Price entered office with a growing economy and boosted by the popularity of the AOC administration. Like President Ocasio-Cortez, Price saw the threat the rise of Japan and Turkey presented to the United States and its interests around the world. Price began his administration by pushing to tear down a number of free trade agreements, the US held with the Japanese. Domestically these repeals were quite popular, but the Japanese saw this as a hostile act. The Japanese responded with a round of tariffs on US made products and services in 2038, prompting a trade war between the US and Japan, resulted in a recession. While this has turned the public against the Price administration and create opportunities for the Liberal Democrats and conservatives, it was short live as the nation quickly recovered, regaining public trust for him in general. During the 2038 midterms, the conservative parties only made few gains against Democratic controlled Congressional districts, which clearly proven that coalition government still remained strong. With the loss of the Western Antarctic Ice Sheet, and the President's solid handling of the rising tide, victory was seen as a foregone conclusion in the 2040 general election.
+
+## '''Summer of Storms'''
+At the end of his second term, Price was faced with one of the worst humanitarian crises since the late 2020s. During the summer of 2043, a series of Atlantic hurricanes damaged or destroy many of Europe and America's last remaining sea walls. In the case of Washington DC, President Price ordered the emergency evacuation of the District, organizing the effort from the USS Enterprise after leaving the White House. The US capitol was temporarily relocated to Columbus, Ohio, by order of the President, who was credited for the successful evacuation of the nation's capital with no loss of life, and the securing of billions of dollars in prized artifacts from the Smithsonian. Despite the successful evacuation, billions of dollars in property damage, particularly to Fishing industry equipment was destroyed across the Atlantic, and the British Isles saw the collapse of the London, Belfast, Norfolk, and Dublin Sea Walls, killing 1.5 million people in either the evacuation or the actual collpase.
+
+With millions of people in the North Atlantic displaced, President Price urged Congress to pass emergency relief efforts and even looser restrictions for British refugees seeking asylum in the Untied States. Price handling of the "Summer of Storms," all but guaranteed his supports and popularity that went a very long way in allowing his allies to victories. 
+## '''Immigration Incentives'''
+Price continued the efforts of his predecessor to incentivize new labor to enter the US by crafting policies to attract immigrant labor. In 2038, Congress banned the use of Imperial Units in all Federal-funded programs and financed the conversion to the Metric system and the Celsius temperature system for companies and state governments in order to ease the transition of recent immigrants and attract new ones.
+
+## '''Government reform'''
+Before the 2038 midterms, Price pushed Congress to finally pass the Federal Employment Act which had been languishing in Committee since the beginning of the Price administration. The act would replace the bulk of all management positions within the Federal government (including the Defense Department) with machine learning AIs. In truth, this policy had largely been implemented via executive order over the course of Ocasio-Cortez's administration and well into Price's, the only sticking point remaining was with the military, which had adopted the use Machine Learning AIs  but did not allow the AIs to fire or reassign anyone above the rank of Brigadier General. Price had resolved this by simply carrying out some of the reassignments and early retirements recommended by the manager AIs, but Congress had routinely blocked this measure on the grounds that it gave too much power over to machines. The Democratic party was narrowly able to negotiate passage of the Bill after a combination of compromises that gave senior Generals veto power over the AIs, and a public campaign of support based on the success of implementing similar systems in the Department of Labor, Transportation, Health and Welfare, and Education.
+
+## '''Cybersecurity'''
+Shortly after Price entered office the FBI had uncovered a scandal where several tech companies were being used as fronts by ex-Russian cyberwarfare agents to steal millions of dollars transacted through their users on native devices. The Price administration blamed the "reckless behavior Silicon Valley" for the lapse in security and rallied Congress to push for the 2037 Cybersecurity and Information Protection Act, which placed far stricter guidelines requiring third-party software to be certified before the FCC. This action was hotly opposed by the Conservative party and Libertarian parties as it functionally made it impossible for small businesses to develop new software independently of large companies which had been growing and consolidating defunct developers since the end of the last recession.   
+## '''New Biotech Economic Boom'''
+''Main article: [Biotech bubble](2593-biotech-bubble.md)''
+
+As the needs for more healthcare labor and innovations to take care of the elderly continue to grow, as well as the new space boom and climate change ravaging the planet, the latter which destroyed countless arable lands and fishing sectors across the globe, a great demand was pushed for better technological innovations for terraforming, more resilient crops, animal cloning, healthcare and other medicals. Thus led to more and more various studies and innovations into the bioengineering sectors, particularly genetic engineering, stem cells researches, biotechs and biorobotics. Seeing such potentials, like for [military applications](2774-project-rebirth.md), the Price administration funded billions of dollars into this sector, not only to expand the researches-and-developments but also to create educational encouragements to attract more and more people into this field, boosting its labor pool. At the same time, the government also created incentives for various organizations and businesses if they contributed, innovated and invested. Combined all of these factors with reforms for new public [housings](1720-residential-mall.md) and [transportations](3695-hyperloop.md) since AOC, which make it easier for the government and businesses to buy and expand their facilities and activities, it drove a growth that resulted in an economic boom of a kind never seen since the Dot-Com boom of the 1990s
+# After his presidency
+During the [Third World War](107-world-war-iii.md), Price discussed the political ambitions of his two children while conducting an interview on the wartime conduct of the [Jacobi Administration](317-evalyn-jacobi.md) and the direction of the Progress Party.
+[Category:Presidents of the United States](https://second-renaissance.fandom.com/wiki/Category:Presidents_of_the_United_States)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/101/11894.wikitext` · revision `11894` · [upstream](https://second-renaissance.fandom.com/wiki/Dylan_J._Price)

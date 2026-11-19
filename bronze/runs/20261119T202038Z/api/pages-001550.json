@@ -1,0 +1,2004 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "1613": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3865,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1613,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3865,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:19:12Z"
+          }
+        ],
+        "title": "File:Tel bn Blank.png",
+        "touched": "2017-05-20T17:44:41Z"
+      },
+      "1614": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3866,
+        "length": 138,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:;/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1614,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3866,
+            "slots": {
+              "main": {
+                "*": "&#59;<noinclude>\n\n{{Documentation}}\n<!-- PLEASE ADD THIS TEMPLATE'S CATEGORIES AND INTERWIKIS TO THE /doc SUBPAGE, THANKS -->\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:21:32Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:;/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:;",
+        "touched": "2017-05-20T17:21:32Z"
+      },
+      "1615": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3867,
+        "length": 167,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxonomy/nobreak/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1615,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3867,
+            "slots": {
+              "main": {
+                "*": "<noinclude>{{pp-template|small=yes}}</noinclude>{{#ifexpr:{{Str find|{{{1|}}}|. }}>1|{{str rep|{{{1|}}}|. |.&nbsp;}}|{{{1|}}}}}<noinclude>{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:22:22Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Pp-template"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str find"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxonomy/nobreak/doc"
+          },
+          {
+            "ns": 828,
+            "title": "Module:File link"
+          },
+          {
+            "ns": 828,
+            "title": "Module:No globals"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Protection banner"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "Template:Taxonomy/nobreak",
+        "touched": "2017-10-17T16:44:06Z"
+      },
+      "1616": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3868,
+        "length": 3544,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Anglicise rank/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1616,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3868,
+            "slots": {
+              "main": {
+                "*": "<noinclude><!--Note that #titleparts: is used to replace underscores by spaces before other processing.\n--></noinclude><includeonly>{{#ifeq:{{str_left|{{lc:{{{1}}}}}|8}}|unranked|(unranked)|{{#switch:{{lc:{{#titleparts:{{{1}}}|1}} }}|\n<!--Special cases, alphabetic order-->\n|alliance=''Alliance''\n|basic shell type=''Basic shell type''\n|branch=''Branch''\n|clade|cladus=''Clade''\n|form taxon=''Form taxon''\n|grade|gradus=''Grade''\n|informal|informal group=''Informal group''\n|morphotype=''Morphotype''\n|node=''Node''\n|possible clade=''Clade?''\n|species complex=''Species complex''\n|species group=''Species group''\n|species subgroup=''Species subgroup''\n|stem group=''Stem group''\n|total group=''Total group''\n|virus group=Group\n<!--Linnaean taxonomy, alphabetic order-->\n|classis=Class\n|cohort=Cohort\n|divisio=Division\n|domain=Domain\n|familia=Family\n|forma=Form\n|genus=Genus\n|grandordo|grandordo-mb<!--McKenna & Bell version-->=Grandorder\n|infraclassis=Infraclass\n|infralegio|infralegion=Infralegion\n|infraordo=Infraorder\n|infraphylum=Infraphylum\n|infraregnum=Infrakingdom\n|infratribus=Infratribe\n|legio|legion=Legion\n|magnordo=Magnorder\n|micrordo=Microrder\n|microphylum=Microphylum\n|mirordo|mirordo-mb<!--McKenna & Bell version-->=Mirorder\n|nanordo=Nanorder\n|nanophylum=Nanophylum\n|ordo=Order\n|parafamilia=Parafamily\n|parvordo=Parvorder\n|phylum=Phylum\n|regnum=Kingdom\n|sectio=Section\n|series=Series\n|species=Species\n|subclassis=Subclass\n|subcohort=Subcohort\n|subdivisio=Subdivision\n|subfamilia=Subfamily\n|subgenus=Subgenus\n|sublegio|sublegion=Sublegion\n|subordo=Suborder\n|subphylum=Subphylum\n|subregnum=Subkingdom\n|subsectio=Subsection\n|subspecies=Subspecies\n|subtribus=Subtribe\n|superclassis=Superclass\n|supercohort=Supercohort\n|superdivisio=Superdivision\n|superdomain=Superdomain\n|superfamilia=Superfamily\n|superlegio|superlegion=Superlegion\n|superordo=Superorder\n|superphylum=Superphylum\n|superregnum=Superkingdom\n|supertribus=Supertribe\n|tribus=Tribe\n|varietas=Variety\n|zoodivisio=Division\n|zoosectio=Section\n|zoosubdivisio=Subdivision\n|zoosubsectio=Subsection\n<!--trace fossil taxonomy, alphabetic order-->\n|ichnoclassis=Ichnoclass\n|ichnocohort=Ichnocohort\n|ichnodivisio=Ichnodivision\n|ichnofamilia=Ichnofamily\n|ichnogenus=Ichnogenus\n|ichnograndordo=Ichnograndorder\n|ichnoinfraclassis=Ichnoinfraclass\n|ichnoinfradivisio=Ichnoinfradivision\n|ichnoinfraordo=Ichnoinfraorder\n|ichnolegio|ichnolegion=Ichnolegion\n|ichnomagnordo=Ichnomagnorder\n|ichnomicrordo=Ichnomicrorder\n|ichnoordo=Ichnoorder\n|ichnoparvordo=Ichnoparvorder\n|ichnospecies=Ichnospecies\n|ichnostem-group=Ichnostem-Group\n|ichnosubclassis=Ichnosubclass\n|ichnosubdivisio=Ichnosubdivision\n|ichnosubfamilia=Ichnosubfamily\n|ichnosublegio|ichnosublegion=Ichnosublegion\n|ichnosubordo=Ichnosuborder\n|ichnosuperclassis=Ichnosuperclass\n|ichnosupercohort=Ichnosupercohort\n|ichnosuperfamilia=Ichnosuperfamily\n|ichnosuperordo=Ichnosuperorder\n<!--fossilized egg taxonomy, alphabetic order-->\n|ooclassis=Ooclass\n|oocohort=Oocohort\n|oofamilia=Oofamily\n|oogenus=Oogenus\n|oomagnordo=Oomagnorder\n|oordo=Oorder\n|oospecies=Oospecies\n|oosubclassis=Oosubclass\n|oosubgenus=Oosubgenus\n|oosubspecies=Oosubspecies\n|oosupercohort=Oosupercohort\n|oosuperordo=Oosuperorder\n<!--default is to capitalize first letter and then put calling page in error category-->\n|#default={{ucfirst:{{#titleparts:{{{1}}}|1}} }}{{#ifeq:{{{check|}}}|yes|{{#ifeq:{{#titleparts:{{PAGENAME}}|1}}|Taxonomy|[[Category:Taxonomy templates using unrecognized rank parameters]]}}}}\n}}}}</includeonly><noinclude>{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:22:39Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Anglicise rank/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Anglicise rank",
+        "touched": "2017-05-20T17:22:39Z"
+      },
+      "1617": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3869,
+        "length": 271,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Edit taxonomy/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1617,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3869,
+            "slots": {
+              "main": {
+                "*": "<includeonly><span class='plainlinks' style='font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;'>[[File:Red Pencil Icon.png|link=Template:Taxonomy/{{{1}}}|{{{2|Edit this classification}}}]]</small></includeonly><noinclude>{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:23:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Edit taxonomy/doc"
+          }
+        ],
+        "title": "Template:Edit taxonomy",
+        "touched": "2017-05-20T17:23:37Z"
+      },
+      "1618": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3870,
+        "length": 100,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str rep/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1618,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3870,
+            "slots": {
+              "main": {
+                "*": "{{#invoke:String|replace|source={{{1}}}|{{{2}}}|{{{3}}}|1}}<noinclude>\n{{Documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:23:56Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str rep/doc"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "Template:Str rep",
+        "touched": "2017-05-20T17:23:57Z"
+      },
+      "1619": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3871,
+        "length": 146,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str letter/trim/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1619,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3871,
+            "slots": {
+              "main": {
+                "*": "<noinclude>{{pp-template|small=yes}}</noinclude>{{#invoke:String|match|s={{{1}}}|^%a*|ignore_errors=true}}<noinclude>{{Documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:24:20Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Pp-template"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str letter/trim/doc"
+          },
+          {
+            "ns": 828,
+            "title": "Module:File link"
+          },
+          {
+            "ns": 828,
+            "title": "Module:No globals"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Protection banner"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "Template:Str letter/trim",
+        "touched": "2017-10-17T16:44:06Z"
+      },
+      "1620": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3872,
+        "length": 189,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Remove first word/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1620,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3872,
+            "slots": {
+              "main": {
+                "*": "<noinclude>{{pp-template|small=yes}}</noinclude>{{#invoke:String|replace|source={{{1}}}|pattern=^[^{{{sep|%s}}}]*{{{sep|%s}}}*|replace=|plain=false}}<noinclude>{{Documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:24:39Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Pp-template"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Remove first word/doc"
+          },
+          {
+            "ns": 828,
+            "title": "Module:File link"
+          },
+          {
+            "ns": 828,
+            "title": "Module:No globals"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Protection banner"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "Template:Remove first word",
+        "touched": "2017-10-17T16:44:06Z"
+      },
+      "1621": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Template implementation details"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3873,
+        "length": 1001,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Ar:قالب:Fossil range/marker"
+          },
+          {
+            "ns": 0,
+            "title": "Id:Templat:Rentang fosil/marka"
+          },
+          {
+            "ns": 0,
+            "title": "La:Formula:Fossil range/marker"
+          },
+          {
+            "ns": 0,
+            "title": "Pl:Szablon:Okres istnienia grupy organizmów 2/znacznik"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1621,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3873,
+            "slots": {
+              "main": {
+                "*": "<includeonly><onlyinclude>{{#ifexpr:{{{1}}}-{{{2}}}>5|\n<div style=\"position:absolute; height:8px; left:{{#expr:(650-{{{1}}})/650*220}}px; width:{{#expr:({{{1}}}-{{{2}}})*220/650}}px; background-color:#360; opacity:{{#if:{{{3|}}}|0.{{{3}}}|1}}; \"><!--range-border--></div>\n{{#if:{{{3|}}}||<div style=\"position:absolute; height:6px; top:1px; left:{{#expr:((650-{{{1}}})/650*220)+1}}px; width:{{#expr:(({{{1}}}-{{{2}}})*220/650)-2}}px; background-color:#6c3;\"><!--range-marker--></div>}}\n|<!--else-->\n{{#if:{{{3|}}}||<div style=\"position:absolute; left:{{#expr:(650-{{{1}}})/650*220}}px; font-size:50%\"><!--contains arrow--><div style=\"position:relative; left:-0.42em\"><!--nudges back left-->&darr;</div></div>}}\n}}</onlyinclude></includeonly><noinclude>\n{{pp-template|small=yes}}\n[[Category:Template implementation details]]\n[[ar:قالب:Fossil range/marker]]\n[[id:Templat:Rentang fosil/marka]]\n[[la:Formula:Fossil range/marker]]\n[[pl:Szablon:Okres istnienia grupy organizmów 2/znacznik]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:25:56Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Pp-template"
+          },
+          {
+            "ns": 828,
+            "title": "Module:File link"
+          },
+          {
+            "ns": 828,
+            "title": "Module:No globals"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Protection banner"
+          }
+        ],
+        "title": "Template:Fossil range/marker",
+        "touched": "2017-10-17T16:44:06Z"
+      },
+      "1622": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3874,
+        "length": 149,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxon info/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1622,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3874,
+            "slots": {
+              "main": {
+                "*": "{{#invoke:Autotaxobox|taxonInfo|{{{1|<noinclude>Acacia</noinclude>}}}|{{{2|<noinclude>parent</noinclude>}}}}}<noinclude>{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:26:25Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxon info/doc"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Autotaxobox"
+          }
+        ],
+        "title": "Template:Taxon info",
+        "touched": "2017-05-20T17:26:25Z"
+      },
+      "1623": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Geology templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3875,
+        "length": 1114,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Cambrian"
+          },
+          {
+            "ns": 0,
+            "title": "Carboniferous"
+          },
+          {
+            "ns": 0,
+            "title": "Cretaceous"
+          },
+          {
+            "ns": 0,
+            "title": "Devonian"
+          },
+          {
+            "ns": 0,
+            "title": "Jurassic"
+          },
+          {
+            "ns": 0,
+            "title": "Neogene"
+          },
+          {
+            "ns": 0,
+            "title": "Ordovician"
+          },
+          {
+            "ns": 0,
+            "title": "Paleogene"
+          },
+          {
+            "ns": 0,
+            "title": "Permian"
+          },
+          {
+            "ns": 0,
+            "title": "Precambrian"
+          },
+          {
+            "ns": 0,
+            "title": "Silurian"
+          },
+          {
+            "ns": 0,
+            "title": "Triassic"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Linear-gradient"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Phanerozoic 220px/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1623,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3875,
+            "slots": {
+              "main": {
+                "*": "<div id=\"Timeline-row\" style=\"margin: 4px auto 0; clear:both; width:220px; padding:0px; height:18px; overflow:visible; border:1px #666; border-style:solid none; position:relative; z-index:0; font-size:13px;\">\n<div style=\"position:absolute; height:100%; left:0px; width:{{#expr: {{period start|Cambrian}}/650*250}}px; padding-left:5px; text-align:left; background-color:{{period color|Ediacaran}}; {{linear-gradient|left|rgba(255,255,255,1), rgba(254,217,106,1) 15%, rgba(254,217,106,1)}}\">[[Precambrian|PreЄ]]</div>\n{{fossil range/bar|Cambrian|Є}}\n{{fossil range/bar|Ordovician|O}}\n{{fossil range/bar|Silurian|S}}\n{{fossil range/bar|Devonian|D}}\n{{fossil range/bar|Carboniferous|C}}\n{{fossil range/bar|Permian|P}}\n{{fossil range/bar|Triassic|T}}\n{{fossil range/bar|Jurassic|J}}\n{{fossil range/bar|Cretaceous|K}}\n{{fossil range/bar|Paleogene|<small>Pg</small>}}\n{{fossil range/bar|Neogene|<small>N</small>}}\n<div id=\"end-border\" style=\"position:absolute; height:100%; background-color:#666; width:1px; left:219px\"></div><noinclude>\n</div>\n{{documentation}}\n[[Category:Geology templates|{{PAGENAME}}]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:28:13Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Fossil range/bar"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Linear-gradient"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Period color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Period end"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Period start"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Phanerozoic 220px/doc"
+          }
+        ],
+        "title": "Template:Phanerozoic 220px",
+        "touched": "2017-05-20T17:30:14Z"
+      },
+      "1624": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Template implementation details"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3876,
+        "length": 704,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Ar:قالب:Fossil range/bar"
+          },
+          {
+            "ns": 0,
+            "title": "Bn:টেমপ্লেট:Fossil range/bar"
+          },
+          {
+            "ns": 0,
+            "title": "Id:Templat:Rentang fosil/baris"
+          },
+          {
+            "ns": 0,
+            "title": "Ko:틀:화석 시기/막대"
+          },
+          {
+            "ns": 0,
+            "title": "La:Formula:Fossil range/bar"
+          },
+          {
+            "ns": 0,
+            "title": "Pl:Szablon:Okres istnienia grupy organizmów 2/wykres"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1624,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3876,
+            "slots": {
+              "main": {
+                "*": "<includeonly><onlyinclude><div style=\"position:absolute; height:100%; text-align:center; background-color:{{period color|{{{1}}}}}; left:{{#expr:(650-{{period start|{{{1}}}}})/650*220}}px; width:{{#expr: ({{period start|{{{1}}}}}-{{period end|{{{1}}}}})/650*220}}px;\">[[{{{1}}}|{{{2}}}]]</div></onlyinclude></includeonly>\n\n[[Category:Template implementation details|{{PAGENAME}}]]<noinclude>\n{{pp-template|small=yes}}\n<!-- interwiki below this point-->\n[[ar:قالب:Fossil range/bar]]\n[[bn:টেমপ্লেট:Fossil range/bar]]\n[[ko:틀:화석 시기/막대]]\n[[id:Templat:Rentang fosil/baris]]\n[[la:Formula:Fossil range/bar]]\n[[pl:Szablon:Okres istnienia grupy organizmów 2/wykres]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:28:43Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Pp-template"
+          },
+          {
+            "ns": 828,
+            "title": "Module:File link"
+          },
+          {
+            "ns": 828,
+            "title": "Module:No globals"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Protection banner"
+          }
+        ],
+        "title": "Template:Fossil range/bar",
+        "touched": "2017-10-17T16:44:06Z"
+      },
+      "1625": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3877,
+        "length": 6714,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Period color/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1625,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3877,
+            "slots": {
+              "main": {
+                "*": "{{#switch:{{lc:{{{1}}}}}\n|phanerozoic=rgb(111,218,237)\n |cenozoic=rgb(246,236,57)\n |quaternary=rgb(254,246,145)\n  |tertiary=rgb(242,249,2)\n   |neogene=rgb(254,221,45)\n    |holocene=rgb(254,241,224)\n    |pleistocene=rgb(254,239,184)\n     |upper pleistocene|tarantian=rgb(254,241,214)\n     |middle pleistocene|ionian=rgb(254,240,204)\n     |calabrian=rgb(254,239,193)\n     |gelasian=rgb(254,238,173)\n    |pliocene=rgb(254,248,166)\n     |piacenzian=rgb(254,250,200)\n     |zanclean=rgb(254,249,189)\n    |miocene=rgb(254,239,0)\n     |messinian=rgb(254,245,135)\n     |tortonian=rgb(254,244,125)\n     |serravallian=rgb(254,244,114)\n     |langhian=rgb(254,243,102)\n     |burdigalian=rgb(254,242,89)\n     |aquitanian=rgb(254,241,77)\n   |paleogene|palæogene|palaeogene=rgb(254,161,99)\n    |oligocene=rgb(254,195,134)\n     |chattian=rgb(254,228,178)\n     |rupelian=rgb(254,217,162)\n    |eocene=rgb(254,185,121)\n     |priabonian=rgb(254,207,167)\n     |bartonian=rgb(254,196,152)\n     |lutetian=rgb(254,185,138)\n     |ypresian=rgb(254,174,125)\n    |paleocene|palæocene|palaeocene=rgb(254,173,110)\n     |thanetian=rgb(254,195,125)\n     |selandian=rgb(254,194,116)\n     |danian=rgb(254,184,114)\n |mesozoic=rgb(7,202,234)\n  |cretaceous=rgb(111,200,107)\n  |late cretaceous|upper cretaceous=rgb(166,212,104)\n   |maastrichtian=rgb(243,242,156)\n   |campanian=rgb(234,237,147)\n   |santonian=rgb(222,231,138)\n   |coniacian=rgb(209,227,130)\n   |turonian=rgb(195,223,121)\n   |cenomanian=rgb(181,218,113)\n  |early cretaceous|lower cretaceous=rgb(126,205,116)\n    |albian=rgb(205,229,168)\n    |aptian=rgb(191,225,159)\n    |barremian=rgb(175,221,151)\n    |hauterivian=rgb(158,215,142)\n    |valanginian=rgb(141,210,133)\n    |berriasian=rgb(124,206,124)\n  |jurassic=rgb(0,187,231)\n   |late jurassic|upper jurassic=rgb(151,227,250)\n    |tithonian=rgb(207,240,252)\n    |kimmeridgian=rgb(189,235,251)\n    |oxfordian=rgb(171,231,251)\n   |mid jurassic|middle jurassic=rgb(52,209,235)\n    |callovian=rgb(174,230,240)\n    |bathonian=rgb(156,226,239)\n    |bajocian=rgb(135,222,238)\n    |aalenian=rgb(111,218,237)\n   |early jurassic|lower jurassic=rgb(0,183,234)\n    |toarcian=rgb(116,209,240)\n    |pliensbachian=rgb(60,201,239)\n    |sinemurian=rgb(7,193,237)\n    |hettangian=rgb(0,187,235)\n  |triassic=rgb(153,78,150)\n   |late triassic|upper triassic=rgb(198,152,194)\n    |rhaetian=rgb(232,194,216)\n    |norian=rgb(221,180,209)\n    |carnian=rgb(209,166,201)\n   |mid triassic|middle triassic=rgb(191,124,177)\n    |ladinian=rgb(212,146,189)\n    |anisian=rgb(201,134,182)\n   |lower triassic|early triassic=rgb(173,87,154)\n    |olenekian=rgb(194,106,165)\n    |induan=rgb(184,97,160)\n |palæozoic|paleozoic|palaeozoic=rgb(146,195,160)\n  |permian=rgb(247,88,60)\n   |late permian|upper permian|lopingian=rgb(254,175,151)\n    |changhsingian=rgb(254,198,179)\n    |wuchiapingian=rgb(254,187,165)\n   |middle permian|mid permian|guadalupian=rgb(254,131,103)\n    |capitanian=rgb(254,163,138)\n    |wordian=rgb(254,152,126)\n    |roadian=rgb(254,142,114)\n   |early permian|lower permian|cisuralian=rgb(247,110,84)\n    |kungurian=rgb(239,148,127)\n    |artinskian=rgb(239,138,116)\n    |sakmarian=rgb(239,128,106)\n    |asselian=rgb(240,119,95)\n  |carboniferous=rgb(63,174,173)\n   |upper carboniferous|pennsylvanian=rgb(138,198,195)\n    |upper pennsylvanian=rgb(189,208,196)\n     |gzhelian=rgb(203,213,205)\n     |kasimovian=rgb(187,209,205)\n    |middle pennsylvanian|mid pennsylvanian=rgb(157,202,196)\n     |moscovian=rgb(174,205,196)\n    |lower pennsylvanian=rgb(119,194,195)\n     |bashkirian=rgb(138,198,195)\n   |lower carboniferous|mississippian=rgb(97,157,126)\n    |upper mississippian=rgb(187,192,130)\n     |serpukhovian=rgb(200,194,129)\n    |middle mississippian=rgb(155,185,131)\n     |visean=rgb(171,188,130)\n    |lower mississippian=rgb(122,178,132)\n     |tournaisian=rgb(138,181,132)\n  |devonian=rgb(221,150,81)\n   |upper devonian|late devonian=rgb(244,224,169)\n    |frasnian=rgb(243,235,204)\n    |famennian=rgb(244,234,185)\n   |middle devonian|mid devonian=rgb(246,200,122)\n    |givetian=rgb(245,222,148)\n    |eifelian=rgb(245,211,134)\n   |lower devonian|early devonian=rgb(239,176,99)\n    |emsian=rgb(236,207,135)\n    |pragian|praghian=rgb(238,197,123)\n    |lochkovian=rgb(238,186,110)\n  |silurian=rgb(166,223,197)\n   |latest silurian|pridoli=rgb(228,242,230)\n   |late silurian|upper silurian|ludlow=rgb(180,229,219)\n    |ludfordian=rgb(212,238,230)\n    |gorstian=rgb(195,234,230)\n   |middle silurian|mid silurian|wenlock=rgb(164,224,208)\n    |homerian=rgb(197,233,219)\n    |sheinwoodian=rgb(182,228,208)\n   |lower silurian|early silurian|llandovery=rgb(126,215,198)\n    |telychian=rgb(180,229,219)\n    |aeronian=rgb(164,224,208)\n    |rhuddanian=rgb(147,219,198)\n  |ordovician=rgb(0,169,138)\n   |upper ordovician|late ordovician=rgb(94,204,169)\n      |hirnantian=rgb(149,218,188)\n      |katian=rgb(129,214,188)\n      |sandbian=rgb(114,208,169)\n   |middle ordovician|mid ordovician=rgb(0,189,151)\n      |darriwilian=rgb(53,201,178)\n      |dapingian=rgb(18,197,169)\n   |lower ordovician|early ordovician|tremadoc|ashgill=rgb(0,175,137)\n      |floian=rgb(0,186,160)\n      |tremadocian=rgb(0,182,152)\n  |cambrian=rgb(129,170,114)\n   |furongian|cambrian series 4|series 4=rgb(173,221,168)\n      |cambrian stage 10|stage 10=rgb(229,241,209)\n      |jiangshanian|cambrian stage 9|stage 9=rgb(216,236,198)\n      |paibian=rgb(202,231,188)\n   |cambrian series 3|series 3|middle cambrian|mid cambrian=rgb(161,207,155)\n      |guzhangian=rgb(204,221,184)\n      |drumian=rgb(191,216,173)\n      |cambrian stage 5|stage 5=rgb(178,212,163)\n   |cambrian series 2|lower cambrian|series 2=rgb(149,194,143)\n      |cambrian stage 4|stage 4=rgb(180,203,160)\n      |cambrian stage 3|stage 3=rgb(165,198,151)\n   |terreneuvian|cambrian series 1|series 1=rgb(138,181,132)\n      |cambrian stage 2|stage 2=rgb(168,189,147)\n      |fortunian|cambrian stage 1|stage 1=rgb(154,186,139)\n   |early cambrian=rgb(159,184,133)<!--Unofficial! -->\n|precambrian=rgb(254,91,113)\n |proterozoic=rgb(254,76,104)\n  |neoproterozoic=rgb(254,183,87)\n   |ediacaran=rgb(254,214,123)\n   |cryogenian=rgb(254,204,111)\n   |tonian=rgb(254,194,98)\n  |mesoproterozoic=rgb(254,184,114)\n   |stenian=rgb(254,217,162)\n   |ectasian=rgb(254,206,148)\n   |calymmian=rgb(254,195,134)\n  |paleoproterozoic|palaeoproterozoic|palæoproterozoic=rgb(254,91,113)\n   |statherian=rgb(254,134,161)\n   |orosirian=rgb(254,123,148)\n   |rhyacian=rgb(254,112,135)\n   |siderian=rgb(254,101,123)\n |archean=rgb(254,0,124)\n   |neoarchean=rgb(254,166,186)\n   |mesoarchean=rgb(254,124,163)\n   |paleoarchean|palæoarchean|palaeoarchean=rgb(254,91,151)\n   |eoarchean=rgb(238,0,125)\n |hadean=rgb(203,3,129)\n}}<noinclude>\n{{documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:29:41Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Period color/doc"
+          }
+        ],
+        "title": "Template:Period color",
+        "touched": "2017-05-20T17:29:41Z"
+      },
+      "1626": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3884,
+        "length": 0,
+        "ns": 6,
+        "pageid": 1626,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3878,
+            "revid": 3884,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:44:14Z"
+          }
+        ],
+        "title": "File:Status iucn3.1 LC.svg",
+        "touched": "2017-06-08T15:17:14Z"
+      },
+      "1627": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3879,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1627,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3879,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:34:58Z"
+          }
+        ],
+        "title": "File:Status iucn2.3 CR.svg",
+        "touched": "2017-05-20T17:34:58Z"
+      },
+      "1628": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3880,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1628,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3880,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:38:12Z"
+          }
+        ],
+        "title": "File:Status iucn2.3 CD.svg",
+        "touched": "2017-05-20T17:38:12Z"
+      },
+      "1629": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3881,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1629,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3881,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:38:56Z"
+          }
+        ],
+        "title": "File:Status iucn2.3 blank.svg",
+        "touched": "2017-05-20T17:38:57Z"
+      },
+      "1630": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3882,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1630,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3882,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:39:27Z"
+          }
+        ],
+        "title": "File:Status iucn2.3 VU.svg",
+        "touched": "2017-05-20T17:44:59Z"
+      },
+      "1631": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3883,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1631,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3883,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:40:02Z"
+          }
+        ],
+        "title": "File:Status iucn2.3 EN.svg",
+        "touched": "2017-05-20T17:40:02Z"
+      },
+      "1632": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3887,
+        "length": 46,
+        "new": "",
+        "ns": 0,
+        "pageid": 1632,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3887,
+            "slots": {
+              "main": {
+                "*": " #REDIRECT [[Wikipedia:Endangered species]]\n ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:46:20Z"
+          }
+        ],
+        "title": "Endangered species",
+        "touched": "2017-05-20T17:46:20Z"
+      },
+      "1633": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3888,
+        "length": 34,
+        "new": "",
+        "ns": 0,
+        "pageid": 1633,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3888,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Extinction]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:47:12Z"
+          }
+        ],
+        "title": "Extinction",
+        "touched": "2017-05-20T17:47:13Z"
+      },
+      "1634": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3889,
+        "length": 43,
+        "new": "",
+        "ns": 0,
+        "pageid": 1634,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3889,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Extinct in the Wild]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:47:24Z"
+          }
+        ],
+        "title": "Extinct in the Wild",
+        "touched": "2017-05-20T17:47:24Z"
+      },
+      "1635": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3890,
+        "length": 53,
+        "new": "",
+        "ns": 0,
+        "pageid": 1635,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3890,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Critically endangered species]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:47:36Z"
+          }
+        ],
+        "title": "Critically endangered species",
+        "touched": "2017-05-20T17:47:36Z"
+      },
+      "1636": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3891,
+        "length": 37,
+        "new": "",
+        "ns": 0,
+        "pageid": 1636,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3891,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:IUCN Red List]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:47:58Z"
+          }
+        ],
+        "title": "IUCN Red List",
+        "touched": "2017-05-20T17:47:59Z"
+      },
+      "1637": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5308,
+        "length": 3689,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Earth"
+          },
+          {
+            "ns": 0,
+            "title": "Earth Working Group"
+          },
+          {
+            "ns": 0,
+            "title": "Mars"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "Venus"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1637,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5307,
+            "revid": 5308,
+            "slots": {
+              "main": {
+                "*": "The '''Earth Climate Restoration Effort,''' more commonly known as the '''Refreeze,''' was a geoengineering project to reverse the effect of Anthropological Climate Change on the [[Earth]], that began in 2045. The [[Earth Working Group]] initiated the project in response to the disastrous effects of [[the Flood]], which resulted in coastal flooding, heat-waves and drought, and more intense storm seasons. The EWG organized several projects under the Restoration Effort to reduce global greenhouse emissions, temperatures and sea-levels in the hopes of reaching environmental equilibrium, using techniques developed in the terraforming efforts on human colonies.\n\n==History==\n==='''Founding of the EWG'''===\nIn 2045, the Earth Working Group was founded by a consortium of businesses, smaller NGOs and private individuals aimed at repairing Earth's ecosystem. They believed that the same technology and skill used to terraform [[Mars]] and [[Venus]] could also be used at repairing Earth's biosphere.\n\n==='''Polar restoration'''===\nIn 2054 the EWG positioned Mars Solar Reflectors in Earth Polar Orbit in a geoengineering project to return global temperatures, and by extent sea and ice levels, to what they were in the year 2000. The solar reflectors functionally blocked out the sun from heating the Earth's poles, reducing temperatures sufficiently to return the polar caps to their pre-Anthropocene extent. Only the southern tip of the Greenland Ice Sheet could not be recovered, as it was a remnant of the North American Glacier of the last Ice Age. Rather, temperatures were low enough to keep snow on the ground.\n\n==='''Aral Sea Project'''===\n==='''Sahara Ecoregion Project'''===\nThe most ambitious geoengineering project of the EWG was the '''Sahara Ecoregion Project''' which sought to convert much of the Sahara desert into grasslands and forests for Carbon sequestration.\n\n===='''Mega-lake restoration'''====\nIn 2047, the EWG began dredging out the ancient basins of the Sahara desert to serve as a series of inland seas, rivers, and lakes. Autonomous construction robots generated temporary dams and aqueducts to pump billions of tons of water into the new bodies of the Sahara. Other machines not only dredged the sand from the basins, but compacted them into harder floors when necessary to reduce erosion. However, the majority of the excavated Sand was compacted and sintered into tuff to build up hills and existing mountain ranges to provide wind-breaks and protected sources for reservoirs and glaciers to feed new river systems.\n===='''Great Green Walls'''====\nThe leaders of the EWG believed that strategically planting trees would reduce wind velocity and lessen evaporation of moisture from the soil. By 2055, 800 million trees had been planted across the Sahara.\n\n==='''Aquifer restoration'''===\nClimate change opened up new areas of farmland in the Northern Hemisphere that proved to be critical to maintaining global food production. However, it accelerated the depletion of the world's reservoirs. The Ogallala Aquifer had been nearly depleted by the middle of the century with recharge efforts unable to keep up with demand, while the Canadian aquifers had seen their use triple. Natural restoration would not be possible for another 6000 years, and thus the EWG initiated a long-term program to deposit fresh water into depleted aquifers and accelerate rainfall where possible. Local governments had already been attempting to recharge or at least slow the consumption of local aquifers for decades, and made additional efforts to import fresh water from northern sources where farming was still not practical.\n\n==='''Rewilding'''===\n[[Category:21st Century]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-25T15:14:50Z"
+          }
+        ],
+        "title": "The Refreeze",
+        "touched": "2017-08-25T15:14:50Z"
+      },
+      "1638": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3893,
+        "length": 43,
+        "new": "",
+        "ns": 0,
+        "pageid": 1638,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3893,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Conservation status]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:48:37Z"
+          }
+        ],
+        "title": "Conservation status",
+        "touched": "2017-05-20T17:48:37Z"
+      },
+      "1639": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3895,
+        "length": 42,
+        "new": "",
+        "ns": 0,
+        "pageid": 1639,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3895,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Vulnerable species]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:49:42Z"
+          }
+        ],
+        "title": "Vulnerable species",
+        "touched": "2017-05-20T17:49:42Z"
+      },
+      "1640": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3896,
+        "length": 45,
+        "new": "",
+        "ns": 0,
+        "pageid": 1640,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3896,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Critically endangered]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:50:06Z"
+          }
+        ],
+        "title": "Critically endangered",
+        "touched": "2017-05-20T17:50:18Z"
+      },
+      "1641": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3897,
+        "length": 38,
+        "new": "",
+        "ns": 0,
+        "pageid": 1641,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3897,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Data Deficient]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:50:12Z"
+          }
+        ],
+        "title": "Data Deficient",
+        "touched": "2017-05-20T17:50:12Z"
+      },
+      "1642": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3898,
+        "length": 46,
+        "new": "",
+        "ns": 0,
+        "pageid": 1642,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3898,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Conservation Dependent]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:50:24Z"
+          }
+        ],
+        "title": "Conservation Dependent",
+        "touched": "2017-05-20T17:50:24Z"
+      },
+      "1643": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3899,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1643,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3899,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:54:44Z"
+          }
+        ],
+        "title": "File:Red Pencil Icon.png",
+        "touched": "2017-06-08T15:17:14Z"
+      },
+      "1644": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3900,
+        "length": 42,
+        "new": "",
+        "ns": 0,
+        "pageid": 1644,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3900,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Taxonomy (biology)]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:55:27Z"
+          }
+        ],
+        "title": "Taxonomy (biology)",
+        "touched": "2017-05-20T17:55:27Z"
+      },
+      "1645": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3901,
+        "length": 45,
+        "new": "",
+        "ns": 0,
+        "pageid": 1645,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3901,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Binomial nomenclature]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-20T17:55:39Z"
+          }
+        ],
+        "title": "Binomial nomenclature",
+        "touched": "2017-05-20T17:55:39Z"
+      },
+      "1649": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3922,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1649,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3922,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-27T23:12:09Z"
+          }
+        ],
+        "title": "Message Wall:70.212.134.71",
+        "touched": "2017-05-27T23:12:11Z"
+      },
+      "1650": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3923,
+        "length": 735,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Donald Trump"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1650,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3923,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Donald Trump]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-27T23:12:10Z"
+          }
+        ],
+        "title": "Thread:70.212.134.71/@comment-22439-20170527231210",
+        "touched": "2023-01-06T16:29:21Z"
+      },
+      "1651": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century conflicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Countries in Asia"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Arch of Reunification.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:DMZ.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Korea Map.png"
+          }
+        ],
+        "lastrevid": 8584,
+        "length": 9497,
+        "links": [
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1651,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8023,
+            "revid": 8584,
+            "slots": {
+              "main": {
+                "*": "[[File:Korea_Map.png|thumb|upright|Map showing the division of [[Wikipedia:North Korea|North]] and [[Wikipedia:South Korea|South Korea]] until 2031.]]\n\n[[File:Arch_of_Reunification.jpg|thumb|200px|upright|Arch of Reunification]]\n\n[[File:DMZ.jpg|thumb|200px|right|[[Wikipedia:Korean Demilitarized Zone|Korean DMZ]], literal and historic symbol of the animosity between North and South Korea.]]\n\nKorean reunification was a process that began in 2029 in which North Korea (occupied by South Korea) and the Republic of Korea (South Korea) began reducing economic and political barriers in the Korean Peninsula to eventually lead to a reunited Korea. The end of the unification process is officially referred to as Korean Reunification, celebrated on 11 February, 2031 (Korean Unity Day). Following Korean Reunification, Seoul was once again designated as the capital of united Korea.\n\nThe North Korean regime started to falter in December 2026, when China ended foreign aide to North Korea to shore up their own food supplies in the face of the Famine of 2027. North Korea responded with nuclear threats against China and South Korea, leading to incread tensions in the region. In an effort to preserve their power, the Kim regime purged many high-ranking officials. declared open rebellion and coast-lying villages saw thousands of North Koreans fleeing by boat to China, South Korea, and Japan. Following a year-long attempt to control the situation, Supreme Leader Kim Jong-un was assassinated and the country fell into a state of civil unrest. This led to an international intervention by the US, Japan, and South Korea (among others), which led to the negotiations between the DPRK and ROK that culminated in a Unification Treaty. The actual process of reunifying, however, would ultimately take decades only really ending with the outbreak of the [[World War III|Third World War]].\n\nThe united Korea is considered to be the enlarged continuation of the South's republic and not a successor state, just like the reunited Germany back in 1990 was considered the enlarged continuation of West Germany's federal republic. As such, it retained all of South Korea's memberships in international organizations including the Trans-Pacific Partnership, while automatically relinquishing membership in international organizations to which only North Korea belonged.\n\n\n==History==\n==='''North Korean Civil War'''===\nSupreme Leader Kim Jong-Un attempted to wrest control of the situation by having the navy blockade the coasts and the army step up patrols along the DMZ and threatening China and the US with nuclear attack in exchange for aide. To preserve their power, the Kim dynasty purged many high-ranking officials. By the winter of 2026, the North Korean military began to see mass defections, and reports of cannibalism among the peasants lead to infighting among military leaders in Pyongyang. On 12 February, 2028, Kim Jong-un was assassinated by soldiers marching in a military Parade. General Pak Yong-sik promptly declared Marshal Law and ordered the assassins executed, but rival generals and admirals began making their own declarations as Supreme Leader, leading to more infighting and sending the country's nuclear stockpile into question. An international task force of 40 countries was organized to restore order following an emergency summit of the United Nations in which 3 separate DPRK delegations all claimed to control the country's nuclear arsenal.\n\nUS, and South Korean land forces made up the brunt of International Peacekeeping Force, while Japan contributed naval and air power early in the conflict and ground troops shortly after the initial invasion. Pyongyang was secured on March 29, 2029 by South Korean forces. US and Japanese governments agreed to provide naval and air cover for the South Koreans as well as their own forces, but avoided taking out anything other than critical military targets and securing the nation's nuclear arsenal. A civilian government was hastily organized by the DPRK bureaucracy and the remaining military forces in the capital to commence negotiations with the South for reunification in exchange for immediate international aide. International forces liberated the six known labor camps, and discovered dozens of unreported mines and factories using slave labor. The reports of starvation and cannibalism were revealed to be not nearly as severe as the situation was discovered to be, and it was estimated that some 11 million North Koreans starved to death in the famine of 2027, which continued well into 2029. The audacity led to an outcry of international support and charitable donations. Japan and the US both agreed to hand off occupation duties to the South, now united, Korean military after removing and disabling DPRK nuclear stockpiles and facilities.\n\n==='''Early attempts at unification'''===\nAfter the Reunification treaty, Koreans on both sides began attempting to cross the border to reunite long separated families. Free travel was still somewhat restricted while EOD teams began the laborious process of clearing the DMZ of remaining landmines. UN and South Korean humanitarian aide stations established a program to allow families from the North to join those in the South, shifting the care taking responsibility onto the populous. These first months of reunification were defined by images of families separated by decades reuniting, humanitarian efforts to feed a nation of 15 million starving people, and an occupation that was largely reduced to disarming the former North Korean military. The US and Japan continued to provide naval and aerial reconnaissance support for the Koreans until 2031, when Reunification was officially put into effect. The 2031 Reunification declaration was based on disarmament guidelines, the creation of a unified Korean command structure, and the return of free travel between North and South.\n\nWithin days of Reunification and the restoration, a mass exodus of those in the North began streaming into the South, and Southern businesses began moving North to capitalize on new markets and territory. Southern Agribusiness began setting up new farmland and manufacturing centers, while South Korean startups began moving to Pyongyang to take advantage of the 5 year tax break for Korean companies that invested in the North. For the former communist dictatorship's residents, this infusion of capital was a welcome relief. Unfortunately, many who had fled to the South after the free travel returned, began looking for handouts and placed a massive burden on the Korean welfare system. Problems also emerged in the North as former DPRK military and police forces who still expected to be treated like kings among their own people were caught demanding bribes and favors from the new businesses. Few police and military forces would join the retraining program set up by the government in Seoul, and many simply retired and used their decades of military training to organize a take-over of the Korean Mafia. Organized crime in the North began to deter businesses from relocating there, and foreign businesses began threatening to withdraw interest in the region.\n\nSouth Korea's government expanded its massive social welfare and public works program to improve the quality of life in the North, discourage organized crime, and address the problem of homelessness in the South from former DPRK citizens. By 2037, South Korea's development program for the North was costing the country so much that they were forced to privatize a number of public services to reduce the strain on the treasury. Private healthcare and retirement services were introduced while funding was cut for public health and pension programs. Despite these early efforts, the South's economy continued to decline under the weight of the North's economic and criminal problems.\n\n==='''World War III'''===\nAs Japan began to impose a more tangible threat to the Korean peninsula, the US began offering military and financial assistance to Korea. This buildup of the military provided much needed economic relief, but also united the country in a way that previous attempts never had been able to. The Korean government reopened North Korean military facilities and factories, drove southern experts north to manage the creation of a wartime economy, and brought the country together with a propaganda campaign designed by Hwang Sye-kyun, a former North Korean propaganda artist. Japan's invasion galvanized this effort, and unified Koreans against a common enemy like they had not seen in a century. In an irony of history, the national capital was temporarily relocated to Pyongyang after the Japanese took Seoul.\n\nAfter the war, the US-funded reconstruction effort led to a post-war economic boom, made stronger by a more integrated nation. The northern half of the country remains much more rural than the southern half, and while Pyongyang has grown to be a major metropolitan hub, Seoul remains the political and economic core of the country. Postwar Korea benefited from its proximity to China and Pacific Russia and a relationship with America that kept it a major trade hub. Today, Korea has suffered much like the rest of the world due to automation, but it has an aging population that helped build a stronger social safety net that made things tolerable. In terms of their role in the global economy, they resemble 21st century Finland. \n[[Category:Countries in Asia]]\n[[Category:21st-century conflicts]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-10-15T21:20:06Z"
+          }
+        ],
+        "title": "Korean reunification",
+        "touched": "2019-03-02T15:16:40Z"
+      },
+      "1652": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6077,
+        "length": 19,
+        "ns": 6,
+        "pageid": 1652,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3926,
+            "revid": 6077,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:39:02Z"
+          }
+        ],
+        "title": "File:Flag of South Korea.png",
+        "touched": "2018-10-19T16:04:14Z"
+      },
+      "1653": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6065,
+        "length": 19,
+        "ns": 6,
+        "pageid": 1653,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3927,
+            "revid": 6065,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:34:36Z"
+          }
+        ],
+        "title": "File:Flag of North Korea.png",
+        "touched": "2018-10-19T16:04:14Z"
+      },
+      "1654": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6098,
+        "length": 19,
+        "ns": 6,
+        "pageid": 1654,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3928,
+            "revid": 6098,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:44:46Z"
+          }
+        ],
+        "title": "File:Flag of the Worker-Peasant Red Guards.png",
+        "touched": "2018-01-21T17:11:20Z"
+      },
+      "1655": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3929,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1655,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3929,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-28T17:51:45Z"
+          }
+        ],
+        "title": "File:Emblem of the Korean People's Army.png",
+        "touched": "2018-01-21T17:11:20Z"
+      },
+      "1656": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3931,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1656,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3931,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-28T18:10:31Z"
+          }
+        ],
+        "title": "File:Korean War.png",
+        "touched": "2018-11-11T17:38:30Z"
+      },
+      "1657": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3935,
+        "length": 38,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Korean War (2017–2021)"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 1657,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3935,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Korean War (2017–2021)]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-28T18:30:38Z"
+          }
+        ],
+        "title": "Korean War (2017–2019)",
+        "touched": "2017-12-19T15:38:39Z"
+      },
+      "1658": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3939,
+        "length": 449,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1658,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3939,
+            "slots": {
+              "main": {
+                "*": "May I ask if I could assist in making the 8th Planetary Commonwealth (assuming it's Uranus) and fleshing it out?\n\nhttp://second-renaissance.wikia.com/wiki/U.S._planetary_commonwealth\n\nbecause according to this there are 7 planetary commonwealths despite the US main page saying there are 8 Planetary commonwealths. And I'd really like to contribute (asides from presidents thing). <ac_metadata title=\"The 8th Planetary Commonwealth\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-05-28T20:21:18Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170528202118",
+        "touched": "2017-05-28T20:21:18Z"
+      },
+      "1659": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:22nd Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Timeline"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3974,
+        "length": 5632,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1659,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3972,
+            "revid": 3974,
+            "slots": {
+              "main": {
+                "*": "The '''Second Renaissance''' was a period in human history beginning in the late 21st Century, regarded as the cultural bridge between the Terran Dark Ages and modern history. It started as a cultural movement on Mars in the Late Colonial period and later spread to the rest of the Solar System, marking the beginning of the Early Modern Age.\n\nThe Second Renaissance began in New Virginia, in the late 21st century. Various theories have been proposed to account for its origins and characteristics, focusing on a variety of factors including the social and civic peculiarities of New Virginia at the time: its political structure; the patronage of its founders, and the migration of educated Terran to Mars following the opening of the planet to mass colonization. Other major centers were out colonies such as Callisto, Titan, and Triton. The Second Renaissance did not reach Earth until after the [[Third Mexican-American War]].\n\n==Origins==\nMany argue that the ideas characterizing the Second Renaissance had their origin in late 21st-century New Virginia, with particular regard to the region's impact on art and culture. Some writers date the Second Renaissance quite precisely, often dating its origin at 2091 with the competition to build the Admonitions district of New Richmond between rival architects; while others see the start date as following the end of the Third Mexican War. Yet it remains much debated why the Second Renaissance began on Mars, and why it began when it did. Accordingly, several theories have been put forward to explain its origins.\n\nDuring the Second Renaissance, the Quantum Economic Model provided humans limitless time and resources to pursue creative enterprises. Artists no longer depended on patrons and could pursue their interests freely, however political leaders and elders were essential to fostering the large scale architecture and design projects that came to define the Second Renaissance. Wealth was brought to Mars by uniting the Quantum Economic Model across the Solar System.\n\nAlaska T. Chen defined the 22nd-century Renaissance on Earth as a period in Humanity's cultural history that represented a break from the Terran Dark Ages, creating a modern understanding of humanity and its place in the universe.\n\n==='''Martian and Saturnian phases'''===\n==='''Social and political structures on Mars'''===\n==='''Third Mexican War'''===\nOne theory that has been advanced is that the devastation on Earth caused by the Third Mexican War, specifically the nuclear winter that followed in 2139 to 2151, resulted in a shift in the view of human civilization. It has been speculated that the resulting threat of extinction by global war caused most humans to experience a profound reorganization of priorities, both political and artistic as people became more concerned about living to the fullest. This sentiment had been observed in the colonies for decades due to the persistent threat of death in early settlements, typical of primitive space travel. Never the less, the resultant damage to the climate of the Earth forced hundreds of millions of people to relocate to Venus, which would become the next center of Second Renaissance art and culture in the second half of the 22nd Century; validating the \"Persistence of Death\" theory.\n\n==='''Cultural conditions in New Virginia'''===\nIt has long been a matter of debate why the Second Renaissance began in New Virginia, and not elsewhere on Mars. Historians have noted several features unique to New Virginian cultural life that may have caused such a cultural movement. Many have emphasized the role played by the Founders, the first human settlers who formed the political culture of New Virginia, in patronizing and stimulating the arts prior to the system-wide adoption of the QEM. Anthropological analysts and historians have contended that the rise of great art in New Virginia and the surrounding regions were only able to rise to prominence because of the prevailing cultural conditions at the time.\n\n\n==Characteristics==\n==='''New-humanism'''===\n==='''Art'''===\nSecond Renaissance art marks a cultural rebirth at the close of the Terran Dark Ages and rise of Modern civilization. One of the distinguishing features of Second Renaissance art was its development of highly realistic dynamic perspective. Deval Suyin Patel (2071–present) is credited with first treating a dynamic painting as a window into a time and place, but it was not until the demonstrations of architect Brianne Avasarala (2093–present) and the subsequent writings of Alva Valentine (2091–2157) that dynamic perspective was formalized as an artistic technique.\n\nThe development of dynamic perspective was part of a wider resurgence of realism in the arts. Graphic artists and experience artists developed other techniques, most notably incorporating psychological stimuli into their works, most notably in architect and sculptor Tailor P. Lassat's use of iconography and maternalism. Underlying these changes in artistic method was a renewed desire to depict the beauty of nature and to unravel the axioms of aesthetics, with the works of the communities on Mars representing artistic pinnacles that were much imitated by other artists. Other notable artists include Sandy Chaudhary and the communities in the Galilean moons who made use of ice.\n\n==='''Science'''===\n==='''Music'''===\n==='''Religion'''===\n==='''Self-Actualization'''===\n\n==Spread==\n==='''Earth'''===\n===='''North America'''====\n===='''Asia'''====\n===='''India'''====\n===='''Europe'''====\n\n==='''Luna'''===\n[[Category:Timeline]]\n[[Category:21st Century]]\n[[Category:22nd Century]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-01T16:49:49Z"
+          }
+        ],
+        "title": "Second Renaissance",
+        "touched": "2017-06-01T16:49:50Z"
+      },
+      "1660": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3973,
+        "length": 32,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Second Renaissance"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 1660,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3973,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Second Renaissance]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-01T16:30:34Z"
+          }
+        ],
+        "title": "The Second Renaissance",
+        "touched": "2017-06-01T16:52:33Z"
+      },
+      "1661": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Technology"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3982,
+        "length": 1476,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Car"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1661,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3981,
+            "revid": 3982,
+            "slots": {
+              "main": {
+                "*": "\"Podcopter\" is a colloquial name used for various small, usually electric VTOL aircraft used for a variety of functions, including personal transport, medical evacuation, law enforcement, and as taxis. In short, they represent the closest technology has yet achieved to the so-called \"flying car\" ideal of the 20th century, although there are significant differences: podcopters do not require a physical pilot (they fly autonomously), and most are only large enough to seat two or three people along with their luggage. \n\nThe first podcopters were developed in the late 2010s, and were essentially scaled-up versions of the multi-rotored helicopter drones that had become ubiquitous by that point. By the early 2020s, a number of major cities had introduced \"drone taxi\" services, with the aircraft traveling along preprogrammed routes to transport paying passengers. Soon afterwards, this was expanded to include other uses, with police departments, hospitals, and even a number of private owners purchasing the vehicles, which had by now been termed \"podcopters.\"\n\nBecause podcopters are automated, they are much less prone to accidents than manned aircraft, even when flying in close formation. Most podcopters are powered by four or more electric rotors, which can swivel in multiple directions to allow for extreme agility. The podcopter, along with the [[car]], remains a fixture of transportation in cities around the world in the 22nd century.\n[[Category:Technology]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-02T01:28:29Z"
+          }
+        ],
+        "title": "Podcopters",
+        "touched": "2022-12-19T18:23:20Z"
+      },
+      "1662": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3987,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1662,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3987,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-03T15:55:25Z"
+          }
+        ],
+        "title": "File:Terram.png",
+        "touched": "2017-06-03T15:56:12Z"
+      },
+      "1663": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3989,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1663,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3989,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-03T16:00:44Z"
+          }
+        ],
+        "title": "File:Martian.png",
+        "touched": "2017-06-03T16:01:26Z"
+      },
+      "1664": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3990,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1664,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3990,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-06-03T16:01:05Z"
+          }
+        ],
+        "title": "File:Lunarian.png",
+        "touched": "2017-06-03T16:01:26Z"
+      },
+      "1665": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Planets"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Le Ma map.png"
+          }
+        ],
+        "lastrevid": 11994,
+        "length": 6821,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Demographics of Le'ma"
+          },
+          {
+            "ns": 0,
+            "title": "K'lerin"
+          },
+          {
+            "ns": 0,
+            "title": "Politics of Le'ma"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1665,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11993,
+            "revid": 11994,
+            "slots": {
+              "main": {
+                "*": "{{Infobox country\n|image_flag =\n|image_map = Le Ma map.png\n|conventional_long_name = Le'ma\n|national_motto = \n|national_anthem =\n|capital =\n|largest_city = Val're\n|languages = \n|languages_type = \n|government_type = Constitutional Confederated Monarchy\n|leader_title1 = Queen\n|leader_name1 = Kan'Vai\n|leader_title2 = Queen\n|leader_name2 = Lu'Vai\n|leader_title3 = Queen\n|leader_name3 = Sui'Vai\n|legislature = \n|upper_house = \n|lower_house = \n|established_event1 = \n|sovereignty_type = \n|established_date1 = \n|area_rank = \n|area_sq_mi = \n|population_estimate = 230 Million\n|population_estimate_year = 2160\n|population_estimate_rank = \n|currency = \n|currency_code = \n}}\n\n\n'''Le'ma''', also known as '''Tau Ceti f''' is the fifth planet from Tau Ceti and the only object in the Tau Ceti system to naturally support life. It is the densest planet in the Tau Ceti System and the largest of the five terrestrial planets. It is the homeworld of the [[K'lerin]].\n\nAccording to radiometric dating and other sources of evidence, Tau Ceti f formed about 5.8 billion years ago. Le'ma's gravity interacts with other objects in space, especially Tau Ceti and the planet's three natural satellites, To'ba, Yin'ba, and Va'ba. During one orbit around Tau Ceti, Le'ma rotates about its axis over 642 times. Le'ma's axis of rotation is tilted at 12 degrees, producing seasonal variations on the planet's surface that are more mild than those experienced on Earth. The gravitational interaction between Le'ma and its three large satellites causes ocean tides, stabilizes the planet's orientation on its axis, and gradually slows its rotation.\n\nLe'ma's lithosphere is divided into several rigid tectonic plates that migrate across the surface over periods of many millions of years, and for the last 79 million years have produced a single super-continent. About 55% of Le'ma's surface is covered with water, mostly by a global ocean. The majority of planet's polar regions are covered in sea ice forming large glacial ice pack. Le'ma's interior remains active with a solid iron inner core, a liquid outer core that generates a sustained magnetic field, and a convecting mantle that drives plate tectonics.\n\n==Life==\nMuch like Earth, life emerged within the first billion years of Le'ma's history, as evident in its fossil record. Curiously, Le'ma did not experience any kind of life explosion equivalent to the Cambrian Epoch on Earth until 579 million years ago, lasting approximately 25 million years, contributing to the theory of a Galactic Great Filter that hindered the evolution of complex life until relatively recently. In the history of the Le'ma, biodiversity has gone through long periods of expansion, punctuated by mass extinction events. \n\nPrior to first contact, the planet was defined by terran scientists to exist in the ''K'lerisian'' geological epoch, and the ''Ornizoic era'', or the ''Age of Birds.'' While there is no genetic common ancestor between life on Earth and life on Le'ma, much less any relationship with Terran birds, the characteristics between the Ornizoic era of Le'maian life and terran birds and their status as the dominant terrestrial animals is difficult to ignore.\n\nAfter a century of exploration, human and K'lerin scientists have a far greater understanding of Le'ma's fossil record and most date the origin of the Ornizoic at 44 million years ago following. Like Terran birds, the bulk of Le'maian life include air sacs, hollow bones, while feathers (or cutaneous structures similar to them) and beaks are far more common than on Earth. Where they differ is that, without exception, the Le'maian \"avian\" life forms give birth to live young rather than laying eggs. These similarities have prompted many members of the International Union for Conservation of Nature to designate these organisms as Le'maian Dinosaurs. However, scientists specializing in the study of Le'Maian life generally do not use this phrase, as it implies a relationship with Earth life where none exists.\n\n===Terrestrial Vertebrates===\nThe scientific name for the clade that the K'lerin belong to, which is the dominant group of \"vertebrates\" in the Ornizoic, is ''Rhynchognathia,'' or \"beak-jaws\". \n\nThe largest terrestrial \"animals\" on Le'ma exhibit a body plan similar to ''Paraceratherium,'' with animals akin to Sauropods being closer in size to a Giraffe. In the planet's single ocean, the largest creatures have hydrodynamically enforced body plans, and are remarkably similar to terran Cetaceans. The largest of these latter clade is the 38 meter long Greater Puffinwhale, only discovered by human or K'lerin in 2115 due to it being a deep water predator that hardly ever approaches the shore of the Le'maian megacontinent.\n\nPowered flight and gliding is quite common on Le'ma, thanks in large part to its denser atmosphere and lower gravity. Gliders are far more common than flyers, simply due to the caloric demands for larger animals. The trait appears very early in the Ornizoic, with some of the first Rhynchognathia exhibiting feathers near the ends of their limbs, allowing for controlled, slow falling.\n\n===Terrestrial Invertebrates===\nWhile Le'ma enjoys a thicker atmosphere than Earth, it also enjoys a higher percentage of oxygen, which has given rise to terrestrial arthropods with a far wider range of sizes than those found on modern Earth. While not as extreme as the Late Carboniferous, Ornizoic arthropods include examples of flying invertebrates with wing spans up to 35cm, and terrestrial organisms as large as small dogs.\n\n===Sea life===\nOutside of the Rhynchognathia, many ocean-dwelling organisms have developed the ability to glide or even fly for extended periods out of water. This has given rise to what scientists have classified as Neustonic zone ecosystems, or ecosystems existing near the water's surface. The base of this ecosystem, like on Earth, are single celled plant life akin to algae. These are fed on by fish, amphibians, gelatanous floaters, and insects. Another clade of flying organisms belong to an \"invertebrate\" group with some superficial similarities to terran cephalopods. These organisms have a common ancestor with ocean and river dwelling invertebrates in the form of a tidepool dwelling organism about the size of a human thumb. They've independently evolved a means of supporting themselves and breathing at large sizes. The largest of these flyers, known to the K'lerin as the Brasik, has a wing span similar to that of a Terran albatross.\n\n===K'lerin===\n''Main article: [[K'lerin]]''\n\nAs of 2160 an estimated 230 million K'lerin live on Le'ma and depend on its biosphere and minerals for their survival. K'lerin have only one coherent civilization on the planet, while the rest of the species lives as nomadic traders, and hunter-gatherers.\n[[Category:Planets]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2026-04-24T23:54:58Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox country"
+          }
+        ],
+        "title": "Le'ma",
+        "touched": "2026-04-24T23:54:58Z"
+      }
+    }
+  }
+}

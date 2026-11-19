@@ -1,0 +1,57 @@
+{{Documentation subpage}}
+<tt>Country_data</tt> templates are also available for the following subdivisions and dependencies of the United Kingdom:
+
+==== [[Constituent countries of the United Kingdom|Constituent countries]] ====
+{| style="background-color:#ecfcf4"
+| [[Template:Country data England]] || {{flag|England}}
+|-
+| [[Template:Country data Northern Ireland]] || {{flag|Northern Ireland}}
+|-
+| [[Template:Country data Scotland]] || {{flag|Scotland}}
+|-
+| [[Template:Country data Wales]] || {{flag|Wales}}
+|}
+
+==== [[British Crown Dependencies|Crown dependencies]] ====
+{| style="background-color:#ecfcf4"
+| [[Template:Country data Guernsey]] || {{flag|Guernsey}}
+|-
+| [[Template:Country data Isle of Man]] || {{flag|Isle of Man}}
+|-
+| [[Template:Country data Jersey]] || {{flag|Jersey}}
+|}
+
+==== [[British Overseas Territories]] ====
+{| style="background-color:#ecfcf4"
+| [[Template:Country data Akrotiri and Dhekelia]] || {{flag|Akrotiri and Dhekelia}}
+|-
+| [[Template:Country data Anguilla]] || {{flag|Anguilla}}
+|-
+| [[Template:Country data Bermuda]] || {{flag|Bermuda}}
+|-
+| [[Template:Country data British Antarctic Territory]] || {{flag|British Antarctic Territory}}
+|-
+| [[Template:Country data British Indian Ocean Territory]] || {{flag|British Indian Ocean Territory}}
+|-
+| [[Template:Country data British Virgin Islands]] || {{flag|British Virgin Islands}}
+|-
+| [[Template:Country data Cayman Islands]] || {{flag|Cayman Islands}}
+|-
+| [[Template:Country data Falkland Islands]]|| {{flag|Falkland Islands}}
+|-
+| [[Template:Country data Gibraltar]] || {{flag|Gibraltar}}
+|-
+| [[Template:Country data Montserrat]] || {{flag|Montserrat}}
+|-
+| [[Template:Country data Pitcairn Islands]] || {{flag|Pitcairn Islands}}
+|-
+| [[Template:Country data Saint Helena, Ascension and Tristan da Cunha]] || {{flag|Saint Helena, Ascension and Tristan da Cunha}}
+|-
+| [[Template:Country data South Georgia and the South Sandwich Islands]] || {{flag|South Georgia and the South Sandwich Islands}}
+|-
+| [[Template:Country data Turks and Caicos Islands]] || {{flag|Turks and Caicos Islands}}
+|}
+<includeonly>
+[[Category:Country data templates of countries|United Kingdom]]
+[[Category:Country data templates of the United Kingdom| ]]
+</includeonly>

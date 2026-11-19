@@ -1,0 +1,1507 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "2963": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 8696,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2963,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8696,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-20T21:19:14Z"
+          }
+        ],
+        "title": "User:TheKlash",
+        "touched": "2018-11-20T21:19:14Z"
+      },
+      "2964": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8697,
+        "length": 117,
+        "new": "",
+        "ns": 1,
+        "pageid": 2964,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8697,
+            "slots": {
+              "main": {
+                "*": "it's been here for a while\n\n\n\n\n\n\n\nbesides, AI becoming self aware and humans try to control/destroy it is nothing new",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-20T23:58:00Z"
+          }
+        ],
+        "title": "Talk:21st Century/@comment-24762609-20181120211913/@comment-5590986-20181120235800",
+        "touched": "2018-11-20T23:58:00Z"
+      },
+      "2965": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8700,
+        "length": 267,
+        "new": "",
+        "ns": 1,
+        "pageid": 2965,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8700,
+            "slots": {
+              "main": {
+                "*": "So...\n\nTotal population: ~13,106,000,000\n\nTerrans: 7,200M or ~54% of total\n\nRainbows: 2,300M or ~18% of total\n\nMartians: 2,300M or ~18% of total\n\nNaturals: 700M or ~5% of total\n\nLunarians: 500M or ~4% of total\n\nFurries, Mermaids, Avists, Alphas: 106M or ~<1% of total",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-21T20:05:04Z"
+          }
+        ],
+        "title": "Talk:Human/@comment-36859657-20181121200504",
+        "touched": "2018-11-21T20:05:04Z"
+      },
+      "2966": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8702,
+        "length": 193,
+        "ns": 1,
+        "pageid": 2966,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8701,
+            "revid": 8702,
+            "slots": {
+              "main": {
+                "*": "remember there are 27 recognized human subspecies (as of now, parts of the timeline constantly changes)\n\n\n\n\nso there's probably more than that. Ynot1989 stated there are over 14 billion humans",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-21T20:08:12Z"
+          }
+        ],
+        "title": "Talk:Human/@comment-36859657-20181121200504/@comment-5590986-20181121200657",
+        "touched": "2018-11-21T20:08:12Z"
+      },
+      "2967": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8704,
+        "length": 27,
+        "new": "",
+        "ns": 1,
+        "pageid": 2967,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8704,
+            "slots": {
+              "main": {
+                "*": "how many are there exactly?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-22T03:21:24Z"
+          }
+        ],
+        "title": "Talk:European Association/@comment-35688638-20181122032124",
+        "touched": "2018-11-22T03:21:24Z"
+      },
+      "2968": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8705,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2968,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8705,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-22T03:21:25Z"
+          }
+        ],
+        "title": "Message Wall:Locomaniac5297",
+        "touched": "2018-11-22T03:21:25Z"
+      },
+      "2969": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8706,
+        "length": 563,
+        "links": [
+          {
+            "ns": 0,
+            "title": "European Association"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2969,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8706,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:European Association]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-22T03:21:25Z"
+          }
+        ],
+        "title": "Thread:Locomaniac5297/@comment-32769624-20181122032125",
+        "touched": "2018-11-22T03:21:25Z"
+      },
+      "2970": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 8707,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2970,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8707,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-22T03:21:25Z"
+          }
+        ],
+        "title": "User:Locomaniac5297",
+        "touched": "2018-11-22T03:21:25Z"
+      },
+      "2971": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8712,
+        "length": 324,
+        "new": "",
+        "ns": 1,
+        "pageid": 2971,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8712,
+            "slots": {
+              "main": {
+                "*": "gotta few questions \n\n1.can furries modify themselves ti the point where they look like the animals they want to be?\n\n2. how has the military's recruitmant standards changed with the advent of genetic engineering (which eliminated alot of conditions that would;ve made  applicants medically/physically unfit for service)?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-24T15:56:32Z"
+          }
+        ],
+        "title": "Talk:Genetic Engineering/@comment-90.255.60.219-20181124155632",
+        "touched": "2018-11-24T15:56:32Z"
+      },
+      "2972": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8713,
+        "length": 232,
+        "new": "",
+        "ns": 1,
+        "pageid": 2972,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8713,
+            "slots": {
+              "main": {
+                "*": "1. Probably, but to a limited degree\n\n\n\n\n2. Obviously more phyisically and mentally competent than the average citizen. The military is mostly made up of AI and robots (although some controlled by humans). The rest needed to keep up",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-24T17:16:04Z"
+          }
+        ],
+        "title": "Talk:Genetic Engineering/@comment-90.255.60.219-20181124155632/@comment-5590986-20181124171604",
+        "touched": "2018-11-24T17:16:04Z"
+      },
+      "2973": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8718,
+        "length": 14,
+        "new": "",
+        "ns": 1,
+        "pageid": 2973,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8718,
+            "slots": {
+              "main": {
+                "*": "chris ray goon",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-26T03:28:36Z"
+          }
+        ],
+        "title": "Talk:Christopher Reagan/@comment-32528094-20181126032836",
+        "touched": "2018-11-26T03:28:36Z"
+      },
+      "2974": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8719,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2974,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8719,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-26T03:28:36Z"
+          }
+        ],
+        "title": "Message Wall:TheCambrian",
+        "touched": "2018-11-26T03:28:37Z"
+      },
+      "2975": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8720,
+        "length": 561,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Christopher Reagan"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2975,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8720,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Christopher Reagan]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-26T03:28:37Z"
+          }
+        ],
+        "title": "Thread:TheCambrian/@comment-32769624-20181126032837",
+        "touched": "2018-11-26T03:28:37Z"
+      },
+      "2976": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 8721,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2976,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8721,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-26T03:28:37Z"
+          }
+        ],
+        "title": "User:TheCambrian",
+        "touched": "2018-11-26T03:28:37Z"
+      },
+      "2978": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8724,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2978,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8724,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-26T03:42:26Z"
+          }
+        ],
+        "title": "Message Wall:Sikorskiii",
+        "touched": "2018-11-26T03:42:26Z"
+      },
+      "2979": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8725,
+        "length": 584,
+        "links": [
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2068"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2979,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8725,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:United States presidential election, 2068]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-26T03:42:26Z"
+          }
+        ],
+        "title": "Thread:Sikorskiii/@comment-32769624-20181126034226",
+        "touched": "2018-11-26T03:42:26Z"
+      },
+      "2980": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 8726,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2980,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8726,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-26T03:42:26Z"
+          }
+        ],
+        "title": "User:Sikorskiii",
+        "touched": "2018-11-26T03:42:26Z"
+      },
+      "2982": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:1389197310.shikaro ponyvore3.jpg"
+          }
+        ],
+        "lastrevid": 8728,
+        "length": 99,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2982,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8728,
+            "slots": {
+              "main": {
+                "*": "[[File:1389197310.shikaro_ponyvore3.jpg|thumb]]<ac_metadata title=\"hell yes broter\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-26T03:50:32Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-32528094-20181126035032",
+        "touched": "2018-11-28T16:39:31Z"
+      },
+      "2983": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8730,
+        "length": 235,
+        "new": "",
+        "ns": 1,
+        "pageid": 2983,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8730,
+            "slots": {
+              "main": {
+                "*": "silly question, is there such thing as a \"space forceone/two? if so, is it a peronal o'neill hip, spacecraft similar to a spce warsip (like a zeus class) or or is it a little shuttle that transports the POTUS/VPOTUS to an o'neill ship?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-27T22:36:38Z"
+          }
+        ],
+        "title": "Talk:United States Space Force/@comment-90.242.20.230-20181127223638",
+        "touched": "2018-11-27T22:36:38Z"
+      },
+      "2984": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8731,
+        "length": 364,
+        "new": "",
+        "ns": 1,
+        "pageid": 2984,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8731,
+            "slots": {
+              "main": {
+                "*": "Are the “local” states on Earth within the American Protectorate (Free Associations, Protectorates) interfaced with the Commonwealth government, or the federal government directly? As Earth is clearly the only planet with separate “sovereign” states, so I could see it being largely still Federal Jurisdiction, what with it being foreign relations and all.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-29T15:42:53Z"
+          }
+        ],
+        "title": "Talk:Earth/@comment-29372813-20181129154253",
+        "touched": "2018-11-29T15:42:53Z"
+      },
+      "2985": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8732,
+        "length": 338,
+        "new": "",
+        "ns": 1,
+        "pageid": 2985,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8732,
+            "slots": {
+              "main": {
+                "*": "(at campus and too lazy to login)\n\nLocal states are interfaced with the Commonwealth government.\n\n\n\n\nI assume it's like this: State counties (Local) -> States (State)-> Planetary Commonwealth (Planetary)-> Federal government (Federal)\n\n\n\n\nThat's why it's called \"Four-tiers\" because there are 4 main levels of government.\n\n\n\n\n-Batran99",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-29T20:25:39Z"
+          }
+        ],
+        "title": "Talk:Earth/@comment-29372813-20181129154253/@comment-4.35.14.90-20181129202539",
+        "touched": "2018-11-29T20:25:39Z"
+      },
+      "2986": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8733,
+        "length": 113,
+        "new": "",
+        "ns": 1,
+        "pageid": 2986,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8733,
+            "slots": {
+              "main": {
+                "*": "*State counties (Local) -> States (State)-> Planetary Commonwealth (Commonwealth)-> Federal government (Federal)",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-29T20:27:08Z"
+          }
+        ],
+        "title": "Talk:Earth/@comment-29372813-20181129154253/@comment-4.35.14.90-20181129202708",
+        "touched": "2018-11-29T20:27:08Z"
+      },
+      "2987": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8735,
+        "length": 122,
+        "new": "",
+        "ns": 1,
+        "pageid": 2987,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8735,
+            "slots": {
+              "main": {
+                "*": "Its not trying to be very predictive, but rather framing the Trump-Russia Scandal through a familiar lense as it develops.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-30T20:30:38Z"
+          }
+        ],
+        "title": "Talk:Trump-Russia scandal/@comment-24.224.66.196-20180525060229/@comment-899576-20181130203038",
+        "touched": "2018-11-30T20:30:38Z"
+      },
+      "2988": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8737,
+        "length": 82,
+        "new": "",
+        "ns": 1,
+        "pageid": 2988,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8737,
+            "slots": {
+              "main": {
+                "*": "so how are humans involved in the navy since most if not all ships are autonomous?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-30T23:45:27Z"
+          }
+        ],
+        "title": "Talk:United States of America/@comment-90.242.20.230-20181130234527",
+        "touched": "2018-11-30T23:45:27Z"
+      },
+      "2989": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8739,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2989,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8739,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-12-01T04:21:50Z"
+          }
+        ],
+        "title": "Message Wall:Ffa",
+        "touched": "2018-12-01T04:21:51Z"
+      },
+      "2990": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8740,
+        "length": 567,
+        "links": [
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2990,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8740,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:United States of America]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-12-01T04:21:51Z"
+          }
+        ],
+        "title": "Thread:Ffa/@comment-32769624-20181201042151",
+        "touched": "2018-12-01T04:21:51Z"
+      },
+      "2991": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 8741,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2991,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8741,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-12-01T04:21:51Z"
+          }
+        ],
+        "title": "User:Ffa",
+        "touched": "2018-12-01T04:21:51Z"
+      },
+      "2992": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8749,
+        "length": 23,
+        "new": "",
+        "ns": 1,
+        "pageid": 2992,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8749,
+            "slots": {
+              "main": {
+                "*": "Katanga is Independent?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-12-02T21:14:21Z"
+          }
+        ],
+        "title": "Talk:Timeline of major events/@comment-173.25.225.121-20181202211421",
+        "touched": "2018-12-02T21:14:21Z"
+      },
+      "2993": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8752,
+        "length": 47,
+        "new": "",
+        "ns": 1,
+        "pageid": 2993,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8752,
+            "slots": {
+              "main": {
+                "*": "how owuld you describe the design of tan OCS? ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-12-05T17:29:31Z"
+          }
+        ],
+        "title": "Talk:Orbital Command Stations/@comment-90.242.20.230-20181205172931",
+        "touched": "2018-12-05T17:29:32Z"
+      },
+      "2994": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8753,
+        "length": 36,
+        "new": "",
+        "ns": 1,
+        "pageid": 2994,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8753,
+            "slots": {
+              "main": {
+                "*": "Long live free Poland!Remove burgers",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-12-07T22:12:54Z"
+          }
+        ],
+        "title": "Talk:Poland/@comment-31.11.130.210-20181207221254",
+        "touched": "2018-12-07T22:12:54Z"
+      },
+      "2996": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Amendments to the United States Constitution"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11217,
+        "length": 12833,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Timeline"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2996,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11033,
+            "revid": 11217,
+            "slots": {
+              "main": {
+                "*": "{| class=\"wikitable\"\n|- style=\"vertical-align: top;\"\n! width=\"18\" | #\n! width=\"248\" | Subject\n! width=\"118\" | Date submitted for Ratification\n! width=\"118\" | Date ratification completed\n! width=\"73\" | Ratification time span\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:First Amendment to the United States Constitution|1st]]\n| Prohibits the making of any law respecting an establishment of religion, impeding the free exercise of religion, abridging the freedom of speech, freedom of the press, interfering with the right to peaceably assemble or prohibiting the petitioning for a governmental redress of grievances.\n| style=\"font-size:95%\" | September 25, 1789\n| style=\"font-size:95%\" | December 15, 1791\n| 2 years<br />2 months<br />20 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Second Amendment to the United States Constitution|2nd]]\n| Protects the right to keep and bear arms.\n| style=\"font-size:95%\" | September 25, 1789\n| style=\"font-size:95%\" | December 15, 1791\n| 2 years<br />2 months<br />20 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Third Amendment to the United States Constitution|3rd]]\n| Prohibits quartering of soldiers in private homes without the owner's consent during peacetime.\n| style=\"font-size:95%\" | September 25, 1789\n| style=\"font-size:95%\" | December 15, 1791\n| 2 years<br />2 months<br />20 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Fourth Amendment to the United States Constitution|4th]]\n| Prohibits unreasonable searches and seizures and sets out requirements for search warrants based on probable cause as determined by a neutral judge or magistrate.\n| style=\"font-size:95%\" | September 25, 1789\n| style=\"font-size:95%\" | December 15, 1791\n| 2 years<br />2 months<br />20 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Fifth Amendment to the United States Constitution|5th]]\n| Sets out rules for indictment by grand jury and eminent domain, protects the right to due process, and prohibits self-incrimination and double jeopardy.\n| style=\"font-size:95%\" | September 25, 1789\n| style=\"font-size:95%\" | December 15, 1791\n| 2 years<br />2 months<br />20 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Sixth Amendment to the United States Constitution|6th]]\n| Protects the right to a fair and speedy, public trial by jury, including the rights to be notified of the accusations, to confront the accuser, to obtain witnesses and to retain counsel.\n| style=\"font-size:95%\" | September 25, 1789\n| style=\"font-size:95%\" | December 15, 1791\n| 2 years<br />2 months<br />20 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Seventh Amendment to the United States Constitution|7th]]\n| Provides for the right to trial by jury in certain civil cases, according to common law.\n| style=\"font-size:95%\" | September 25, 1789\n| style=\"font-size:95%\" | December 15, 1791\n| 2 years<br />2 months<br />20 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Eighth Amendment to the United States Constitution|8th]]\n| Prohibits excessive fines and excessive bail, as well as cruel and unusual punishment.\n| style=\"font-size:95%\" | September 25, 1789\n| style=\"font-size:95%\" | December 15, 1791\n| 2 years<br />2 months<br />20 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Ninth Amendment to the United States Constitution|9th]]\n| Protects rights not enumerated in the Constitution.\n| style=\"font-size:95%\" | September 25, 1789\n| style=\"font-size:95%\" | December 15, 1791\n| 2 years<br />2 months<br />20 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Tenth Amendment to the United States Constitution|10th]]\n| Limits the powers of the federal government to those delegated to it by the Constitution.\n| style=\"font-size:95%\" | September 25, 1789\n| style=\"font-size:95%\" | December 15, 1791\n| 2 years<br />2 months<br />20 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Eleventh Amendment to the United States Constitution|11th]]\n| Makes states immune from suits from out-of-state citizens and foreigners not living within the state borders; lays the foundation for sovereign immunity.\n| style=\"font-size:95%\" | March 4, 1794\n| style=\"font-size:95%\" | February 7, 1795\n| 11 months<br />3 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Twelfth Amendment to the United States Constitution|12th]]\n| Revises presidential election procedures.\n<small>''(Repealed October 15, 2028)''</small>\n| style=\"font-size:95%\" | December 9, 1803\n| style=\"font-size:95%\" | June 15, 1804\n| 6 months<br />6 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Thirteenth Amendment to the United States Constitution|13th]]\n| Abolishes slavery, and involuntary servitude, except as punishment for a crime.\n| style=\"font-size:95%\" | January 31, 1865\n| style=\"font-size:95%\" | December 6, 1865\n| 10 months<br />6 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Fourteenth Amendment to the United States Constitution|14th]]\n| Defines citizenship, contains the Privileges or Immunities Clause, the [[Wikipedia:Fourteenth Amendment to the United States Constitution#Due Process Clause|Due Process Clause]], the Equal Protection Clause, and deals with post-[[Wikipedia:American Civil War|Civil War]] issues.\n| style=\"font-size:95%\" | June 13, 1866\n| style=\"font-size:95%\" | July 9, 1868\n| 2 years<br />26 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Fifteenth Amendment to the United States Constitution|15th]]\n| Prohibits the denial of the right to vote based on race, color, or previous condition of servitude.\n| style=\"font-size:95%\" | February 26, 1869\n| style=\"font-size:95%\" | February 3, 1870\n| 11 months<br />8 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Sixteenth Amendment to the United States Constitution|16th]]\n|Permits Congress to levy an income tax without apportioning it among the states or basing it on the United States Census.\n| style=\"font-size:95%\" | July 12, 1909\n| style=\"font-size:95%\" | February 3, 1913\n| 3 years<br />6 months<br />22 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Seventeenth Amendment to the United States Constitution|17th]]\n| Establishes the direct election of United States Senators by popular vote.\n| style=\"font-size:95%\" | May 13, 1912\n| style=\"font-size:95%\" | April 8, 1913\n| 10 months<br />26 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Eighteenth Amendment to the United States Constitution|18th]]\n| Prohibited the manufacturing or sale of alcohol within the United States.<br /><small>''(Repealed December 5, 1933)''</small>\n| style=\"font-size:95%\" | December 18, 1917\n| style=\"font-size:95%\" | January 16, 1919\n| 1 year<br />29 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Nineteenth Amendment to the United States Constitution|19th]]\n| Prohibits the denial of the right to vote based on sex.\n| style=\"font-size:95%\" | June 4, 1919\n| style=\"font-size:95%\" | August 18, 1920\n| 1 year<br />2 months<br />14 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Twentieth Amendment to the United States Constitution|20th]]\n| Changes the date on which the terms of the President and Vice President (January 20) and Senators and Representatives (January 3) end and begin.\n| style=\"font-size:95%\" | March 2, 1932\n| style=\"font-size:95%\" | January 23, 1933\n| 10 months<br />21 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Twenty-first Amendment to the United States Constitution|21st]]\n| Repeals the [[Wikipedia:Eighteenth Amendment to the United States Constitution|18th Amendment]] and prohibits the transportation or importation into the United States of alcohol for delivery or use in violation of applicable laws.\n| style=\"font-size:95%\" | February 20, 1933\n| style=\"font-size:95%\" | December 5, 1933\n| 9 months<br />15 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Twenty-second Amendment to the United States Constitution|22nd]]\n| Limits the number of times that a person can be elected president: a person cannot be elected president more than twice, and a person who has served more than two years of a term to which someone else was elected cannot be elected more than once.\n| style=\"font-size:95%\" | March 24, 1947\n| style=\"font-size:95%\" | February 27, 1951\n| 3 years<br />11 months<br />6 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Twenty-third Amendment to the United States Constitution|23rd]]\n| Grants the District of Columbia electors (the number of electors being equal to the least populous state) in the Electoral College.\n| style=\"font-size:95%\" | June 16, 1960\n| style=\"font-size:95%\" | March 29, 1961\n| 9 months<br />12 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Twenty-fourth Amendment to the United States Constitution|24th]]\n| Prohibits the revocation of voting rights due to the non-payment of a poll tax.\n| style=\"font-size:95%\" | September 14, 1962\n| style=\"font-size:95%\" | January 23, 1964\n| 1 year<br />4 months<br />27 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Twenty-fifth Amendment to the United States Constitution|25th]]\n| Addresses succession to the Presidency and establishes procedures both for filling a vacancy in the office of the Vice President, as well as responding to Presidential disabilities.\n| style=\"font-size:95%\" | July 6, 1965\n| style=\"font-size:95%\" | February 10, 1967\n| 1 year<br />7 months<br />4 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Twenty-sixth Amendment to the United States Constitution|26th]]\n| Prohibits the denial of the right of US citizens, eighteen years of age or older, to vote on account of age.\n| style=\"font-size:95%\" | March 23, 1971\n| style=\"font-size:95%\" | July 1, 1971\n| 3 months<br />8 days\n|- style=\"vertical-align: top;\"\n| [[Wikipedia:Twenty-seventh Amendment to the United States Constitution|27th]]\n| Delays laws affecting Congressional salary from taking effect until after the next election of representatives.\n| style=\"font-size:95%\" | September 25, 1789\n| style=\"font-size:95%\" | May 7, 1992\n| 202 years<br />7 months<br />12 days\n|- style=\"vertical-align: top;\"\n| [[Timeline|28th]]\n| Revises federal election procedures. Establishes the direct election of the President by popular vote, ranked choice voting for all federal elections, and grants Congress the power to enforce national election regulations.\n| style=\"font-size:95%\" | September 5, 2027\n| style=\"font-size:95%\" | October 15, 2028\n| 1 year<br />1 month<br />10 days\n|- style=\"vertical-align: top;\"\n| [[Timeline|29th]]\n| Revises federal election procedures. Establishes publicly financed elections, limits the period in which candidates can be registered and use campaign funds, and grants Congress the power to enforce campaign finance laws.\n| style=\"font-size:95%\" | March 5, 2029\n| style=\"font-size:95%\" | January 30, 2030\n|10 months<br />25 days\n|- style=\"vertical-align: top;\"\n| [[Timeline|30th]]\n| Equal Rights Amendment. Defines bodily autonomy, contains the Reproductive Freedom Clause, the Marriage Equality Clause, and deals with post-White Tide issues.\n| style=\"font-size:95%\"| April 2, 2032\n| style=\"font-size:95%\" | August 23, 2032\n| <br />4 month<br />21 days\n|- style=\"vertical-align: top;\"\n| [[Timeline|31st]]\n| Limits amount of time that a person can serve on the Supreme Court: a person cannot serve more than 10 years as an Associate Justice, and a Chief Justice can serve for 10 years even after having served as an Associate Justice for a previous 10 year term.\n| style=\"font-size:95%\" | June 14, 2036\n| style=\"font-size:95%\" | October 12, 2039\n| 3 years<br />3 months<br />28 days\n|- style=\"vertical-align: top;\"\n| [[Timeline|32nd]]\n| Further addresses succession to the Presidency and establishes procedures for filling vacancies in Congress.\n| style=\"font-size:95%\" | January 14, 2051\n| style=\"font-size:95%\" | March, 1 2051\n| 1 year<br />1 month<br />10 days\n|- style=\"vertical-align: top;\"\n| [[Timeline|33rd]]\n| Limits the number of times that a person can be elected to the House and Senate: a person cannot be elected to the Senate more than twice, and a person who has served more than two years of a term to which someone else was elected cannot be elected more than once. A person elected to the House cannot be elected more than five times.\n| style=\"font-size:95%\" | July 4, 2069\n| style=\"font-size:95%\" | November, 21 2071\n| 2 years<br />4 month<br />17 days\n|- style=\"vertical-align: top;\"\n| [[Timeline|34th]]\n| Defines citizenship. Prohibits the denial of the right to vote based on corporeal form.\n| style=\"font-size:95%\" | May 25, 2109\n| style=\"font-size:95%\" | January 30, 2116\n| 6 years<br />8 months<br />5 days\n|- style=\"vertical-align: top;\"\n| [[Timeline|35th]]\n| Establishes Planetary Commonwealths as an intermediate level of government between states and the federal government.\n| style=\"font-size:95%\" | November 5, 2132\n| style=\"font-size:95%\" | September 30, 2133\n| 10 months<br />25 days\n|}\n[[Category:Amendments to the United States Constitution]]\n[[Category:United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-04-08T21:37:57Z"
+          }
+        ],
+        "title": "United States Constitution",
+        "touched": "2023-04-08T21:37:57Z"
+      },
+      "2997": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:22nd-century conflicts"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 9558,
+        "length": 7295,
+        "ns": 0,
+        "pageid": 2997,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8763,
+            "revid": 9558,
+            "slots": {
+              "main": {
+                "*": "After the treaty of San Juan was put into effect free travel to the Towers Quito and Macapa, and the newly completed towers Atlantis and Darwin's Tree gave the millions of refugees the means to seek new lives in the colonies. The vast majority would go to Venus, who's working groups were willing to accept early settlement before the official projected habitability date of 2145. A few extra rads never hurt anyone. The new towers and linking infrastructure built by the Army Corps of Engineers (Colonial) also gave much needed relief to the Earth in terms of food. The Winter of 39' had left the farm belts with record low production, and some regions were fallout fell in above average volumes were reporting mass die offs of livestock. The bounty of the colonies would feed the Earth, but it was not enough to stop the Disporia that lasted until the mid 2150s. The war had left planet's greatest cities in ruins, fallout from nuclear weapons would clear, but the cold was simply too much for some. Venus was warm and lush, a planet that promised a sanctuary from the devastation of Earth.\n\nWhile millions fled for the Colonies, many people felt that parts of the Earth were under the management of the Colonies. General Loveridge was functionally Emperor of Europe and Zaya had brought China and India back together where no one else could. American military governments were now commonplace, and this was simply not sustainable. Since the colonials arrived, President Halvidar had been working with the recovered powers of the world on a Great Experiment, a project that would allow military rule to be phased out and built a post-war world where the prosperity of the colonies could come to Earth. Colonial policy of full disarmament of liberated nations and partial implementation of the Quantum Economic Model was already underway, but this new venture would make these things permanent fixtures of life on Earth. The London Conference of 2138 was where the first step was made to bring it all together. Leaders from Japan, the provisional Chinese and French Governments, Korea, India, and even the German provisional governments were all gathered to discuss the post-war world. President Halvidar announced that the US was no longer going to pursue an agenda of keeping Eurasia divided, but rather they hoped to unite it and indeed the world. The first steps would be made by establishing new regional states in a free association with the US, allowing the QEM to be administered across the planet. The members of the conference weren't really in any position to challenge the US on this, and the promise of full integration into the QEM was more than enough to bring them to the table. The process would be a continuation of what already had started. China, India, and Atlantic Europe would all be united under singular governments Buffer zones of varrying degrees of American occupation would be slowly eroded to expand these Associations, but the goal was to one day unify all the world under this system. Certain key territories would become direct protectorates of the US, kept out of the hands of local powers to prevent conflict over strategic territory. Shpping choke points and the like, and all military forces would ultimately be structured under the Unified Command Structure. The US made it clear to the conference that two things would be non-negotiable: the Elevators would remain under U.S. control, and it would treat any military not part of this new system a direct threat to global peace... of course, that last part was only half true. The Samara Republic and Urals had the good sense to remain neutral during the war, and were both nuclear powers, but nobody wanted to start another fight after wrapping up the last one, and the independent nations were wise enough to at least reduce forces. Those would be battles for another day.\n\nThe process started with small things. The formal reunification of German and France, Lombardi declined to rejoin the Italians just yet, playing a wait and see game. A special assembly at the Hague realized the dream of a united European Association... well, mostly united anyway. The bulk of the former-Intermarium was still under U.S. occupation, as is much of Iberia, but as per the London Conference, territory would be slowly transferred to the Brussels government. East Asia was the greatest of successes, Zaya's unification efforts had largely brought the region under a unified state to begin with, and with a little arm twisting the Association of East Asia was born on New Year's day 2140. India was largely united, but its southern tip was still too unstable to be directly ceded to the local government just yet. Africa was where things were more complicated. Brazil was guaranteed protectorate status by the Treaty of San Juan, a right that extended to ALL of its allies. Thus, Africa would remain divided for now, with regional governments being set up from within existing trade unions. East Africa has been reforged, it too, basically a US protectorate, and one without Tanzanian unification. The territories conquered by Liberia were directly annexed by the U.S. after a petition for cession was sent before the Congress... one that colonial General Mustafa assured the President he had nothing to do with. The Middle East and South East Asia were in a disorderly state of reconstruction as well, the Sinai stubbornly refuses to join any new regional government, but the presence of naval forces on all sides seems to be eroding their resolve.\n\nFinally, it comes to the Western Hemisphere. The diaspora was emptying out Mexico and the Southwest, and South America was left under an American occupation that was intended to be a temporary solution, but the destruction of the war had left the region facing a permanent military regime. There were two options facing President Halvidar: accept the San Juan treaty as the permanent condition that would leave the US military permanently occupying half of two continents, OR apply the London Conference's principles to the US. On April 19, 2140, President Halvidar submitted before the Congress a bill that would absorb Mexico and its sphere into the Union. While the representatives from Earth were largely split on the bill, the colonials hailed it as long overdue. The bill passed on May 30th, 2140 after the Earth delegation of the Senate relented in its filibuster. The Latin American territories (minus Brazil) would be slowly admitted into the Union on the same reconstruction policy as was implemented in the Southwest, and the Colonial forces would withdraw as local leaders were re-established. The colonial forces along with regular military units would slowly withdraw from their deployments over the next ten years. A sizable number of colonial units actually elected to remain behind on Earth upon being discharged, having come to know their homeworld better than before. \n\nOn January 20th, 2141, President Cora Fabian took office on the steps of the new Capitol Building. The world her presidency would know was not united, not truly at peace, and not truly prosperous. Like the new Capitol Building she stood on, it still needed a lot of work, but the foundation had been laid for something great to come.\n[[Category:22nd-century conflicts]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-02-10T13:54:17Z"
+          }
+        ],
+        "title": "The Great Experiment",
+        "touched": "2020-02-10T13:54:17Z"
+      },
+      "2998": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8766,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2998,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8766,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-12-12T06:14:19Z"
+          }
+        ],
+        "title": "Message Wall:Euel Ball",
+        "touched": "2018-12-12T06:14:19Z"
+      },
+      "2999": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8767,
+        "length": 552,
+        "links": [
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2999,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8767,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:The Flood]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-12-12T06:14:19Z"
+          }
+        ],
+        "title": "Thread:Euel Ball/@comment-32769624-20181212061419",
+        "touched": "2018-12-12T06:14:19Z"
+      },
+      "3000": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 8768,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 3000,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8768,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-12-12T06:14:19Z"
+          }
+        ],
+        "title": "User:Euel Ball",
+        "touched": "2018-12-12T06:14:19Z"
+      },
+      "3001": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8773,
+        "length": 415,
+        "ns": 1201,
+        "pageid": 3001,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8771,
+            "revid": 8773,
+            "slots": {
+              "main": {
+                "*": "I am willing to contribute to the wiki, and I want to ask one question: in the states list, I notice how many states like Botswana have their capitals labeled as Montevideo or La Paz despite the geography, so incase that Uruguay didn't annex them actually, I wanna help with editing the capitals. \n\nPlease revert them if I was in the wrong way. Thanks and merry Christmas!<ac_metadata title=\"hello\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-12-17T09:12:00Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-35438704-20181217090850",
+        "touched": "2018-12-17T09:12:00Z"
+      },
+      "3002": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8772,
+        "length": 560,
+        "links": [
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          },
+          {
+            "ns": 1201,
+            "title": "Thread:3001"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 3002,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8772,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Thread:3001|hello]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-12-17T09:08:50Z"
+          }
+        ],
+        "title": "Thread:TheXiJinping/@comment-32769624-20181217090850",
+        "touched": "2018-12-17T09:08:50Z"
+      },
+      "3003": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8783,
+        "length": 104,
+        "new": "",
+        "ns": 1,
+        "pageid": 3003,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8783,
+            "slots": {
+              "main": {
+                "*": "Should info be added to detail the use of tactile-neural cyber attacks, such as during the India Crisis?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-01-02T07:51:51Z"
+          }
+        ],
+        "title": "Talk:Tactile-neural interface/@comment-33626245-20190102075151",
+        "touched": "2019-01-02T07:51:51Z"
+      },
+      "3004": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8784,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 3004,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8784,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-01-02T07:51:52Z"
+          }
+        ],
+        "title": "Message Wall:Synthetic Fusion",
+        "touched": "2019-01-15T07:05:15Z"
+      },
+      "3005": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8785,
+        "length": 567,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Tactile-neural interface"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 3005,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8785,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Tactile-neural interface]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-01-02T07:51:52Z"
+          }
+        ],
+        "title": "Thread:Synthetic Fusion/@comment-32769624-20190102075152",
+        "touched": "2019-01-02T07:51:52Z"
+      },
+      "3006": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 8786,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 3006,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8786,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-01-02T07:51:52Z"
+          }
+        ],
+        "title": "User:Synthetic Fusion",
+        "touched": "2019-01-02T07:51:52Z"
+      },
+      "3007": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8989,
+        "length": 55,
+        "ns": 1,
+        "pageid": 3007,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8790,
+            "revid": 8989,
+            "slots": {
+              "main": {
+                "*": "i wonder what life's like aboard one of those big boys?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-02-19T19:11:50Z"
+          }
+        ],
+        "title": "Talk:Olympus-class dreadnought/@comment-90.240.227.158-20190103110118",
+        "touched": "2019-02-19T19:11:50Z"
+      },
+      "3008": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8988,
+        "length": 137,
+        "ns": 1,
+        "pageid": 3008,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8791,
+            "revid": 8988,
+            "slots": {
+              "main": {
+                "*": "i wnder what life is like aboard one of those big bad boy (ie. how claustrophobic  is the interior or what does the crew eat/drink etc.)",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-02-19T19:11:50Z"
+          }
+        ],
+        "title": "Talk:Olympus-class dreadnought/@comment-90.240.227.158-20190103114706",
+        "touched": "2019-02-19T19:11:50Z"
+      },
+      "3009": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8793,
+        "length": 102,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3009,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8793,
+            "slots": {
+              "main": {
+                "*": "By all means help out with that. It took me forever to get the list that well populated. Thanks again!",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-01-08T00:20:49Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-35438704-20181217090850/@comment-899576-20190108002049",
+        "touched": "2019-01-08T00:20:49Z"
+      },
+      "3010": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8794,
+        "length": 3,
+        "new": "",
+        "ns": 1,
+        "pageid": 3010,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8794,
+            "slots": {
+              "main": {
+                "*": "Yes",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-01-08T00:25:41Z"
+          }
+        ],
+        "title": "Talk:Tactile-neural interface/@comment-33626245-20190102075151/@comment-899576-20190108002541",
+        "touched": "2019-01-08T00:25:41Z"
+      },
+      "3011": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8796,
+        "length": 545,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3011,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8796,
+            "slots": {
+              "main": {
+                "*": "I recall that previously you said wikipages would only be nessisary for states with a considerable impact on the story of SR, but how would you feel about having a small-ish wiki page for a state in each defined region of a commonwealth? I think it would provide a more detailed look at each region of the US in 2160, whatever we can define as a \"region,\" possibly put together some census divisions for at least the uh, terrestrial states? as in firmly placed on top of the crust of a world.<ac_metadata title=\"State wiki pages\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-01-10T21:39:03Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-29372813-20190110213903",
+        "touched": "2019-01-10T21:39:03Z"
+      },
+      "3012": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8797,
+        "length": 258,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3012,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8797,
+            "slots": {
+              "main": {
+                "*": "If you'd like, this page needs help too. The actual details on the population figures are going to get fixed later, but right now I just need someone to money with the source editor and fix the table http://second-renaissance.wikia.com/wiki/Population_growth",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-01-11T15:30:23Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-35438704-20181217090850/@comment-899576-20190111153023",
+        "touched": "2019-01-11T15:30:23Z"
+      },
+      "3013": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8798,
+        "length": 72,
+        "new": "",
+        "ns": 1201,
+        "pageid": 3013,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8798,
+            "slots": {
+              "main": {
+                "*": "If you have something in mind by all means feel free to create the page.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-01-11T15:30:57Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-29372813-20190110213903/@comment-899576-20190111153057",
+        "touched": "2019-01-11T15:30:57Z"
+      },
+      "3014": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8802,
+        "length": 2,
+        "new": "",
+        "ns": 1,
+        "pageid": 3014,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8802,
+            "slots": {
+              "main": {
+                "*": "fr",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-01-15T07:05:14Z"
+          }
+        ],
+        "title": "Talk:Squirrel Wars/@comment-33626245-20190115070514",
+        "touched": "2019-01-15T07:05:14Z"
+      },
+      "3015": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8803,
+        "length": 556,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Squirrel Wars"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 3015,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8803,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Squirrel Wars]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-01-15T07:05:14Z"
+          }
+        ],
+        "title": "Thread:Synthetic Fusion/@comment-32769624-20190115070514",
+        "touched": "2019-01-15T07:05:14Z"
+      }
+    }
+  }
+}

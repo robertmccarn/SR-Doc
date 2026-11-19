@@ -1,0 +1,3 @@
+<div style="float:right; width:300px; max-width:350px; margin-left: 2em;" class="toc">
+{{Autotaxobox system nav}}
+</div>

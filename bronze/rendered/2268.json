@@ -1,0 +1,42 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p><b><big>Automated taxobox system</big></b>\n</p>\n<ul><li><a href=\"https://en.wikipedia.org/wiki/Automated_taxobox_system/intro\" class=\"extiw\" title=\"wp:Automated taxobox system/intro\">Introduction</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Automated_taxobox_system/intro#benefits\" class=\"extiw\" title=\"wp:Automated taxobox system/intro\">Why use the system?</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Automated_taxobox_system/method\" class=\"extiw\" title=\"wp:Automated taxobox system/method\">Making it work</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Automated_taxobox_system/technical\" class=\"extiw\" title=\"wp:Automated taxobox system/technical\">More technical details</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Automated_taxobox_system/map\" class=\"extiw\" title=\"wp:Automated taxobox system/map\">Map of all called templates</a></li></ul>\n<p><b><big>Taxonomy templates</big></b>\n</p>\n<ul><li><a href=\"https://en.wikipedia.org/wiki/Automated_taxobox_system/taxonomy_templates\" class=\"extiw\" title=\"wp:Automated taxobox system/taxonomy templates\">Introduction to taxonomy templates</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Automated_taxobox_system/advanced_taxonomy\" class=\"extiw\" title=\"wp:Automated taxobox system/advanced taxonomy\">Advanced features of taxonomy templates</a></li></ul>\n<p><b><big>Taxobox templates</big></b>\n</p>\n<ul><li><a href=\"https://en.wikipedia.org/wiki/Automated_taxobox_system/which\" class=\"extiw\" title=\"wp:Automated taxobox system/which\">Which should be used?</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Automated_taxobox_system/display\" class=\"extiw\" title=\"wp:Automated taxobox system/display\">Changing the taxa displayed</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Automated_taxobox_system/convert\" class=\"extiw\" title=\"wp:Automated taxobox system/convert\">Convert a taxobox to an automated taxobox</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Automated_taxobox_system/all_parameters\" class=\"extiw\" title=\"wp:Automated taxobox system/all parameters\">Glossary of automated taxobox parameters</a></li>\n<li><span class=\"new\" title=\"Template:Automatic taxobox/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6QXV0b21hdGljX3RheG9ib3gvZG9jP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\"><b>Automatic taxobox</b></span> – mainly for genera and higher taxa\n<ul><li><span class=\"new\" title=\"Template:Automatic taxobox/doc/new (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6QXV0b21hdGljX3RheG9ib3gvZG9jL25ldz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Details</span></li></ul></li>\n<li><a href=\"/wiki/Template:Speciesbox/doc\" title=\"Template:Speciesbox/doc\"><b>Speciesbox</b></a> – for a species</li>\n<li><span class=\"new\" title=\"Template:Subspeciesbox/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6U3Vic3BlY2llc2JveC9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\"><b>Subspeciesbox</b></span> – for an animal subspecies</li>\n<li><span class=\"new\" title=\"Template:Infraspeciesbox/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SW5mcmFzcGVjaWVzYm94L2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\"><b>Infraspeciesbox</b></span> – for a plant subspecies or variety</li>\n<li><span class=\"new\" title=\"Template:Hybridbox/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SHlicmlkYm94L2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\"><b>Hybridbox</b></span> – for an animal hybrid within a genus</li>\n<li><span class=\"new\" title=\"Template:Ichnobox/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SWNobm9ib3gvZG9jP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\"><b>Ichnobox</b></span> – for a trace fossil</li>\n<li><span class=\"new\" title=\"Template:Oobox/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6T29ib3gvZG9jP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\"><b>Oobox</b></span> – for a fossil egg</li></ul>\n<!-- \nNewPP limit report\nCached time: 20261119205807\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.009 seconds\nReal time usage: 0.018 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:2268-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205807 and revision id 6427. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Speciesbox/doc",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Automatic taxobox/doc",
+      "ns": 10
+    },
+    {
+      "*": "Template:Automatic taxobox/doc/new",
+      "ns": 10
+    },
+    {
+      "*": "Template:Subspeciesbox/doc",
+      "ns": 10
+    },
+    {
+      "*": "Template:Infraspeciesbox/doc",
+      "ns": 10
+    },
+    {
+      "*": "Template:Hybridbox/doc",
+      "ns": 10
+    },
+    {
+      "*": "Template:Ichnobox/doc",
+      "ns": 10
+    },
+    {
+      "*": "Template:Oobox/doc",
+      "ns": 10
+    }
+  ],
+  "page_id": 2268,
+  "revision_id": 6427,
+  "title": "Template:Autotaxobox system nav"
+}

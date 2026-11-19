@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "*": "Templates",
+      "sortkey": "&#33;!"
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>||\n</p>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <a href=\"/wiki/Template:!!/doc\" title=\"Template:!!/doc\">Template:&#33;!/doc</a> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<dl><dt>Description</dt>\n<dd>This template is used for creating two pipes, in <a href=\"https://community.fandom.com/wiki/Help:Table\" title=\"Help:Table\">wikitables</a> contained in <a href=\"https://community.fandom.com/wiki/Help:Parser_functions\" title=\"Help:Parser functions\">Parser functions</a>.</dd>\n<dt>Syntax</dt>\n<dd>Insert this template using <code>{{<strong class=\"mw-selflink selflink\">!!</strong>}}</code></dd>\n<dt>See also</dt>\n<dd><a href=\"https://meta.wikimedia.org/wiki/Template:!!\" class=\"extiw\" title=\"m:Template:!!\">Template:!!</a> on Meta-Wiki.</dd></dl></div>\n<!-- \nNewPP limit report\nCached time: 20261119205400\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.014 seconds\nReal time usage: 0.019 seconds\nPreprocessor visited node count: 180/1000000\nPost‐expand include size: 1173/2097152 bytes\nTemplate argument size: 64/2097152 bytes\nHighest expansion depth: 8/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 4/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    8.081      1 Template:Documentation\n100.00%    8.081      1 -total\n 83.11%    6.716      1 Template:!!/doc\n 52.27%    4.224      1 Template:T\n 25.33%    2.047     20 Template:T/piece\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:81-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205400 and revision id 81. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:!!/doc",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Help:Table",
+      "ns": 12
+    },
+    {
+      "*": "Help:Parser functions",
+      "ns": 12
+    }
+  ],
+  "page_id": 81,
+  "revision_id": 81,
+  "title": "Template:!!"
+}

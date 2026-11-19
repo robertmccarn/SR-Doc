@@ -1,0 +1,1977 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "1928": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          },
+          {
+            "ns": 14,
+            "title": "Category:World War III"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6135,
+        "length": 45,
+        "ns": 6,
+        "pageid": 1928,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5028,
+            "revid": 6135,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Maps]]\n[[Category:World War III]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:53:58Z"
+          }
+        ],
+        "title": "File:North Pacific Security Council.png",
+        "touched": "2017-11-08T00:10:50Z"
+      },
+      "1929": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5032,
+        "length": 591,
+        "ns": 1,
+        "pageid": 1929,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5031,
+            "revid": 5032,
+            "slots": {
+              "main": {
+                "*": "Apologies if this has already been hashed out elsewhere, but wouldn't the United States Associated States use the USD? This is assuming these associations still work under some semblance the present Compact of Free Association some pacific states have with the US, use of the USD and some American Gov't services, and freedom of work and residency, etc. I figure this would be even more so because the QEM and the digitization of the USD in the 2030s, which would make establishing a seperate East-Asian currency for what's essentially a transitional government kind of moot, at least to me.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-15T04:44:44Z"
+          }
+        ],
+        "title": "Talk:Association of East-Asia/@comment-29372813-20170815044242",
+        "touched": "2017-08-15T04:44:44Z"
+      },
+      "1930": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5035,
+        "length": 93,
+        "ns": 1,
+        "pageid": 1930,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5034,
+            "revid": 5035,
+            "slots": {
+              "main": {
+                "*": "idk, perhaps they could use both currencies. But yeah you are right about US dollar usage imo",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-15T04:47:47Z"
+          }
+        ],
+        "title": "Talk:Association of East-Asia/@comment-29372813-20170815044242/@comment-5590986-20170815044602",
+        "touched": "2017-08-15T04:47:47Z"
+      },
+      "1931": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5041,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1931,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5041,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-15T18:18:08Z"
+          }
+        ],
+        "title": "Message Wall:123.185.37.144",
+        "touched": "2017-08-15T18:18:08Z"
+      },
+      "1932": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5042,
+        "length": 747,
+        "links": [
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1932,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5042,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:United States of America]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-15T18:18:08Z"
+          }
+        ],
+        "title": "Thread:123.185.37.144/@comment-4403388-20170815181808",
+        "touched": "2017-08-15T18:18:08Z"
+      },
+      "1933": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Associated states"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Arab Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Arabia CoA.png"
+          }
+        ],
+        "lastrevid": 10675,
+        "length": 1168,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Associated state"
+          },
+          {
+            "ns": 0,
+            "title": "Coat of arms of Arabian Association"
+          },
+          {
+            "ns": 0,
+            "title": "Demographics of Arabian Association"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Arabian Association"
+          },
+          {
+            "ns": 0,
+            "title": "Politics of Arabian Association"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1933,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5703,
+            "revid": 10675,
+            "slots": {
+              "main": {
+                "*": "{{Infobox country\n|conventional_long_name = Association of Arab States\n|national_motto = \n|national_anthem = \n|capital = Baghdad\n|largest_city = Jeddah\n|languages = English (official)\n|languages_type = National languages\n|languages2 = Arabic\n|languages2_type = Regional languages\n|government_type = Federal presidential constitutional republic\n|leader_title1 = President\n|leader_name1 = Saul Al-Saud\n|legislature = Council of Assembly\n|upper_house = High Council\n|lower_house = High Assembly\n|established_event1 = Founded\n|sovereignty_type = Unification\n|established_event2 = \n|established_date1 = November 16, 2139\n|established_event3 =  \n|established_date2 = \n|established_event4 = \n|established_date3 =\n|established_date4 = \n|area_rank = \n|area_sq_mi = \n|population_estimate = >300 Million\n|population_estimate_year = 2160\n|population_estimate_rank = \n|currency = United States Dollar (USD)\n|currency_code =\n|image_flag = Arab_Flag.png\n|image_coat = Arabia_CoA.png\n|leader_title2 = Vice President\n|leader_name2 = Moham Al-Falasi }}\n\nThe Arabian Association is an [[associated state]] of the [[United States]] that was founded in 2139.\n[[Category:Associated states]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2022-02-23T04:47:01Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          }
+        ],
+        "title": "Arabian Association",
+        "touched": "2022-02-23T04:47:01Z"
+      },
+      "1934": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Chinese flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6515,
+        "length": 46,
+        "ns": 6,
+        "pageid": 1934,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6191,
+            "revid": 6515,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Chinese flags]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-22T00:54:46Z"
+          }
+        ],
+        "title": "File:Yangtze Flag.png",
+        "touched": "2017-11-08T00:10:50Z"
+      },
+      "1935": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of Associated states"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6160,
+        "length": 59,
+        "ns": 6,
+        "pageid": 1935,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5078,
+            "revid": 6160,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of Associated states]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:01:18Z"
+          }
+        ],
+        "title": "File:Trans-siberia.png",
+        "touched": "2017-12-10T16:52:05Z"
+      },
+      "1936": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:20 Star GreatStar Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cowpens Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United States.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Grand Union Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US 26 Star GreatStar Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US 29 Star Diamond Pattern Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US 33 Star Fort Sumter Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US 33 Star GreatStar Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US 36 Star Wagon Wheel Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US 37 Star Medallion Centennial Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US 38 Star Flag concentric circles.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Flag 7 Stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 13 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 13 stars – Betsy Ross.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 15 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 20 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 21 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 23 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 24 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 25 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 26 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 27 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 28 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 29 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 30 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 31 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 32 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 33 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 34 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 35 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 36 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 37 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 38 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 43 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 44 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 45 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 46 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 48 stars.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 49 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 50 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 51stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 52stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 56stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 56stars Black Stripe.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 60 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 78 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 81smallstars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag with 80 stars by BF1395.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag with 85 stars by BF1395.png"
+          }
+        ],
+        "lastrevid": 11829,
+        "length": 9097,
+        "ns": 0,
+        "pageid": 1936,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11798,
+            "revid": 11829,
+            "slots": {
+              "main": {
+                "*": "===Historical progression of designs===\n{| class=\"sortable wikitable\"\n|- style=\"background:#ccc;\"\n! Number of<br />stars\n! Number of<br />stripes\n! class=\"unsortable\" | Design(s)\n! class=\"unsortable\" | Changes to the flag\n! Dates in use\n! Duration\n|- valign=\"top\"\n| 0 || 13 || [[File:Grand_Union_Flag.png|84px|border]] || || {{Dts|format=mdy|1775|12|3}}&nbsp;– June 14, 1777\n| style=\"text-align:left;\" | 1 1/2 years\n|- valign=\"top\"\n| 13 || 13 || [[File:US_flag_13_stars.png|84px|border]]<br />[[File:US_flag_13_stars_–_Betsy_Ross.png|84px|border]]<br />[[File:Cowpens_Flag.png|84px|border]] || Added Connecticut, Delaware, Georgia, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, Pennsylvania, Rhode Island, South Carolina, Virginia || {{Dts|format=mdy|1777|06|14}}&nbsp;– May 1, 1795\n| style=\"text-align:left;\" | 18 years\n|- valign=\"top\"\n| 15 || 15 || [[File:US_flag_15_stars.png|84px|border]] ||Added Vermont, Kentucky || {{Dts|format=mdy|1795|05|1}}&nbsp;– July 3, 1818\n| style=\"text-align:left;\" | 23 years\n|- valign=\"top\"\n| 20 || 13 || [[File:US_flag_20_stars.png|84px|border]]<br />[[File:20_Star_GreatStar_Flag.png|84px|border]] || Added Indiana, Louisiana, Mississippi, Ohio, Tennessee || {{Dts|format=mdy|1818|07|4}}&nbsp;– July 3, 1819\n| style=\"text-align:left;\" | 1 year\n|- valign=\"top\"\n| 21 || 13 || [[File:US_flag_21_stars.png|84px|border]] || Added Illinois || {{Dts|format=mdy|1819|07|4}}&nbsp;– July 3, 1820\n| style=\"text-align:left;\" | 1 year\n|- valign=\"top\"\n| 23 || 13 || [[File:US_flag_23_stars.png|84px|border]] || Added Alabama, Maine || {{Dts|format=mdy|1820|07|4}}&nbsp;– July 3, 1822\n| style=\"text-align:left;\" | 2 years\n|- valign=\"top\"\n| 24 || 13 || [[File:US_flag_24_stars.png|84px|border]] || Added Missouri || {{Dts|format=mdy|1822|07|4}}&nbsp;– July 3, 1836<br />1831 term \"Old Glory\" coined\n| style=\"text-align:left;\" | 14 years\n|- valign=\"top\"\n| 25 || 13 || [[File:US_flag_25_stars.png|84px|border]] || Added Arkansas || {{Dts|format=mdy|1836|07|4}}&nbsp;– July 3, 1837\n| style=\"text-align:left;\" | 1 year\n|- valign=\"top\"\n| 26 || 13 || [[File:US_flag_26_stars.png|84px|border]]<br />[[File:US_26_Star_GreatStar_Flag.png|84px|border]] || Added Michigan || {{Dts|format=mdy|1837|07|4}}&nbsp;– July 3, 1845\n| style=\"text-align:left;\" | 8 years\n|- valign=\"top\"\n| 27 || 13 || [[File:US_flag_27_stars.png|84px|border]] || Added Florida || {{Dts|format=mdy|1845|07|4}}&nbsp;– July 3, 1846\n| style=\"text-align:left;\" | 1 year\n|- valign=\"top\"\n| 28 || 13 || [[File:US_flag_28_stars.png|84px|border]] || Added Texas || {{Dts|format=mdy|1846|07|4}}&nbsp;– July 3, 1847\n| style=\"text-align:left;\" | 1 year\n|- valign=\"top\"\n| 29 || 13 || [[File:US_flag_29_stars.png|84px|border]]<br />[[File:US_29_Star_Diamond_Pattern_Flag.png|84px|border]] || Added Iowa || {{Dts|format=mdy|1847|07|4}}&nbsp;– July 3, 1848\n| style=\"text-align:left;\" | 1 year\n|- valign=\"top\"\n| 30 || 13 || [[File:US_flag_30_stars.png|84px|border]] || Added Wisconsin || {{Dts|format=mdy|1848|07|4}}&nbsp;– July 3, 1851\n| style=\"text-align:left;\" | 3 years\n|- valign=\"top\"\n| 31 || 13 || [[File:US_flag_31_stars.png|84px|border]] || Added California || {{Dts|format=mdy|1851|07|4}}&nbsp;– July 3, 1858\n| style=\"text-align:left;\" | 7 years\n|- valign=\"top\"\n| 32 || 13 || [[File:US_flag_32_stars.png|84px|border]] || Added Minnesota || {{Dts|format=mdy|1858|07|4}}&nbsp;– July 3, 1859\n| style=\"text-align:left;\" | 1 year\n|- valign=\"top\"\n| 33 || 13 || [[File:US_flag_33_stars.png|84px|border]]<br />[[File:US_33_Star_Fort_Sumter_Flag.png|84px|border]]<br />[[File:US_33_Star_GreatStar_Flag.png|84px|border]] || Added Oregon || {{Dts|format=mdy|1859|07|4}}&nbsp;– July 3, 1861\n| style=\"text-align:left;\" | 2 years\n|- valign=\"top\"\n| 34 || 13 ||[[File:US_flag_34_stars.png|84px|border]] || Added Kansas || {{Dts|format=mdy|1861|07|4}}&nbsp;– July 3, 1863\n| style=\"text-align:left;\" | 2 years\n|- valign=\"top\"\n| 35 || 13 || [[File:US_flag_35_stars.png|84px|border]] || Added West Virginia || {{Dts|format=mdy|1863|07|4}}&nbsp;– July 3, 1865\n| style=\"text-align:left;\" | 2 years\n|- valign=\"top\"\n| 36 || 13 || [[File:US_flag_36_stars.png|84px|border]]<br />[[File:US_36_Star_Wagon_Wheel_Flag.png|84px|border]] || Added Nevada || {{Dts|format=mdy|1865|07|4}}&nbsp;– July 3, 1867\n| style=\"text-align:left;\" | 2 years\n|- valign=\"top\"\n| 37 || 13 || [[File:US_flag_37_stars.png|84px|border]]<br />[[File:US_37_Star_Medallion_Centennial_Flag.png|84px|border]] || Added Nebraska || {{Dts|format=mdy|1867|07|4}}&nbsp;– July 3, 1877\n| style=\"text-align:left;\" | 10 years\n|- valign=\"top\"\n| 38 || 13 || [[File:US_flag_38_stars.png|84px|border]]<br />[[File:US_38_Star_Flag_concentric_circles.png|84px|border]] || Colorado || {{Dts|format=mdy|1877|07|4}}&nbsp;– July 3, 1890\n| style=\"text-align:left;\" | 13 years\n|- valign=\"top\"\n| 43 || 13 || [[File:US_flag_43_stars.png|84px|border]] || Added Idaho, Montana, North Dakota, South Dakota, Washington || {{Dts|format=mdy|1890|07|4}}&nbsp;– July 3, 1891\n| style=\"text-align:left;\" | 1 year\n|- valign=\"top\"\n| 44 || 13 || [[File:US_flag_44_stars.png|84px|border]] || Added Wyoming || {{Dts|format=mdy|1891|07|4}}&nbsp;– July 3, 1896\n| style=\"text-align:left;\" | 5 years\n|- valign=\"top\"\n| 45 || 13 || [[File:US_flag_45_stars.png|84px|border]] || Added Utah || {{Dts|format=mdy|1896|07|4}}&nbsp;– July 3, 1908\n| style=\"text-align:left;\" | 12 years\n|- valign=\"top\"\n| 46 || 13 || [[File:US_flag_46_stars.png|84px|border]] || Added Oklahoma || {{Dts|format=mdy|1908|07|4}}&nbsp;– July 3, 1912\n| style=\"text-align:left;\" | 4 years\n|- valign=\"top\"\n| 48 || 13 || [[File:US_flag_48_stars.svg|84px|border]] || Added Arizona, New Mexico || {{Dts|format=mdy|1912|07|4}}&nbsp;– July 3, 1959\n| style=\"text-align:left;\" | 47 years\n|- valign=\"top\"\n| 49 || 13 || [[File:US_flag_49_stars.png|84px|border]] || Added Alaska || {{Dts|format=mdy|1959|07|4}}&nbsp;– July 3, 1960\n| style=\"text-align:left;\" | 1 year\n|- valign=\"top\"\n| 50 || 13 || [[File:US_flag_50_stars.png|84px|border]] || Added Hawaii || {{Dts|format=mdy|1960|07|4}}&nbsp;– July 3, 2029\n| style=\"text-align:left;\" | 69 years\n|- valign=\"top\"\n| 51 || 13 || [[File:US_flag_51stars.png|84px|border]] || Added Puerto Rico || {{Dts|format=mdy|2029|07|4}}&nbsp;– July 3, 2035\n| style=\"text-align:left;\" | 6 years\n|- valign=\"top\"\n| 52 || 13 || [[File:US_flag_52stars.png|84px|border]] || Added Guyana || {{Dts|format=mdy|2035|07|4}}&nbsp;– July 3, 2037\n| style=\"text-align:left;\" | 2 years\n|- valign=\"top\"\n| 56 || 13 || [[File:US_flag_56stars.png|84px|border]] || Added Cuba, Jamaica, Hispaniola, Antilles|| {{Dts|format=mdy|2037|07|4}}&nbsp;– July 3, 2043\n| style=\"text-align:left;\" | 6 years\n|- valign=\"top\"\n| 56 || 13 || [[File:US_flag_56stars_Black_Stripe.png|84px|border]] || Added Black stripe to memorialize Delaware. || {{Dts|format=mdy|2043|07|4}}&nbsp;– July 3, 2066\n| style=\"text-align:left;\" | 23 years\n|- valign=\"top\"\n| 60 || 13 || [[File:US_flag_60_stars.png|84px|border]] || Added Bahamas, Newfoundland, New Brunswick, Nova Scotia  || {{Dts|format=mdy|2066|07|4}}&nbsp;– July 3, 2073\n| style=\"text-align:left;\" | 7 years\n|- valign=\"top\"\n| 78 || 13 || [[File:US_flag_78_stars.png|84px|border]] || Added Cascadia, Cook, Alberta, Sakatchewan, Manitoba, Superior, Hudson, Ontario, Queensland, South Australia, Victoria, Tasmania, Riverina, New Zealand, Wales, Scotland, England, Ireland || {{Dts|format=mdy|2073|7|4}}&nbsp;– July 3, 2076\n| style=\"text-align:left;\" | 3 years\n|- valign=\"top\"\n| 80|| 13 || [[File:US flag with 80 stars by BF1395.png|frameless|84x84px]]|| Added Keewatin, Athabasca || {{Dts|format=mdy|2076|7|4}}&nbsp;– July 3, 2090\n| style=\"text-align:left;\" | 14 years\n|-\n|81\n|13\n|[[File:US_flag_81smallstars.png|84px|border]]\n|Added Belize\n|<span style=\"font-weight:normal;\">July 4, 2090 </span>– July 3, 2092\n|2 years\n|-\n|81\n|13\n|[[File:US_flag_81smallstars.png|84px|border]]\n|Scaled the stars down by 20%.\n|July 4, 2092 – July 3, 2133\n|41 Years\n|-\n|85\n|13\n|[[File:US flag with 85 stars by BF1395.png|frameless|84x84px]]\n|Added Jacinto, Brazos, Shasta, Mojave\n|July 4, 2133 – July 3, 2137\n|1 Year\n|-\n|7\n|13\n|[[File:US Flag 7 Stars.png|84px|border]]\n|Creation of the 4 Tiered Republic. States are superseded by planetary commonwealths: Earth, Luna, Venus, Mars, Jupiter, Saturn, and Neptune.\n|July 4, 2137 – July 3, 2151\n|17 years\n|-\n|8 (+1)\n|13\n|[[File:Flag_of_the_United_States.png|84px|border]]\n|Added Uranus planetary commonwealth, with to a hollow star to represent the Sun of the Sol System.\n|July 4, 2151 – Present\n|9 years\n|}\n\n\n===Flag Act of 2091===\nDue to the increase in the number of states, and therefore the increase in the number of stars, the US Congress held debates over changes to the US Flag Code. A number of proposed changes were made, the most radical being the Great Field Flag, but ultimately the decision was reached to maintain the existing field's dimensions and scale the stars down by 20%.\n[[Category:Flags]]\n[[Category:Historical flags of the United States]]\n[[Category:United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-08-04T03:25:23Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Dts"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Dts"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Yesno"
+          }
+        ],
+        "title": "Flags of the United States",
+        "touched": "2025-08-04T03:25:23Z"
+      },
+      "1937": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Former countries in Oceania"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Australian flag.jpeg"
+          }
+        ],
+        "lastrevid": 10066,
+        "length": 703,
+        "ns": 0,
+        "pageid": 1937,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9852,
+            "revid": 10066,
+            "slots": {
+              "main": {
+                "*": "[[File:Australian flag.jpeg|thumb|220x220px|The Flood]]Australia suffered greatly from the Flood, with a massive drought that left the Australian interior virtually uninhabitable, while coastal cities such as Darwin and Sydney were threatened by the rising tides. \n\nThe large amount of the population sought a last resort investment to construct large and technologically advanced underground cities to help people escape from the harsh climates of the drought .  One of which were located inland Australia burrowed in the Blue Mountains. However approximately 20 million Australians took advantage of the demand of labour in North America and left the country. \n[[Category:Former countries in Oceania]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-01-20T15:28:03Z"
+          }
+        ],
+        "title": "Australia",
+        "touched": "2021-01-20T15:28:03Z"
+      },
+      "1938": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5089,
+        "length": 1346,
+        "ns": 1201,
+        "pageid": 1938,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5088,
+            "revid": 5089,
+            "slots": {
+              "main": {
+                "*": "Okay so, i've been holding this off for a while since I was afraid that I am bothering you too much. But when you created that page about US flags, I felt that I am obligated to do this now.\n\nSo basically I would like to propose 3  different future flags of the United States.\n\nhttp://imgur.com/a/XJsFM (sorry for the somewhat bad grammar)\n\nSo the first flag is basically the first flag holds the sun (as a star) in the center while Planets sporting their own unique star shape surrounding the star. As you can see there are 8 P-commonwealths surrounding the star.\n\nThe second flag is the same as the first except the planets are replaced with circles to make it \"actually shaped like a planet\" and all that.  This is to avoid misconceptions in regards to people mistaking the planets for stars instead of the Planetary Commonwealth and all that. Idk i think it's unique\n\nThe final flag could be another more futuristic flag, when the US starts to colonize more of the galaxy and is more generalized. The third flag sports a 'core' (which can either be a planet, dwarf planet, sun, the core of a galaxy, etc.) with a large circle around it which represents anything 'orbiting' around the core. The flag also references the renowned US symbol used during World War Two. \n\nSo what do you think?<ac_metadata title=\"flag of the US\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-18T02:40:18Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170818021548",
+        "touched": "2017-08-22T02:12:29Z"
+      },
+      "1939": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5096,
+        "length": 46,
+        "new": "",
+        "ns": 1,
+        "pageid": 1939,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5096,
+            "slots": {
+              "main": {
+                "*": "Keetwatin and Athabasca can come later i guess",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-18T04:03:00Z"
+          }
+        ],
+        "title": "Talk:Flags of the United States/@comment-5590986-20170818040300",
+        "touched": "2017-08-18T04:03:00Z"
+      },
+      "1940": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5098,
+        "length": 128,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1940,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5098,
+            "slots": {
+              "main": {
+                "*": "Well, it was time somebody did it. I like the first one the most, but I'm gonna play with it a bit before I adopt it. Thank you.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-18T14:09:14Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170818021548/@comment-899576-20170818140914",
+        "touched": "2017-08-18T14:09:14Z"
+      },
+      "1941": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6169,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1941,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5100,
+            "revid": 6169,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Historical flags of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:04:43Z"
+          }
+        ],
+        "title": "File:US flag 15 stars.png",
+        "touched": "2017-11-08T00:10:50Z"
+      },
+      "1942": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6107,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1942,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5101,
+            "revid": 6107,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Historical flags of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:47:41Z"
+          }
+        ],
+        "title": "File:Grand Union Flag.png",
+        "touched": "2017-11-08T00:10:50Z"
+      },
+      "1943": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6167,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1943,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5102,
+            "revid": 6167,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:04:16Z"
+          }
+        ],
+        "title": "File:US flag 13 stars.png",
+        "touched": "2017-11-08T00:14:17Z"
+      },
+      "1944": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6168,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1944,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5103,
+            "revid": 6168,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:04:29Z"
+          }
+        ],
+        "title": "File:US flag 13 stars – Betsy Ross.png",
+        "touched": "2017-11-08T00:14:16Z"
+      },
+      "1945": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6025,
+        "length": 51,
+        "ns": 6,
+        "pageid": 1945,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5104,
+            "revid": 6025,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:25:30Z"
+          }
+        ],
+        "title": "File:Cowpens Flag.png",
+        "touched": "2017-11-08T00:09:27Z"
+      },
+      "1946": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6170,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1946,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5105,
+            "revid": 6170,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Historical flags of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:04:53Z"
+          }
+        ],
+        "title": "File:US flag 20 stars.png",
+        "touched": "2017-11-08T00:14:16Z"
+      },
+      "1947": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6197,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1947,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5106,
+            "revid": 6197,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:11:20Z"
+          }
+        ],
+        "title": "File:20 Star GreatStar Flag.png",
+        "touched": "2017-11-08T00:09:27Z"
+      },
+      "1948": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6171,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1948,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5107,
+            "revid": 6171,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Historical flags of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:05:09Z"
+          }
+        ],
+        "title": "File:US flag 21 stars.png",
+        "touched": "2017-11-08T00:14:16Z"
+      },
+      "1949": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6172,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1949,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5108,
+            "revid": 6172,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:05:20Z"
+          }
+        ],
+        "title": "File:US flag 23 stars.png",
+        "touched": "2017-11-08T00:14:17Z"
+      },
+      "1950": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6173,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1950,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5109,
+            "revid": 6173,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:05:28Z"
+          }
+        ],
+        "title": "File:US flag 24 stars.png",
+        "touched": "2017-11-08T00:14:17Z"
+      },
+      "1951": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6174,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1951,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5110,
+            "revid": 6174,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:05:44Z"
+          }
+        ],
+        "title": "File:US flag 25 stars.png",
+        "touched": "2017-11-08T00:14:17Z"
+      },
+      "1952": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5810,
+        "length": 51,
+        "ns": 6,
+        "pageid": 1952,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5111,
+            "revid": 5810,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T15:56:01Z"
+          }
+        ],
+        "title": "File:US flag 26 stars.png",
+        "touched": "2017-11-08T00:14:17Z"
+      },
+      "1953": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6161,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1953,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5112,
+            "revid": 6161,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:01:31Z"
+          }
+        ],
+        "title": "File:US 26 Star GreatStar Flag.png",
+        "touched": "2017-11-08T00:14:17Z"
+      },
+      "1954": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6175,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1954,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5113,
+            "revid": 6175,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:06:08Z"
+          }
+        ],
+        "title": "File:US flag 27 stars.png",
+        "touched": "2017-11-08T00:14:17Z"
+      },
+      "1955": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6186,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1955,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5117,
+            "revid": 6186,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:07:59Z"
+          }
+        ],
+        "title": "File:US flag 49 stars.png",
+        "touched": "2017-11-08T00:14:17Z"
+      },
+      "1956": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6184,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1956,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5118,
+            "revid": 6184,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:07:42Z"
+          }
+        ],
+        "title": "File:US flag 46 stars.png",
+        "touched": "2017-11-08T00:14:17Z"
+      },
+      "1957": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6183,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1957,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5119,
+            "revid": 6183,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:07:35Z"
+          }
+        ],
+        "title": "File:US flag 45 stars.png",
+        "touched": "2017-11-08T00:14:17Z"
+      },
+      "1958": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6182,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1958,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5120,
+            "revid": 6182,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:07:28Z"
+          }
+        ],
+        "title": "File:US flag 44 stars.png",
+        "touched": "2017-11-08T00:14:17Z"
+      },
+      "1959": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6181,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1959,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5121,
+            "revid": 6181,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:07:12Z"
+          }
+        ],
+        "title": "File:US flag 43 stars.png",
+        "touched": "2017-11-08T00:14:17Z"
+      },
+      "1960": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6180,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1960,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5122,
+            "revid": 6180,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:07:03Z"
+          }
+        ],
+        "title": "File:US flag 38 stars.png",
+        "touched": "2017-11-08T00:14:18Z"
+      },
+      "1961": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6164,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1961,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5123,
+            "revid": 6164,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:02:00Z"
+          }
+        ],
+        "title": "File:US 38 Star Flag concentric circles.png",
+        "touched": "2017-11-08T00:14:17Z"
+      },
+      "1962": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6179,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1962,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5124,
+            "revid": 6179,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:06:52Z"
+          }
+        ],
+        "title": "File:US flag 37 stars.png",
+        "touched": "2017-11-08T00:14:17Z"
+      },
+      "1963": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6163,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1963,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5125,
+            "revid": 6163,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:01:49Z"
+          }
+        ],
+        "title": "File:US 37 Star Medallion Centennial Flag.png",
+        "touched": "2017-11-08T00:14:17Z"
+      },
+      "1964": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6176,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1964,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5127,
+            "revid": 6176,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Historical flags of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:06:19Z"
+          }
+        ],
+        "title": "File:US flag 28 stars.png",
+        "touched": "2017-11-08T00:14:17Z"
+      },
+      "1965": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6177,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1965,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5128,
+            "revid": 6177,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:06:28Z"
+          }
+        ],
+        "title": "File:US flag 29 stars.png",
+        "touched": "2017-11-08T00:11:10Z"
+      },
+      "1966": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6162,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1966,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5129,
+            "revid": 6162,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:01:38Z"
+          }
+        ],
+        "title": "File:US 29 Star Diamond Pattern Flag.png",
+        "touched": "2017-11-08T00:11:10Z"
+      },
+      "1967": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6178,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1967,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5130,
+            "revid": 6178,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:06:44Z"
+          }
+        ],
+        "title": "File:US flag 30 stars.png",
+        "touched": "2017-11-08T00:11:10Z"
+      },
+      "1968": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5820,
+        "length": 51,
+        "ns": 6,
+        "pageid": 1968,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5131,
+            "revid": 5820,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T17:22:04Z"
+          }
+        ],
+        "title": "File:US flag 31 stars.png",
+        "touched": "2017-11-08T00:11:10Z"
+      },
+      "1969": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5821,
+        "length": 51,
+        "ns": 6,
+        "pageid": 1969,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5132,
+            "revid": 5821,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T17:22:10Z"
+          }
+        ],
+        "title": "File:US flag 32 stars.png",
+        "touched": "2017-11-08T00:11:10Z"
+      },
+      "1970": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5822,
+        "length": 51,
+        "ns": 6,
+        "pageid": 1970,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5133,
+            "revid": 5822,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T17:22:17Z"
+          }
+        ],
+        "title": "File:US flag 33 stars.png",
+        "touched": "2017-11-08T00:11:10Z"
+      },
+      "1971": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5823,
+        "length": 51,
+        "ns": 6,
+        "pageid": 1971,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5134,
+            "revid": 5823,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T17:22:23Z"
+          }
+        ],
+        "title": "File:US 33 Star Fort Sumter Flag.png",
+        "touched": "2017-11-08T00:11:10Z"
+      },
+      "1972": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5819,
+        "length": 51,
+        "ns": 6,
+        "pageid": 1972,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5135,
+            "revid": 5819,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T17:21:57Z"
+          }
+        ],
+        "title": "File:US 33 Star GreatStar Flag.png",
+        "touched": "2017-11-08T00:11:11Z"
+      },
+      "1973": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5818,
+        "length": 51,
+        "ns": 6,
+        "pageid": 1973,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5136,
+            "revid": 5818,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T17:21:36Z"
+          }
+        ],
+        "title": "File:US flag 34 stars.png",
+        "touched": "2017-11-08T00:11:11Z"
+      },
+      "1974": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5817,
+        "length": 51,
+        "ns": 6,
+        "pageid": 1974,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5137,
+            "revid": 5817,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T17:21:29Z"
+          }
+        ],
+        "title": "File:US flag 35 stars.png",
+        "touched": "2017-11-08T00:11:11Z"
+      },
+      "1975": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5816,
+        "length": 70,
+        "ns": 6,
+        "pageid": 1975,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5138,
+            "revid": 5816,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Historical flags of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T17:21:09Z"
+          }
+        ],
+        "title": "File:US flag 36 stars.png",
+        "touched": "2017-11-08T00:11:11Z"
+      },
+      "1976": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5824,
+        "length": 51,
+        "ns": 6,
+        "pageid": 1976,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5139,
+            "revid": 5824,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T17:22:30Z"
+          }
+        ],
+        "title": "File:US 36 Star Wagon Wheel Flag.png",
+        "touched": "2017-11-08T00:11:11Z"
+      },
+      "1977": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Historical flags of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5825,
+        "length": 51,
+        "ns": 6,
+        "pageid": 1977,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5144,
+            "revid": 5825,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Historical flags of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T17:22:36Z"
+          }
+        ],
+        "title": "File:US flag 80 stars.png",
+        "touched": "2017-12-14T17:08:02Z"
+      }
+    }
+  }
+}

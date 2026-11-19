@@ -1,0 +1,8 @@
+<includeonly>transparent; text-align:center; border: 2px solid red; error:colour</includeonly><noinclude><!--
+-- The caller template must check invalid
+-- {{{colour}}} value to link [[Category:Taxoboxes with an invalid color]] because
+-- a [[wp:wikitable]] column format cannot contain a wikilinked page or category,
+-- as of September 2016.
+--
+-- See check of {{{colour}}} in template {Taxobox/core}.
+-->{{documentation|Template:Taxobox colour/doc}}</noinclude>

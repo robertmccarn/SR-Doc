@@ -1,0 +1,17 @@
+{{Documentation subpage}}
+{{WikiProject Infoboxes sidebar}}
+<!--Categories where indicated at the bottom of this page, please; interwikis at Wikidata (see [[Wikipedia:Wikidata]])-->
+
+== Usage ==
+Place {{tlx|Organization infoboxes}} on the very pages that it lists. (Check these here: [[Special:WhatLinksHere/Template:Organization infoboxes]].)
+
+{{Collapsible option|state=expanded}}
+
+==See also==
+* {{tl|WikiProject Infoboxes sidebar}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox | |
+<!--Categories below this line, please; interwikis at Wikidata-->
+[[Category:Navigational meta-templates]]
+[[Category:WikiProject Infoboxes]]
+}}</includeonly>

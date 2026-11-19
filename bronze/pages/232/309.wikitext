@@ -1,0 +1,15 @@
+<nowiki>#FF3333</nowiki><noinclude>
+== Examples ==
+{|
+|- style="color:{{ {{PAGENAME}} }}"
+| '''This color'''
+|- style="background:{{ {{PAGENAME}} }}; color:white"
+| '''White on this color'''
+|- style="background:{{ {{PAGENAME}} }}; color:black"
+| '''Black on this color'''
+|}
+
+== See also ==
+* {{tl|Democratic Party (United States)/meta/color}}
+[[Category:United States Republican Party color templates|{{PAGENAME}}]]
+</noinclude>

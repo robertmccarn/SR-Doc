@@ -1,0 +1,68 @@
+---
+page_id: 2348
+revision_id: 9340
+source_url: https://second-renaissance.fandom.com/wiki/Flora_and_Fauna_of_Venus
+raw_sha256: 3c9ebe9a0fbb0c1987eab2ea1dc71043938c396e37015359caeeeafda73e1be7
+---
+
+# Flora and Fauna of Venus
+
+## Preserved source
+
+```wikitext
+The fauna of [Venus](1154-venus.md) includes all the animals living on the planet Venus, beneath its seas, and on its off-world habitats. Venus has many distinctive indigenous species tailored by humans during the terraforming process. At a distance from the sun 50% closer than the Earth, and only 98% terran gravity, the species inhabiting are similar in size to their counterparts on Earth (as opposed to those on Mars, which frequently grow larger), but have been adapted for warmer average temperatures.
+
+Venus has a wide variety of life zones covering its four continents and relatively shallow global ocean.
+
+# Wildlife
+## '''Aphrodite'''
+* Aphrodite Leopard--A large cat derived from the Indian leopard, and one of the largest land predators on Aphrodite. A solitary hunter, feeding mainly on hoofed mammals. Like all genetically modified large predators on extraterrestrial colonies, they are engineered to avoid the odor of humans, making attacks less likely.
+* Nasbok-- A relatively large but slender hoofed herbivore (about 2 meters at the shoulder) derived from dik-diks and other small antelope. Their noses are modified into short but flexible trunks for grasping the vegetation on which they feed.
+* Paradise Hawk-- A medium-sized raptor derived from the Common buzzard, with a wingspan of 1.5 meters and spectacular iridescent golden feathers, which feeds mainly on fish, rodents, lizards, and snakes. They usually hunt by gliding low over the ground before suddenly diving on their prey, and build nests in sturdy tree branches.
+* Needle-of-Athena Dragonfly-- A large dragonfly (up to 12 cm in wingspan) descended from the common clubtail. They are often considered on of the most beautiful insects on Venus, with brilliant black-and-yellow markings and emerald-green eyes. They are powerful predators, capable of bringing down prey as large as themselves in midair.
+* Elephant Tapir-- Derived from the Malayan tapir but smaller, this forest-dwelling browser is the still the largest herbivore in Aphrodite. Its name comes from the fact that the flexible proboscis of its ancestors has been modified into an elephant-like trunk for grasping food. 
+
+## '''Ishtar'''
+* Magellanic Rhinoceros-- A descendent of Earth's Javan Rhinoceros, which adapted better to the heat of Venus than larger members of its family. Few differences from its unmodified ancestor except that it has less body hair and is less prone to gathering in large groups
+* Dire Badger-- An enormous mustelid derived from the honey badger, measuring 2 meters in total length. A vicious and aggressive carnivore that feeds on other large mammals and reptiles, but does not attack humans due to being engineered to avoid them.
+* Jewel geckos-- Several dozen species of modified geckos, ranging from 2 to 55 centimeters long, that have been modified to have extremely bright colors and even contain bioluminescent bacteria. Their colors are not an evolutionary handicap, as they are also poisonous to eat. Extremely docile, they are often kept in buildings as insect control and living decoration.
+* Tree Gremlins-- Modified lemurs (primarily based on the ruffed lemur) whose loud, cackling cries and inquisitive habits earned them their name. Live in large groups, which are led by females rather than males.
+* Ishtar Lynx-- Modified and descended from the Iberian lynx, Ishtar Lynxes are more adapted to the warm and coastal weather of urban environments than their terrestrial ancestors. They are quite common as pets/companions on Venus as they were a popular alternative to canines on the planet, but most concentrated in Ishtar where they were first developed. Wild Ishtar lynxes usually live along areas of water flow.
+## '''Phoebe'''
+*Phoebe Red Wolf-- Modified descendants of the Red Wolf. Conservation attempts were made in the US state of North Carolina for some time for this animal, but they were commonly shot at due to it's peculiar resemblance to a Coyote. This remained commonplace until Venus became habitable. Early attempts were unsuccessful at integrating it with the biosphere, but eventually it began to adapt to the warm climate, and its numbers increased hundred-fold. 
+*Weaver-rat-- A small rodent derived from the harvest mouse. Its spherical grass nests, which are usually about the size of a soccer ball, hang from tree branches and may remain in place for years on end even though they are seldom used for more than one year. They were created as an aesthetic addition to Phoebe's forests.
+
+## '''Lada'''
+* Lada Parakeet-- A derivative of the formerly-extinct Carolina parakeet of Earth, this small parrot lives in large, noisy flocks and feeds on fruit and seeds. They are popular as pets, and can be taught to imitate human speech. On [Mars](318-mars.md), the same species has been used as a base animal for some species of hogparrot. 
+* Wyvernfly-- A large solitary hunting wasp derived from the eastern cicada killer that feeds on other insects, paralyzing them with its sting and feeding them to its larvae. Although it is capable of stinging if provoked, it is not aggressive towards humans. It can reach up to 8 cm in length.  
+* Leaf Ninja-- A giant predatory raphidiopteran, or snakefly, whose green wings allow it to mimic leaves and ambush smaller insects. Its mantis-like front legs are equipped with barbed hooks that can give a painful nip if it is bothered.  
+* Tree-driller-- Not all of Lada's large insects are predators. Tree-drillers are true bugs that can be up to 10 cm long, which feed by sucking the sap of certain trees. They cling to a branch or trunk with their powerful legs, and extract the sap using a sharp sucking proboscis. Their exoskeletons are thick and durable, allowing them protection from predatory birds as well as Wyvernflies.  
+
+## '''Sedna Sea'''
+* Venusian Gharial-- A marine crocodilian derived from the gharial of Earth, which spends most of its life at sea and feeds mainly on fish and squid while only coming ashore to bask and lay eggs. Despite growing up to 5 meters long, it is harmless to humans because it feeds mainly on small prey.
+* Akhlut-- A predatory cetacean, up to 9 meters long, derived from the killer whale. Often compared to the wolf, it hunts in highly organized packs in the sea, preying on other large sea animals. Unlike most cetaceans, the Akhlut is partially amphibious with its pectoral fins having been reverted to proto-forelimbs with two stubby hindlimbs that allow it to support itself in shallow water and ambush prey on shore in the manner of a crocodile.
+* Sedna Whale-- A whale up to 18 meters long, and the largest animal on the planet. Unlike the Porpids of Mars, it is a true descendant of baleen whales. Despite its great length, the Sedna whale features a flattened body similar to the whale shark to more easily navigate the shallow oceans of Venus.
+* Yellow wobbegong-- A common bottom feeder of the Venusian seas, measuring 1.3 meters long, which hunts other fish and crabs by ambush. Harmless to humans, but may deliver a painful bit if it is stepped on.
+
+## '''Niobe Sea'''
+*Niobe Octopus-- A descendent of the giant Pacific octopus which can grow up to 6 meters across. Surprisingly intelligent and, like the Giant Hellenic Octopus of Mars, capable of living through more than one breeding cycle.
+*Great White Ray-- A derivative of the Atlantic manta ray which can measure up to 7 meters across. A harmless plankton-feeder, it is mostly similar to its unmodified ancestor. The biggest difference is its white coloration, which is to reflect the intense sunlight that comes with living on a planet closer to the sun.
+*Butterfly Skate-- No more than 0.5 meters long, this skate is derived from the much larger New Zealand Skate. They often travel in huge schools, resembling nothing so much as swarms of butterflies. Like the much larger Great White Ray, they have reflective light-colored skin to cope with the intense sunlight.
+*Buccaneer-bird-- A derivative of the magnificent frigatebird with a 3-meter wingspan. While small compared to the largest birds and flying reptiles on Mars, it is one of the largest flyers on Venus. A predator of fish and squid, as well as the young of other sea birds.
+*Niobe Monk Seal-- A derivative of the Hawaiian Monk seal which grows to about 1.5 meters long, and lives in colonies along the coastlines of the Niobe Sea. Feeds primarily on small fish, and gives birth to a single pup during the breeding season.
+
+## '''Aino Sea'''
+* Malcontent ogre-shark-- A very large (up to 5 meters long) derivative of the Port Jackson shark that is specialized to feed on bottom-dwelling shelled invertebrates such as crabs and clams. Its teeth are flat and pavement-like rather than sharp, for crushing the shells of its prey.
+* Aino Mackerel-- A schooling fish found in the oceans throughout the planet, and an important component of many Venusian food chains. They feed on smaller fish and crustaceans and in turn are eaten by many sea-dwelling predators
+* Acrobat Whale-- A toothed whale descended from the pilot whale, which feeds primarily on squid and grows to about 8 meters long. Named for its spectacular leaping and spy-hopping behavior, and its extremely social habits.
+*Lesser A'Tuin-- The largest sea turtle in existence, the Lesser A'Tuin male sports a shell nearly 2 meters in diameter that unlike other species is almost always covered in some strain of algae, moss, or even small terrestrial plants. Unlike other sea turtles, they carry their eggs in a brood pouch until they hatch, and therefore never come onto land even to breed.
+
+# Plant-life
+*Great wooly ceiba - One of the more common trees on Venus, this strain of ceiba has been modified with stachys byzantina DNA to coat its leaves with a thin fur-like hair coating, improving its ability to reflect light.
+*
+[Category:Species](https://second-renaissance.fandom.com/wiki/Category:Species)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/2348/9340.wikitext` · revision `9340` · [upstream](https://second-renaissance.fandom.com/wiki/Flora_and_Fauna_of_Venus)

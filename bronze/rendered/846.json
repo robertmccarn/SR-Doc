@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "*": "Template_documentation_pages",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"plainlinks ombox ombox-notice\" style=\"margin-bottom:1.0em;\">\n<tbody><tr>\n<td class=\"mbox-image\">\n  <span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://static.wikia.nocookie.net/second-renaissance/images/1/15/Edit-copy_green.svg/revision/latest/scale-to-width-down/40?cb=20150808172902\" decoding=\"async\" loading=\"lazy\" width=\"40\" height=\"40\" class=\"mw-file-element\" data-image-name=\"Edit-copy green.svg\" data-image-key=\"Edit-copy_green.svg\" data-relevant=\"0\" /></span></span></td>\n<td class=\"mbox-text\" style=\"\"> <b>This is a <a href=\"https://en.wikipedia.org/wiki/Template_documentation\" class=\"extiw\" title=\"wikipedia:Template documentation\">documentation</a> <a href=\"https://en.wikipedia.org/wiki/Subpages\" class=\"extiw\" title=\"wikipedia:Subpages\">subpage</a> for <a href=\"/wiki/Template:Notelist\" title=\"Template:Notelist\">Template:Notelist</a></b>.<br />It contains usage information, <a href=\"https://en.wikipedia.org/wiki/Categorization\" class=\"extiw\" title=\"wikipedia:Categorization\">categories</a> and other content that is not part of the original template page. </td>\n</tr>\n</tbody></table>\n<p><a href=\"https://community.fandom.com/wiki/Help:Footnotes\" title=\"Help:Footnotes\">Help:Footnotes</a>\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119205532\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.013 seconds\nReal time usage: 0.022 seconds\nPreprocessor visited node count: 188/1000000\nPost‐expand include size: 3891/2097152 bytes\nTemplate argument size: 1110/2097152 bytes\nHighest expansion depth: 17/100\nExpensive parser function count: 1/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    9.365      1 Template:Documentation_subpage\n100.00%    9.365      1 -total\n 73.85%    6.916      1 Template:Mbox\n 36.73%    3.440      1 Template:Ombox\n 21.18%    1.983      1 Template:Ombox/core\n 20.06%    1.879      1 Template:Namespace_detect\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:846-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205532 and revision id 1159. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Notelist",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Help:Footnotes",
+      "ns": 12
+    }
+  ],
+  "page_id": 846,
+  "revision_id": 1159,
+  "title": "Template:Notelist/doc"
+}

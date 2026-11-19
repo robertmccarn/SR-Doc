@@ -1,0 +1,32 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>The <span class=\"new\" title=\"Help:HTML in wikitext (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvSGVscDpIVE1MX2luX3dpa2l0ZXh0P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">HTML mark-up</span> produced by this template includes an [[{{{format}}} microformat]] that makes {{{data}}} readily <a href=\"/wiki/Parsing\" class=\"mw-redirect\" title=\"Parsing\">parsable</a> by computer programs. This aids tasks such as the cataloguing of articles and maintenance of databases. For more information about the use of microformats on Wikipedia, please visit <a href=\"https://en.wikipedia.org/wiki/WikiProject_Microformats\" class=\"extiw\" title=\"wikipedia:WikiProject Microformats\">the Microformat WikiProject</a>.</p><div style=\"margin-top:0.5em;margin-bottom:0.65em;\">\n<dl><dt><span style=\"font-size: 120%;\">Subtemplates</span></dt></dl>\n<p>{{{subtemplates}}}\n</p><p><i><b>Please do not remove instances of these subtemplates.</b></i>\n</p>\n</div><div style=\"margin-top:0.5em;margin-bottom:0.65em;\">\n<dl><dt><span style=\"font-size: 120%;\">Classes used</span></dt></dl>\n<p>The <a href=\"/wiki/HTML_attribute\" class=\"mw-redirect\" title=\"HTML attribute\">HTML classes</a> this microformat uses include:\n</p>\n<dl><dd><div class=\"hlist\"><ul><li style=\"font-size:110%;\">{{{1}}}</li><li style=\"font-size:110%;\">{{{2}}}</li><li style=\"font-size:110%;\"><span style=\"font-weight:normal;\">……</span></li></ul></div>  </dd></dl></div>\n<div style=\"padding:0.1em 0;line-height:1.2em;line-height:1.3em\"><i><b>Please do not rename or remove these classes<br />nor collapse nested elements which use them.</b></i></div>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:Microformat message/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6TWljcm9mb3JtYXRfbWVzc2FnZS9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:Microformat_message/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:Microformat message/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6TWljcm9mb3JtYXRfbWVzc2FnZS9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:Microformat message/doc</span></div>\n\n<!-- \nNewPP limit report\nCached time: 20261119205427\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.033 seconds\nReal time usage: 0.056 seconds\nPreprocessor visited node count: 106/1000000\nPost‐expand include size: 2116/2097152 bytes\nTemplate argument size: 356/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nLua time usage: 0.006/7.000 seconds\nLua memory usage: 640263/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   39.376      1 -total\n 76.25%   30.025      1 Template:Hlist\n  8.53%    3.360      1 Template:Documentation\n  8.24%    3.243      2 Template:Big\n  5.64%    2.220      1 Template:Longitem\n  4.84%    1.905      1 Template:Nobold\n  2.84%    1.119      1 Template:Microformat_message/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:337-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205427 and revision id 528. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Microformat message/doc",
+      "ns": 10
+    },
+    {
+      "*": "HTML attribute",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Parsing",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Help:HTML in wikitext",
+      "ns": 12
+    }
+  ],
+  "page_id": 337,
+  "revision_id": 528,
+  "title": "Template:Microformat message"
+}

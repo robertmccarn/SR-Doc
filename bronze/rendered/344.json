@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "*": "Pages_with_broken_file_links",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p><span class=\"flagicon\"><span typeof=\"mw:Error mw:File\"><a href=\"/wiki/Special:Upload?wpDestFile=Flag_placeholder.svg\" class=\"new\" title=\"File:Flag placeholder.svg\"><span class=\"mw-file-element mw-broken-media\" data-width=\"23\" data-height=\"15\">File:Flag placeholder.svg</span></a></span>&#160;</span>[[|]]\n</p>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:Flag/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6RmxhZy9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:Flag/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:Flag/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6RmxhZy9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:Flag/doc</span></div>\n<!-- \nNewPP limit report\nCached time: 20261119205428\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.010 seconds\nReal time usage: 0.014 seconds\nPreprocessor visited node count: 53/1000000\nPost‐expand include size: 575/2097152 bytes\nTemplate argument size: 29/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    4.890      1 -total\n 54.70%    2.675      1 Template:Country_data\n 43.40%    2.122      1 Template:Documentation\n 28.30%    1.384      1 Template:Flag/core\n 17.69%    0.865      1 Template:Flag/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:344-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205428 and revision id 541. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Flag/doc",
+      "ns": 10
+    }
+  ],
+  "page_id": 344,
+  "revision_id": 541,
+  "title": "Template:Flag"
+}

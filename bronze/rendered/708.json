@@ -1,0 +1,18 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"metadata plainlinks ambox ambox-notice ambox-POV\" role=\"presentation\"><tbody><tr><td class=\"mbox-image\"><div style=\"width:52px\"><span typeof=\"mw:File\"><a href=\"https://static.wikia.nocookie.net/ucp-internal-test-starter-commons/images/e/e2/Template-info.png/revision/latest?cb=20200818143800\" class=\"mw-file-description image\"><img alt=\"Template-info\" src=\"https://static.wikia.nocookie.net/ucp-internal-test-starter-commons/images/e/e2/Template-info.png/revision/latest/scale-to-width-down/45?cb=20200818143800\" decoding=\"async\" loading=\"lazy\" width=\"45\" height=\"23\" class=\"mw-file-element\" data-image-name=\"Template-info.png\" data-image-key=\"Template-info.png\" data-relevant=\"0\" /></a></span></div></td><td class=\"mbox-text\"><span class=\"mbox-text-span\">This template may be suitable for conversion to use <div style=\"clear:both\"> as a base.<span class=\"hide-when-compact\"></span><span class=\"hide-when-compact\"></span></div></span></td></tr></tbody></table>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:Convert to use Infobox/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6Q29udmVydF90b191c2VfSW5mb2JveC9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:Convert_to_use_Infobox/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:Convert to use Infobox/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6Q29udmVydF90b191c2VfSW5mb2JveC9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:Convert to use Infobox/doc</span></div>\n<!-- \nNewPP limit report\nCached time: 20261119205515\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.030 seconds\nReal time usage: 0.047 seconds\nPreprocessor visited node count: 36/1000000\nPost‐expand include size: 1343/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nLua time usage: 0.013/7.000 seconds\nLua memory usage: 778076/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   38.402      1 -total\n 93.43%   35.880      1 Template:Ambox\n  6.25%    2.399      1 Template:Documentation\n  4.23%    1.625      1 Template:Tl\n  2.46%    0.943      1 Template:Convert_to_use_Infobox/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:708-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205515 and revision id 978. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Convert to use Infobox/doc",
+      "ns": 10
+    }
+  ],
+  "page_id": 708,
+  "revision_id": 978,
+  "title": "Template:Convert to use Infobox"
+}

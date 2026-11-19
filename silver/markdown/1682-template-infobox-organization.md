@@ -1,0 +1,241 @@
+---
+page_id: 1682
+revision_id: 8500
+source_url: https://second-renaissance.fandom.com/wiki/Template%3AInfobox_Organization
+raw_sha256: e379f25b18ba8cedcfa7f30715990503c427670a097bf0a2e8bf58a49ec3dd51
+---
+
+# Template:Infobox Organization
+
+## Preserved source
+
+```wikitext
+{{Infobox
+| bodyclass = vcard
+
+| titleclass = fn org
+| title = {{{name|{{{organization_name|{{{Non-profit_name|<includeonly>{{PAGENAMEBASE}}</includeonly>}}}}}}}}}
+
+| subheader = {{#if:{{{native_name|{{{native name|}}}}}}|<span class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name|{{{native name}}}}}}</span>}}
+
+| image2 = {{#invoke:InfoboxImage|InfoboxImage |image={{{image|}}} |size={{{image_size|{{{imagesize|{{{size|}}}}}}}}} |sizedefault=frameless |alt={{{image_alt|{{{alt|}}}}}} }}
+| caption2 = {{{caption|}}}
+
+| image = {{#invoke:InfoboxImage|InfoboxImage |image={{{logo|{{{organization_logo|{{{Non-profit_logo|}}}}}}}}} |size={{{logo_size|}}} |sizedefault=250px |alt={{{logo_alt|}}} }}
+| caption = {{{logo_caption|}}}
+
+| image3 = {{#invoke:InfoboxImage|InfoboxImage |image={{{map|}}} |size={{{map_size|{{{msize|}}}}}} |sizedefault=250px |alt={{{map_alt|{{{malt|}}}}}} }}
+| caption3 = {{{map_caption|{{{mcaption|}}}}}}
+
+| image4 = {{#invoke:InfoboxImage|InfoboxImage |image={{{map2|}}} |size={{{map2_size|}}} |sizedefault=250px |alt={{{map2_alt|}}} }}
+| caption4 = {{{map2_caption|}}}`
+
+| labelstyle = padding-right:0.6em;<!--(to ensure some gap between any (long/unwrapped) labels and subsequent data on same line)-->
+
+| label1  = Abbreviation
+| class1  = nickname
+|  data1  = {{{abbreviation|}}}
+
+| label2 = Pronunciation
+|  data2 = {{#if:{{{pronounce|}}}{{{Pronounce|}}}{{{Pronunciation|}}}{{{pronunciation|}}}{{{pronounce comment|}}} |<!--
+-->{{ubl|1={{{pronounce|}}}{{{Pronounce|}}}{{{Pronunciation|}}}{{{pronunciation|}}}{{{pronounce ref|}}}&#x20;{{{pronounce comment|}}}<!--
+     -->|2={{{pronounce 2|}}} }}}}
+
+| label3  = Named after
+|  data3  = {{{named_after|}}}
+
+| label4  = Motto
+| class4  = note
+|  data4  = {{{motto|{{{organization_motto|{{{pledge|}}}}}}}}}
+
+| label5  = Predecessor
+|  data5  = {{{predecessor|}}}
+
+| label6  = Merged&nbsp;into
+|  data6  = {{{merged|}}}
+
+| label7  = Successor
+|  data7  = {{{successor|}}}
+
+| label8  = {{#if:{{{formation|}}} |Formation |{{#if:{{{founded_date|{{{founded|}}}}}}|Founded|Established}} }}
+| class8  = note
+|  data8  = {{if empty |{{{formation|}}} |{{{established|}}} |{{{founded_date|{{{founded|}}}}}} }}
+
+| label9  = Founder{{#if:{{{founders|}}}|s}}
+|  data9  = {{#if:{{{founders|}}} |{{{founders}}} |{{{founder|}}} }}
+
+| label10  = Founded at
+|  data10  = {{{founding_location|}}}
+
+| label11  = {{#if:{{{extinction|}}} |Extinction | Dissolved}}
+|  data11  = {{#if:{{{extinction|}}} |{{{extinction}}} |{{{dissolved|}}} }}
+
+| label12  = Merger&nbsp;of
+|  data12  = {{{merger|}}}
+
+| label13 = Type
+|  data13 = {{{type|{{{organization_type|{{{Non-profit_type|}}}}}}}}}
+
+| label14 = {{longitem |{{#if:{{{vat_id|}}} |[VAT ID no.](https://second-renaissance.fandom.com/wiki/VAT_identification_number) |[Tax ID no.](https://second-renaissance.fandom.com/wiki/Taxpayer_Identification_Number)}} }}
+|  data14 = {{#if:{{{vat_id|}}} |{{{vat_id}}} |{{{tax_id|}}} }}
+
+| label15 = Registration&nbsp;no.
+|  data15 = {{{registration_id|}}}
+
+| label16 = Legal status
+|  data16 = {{{status|}}}
+
+| label17 = {{#if:{{{focus|{{{foci|}}}}}} |Focus |Purpose}}
+|  data17 = {{#if:{{{focus|{{{foci|}}}}}} |{{{focus|{{{foci|}}}}}} |{{{purpose|}}} }}
+
+| label18 = {{longitem|Professional title}}
+|  data18 = {{{professional_title|}}}
+
+| label19 = Headquarters
+|  data19 = {{{headquarters|}}}
+
+| label20 = Location
+| class20 = label
+|  data20 = {{Unbulleted list
+             | 1 = {{comma separated entries
+                    | 1 = {{#if:{{{location_city|}}}    |<span class="locality">{{{location_city}}}</span>}}
+                    | 2 = {{#if:{{{location_country|}}} |<span class="country-name">{{{location_country}}}</span>}}
+                   }}
+             | 2 = {{{location|}}}
+             | 3 = {{comma separated entries
+                    | 1 = {{#if:{{{location_city2|}}}    |<span class="locality">{{{location_city2}}}</span>}}
+                    | 2 = {{#if:{{{location_country2|}}} |<span class="country-name">{{{location_country2}}}</span>}}
+                   }}
+             | 4 = {{{location2|}}}
+            }}
+
+| label21 = Locations
+| class21 = label
+|  data21 = {{Unbulleted list
+             | 1 = {{comma separated entries
+                    | 1 = {{#if:{{{addnl_location_city|}}}    |<span class="locality">{{{addnl_location_city}}}</span>}}
+                    | 2 = {{#if:{{{addnl_location_country|}}} |<span class="country-name">{{{addnl_location_country}}}</span>}}
+                   }}
+             | 2 = {{{addnl_location|{{{additional_location|}}}}}}
+             | 3 = {{comma separated entries
+                    | 1 = {{#if:{{{addnl_location_city2|}}}    |<span class="locality">{{{addnl_location_city2}}}</span>}}
+                    | 2 = {{#if:{{{addnl_location_country2|}}} |<span class="country-name">{{{addnl_location_country2}}}</span>}}
+                   }}
+             | 4 = {{{addnl_location2|{{{additional_location2|}}}}}}
+            }}
+
+| label22 = Coordinates
+|  data22 = {{{coordinates|{{{coords|}}}}}}
+
+| label23 = Origins
+|  data23 = {{{origins|}}}
+
+| label24 = {{longitem |{{#if:{{{area_served|}}} |Area served |Region {{#if:{{{region_served|}}}|served}} }} }}
+|  data24 = {{if empty |{{{area_served|}}} |{{{region_served|}}} |{{{region|}}} }}
+
+| label25 = Product{{#if:{{{products|}}}|s}}
+|  data25 = {{#if:{{{products|}}} |{{{products}}} |{{{product|}}} }}
+
+| label26 = Services
+| class26 = note
+|  data26 = {{{services|}}}
+
+| label27 = Method{{#if:{{{methods|}}}|s}}
+|  data27 = {{#if:{{{methods|}}} |{{{methods}}} |{{{method|}}} }}
+
+| label28 = Field{{#if:{{{fields|}}}|s}}
+|  data28 = {{#if:{{{fields|}}} |{{{fields}}} |{{{field|}}} }}
+
+| label29 = {{longitem |Members{{#if:{{{num_members|{{{members|}}}}}}||hip}} {{#if:{{{num_members_year|{{{membership_year|}}}}}} |{{nobold|({{{num_members_year|{{{membership_year|}}}}}})}} }} }}
+|  data29 = {{#if:{{{num_members|{{{members|}}}}}} |{{{num_members|{{{members}}}}}} |{{{membership|}}} }}
+
+| label30 = {{longitem |Official language{{#if:{{{languages|}}}|s}} }}
+|  data30 = {{#if:{{{languages|}}} |{{{languages}}} |{{{language|}}} }}
+
+| label31 = Owner{{#if:{{{owners|}}}|s}}
+|  data31 = {{#if:{{{owners|}}} |{{{owners}}} |{{{owner|}}} }}
+
+| label32 = {{longitem|Secretary General}}
+|  data32 = {{#if:{{{general|}}} |{{{general}}} |{{{sec_gen|}}} }}
+
+| label33 = {{#if:{{{leader_title|}}} |{{longitem|{{{leader_title}}}}} |Leader}}
+|  data33 = {{{leader_name|}}}
+
+| label34 = {{longitem|{{{leader_title2}}}}}
+|  data34 = {{#if:{{{leader_title2|}}} |{{{leader_name2|}}} }}
+
+| label35 = {{longitem|{{{leader_title3}}}}}
+|  data35 = {{#if:{{{leader_title3|}}} |{{{leader_name3|}}} }}
+
+| label36 = {{longitem|{{{leader_title4}}}}}
+|  data36 = {{#if:{{{leader_title4|}}} |{{{leader_name4|}}} }}
+
+| label37 = {{longitem|[{{allow wrap|Board&nbsp;of directors}}](https://second-renaissance.fandom.com/wiki/Board_of_directors)}}
+|  data37 = {{{board_of_directors|}}}
+
+| label38 = {{longitem|Key people}}
+|  data38 = {{{key_people|}}}
+
+| label39 = {{#if:{{{main_organ|}}} |{{longitem|Main organ}} |Publication}}
+|  data39 = {{#if:{{{main_organ|}}} |{{{main_organ}}} |{{{publication|}}} }}
+
+| label40 = {{longitem|Parent organi{{#if:{{{parent_organisation|}}}|s|z}}ation}}
+|  data40 = {{#if:{{{parent_organisation|}}} |{{{parent_organisation}}} |{{{parent_organization|}}} }}
+
+| label41 = [Subsidiaries](https://second-renaissance.fandom.com/wiki/Subsidiary)
+|  data41 = {{#if:{{{subsidiaries|}}} |{{{subsidiaries}}} |{{{subsid|}}} }}
+
+| label42 = Secessions
+|  data42 = {{{secessions|}}}
+
+| label43 = Affiliations
+|  data43 = {{{affiliations|}}}
+
+| label44 = {{longitem |Budget {{#if:{{{budget_year|}}} |{{nobold|({{{budget_year}}})}} }} }}
+|  data44 = {{{budget|}}}
+
+| label45 = {{longitem |Revenue {{#if:{{{revenue_year|{{{income_year|}}}}}} |{{nobold|({{{revenue_year|{{{income_year|}}}}}})}} }} }}
+|  data45 = {{{revenue|{{{income|}}}}}}
+
+| label46 = Disbursements
+|  data46 = {{{disbursed|{{{disbursements|{{{disbursement|}}}}}}}}}
+
+| label47 = Expenses {{#if:{{{expenses_year|}}} | {{nobold|({{{expenses_year}}})}} }}
+|  data47 = {{{expenses|{{{spent|{{{expense|}}}}}}}}}
+
+| label48 = [Endowment](https://second-renaissance.fandom.com/wiki/Financial_endowment) {{#if:{{{endowment_year|}}} | {{nobold|({{{endowment_year}}})}} }}
+|  data48 = {{{endowment|}}}
+
+| label49 = {{longitem |{{#if:{{{num_staff|}}}{{{staff|}}} |Staff |Employees}} {{#if:{{{num_staff_year|{{{staff_year|{{{num_employees_year|{{{employees_year|}}}}}}}}}}}} |{{nobold|({{{num_staff_year|{{{staff_year|{{{num_employees_year|{{{employees_year|}}}}}}}}}}}})}} }} }}
+|  data49 = {{if empty |{{{num_staff|}}} |{{{staff|}}} |{{{num_employees|}}} |{{{employees|}}} }}
+
+| label50 = {{longitem |Volunteers {{#if:{{{num_volunteers_year|{{{volunteers_year|}}}}}} |{{nobold|({{{num_volunteers_year|{{{volunteers_year|}}}}}})}} }} }}
+|  data50 = {{#if:{{{num_volunteers|}}} |{{{num_volunteers}}} |{{{volunteers|}}} }}
+
+| label53 = Award(s)
+|  data53 = {{{awards|}}}
+
+| label54 = Website
+|  data54 = {{{website|{{{homepage|}}}}}}
+
+| label55 = Remarks
+|  data55 = {{{remarks|}}}
+
+| label56 = {{longitem|Formerly called}}
+| class56 = nickname
+|  data56 = {{if empty |{{{former name|}}} |{{{former_name|}}} |{{{former|}}} |{{{formerly|}}} }}
+
+| belowstyle = border-top:#aaa 1px solid;
+| below = {{{footnotes|}}}
+
+}}<!-- Tracking categories:
+-->{{#invoke:Check for unknown parameters|check|unknown={{main other|[_VALUE_{{PAGENAME}}](https://second-renaissance.fandom.com/wiki/Category:Pages_using_infobox_organization_with_unsupported_parameters)}}|preview = Page using [Template:Infobox organization](2916-template-infobox-organization.md) with unknown parameter "_VALUE_"|ignoreblank=y
+| name| organization_name| Non-profit_name| native_name| native name| native_name_lang| image| image_size| imagesize| size| image_alt| alt| caption| logo| organization_logo| Non-profit_logo| logo_alt |logo_size| logo_caption| map| map_size| msize| map_alt| malt| map_caption| mcaption| map2| map2_size| map2_alt| map2_caption| abbreviation| named_after| motto| organization_motto| pledge| predecessor| merged| successor| formation| founded_date| founded| established| founders| founder| founding_location| extinction| dissolved| merger| type| organization_type| Non-profit_type| vat_id| tax_id| registration_id| status| foci| focus| purpose| professional_title| headquarters| location_city| location_country| location| location_city2| location_country2| location2| addnl_location_city| addnl_location_country| addnl_location| additional_location| addnl_location_city2| addnl_location_country2| addnl_location2| additional_location2| coordinates| coords| origins| area_served| region_served| region| products| product| services| methods| method| fields| field| num_members| members| num_members_year| membership_year| membership| languages| language| owners| owner| general| sec_gen| leader_title| leader_name| leader_title2| leader_name2| leader_title3| leader_name3| leader_title4| leader_name4| board_of_directors| key_people| main_organ| publication| parent_organisation| parent_organization| subsidiaries| subsid| secessions| affiliations| budget_year| budget| revenue_year| income_year| revenue| income| disbursed| disbursements| disbursement| expenses_year| expenses| spent| expense| endowment| endowment_year| num_staff_year| num_staff| staff_year| staff| num_employees_year| num_employees| employees_year| employees| num_volunteers_year| num_volunteers| volunteers_year| volunteers| awards| website| homepage| remarks| former name| former_name| former| formerly| footnotes
+}}<noinclude>
+{{Documentation}}
+</noinclude>
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1682/8500.wikitext` · revision `8500` · [upstream](https://second-renaissance.fandom.com/wiki/Template%3AInfobox_Organization)

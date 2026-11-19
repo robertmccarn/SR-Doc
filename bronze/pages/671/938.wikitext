@@ -1,0 +1,3 @@
+Democratic<noinclude>
+[[Category:United States Democratic Party shortname templates|{{PAGENAME}}]]
+</noinclude>

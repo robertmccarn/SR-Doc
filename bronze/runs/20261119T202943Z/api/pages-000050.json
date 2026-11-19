@@ -1,0 +1,2970 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "100": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Conflicts"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 115,
+        "length": 99,
+        "ns": 14,
+        "pageid": 100,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 114,
+            "revid": 115,
+            "slots": {
+              "main": {
+                "*": "These pages are part of the Second Renaissance conflicts series of articles.\n[[Category:Conflicts]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T01:53:22Z"
+          }
+        ],
+        "title": "Category:21st-century conflicts",
+        "touched": "2020-02-10T13:54:40Z"
+      },
+      "51": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 51,
+        "length": 361,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:From Wikimedia"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 51,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 51,
+            "slots": {
+              "main": {
+                "*": ";Description\n:This template is used to mark images as having been uploaded on [[wikipedia:|Wikipedia]] or another [[wikimedia:|Wikimedia]] project.\n;Syntax\n:Type <code>{{t|From Wikimedia}}</code> on the image information page.\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:From Wikimedia/doc",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "52": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 52,
+        "length": 192,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tocright/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 52,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 52,
+            "slots": {
+              "main": {
+                "*": "<div style=\"float:right; clear:{{{clear|right}}}; margin-bottom:.5em; padding:.5em 0 .8em 1.4em; background:transparent; max-width:20em;\">__TOC__</div><noinclude>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tocright/doc"
+          }
+        ],
+        "title": "Template:Tocright",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "53": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 53,
+        "length": 355,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Tocright"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 53,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 53,
+            "slots": {
+              "main": {
+                "*": ";Description\n:This template will float the article's table of contents to the right. It will also force a ToC when/where it would not normally be found.\n:Use it only when needed.\n;Syntax\n:Type <code>{{t|tocright}}</code>\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:Tocright/doc",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "54": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 54,
+        "length": 93,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Clr/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 54,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 54,
+            "slots": {
+              "main": {
+                "*": "<div style=\"clear:both; margin:0; padding:0;\"></div><noinclude>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Clr/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:Clr",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "55": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 55,
+        "length": 448,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Clr"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 55,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 55,
+            "slots": {
+              "main": {
+                "*": ";Description\n:This template is a shorthand for <code>&lt;div style=\"clear:both;\">&lt;/div></code>.\n:It moves any content following the template below any objects floating to the left and/or right (TOCs, infoboxes, images, etc..).\n;Syntax\n:Type <code>{{t|clr}}</code> in an article at the point you want the clear.\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:Clr/doc",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "56": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 56,
+        "length": 328,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Delete"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Candidates for deletion"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 56,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 56,
+            "slots": {
+              "main": {
+                "*": ";Description\n:This template is used to mark pages for deletion, categorizing them in [[:Category:Candidates for deletion]].\n;Syntax\n:Type <code>{{t|delete}}</code> on the page to be deleted.'''\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:Delete/doc",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "57": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 57,
+        "length": 474,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Delete/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Candidates for deletion"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 57,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 57,
+            "slots": {
+              "main": {
+                "*": "<div name=\"Deletion notice\" class=\"boilerplate metadata\" id=\"delete\" style=\"background-color:#fee; margin:1em; padding:5px 10px; border:1px solid #aaa;\">\n'''This page is a candidate for deletion.'''\n\n''Remember to check [[Special:Whatlinkshere/{{FULLPAGENAME}}|what links here]] and [{{fullurl:{{FULLPAGENAME}}|action=history}} the page history] before deletion.''</div><includeonly>[[Category:Candidates for deletion]]</includeonly><noinclude>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Delete/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:Delete",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "58": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 58,
+        "length": 438,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Disambig"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Disambiguations"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 58,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 58,
+            "slots": {
+              "main": {
+                "*": ";Description\n:Marks an article as a disambiguation page, adding a banner to the article and categorizing it under [[:Category:Disambiguations]].\n:Articles using this template will also appear on [[Special:Disambiguations]].\n;Syntax\n:Add <code>{{t|disambig}}</code> at the top of a disambiguation page.\n\n<includeonly>[[Category:Templates|Disambiguation]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:Disambig/doc",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "59": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 59,
+        "length": 702,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Disambig/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Disambiguations"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 59,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 59,
+            "slots": {
+              "main": {
+                "*": "<div name=\"Disambiguation notice\" class=\"boilerplate metadata\" id=\"disambig\" style=\"background-color: #eef; margin: 0 1em; padding: 0 10px; border: 1px solid #aaa;\">\n'''This article is a disambiguation page for {{PAGENAME}}'''\n\nThe following is a list of links to pages that might share the same title.<br/>\nPlease follow one of the disambiguation links below or [[Special:Search|search]] to find the page you were looking for if it is not listed. If an [[Special:Whatlinkshere/{{FULLPAGENAME}}|internal link]] led you here, you may wish to change the link to point directly to the intended article.\n</div><includeonly>[[Category:Disambiguations]]</includeonly><noinclude>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Disambig/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:Disambig",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "60": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Example.jpg"
+          }
+        ],
+        "lastrevid": 60,
+        "length": 1017,
+        "new": "",
+        "ns": 10,
+        "pageid": 60,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 60,
+            "slots": {
+              "main": {
+                "*": "==Description==\nTo use this template, copy the following code and fill in the appropriate fields.\n\n==Syntax==\n<pre>{{infobox book\n | title       = \n | image       = [e.g. \"Example.jpg\"]\n | imagewidth  = [e.g. \"150\"] [default: 210 pixels]\n | author      = \n | illustrator = \n | date        = \n | publisher   = \n | previous    = \n | next        = \n}}</pre>\n\n==Sample output==\n<pre>{{infobox book\n | title       = The Adventures of Flower\n | image       = Example.jpg\n | author      = Alice\n | illustrator = Bob\n | date        = April 1928\n | publisher   = Arthur's\n | previous    = Book One\n | next        = Book Three\n}}</pre>\n\nResults in...\n\n{{infobox book\n | title       = The Adventures of Flower\n | image       = Example.jpg\n | author      = Alice\n | illustrator = Bob\n | date        = April 1928\n | publisher   = Arthur's\n | previous    = Book One\n | next        = Book Three\n}}\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox book"
+          }
+        ],
+        "title": "Template:Infobox book/doc",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "61": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Example.jpg"
+          }
+        ],
+        "lastrevid": 61,
+        "length": 1094,
+        "new": "",
+        "ns": 10,
+        "pageid": 61,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 61,
+            "slots": {
+              "main": {
+                "*": "==Description==\nTo use this template, copy the following code and fill in the appropriate fields.\n\n==Syntax==\n<pre>{{infobox episode\n | title       = \n | season      = \n | number      = \n | image       = [e.g. \"Example.jpg\"]\n | imagewidth  = [e.g. \"150\"] [default: 210 pixels]\n | airdate     = \n | writer      = \n | director    = \n | previous    = \n | next        = \n}}</pre>\n\n==Sample output==\n<pre>{{infobox episode\n | title       = Flower of Babel\n | season      = One\n | number      = Three\n | image       = Example.jpg\n | airdate     = Unaired\n | writer      = D. Righta\n | director    = A. di Rektour\n | previous    = Episode Two\n | next        = Episode Four\n}}</pre>\n\nResults in...\n\n{{infobox episode\n | title       = Flower of Babel\n | season      = One\n | number      = Three\n | image       = Example.jpg\n | airdate     = Unaired\n | writer      = D. Righta\n | director    = A. di Rektour\n | previous    = Episode Two\n | next        = Episode Four\n}}\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox episode"
+          }
+        ],
+        "title": "Template:Infobox episode/doc",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "62": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Example.jpg"
+          }
+        ],
+        "lastrevid": 62,
+        "length": 1028,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox book/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 62,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 62,
+            "slots": {
+              "main": {
+                "*": "<onlyinclude>{| class=\"wikia-infobox\"\n\n|-\n! class=\"wikia-infobox-header\" colspan=\"2\" | {{{title|''Unknown''}}}\n\n|-\n{{#if: {{{image|}}} |\n{{!}} class=\"wikia-infobox-image\" colspan=\"2\" {{!}} [[File:{{{image}}}|{{{imagewidth|210}}}px|{{{imagecaption|}}}]]\n| }}\n\n|-\n{{#if: {{{imagecaption|}}} |\n{{!}} class=\"wikia-infobox-caption\" colspan=\"2\" {{!}} {{{imagecaption}}}\n| }}\n\n|-\n! colspan=\"2\" | <div class=\"wikia-infobox-section-header\">Vital statistics</div>\n\n|-\n! Author\n| {{{author|''Unknown''}}}\n\n|-\n! Illustrator\n| {{{illustrator|''Unknown''}}}\n\n|-\n! Published on\n| {{{date|''Unknown''}}}\n\n|-\n! Published by\n| {{{publisher|''Unknown''}}}\n\n|-\n! colspan=\"2\" | <div class=\"wikia-infobox-section-header\">Publication order</div>\n\n|-\n! Previous\n| '''Next'''\n\n|-\n! style=\"font-weight:normal;\" | {{{previous|''Unknown''}}}\n| {{{next|''Unknown''}}}\n\n|- style=\"font-size:0; line-height:0;\"\n! style=\"width:50%; padding:0\" |\n! style=\"width:50%; padding:0\" |\n\n|}</onlyinclude><noinclude><br style=\"clear:both;\"/>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox book"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox book/doc"
+          }
+        ],
+        "title": "Template:Infobox book",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "63": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Example.jpg"
+          }
+        ],
+        "lastrevid": 63,
+        "length": 1085,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox episode/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 63,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 63,
+            "slots": {
+              "main": {
+                "*": "<onlyinclude>{| class=\"wikia-infobox\"\n\n|-\n! class=\"wikia-infobox-header\" colspan=\"2\" | {{{title|''Unknown''}}}\n\n|-\n{{#if: {{{image|}}} |\n{{!}} class=\"wikia-infobox-image\" colspan=\"2\" {{!}} [[File:{{{image}}}|{{{imagewidth|210}}}px|{{{imagecaption|}}}]]\n| }}\n\n|-\n{{#if: {{{imagecaption|}}} |\n{{!}} class=\"wikia-infobox-caption\" colspan=\"2\" {{!}} {{{imagecaption}}}\n| }}\n\n|-\n! style=\"font-weight:normal;\" colspan=\"2\" | ''Season {{{season|unknown}}}, Episode {{{number|unknown}}}''\n\n|-\n! colspan=\"2\" | <div class=\"wikia-infobox-section-header\">Vital statistics</div>\n\n|-\n! Air date\n| {{{airdate|''Unknown''}}}\n\n|-\n! Written by\n| {{{writer|''Unknown''}}}\n\n|-\n! Directed by\n| {{{director|''Unknown''}}}\n\n|-\n! colspan=\"2\" | <div class=\"wikia-infobox-section-header\">Episode guide</div>\n\n|-\n! Previous\n| '''Next'''\n\n|-\n! style=\"font-weight:normal;\" | {{{previous|''Unknown''}}}\n| {{{next|''Unknown''}}}\n\n|- style=\"font-size:0; line-height:0;\"\n! style=\"width:50%; padding:0\" |\n! style=\"width:50%; padding:0\" |\n\n|}</onlyinclude><noinclude><br style=\"clear:both;\"/>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox episode"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox episode/doc"
+          }
+        ],
+        "title": "Template:Infobox episode",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "64": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Example.jpg"
+          }
+        ],
+        "lastrevid": 64,
+        "length": 1196,
+        "new": "",
+        "ns": 10,
+        "pageid": 64,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 64,
+            "slots": {
+              "main": {
+                "*": "==Description==\nTo use this template, copy the following code and fill in the appropriate fields.\n\n==Syntax==\n<pre>\n{{infobox quest\n | title         = \n | image         = [e.g. \"Example.jpg\"]\n | imagewidth    = [e.g. \"150\"] [default: 210 pixels]\n | imagecaption  = \n | start         = \n | end           = \n | prerequisites = \n | level         = \n | location      = \n | rewards       = \n | previous      =\n | next          =\n}}\n</pre>\n\n==Samples==\n<pre>\n{{infobox quest\n | title         = Flowers of Justice!\n | image         = Example.jpg\n | start         = Chrys\n | end           = Geran\n | prerequisites = None\n | level         = 5\n | location      = Earth\n | rewards       = Justice-Wrought Petals\n | previous      = A\n | next          = C\n}}\n</pre>\n\nResults in...\n\n{{infobox quest\n | title         = Flowers of Justice!\n | image         = Example.jpg\n | start         = Chrys\n | end           = Geran\n | prerequisites = None\n | level         = 5\n | location      = Earth\n | rewards       = Justice-Wrought Petals\n | previous      = A\n | next          = C\n}}\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox quest"
+          }
+        ],
+        "title": "Template:Infobox quest/doc",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "65": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Example.jpg"
+          }
+        ],
+        "lastrevid": 65,
+        "length": 955,
+        "new": "",
+        "ns": 10,
+        "pageid": 65,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 65,
+            "slots": {
+              "main": {
+                "*": "==Description==\nTo use this template, copy the following code and fill in the appropriate fields.\n\n==Syntax==\n<pre>\n{{infobox item\n | title         = \n | image         = [e.g. \"Example.jpg\"]\n | imagewidth    = [e.g. \"150\"] [default: 210 pixels]\n | imagecaption  = \n | type          = \n | effects       = \n | source        = \n | buy           = \n | sell          = \n}}\n</pre>\n\n==Samples==\n<pre>\n{{infobox item\n | title         = Power Flower\n | image         = Example.jpg\n | type          = Food\n | effects       = +1 Fire\n | source        = Vendor\n | buy           = 5g\n | sell          = 1g\n}}\n</pre>\n\nResults in...\n\n{{infobox item\n | title         = Power Flower\n | image         = Example.jpg\n | type          = Food\n | effects       = +1 Fire\n | source        = Vendor\n | buy           = 5g\n | sell          = 1g\n}}\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox item"
+          }
+        ],
+        "title": "Template:Infobox item/doc",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "66": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Example.jpg"
+          }
+        ],
+        "lastrevid": 66,
+        "length": 847,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox item/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 66,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 66,
+            "slots": {
+              "main": {
+                "*": "<onlyinclude>{| class=\"wikia-infobox\"\n\n|-\n! class=\"wikia-infobox-header\" colspan=\"2\" | {{{title|''Unknown''}}}\n\n|-\n{{#if: {{{image|}}} |\n{{!}} class=\"wikia-infobox-image\" colspan=\"2\" {{!}} [[File:{{{image}}}|{{{imagewidth|210}}}px|{{{imagecaption|}}}]]\n| }}\n\n|-\n{{#if: {{{imagecaption|}}} |\n{{!}} class=\"wikia-infobox-caption\" colspan=\"2\" {{!}} {{{imagecaption}}}\n| }}\n\n|-\n! colspan=\"2\" | <div class=\"wikia-infobox-section-header\">Vital statistics</div>\n\n|-\n! Type\n| {{{type|''Unknown''}}}\n\n|-\n! Effects\n| {{{effects|''Unknown''}}}\n\n|-\n! Source\n| {{{source|''Unknown''}}}\n\n|-\n! Cost to buy\n| {{{buy|''Unknown''}}}\n\n|-\n! Cost to sell\n| {{{sell|''Unknown''}}}\n\n|- style=\"font-size:0; line-height:0;\"\n! style=\"width:50%; padding:0\" |\n! style=\"width:50%; padding:0\" |\n\n|}</onlyinclude><noinclude><br style=\"clear:both;\"/>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox item"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox item/doc"
+          }
+        ],
+        "title": "Template:Infobox item",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "67": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Example.jpg"
+          }
+        ],
+        "lastrevid": 67,
+        "length": 1095,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox quest/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 67,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 67,
+            "slots": {
+              "main": {
+                "*": "<onlyinclude>{| class=\"wikia-infobox\"\n\n|-\n! class=\"wikia-infobox-header\" colspan=\"2\" | {{{title|''Unknown''}}}\n\n|-\n{{#if: {{{image|}}} |\n{{!}} class=\"wikia-infobox-image\" colspan=\"2\" {{!}} [[File:{{{image}}}|{{{imagewidth|210}}}px|{{{imagecaption|}}}]]\n| }}\n\n|-\n{{#if: {{{imagecaption|}}} |\n{{!}} class=\"wikia-infobox-caption\" colspan=\"2\" {{!}} {{{imagecaption}}}\n| }}\n\n|-\n! colspan=\"2\" | <div class=\"wikia-infobox-section-header\">Vital statistics</div>\n\n|-\n! Start\n| {{{start|''Unknown''}}}\n\n|-\n! End\n| {{{end|''Unknown''}}}\n\n|-\n! Prerequisites\n| {{{prerequisites|''Unknown''}}}\n\n|-\n! Level\n| {{{level|''Unknown''}}}\n\n|-\n! Location\n| {{{location|''Unknown''}}}\n\n|-\n! Rewards\n| {{{rewards|''Unknown''}}}\n\n|-\n! colspan=\"2\" | <div class=\"wikia-infobox-section-header\">Quest progression</div>\n\n|-\n! Previous\n| '''Next'''\n\n|-\n! style=\"font-weight:normal;\" | {{{previous|''Unknown''}}}\n| {{{next|''Unknown''}}}\n\n|- style=\"font-size:0; line-height:0;\"\n! style=\"width:50%; padding:0\" |\n! style=\"width:50%; padding:0\" |\n\n|}</onlyinclude><noinclude><br style=\"clear:both;\"/>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox quest"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox quest/doc"
+          }
+        ],
+        "title": "Template:Infobox quest",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "68": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Example.jpg"
+          }
+        ],
+        "lastrevid": 68,
+        "length": 1067,
+        "new": "",
+        "ns": 10,
+        "pageid": 68,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 68,
+            "slots": {
+              "main": {
+                "*": "==Description==\nTo use this template, copy the following code and fill in the appropriate fields.\n\n==Syntax==\n<pre>\n{{infobox character\n | title         = \n | image         = [e.g. \"Example.jpg\"]\n | imagewidth    = [e.g. \"150\"] [default: 210 pixels]\n | imagecaption  = \n | position      =\n | age           =\n | status        =\n | height        =\n | weight        =\n}}\n</pre>\n\n==Samples==\n<pre>\n{{infobox character\n | title         = Flowa\n | image         = Example.jpg\n | imagecaption  = Flowa, at rest\n | position      = Legal Secretary\n | age           = 2 months\n | status        = Active\n | height        = 5 inches\n | weight        = 20 grams\n}}\n</pre>\n\nResults in...\n\n{{infobox character\n | title         = Flowa\n | image         = Example.jpg\n | imagecaption  = Flowa, at rest\n | position      = Legal Secretary\n | age           = 2 months\n | status        = Active\n | height        = 5 inches\n | weight        = 20 grams\n}}\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox character"
+          }
+        ],
+        "title": "Template:Infobox character/doc",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "69": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Example.jpg"
+          }
+        ],
+        "lastrevid": 69,
+        "length": 1243,
+        "new": "",
+        "ns": 10,
+        "pageid": 69,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 69,
+            "slots": {
+              "main": {
+                "*": "==Description==\nTo use this template, copy the following code and fill in the appropriate fields.\n\n==Syntax==\n<pre>\n{{infobox location\n | title         = \n | image         = [e.g. \"Example.jpg\"]\n | imagewidth    = [e.g. \"150\"] [default: 210 pixels]\n | imagecaption  = \n | map           = [e.g. \"Example.jpg\"]\n | mapwidth      = [e.g. \"150\"] [default: 210 pixels]\n | mapcaption    = \n | type          = \n | level         = \n | location      = \n | inhabitants   = \n}}\n</pre>\n\n==Samples==\n<pre>\n{{infobox location\n | title         = Flora Island\n | image         = Example.jpg\n | imagecaption  = The island\n | map           = Example.jpg\n | mapcaption    = Zone map\n | type          = Contested\n | level         = 1-5\n | location      = Earth\n | inhabitants   = Stompy Humans, Drinky Bees\n}}\n</pre>\n\nResults in...\n\n{{infobox location\n | title         = Flora Island\n | image         = Example.jpg\n | imagecaption  = The island\n | map           = Example.jpg\n | mapcaption    = Zone map\n | type          = Contested\n | level         = 1-5\n | location      = Earth\n | inhabitants   = Stompy Humans, Drinky Bees\n}}\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox location"
+          }
+        ],
+        "title": "Template:Infobox location/doc",
+        "touched": "2015-08-08T00:46:30Z"
+      },
+      "70": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Example.jpg"
+          }
+        ],
+        "lastrevid": 70,
+        "length": 1057,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox location/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 70,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 70,
+            "slots": {
+              "main": {
+                "*": "<onlyinclude>{| class=\"wikia-infobox\"\n\n|-\n! class=\"wikia-infobox-header\" colspan=\"2\" | {{{title|''Unknown''}}}\n\n|-\n{{#if: {{{image|}}} |\n{{!}} class=\"wikia-infobox-image\" colspan=\"2\" {{!}} [[File:{{{image}}}|{{{imagewidth|210}}}px|{{{imagecaption|}}}]]\n| }}\n\n|-\n{{#if: {{{imagecaption|}}} |\n{{!}} class=\"wikia-infobox-caption\" colspan=\"2\" {{!}} {{{imagecaption}}}\n| }}\n\n|-\n{{#if: {{{map|}}} |\n{{!}} class=\"wikia-infobox-image\" colspan=\"2\" {{!}} [[File:{{{map}}}|{{{mapwidth|210}}}px|{{{mapcaption|}}}]]\n| }}\n\n|-\n{{#if: {{{mapcaption|}}} |\n{{!}} class=\"wikia-infobox-caption\" colspan=\"2\" {{!}} {{{mapcaption}}}\n| }}\n\n|-\n! colspan=\"2\" | <div class=\"wikia-infobox-section-header\">Vital statistics</div>\n\n|-\n! Type\n| {{{type|''Unknown''}}}\n\n|-\n! Level\n| {{{level|''Unknown''}}}\n\n|-\n! Location\n| {{{location|''Unknown''}}}\n\n|-\n! Inhabitants\n| {{{inhabitants|''Unknown''}}}\n\n|- style=\"font-size:0; line-height:0;\"\n! style=\"width:50%; padding:0\" |\n! style=\"width:50%; padding:0\" |\n\n|}</onlyinclude><noinclude><br style=\"clear:both;\"/>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox location"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox location/doc"
+          }
+        ],
+        "title": "Template:Infobox location",
+        "touched": "2015-08-08T00:46:31Z"
+      },
+      "71": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Example.jpg"
+          }
+        ],
+        "lastrevid": 71,
+        "length": 929,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox character/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 71,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 71,
+            "slots": {
+              "main": {
+                "*": "<onlyinclude>{| class=\"wikia-infobox\"\n\n|-\n! class=\"wikia-infobox-header\" colspan=\"2\" | {{{title|''Unknown''}}}\n\n|-\n{{#if: {{{image|}}} |\n{{!}} class=\"wikia-infobox-image\" colspan=\"2\" {{!}} [[File:{{{image}}}|{{{imagewidth|210}}}px|{{{imagecaption|}}}]]\n| }}\n\n|-\n{{#if: {{{imagecaption|}}} |\n{{!}} class=\"wikia-infobox-caption\" colspan=\"2\" {{!}} {{{imagecaption}}}\n| }}\n\n|-\n! colspan=\"2\" | <div class=\"wikia-infobox-section-header\">Vital statistics</div>\n\n|-\n! Position\n| {{{position|''Unknown''}}}\n\n|-\n! Age\n| {{{age|''Unknown''}}}\n\n|-\n! Status\n| {{{status|''Unknown''}}}\n\n|-\n! colspan=\"2\" | <div class=\"wikia-infobox-section-header\">Physical attributes</div>\n\n|-\n! Height\n| {{{height|''Unknown''}}}\n\n|-\n! Weight\n| {{{weight|''Unknown''}}}\n\n|- style=\"font-size:0; line-height:0;\"\n! style=\"width:50%; padding:0\" |\n! style=\"width:50%; padding:0\" |\n\n|}</onlyinclude><noinclude><br style=\"clear:both;\"/>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox character"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox character/doc"
+          }
+        ],
+        "title": "Template:Infobox character",
+        "touched": "2015-08-08T00:46:31Z"
+      },
+      "72": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Example.jpg"
+          }
+        ],
+        "lastrevid": 72,
+        "length": 1138,
+        "new": "",
+        "ns": 10,
+        "pageid": 72,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 72,
+            "slots": {
+              "main": {
+                "*": "==Description==\nTo use this template, enter the following and fill in the appropriate fields. Most fields left blank will not show up. Don't forget to include brackets, to make the fields into links.\n\n==Syntax==\n<pre>\n{{infobox album\n | title         = \n | image         = [e.g. \"Example.jpg\"]\n | imagewidth    = [e.g. \"150\"] [default: 210 pixels]\n | imagecaption  = \n | artist        = \n | released      = \n | recorded      = \n | length        = \n | label         = \n | producer      = \n}}\n</pre>\n\n==Samples==\n<pre>\n{{infobox album\n | title         = Fleur\n | image         = Example.jpg\n | artist        = Marigold\n | released      = June 2012\n | recorded      = 2011\n | length        = 88:88\n | label         = Spring\n | producer      = Daffy\n}}\n</pre>\n\nResults in...\n\n{{infobox album\n | title         = Fleur\n | image         = Example.jpg\n | artist        = Marigold\n | released      = June 2012\n | recorded      = 2011\n | length        = 88:88\n | label         = Spring\n | producer      = Daffy\n}}\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox album"
+          }
+        ],
+        "title": "Template:Infobox album/doc",
+        "touched": "2015-08-08T00:46:31Z"
+      },
+      "73": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Example.jpg"
+          }
+        ],
+        "lastrevid": 73,
+        "length": 861,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox album/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 73,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 73,
+            "slots": {
+              "main": {
+                "*": "<onlyinclude>{| class=\"wikia-infobox\"\n\n|-\n! class=\"wikia-infobox-header\" colspan=\"2\" | {{{title|''Unknown''}}}\n\n|-\n{{#if: {{{image|}}} |\n{{!}} class=\"wikia-infobox-image\" colspan=\"2\" {{!}} [[File:{{{image}}}|{{{imagewidth|210}}}px|{{{imagecaption|}}}]]\n| }}\n\n|-\n{{#if: {{{imagecaption|}}} |\n{{!}} class=\"wikia-infobox-caption\" colspan=\"2\" {{!}} {{{imagecaption}}}\n| }}\n\n|-\n! colspan=\"2\" | <div class=\"wikia-infobox-section-header\">{{{artist|''Unknown''}}}</div>\n\n|-\n! Released\n| {{{released|''Unknown''}}}\n\n|-\n! Recorded\n| {{{recorded|''Unknown''}}}\n\n|-\n! Length\n| {{{length|''Unknown''}}}\n\n|-\n! Label\n| {{{label|''Unknown''}}}\n\n|-\n! Producer\n| {{{producer|''Unknown''}}}\n\n|- style=\"font-size:0; line-height:0;\"\n! style=\"width:50%; padding:0\" |\n! style=\"width:50%; padding:0\" |\n\n|}</onlyinclude><noinclude><br style=\"clear:both;\"/>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox album"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox album/doc"
+          }
+        ],
+        "title": "Template:Infobox album",
+        "touched": "2015-08-08T00:46:31Z"
+      },
+      "74": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 74,
+        "length": 548,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Navbox"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 74,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 74,
+            "slots": {
+              "main": {
+                "*": ";Description\n:This template is used to create a basic navigation box.\n;Syntax\n:Type <code>{{t|navbox|...}}</code> somewhere, with parameters as shown below.\n;Sample output\n\n<pre>{{navbox\n|header=Land of Bob\n|body=This <nowiki>[[place]]</nowiki> and that <nowiki>[[place]]</nowiki>.\n}}</pre>\n\nResults in...\n\n{{navbox\n|header=Land of Bob\n|body=This <nowiki>[[place]]</nowiki> and that <nowiki>[[place]]</nowiki>.\n}}\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Navbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Navbar"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Navbox"
+          }
+        ],
+        "title": "Template:Navbox/doc",
+        "touched": "2015-08-21T20:23:05Z"
+      },
+      "75": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 849,
+        "length": 94,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Navbox/doc"
+          }
+        ],
+        "ns": 10,
+        "pageid": 75,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 75,
+            "revid": 849,
+            "slots": {
+              "main": {
+                "*": "<includeonly>{{#invoke:Navbox|navbox}}</includeonly><noinclude>\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-20T22:27:02Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Navbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Navbox/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Navbar"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Navbox"
+          }
+        ],
+        "title": "Template:Navbox",
+        "touched": "2015-08-21T20:23:05Z"
+      },
+      "76": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Browse"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 76,
+        "length": 138,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Delete"
+          }
+        ],
+        "new": "",
+        "ns": 14,
+        "pageid": 76,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 76,
+            "slots": {
+              "main": {
+                "*": "Pages in this category have been labelled for deletion. To add a page to this category, type {{t|delete}} on the page.\n[[Category:Browse]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Category:Candidates for deletion",
+        "touched": "2018-02-27T06:13:52Z"
+      },
+      "77": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Browse"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 77,
+        "length": 452,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Disambig"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Disambiguation"
+          }
+        ],
+        "new": "",
+        "ns": 14,
+        "pageid": 77,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 77,
+            "slots": {
+              "main": {
+                "*": "This category contains [[Help:Disambiguation|disambiguation]] pages &mdash; navigational aids which list other pages that might otherwise share the same title. If an internal link referred you to one of these pages, you might want to go back and fix it to point directly to the intended page.\n\n'''Pages may be included in this category by the addition of the template {{t|disambig}} just before the list of similarly-named pages.'''\n[[Category:Browse]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Category:Disambiguations",
+        "touched": "2015-08-08T00:46:31Z"
+      },
+      "78": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Browse"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 78,
+        "length": 126,
+        "links": [
+          {
+            "ns": 12,
+            "title": "Help:Contents"
+          }
+        ],
+        "new": "",
+        "ns": 14,
+        "pageid": 78,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 78,
+            "slots": {
+              "main": {
+                "*": "'''For a full list of help pages, see [[Help:Contents]],''' which includes help pages shared across Wikia.\n[[Category:Browse]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "Category:Help",
+        "touched": "2022-04-20T22:44:02Z"
+      },
+      "79": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Browse"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 79,
+        "length": 20,
+        "new": "",
+        "ns": 14,
+        "pageid": 79,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 79,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Browse]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "Category:Blog posts",
+        "touched": "2015-08-08T00:46:31Z"
+      },
+      "80": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Browse"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 80,
+        "length": 49,
+        "new": "",
+        "ns": 14,
+        "pageid": 80,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 80,
+            "slots": {
+              "main": {
+                "*": "'''Images''' on {{SITENAME}}.\n[[Category:Browse]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "Category:Images",
+        "touched": "2017-09-30T21:12:30Z"
+      },
+      "81": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 81,
+        "length": 43,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:!!/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Parser functions"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Table"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 81,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 81,
+            "slots": {
+              "main": {
+                "*": "||<noinclude>\n{{documentation}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!!/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:!!",
+        "touched": "2015-08-08T00:46:31Z"
+      },
+      "82": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Template documentation"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 82,
+        "length": 393,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:!!"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Parser functions"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Table"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 82,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 82,
+            "slots": {
+              "main": {
+                "*": ";Description\n:This template is used for creating two pipes, in [[Help:Table|wikitables]] contained in [[Help:Parser functions|Parser functions]].\n;Syntax\n:Insert this template using <code>{{t|!!}}</code>\n;See also\n:[[m:Template:!!|Template:!!]] on Meta-Wiki.\n\n<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:T"
+          },
+          {
+            "ns": 10,
+            "title": "Template:T/piece"
+          }
+        ],
+        "title": "Template:!!/doc",
+        "touched": "2015-08-08T00:46:31Z"
+      },
+      "83": {
+        "contentmodel": "wikitext",
+        "lastrevid": 83,
+        "length": 9,
+        "new": "",
+        "ns": 8,
+        "pageid": 83,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 83,
+            "slots": {
+              "main": {
+                "*": "moderator",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "MediaWiki:Group-threadmoderator-member",
+        "touched": "2015-08-08T00:46:31Z"
+      },
+      "84": {
+        "contentmodel": "wikitext",
+        "lastrevid": 87,
+        "length": 38,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Second Renaissance Wikia"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 84,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 87,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Second Renaissance Wikia]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:35Z"
+          }
+        ],
+        "title": "Main Page",
+        "touched": "2025-10-04T03:38:22Z"
+      },
+      "85": {
+        "contentmodel": "wikitext",
+        "lastrevid": 88,
+        "length": 24,
+        "new": "",
+        "ns": 8,
+        "pageid": 85,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 88,
+            "slots": {
+              "main": {
+                "*": "Second Renaissance Wikia",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:36Z"
+          }
+        ],
+        "title": "MediaWiki:Mainpage",
+        "touched": "2015-08-08T00:46:37Z"
+      },
+      "86": {
+        "contentmodel": "wikitext",
+        "lastrevid": 89,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 86,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 89,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:37Z"
+          }
+        ],
+        "title": "Message Wall:YNot1989",
+        "touched": "2020-12-04T22:30:45Z"
+      },
+      "87": {
+        "contentmodel": "wikitext",
+        "lastrevid": 90,
+        "length": 1332,
+        "links": [
+          {
+            "ns": 12,
+            "title": "Help:Attracting contributors"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Contents"
+          },
+          {
+            "ns": 12,
+            "title": "Help:New page"
+          },
+          {
+            "ns": 12,
+            "title": "Help:User access levels"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 87,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 90,
+            "slots": {
+              "main": {
+                "*": "Hello, We're excited to have Second Renaissance Wikia as part of the Wikia community!\n\nThere's still a lot to do; here are some helpful tips and links to get your wikia going:\n*Check out [[Special:WikiFeatures|Wiki Features]] to see which features you can enable on your wikia, including Chat, Achievements and many more.\n*Customize your wikia's look by visiting the [[Special:ThemeDesigner|Theme Designer]], where you can add color and style to your background and wordmark.\n*Stop by [[w:c:community|Community Central]] to stay informed through our [[w:c:community:Blog:Wikia_Staff_Blog|staff blog]], ask questions on our [[w:c:community:Special:Forum|community forum]], participate in our [[w:c:community:Help:Webinars|webinar series]], or [[w:c:community:Special:Chat|chat live]] with fellow Wikians.\n*Lastly, visit our [[Help:Contents|help pages]] to learn the ins and outs of using Wikia, including [[Help:New page|how to add a new page to your wikia]], [[Help:Attracting contributors|how to attract contributors]], and [[Help:User access levels|how to add other admins]].\n* You can also use all of these tools by visiting your Admin Dashboard, which can by found by clicking \"Admin\" on the bottom toolbar.\n\nAll of the above links are a great place to start exploring, and have fun!<ac_metadata title=\"Welcome!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T00:46:38Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment--20150808004638",
+        "touched": "2015-08-08T00:46:38Z"
+      },
+      "88": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:History"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Timeline"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:2035 Earth.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:2051 Earth.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:2055 Earth.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:2066 Earth.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:2079 Earth.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:2094 Earth.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:2112 Earth.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:2132 Earth.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:2138-2140 Earth.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:2160 Earth.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Asia 2044.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Association of East Asia Map.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Europe 2044.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:European Association Map.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:History of Martian Terraforming.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Lunar Orbit 2051.png"
+          }
+        ],
+        "lastrevid": 11722,
+        "length": 22448,
+        "links": [
+          {
+            "ns": 0,
+            "title": "21st Century"
+          },
+          {
+            "ns": 0,
+            "title": "22nd Century"
+          },
+          {
+            "ns": 0,
+            "title": "Alexandria Ocasio-Cortez"
+          },
+          {
+            "ns": 0,
+            "title": "Arctic states"
+          },
+          {
+            "ns": 0,
+            "title": "Associated state"
+          },
+          {
+            "ns": 0,
+            "title": "Atlantis (planet)"
+          },
+          {
+            "ns": 0,
+            "title": "Augment Rights Act"
+          },
+          {
+            "ns": 0,
+            "title": "Augment Rights Movement"
+          },
+          {
+            "ns": 0,
+            "title": "Balkan Crisis"
+          },
+          {
+            "ns": 0,
+            "title": "Battle of Brazil"
+          },
+          {
+            "ns": 0,
+            "title": "Bradbury Riots"
+          },
+          {
+            "ns": 0,
+            "title": "Buryatia"
+          },
+          {
+            "ns": 0,
+            "title": "Crisis of 2130"
+          },
+          {
+            "ns": 0,
+            "title": "De-Extinction"
+          },
+          {
+            "ns": 0,
+            "title": "Dissolution of the Russian Federation"
+          },
+          {
+            "ns": 0,
+            "title": "Earth Working Group"
+          },
+          {
+            "ns": 0,
+            "title": "Eternal Spring Revolt"
+          },
+          {
+            "ns": 0,
+            "title": "Fifth Great Awakening"
+          },
+          {
+            "ns": 0,
+            "title": "First Martian Revolution"
+          },
+          {
+            "ns": 0,
+            "title": "First Nations War"
+          },
+          {
+            "ns": 0,
+            "title": "Great Famine"
+          },
+          {
+            "ns": 0,
+            "title": "Great Reset"
+          },
+          {
+            "ns": 0,
+            "title": "Guardiola Foundation"
+          },
+          {
+            "ns": 0,
+            "title": "Guardiola Incident"
+          },
+          {
+            "ns": 0,
+            "title": "Hypersonic weapon"
+          },
+          {
+            "ns": 0,
+            "title": "India Crisis"
+          },
+          {
+            "ns": 0,
+            "title": "Interplanetary Trade Commission"
+          },
+          {
+            "ns": 0,
+            "title": "Japan"
+          },
+          {
+            "ns": 0,
+            "title": "K'lerin"
+          },
+          {
+            "ns": 0,
+            "title": "Le'ma"
+          },
+          {
+            "ns": 0,
+            "title": "Market Crash of 2027"
+          },
+          {
+            "ns": 0,
+            "title": "Mars"
+          },
+          {
+            "ns": 0,
+            "title": "Mars Corporation"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Non-Human Civil Rights Movement"
+          },
+          {
+            "ns": 0,
+            "title": "North Atlantic Treaty Organization"
+          },
+          {
+            "ns": 0,
+            "title": "Poland"
+          },
+          {
+            "ns": 0,
+            "title": "Primorye"
+          },
+          {
+            "ns": 0,
+            "title": "Proclamation of Sapere aude"
+          },
+          {
+            "ns": 0,
+            "title": "Prometheus 1"
+          },
+          {
+            "ns": 0,
+            "title": "Quantum Economic Model"
+          },
+          {
+            "ns": 0,
+            "title": "Revolutions of 2027"
+          },
+          {
+            "ns": 0,
+            "title": "Russia"
+          },
+          {
+            "ns": 0,
+            "title": "Second American Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Second Chinese Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Second Depression"
+          },
+          {
+            "ns": 0,
+            "title": "Second Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Second Renaissance"
+          },
+          {
+            "ns": 0,
+            "title": "Second Vietnam War"
+          },
+          {
+            "ns": 0,
+            "title": "Seventh Party System"
+          },
+          {
+            "ns": 0,
+            "title": "Space Age"
+          },
+          {
+            "ns": 0,
+            "title": "Space Elevators"
+          },
+          {
+            "ns": 0,
+            "title": "Terran diaspora"
+          },
+          {
+            "ns": 0,
+            "title": "The Balkanization Era"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "The Refreeze"
+          },
+          {
+            "ns": 0,
+            "title": "The Second Renaissance"
+          },
+          {
+            "ns": 0,
+            "title": "Third Chinese Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Timeline of space exploration"
+          },
+          {
+            "ns": 0,
+            "title": "Treaty of Odessa"
+          },
+          {
+            "ns": 0,
+            "title": "Turkey"
+          },
+          {
+            "ns": 0,
+            "title": "Tuva"
+          },
+          {
+            "ns": 0,
+            "title": "Union Act of 2073"
+          },
+          {
+            "ns": 0,
+            "title": "United Federation of China"
+          },
+          {
+            "ns": 0,
+            "title": "United Nations"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2132"
+          },
+          {
+            "ns": 0,
+            "title": "Ural Republic"
+          },
+          {
+            "ns": 0,
+            "title": "White Tide"
+          },
+          {
+            "ns": 0,
+            "title": "Winter Recession"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 88,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11605,
+            "revid": 11722,
+            "slots": {
+              "main": {
+                "*": "This '''timeline of major events''' attempts to lay out the most important points in history leading up to the [[Second Renaissance]]. All dates are in Earth Standard Dating.\n\n==[[21st Century]]==\n===[[Great Reset]]===\n{| class=\"wikitable\"\n|-\n| 2026\n| '''[[The Flood]]''': The South Greenland Ice Sheet falls into the Atlantic devastating coastal cities and sending sea levels 7 meters above pre-Anthropocene levels. By August, Hurricane Julia strikes the Eastern Seaboard, destroying the hastily constructed levees and sea walls. The United States capital city is temporarily relocated to Columbus until the completion of the new DC Sea Wall two years later.\n|-\n| 2025-2027\n| '''Labor Shortage''': Retirement of the Baby Boomers begins to peak, opening up millions of jobs for Millenials and Centennials (Generation Z). The developed world reaches full employment as additional jobs open up to not only replace but to support the elderly. The new demand for labor produces a competitive wage economy, but heightened inflation reduces overall buying power.\n|-\n| 2024-2032\n| '''[[Great Famine|Famine]]''': Ocean desalination due to the Flood devastates fish populations, while rising tides and [[Revolutions of 2027|social unrest around the world]] causes catastrophic supply chain interruptions to agriculture. A worldwide famine sets in that kills millions. Economic and social unrest leads to political upheavals across the world leading to civil war in [[Second Chinese Civil War| China]]. To the southwest, Pakistan and the already devastated Afghan state would fragment. And in Western Europe, states such as Germany and France would hold new elections and calls for constitutional referendums.\n|-\n|2026\n|'''[[Timeline of space exploration|Humans on Mars]]''': The [[Mars Corporation]] launches its first manned mission to [[Mars]]. Meridian Base is established. Bradbury Base is established in lower Tharsis shortly thereafter.\n|-\n| 2027-2032\n| '''[[Market Crash of 2027]]''': The global economy continues to stagnate as the demand for labor leaves the housing and financial sectors of the global economy in ruins. Home prices drop to record lows and investor confidence is in shatters as there is no clear way for companies to keep up with the demand for goods. Inflation leaves most major currencies on their knees, and people are left working full time, with high wages, and have nothing to spend it on.\n|-\n| 2028-2031\n| '''[[White Tide]]''': The influx of domestic climate refugees into once-rural communities and the election of [[Alexandria Ocasio-Cortez]] leads to a wave of White Nationalist insurrections in the United States.\n|-\n|2029-2038\n|'''[[Dissolution of the Russian Federation]]''': [[North Atlantic Treaty Organization|NATO]] and [[United Nations|UN]] forces make incursions into the former Russian Federation to secure nuclear stockpiles from breakaway republics and rogue generals. Some states such as [[Buryatia]] and [[Tuva]] voluntarily hand over their stockpiles, while [[Primorye]], the [[Ural Republic]], Samara, and the future [[Russia|Russian Republic]] refuse to surrender their weapons but such states were unwilling to utilize these weapons in fear of nuclear retaliation from other nuclear powers. For the next 9 years, international forces engage in a series of wars to secure former Russian nuclear weapons. [[Poland]] and [[Turkey]] divide their respective spheres of influence in Russia through the [[Treaty of Odessa]].\n|-\n| 2029-2035\n| '''[[Alexandria Ocasio-Cortez|Immigration Reform]]''': The US Government enacts a new series of Immigration reform policies, taking advantage of the refugee crisis. Millions of Burmese, Thai, Vietnamese, Nigerian, Chinese, Indian, and Bengali immigrants flooded into North America as their home countries drowned, driving the United States population to 400 million citizens.\n|-\n| 2025-2030\n| '''Rise of Turkey''': Turkey begins a prolonged occupation of Arabia after the fall of the Islamic State and US disengagement from the Middle East. Over the next decade Turkish power expands to every corner of the Middle East and even into southern Russia. The Turks use infrastructure to consolidate their power, building the largest oil pipeline in history, stretching from the Arctic to the Bosporus.\n|-\n| 2030-2038\n| '''Exploration of the Outer Planets''': Galileo Development is founded from within LE. The company launches the largest spacecraft in history, the Galileo II to the Jovian system to develop it for resources. By 2036 the first expedition reaches Saturn and establishes the Gondor Colony on Titan. Regular deliveries of Nitrogen from Titan to Mars begin in 2038.\n|-\n| 2029-2037\n| '''[[Seventh Party System|American Renewal]]''': The US government spends trillions on new social services to elevate the inflation crisis and attract new immigrants to the US. Millions of suburban houses are seized by the government and replaced with new urban civil works programs. Medicare is extended to every citizen in the United States. Private retirement programs are completely replaced by Social Security. Much of the developed world digitizes their currency to better control inflation. \n|}\n<gallery>\n2035 Earth.png\nAsia 2044.png\nEurope 2044.png\nLunar Orbit 2051.png\nHistory of Martian Terraforming.png\n2051 Earth.png\n2055 Earth.png\n</gallery>\n\n===[[Space Age]]===\n{| class=\"wikitable\"\n|-\n|2039-2048\n|'''Japanese Resurgence''': [[Japan]] establishes a series of Extraterritorial Districts in Chita and Kamchatka to service the millions of displaced peoples from their population. The country demonstrates its first [[Hypersonic weapon|hypersonic weapon]] in 2039. In response, the US begins supporting nationalist movements in China and Taiwan to guard against the Japanese and Turks.\n|-\n| 2039-2049\n| '''[[The Flood#Increased rate of melting|Antarctic Flood]]''': Additional melt off in Antarctica drives greater increases in sea levels to 30 meters above pre-Anthropocene levels. Temperatures peak at around 3 degrees Celsius above pre-Anthropocene levels. Most sea walls hold until the [[The Flood#Summer of Storms|2043 Hurricane Season]], which leaves many of the world's last remaining sea walls destroyed. The damage to the British Isles drives millions of British and Irish citizens to flee for North America. Two years later, the British Parliament votes to dissolve the Monarchy and take direct possession of their lands to deal with the loss of so much of their critical territory. In Canada, the First Nations use the increased traffic through the Arctic to gain independence. Germany and France formally annex the remaining territories of Belgium and Netherlands not swallowed by the sea.\n|-\n|2045\n|'''Rise of Poland''': Poland's sphere of influence grows as Slovenia and Croatia join the Visegrad group.\n|-\n|2045-2051\n|'''[[Earth Working Group]]''': The Earth Working Group is established by consortium of businesses, NGOs and governments to to reverse the effects of climate change in 2045. Two years later, The Earth Working Group begins digging out ancient lake and river basins in the Sahara. Self-assembled aqueducts are constructed by the Working Group to begin draining excess seawater into the new man-made lakes of Africa and Central Asia. Excess sand and rock are used to construct hills around the world's new lake and river basins to shield them from wind erosion. Trees, shrubs, and grasses are planted to sustain a hydrological cycle in the Sahara.\n|-\n| 2049\n| '''[[Balkan Crisis]]''': Turkey formally absorbs the Caucasus by 2049. Poland protests and mobilizes troops. Turkey positions its forces in Bosnia on high alert bringing the planet to the brink of War.\n|-\n| 2051-2055\n| '''[[World War III]]''': Japan stages a massive attack on US space and air forces while Turkey invades the Balkans and Russia. In the face of global war, the [[United Nations]] dissolves.\n|-\n|2054\n|'''East Africa''': East Africa unites in anticipation of the massive quantities of wealth that are about to flow into their lands from the stars.\n|-\n|2058\n|'''Reunification of China''': Mainland China and Taiwan reunite as the [[United Federation of China]].\n|-\n| 2058-2061\n| '''Project Prometheus''': NASA is given a budget infusion. Research on Warp Drive conducted during the war accelerates the completion of [[Prometheus 1]], the first spacecraft capable of faster-than-light travel. Launched to Alpha Centauri, the interstellar probe succeeds in proving the practical application of the White-Alcubierre Drive, and delivers a wealth of new information on an [[Atlantis (planet)|Earthlike planet around Alpha Centauri B.]]\n|-\n|2058\n|'''DC Reconstruction''': The New DC Sea Wall is torn down and reconstruction of the old portions of the city begins.\n|-\n|2061-2071\n|'''[[Augment Rights Movement]]''': Human augmentation technology developed during the Third World War leads to a new generation of veterans and retirees who are able to return to life in a better state than they left it. In 2065, student groups march on Washington DC to protest the Falana Act, claiming banning recreational augmentations is a violation to their right to freedom of expression. Five years later, law enforcement agencies are barred from discriminating against augmented humans when hiring. The following year, the [[Augment Rights Act]] is passed.\n|-\n| 2064\n| '''First Contact''': Launch of the first warp ship with a White-Alcubierre drive, the ISV Enterprise. The ship is stocked for a seven year mission to explore nearby star systems. It reaches the Alpha-Centauri system in two weeks. The crew of the Enterprise makes first contact with the [[K'lerin]] of [[Le'ma|Tau Ceti f]].\n|-\n|2054-2065\n|'''[[The Refreeze]]''': Martian mirrors are placed in Polar Orbit to reduce global temperatures and rebuild arctic glaciers. The northwest passage is closed with Ice by 2063 and Sea Levels return to pre-Anthropocene heights. Reconstruction of the previously flooded regions begins. The closure of the Northwest Passage and environmental impact on the [[Arctic states]] leads to [[Winter Recession|the worst recession in 40 years.]]\n|-\n|2064-2073\n|'''[[First Nations War]]''': In 2064, conflict erupts between Canada, Quebec, and the First Nations. The United States intervenes in the Canadian Civil War and deploys forces to prevent the spread of the conflict from hurt American interests. In 2067, the Canadian Civil War ends with a ceasefire. Canada is occupied by the United States. Six years later, the [[Union Act of 2073|Union Act]] is passed, formally annexing the British Isles, Canada, the former First Nations, Australia, and New Zealand into the United States.\n|-\n| 2070\n| '''New Age of Exploration''': The Enterprise returns to Earth, a dozen other starships are now exploring the Local Bubble. Colonization via W-A Drive is not practical, due to the limits of W-A field volume.\n|-\n|2070\n|[[Proclamation of Sapere aude|'''Proclamation of Sapere aude''']]: Pope Francis II issues the Proclamation of Sapere aude, outlining a series of major reforms to the Catholic Church that originated in the [[Fifth Great Awakening|progressive chapters in the United States]].\n|-\n|2070-2075\n|'''Automation''': AutoProgramming software begins placing millions of programmers out of work. By 2075, unemployment reaches 27% in the United States as automated systems begin outmoding technical jobs such as programming, architecture, and a number of engineering positions.\n|-\n| 2079-2081\n| '''[[First Martian Revolution]]''': On the eve of [[Mars]] being opened for large scale human colonization, the space economy stands on the edge of collapse at the threat of the United States government closing its borders. The First Martian Revolution ends with the Rosalind Amendment. Establishing a line of legal separation between the United States on Earth and the space colonies, that essentially makes them semi-autonomous territories. Following the First Martian Revolution, the Mars Corporation official dissolves, and formal territorial governments are established with the [[Interplanetary Trade Commission]] serving as an administrative entity.\n|-\n| 2078-2084\n| '''[[Second Depression]]''': A massive global recession resulting from rising effective demand and a growing robotic workforce that contributed to mass layoffs.\n|}\n<gallery widths=\"185\">\n2066 Earth.png\n2079 Earth.png\n</gallery>\n\n===[[Mexican-American Cold War]]===\n{| class=\"wikitable\"\n| width=\"85px\" | 2085-2086\n| '''Mass Deportations''': The US administration on Earth passes a series of new immigration reform policies that close American borders on Earth to new immigrants entirely and begins mass deportations in the American southwest. Millions take advantage of the Rosalind Amendment and flee to the colonies in space. Northern Mexico is flooded with poorer former expatriates. Land strapped Mexico formally condemns the US Deportation program.\n|-\n| 2089\n| '''Central American Annexation''': Mexico formally annexes its Central American allies with minimal resistance. Many of the former expatriates refuse to relocate, out of the desire to return to their adoptive country. The United States deploys several Battle Groups to the Panama coast to prevent Mexican takeover of the Canal zone.\n|-\n| 2090-2092\n| '''[[Second Mexican-American War]]''': War breaks out after Pro-US Panamanians fire on a Mexican division stationed at DMZ, drawing Mexico to invade Panama to support their claim to the region. Mexico deploys troops to Colombia to counter the US assault from Ecuador. With the exception of Brazil and Ecuador, all of South America has declared for Mexico. The US deploys Space Marines to Argentina and Chile to split Mexico's forces from Ecuador and Panama. The conflict ends in a ceasefire.\n|-\n| 2090-2092\n| '''Great Wall of America''': The US and Mexico construct a complex network of fixed fortifications and surveillance stations along the US-Mexican border. Several thousand military personelle patrol the border while both sides move tactical nuclear devices to the area to deter the other from attack.\n|-\n|2099\n|'''[[Guardiola Incident]]''': The [[Guardiola Foundation]] launches a full scale attack against the orbital colonies. The conflict lasts more than ten months.\n|}\n<gallery>\n2094 Earth.png\n</gallery>\n\n==[[22nd Century]]==\n==='''[[The Balkanization Era]]'''===\n{| class=\"wikitable\"\n| width=\"85px\" | 2102\n|'''Collapse of the Mediterranean Union''': The MU collapses after several insurrections following the famine incurred from the colony embargo in retribution for the Guardiola Incident. Mexican and American \"advisers\" aid the former MU nations in negotiating a return to normal trade relations.\n|-\n|2102-2106\n|'''[[Second Vietnam War]]''': Outbreak of the Second Vietnam War.\n|-\n|2105-2126\n|'''[[Third Chinese Civil War]]''': Mexican funded regionalist movements lead to the [[Third Chinese Civil War]]. The conflict fades in intensity by 2111 as regionalists consolidate gains in Southern China. The United Federation of China collapses in 2117 when separatist groups can no longer be held back as discontent in the Chinese military leads to a coup in Beijing. US military forces in Shanghai are deployed to restore order and put down the coup, propping up a Han Chinese state and occupying the Wu speaking region of the Yangtze delta.\n|-\n|2108-2116\n|[[Non-Human Civil Rights Movement|'''Non-Human Civil Rights Movement''']]: Intelligent Programs are banned by the US Congress after several Itskov androids pass Turing Tests after professing a desire to live free from their owners. Five years later, two sentient androids, GB311-09 \"Pauline\" and I-CL10334 \"Hendrix\" create a machine by combining base elements from both operating systems. This violates the ban on Intelligent Programs, and they are promptly captured and destroyed. As a result, riots in Detroit, Seattle, and Miami break out as sentient androids, augmented humans, and liberal sympathizers demand equal rights for intelligent organisms of all forms. Two years later, the 35th Amendment is introduced in the House of Representatives. It is ratified the following year.\n|-\n|2111\n|'''Partition of East Africa''': Mex-American proxy wars in East Africa end after both powers deploy troops to secure critical interests. Stability comes, but many countries are broken into American and Mexican client states.\n|-\n|2113\n|'''Rise of the Dignidad Party''': The Dignidad Para La Raza Party, commonly known as the Dignidad Party, gains a majority in the California legislature, marking the third state to experience such a change.\n|-\n|2119-2126\n|'''[[India Crisis]]''': In 2117, Mexican business interests in Southern China begin funneling support to regionalist groups in India. Two years later, a massive cyber attack against the Indian government breaks the chain of command, giving militant groups a path to advance, and tearing the subcontinent apart. US Space Force Marines are deployed to Delhi to stop the advance of rebel forces. The crisis finally ends with a hasty partition of the subcontinent.\n|-\n|2126-2129\n|'''[[Battle of Brazil]]''': Brazil begins meeting in secret with the US to discuss a united front against Mexico. Facing the possibility of a US-Brazil Entente, Mexico and its allies stage a massive invasion of Brazil after engineering a series of riots in the capital. A neutral puppet government is established, while Mexico's allies annex neighboring territory and establish satellite states in southern Brazil. Afterwards, Poland sends diplomats to Mexico City to discuss an alliance against the US.\n|-\n|2130\n|[[Bradbury Riots|'''Bradbury Riots''']]: The Second Martian Revolution ends after Maisie Luong and a number of her supporters are arrested or killed during raids on MSIF compounds.\n|-\n|2130-2134\n|'''[[Crisis of 2130]]''': Stock markets crashed Earth-wide leading to a banking collapse and the exhaustion of the government's small business loan reserves. The drying up of private equity made it impossible for Personal Liability Corporations to function, leading to an extremely deep depression. The United States remained in a depression until the Third Mexican War at which point the country had largely implemented Quantum Economic principles on Earth.\n|}\n<gallery>\n2112 Earth.png\n</gallery>\n\n===[[Third Mexican-American War|'''Third Mexican War''']]===\n{| class=\"wikitable\"\n| width=\"85px\" | 2132\n| '''[[United States presidential election, 2132|Election of 2132]]''': ITC Chairman and former Resident Commissioner of Bradbury, Lionel \"Leo\" Halvidar announces his [[United States presidential election, 2132|candidacy for the Presidency of the United States]].\n|-\n| 2133-2134\n| '''[[Second American Civil War]]''': Six Southwestern States secede from the Union to form the United States of Aztlan. The conflict is centered around the status of America's Hispanic-majority population along the US-Mexican border.\n|-\n| 2134\n| '''Mexico Invades America''': After the US recaptures Texas and California, bringing the rebel states back into the Union, Mexico detonates its nuclear arsenal along the DMZ to clear a path to invade the American Southwest, beginning the [[Third Mexican-American War]].\n|-\n|2135\n|'''[[Quantum Economic Model]]''': The 173rd Congress passes a series of economic reforms, formally adopting the Quantum Economic Model across the entire United States.\n|-\n| 2136\n| '''The Intermarium sides with Mexico''': Poland Invades Denmark to secure a route to the Atlantic, while Bavaria invades Saxony to secure an overland route. Tactical nuclear weapons are used by Poland and Russia when American forces use orbital weapons against Polish forces in former Germany.\n|-\n| 2136-2137\n| '''Operation Starlight''': The Battle of Washington proves to be a turning point in the war as Mexico is defeated with the help of the newly admitted colonial states. Poland finds itself fighting a two front war and Mexico is pushed back to their territory with the help of Colonial reinforcements.\n|-\n| 2138\n| '''Battle of Mexico''': Mexico surrenders after President Jaso is killed by his own Secretary of Defense. The Third Mexican-American War ends. Fallout from the Mexico campaign leaves the Earth in a nuclear winter.\n|-\n| 2139\n| '''Treaty of San Juan''': Mexico and its sphere come under the Quantum Economic Model, the US agrees to oversee reconstruction efforts.\n|-\n|2140\n|'''Annexation of Hispanic America''': With no clear end in sight for the occupation of South America, and significant population displacement, the US Congress formally annexes all but Brazil in Latin America, and begins a slow transition to statehood.\n|}\n<gallery>\n2132 Earth.png\n2138-2140 Earth.png\n</gallery>\n\n==='''[[The Second Renaissance]]'''===\n{| class=\"wikitable\"\n| width=\"85px\" | 2139-present\n| '''[[Terran diaspora]]''': Hundreds of millions of people from Earth begin leaving the planet for Venus and the outer colonies.\n|-\n|2139-2141\n|'''Founding of [[Associated state|Associated States]]''': President Halvidar of the United States announced that the US was no longer going to pursue a diplomatic policy of keeping Eurasia divided, but rather hoped to unite it; and indeed the entire world. Unification would begin with the establishment of new regional states in free association with the US. China, India, Siberia, and Atlantic Europe would each be organized under singular governments. Buffer zones of varying degrees of American occupation was slowly reduced to expand these associated states.\n|-\n|2149\n| '''[[Eternal Spring Revolt]]''': The O'Neil Ship, ''Eternal Spring'', attempts to secede from the Union and bombard the Earth while passing by the planet. The attack is unsuccessful, and the station recaptured, however the revolt causes Jovian and Titan representatives to force the issue of O'Neil and Orbital legal status, resulting in constitutional reforms granting O'Neil Ships greater rights to form dispersed territories and states.\n|-\n| 2160\n| '''[[Space Elevators|New Space Elevators]]''': The Maluae Tower in the Pacific is completed, bringing the total number of space elevators on Earth up to 18.\n|-\n| 2160\n| '''[[De-Extinction|Rewilding Earth]]''': US Interior Department reports that 97% of species lost to the Anthropocene Extinction have been partially reintroduced and biosphere's are showing signs of progress on redevelopment.\n|}\n<gallery>\n2160 Earth.png\nAssociation of East Asia Map.png\nEuropean Association Map.png\n</gallery>[[Category:Timeline]]\n[[Category:History]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-12-04T16:13:46Z"
+          }
+        ],
+        "title": "Timeline of major events",
+        "touched": "2025-09-28T14:09:30Z"
+      },
+      "89": {
+        "contentmodel": "wikitext",
+        "lastrevid": 95,
+        "length": 55,
+        "new": "",
+        "ns": 2000,
+        "pageid": 89,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 95,
+            "slots": {
+              "main": {
+                "*": "This board is for general conversations about the wiki.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T01:15:49Z"
+          }
+        ],
+        "title": "Board:General Discussion",
+        "touched": "2015-08-08T01:15:49Z"
+      },
+      "90": {
+        "contentmodel": "wikitext",
+        "lastrevid": 96,
+        "length": 30,
+        "new": "",
+        "ns": 2000,
+        "pageid": 90,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 96,
+            "slots": {
+              "main": {
+                "*": "Breaking news and information!",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T01:15:49Z"
+          }
+        ],
+        "title": "Board:News and Announcements",
+        "touched": "2015-08-08T01:15:49Z"
+      },
+      "91": {
+        "contentmodel": "wikitext",
+        "lastrevid": 97,
+        "length": 138,
+        "new": "",
+        "ns": 2000,
+        "pageid": 91,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 97,
+            "slots": {
+              "main": {
+                "*": "Want to share something that's just been posted on this wiki, or congratulate somebody for an outstanding contribution? This is the place!",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T01:15:49Z"
+          }
+        ],
+        "title": "Board:New on Second Renaissance Wikia",
+        "touched": "2015-08-08T01:15:49Z"
+      },
+      "92": {
+        "contentmodel": "wikitext",
+        "lastrevid": 98,
+        "length": 69,
+        "new": "",
+        "ns": 2000,
+        "pageid": 92,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 98,
+            "slots": {
+              "main": {
+                "*": "Got a question about the wiki, or the topic? Ask your questions here!",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T01:15:49Z"
+          }
+        ],
+        "title": "Board:Questions and Answers",
+        "touched": "2015-11-15T02:11:44Z"
+      },
+      "93": {
+        "contentmodel": "wikitext",
+        "lastrevid": 99,
+        "length": 107,
+        "new": "",
+        "ns": 2000,
+        "pageid": 93,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 99,
+            "slots": {
+              "main": {
+                "*": "This board is for off-topic conversation -- a place to hang out with your Second Renaissance Wikia friends.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T01:15:49Z"
+          }
+        ],
+        "title": "Board:Fun and Games",
+        "touched": "2015-08-08T01:15:49Z"
+      },
+      "94": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Timeline"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11980,
+        "length": 19607,
+        "links": [
+          {
+            "ns": 0,
+            "title": "American colonization of Mars"
+          },
+          {
+            "ns": 0,
+            "title": "Armor"
+          },
+          {
+            "ns": 0,
+            "title": "AstroBlues"
+          },
+          {
+            "ns": 0,
+            "title": "Augment Rights Movement"
+          },
+          {
+            "ns": 0,
+            "title": "Biotech bubble"
+          },
+          {
+            "ns": 0,
+            "title": "De-Extinction"
+          },
+          {
+            "ns": 0,
+            "title": "Dissolution of the Russian Federation"
+          },
+          {
+            "ns": 0,
+            "title": "Donald Trump"
+          },
+          {
+            "ns": 0,
+            "title": "Earth Working Group"
+          },
+          {
+            "ns": 0,
+            "title": "Epical Music"
+          },
+          {
+            "ns": 0,
+            "title": "Eurasian Coalition"
+          },
+          {
+            "ns": 0,
+            "title": "Fifth Great Awakening"
+          },
+          {
+            "ns": 0,
+            "title": "Genetic Engineering"
+          },
+          {
+            "ns": 0,
+            "title": "Human"
+          },
+          {
+            "ns": 0,
+            "title": "Hyperloop"
+          },
+          {
+            "ns": 0,
+            "title": "Hypersonic Weapons"
+          },
+          {
+            "ns": 0,
+            "title": "India"
+          },
+          {
+            "ns": 0,
+            "title": "Jupiter"
+          },
+          {
+            "ns": 0,
+            "title": "Little Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Mars"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "NASA"
+          },
+          {
+            "ns": 0,
+            "title": "Quantum Capacitor"
+          },
+          {
+            "ns": 0,
+            "title": "Revolutions of 2027"
+          },
+          {
+            "ns": 0,
+            "title": "Saturn"
+          },
+          {
+            "ns": 0,
+            "title": "Second Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Sol system"
+          },
+          {
+            "ns": 0,
+            "title": "Space Age"
+          },
+          {
+            "ns": 0,
+            "title": "Tactile-neural interface"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "The Refreeze"
+          },
+          {
+            "ns": 0,
+            "title": "Union Act of 2073"
+          },
+          {
+            "ns": 0,
+            "title": "Venus"
+          },
+          {
+            "ns": 0,
+            "title": "Virtuals"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 94,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11019,
+            "revid": 11980,
+            "slots": {
+              "main": {
+                "*": "The '''21st century''' was the period between January 1, 2001 and December 31, 2100. \nThe 21st century was dominated by significant events that defined the modern era: COVID-19 pandemic, the [[Dissolution of the Russian Federation]], [[The Flood]], [[Revolutions of 2027]], [[World War III]], the [[Second Mexican-American War]], the [[Biotech bubble]], [[American colonization of Mars|space colonization]] and [[NASA|Interstellar exploration]], balkanization, the beginning of the [[Mexican-American Cold War]], and technological advances. These reshaped the political and social structure of Earth, the colonies, and contacted alien planets.\n\nAdditional themes include the breakdown of social order, national governments, and intergovernmental organizations due to the consequences of anthropological climate change, and the global effort to [[The Refreeze|reverse those effects]]. Greater cultural homogenization through developments in transportation and communications technology; poverty reduction and rising standards of living, world population decline, [[De-Extinction|biosphere restoration]]; and the birth of the [[Genetic Engineering|Biotech Revolution]] and the [[Quantum Capacitor|Quantum Revolution]]. Personalized media, telecommunications, and information technology (especially computers, neural interfaces, individualized education, and the Internet) made knowledge more widely available.\n\n[[Human|Humans]] explored outer space at a greater pace than ever before, taking their first footsteps on and eventually colonizing [[Mars]], the Jovians, Titan, Triton, the Asteroids, [[Venus]], and dozens of other worlds in and out of the [[Sol system]]. Space-based resources came to outpace those of Earth by the end of the century, and Space-based energy came to be the largest single source of energy on Earth.\n\nMany people's view of the universe changed significantly by the later half of the century as they became much more aware of the struggles of others and, as such, became increasingly concerned with human rights. Advancements in medical technology also improved the welfare of many people: the global life expectancy increased from 65 years to 150 years. [[Hypersonic Weapons|Rapid technological advancements, however, also allowed warfare to reach unprecedented levels of precision.]] World War III, previously hypothesized as an apocalyptic event, only saw the death of 110,000 people, while space weaponry gave humankind the means to counter threats in a very short period of time. The world also became more culturally homogenized than ever with developments in transportation and communications technology, popular music and other influences of American culture, international corporations, and an interplanetary economy by the end of the 21st century.\n\n==Development in Brief==\n==='''War and politics'''===\n*With major strides in LGBT rights across the western world in the first part of the century, and with the acceptance of new family planning techniques, homosexual individuals gained more rights and freedoms during the century.\n* European integration to breakdown in Atlantic Europe in the early 21st century, while it strengthened in Eastern Europe, eventually leading to the formation of the Intermarium.\n* The [[Little Cold War]] (2008-2029) saw a renewed period of hostility between NATO and the Russian Federation. After Russia's failed invasion of Ukraine in 2022, the Federation entered into a period of political instability and national collapse.\n*Rising nationalist movements were among the many causes of [[World War III|World War III (2051–2055)]], ending the period of \"Long Peace\" that had existed since the end of World War II. World War III led to the creation of many new countries, especially in Central Asia. At the time, it was also said by many to be the \"end of total war\".\n*The century is often referred to as the Balkanization Era. Violent civil wars and political disunion effected many countries throughout the century, substantially increasing the number of nation-states, and with it the level of instability in many regions. The most significant example of the Balkanization was the sudden and unexpected socioeconomic collapse and dissolution of Russia in the 2020s. This event led to the crafting of the alliance systems that would define the Third World War.\n*The economic and political aftermath of the Little Cold War and the 2030s Labor Crises led to the rise of ultra-nationalism in Eurasia, and subsequently to World War III. Unlike the previous two world wars, civilians did not suffer from the mass death of a total war. This is largely due to the surgical strikes of economic targets on both sides, that rarely caused the death of civilians due to its discouragement among both sides as well as the fear of a nuclear warfare.\n*The tensions between the America and the Turkish-Japanese Alliance had caused another arms race and increasing competition between the two major players in the world: [[Eurasian Coalition|the Eurasian Trade and Security Coalition]] and United States of America. This competition included the development and improvement of space-based weapons and the further spread of nuclear proliferation.\n*The Japanese authorities deported millions of their own citizens in order to eliminate domestic opposition and promote loyalty and obedience. More than 2 million people were forcably relocated to China and Manchuria, or were forced to flee to Australia or America, because they were considered enemies of the state.\n*The rise of [[Donald Trump]] in the United States and the anti-rape movement in [[India]] challenged existing gender politics in those countries.\n*In the late 2050s, the [[Augment Rights Movement]] began for people who had elected to be genetically augmented. In the US, Falana Act banned all recreational modifications, effectively making criminals of animal/human hybrids (furies), unusual skin colors (rainbow children), and those that modified themselves to resemble fictional creatures (FreakGeeks). In 2070, the Augmentation Rights Act overturned the Falana Act's most radical policies, but maintained a ban on all post-natal augmentations before the age of 18.\n*The Third World War was largely fueled by rising nationalism in Japan and Turkey, drawing America and its allies into war.\n* Civil wars occurred in many nations throughout the 21st century and continuing into the 22nd, an era often called, the Balkanization Era. Rebellions were easier than ever to start, thanks to the hyperlocalization of manufacturing that enabled any political group to build a militia in a matter of days.\n* The Little Cold War and the Third World War saw a realignment of the International System, and the tearing down of Cold War-era institutions, among which were NATO and the United Nations.\n* After a long period of civil wars and the conflict with Japan, the period of two Chinas ended in 2058 with the establishment of the United Federation of China, which reasserts itself as the second-largest economy in the world.\n* The American wars saw a major re-structuring of the US military that spread across military systems in other nations.\n* The old Anglosphere became more entrenched in the American system, eventually joining the United States after the [[Union Act of 2073]].\n* Advances in unmanned systems, [[Genetic Engineering|human augmentation]], [[Armor|armored powered exosuit]], and interface weapons led to a new era of professional soldiers, not seen since the days of knights, janissaries, samurais, or any other historical warrior castes.\n*Several thousand advanced androids and AIs begin showing clear indications of intelligence in the 2070s. A massive backlash from the general public results in the recall of the specific models using human neural net copying and many androids are destroyed in the public hysteria.\n\n==='''Culture and entertainment'''===\n*As the century began, Los Angeles was the entertainment capital of the world, where both American and foreign filmmakers, musicians, and visual artists gathered.\n*The internet had a major influence on fashion and trends in all aspects of life, supplanting movies and music as the primary driver of cultural trends. As a great deal of digital content originated from the United States, and most software languages were written in English, American culture continued to permeate every society in the world.\n*Analog Media (i.e. newspapers, radio, and television) saw a mass die off. News and information moved to being streamed through dynamically generated outlets that take information fed through both local reporters and content contributors.\n*Video game consoles continued to exist as a separate class of device well into the 2020s before digital media forced game publishers to adapt to the growing mobile market.\n*By the 2030s, computer animation was routinely used to produce works for a wide variety of demographics and genres, rivaling and even exceeding live-action in diversity.\n*The split between the America and Japan that eventually led to World War III had significant consequences for popular culture. Whereas at the dawn of the 21st century Japan was seen as a major exporter of entertainment, the increasing suspicion toward Japan--combined with the inevitable obsolescence of TV and video game consoles as a whole--caused America to become the main producer of these products. That said, a number of fans of these works remain, even during World War III. The fan bases of these TV shows and video games from Japan eventually received a resurgence in popularity after hostilities subsided.\n*Electronic and [[Wikipedia:House music|house music]] became popularized during the 2010s and 2020s in the United States. [[Wikipedia:Electronic music|Electronic music]] went on to influence [[AstroBlues]] in the 2040s, which in turn influenced [[Epical Music]] that exploded in popularity in the 2060s.\n*Astronauts began getting tattoos in the 21st century, much like sailors of old. Bio-luminescent and animated tattoos became popular in the mid-late 21st century.\n*Virtual culture became more dominant not only in interactive entertainment but in movies and series as well. During the century a new skilled understanding of interactive imagery was developed.\n*Online dating became the primary medium for people seeking sexual partners in the 2010s and 2020s. The practice was particularly disruptive in more traditional societies with strict moral codes about human courtship.\n*The legalization movement saw Cannabis become an accepted recreation drug through the 2010s-20s. Most other narcotics were decriminalized or legalized by the 2030s, and anti-addiction and drug treatment technology became more commonplace during that time.\n*The [[Fifth Great Awakening]] saw Christianity adopt new interpretations of biblical dogma as egalitarianism, human augmentation, and the discovery of new civilizations.\n* In America, modern architecture departed radically from the excessive utilitarianism of the Information Age. Organic forms created to benefit from the ecosystem became more commonplace, enabled by developments in building materials and technologies.\n*Gamification has become so widespread due to advances in social networking and augmented reality technologies, that almost any activity on Earth can be treated as a game. For example, most governments grant a community service tax credit that lets any community service activity be rated and tallied in a points system that can be exchanged as a tax credit for all exchanges and income. Job Communities (the closest thing to employment left) have running tallies that display the success of their members in real time.\n*Space hotels became popular tourist destinations during the 2050s. However, the novelty grew out of favor by the 2070s.\n*Designer pets became a major trend in the century through new selective breeding projects. The movement eventually gave way to the genetically modified pet movement in the 2050s, which domesticated foxes, badgers, otters, big cats, birds of prey, and other wild animals into tame subspecies. More advanced GM pets came about in the 2060s with direct manipulation of DNA, producing animals with more unusual appearances and sophisticated behavior.\n*Designer Children became the norm in the Developed World by 2060, and globally by 2070, leading to the eradication of degenerative genetic disease.\n\n==='''Science and mathematics'''===\nScience advanced dramatically during the 21st century. There were new and radical developments in quantum physics, genetics and cybernetics, building on the progress made in the 20th century. Big Science flourished, especially after the Third World War, as funding for science increased. Computer science became ever more specialized and abstract.\n\n===='''Physics'''====\n*New areas of physics, like warp field theory, quantum entanglement, and light-mass conversion, were developed during the 21st century.\n*While some pioneering experiments about the theory of quantum gravity had been made at the end of the 20th century, it was only in the 21st century that gravity could be adequately described in quantum mechanics.\n*It was found that all the known forces can be traced to an additional fifth fundamental interaction, the quantum force, the weakest of the five forces.\n\n===='''Astronomy'''====\n*The planets of a number of nearby star systems were closely observed via numerous space telescopes and interstellar missions.\n*Life was discovered to be prolific in the Universe, even appearing beneath the icy moons of [[Jupiter]] and [[Saturn|Saturn's]] moon Enceladus. Life was also discovered to have been present on Mars when the planet had liquid water in the distant past.\n*The steps that would eventually lead to Mars being terraformed are begun.\n*Humans began an expansive age of [[Space Age|colonization]] throughout the solar system, and on some nearby star systems.\n*A much better understanding of the evolution of the universe was achieved, its size was determined, and the Big Bang theory on its origin was further refined to account for the presence of dark energy and low amounts of anti-matter.\n\n===='''Biology'''====\n*Genetics and evolutionary biology faced greater political skepticism in the early 21st century, but further advanced the fields of cloning and genetic modification.\n*The Human Connectome Project modeled every neural connection of the human brain and gave scientists a better understanding of the brain's structure.\n*A number of recently-extinct animals are revived via cloning, the first being the gastric-brooding frog in 2040. Others include the thylacine, the Carolina parakeet, and the woolly mammoth.\n*The discovery of alien life led to a boom in biological research in off-Earth research facilities.\n\n==='''Engineering and technology'''===\nOne of the prominent traits of the 21st century was the dramatic growth of technology. Organized research and practice of science led to advancement in the fields of communication, engineering, travel, medicine, and war.\n\n* The number and types of personal robots radically changed throughout the 21st century due to advancements in biotechnology and demand for labor. Such basic home robots with general purpose capabilities ranging from cleaning, gardening, and caretaking all became popular starting in the 2060s\n*[[Virtuals]] were popularized as a form of entertainment during the 2030s, which extended to education during the 2070s. Wearable computers began to enter the home during the 2010s as well. The age of the wearable grew during the 2030s with the development of fiber circuits and [[Tactile-neural interface|tactile-neural interfaces]], which slowly began to replace visual interfaces.\n* The first unmanned hypersonic aircraft was flown in 2001. Military research in the 2010s-20s led to the first combined cycle jets by the 2030s. Global hypersonic travel became commercially viable by the middle of the century.\n* The introduction of the [[hyperloop]] in the 2020s essentially rendered traditional modes of transportation obsolete, enabling the average person to travel anywhere in North America in a matter of minutes\n* Additive manufacturing/3D printing made mass personalization of manufactured goods.\n*The [[Quantum Capacitor|quantum circuit]], photon transistors, and tactile-neural interfaces revolutionized computers, leading to the proliferation of the personal AI in the 2060s.\n* Graphene became an inexpensive material and became second only to iron in use.\n* The Space Boom of the 2050s gave rise to the colonization of the solar system. Terraforming of Mars and Venus began in the early 2060s while subsurface colonies in the Jovan and Saturn systems were settled in the 2080s. Asteroids were processed into many kilometers long O'Neil ships that provided easy transport of goods, biomass, and people throughout the system. Warp drive gave humans limited access to other star systems, and suspended animation technologies enabled colonists on slower than light ships to travel to other worlds by the end of the 21st century.\n* Quantum entanglement technology enabled instantaneous communication across interstellar distances, and creating unbreakable codes for governments and major corporations.\n\n==='''Medicine'''===\n*Lab-on-chip technology became a powerful tool for testing new medicines.\n*Antibiotic resistant bacteria began to increase mortality from bacterial diseases and their prevalence in the 2020s, forcing western nations to adopt Bacterial Phage treatments.\n*A vaccine was developed for HIV, ending a worldwide epidemic. Effective vaccines were also developed for a number of other serious infectious diseases, including Ebola, Parkinson's, Alzheimer’s, Cervical Cancers, Lung Cancer, and influenza.\n*[[Genetic Engineering]] led to the eradication of cancer in humans.\n*Development of GM bacterial virtually eliminated tooth decay and other mouth diseases from post-industrial societies.\n*New psychiatric technologies were developed. These include virtual psychoanalysis and psycho-surgery.\n*The development of genetic sequencing and genetic modification made selecting out harmful conditions from embryos safe and widely available.\n*The invention and development of stem cell technology made organ and tissue replacement a clinical reality.\n*Anti-addiction treatments for cocaine/crack and heroin resulted in their effective treatment; mind-altering drugs such as LSD, MDMA, and cyberdrugs were decriminalized in the 2060s. In many countries, a war on drugs was ended in favor of new treatment techniques, leading to the collapse of black market drug dealing, and a significant reduction in prison sentences for drug charges.\n*Contraception drugs for men were developed, which reduced population growth rates in industrialized countries.\n\n==='''Energy and the environment'''===\n*By 2075, the ozone in Earth's atmosphere was almost completely restored.\n*Rewilding efforts are now common place.\n*The [[Earth Working Group]] carried out a geoengineering program mid-century that returned much of Earth's polar ice and atmospheric carbon levels to where they were in 2000.\n*Solar cells are included in almost everything in modern construction, clothing, and of course electronic devices. The most efficient cell, used on rooftops, is capable of absorbing 81% of all light that strikes it into pure electricity.\n*Fossil fuel use and nuclear fission were supplanted by the dominant use of renewable sources and fusion power by the 2050s\n*The decline in population growth reduced the strain on the environment.\n[[Category:Timeline]]\n[[Category:21st Century]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2026-02-20T05:27:58Z"
+          }
+        ],
+        "title": "21st Century",
+        "touched": "2026-02-20T05:27:58Z"
+      },
+      "95": {
+        "contentmodel": "wikitext",
+        "lastrevid": 104,
+        "length": 75,
+        "new": "",
+        "ns": 14,
+        "pageid": 95,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 104,
+            "slots": {
+              "main": {
+                "*": "These pages are part of the Second Renaissance timeline series of articles.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-08T01:22:11Z"
+          }
+        ],
+        "title": "Category:Timeline",
+        "touched": "2025-09-28T14:09:30Z"
+      },
+      "96": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:22nd Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:22nd Century Conflicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Timeline"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11715,
+        "length": 12802,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Chronoscope"
+          },
+          {
+            "ns": 0,
+            "title": "Gravitonics"
+          },
+          {
+            "ns": 0,
+            "title": "India Crisis"
+          },
+          {
+            "ns": 0,
+            "title": "Khuzestan War"
+          },
+          {
+            "ns": 0,
+            "title": "Loss of Spirit"
+          },
+          {
+            "ns": 0,
+            "title": "Lugh Disaster"
+          },
+          {
+            "ns": 0,
+            "title": "Luna"
+          },
+          {
+            "ns": 0,
+            "title": "Quantum Capacitor"
+          },
+          {
+            "ns": 0,
+            "title": "Second Martian Revolution"
+          },
+          {
+            "ns": 0,
+            "title": "Second Vietnam War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Chinese Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Virtuals"
+          }
+        ],
+        "ns": 0,
+        "pageid": 96,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11714,
+            "revid": 11715,
+            "slots": {
+              "main": {
+                "*": "The '''22nd century''' century is the current century of the Common Era, in accordance with the Gregorian calendar. It began on January 1, 2101, and will end on December 31, 2200. It is the second century of the 3rd millennium. It is distinct from the century known as the 2100s, which began on January 1, 2100 and will end on December 31, 2199.\n\n==Transitions and changes==\nThe first years of the 22nd century have thus far been marked by the rise of an interplanetary economy, mistrust in private enterprise, deepening global concern over balkanization and an increase in the power of Mexico. The human population began the century at 11 billion and grew to about 12 billion within the last 30 years.\n\nIn contemporary history, the 22nd century began with the United States and Mexico as world's two global powers with Poland and Brazil as two major regional powers.\n\nThe completion of the Mars Terraforming Project in 2122 marks the continual rise of geoengineering sciences, which makes mankind's long-held dreams such as repairing the Earth's biosphere more realistic. The development of [[Chronoscope|chronoscopic technology]] in the 2110s remains controversial, as direct surveillance of past events often contradicts established religious and cultural dogma, and poses a threat to privacy.\n\nThe US Department of Energy and Mexican Secretariat of Energy agree that more than half the planet is experiencing random energy shortages.\n\nQuantum Entanglement opened up the science of chronoscopology, the study of images from the past. While quantum imaging from the past was only achieved in 2120, remnants of the Earth Working Group have used the technology to design ways to rebuild many ancient structures that have fallen into ruin.\n\nThe proliferation of portable [[Quantum Capacitor|quantum electronics]] more than half of the human population now has access to non-local recording devices, leading to a major erosion of privacy.\n\n==Politics and wars==\n*2099-2102 – The Interplanetary Trade Commission (ITC) formally blockades the Mediterranean Union, starving much of Europe in the process.\n*2102 – Sicily's government is dissolved following public outcry over rising food prices. After several similar incidents and insurrections the MU effectively collapses by the end of the year.\n*2100-2103 – Riots across northern Europe over food shortages are put down after a US military intervention in France. A number of operations in Germany by American and Intermarium militaries restore order in German breakaway republics.\n*2102-2106 – [[Second Vietnam War]] began after riots over the election 2101 resulted in a military coup. Chinese and US forces invade to restore order while Mexican operators distributed weapons and armor to fuel a civil war. The conflict ended with a ceasefire in 2106, though the conflict was technically still ongoing until the Third Mexican-American War ended.\n*2108 – Mexico outfits several asteroids as colonies, effectively ending American hegemony over space.\n*2107-2110 – [[Khuzestan War]] breaks out after Arab Nationalists storm the Provincial capitol building in Ahvaz, killing the premier and declaring independence. Most of Iran's military was engaged in the Azerbaijan conflict in the North at the time of the attack, allowing the Khuzestanis to operate with impunity for the better part of a year. Iran was forced to acknowledge the breakaway state's independence in 2110 so as to concentrate their efforts against Azerbaijan.\n*2106-2111 – A [[Third Chinese Civil War|civil war in China]] was fought after Veterans of the Second Vietnam War march on Beijing in protest of the Federalist government delaying their pensions led to rebellions within the Chinese military. Southern China was in open revolt by 2107 and an attempted coup that was stopped by the American invasion in the Summer of 2107. A provisional government was established in Shanghai under a military regime, and the conflict continued into 2111 before a ceasefire was negotiated.\n*2121 – Pope Clement XV dies and David Kenny is elected Pope Alexander IX\n*2126 - [[India Crisis]] - A mass suicide is forced in the cabinet of India sending the nation into chaos.\n*2130 – The Bradbury Riots on Mars end in the violent quelling of the [[Second Martian Revolution]]\n*2132-2134 – The [[Third Mexican-American War|Second American Civil War]] begins when several states in the American Southwest secede to form the United States of Aztlan.\n*2134-2139 – Mexico invaded the southwestern United States on December 9, 2134, and annexed the separatist Aztlan states. The conflict became a catalyst for warfare between various American, Mexican, and Polish proxies around the planet.\n*2140 - Most of Latin America is annexed by the United States. World unification begins.\n*2160 - Most of the world has in essence unified. Serbia and Central Asia refuse to join. Katanga, Zambia, and the Hejaz, however, are on track to joining the American system. The Second Renaissance has begun.\n\n==Science and technology==\n===Space exploration===\n*2108 – Pluto's satellite Hydra is converted in the largest O'Neil ship in history to provide terraforming supplies and several thousand colonists for Epsilon Eridani b.\n*2114 – First contact is made with the most technologically advanced species to date on a moon in the Dorado constellation. They are roughly as advanced as humanity was during the early 20th Century, with internal combustion vehicles and the beginnings of powered flight.\n*2130 – 22 \"Dead Planets,\" now occupy the NASA planetary registry.\n\n===Physics===\n*2104 – National Chronoscopology Lab opens in Boston, taking the first high resolution images from the past.\n*2110 - Jovian physicists conduct the first successful test of [[Gravitonics|Graviton]] manipulation.\n*2114 – The Colossal Neutrino Detector's first scans of energized particles from deep space begin.\n*2125 – Mexican Researches detect the first conclusive evidence of other universes.\n\n==Society==\nIntelligent Programs are banned by the US Congress after several Itskov androids pass Turing Tests after professing a desire to live free from their owners. This ban ends in 2116 when the 35th Amendment is ratified.\n\n===Population===\n*The Earth's population was about 11 billion at the start of the 22nd century, and had fallen to just over 9 billion by 2160.\n*The Martian population was about 3 billion by 2130.\n*The Earth sphere's population (not including territories outside the Sol system with extraterrestrials) was about 14.7 Billion by 2160.\n===Civil unrest===\n\n==Disasters==\n===Natural disasters===\n\n===Man-made disasters===\n*2144 - The [[Loss of Spirit]] - On August 29, the ISV-17 Spirit experiences a catastrophic failure of its White-Alcubierre drive, causing an infinite mass expansion and killing all 753 crew members on board.\n*2159 - The [[Lugh Disaster]] - Research teams at the gas giant 2M1207b in the Centaurus constellation deploy Gravitational Field Generators deep into the atmosphere of the planet, the hope being to initiate fusion and create a brown dwarf star. A software glitch causes the gravity well to grow beyond the parameters of the mission and the premature fusion ignition causes the destruction of entire research outpost.\n\n==Economics and industry==\n*The Late-2120s economic crisis continues to affect the economy worldwide.\n\n== Sports ==\nAt the start of the 22nd century sports were very popular. The IOC's Olympic Games was the most viewed sporting event, but were suspended during the Third Mexican War. Martial arts is one of the most popular sports worldwide with the MMA World Tournament the most viewed fighting event. Other sports such as gridiron football, baseball, basketball, ice hockey, soccer, and golf were popular globally. E-sports is still also the most common type of sports played since its peak in the last century as virtual reality became heavily used.\n\n=== Olympic Games ===\n*2100 Summer Olympics were held in San Juan, Puerto Rico, United States.\n*2102 Winter Olympics were held in St. Petersburg, Russia\n*2104 Summer Olympics were held in N'Djamena, Chad.\n*2106 Winter Olympics were held in Guangdong, China.\n*2108 Summer Olympics were held in Marseille, Occitania.\n*2110 Winter Olympics were held in Sao Paulo, Brazil\n*2112 Summer Olympics were held in London, England, United States.\n*2114 Winter Olympics were held in Minsk, Poland.\n*2116 Summer Olympics were held in New Babylon, Hammurabia, United States - the first time in a space colony.\n*2118 Winter Olympics were held in Pyongyang, Korea.\n*2120 Summer Olympics were held in Mogadishu, Somalia.\n*2122 Winter Olympics were held in Montreal, Quebec.\n*2124 Summer Olympics were held in Benghazi, Cyrenaica.\n*2126 Winter Olympics were held in Malmö, Denmark.\n*2128 Summer Olympics were held in Veracruz, Mexico.\n*2130 Winter Olympics were held in Tokyo, Japan.\n*2132 Summer Olympics were held in Quito, Ecuador.\n*2134 Winter Olympics were held in Shanghai, Wuyue.\n*2142 Summer Olympics were held in Jeddah, Arabian Association - after the Third Mexican-American War.\n*2144 Winter Olympics were held in Armstrong, United States - the first time on [[Luna]].\n*2146 Summer Olympics were held in Rome, European Association\n*2148 Winter Olympics were held in Alexandria, African Commonwealth\n*2150 Summer Olympics were held in Beijing, Association of East-Asia\n*2152 Winter Olympics were held in Brasilia, Brazil\n*2154 Summer Olympics were held in New York, United States.\n*2156 Winter Olympics were held in Berlin, European Association.\n*2158 Summer Olympics were held in Karachi, India.\n*2160 Winter Olympics were held in Jerusalem, Israel.\n\n== Entertainment ==\nEntertainment during the 22nd century had evolved from the same types of entertainment which emerged around the middle of the 21st century. Sports, [[Virtuals]], Music, Experience Series, and Text remained popular into the early 22nd century.\n\n===Virtuals===\n*2104 – ''The Lost Tome: Reclamation'' ties the record for most Academy Award wins for a single virtual (19).\n*2110 – Release of Dreamwalker, the world's highest grossing virtual.\n*2100s-2110s – Increased use of movie and television adaptations into the virtual industry such as X-Men, Avatar, Adventure Time, Attack on Titan, Steven Universe, and Star Wars.\n*2110s (decade) – The existence of theaters is threatened by the high cost of Virtual Conversion.\n*2120s (decade) – Revival of Historical Epics in the virtual industry such as Sengoku Jidai, Troy, Empire of the Golden Fields, and Three Kingdoms\n\n===Music===\nBattle Metal became a popular genre in the colonies after the conclusion of the Guardiola incident. Many of the older combatants in the Planetary Guard that had served during WWIII were known for listening to their preferred genre of music during combat to calm their nerves inspiring younger operators to take up the habit. During the Battle of Stanford Station, one Major Vaughn \"The Mountain\" Denali broadcast war drums to his entire company, which mixed with some of the Epical and old Metal many of the soldiers were listening to. After the victory at Stanford, many of the veterans began incorporating the heavy percussion of war drums with an older Heavy Metal guitar riffs, spawning a musical renaissance in the colonies.\n\n==Issues and Concerns==\n*'''Balkanization.''' Advances in automated manufacturing, the expansion of neural interfaces, and relatively bloodless conflict up until the Third Mex-American War have resulted in unprecedented breakdown of nation-states.\n*'''Overpopulation.''' The Earth's population reached 11 billion at the turn of the century. Such a population creates many economic and political disruptions. In response, many countries have adopted policies which either force or encourage their citizens to have fewer or no children at all, and others have limited immigration. This is largely the result of prolonged lifespans from new medical technologies.\n*'''Non-human rights''' are a major political issue in many places, with marriage between human and non-human partners being legalized in several jurisdictions during the first two decades of the century, but outlawed by constitutional amendment in other places.\n*'''Poverty.''' Poverty remains the root cause of many of the world's other ills, including famine, crime, and civil unrest. With unemployment at record heights, even wealthy countries are now experiencing the effects of rampant poverty.\n*'''Energy shortages''' and blackouts are becoming more frequent, due to the escalating demand for energy. As robotic systems continue to control the lion's share of the Terran economy, energy demands are expected to remain high during the rest of the century.\n[[Category:22nd Century Conflicts]]\n[[Category:Timeline]]\n[[Category:22nd Century]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-11-11T03:33:43Z"
+          }
+        ],
+        "title": "22nd Century",
+        "touched": "2024-11-11T03:33:43Z"
+      },
+      "97": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century conflicts"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Eurasian Union.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Little Cold War.png"
+          }
+        ],
+        "lastrevid": 11982,
+        "length": 31733,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Dissolution of the Eurasian Union"
+          },
+          {
+            "ns": 0,
+            "title": "European Union"
+          },
+          {
+            "ns": 0,
+            "title": "Iran"
+          },
+          {
+            "ns": 0,
+            "title": "North Atlantic Treaty Organization"
+          },
+          {
+            "ns": 0,
+            "title": "People's Republic of China"
+          },
+          {
+            "ns": 0,
+            "title": "Poland"
+          },
+          {
+            "ns": 0,
+            "title": "Russian Federation"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          }
+        ],
+        "ns": 0,
+        "pageid": 97,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11979,
+            "revid": 11982,
+            "slots": {
+              "main": {
+                "*": "The '''Little Cold War''' also known as '''Cold War II''', and the '''Second Cold War''' (approx. 2008–2029) was a state of ongoing tensions, hostilities, and political rivalry between the countries and partners of the North Atlantic Treaty Organization (NATO), such as [[United States of America|United States]] and members of the [[European Union]], against the [[Russian Federation]] and (to a lesser extent) the [[People's Republic of China]]. The Second Cold War, unlike the First Cold War, this conflict was largely over regional security issues, rather than an overarching economic and ideological conflict.\n\nThe official start date of the Second Cold War is often debated, but most historians agree that it began in earnest in 2008 with the Russian Invasion of Georgia. Much like the first Cold War, the second was ultimately about Russia's relationship with the rest of Europe, particularly with respect to its lack of natural borders in the East European Plain that had been exploited by every western invader since Napoleon. Unlike the previous Cold War, this conflict also took into account Russia's population crunch and European dependency on Russian oil and natural gas.\n\nResources proved to be Russia's greatest advantage during the conflict, and under the leadership of Vladimir Putin the country was able to build up capital from the exportation of natural resources. The Russian dominance over Europe's energy sectors finally proved to be effective at leveraging most of Western Europe and therefore [[North Atlantic Treaty Organization|NATO]] from engaging further with the conflict in the mid 2020s, resulting in the start of the alliance's decline. Only the Eastern European members remained involved in the conflict, being heavily supported by the United States via technology transfer and military aid following the radical rift that had emerged in the alliance.\n\n[[Poland]] gradually became the greatest ally of the United States during this period and grew to become one of the most powerful economies in Europe by its end. Second only to Poland were the Baltic states, which sought to align themselves closer to the United States to prevent Russian domination from returning to the region.\n[[File:Little_Cold_War.png|thumb|300x300px|European Alliances after most Western Europe's withdrawal from NATO.]]\nWhile Europe played the largest and most visible part of the Second Cold War, other regions saw proxy conflicts develop between factions most notably in Syria. After around a decade, the Syrian government, along with their Russian and [[Iran|Iranian]] allies fought off rebels, the Islamic State, and Kurdish-led militias. The complex international series of alliances would lead the conflict to become frozen until Russia invaded Ukraine in 2022 and then dissolved in 2029.[[File:Eurasian Union.png|thumb|220x220px|Member states of the Eurasian Union]]\n[[Dissolution of the Eurasian Union|The Russian Federation formally collapsed on August 14, 2029]], resulting in the formal end of the Little Cold War and Russia itself.\n\n==Beginnings of the Little Cold War (2008–2014)==\n\n=== '''Georgia''' ===\nRelations between the two ex-Soviet countries of Russia and Georgia had been strained for years by 2008 as Georgia's pro-Western government had come to power during the Rose Revolution and Georgia was pushing to receive status as a member of NATO in recent months. In addition, Russia was also seeing Kosovo declare unilateral independence from Serbia in the February of 2008. A diplomatic crisis had emerged in April, when Russia announced that it would no longer be participating in sanctions implemented by the Commonwealth of Nations against Abkhazia. Furthermore the Russians would establish direct relations with the Abkhaz and the South Ossetians. The crisis reached its boiling point when the Georgian Army was deployed to South Ossetian conflict zone on August 7 to restore order to the region and put an end to the shelling that had started just a week earlier. Within hours, the separatist stronghold of Tskhinvali was taken by Georgian forces. Russia, having already sent soldiers illicitly across the border to advance into the South Ossetian conflict zone would meet the \"Georgian aggression\" with military force. Declaring their actions as a peacekeeping operation, Russian and South Ossetian forces proceeded to engage Georgian forces until they had retreated from the region. A second front of the conflict was opened up in Abkhazia after Russian and Abkhazian forces successfully attacked the Kodori Gorge. Georgia was subsequently blockaded by the Russian Navy. The Russian Air Force would attack targets not just within the conflict zone, but in undisputed Georgian territory. In addition, the first implementation of cyber warfare coincided with military action commenced, and so did an information war begin between both sides. Within five days, a ceasefire had been implemented when it became clear that Georgia had been defeated thoroughly by the combined forces of Russia, South Ossetia, and Abkhazia. Russia temporarily maintained an occupation of the cities of Zugdidi, Senaki, Poti, and Gori until they withdrew on October 8. As a result of the war, Georgians had been expelled from the Kodori Gorge and throughout South Ossetia. The Russian military established a presence in the newly recognized states South Ossetia and Abkhazia.\n\n=== '''Russian \"Reset\"''' ===\nThe new Obama administration would see try to see the reversal of tensions that had begun under the Bush administration. Both Obama and Medvedev spoke warmly towards each other during the 2009 G20 London summit and promised a fresh start in Russia–United States relations in a joint statement. A symbolic gag took place in March 2009, where Secretary of State, Hillary Clinton, and Minister of Foreign Affairs, Sergey Lavrov, pressed a \"reset\" button despite the Russian translation being incorrect. In July of 2009, Obama stated that America had interests in seeing Russian prosperity, but Vice President Joe Biden would contradict this by stating that America may strengthen its hand in order to prevent a Russian sphere of influence being established. In April 2010, the New START was signed by representatives of both countries, restricting the amount of long-range nuclear weapons and replacing START I. During the 2011–2013 Russian protests, Russian Prime Minister, Vladimir Putin, alleged that the United States had interfered with the 2011 Russian legislative election and supported protests by the opposition. Following this, the reset in relations was exposed as insincere and relations began to break down. Relations had remained sour as issues of democracy in Russia and Eastern Europe's integration with the West could not be resolved during the period.\n\n=== \"'''Renewal\" of Tensions''' ===\nTwo months following Putin’s victory in the 2012 Russian presidential election, tensions restarted after Russia threatened to preemptively strike missile defense sites in order to pressure NATO to scrap their plans to establish said sites. In July, two Tupolev Tu-95 Bears were intercepted by NORAD fighters in the air defense zone off of the coast of Alaska. In August, it had been discovered that Akula-class submarines conducted a patrol, undetected, in the Gulf of Mexico, raising concerns about American capabilities in anti-submarine warfare. In mid-December, the Magnitsky Act was passed and Russia retailpirated by forbidding American citizens from adopting Russians. Hours before the 2013 State of the Union Address, a pair of nuclear-armed Russian strategic bombers circled Guam until they were intercepted by F-15 Eagles dispatched from Andersen Air Force Base. During the global surveillance disclosures, Edward Snowden sought asylum in Russia, which further aggravated relations between both countries. Later in the year, the Obama administration drew a redline for the use of chemical weapons in the Syrian Civil War after the Ghouta chemical attack. The Senate authorized the use of military force in the conflict, but Russia successfully negotiated a deal in which Syria’s chemical weapons stockpile would supposedly be eliminated.\n\n==Crisis and escalation (2014–2020)==\n==='''Ukraine'''===\nThe events which would lead to the period of renewed hostility between Russia and the Western world began with the Ukrainian crisis. When Ukrainian President, Viktor Yanukovych suspended plans to implement an association agreement with the European Union under pressure from the Kremlin to maintain Ukraine's close ties with Russia, a massive wave of demonstrations and severe civil unrest occurred, which came to be known as the Euromaidan. This eventually culminated with a full-blown revolution which toppled Yanukovych and the Ukrainian government. A new interim government was set up by the revolutionaries and the association agreement was signed. The new government was initially unpopular among Eastern Ukrainians and Russophiles, sparking a period of demonstrations known as the Russian Spring. During this time, the Kremlin perceived that the Maidan Revolution was hostile to Russian interests in Ukraine. With Russia's strategic interests under threat and seeing that pro-Russian sentiment was great in the east of the country, Russia intervened in the crisis and it appeared conflict had begun between the Russian and Ukrainian governments.\n\nIn the days following the revolution, Russian Spetnaz swiftly moved to defend the Sevastopol Naval Base through occupying Crimea, seizing government buildings along with blockading military bases. The so-called \"little green men,\" named for unmarked green military uniforms, captured the Crimean Parliament on February 25. Crimea declared independence from Ukraine on March 11. After an controversial referendum on March 16, in which Crimea overwhelmingly voted to join the Russian Federation, Russia proceeded to annex Crimea through an ascension treaty signed on March 18. Russia's actions were subject to international condemnation and is often seen as the beginning of the Little Cold War.\n\nPro-Russian protests in Eastern Ukraine continued in Donetsk, Luhansk, and Kharkiv. By April 2014, a war had begun in the regions of Donetsk and Luhansk with separatists proclaiming the establishment of the Donetsk People's Republic and the Luhansk People's Republic. Ukraine's Anti-Terrorist Operation initally went badly due to poor preparation and extreme caution stemming from Russian forces massing on the border. During the operation, Donetsk and Luhansk attempted to unify under a confederation which would be effectively abandoned following the downing of Malaysia Airlines Flight 17. Meanwhile fighting escalated in May 2014 with increased efforts by Ukraine to combat the separatists. The Raid of the 95th Brigade saw the rapid advance of Ukrainian forces, pushing Novorossiya to the edge of collapse. Russian attempts at hybrid warfare had failed and to save the situation, Russia began an incursion into Ukraine to support separatist forces in reversing Ukraine's advance. With Russia throwing full support behind the separatists, Ukrainian counter-offensives failed to make a great impact on the battlefront. The subsequent Minsk Protocol signed in September 2014 failed to stop ceasefire violations. Minsk II, signed in February 2015 led to many observers regarding the conflict as having been frozen. This was confirmed as fighting largely died down.\n\nThe conflict remained largely frozen for the next 6 years until Russian troops began a massive buildup on the border of Ukraine over the course of 2021. This was likewise accompanied by Russian efforts to delegitimize the government of Ukraine through alleging Russophobic and genocidal intentions towards Russian-speakers in Eastern Ukraine. Western analysts began sounding the alarm that Russia was planning a large-scale invasion. These fears were confirmed when Russia mounted a large invasion of Ukraine in February 2022 with Putin claiming that Russia was conducting a \"special military operation\" to demilitarize and denazify Ukraine. Western governments began sending military aid to Ukraine and Russia's actions saw international condemnation. A full-scale invasion followed in which Russian forces attempted to rapidly decapitate the government of Ukraine. However, these efforts failed thanks to Ukraine holding off the initial Russian assault on Antonov Airport. The following weeks saw combat across Ukraine with Russian efforts in the Northern front at Kyiv, Chernihiv, and Sumy being foiled by logistical and supply issues, forcing their withdrawal by April 2022. Meanwhile, the Southern front saw early Russian successes at Kherson. However, further Russian advances were halted at Mykolaiv and Voznesensk. The Siege of Mariupol would drag on all the way until May 2022. Attention shifted to the Eastern Front where despite Russia's victory at Izium, their efforts to seize Kharkiv also failed. Donbas once again became the focus of military attention as Russia advanced and seized Sievierodonetsk and Lysychansk. However, Ukraine managed to executed further counteroffensives, exploiting a breakthrough in the Kharkiv Oblast and routing Russian forces. Despite this, Russia continued with their goal of annexing the territories they were present in through holding a referendum in the oblasts of Donetsk, Luhansk, Zaporizhzhia, and Kherson. Following the annexations, Ukrainian efforts continued focusing on Kherson in the south, and offensives began eating away at the logistics and morale of the Russian defenders of Kherson. By November, the Russians were forced to begin a panicked retreat across the Dnieper River. Ukrainian forces entered the city by mid-November.\n\nWarfare continued into the winter season of 2023, with a stalemate settling in. Fighting occurred along the frontline but was particularly fierce in the ongoing Battle of Bakhmut, which would indicate the sort of fighting which would dominate the rest of the war. Morale was especially poor on the Russian side during this period due to the extremely slow advance combined with previous defeats and the presence of barrier troops. Fighting remained concentrated in the east with particularly bloody fighting occurring at Bakhmut. Utilizing Wagner Group mercenary forces recruited from Russia's prison population, the Russians captured the city at extremely heavy cost. Wagner Group founder, Yevgeny Prigozhin subsequently began to criticize the Russian Ministry of Defence for its lackluster support of frontline troops. In fear of the upcoming Ukrainian counteroffensive, Russia destroyed the Kakhovka Dam and caused flooding downstream in the Dnieper River. The reservoir subsequently dried up. Following this, Ukraine launched their long-awaited counteroffensive which ran into stiff Russian resistance and fortifications. Despite this, Yevgeny Prigozhin's conflict with the Russian Ministry of Defence boiled over and the Wagner Group began to advance against the Russian military establishment, seizing control of Rostov-on-Don and advancing along the M4 highway towards Moscow. Seeing the situation growing out of control, Belarusian president Alexander Lukashenko brokered an agreement with Prigozhin allowing his forces the choice of signing contracts with the Russian Ministry of Defense and safe passage from Russian territory. Prigozhin accepted in fear of Putin's response to his march. However, Prigozhin's stubbornness cost him dearly and he would eventually be assassinated on August 23 when the Russian government detonated a bomb under the wing of his jet. In the meantime, the 2023 Ukrainian counteroffensive failed to break through Russia's defences. The stalemate held across the frontline including at Avdiivka, where Russian offensives were brutally repulsed by Ukrainian fortifications despite the desperate situation on both sides.\n\nDifficulties relating to supplying Ukraine arising from deadlock in the United States Congress began to be felt across the frontline. Russia finally captured Avdiivka after Ukraine withdrew from the city in February 2024. Russia then began a general offensive in 2024 to form a salient which gradually expanded over the following months, capturing several minor settlements including Ocheretyne. This salient developed into a Russian offensive targeting Pokrovsk by July. Likewise Russian forces began to advance on minor settlements such as Chasiv Yar and Toretsk. In response, Ukraine launched an offensive targeting the Kursk Oblast, using conventional Ukrainian forces to attack Russian territory for the first time in the conflict. Minor incursions using pro-Ukrainian forces had been conducted previously into Russian territory, especially in Belgorod Oblast, however with Russian forces entering Kharkiv in the summer of 2024, Zelenskyy made the surprising move of conducting a campaign targeting the Kursk Oblast. The offensive managed to tie down some Russian forces and forced Russia to introduce North Korean combat troops to remove Ukrainian forces from their territory. Russian forces also capture Vuhledar  and Kurakove by year's end.\n\nThe diplomatic scene of 2025 saw the United States shift towards the promotion of a peace settlement in the Russo-Ukrainian War following the election of Donald Trump. Trump's efforts alarmed European nations who saw his efforts as too accommodating of Moscow. In February 2025, Trump went so far as to publicly criticize Zelenskyy in the White House. However, Ukraine's relations with the United States were swiftly mended and peace efforts proceeded to focus on bringing Russia to the negotiating table. The subsequent summits at Alaska and Washington, D.C. convinced Trump that peace could be achieved only if Ukraine ceded territory and European nations guaranteed the security of Ukraine. However, the plans presented for ending the war could neither be accepted by European nations supporting Ukraine or the Russian Federation who sought to hold on to the territory it controlled.\n\nIn the meantime, Russian forces were frustrated as their optimistic projections of their offensive capabilities was drastically overestimated by the Kremlin. Russia continued a slow but continuing advance in Donbas. Russia captured Velyka Novosilka in January 2025, and Toretsk fell in August of that year. Russia also managed to capture the town of Chasiv Yar but was heavily contested by Ukrainian forces in their advance. However, Russia continued to face difficulties on other fronts. Bloody fighting held up the capture of Pokrovsk in 2025 due to Ukrainian forces being deeply embedded in the town, and the city was not completely captured until January 2026. Likewise, the Russian offensive towards Kupiansk which occurred over the summer and fall was set upon by a Ukrainian counterattack in December 2025.\n\n=== '''Syria''' ===\nIn 1970, Ba'athist Syria fell under the rule of Hafez al-Assad. Syria was massively impacted by his presidency as he ruled the country with solid foundations for 30 years. Upon his death in 2000, his son, Bashar al-Assad, won an uncontested election. However, by 2011, the Arab Spring began challenging social and political structures in the Arab World, including in Syria. This would prompt foreign governments to lend support to their proxy when war occurred such as in the case of Iran. The nation soon felt the growth of civil uprisings across the country and the formation of the Free Syrian Army and other opposition groups. Organized militias would spring up across the country over the next year.\n\nBy 2013, the conflict had escalated into a full-fledged civil war and the opposition's success turned into a stalemate. The Syrian government would launch a number of counter-offensives as the year wore on. At this point in the war, the opposition was composed of many Islamist factions and gave rise to inter-rebel conflict between these factions throughout the war. In 2014, further government offensives and inter-rebel conflict occurred but the rapid establishment of the Islamic State changed the nature of the conflict. The international community would begin actively intervening against the self-declared caliphate. The Americans led the first major intervention against the Islamic State in which coalition member states began a targeted air campaign and involved sending a limited number of special forces personnel into the country. The Southern Front saw a string of victories for the Free Syrian Army while Islamist groups began a takeover of northwestern Syria by 2015. The Islamic State continued gaining ground from government forces in the Tadmur District.\n\nWith the war turning against the Syrian government, Assad was forced to turn to Russia to intervene on their behalf. Their brutal air campaign gave the SAA the ability to conduct more successful offensives and they gradually retook the country. However, this also increased tensions between Russia and the west. The war commonly was viewed at this point to have become a proxy conflict between America and Russia. From 2016–2017, the YPG-led Syrian Democratic Forces had decimated the Islamic State in Northern Syria, even wrestling Raqqa from the organization's control. As the Islamic State continued to weaken, Turkey, which was alarmed at the situation, intervened in the conflict against the SDF and began to occupy portions of the country starting when Operation Euphrates Shield commenced.\n\nThe Trump Administration would respond to the 2017 Khan Shaykhun chemical attack with a retaliatory missile strike. Tensions between the United States and the Syrian government had escalated to their greatest point in their history at that time. During the year, the CIA finally conceded that they would cut off aid to the opposition and Russia conducted a partial withdrawal of their regional forces with plans that troops would permanently be stationed at their naval facility in Tartus and in Khmeimim Air Base. In 2018, Turkey escalated it's conflict with the SDF by occupying Afrin. Several standoffs emerged between foreign powers following the Douma chemical attack, and several missile strikes conducted by Israel in both May and September. As the Islamic State was losing territory across Syria, the United States began withdrawing it's forces from the country, and a demilitarization zone was established in Idlib by Russia, and Turkey.\n\nThe Islamic State lost their final stronghold at the Battle of Baghuz Fawqani and transitioned to an insurgency afterwards. The conflict between the government and the opposition unfroze when the SAA assaulted Hayat Tahrir al-Sham positions in Idlib in an operation the SAA named \"Dawn of Idlib\". Following an American withdrawal, the Turks launched Operation Peace Spring against the SDF in October, aligning the SDF both with the United States and with the RSII coalition. Following this success, the RSII coalition began \"Dawn of Idlib 2\" to further constrain opposition factions in northwestern Syria. Turkey retaliated with Operation Spring Shield, which halted further offensives by the Syrian government and their allies. Further conflict focused on engagements between Turkish-backed factions, Hayat Tahrir al-Sham, and the RSII coalition in northwestern Syria. Furthermore, amidst the COVID-19 pandemic, ongoing sanctions, and a liquidity crisis in neighboring Lebanon, Syria faced economic collapse in June 2020, which sparked fears that the Assad regime would also collapse. Efforts were made in order to ensure the status quo remained through to 2023, with increased clashes occurring in northeast Syria. Fighting continued as foreign powers increasingly came to dominate domestic actors in the country.\n\nHowever, the balance was upset by the Middle Eastern crisis which unfolded following the October 7 attacks by Hamas against Israel. This drew in the Axis of Resistance into conflict with Israel at a time when Assad's government was immensely unpopular and threatened by opposition forces as well as domestic unrest. Hezbollah was immensely weakened by the 2024 Israeli invasion of Lebanon which forced many Hezbollah units to withdraw from Syria to counter Israel's rising power in the Middle East. Hayat Tahrir al-Sham sought to strengthen their position at the government's expense and launched an offensive targeting Aleppo in late November an operation referred to as Deterrence of Aggression. The collapse of government positions sent shockwaves across Syria. Recognizing the weakness of the government, HTS continued their offensive. Likewise Turkish-backed SNA forces along with the SDF tried to pre-empt each other's territorial advances in the Aleppo Governorate, prompting the SNA to launch Operation Dawn of Freedom to prevent the SDF from linking Tel Rifaat to Manbij. With most of Aleppo in the hands of HTS, the group continued their advance to Homa. This prompted Russian airstrikes, which failed to stop the collapse of the SAAF. Hama fell on December 5, which prompted Hezbollah redeployment to Syria. However, with the rate of advance by HTS, Iran wrote off Syria as a lost cause and began evacuating IRGC personnel. This also prompted previously reconciled rebels in southern Syria to once more take arms against the government and capture Suwayda. The SDF seized Deir-ez Zor in the confusion. The American-backed Syrian Free Army took control of Palmyra Homs was outright abandoned by the Ba'athist government by December 8 and Assad's forces were cut off from Syria's west coast, the base of his support. The road to Damascus was wide open and facing this dire situation, Assad and other high profile Ba'athists decided to flee to Russia as Damascus fell into the hands of the rebels. The west coast cities of Lataika and Tartus were both seized shortly thereafter. More than half a century of rule by Assad and the Ba'athist party was ended within two weeks.\n\n==='''Attempted Interference in the 2016 US Presidential Election'''===\nDuring the height of the 2016 US Presidential Election, a collection of Democratic National Committee (DNC) emails were leaked and subsequently published by the website WikiLeaks in July 2016. The collection included 19,252 emails and 8,034 attachments from the DNC, the governing body of the United States' Democratic Party. Although Wikileaks did not reveal its source, cybersecurity firms and American intelligence officials stated with \"high confidence\" that Russian intelligence services were responsible. Most likely believed by many as an attempt to get the Republican presidential candidate Donald Trump elected to the presidency.\n\nDuring the final weeks of the Election, U.S. intelligence officials warned privately that a campaign they believed was backed by the Russian government to undermine the credibility of the U.S. presidential election, could move beyond the hacking of Democratic Party email systems. Additional efforts by the Russian Government would include posting fictional evidence of voter fraud or other disinformation in the run-up to voting on November 8 2016. This scenario became apparent when news outlets such as Reuters began reporting that both the FBI and U.S. intelligence agencies were examining faked documents aimed at discrediting Hillary Clinton's campaign; as part of a broader investigation into what they believed was an attempt by Russia to disrupt the election.\n\nAfter Trump's victory in the 2016 election, the US and Russian attempted to forge peaceful ties and coordinate against ISIS in Syria, including withdrawing support to rebel groups who opposed the Russian-backed Assad regime. However, opposition from Congress and within the White House forced the Trump administration to walk back their commitments to Russia, including the US re-affirming the United States' continued commitment to NATO, supporting the Three Seas Initiative, and culminating in the US Congress passing new sanctions against Russia despite presidential opposition. The new sanctions were a potential foreign policy disaster for Russia, as they proved that the Americans could not be coerced into a new relationship and placed serious limitations on Russian oil and gas exports. Russia began cutting ties with the Trump administration after this point, and actively supported anti-American groups along their periphery, including North Korea. In 2018, President Trump refused to implement Congressional mandated sanctions.\n\n=== '''New Space Race''' ===\nOn the space warfare front, the United States and Russia pursued the development of long-range weapons with which they could strike the territory of the other, and anti-satellite weapons do disable each other's satellite networks. In November 2015, the Russians successfully launched the world's first anti-satellite, and announced a planned Mars manned flyby by 2025. In 2017, the United States began a major buildup of its launch capabilities and satellite defense network and announced a plan to put a human on the surface of Mars in a decade. That same year the US tested a hyper-sonic glide weapon, signaling start of the hypersonic arms race.\n\n==='''Asia-Pacific'''===\n\n==== '''Trade War with China''' ====\n\n===='''2017–2018 North Korea Standoff'''====\nTensions along the Korean peninsula flared between 2017–2018, when North Korea successfully tested several missiles with the capability to reach the United States. President Donald Trump and Supreme Leader Kim Jong-un escalated the situation with threats of war. Following the passage of several UN resolutions which called for tighter sanctions on North Korea, Kim Jong-in announced his willingness to restore the Seoul–Pyongyang hotline and agreed to talks with South Korea about North Korean participation in the 2018 Winter Olympics in Pyeongchang. Following several diplomatic meetings between North Korean, South Korean, and American officials, nuclear and ballistic missile tests in North Korea were halted. The meeting between Chairman Kim Jong-un and President Moon Jae-in in April 2018 resulted in the Panmunjon Declaration. President Trump and Chairman Kim met in Singapore on June 12, 2018, resulting in a joint declaration of “full denuclearization of the Korean Peninsula.”\n\n==Final years (2020–2025)==\n\n=== '''End of the Little Cold War''' ===\nEven before the COVID-19 recession, Russia had already faced a severe economic downturn, the result of both sanctions, and the [[Wikipedia: 2010s oil glut|decline in oil prices from 2014 to 2015]]. Russia's economy managed to rebound from 2016-2017. However, the COVID-19 recession in 2020 exacerbated the fall in oil prices as global consumption of hydrocarbons plummeted even further during an oil price war with Saudi Arabia. This forced the United States to aggressively intervene and demand that Saudi Arabia cut oil production, following which an agreement was struck for both parties to cut oil production.\n\nUpon the election of Joe Biden to the presidency, the US further escalated the Little Cold War. Biden continued the massive buildup of the United States Armed Forces begun under Trump, and implemented new policies towards Russia. In early 2022, Russia's war with Ukraine provoked support for Ukraine from NATO members. The conflict was mismanaged by the Kremlin and resulted in hundreds of thousands of deaths on both sides. However, protests were effectively suppressed by the Russian government. However, demonstrations against the government had re-emerged by 2028. In 2029, dissatisfaction with the Russo-Ukrainian War resulted in a coup d'état which overthrew Putin's regime. The Russian government experienced a sudden and shocking geopolitical collapse, ending the Little Cold War.\n[[Category:21st-century conflicts]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2026-02-21T02:12:42Z"
+          }
+        ],
+        "title": "Little Cold War",
+        "touched": "2026-02-21T02:12:42Z"
+      },
+      "98": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6124,
+        "length": 18,
+        "ns": 6,
+        "pageid": 98,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 109,
+            "revid": 6124,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Maps]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:50:51Z"
+          }
+        ],
+        "title": "File:Little Cold War.png",
+        "touched": "2017-11-08T00:13:27Z"
+      },
+      "99": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century conflicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 793,
+        "length": 54,
+        "ns": 6,
+        "pageid": 99,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 110,
+            "revid": 793,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Maps]]\n[[Category:21st-century conflicts]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-08-18T01:36:03Z"
+          }
+        ],
+        "title": "File:Eurasian Union.png",
+        "touched": "2015-08-18T01:36:03Z"
+      }
+    }
+  }
+}

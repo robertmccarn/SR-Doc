@@ -1,0 +1,18 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p><span style=\"margin:0px; font-size:90%;\"><span style=\"border:none; background-color:none; color:black;\">&#160;&#160;&#160;&#160;&#160;</span>&#160;</span>\n</p>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:Legend2/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6TGVnZW5kMi9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:Legend2/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:Legend2/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6TGVnZW5kMi9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:Legend2/doc</span></div>\n\n<!-- \nNewPP limit report\nCached time: 20261119205415\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.008 seconds\nReal time usage: 0.013 seconds\nPreprocessor visited node count: 16/1000000\nPost‐expand include size: 430/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    2.884      1 Template:Documentation\n100.00%    2.884      1 -total\n 41.44%    1.195      1 Template:Legend2/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:226-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205415 and revision id 303. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Legend2/doc",
+      "ns": 10
+    }
+  ],
+  "page_id": 226,
+  "revision_id": 303,
+  "title": "Template:Legend2"
+}

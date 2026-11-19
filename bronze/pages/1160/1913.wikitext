@@ -1,0 +1,3 @@
+Hi, welcome to {{SITENAME}}! Thanks for your edit to the [[:Luna]] page.
+
+Please leave me a message if I can help with anything!<ac_metadata title="Welcome to Second Renaissance Wikia!"> </ac_metadata>

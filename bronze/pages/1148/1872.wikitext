@@ -1,0 +1,3 @@
+<h2 class="MainpageHeaderSecondRenaissance" style="padding:0.2em 0.4em; margin:10px 0 10px 0; border:1px solid #000; background:#2E5884; color:#FFF; font-size:120%; font-weight:bold; text-align:left; -moz-border-radius:0.2em;">{{{1|Example text}}}</h2><noinclude>
+==Documentation==
+Simple add <code><nowiki>{{MainpageHeading|Text}}</nowiki></code> to the mainpage, and replace "Text" with the text the heading should show.</noinclude>

@@ -1,0 +1,10 @@
+{| style="border: 2px solid #FF6600; border-left: 12px solid #FF6600; margin: -1px 10% 0px; background-color: #fff7f2; vertical-align: middle;"
+|-
+| style="padding: 2px 0 2px 0.5em" | [[File:Under_contruction_icon-red.png|50px]]
+| style="padding: 0.25em 0.5em; width: 100%;" | '''The following {{#IF:{{{timeline|<noinclude>*</noinclude>}}}|<!---->''[[{{{timeline}}}]]''<!---->|}} {{{title|page}}} is under construction'''.
+
+Please do not edit or alter this article in any way while this template is active. All unauthorized edits may be reverted on the admin's discretion. Propose any changes to the comment section.
+|}<!--
+
+--><includeonly>[[Category:Under Construction]]{{#IF:{{{timeline|<noinclude>*</noinclude>}}}|<!---->[[Category:Under Construction ({{{timeline}}})]]<!---->|}}</includeonly><noinclude>{{documentation}}[[Category:Templates]][[Category:Under Construction| ]]
+</noinclude>

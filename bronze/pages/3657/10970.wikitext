@@ -1,0 +1,24 @@
+A '''Dyson sphere''' sometimes referred to as a '''Dyson swarm''' is a megastructure that partially or completely encompasses a star to capture its energy. There are only three known examples of Dyson spheres, all built by [[Human|humanity]]: the Sol Dyson Sphere, the Alpha Centauri B Dyson Sphere, and the [[Tel-ma]] Dyson Sphere. All three examples are still "incomplete," in that they do not fully encompass their stars. All three examples are built as a means of generating massive amounts of energy via a network of stellar orbiting photovoltaic panels which provide power on demand via [[Quantum Capacitor|quantum energy teleportation.]]
+
+==Examples==
+===Sol===
+The first Dyson Sphere began as two competing swarms, one built by the [[United States of America|United States]] and the other by [[Mexico]]. Both nations hoped to build their Dyson spheres by mining the heavy metals and silicates from [[Mercury]], and while they had initial success in the construction of their spheres, as their automated mining operations grew they eventually entered into a prolonged state of resource competition that ultimately slowed construction of the spheres to a crawl. It was only after Mexico's defeat in the [[Third Mexican-American War]] that construction could resume.
+
+===Tel-ma===
+The Tel-ma Sphere is unique among the three Dyson Spheres, as it was built not by the [[Interplanetary Trade Commission]], but by [[NASA]]. The sphere was commissioned in 2099 as a solution to reversing the damage done to Tel-ma's climate and aid in the restoration of industrial civilization on the planet and the energy from Kepler-22 could not be used for terran purposes. There were multiple attempts to create an energy trading agreement between the US and Tel-ma, but given the distances involved this was never seen as practical. It was only after the creation of the post-war Protectorate system, that Tel-ma integrated its Dyson Sphere into an interstellar energy network that also gave them access to the energy produced by the Sol and Centuari spheres.
+
+===Alpha Centuari B===
+The Centauri Sphere began construction in 2100 by the United States. It was hoped to serve as an alternative to the Sol Dyson Sphere, however its energy production was used almost entirely for the terraforming project on [[Atlantis (planet)|Atlantis]]. This was a source of continual political tension between the US government on Earth and the ITC which was charged with overseeing the construction of the Centuari Sphere.
+
+===Planned Dyson Spheres===
+Several Dyson spheres are planned to help facilitate interstellar colonization, terraforming, or simply advancing the quality of life of those civilizations that seek to enter into a Free Association with the Union.
+
+*Epislon Eridani
+*40 Eridani
+*109 Piscium
+*Delta Pavonis
+*Eta Cassiopeiae
+
+
+
+[[Category:Technology]]

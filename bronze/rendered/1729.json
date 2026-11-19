@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "*": "21st_Century",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>The <b>Treaty of Odessa</b>, officially known as the Black Sea Security Treaty, was a treaty resulting from semi-secret talks that concluded in 2034 between Poland and Turkey, to which <a href=\"/wiki/Japan\" title=\"Japan\">Japan</a> and the <a href=\"/wiki/United_States\" class=\"mw-redirect\" title=\"United States\">United States</a> assented. The agreement defined their mutually agreed spheres of influence and control in the territories around and within the former <a href=\"/wiki/Russia\" title=\"Russia\">Russian Federation</a>. The agreement was based on the premise that Poland and Turkey functionally controlled and would continue to control large swaths of the former Russian Federation and appropriate restrictions on the extent of that control should be created. The treaty, revealed to the public via the Associated Press and Al Jazeera on March 1, 2034, and its passage in the Turkish and Polish legislatures was sharply criticized for the lack of time offered for public debate.\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119205713\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:1729-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205713 and revision id 4297. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Japan",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Russia",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "United States",
+      "exists": "",
+      "ns": 0
+    }
+  ],
+  "page_id": 1729,
+  "revision_id": 4297,
+  "title": "Treaty of Odessa"
+}

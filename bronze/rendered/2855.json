@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "*": "Planets",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><h2><span class=\"mw-headline\" id=\"Licensing\">Licensing</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a title=\"Sign in to edit\" class=\"mw-editsection-visualeditor\" data-tracking-label=\"log-in-edit-section\" data-action=\"edit-section\" href=\"https://auth.fandom.com/signin?redirect=https%3A%2F%2Fsecond-renaissance.fandom.com%2Fwiki%2FFile%3AUranus2.jpg%3Fveaction%3Dedit%26section%3D1&amp;uselang=en&amp;metadata=article-registration-edit-article-section\" data-auth-modal=\"signin\" data-testid=\"log-in-edit-section\" aria-label=\"Sign in to edit\"><svg class=\"wds-icon wds-icon-tiny\" aria-hidden=\"true\" focusable=\"false\"><use xlink:href=\"#wds-icons-pencil-tiny\"></use></svg></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p><span class=\"new\" title=\"Template:Copyright © 2004 Calvin J. Hamilton (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6Q29weXJpZ2h0XyVDMiVBOV8yMDA0X0NhbHZpbl9KLl9IYW1pbHRvbj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:Copyright © 2004 Calvin J. Hamilton</span>\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119205905\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 3/1000000\nPost‐expand include size: 50/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    1.038      1 Template:Copyright_©_2004_Calvin_J._Hamilton\n100.00%    1.038      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:2855-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205905 and revision id 8819. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Copyright © 2004 Calvin J. Hamilton",
+      "ns": 10
+    }
+  ],
+  "page_id": 2855,
+  "revision_id": 8819,
+  "title": "File:Uranus2.jpg"
+}

@@ -1,0 +1,2508 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "1876": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4819,
+        "length": 437,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1876,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4819,
+            "slots": {
+              "main": {
+                "*": "What is with your obscession with cloning Nazis? And wouldn't it make more sense if the south American revolutionary in quesiton was a clone of like Simon Bolivar or Che Guavera? Why would Mexico clone someone they have no cultural or historical connection to? And if its an American political engineering attempt, wouldn't they pick one of thier own leaders like a Brazilian George S. Patten?<ac_metadata title=\"Cloning\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-30T15:12:26Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-899576-20170730151225",
+        "touched": "2017-07-30T19:04:45Z"
+      },
+      "1877": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4835,
+        "length": 3,
+        "new": "",
+        "ns": 1,
+        "pageid": 1877,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4835,
+            "slots": {
+              "main": {
+                "*": "Yup",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-30T18:45:58Z"
+          }
+        ],
+        "title": "Talk:Sol system/@comment-24.224.66.196-20170728162007/@comment-899576-20170730184558",
+        "touched": "2017-07-30T18:45:58Z"
+      },
+      "1878": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4844,
+        "length": 943,
+        "ns": 1201,
+        "pageid": 1878,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4843,
+            "revid": 4844,
+            "slots": {
+              "main": {
+                "*": "I was kinda wanting to reference the boys from Brazil movie (because I found the concept interesting). But stuff changed so I went with someone more respectable to both sides. I figured as cloning got more available, there would be those who slipped through to or from other countries (even those who haven't established laws about cloning yet) (and hes also born before the mexican american cold war)\n\nI thought that it would make some sort of interesting backstory and tale that a patriotic clone born to Brazil (and not to either side at first since I read Brazil resistance was on their own for a bit before the being helped organized) but historically from outside would be like some sort of tale of redemption. Also he's one of the resistance leaders (and is very minor) out of many and as he is not the only one as implied.\n\nMaybe I read too many tragic novels, but if you want to change it then I won't do anything since it's your wiki",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-30T19:19:18Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-899576-20170730151225/@comment-5590986-20170730190445",
+        "touched": "2017-07-30T19:19:18Z"
+      },
+      "1879": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4859,
+        "length": 186,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Carla Anderson"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1879,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4853,
+            "revid": 4859,
+            "slots": {
+              "main": {
+                "*": "The '''2064 United States Presidential Election '''was the 70th quadrennial presidential election. [[Carla Anderson]] won the election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-02T23:08:14Z"
+          }
+        ],
+        "title": "United States presidential election, 2064",
+        "touched": "2017-08-02T23:08:14Z"
+      },
+      "1880": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Person.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blank Woman.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Carla Anderson Blank.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 60 stars.png"
+          }
+        ],
+        "lastrevid": 10488,
+        "length": 1747,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Carla Anderson"
+          },
+          {
+            "ns": 0,
+            "title": "Evalyn Jacobi"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2064"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2072"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Green/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Green/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Libertarian/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Libertarian/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progress/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progress/meta/shortname"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1880,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10487,
+            "revid": 10488,
+            "slots": {
+              "main": {
+                "*": "{{Infobox election\n|election_name = United States presidential election, 2052\n|country = United States\n|type = presidential\n|ongoing = no\n| flag_year = 2066 \n|previous_election = United States presidential election, 2064\n|previous_year = 2064\n|next_election = United States presidential election, 2072\n|next_year = 2072\n|election_date = November 6, 2068\n| votes_for_election         = All elligable voters who participate\n| needed_votes               = 51% of the vote\n| turnout                    = 61.3%\n| image1 = [[File:Carla_Anderson_Blank.png|150px]]\n| nominee1 = [[Carla Anderson]]\n| party1 = Progress\n| home_state1 = Wisconsin\n| running_mate1 = Lise Duchesne\n| electoral_vote1 = \n| states_carried1 = \n| popular_vote1 = \n| percentage1 = 44.5%\n| image2 = [[File:Blank_Person.jpg|150px]]\n| nominee2 = Daniel Niklauski\n| party2 = Conservative\n| home_state2 = Pennsylvania\n| running_mate2 = Zack Nayduk\n| electoral_vote2 =\n| states_carried2 =\n| popular_vote2 =  \n| percentage2 = 43.5%\n| nominee5 = Gaul Tica\n| party5 = Libertarian\n| image5 = [[File:Blank_Person.jpg|150px]]\n| home_state5 = Puerto Rico\n| running_mate5 = Haram Berylene\n| electoral_vote5 = \n| states_carried5 = \n| popular_vote5 = \n| percentage5 = 2.7%\n| nominee4 = Charlotte Mezvinsky\n| party4 = Green\n| image4 = [[File:Blank_Woman.png|150px]]\n| home_state4 = Colorado\n| running_mate4 = Vin Drew\n| electoral_vote4 = \n| states_carried4 =\n| popular_vote4 = \n| percentage4 = 9.6%\n| title = President\n| before_election =  [[Evalyn Jacobi]]\n| before_party = Conservative\n| after_election = [[Evalyn Jacobi]]\n| after_party = Progress}}\nThe '''2068 United States Presidential Election '''was the 71st quadrennial presidential election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-07-17T16:38:12Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!-"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United States"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ifempty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/row"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/shortname"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:If empty"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          }
+        ],
+        "title": "United States presidential election, 2068",
+        "touched": "2021-07-17T16:38:12Z"
+      },
+      "1881": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6026,
+        "length": 45,
+        "ns": 6,
+        "pageid": 1881,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4864,
+            "revid": 6026,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:25:46Z"
+          }
+        ],
+        "title": "File:Cora Fabian Blank.png",
+        "touched": "2017-11-08T00:09:27Z"
+      },
+      "1882": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4876,
+        "length": 212,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Miriam Weinstein"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1882,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4875,
+            "revid": 4876,
+            "slots": {
+              "main": {
+                "*": "The '''United States presidential election of 2120''' was the 84th quadrennial presidential election. Former Vice President [[Miriam Weinstein]] won the election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-04T18:45:52Z"
+          }
+        ],
+        "title": "United States presidential election, 2120",
+        "touched": "2017-08-04T18:45:53Z"
+      },
+      "1883": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4878,
+        "length": 199,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Miriam Weinstein"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1883,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4877,
+            "revid": 4878,
+            "slots": {
+              "main": {
+                "*": "The '''United States presidential election of 2124''' was the 85th quadrennial presidential election. Incumbent [[Miriam Weinstein]] won re-election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-04T18:46:35Z"
+          }
+        ],
+        "title": "United States presidential election, 2124",
+        "touched": "2017-08-04T18:46:35Z"
+      },
+      "1884": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4914,
+        "length": 240,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Horace Fadel"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1884,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4881,
+            "revid": 4914,
+            "slots": {
+              "main": {
+                "*": "The '''2076 United States Presidential Election '''was the 73rd quadrennial presidential election. [[Horace Fadel]] won the election while the country celebrated its 300th year anniversary.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-05T05:38:40Z"
+          }
+        ],
+        "title": "United States presidential election, 2076",
+        "touched": "2017-08-05T05:38:40Z"
+      },
+      "1885": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4883,
+        "length": 200,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Lise Duchesne"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1885,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4882,
+            "revid": 4883,
+            "slots": {
+              "main": {
+                "*": "The '''2072 United States Presidential Election '''was the 72nd quadrennial presidential election. Vice President [[Lise Duchesne]] won the election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-04T18:53:53Z"
+          }
+        ],
+        "title": "United States presidential election, 2072",
+        "touched": "2017-08-04T18:53:54Z"
+      },
+      "1886": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4887,
+        "length": 194,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Oscar Lachman"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1886,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4884,
+            "revid": 4887,
+            "slots": {
+              "main": {
+                "*": "The '''2084 United States Presidential Election '''was the 75th quadrennial presidential election. Incumbent [[Oscar Lachman]] won re-election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-04T18:57:33Z"
+          }
+        ],
+        "title": "United States presidential election, 2084",
+        "touched": "2017-08-04T18:57:33Z"
+      },
+      "1887": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 9871,
+        "length": 185,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Oscar Lachman"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1887,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9870,
+            "revid": 9871,
+            "slots": {
+              "main": {
+                "*": "The '''2080 United States Presidential Election '''was the 74th quadrennial presidential election. [[Oscar Lachman]] won the election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-11-05T02:33:25Z"
+          }
+        ],
+        "title": "United States presidential election, 2080",
+        "touched": "2020-11-05T02:33:25Z"
+      },
+      "1888": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4889,
+        "length": 192,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Christopher Reagan"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1888,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4888,
+            "revid": 4889,
+            "slots": {
+              "main": {
+                "*": "The '''United States presidential election of 2116''' was the 83rd quadrennial presidential election. [[Christopher Reagan]] won the election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-04T18:59:26Z"
+          }
+        ],
+        "title": "United States presidential election, 2116",
+        "touched": "2017-08-04T18:59:30Z"
+      },
+      "1889": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4891,
+        "length": 188,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Estela La Riva"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1889,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4890,
+            "revid": 4891,
+            "slots": {
+              "main": {
+                "*": "The '''United States presidential election of 2104''' was the 80th quadrennial presidential election. [[Estela La Riva]] won the election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-04T19:00:28Z"
+          }
+        ],
+        "title": "United States presidential election, 2104",
+        "touched": "2017-08-04T19:00:29Z"
+      },
+      "1890": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4893,
+        "length": 187,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Stewart M. Li"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1890,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4892,
+            "revid": 4893,
+            "slots": {
+              "main": {
+                "*": "The '''United States presidential election of 2108''' was the 81st quadrennial presidential election. [[Stewart M. Li]] won the election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-04T19:05:02Z"
+          }
+        ],
+        "title": "United States presidential election, 2108",
+        "touched": "2017-08-04T19:05:03Z"
+      },
+      "1891": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4895,
+        "length": 196,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Stewart M. Li"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1891,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4894,
+            "revid": 4895,
+            "slots": {
+              "main": {
+                "*": "The '''United States presidential election of 2112 '''was the 82nd quadrennial presidential election. Incumbent [[Stewart M. Li]] won re-election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-04T19:05:15Z"
+          }
+        ],
+        "title": "United States presidential election, 2112",
+        "touched": "2017-08-04T19:05:16Z"
+      },
+      "1892": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11242,
+        "length": 187,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Rayleen Malakar"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1892,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11241,
+            "revid": 11242,
+            "slots": {
+              "main": {
+                "*": "The '''2088 United States Presidential Election '''was the 76th quadrennial presidential election. [[Rayleen Malakar]] won the election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-05-06T09:45:22Z"
+          }
+        ],
+        "title": "United States presidential election, 2088",
+        "touched": "2023-05-06T09:45:22Z"
+      },
+      "1893": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4899,
+        "length": 184,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Seras Stultz"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1893,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4897,
+            "revid": 4899,
+            "slots": {
+              "main": {
+                "*": "The '''2092 United States Presidential Election '''was the 77th quadrennial presidential election. [[Seras Stultz]] won the election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-04T19:08:29Z"
+          }
+        ],
+        "title": "United States presidential election, 2092",
+        "touched": "2017-08-04T19:08:29Z"
+      },
+      "1894": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4904,
+        "length": 182,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Tom Steele"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1894,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4900,
+            "revid": 4904,
+            "slots": {
+              "main": {
+                "*": "The '''2096 United States Presidential Election '''was the 78th quadrennial presidential election. [[Tom Steele]] won the election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-04T20:49:28Z"
+          }
+        ],
+        "title": "United States presidential election, 2096",
+        "touched": "2017-08-04T20:49:28Z"
+      },
+      "1895": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11363,
+        "length": 192,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Tom Steele"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1895,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11362,
+            "revid": 11363,
+            "slots": {
+              "main": {
+                "*": "The '''2100 United States Presidential Election '''was the 79th quadrennial presidential election. Incumbent [[Tom Steele]] won the election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-08-01T18:16:31Z"
+          }
+        ],
+        "title": "United States presidential election, 2100",
+        "touched": "2023-08-01T18:16:31Z"
+      },
+      "1896": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Former countries in North America"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Flag of Canada.png"
+          }
+        ],
+        "lastrevid": 12005,
+        "length": 12836,
+        "links": [
+          {
+            "ns": 0,
+            "title": "British Republic"
+          },
+          {
+            "ns": 0,
+            "title": "Carla Anderson"
+          },
+          {
+            "ns": 0,
+            "title": "Demographics of Canada"
+          },
+          {
+            "ns": 0,
+            "title": "Earth Working Group"
+          },
+          {
+            "ns": 0,
+            "title": "European Union"
+          },
+          {
+            "ns": 0,
+            "title": "First Nations War"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Canada"
+          },
+          {
+            "ns": 0,
+            "title": "ISO 4217"
+          },
+          {
+            "ns": 0,
+            "title": "Politics of Canada"
+          },
+          {
+            "ns": 0,
+            "title": "Prime Minister of Canada"
+          },
+          {
+            "ns": 0,
+            "title": "Quebec"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "Union Act of 2073"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1896,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11981,
+            "revid": 12005,
+            "slots": {
+              "main": {
+                "*": "{{Infobox country\n|conventional_long_name = Canada\n|national_motto = \n|national_anthem = ''O Canada''\n|capital = Ottawa\n|largest_city = Toronto\n|languages = Canadian English|languages_type = Official language\n|government_type = Federal parliamentary republic\n|leader_title1 = [[Prime Minister of Canada]]\n|leader_name1 = John Edwick\n|legislature = Parliament\n|upper_house = Senate\n|lower_house = House of Commons\n|established_event1 = Confederation\n|sovereignty_type = Independence from the United Kingdom\n|established_event2 = Statute of Westminister\n|established_date1 = July 1, 1867\n|established_event3 =  Patriation\n|established_date2 = December 11, 1931\n|established_event4 = Republic\n|established_date3 = April 17, 1982\n|established_date4 = 2 October, 2047\n|area_rank = \n|area_sq_mi = \n|population_estimate = >40 Million\n|population_estimate_year = 2070\n|population_estimate_rank = \n|currency = Canadian Dollar\n|currency_code = CAD\n|image_flag = Flag of Canada.png\n|leader_title2 = Governor-General\n|leader_name2 = Sara Reed |latm=|latNS=|longd=|longm=|longEW=|languages2_type=|leader_name3=|leader_name4=|leader_name5=|leader_name6=|leader_name7=|leader_name8=|leader_name9=|FR_total_population_estimate_year=|FR_foot=|FR_total_population_estimate=|FR_total_population_estimate_rank=|FR_metropole_population_estimate_rank=|established_event5=[[Union Act of 2073]]|established_date5=January 10, 2073}}\n\n'''Canada''' was a sovereign country in North America that existed from July 1, 1867, to January 10, 2073. Canada was bordered by the [[United States]] to the south, [[Quebec]] to the east, and the [[First Nations War|First Nations]] to the North. The citizens of Canada were known as Canadians.\n\n==History==\nUnlike many other nations, Canada suffered minimal loss of usable land from [[the Flood|rising sea levels]], and while the more extreme Polar Vortexes of the mid-21st Century did pose a risk to the population, Canada's pre-Flood climate had been harsh enough for most of the country's buildings to be sufficiently hardened against the cold. The greatest strain on the country during this era was economic, due to droves of refugees seeking new homes during the instability of the early Flood. The resurgent nationalism which gripped the world at the time would lead to a series of secession crises that would detach Quebec and the First Nations from Canada, and an increased devolution of power from the national government. This left the country vulnerable to foreign exploitation, most notably from the United States and Japan.\n\n===Divestment from the United States===\nThe chaos and sense of betrayal felt by many Canadians during the Trump-era drove the country to diversify its economic and defensive partnerships prior to [[World War III]]. In spite of Washington's attempts to repair relations, Canada increasingly looked abroad for investment and military aid. Initially, this divestment was primarily focused on China and especially Europe, with the country becoming an “associate” of the [[European Union]] by the end of the 2020s. However, as both regions faced deepening demographic and economic crises, this strategy quickly fell apart. Japan, perusing a policy of industrial exportation to address its own labor shortage, established a major stake in the Canadian economy through a bilateral free trade deal. While the United States did not initially oppose the establishment of a Japanese-Canadian trade relationship, as Japanese military adventurism grew, US-Canadian relations strained as well.\n\nBy 2042, Japan had supplanted the United States as Canada's largest foreign arms supplier, and the Japanese frequently sent advisors to Canada to train Canadian military personnel on their equipment. The 2040s would see the US swell its military presence in Alaska, and Washington state, while providing greater aid to Quebec. Defense Department reports declassified in 2140, revealed that after 2042 the US had deployed clandestine assets to the Canadian Maratimes and the First Nations to fuel their growing secession movements. Divestment reached its zenith with the establishment of the first Special Economic Zones (SEZs) outside of Asia, based primarily in British Columbia and the Yukon. These zones were primarily for civilian activity, however Japan's reputation of funneling military manufacturing through the SEZs only furthered the decline in US-Canadian relations. Ottawa's efforts to placate the United States prevented a formal severing of diplomatic ties.\n\n===Republic and Constitutional Crisis===\nCanadian identity during this period faced new challenges, both as Canadian territory faced threat secessionist movements, and from the collapse of the British Monarchy in 2047. While the [[British Republic|British]] public's sense of betrayal was quite strong, Canadians by this period had more mixed feelings. Many saw their status as a Commonwealth country as a key feature of their identity, and called on Canada to invite the displaced House of Windsor to make Ottawa their official seat. An opposition, a coalition of Canadian conservatives and leftists, called for Canada to become a Republic, leading to a referendum in October of 2047. The result was a 50.9% majority in favor of Republic, followed by a constitutional convention.\n\nThe Canadian constitutional convention invited not only all parties from within Canada, but offered representation to Quebec and several other former Commonwealth countries like Jamaica, and the Falkland Islands, both of which had been under US occupation since the Flood. The hope was to establish a Federal Republic that would reduce the risk of secession and strengthen Canada from outside influence. The convention was almost immediately infiltrated by American and Japanese-backed lobbyists who sought to keep Canada out of their enemy's sphere of influence. To make matters worse, the secessionists were given representation as well, which only allowed them to hijack most proceedings. The convention went on for three years, eventually resulting in the Arctic Nations and Maritimes leaving to form their own governments. During the lead up to Canadian election in 2049, the convention leaders insisted that the main issue would be ratification of the constitution, and election of the new heads of state and government. The delegates failed to come to an agreement, and the Canadian Parliament had to hastily issue ballots to a country that was growing ever more frustrated with the constitutional process.\n\nBy 2050, the constitution had been sent to the remaining provinces for ratification. Where there had been hopes for a Federal Republic, the new constitution was essentially a copy of the old one, with the Governor-General becoming an elected, though largely ceremonial, head of state. Constitutional ratification would be completed shortly after the start of the Third World War.\n\n===World War III===\n''Main article: [[World War III]]''\n\nDuring the Third World War, Canada's government adopted a policy of neutrality, and revisited the idea of non-aggression pacts with the major belligerents. While Canada was still a member of NATO, and the United States had invoked Article V after the Thanksgiving Attacks, the Jacobi administration did not pressure Canada for immediate military involvement. To Ottawa's relief, the US government had approached them to mediate secret peace talks with the Japanese. In truth, this was a stalling tactic while the US attempted to recover lost aircraft and organize a counterattack against Japan. When the attack finally came, the United States demanded Canada expel the Japanese from their SEZs, and join the war effort.\n\nLiterally during the phone call between the Canadian Prime Minister and the President of the United States, Japanese agents in British Columbia and the Yukon Territory executed a cyberattack on local air defense systems and port controls. At the same time, other infiltrators executed a secondary strikes on targets in Washington State, and deposed the provincial government in favor of Japanese puppet regime. The \"Canadian Provisional Government,\" as it was called invited Japan to deploy troops and called Ottawa's government an American puppet regime. With few options, Ottawa was forced to join the war, although they freely admitted to the United States that after these attacks, there was little they could do to deploy troops.\n\nJapan's strategy in North America was not an invasion of the United States, but to bring the US back to the negotiating table. The US responded with an invasion of British Columbia with units from National Guard Training Station Biak in Oregon. While not capable of defeating the JSDF in open battle, these troops were enough to stop any further attacks from infiltrators and restore limited air defenses before Japan was able to deploy a few squads of JSDF armored units to the Yukon. The fighting in Canada would be limited primarily to the Interior Plateau of British Columbia, and Whitehorse, with the Japanese occupying the Queen Charlotte Islands for much of 2052. Canadian forces in BC fell under US command, and Vancouver remained under U.S. military administration, with relatively little pushback from Ottawa.\n\nAfter the war, the United States would occupy British Columbia and the Yukon. An informal agreement between the US and Canada was that occupation would only last 2 years, after which point the provinces would return to Canadian civil administration. However, during the drafting of the new provincial constitution, a secession movement successful organized BC's separation from Canada, establishing the Republic of Cascadia before requesting to become a Free Association of the US. Ottawa accused the US of going back on their deal, and while rumors persisted for years that the Jacobi administration had orchestrated the whole thing before leaving office, by all accounts this was a genuine, populist uprising. Polling during the war, and after, indicated that a majority of residents of the region felt that Ottawa was weak and did not value their concerns. Polling in 2058 held that only 38% of Cascadians desired to join the US as a state.\n\n===Refreeze and First Nations War===\n''Main article: [[First Nations War]]''\n\nTensions would rise between Canada, Quebec, and the First Nations after the [[Earth Working Group]] positioned Mars Solar Reflectors in Earth Polar Orbit in a geoengineering projects to return global temperatures, and by extent sea levels to pre-Anthropocene levels. The project was widely supported by most of the planet which had been adversely effected by the environmental devastation of the Flood, however the Arctic Nations stood in vehement opposition to the project. The solar reflectors would functionally black out the skies over the First Nations, killing crops and reducing temperatures to inhospitable levels; additionally the return of the polar caps would close the Northwest Passage which the first nations depended on as both a major trade rout and access for arctic fishing and hydrocarbons. After several loud protests at the Organization of American States and the Global Environmental Council, the First Nations outrage was ultimately ignored and the project proceeded.\n\nIn order to survive, the First Nations invaded Canada and Quebec. Uncomfortable with a hostile power potentially threatening their security, the US intervened. Fighting in Alberta calmed, but as Tlicho began to take control of northern Canada's prairies and by extension the majority of Canadian farmlands, the government in Ottawa fell to internal fighting in Manitoba and Ontario. To secure American interests on a larger scale, the US sent peace keeping forces to restore order and installed a military government in Ottawa. By 2067 the US had deployed Space and Naval forces into the Arctic nations, and forced a ceasefire.\n\nFor the next five years, the US tried to directly administer the reconstruction effort in Canada, while also attempting to resettle the citizens of the Arctic nations, many of whom weren't even natives. With the military's constant complaints about being spread thin administering civilians the United States began looking into an idea that had floated in geopolitics for the better part of a generation: annexing the Anglosphere. The US had been administering resettlement in Australia, New Zealand and Britain since the end of the Flood, and was paying for most of the efforts to restore these nations farmland and greatest cities. For all practical purposes, the US already had administrative control over these countries.\n\nOn January 10, 2073, after heated debate in Congress, US President [[Carla Anderson]] signed the [[Union Act of 2073]], officially annexing Canada and the rest of the Anglosphere into the Union.\n[[Category:Former countries in North America]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2026-09-17T01:37:51Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          }
+        ],
+        "title": "Canada",
+        "touched": "2026-09-17T01:37:51Z"
+      },
+      "1898": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6039,
+        "length": 45,
+        "ns": 6,
+        "pageid": 1898,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4915,
+            "revid": 6039,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:28:34Z"
+          }
+        ],
+        "title": "File:Estela La Riva Blank.png",
+        "touched": "2017-11-08T00:09:27Z"
+      },
+      "1899": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6112,
+        "length": 45,
+        "ns": 6,
+        "pageid": 1899,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4918,
+            "revid": 6112,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:48:27Z"
+          }
+        ],
+        "title": "File:Horace Fadel Blank.png",
+        "touched": "2017-11-08T00:10:49Z"
+      },
+      "1900": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4929,
+        "length": 724,
+        "ns": 1,
+        "pageid": 1900,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4928,
+            "revid": 4929,
+            "slots": {
+              "main": {
+                "*": "Now that I think about it, the only grandchildren Ronald Reagan had (who still kept the last name) was Cameron Michael Reagan (born 1978) and Ashley Reagan (born 1983). \n\nI am not sure if Ashley would keep the last name if she got married, and there was no mention of Cameron having any children.\n\nso it is possible Christopher can exist if Ashley or Cameron had children <span style=\"font-weight:normal;\">(and Ashley divorced shortly before Chris is born), or Cameron marries and has kids before he's like 45-50 or something.</span> Christopher can be a clone of Ronald Reagan (which would be an interesting option), or he can exist through adoption (again), but it would have to be from either Ashley or Cameron Reagan.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-05T22:30:31Z"
+          }
+        ],
+        "title": "Talk:Christopher Reagan/@comment-5590986-20170805222832",
+        "touched": "2017-08-05T22:30:31Z"
+      },
+      "1901": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4938,
+        "length": 324,
+        "ns": 1,
+        "pageid": 1901,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4935,
+            "revid": 4938,
+            "slots": {
+              "main": {
+                "*": "I don't want to assume anything about the lives of real people, the point of this was to illustrate that political dynasties didn't go away at any point in the timeline. Also surnames are a little more liberally used in this timeline. It's not uncommon for parents to give children the surnames of their grandparents family.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-07T19:28:30Z"
+          }
+        ],
+        "title": "Talk:Christopher Reagan/@comment-5590986-20170805222832/@comment-899576-20170807192621",
+        "touched": "2017-08-07T19:28:30Z"
+      },
+      "1902": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4937,
+        "length": 7,
+        "new": "",
+        "ns": 1,
+        "pageid": 1902,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4937,
+            "slots": {
+              "main": {
+                "*": "alright",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-07T19:28:17Z"
+          }
+        ],
+        "title": "Talk:Christopher Reagan/@comment-5590986-20170805222832/@comment-5590986-20170807192817",
+        "touched": "2017-08-07T19:28:17Z"
+      },
+      "1903": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:European flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6069,
+        "length": 47,
+        "ns": 6,
+        "pageid": 1903,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4940,
+            "revid": 6069,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:European flags]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:36:32Z"
+          }
+        ],
+        "title": "File:Flag of Portugal.svg.png",
+        "touched": "2021-05-09T06:14:28Z"
+      },
+      "1904": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4941,
+        "length": 237,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Portugal/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1904,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4941,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Portugal\n| shortname alias = Portugal\n| flag alias = Flag_of_Portugal.svg.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-07T20:21:06Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Portugal/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Portugal",
+        "touched": "2017-08-07T20:21:06Z"
+      },
+      "1905": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:European flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6055,
+        "length": 97,
+        "ns": 6,
+        "pageid": 1905,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4942,
+            "revid": 6055,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags of states of the United States]]\n[[Category:Flags]]\n[[Category:European flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:32:58Z"
+          }
+        ],
+        "title": "File:Flag of Iceland.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "1906": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4943,
+        "length": 230,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Iceland/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1906,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4943,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Iceland\n| shortname alias = Iceland\n| flag alias = Flag_of_Iceland.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-07T20:22:10Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Iceland/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Iceland",
+        "touched": "2017-08-07T20:22:10Z"
+      },
+      "1907": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6052,
+        "length": 69,
+        "ns": 6,
+        "pageid": 1907,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4944,
+            "revid": 6052,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:32:14Z"
+          }
+        ],
+        "title": "File:Flag of Greenland.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "1908": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4945,
+        "length": 236,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Greenland/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1908,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4945,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Greenland\n| shortname alias = Greenland\n| flag alias = Flag_of_Greenland.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-07T20:22:44Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Greenland/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Greenland",
+        "touched": "2017-08-07T20:22:44Z"
+      },
+      "1909": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:European flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6050,
+        "length": 47,
+        "ns": 6,
+        "pageid": 1909,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4946,
+            "revid": 6050,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:European flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:31:28Z"
+          }
+        ],
+        "title": "File:Flag of Denmark.png",
+        "touched": "2018-02-01T21:23:02Z"
+      },
+      "1910": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4947,
+        "length": 230,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Denmark/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1910,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4947,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Denmark\n| shortname alias = Denmark\n| flag alias = Flag_of_Denmark.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-07T20:23:32Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Denmark/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Denmark",
+        "touched": "2017-08-07T20:23:33Z"
+      },
+      "1911": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:European flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6066,
+        "length": 47,
+        "ns": 6,
+        "pageid": 1911,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4948,
+            "revid": 6066,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:European flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:34:47Z"
+          }
+        ],
+        "title": "File:Flag of Norway.png",
+        "touched": "2018-02-04T18:30:34Z"
+      },
+      "1912": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4949,
+        "length": 227,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Norway/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1912,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4949,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Norway\n| shortname alias = Norway\n| flag alias = Flag_of_Norway.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-07T20:23:55Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Norway/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Norway",
+        "touched": "2017-08-07T20:23:59Z"
+      },
+      "1913": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Former countries in Europe"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former countries in the British Isles"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former country articles requiring maintenance"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Flag of England.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Wales.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Rep Britain.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Winchester Flag.gif"
+          }
+        ],
+        "lastrevid": 12000,
+        "length": 13596,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Biorobotics boom"
+          },
+          {
+            "ns": 0,
+            "title": "Birmingham"
+          },
+          {
+            "ns": 0,
+            "title": "Cora Fabian"
+          },
+          {
+            "ns": 0,
+            "title": "First Nations War"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Britain"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of the Britain"
+          },
+          {
+            "ns": 0,
+            "title": "House of Commons"
+          },
+          {
+            "ns": 0,
+            "title": "Ireland"
+          },
+          {
+            "ns": 0,
+            "title": "List of countries by population"
+          },
+          {
+            "ns": 0,
+            "title": "Parliament"
+          },
+          {
+            "ns": 0,
+            "title": "Parliamentary republic"
+          },
+          {
+            "ns": 0,
+            "title": "Revolutions of 2027"
+          },
+          {
+            "ns": 0,
+            "title": "Senate"
+          },
+          {
+            "ns": 0,
+            "title": "State of England"
+          },
+          {
+            "ns": 0,
+            "title": "State of Wales"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "The Refreeze"
+          },
+          {
+            "ns": 0,
+            "title": "Union Act of 2073"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 0,
+            "title": "Winchester Government"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in 2073"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2070s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2073"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 21st century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in 2047"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 2040s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 2047"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 21st century"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1913,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11999,
+            "revid": 12000,
+            "slots": {
+              "main": {
+                "*": "{{Infobox former country\n| conventional_long_name = British Republic\n| common_name            = Britain\n| continent              = Europe\n| region                 = British Isles\n| government_type        = Parliamentary republic\n| image_map = \n| image_map_caption = Territory administered by the Republic in 2047\n| image_flag   = Rep_Britain.png\n| coa_size     = x100px\n| symbol_type  = Arms\n| symbol       = Royal coat of arms of the United Kingdom#Union of the Crowns and the Commonwealth\n| year_start   = 2047\n| year_end     = 2073\n| date_start   = 19 May\n| event_start  = Declaration\n| date_end     = 10 January\n| event_end    = [[Union Act of 2073]]\n| p1           = Winchester Government\n| image_p1     = [[File:Winchester_Flag.gif|20px|link=]]\n| s1           = State of England\n| image_s1     = [[File:Flag_of_England.svg|20px|link=]]\n| s2           = State of Wales\n| image_s2     = [[File:Flag_of_Wales.svg|20px|link=]]\n| capital      = Birmingham\n| title_leader = \n| leader1      = \n| year_leader1 = \n| legislature  = Parliament \n| house1       = Senate\n| house2       = House of Commons\n| stat_year1   = 2070\n| stat_area1   = \n| stat_pop1    = 22099110\n| today        = [[United States of America]]\n| footnotes    = \n| width        = 265px\n}}The '''British Republic''' was a sovereign state in Europe established in western Europe from 2047 to 2073. During this time, England and Wales were governed by a Parliamentary Republic due to changes caused by [[the Flood|The Flood]] and the [[Revolutions of 2027]]. The Republic's existence was declared through \"''An Act declaring England and Wales a Republic\",'' adopted by the Provisional Parliament in Winchester. Power in the Republic was vested primarily in the Parliament and the Prime Minister as Head of Government, with a President as Head of State and the British Senate.\n\n== History ==\n===Decline of the United Kingdom===\nThe United Kingdom was a member state in the European Union from its founding in 1991 until 2020 following the BREXIT referendum. Following the UK's disengagement from the EU, the country's economy underwent a major contraction from the reduction in its access to European markets. By 2030, the median household income after taxes and benefits in the UK had fallen to among lowest among advanced economies. Recovery efforts using largely domestic solutions were unsuccessful in arresting the economic decline, leading to increased political instability during the 2020s and 2030s. A major feature of this period was the growth of xenophobia and nationalism that led to anti-immigrant policies that only exacerbated the Labor Crisis and deepened the economic decline.\n\nThis era saw a turning point in Britain's Americanization after the British government secured its entry into the the North Atlantic Free Trade Agreement's free trade zone between the US, Canada, Mexico, Colombia, Australia, Spain, Portugal, [[Ireland]], and New Zealand. This gave Britain access to American capital markets, and included it in the new Free Travel Zone for guest workers. However, this new relationship also included an agreement to organize the British Navy under the US unified command system, effectively making the British Navy subservient to American admirals.\n\n===Establishment of the Winchester Government===\nThe surge in glacial calving events in Antarctica through 2039 to 2041 significantly increased global sea levels, while the progressive erosion of the Atlantic meridional overturning circulation (AMOC) led to more severe winters in the North Atlantic. In the Summer of 2043 the British Isles were struck by a series of storm surges that damaged or destroyed the majority of the region's flood prevention systems, displacing millions and destroying many aging buildings like the Palace of Westminster. In addition to the immediate economic devastation, the destruction of so much of the region's essential infrastructure threatened the population of the British Isles with starvation and death from exposure during the harsh Flood-era winters of the North Atlantic.\n\nIn the immediate aftermath of the crisis, the United Nations attempted to organize an international humanitarian mission to the British Isles. Polling data from this period indicated that most Britons did not have high hopes for the future of their country, and many, including 15% of those who were not displaced, intended to relocate within the next 5 years. Virtually every member nation of the UN humanitarian mission sought British refugees as potential additions to their labor pool and refugee camps functionally became recruitment centers. Many residents of the UK had taken advantage of NAFTA or European immigration programs to settle in France, Germany, Spain or the Americas in prior decades, but the 2043 Storm Season kicked of a wave of migration that would last until the end of the 2040s. 53% of the British population would live outside of the former United Kingdom by 2050. During this period, the British economy would fall out of the G20.\n\nMeanwhile lawlessness was on the rise as Parliament, having relocated to Wembley Stadium, struggled to maintain the legitimacy of the government. While many in Parliament expressed their belief that there was no immediate threat to continuity of government, even as other powers were actively trying to poach British citizens, news that 30% of the international relief money was being used to supply and protect the Royal family at Windsor significantly eroded confidence in the government. Windsor castle and its grounds were sufficiently elevated that they were largely unaffected by rising sea levels, and over 35,000 refugees occupied the grounds and what remained of the town of Windsor east of High Street. However, the castle itself which accounted for around 20% of the unflooded lands, had sealed all points of entry to protect the Royal Family.\n\nKing William V attempted to raise morale of his Kingdom and the refugees on his land specifically with a public address, but polling data indicated this only soured the population on the monarchy. The tipping point came when Army helicopters carrying food and medical supplies, landed inside Windsor Castle's walls. While additional helicopters were being flown onto the East Lawn, the refugees were so angered by this act that they began attempting to break the castle walls. The violence led to the relief helicopters diverting, which led to a string of rumors online that the King had ordered the Army not to aid his hungry citizens. When the Household Division soldiers began firing on the rioters, the refugees answered with bricks, rocks, and Molotovs, eventually overwhelming the castle defenses, and leading to a hasty flight of the Royal family aboard the very aid helicopters that had landed within their grounds. \n\nThe incident at Windsor led to riots across the UK, and Parliament informally disbanded to flee the angry citizens. The royal family elected to leave England entirely for Balmoral Castle in Scotland, while King William's children were sent to stay with their uncle, Prince Harry, at his private home in Santa Barbara. Fearing a general collapse of social order in the UK, the United States deployed its military to impose martial law. A provisional government was established within the Winchester Green Zone, and included members of the UK Parliament and military. While the Provisional Authority of the United Kingdom was intended to only exist until the country could be pacified, the British public had so completely soured on the monarchy and the old parliament, that the Winchester government's only hope of maintaining legitimacy was to call for a constitutional convention.\n\n===Establishment of the Republic===\nFor 4 years, the United States military and UN Peacekeeping forces effectively administered Great Britain on behalf of the provisional government in Winchester. The Winchester Convention had spent the intervening years drafting and attempting to ratify a series of constitutions, with the first maintaining the monarchy in an entirely ceremonial capacity, and even the House of Lords. This first constitution was immediately rejected and many members of the Convention resigned rather than endorse the establishment of a Republic. By 2045, a second Convention passed a constitution that dissolved the monarchy that had stood for 12 centuries. The Republic of Britain was formally created in 2047 with the narrow ratification of the constitution, and Birmingham was selected to host the permanent capital. However, with the country experiencing a significant reduction in its labor pool and overall economic activity, the Republic was heavily dependent on foreign aid and remittances from its diaspora population economic survival.\n\nThe BR's economy faced major headwinds after its establishment. Plans to build a Great British Seawall were shelved after the UN reported that Briton simply did not have enough working-age people to actually execute the program while continuing other essential economic activities. A scaled back program to clear land of storm surge water, and build a few smaller sea walls was all that could be executed with the domestic population. Foreign workers were brought in to help as part of a humanitarian program, but as the geopolitical situation deteriorated in advance of World War III this also stalled out. Further, the BR's labor shortage only got worse as its population exited the country for better opportunities and those that remained behind continued to age into retirement and infirmity.\n\nWorld War III did little to unite the British people but merely reminded them of how far they'd fallen as American troops poured into their island only to leave for the European Theater. When the war was done, Britain was made to establish a new Atlantic-European defense bloc to prevent Polish expansion westward, but the degree of integration of Britain into the American system was already so entrenched that the British found themselves in a Free Association with the United States, along with Newfoundland and even Australia by the end of the 2056. With the Earth Working Group's efforts coming to fruition in the mid 2060's, there was hope that Britain and Ireland would be repopulated after the water receded. Unfortunately London was little more than a drained reef, and would require many more years of reclamation before new construction could even start. Further, more than a generation of Britons had no memory of their mother country, and a majority of both diaspora Britons and their children expressed no desire to return.\n\nAfter World War III, Britain saw a period of increased economic growth. Wartime and post-war increases of the US military presence to foster a stable economy that could guard against future threats from the Trimarium provided a well needed boost to the economy. Meanwhile, the Refreeze, paradoxically, made winters in the North Atlantic more mild, improving agricultural output and attracting foreign agribusinesses to the British Isles.\n\n===American annexation===\nAs new [[Biorobotics boom|robotics]] and longevity technologies began to ease the burden of the labor shortage in the UK, and the [[The Refreeze|the Refreeze]] led to widespread land reclamation, Anglo-American business activity surged. New real-estate opportunities and access to European markets spurred investment from American financial institutions and venture capital, while the free travel provisions of NAFTA further helped restore the British labor pool. Following the [[First Nations War]] the US sought to resettle displaced populations from the Arctic Nations, many of whom were British immigrants who had grown exceedingly rich living and working in the Arctic frontier. Their resettlement brought with it not only an injection of capital, but business acumen and high value skills that fueled what was coming to be known as the British Economic Miracle.\n\nThe idea of annexing Britain and the broader anglosphere had floated in geopolitics for the better part of a generation. The US had been administering resettlement in Australia, New Zealand and Britain since the end of the Flood, and was paying for most of the efforts to restore these nations economies and greatest cities. For all practical purposes the US already had administrative control over these countries. After a lengthy debate in Congress the President signed the [[Union Act of 2073]] that formally annexed those nations under free association with the United States. Six years later, after a series of plebiscite votes, England became the last territory in the Anglosphere to join the Union.\n\nToday England's population has reached some semblance of normalcy with 22 million residents, making it one of the larger states in the Union. The capital remains at Birmingham, while the old capital city of London has both shrunken inward and grown taller as it was simpler to tear much of the city's buildings than restore it. Some of the old ways remain; England is governed by a parliament who chooses the Governor from within their own ranks rather than a popular election (though there are some who want to change that); but the resettlement saw many federal laws implemented and the customs of the decedents of the Anglo-Expats have eroded or melded with those of those who remained behind. Gridiron and Field Football are both popular sports, the head of the Progress Party has been from England four times since its admission to the Union; and President [[Cora Fabian]] was a born and raised Londoner.\n[[Category:Former countries in Europe]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2026-06-19T14:27:29Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Both"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country/autocat"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Main other"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ns0"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ordinal"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str find"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "British Republic",
+        "touched": "2026-06-19T14:27:29Z"
+      },
+      "1914": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:European flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6190,
+        "length": 47,
+        "ns": 6,
+        "pageid": 1914,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4967,
+            "revid": 6190,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:European flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:09:35Z"
+          }
+        ],
+        "title": "File:Winchester Flag.gif",
+        "touched": "2017-11-08T00:10:49Z"
+      },
+      "1916": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4974,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1916,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4974,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-09T05:09:46Z"
+          }
+        ],
+        "title": "Message Wall:71.235.3.200",
+        "touched": "2017-08-09T05:09:47Z"
+      },
+      "1917": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4975,
+        "length": 747,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Korean War (2017–2021)"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1917,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4975,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Korean War (2017–2021)]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-09T05:09:47Z"
+          }
+        ],
+        "title": "Thread:71.235.3.200/@comment-4403388-20170809050946",
+        "touched": "2017-12-19T15:38:39Z"
+      },
+      "1918": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6150,
+        "length": 19,
+        "ns": 6,
+        "pageid": 1918,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4996,
+            "revid": 6150,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:58:18Z"
+          }
+        ],
+        "title": "File:Sahtu Flag.png",
+        "touched": "2017-11-08T00:10:50Z"
+      },
+      "1919": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Former countries in North America"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Sahtu Flag.png"
+          }
+        ],
+        "lastrevid": 6668,
+        "length": 2402,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Demographics of Republic of Sahtu"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Republic of Sahtu"
+          },
+          {
+            "ns": 0,
+            "title": "ISO 4217"
+          },
+          {
+            "ns": 0,
+            "title": "Politics of Republic of Sahtu"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1919,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4998,
+            "revid": 6668,
+            "slots": {
+              "main": {
+                "*": "{{Infobox country\n|conventional_long_name = Republic of Sahtu\n|national_motto = \n|national_anthem = \n|capital = Deline\n|largest_city = New Inuvik\n|languages = Dene, English\n|languages_type = \n|government_type = Republic\n|leader_title1 = President\n|leader_name1 = Grey Sun\n|legislature = Secretariat\n|upper_house = Tribal Council\n|lower_house = General Assembly\n|established_event1 = Plebiscite\n|sovereignty_type = Independence from the Canada\n|area_rank = \n|area_sq_mi = \n|population_estimate = 579,012\n|population_estimate_year = \n|population_estimate_rank = \n|currency = Canadian Dollar\n|currency_code = CAD\n|image_flag = Sahtu_Flag.png\n|leader_title2 = \n|leader_name2 = }}\n\n'''Sahtu ''' was an independent sovereign country in the North American Arctic that existed until January 10, 2073. Sahtu was bordered by Yukon to the west, Tlicho to the south, and the Nunavut to the East. The native citizens of Sahtu were predominantly of Dene and Metis ancestry, however the bulk of the country's population were from the British Isles and the former Low Countries.\n\n== Overview ==\nSahtu was the wealthiest and most powerful of the First Nations. Perfectly situated along the Mackenzie river with wide harbors to move goods from the Northwest Passage to and fro from further south, Sahtu rose to wealth and prominence in the mid-21st Century. While power did rest in the wealthy chiefs on the Tribal Council, the country's population was largely made up for British, Australian, and Dutch climate refugees, with a small population of ex-Russian oil and gas workers.<br>\n<br>\nLike all of the Arctic States, Sahtu's economy collapsed during the Refreeze and most of its population fled South, literally to greener pastures. With its economy in ruins, but still holding a not inconsiderable military force, Sahtu joined forces with the other Arctic states in a desperate bid to take hold of better lands further south to resettle its population and rebuild its economy rather than return to the life they'd known for so long prior to the Flood. Taking advantage of a weakened Canada with their own economic problems, Sahtu hoped to wage a brief skirmish to force the Canadians to a political settlement, however the invasion dragged on into a war that would eventually bring in the United States and see Canada and the First Nations under an American occupation.[[Category:Former countries in North America]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-11-26T09:34:17Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          }
+        ],
+        "title": "Republic of Sahtu",
+        "touched": "2019-01-25T19:04:50Z"
+      },
+      "1920": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Alien species"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Space Age"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6767,
+        "length": 321,
+        "ns": 0,
+        "pageid": 1920,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6766,
+            "revid": 6767,
+            "slots": {
+              "main": {
+                "*": "First Contact is an event that historically describes members of a certain species discovering and interacted with members of another species or an environment for the first time. Today, it mainly describes humanity first interacted with species of extraterrestrial life.\n[[Category:Alien species]]\n[[Category:Space Age]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-03T16:41:26Z"
+          }
+        ],
+        "title": "First Contact",
+        "touched": "2017-12-03T16:41:26Z"
+      },
+      "1921": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5053,
+        "length": 331,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Association of East-Asia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "ns": 10,
+        "pageid": 1921,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5008,
+            "revid": 5053,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Association of East-Asia\n| flag alias = East_Asia_Flag.png\n| alt attribute = Flag of East Asia\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-17T17:04:57Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Association of East-Asia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Association of East-Asia",
+        "touched": "2017-08-17T17:04:58Z"
+      },
+      "1922": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Chinese flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6084,
+        "length": 46,
+        "ns": 6,
+        "pageid": 1922,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5004,
+            "revid": 6084,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Chinese flags]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:40:10Z"
+          }
+        ],
+        "title": "File:Flag of the People's Republic of China.png",
+        "touched": "2017-11-08T00:10:50Z"
+      },
+      "1923": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Chinese flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6093,
+        "length": 46,
+        "ns": 6,
+        "pageid": 1923,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5005,
+            "revid": 6093,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Chinese flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:43:35Z"
+          }
+        ],
+        "title": "File:Flag of the Republic of China.png",
+        "touched": "2021-01-18T17:07:16Z"
+      },
+      "1924": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of Associated states"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6035,
+        "length": 59,
+        "ns": 6,
+        "pageid": 1924,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5007,
+            "revid": 6035,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags of Associated states]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:27:41Z"
+          }
+        ],
+        "title": "File:East Asia Flag.png",
+        "touched": "2018-10-19T16:04:14Z"
+      },
+      "1925": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Chinese flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6142,
+        "length": 46,
+        "ns": 6,
+        "pageid": 1925,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5011,
+            "revid": 6142,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Chinese flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:56:36Z"
+          }
+        ],
+        "title": "File:Provisional Government of China.png",
+        "touched": "2017-12-03T16:21:05Z"
+      },
+      "1926": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5014,
+        "length": 363,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Chinese State/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1926,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5014,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Provisional Government of China\n| flag alias = Provisional_Government_of_China.png\n| alt attribute = Flag of the Chinese State\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-12T18:53:25Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Chinese State/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Chinese State",
+        "touched": "2017-08-12T18:53:25Z"
+      },
+      "1927": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Associated states"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Countries in Asia"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Association of East Asia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blank Person.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blank Woman.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:East Asia CoA.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:East Asia Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:East Asian Association.png"
+          }
+        ],
+        "lastrevid": 11231,
+        "length": 12879,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Africa"
+          },
+          {
+            "ns": 0,
+            "title": "Arthur Yaeger"
+          },
+          {
+            "ns": 0,
+            "title": "Associated state"
+          },
+          {
+            "ns": 0,
+            "title": "Chita"
+          },
+          {
+            "ns": 0,
+            "title": "Coat of arms of Association of East-Asia"
+          },
+          {
+            "ns": 0,
+            "title": "Conservative Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Demographics of Association of East-Asia"
+          },
+          {
+            "ns": 0,
+            "title": "Dzu Khanh Pham"
+          },
+          {
+            "ns": 0,
+            "title": "Dzuy Nguyen"
+          },
+          {
+            "ns": 0,
+            "title": "Europe"
+          },
+          {
+            "ns": 0,
+            "title": "European Union"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Association of East-Asia"
+          },
+          {
+            "ns": 0,
+            "title": "Fuijan"
+          },
+          {
+            "ns": 0,
+            "title": "Great Reset"
+          },
+          {
+            "ns": 0,
+            "title": "Guangdong"
+          },
+          {
+            "ns": 0,
+            "title": "Ha-eun Zaya"
+          },
+          {
+            "ns": 0,
+            "title": "Hainan"
+          },
+          {
+            "ns": 0,
+            "title": "Han-Baek One"
+          },
+          {
+            "ns": 0,
+            "title": "Han Jin Wei"
+          },
+          {
+            "ns": 0,
+            "title": "Hong Kong"
+          },
+          {
+            "ns": 0,
+            "title": "Hunan"
+          },
+          {
+            "ns": 0,
+            "title": "Japan"
+          },
+          {
+            "ns": 0,
+            "title": "Jiangxi"
+          },
+          {
+            "ns": 0,
+            "title": "Korea"
+          },
+          {
+            "ns": 0,
+            "title": "Lin Miyanagi"
+          },
+          {
+            "ns": 0,
+            "title": "Macau"
+          },
+          {
+            "ns": 0,
+            "title": "Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "Mongolia"
+          },
+          {
+            "ns": 0,
+            "title": "Politics of Association of East-Asia"
+          },
+          {
+            "ns": 0,
+            "title": "Raku-Li Kim"
+          },
+          {
+            "ns": 0,
+            "title": "Second Chinese Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Shuu Otomo"
+          },
+          {
+            "ns": 0,
+            "title": "Third Chinese Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Union Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "United Federation of China"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          },
+          {
+            "ns": 0,
+            "title": "Yangtze Federation"
+          },
+          {
+            "ns": 0,
+            "title": "Yunnan"
+          },
+          {
+            "ns": 0,
+            "title": "Yuri Popov"
+          },
+          {
+            "ns": 0,
+            "title": "Zhuang"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1927,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10825,
+            "revid": 11231,
+            "slots": {
+              "main": {
+                "*": "{{Infobox country\n|conventional_long_name = Association of East-Asia\n|national_motto = \n|national_anthem = \n|capital = Shanghai\n|largest_city = Shanghai\n|languages = English (official)\n|languages_type = National languages\n|languages2 = Mandarin, Japanese, Korean, Mongolian, Cantonese, Vietnamese, Russian\n|languages2_type = Regional languages\n|government_type = Federal presidential constitutional republic\n|leader_title1 = President\n|leader_name1 = Raku Li Kim\n|legislature = Congress\n|upper_house = Senate\n|lower_house = House of Representatives\n|established_event1 = Founded\n|sovereignty_type = Unification\n|established_event2 = \n|established_date1 = January 1, 2140\n|established_event3 =  \n|established_date2 = \n|established_event4 = \n|established_date3 =\n|established_date4 = \n|area_rank = \n|area_sq_mi = \n|population_estimate = >931 Million\n|population_estimate_year = 2160\n|population_estimate_rank = \n|currency = United States Dollar (USD)\n|currency_code =\n|image_flag = East_Asia_Flag.png\n|image_map = Association_of_East_Asia.png\n|image_coat = East_Asia_CoA.png\n|leader_title2 = Vice President\n|leader_name2 = Lin Miyanagi }}\n\nThe '''Association of East-Asia''' or '''Eastasia''' is an [[Associated state]] of the [[United States of America|United States]] founded on New Year's Day 2140. It was created to unify Eastern Asia. The Association was created as a result of an Asian economic union; with its founding states of [[Japan]], [[Chita]], and several Chinese states. In late 2140, [[Korea]] and the rest of the Chinese states were admitted into the Association, with countries in South-east Asia following along between 2147 and 2149.\n\nThe AEA was first proposed by Japanese Minister for Foreign Affairs Hitoshi Yoshida on 9 May 2138 as a way to solidify the political stability established by [[Ha-eun Zaya]]'s military government. Originally, Yoshida had described the AEA more as a super-national union similar to the old [[European Union]], with political integration only going so far as to re-consolidate the Chinese nation-state. Pressure from the US and from provisional governments on the Asian mainland, however, pushed for the creation of a continental federation.\n\nThe Association is at odds with the nations of Central Asia, of whom stubbornly rested outside the American sphere of influence.\n\n== Overview ==\nThe century before the [[Third Mexican-American War]] was not kind to East-Asia. The flood left hundreds of millions of people homeless and displaced, the [[Great Reset]] and Korean War ended the dream of China as a rival superpower to the United States, the [[Second Chinese Civil War]] and [[World War III]] turned China into a battleground given momentary peace before a [[Third Chinese Civil War]] would rock the continent only 50 years later, all the while the region's population declined from low birth rates and immigration to the Space Colonies. By the Third Mexican War, East Asia was falling apart, with only Japan and Korea barely holding together as coherent entities, while the rest of the region was set against itself by competing interests from [[Mexico]], the US and countless private organizations and splinter groups.<br /><br />It ultimately took an invasion from the largest space force in history to end the nightmare of history in East Asia. General Ha-eun Zaya's Planetary Task Force India functionally conquered Asia with techniques that would have done Genghis Khan proud, assisted with relativistic weapons that were in a sense the final word in destructive power in warfare. Zaya established a military regime in Shanghai that did more in four years to rebuild and administer Asia than any regime since the death of the [[United Federation of China]] in 2108. The Quantum Economic Model was put in place across the continent, new space elevators brought much needed food and resources to the region and let millions fleet to the colonies on Venus and the outer planets. And while Zaya's regime chiefly ruled over China and Southeast Asia, she negotiated an agreement with Japan, Korea, and [[Mongolia]] to incorporate their economies under the Quantum Economic Model, laying the groundwork for the creation of the Association of East Asia.<br /><br />The Association, is a federation of states that, much like Europe and even Africa, were less than willing to unite initially. The US practically created the entity at gunpoint, with the region largely under US occupation. China and South-East Asia needed little convincing after four years under Zaya's military government which had already introduced the notion of a common legislature with her Regional Council. However Japan and Korea were extremely apprehensive about joining. Had it not been for their own economic and demographic crises, and prodding by the Halvidar administration, they could have conceivably remained outside of the union even to this day. <br /><br />As of 2160, the region is largely a cohesive unit, plagued, as many of the Associations are, by separatist groups, but with none being in any position to actually carry out their desire to tear the Association apart, are for the most part a social annoyance. The Association's government gives a considerable amount of autonomy to its constituent states, and its constitution largely limits itself to manage the economy and infrastructure, but not the social order. Free travel is common, and while the nations that founded the Association are certainly more separated than in [[Europe]] or [[Africa]], intermarriage is becoming more common and nationalist tensions are continuing to erode, largely thanks to the provincial structure of the Association, with the option to leave for the myriad of American colonies serving as a kind of social relief valve for populations that might feel marginalized at any point.\n\n==History==\n==='''Yoshida Declaration'''===\n==='''Political pressures'''===\n==='''Establishment'''===\n\nEvents leading up to the Establishment were at the conference for the Treaty of San Juan in 2139, which was largely made up of provisional governments established only in the last few months, the U.S. agreed to pay for reconstruction efforts and aid local forces in keeping order, effectively formalizing the U.S. occupation as a fact of life. In addition, the Executive branch of the U.S. federal government assumed direct control of local commercial and social services to place them under the Quantum Economic Model. Doing so would make the delivery of goods and services to those who needed it far more efficient, and would improve the economies of these countries, as it had in the US and the military administered zones in Eurasia. \n\nPresident Halvidar of the United States announced that the US was no longer going to pursue a diplomatic policy of keeping Eurasia divided, but rather hoped to unite it; and indeed the entire world. Unification would begin with the establishment of new regional states in free association, including what was now known as the Association of East-Asia. Buffer zones of varying degrees of American occupation was slowly reduced to expand these associated states.\n\nThe formation of the Association of East-Asia was announced on New Years day; January 1st, 2140. The countries of China, Manchuria, Japan, Wuyue, Chita, and Taiwan first formed the Association of East-Asia. Admiral Arthur Yaeger (b. 2084), famously known to have commanded most Pacific naval forces during the Third Mexican-American war, was placed as acting president of the Free Association under American Occupation overseen by Zaya's Regime to help make way for Elections in Early December of 2140 (To help align with the American one). Acting President Yaeger organized a Federal system of government with each traditional regions set as a state in the Free Association. While also developing regions and enforcing the Quantum Economic Model\n\n=== '''Expansion''' ===\nIn March, 2140, Korea, [[Macau]], and [[Hong Kong]] joined the Association followed by the occupied provisional governments in [[Yangtze Federation]], [[Hunan]], [[Yunnan]], [[Zhuang]], [[Guangdong]], [[Fuijan]], [[Hainan]], and [[Jiangxi]] in early Summer of 2140.\n\nIn the Eastasian Election of 2140, Shuu Otomo of the Eastasian centre-left Unity Party won the election, making him the first official President of Eastasia. After his inauguration in Febuary 4th, 2141, President Otomo's first term was mostly further development and reconstruction after the acting president. <span style=\"font-weight:normal;\">He established the Pan Asian Interstellar Research from defunct Asian space agencies in late 2143. </span>President Otomo was then elected to a second term in 2144 before going on a campaign to annex regions in South-East Asia between 2147 and 2149.\n\nUnder the second President Han Jin Wei, elected in 2148, she helped expanded further westward through formerly neutral states of Mongolia, South Mongolia Republic, Ningxia, and Gansu. While many in the country had celebrated this decision. Countries in Central Asia, whom was not under the influence of the United States, began to worry about Eastasian expansion throughout Asia. This sparked tension when an alliance was formed between the Central Asians to prevent further expansion of the Association of East Asia along with protests within the recently annexed regions of Eastasia. <span style=\"font-weight:normal;\"> </span> In 2155, President Han Jin Wei was mysteriously found dead at age 85 in her bedroom at 9 in the morning. This spawned many conspiracies.\n\nHer vice president, [[Dzu Khanh Pham]], was inaugurated into Presidency shortly after. President Pham's administration was filled with buffers in security and increasing responses to serious terrorist threats within the most western parts of Eastasia. However, Tuva joined the Association in 2156. President Pham did not wish to run for re-election, saying that he is \"satisfied\". \n\nConservative party candidate Raku-Li Kim won election in 2156, promising a \"slow-down\" of Eastasian expansion and instead focused on investment of the expansion of businesses, infastructure, and industries in Space.\n\n==Demographics==\n\n==Politics==\n==='''Government'''===\n===='''President'''====\n\n{| class=\"wikitable\" style=\"text-align: center;\"\n|-\n! style=\"background:#C0C0C0; color:black;\" | №<br /> \n! colspan=\"2\" style=\"background:#C0C0C0; color:black;\" | President\n! style=\"background:#C0C0C0; color:black;\" | Took office\n! style=\"background:#C0C0C0; color:black;\" | Left office\n! style=\"background:#C0C0C0; color:black;\" | Political Party\n! style=\"background:#C0C0C0; color:black;\" |Vice President\n! style=\"background:#C0C0C0; color:black;\" | Notes\n|-\n! style=\"background:{{Independent (politician)/meta/color}};\" | {{color|black|–}}\n| [[File:Blank_Person.jpg|160x150px]]\n| '''[[Arthur Yaeger]]'''<br /><small>(2084–Missing)</small>\n| January 2, 2140\n| January 20, 2141\n| Independent\n| Han-Baek One|[[Han-Baek One|Han-Baek Won]]\n| style=\"width:30%;\" | <small>Acting</small>\n|-\n! style=\"background:{{Union Party (United States)/meta/color}};;\" | {{color|white|1}}\n| [[File:Blank_Person.jpg|160x150px]]\n| '''[[Shuu Otomo]]'''<br /><small>(2092-)</small>\n| January 20, 2141\n| January 20, 2149\n| [[Union Party (United States)|Union Party]]\n| [[Yuri Popov]]\n| <small>notes </small>\n|-\n! style=\"background:{{Union Party (United States)/meta/color}};;\" | {{color|white|2}}\n| [[File:Blank_Woman.png|160x150px]]\n| '''[[Han Jin Wei]]'''<br /><small>(2071–2155)</small>\n| January 20, 2149\n| February 16, 2155\n| [[Union Party (United States)|Union Party]]\n| [[Dzu Khanh Pham]]\n| <small>Died in office. </small>\n|-\n! style=\"background:{{Union Party (United States)/meta/color}};;\" | {{color|white|3}}\n| [[File:Blank_Person.jpg|160x150px]]\n| '''[[Dzu Khanh Pham]]'''<br /><small>(2102–)</small>\n| February 16, 2155\n| January 20, 2157\n| [[Union Party (United States)|Union Party]]\n| [[Dzuy Nguyen]]\n| <small>Succeeded to Presidency from Vice Presidency </small>\n|-\n! style=\"background:{{Conservative Party (United States)/meta/color}};;\" | {{color|white|4}}\n| [[File:Blank_Person.jpg|160x150px]]\n| '''[[Raku-Li Kim|Rak-Yi Kim]]'''<br /><small>(2108–)</small>\n| January 20, 2157\n| Present\n| [[Conservative Party (United States)|Conservative Party]]\n| [[Lin Miyanagi]]\n| <small>notes </small>\n|}\n\n=='''Administrative divisions'''==\nThe Association of East-Asia is divided into 60 provinces, and one capital district, each overseen by an elected governor, legislature and provincial court system. Each province is further divided into prefectures, municipalities and villages. The provinces enjoy a degree of autonomy comparable to American states or the provincial system adopted near the end of the United Federation of China.\n[[File:East_Asian_Association.png|350px|center|East-Asian provinces.]]\n[[Category:Associated states]]\n[[Category:Countries in Asia]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-04-24T13:40:23Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative Party (United States)/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Independent (politician)/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Union Party (United States)/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          }
+        ],
+        "title": "Association of East-Asia",
+        "touched": "2023-04-24T13:40:23Z"
+      }
+    }
+  }
+}

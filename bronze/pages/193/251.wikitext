@@ -1,0 +1,1 @@
+<span class="plainlinks">[[Template:{{{1}}}]]&nbsp;([[Template talk:{{{1}}}|talk]] [{{SERVER}}{{localurl:Special:Whatlinkshere/Template:{{{1}}}|limit=500}} links] [{{SERVER}}{{localurl:Template:{{{1}}}|action=edit}} edit])</span><noinclude>{{Documentation}}</noinclude>

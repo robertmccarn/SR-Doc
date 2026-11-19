@@ -1,0 +1,15 @@
+{
+  "categories": [
+    {
+      "*": "Wikipedia_pages_with_incorrect_protection_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": "Infobox officeholder/Office"
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><dl><dd><i>This template is used in conjunction with </i><div style=\"clear:both\"><i>.</i></div></dd></dl>\n\n<!-- \nNewPP limit report\nCached time: 20261119205402\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.036 seconds\nReal time usage: 0.053 seconds\nPreprocessor visited node count: 10/1000000\nPost‐expand include size: 210/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 3/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nLua time usage: 0.017/7.000 seconds\nLua memory usage: 712943/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   49.153      1 -total\n 97.05%   47.701      1 Template:Pp-template\n  2.78%    1.368      1 Template:Tl\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:103-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205402 and revision id 118. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [],
+  "page_id": 103,
+  "revision_id": 118,
+  "title": "Template:Infobox officeholder/Office"
+}

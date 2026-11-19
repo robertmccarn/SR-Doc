@@ -1,0 +1,13 @@
+{{documentation subpage}}
+
+This template is transcluded if a flag template is used without the first parameter, or with an empty first parameter. It can be used to place an "invisible" flag icon, as an alternative to using {{tl|noflag}} (which adds a {{tag|span|open}} tag with padding at the size of a flag icon), if one item in a list of items with flags shouldn't have a flag icon. For example:
+* {{flagicon|}} [[Western Sahara]] (<tt><nowiki>{{flagicon|}} [[Western Sahara]]</nowiki></tt>)
+which looks the same as
+* {{noflag|[[Western Sahara]]}} (<tt><nowiki>{{noflag|[[Western Sahara]]}}</nowiki></tt>)
+
+For further instructions, please see: [[Wikipedia:WikiProject Flag Template|WikiProject Flag Template]].
+
+<includeonly>
+[[Category:All country data templates| ]]
+[[Category:Country data templates| ]]
+</includeonly>

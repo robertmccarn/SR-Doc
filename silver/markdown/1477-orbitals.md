@@ -1,0 +1,48 @@
+---
+page_id: 1477
+revision_id: 11384
+source_url: https://second-renaissance.fandom.com/wiki/Orbitals
+raw_sha256: 3bb9b0276020be35b2a785d35ed085ffe48038306cc6041ea6adb2e87dce5838
+---
+
+# Orbitals
+
+## Preserved source
+
+```wikitext
+'''Orbital Habitats''' or simply '''Orbitals''' or '''Habitats '''are a variety of human settlements in space that are not confined to the surface of a large planet or moon. Most space colonies were constructed from asteroids or comets from the Asteroid Belt and the Kuiper Belt, the first being mining colonies constructed in the early 2020s. As of 2160 space colonies number in the thousands, from small habitats to the Mexican Orbitals.
+
+# Types
+## Orbitals
+Orbitals were the first colonies, built out of Near Earth Asteroids and used either as mining or manufacturing satellites. At present, the largest orbital colonies are Mexico's Lagrangian Orbitals, which are as large as the larger O'Neil Ships. Orbitals are used primarily for processing space-based resources, though Mexico's have been largely converted into military installations since their initial creation as off-world economic zones. Most reside near Earth, and are largely used for manufacturing, research, and military purposes. Only a handful are self contained communities, the largest by far are Mexico's Lagrangian colonies, while most of those the US uses are either farmworlds, or luxury worlds for the super-rich (the latter are some of the only colonies that do not participate in the ITC and are still technically part of territories on Earth.) The rest are used for trade, mining, and infrastructure care and maintenance. Outside of Earth, there are orbitals that serve these purposes as well, but the overwhelming majority are gas mining stations in the outer planets.
+
+### '''Beachhead Orbitals'''
+Given the volumetric limits of warp travel, NASA prioritizes the construction of habitats in the Lagrange points of alien planets from in-situ materials. These habitats, or Beachhead Orbitals, begin as a single cylinder that can house a crew of only a few thousand, with facilities for agriculture and life support. 
+
+### '''Lighthouses'''
+The largest exosolar orbitals are located in the void of space near commonly used warp-transit routs and serve as way stations in the event of serious damage to a spacecraft, while coordinating a local element of the United Interferometry Network for charting clear paths for warp travel. These colonies have permanent human populations of usually only a few families supported by thousands of [biorobots](2618-biorobotics-boom.md), and usually host a small fleet of warp capable probes permanently stationed there to provide emergency assistance to stranded Interstellar Vehicles.
+
+### '''Ahuiateteo Orbitals'''
+''Main article: [Mexican Vacuum Command](2283-mexican-vacuum-command.md)''
+
+From 2112 to 2137, Mexico operated five Super-Orbitals that served as both permanent space colonies, and military instillations. These habitats,  were positioned at Earth-Solar Lagrangian points. The stations are supported by smaller orbitals in Earth-Luna Lagrangian points, intentionally placed near high value American targets to shadow the American space fleet.
+
+Each station measured 50km in length, the largest O'Neil cylinders prior to the launch of the Nyx and Hydra interstellar O'Neil Ships. With an internal surface area of 2,827 km2, nearly twice that of Mexico City, each orbital could support a population of millions of civilians, soldiers and drones, and generate huge surpluses of food and manufactured goods for Mexico's terrestrial needs.
+
+The Mexican orbitals were outfitted with multiple super-mass drivers capable of sending a single projectile or clusters of projectiles to Earth with extreme precision. This made it possible for Mexico to have an orbital strike capability without needing to launch a large cluster of platforms. For space-to-space combat each station sported a network point-defense lasers, Casava howitzers, and a nuclear pumped laser capable of firing as one or a cluster of beams. The Ahuiateteo orbitals also acted as shipyards and docks for the Mexican space fleet, and held a compliment of Vacuum commandos, all permanently stationed on the colonies for rapid response against the American Space Force. These stations would remain a threat through the Third Mexican War, and the last battle in space would be fought securing the command orbital at Earth-Solar L1 in 2137.
+
+These spacecraft were so large that it was not feasible to propel them under chemical or even nuclear propulsion to different orbits. Thus the American governments decision to simply decommission their weapon systems and repurpose them as entirely civilian habitats.
+
+## O'Neil Ships
+''Main article: [O'Neil Ships](1738-o-neil-ships.md)''
+
+The largest of these colonies are the O'Neil ships that travel along the Interplanetary Transport Network ferrying cargo and passengers between the major colony worlds.
+
+## Platforms
+Platforms are relatively small colonies that serve as the counterweights and harbors for Space Elevators. The largest Platform in the system is the New Richmond Starport.
+[Category:Technology](https://second-renaissance.fandom.com/wiki/Category:Technology)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1477/11384.wikitext` · revision `11384` · [upstream](https://second-renaissance.fandom.com/wiki/Orbitals)

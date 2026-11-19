@@ -1,0 +1,62 @@
+---
+page_id: 1378
+revision_id: 11631
+source_url: https://second-renaissance.fandom.com/wiki/Stewart_M._Li
+raw_sha256: 94e664a67dcff2117db2d8c388faf14594e7c48c73c3698154759cfebf008110
+---
+
+# Stewart M. Li
+
+## Preserved source
+
+```wikitext
+{{Infobox officeholder
+|name=Stewart M. Li
+|image= Stewart_M_Li_Blank.png
+|imagesize=265px
+|alt=
+|caption=
+|order=[61st](214-president-of-the-united-states.md)
+|office=President of the United States
+|vicepresident=Aaron Stultz
+|predecessor=[Estela La Riva](1379-estela-la-riva.md)
+|successor=[Christopher Reagan](1376-christopher-reagan.md)
+|birth_date=2061
+|birth_place= Boise, Idaho
+|nationality= American
+|party=[Horizon](3689-horizon-party-united-states.md)
+|spouse= 
+|children=
+|religion= Buddhism
+|profession=Civil Servant<br />Politician
+|termend = January 20, 2117
+|termstart = January 20, 2109}}
+
+'''Stewart Milo Li''' is an American politician who served as the 61st President of the United States from 2109 to 2117. Li served at the height of the Mexican-American Cold War, and much of his presidency focused on managing relations with Mexico. He was a member of the Horizon Party who represented Alberta in the United States House of Representatives and the United States Senate prior to becoming president. He is remembered quite fondly by many Americans.
+
+Li was born in Boise, Idaho two years before his family relocated to Vancouver, Cascadia for work. After graduating from Wharton School of Business in 2083, he joined the Center for Business Development in Red Deer, Alberta. Li became a respected representative for the business community in central Alberta, and continued to work at the CBD until 2089, when he was elected as Alberta's representative in their 4th congressional district, serving until 2095. He was subsequently elected to the U.S. Senate and served as the junior Senator from Alberta from until 2108. While serving in the Senate, he published ''Challenge of our Time'', which won the Pulitzer Prize in 2106. In the 2108 presidential election, Li narrowly defeated Horizon party favorite, Governor Aaron Stultz of Texas, for the nomination and went on to win a landslide victory in the general election against incumbent Estela La Riva.
+
+# Presidency
+## [Civil Rights Movement of 2110s](1117-non-human-civil-rights-movement.md)
+The establishment of legal rights for non-humans was one of the most divisive domestic issues of the 2110s. The established law in American Southwest barred extraterrestrials from many of the civil rights afforded to all other citizens, and Sentient AIs only had rights in a handful of territories in the Colonies. The Supreme Court of the United States had ruled in 2109 in Gia-ma vs. Chamber of Commerce that extraterrestrials were afforded the same protections under the 14th Amendment as any other citizen. Many businesses and public institutions in Southwestern states, did not obey the Supreme Court's decision. However the court also opened the country up to a larger debate by using the language, "Non-human persons" in its decisions, which many lawyers used in arguments for the rights of sentient AIs.
+
+## Partition of East Africa
+Li was quick to work with newly elected Mexican President Joaquín Andrade to find a speedy conclusion to the conflict in East Africa. Andrade had been a harsh critic of his predecessors commitment to supporting rebel groups in East Africa which had severely disrupted the global trade. Li famously went to Mexico City to negotiate in person with Andrade and the two leaders were able to come to agreement to partition East Africa, recognizing some of the more legitimate claims for national self determination while securing global trade.
+
+# After Presidency
+# Personal Life
+Li was born in Boise, Idaho two years before his family relocated to Vancouver, Cascadia for civil work in the newly annexed territory. Li had described growing up in early American Vancouver as "... a normal awkward experience...". The United States annexed Vancouver in the late 2050s, after the Third World War, prompting backlash, mainly from Canadian media along with a unsettled population. However, the hostile feeling of what was described as "foreign occupation" slowly subsided during the 2060s. 
+
+Despite being born from the United States, Li rarely faced open discrimination from his peers but he claimed that "they know what had happened, and the tension was there." While Li was in elementary school in 2070, he befriended 6 others, two of which were his future Presidential Secretaries (Cass Idol and Howe Danseuse) and one was his future wife Karine P. Joijima, after an incident where Li was caught attempting to start a business selling his "lunch" to other students. The seven of which formed a small group whom Li later fondly called the "Freelancers". The Li and the 'Freelancers' would later grew up to attend college and joined a business together.
+
+As an adolescent, he was frequently described by his friends and family as being 'mischievous and cunning'. He has a deep interest in educational literature, mainly English history, science, and psychology, and was able to apply his knowledge for working for his own interests. Because he is frequently overambitious, mischievous, cunning, and egotistical, his peers often socially reject him. His friends often described him as being "desperate" on more than one occasion, as Li had often starved for social acceptance. As an adult, he was described to be grown to be 'quite sincere and level-headed', putting his knowledge to what he described as a more 'ethical use', allowing him to reinforce his philanthropic ambitions. 
+
+Li married his wife Karina P. Jojima in 2081. While serving in the Senate, he published ''Challenge of our Time'', which won the Pulitzer Prize in 2106.  
+
+# Legacy
+[Category:Presidents of the United States](https://second-renaissance.fandom.com/wiki/Category:Presidents_of_the_United_States)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1378/11631.wikitext` · revision `11631` · [upstream](https://second-renaissance.fandom.com/wiki/Stewart_M._Li)

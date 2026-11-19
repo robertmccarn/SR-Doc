@@ -1,0 +1,56 @@
+{{Infobox country
+|conventional_long_name = Planetary Commonwealth of Venus
+|national_motto = "Forged World"
+|national_anthem = "The Star-Spangled Banner"
+|capital = Themyscira
+|largest_city = Venera
+|languages = English (de facto)
+|demonym = American, Venusian
+|languages_type = 
+|lang_others= Spanish, Tamil, Bengal, Chinese, Polish, etc.
+|government_type = United States Planetary Commonwealth
+|leader_title1 = Planetary-Governor
+|leader_name1 = Jeriel Cortes
+|legislature = Venusian Congress
+|upper_house = Planetary Senate
+|lower_house = Planetary Assembly
+|established_event1 = Formation 
+|sovereignty_type = Admitted to the Union
+|established_date1 = July 4, 2137
+|area_rank = 2nd
+|area_sq_mi = 
+|population_estimate = 1 Billion
+|population_estimate_year = 2160
+|population_estimate_rank = 3rd
+|currency = United States dollar ($)
+|currency_code = USD
+|image_flag = Venus_Flag.png
+|leader_title2 = Lieutenant Governor
+|leader_name2 = Andrew Pham
+|image_symbol = 1200px-TerraformedVenus.jpg|symbol_type = Venus in 2160}}
+'''Venus''' is the second planet from the Sun in the [[Sol system|Sol System]]. The planet is named after [https://en.wikipedia.org/wiki/Venus_(mythology) Venus, the Roman goddess of love]; it is also referred to as the Second World, the Sister Planet, and the 2nd Rock. Home to millions of species, including humans, Venus became the third planet to support human civilization when it achieved human rated habitability in 2140, after more than 100 years of terraforming.
+
+Venus is a relatively wet planet with 85% of its surface covered in Water. Venus is a terrestrial planet with an atmosphere conditioned to be as thick as [[Earth]]’s, having surface features of plains and deserts interspersed with slab-like rocks and periodically refreshed by volcanism. The first humans began exploring Venus in the late 2020s after decades of sparse robotic exploration; the first research colonies sprang up on the surface by the end of the decade; and in 2033 humans began the decades long process of terraforming Venus into a habitable world. Since then, humans have significantly altered the atmosphere and other abiotic conditions on the planet, enabling the proliferation of organisms as well as the formation of the ozone layer which, together with Venus's new magnetic field, blocks harmful radiation, permitting macroscale life on the surface. The physical properties of the planet Venus, as well as its geological history and orbit, allowed life to persist naturally during a brief period roughly 3 billion years ago, prior to a run-away green house effect that saw the boiling off of Venus's oceans, and the extreme thickening of its atmosphere.
+
+Venus originally had a very slow retrograde spin, most likely the result of a major impact during the formation of the solar system. During terraforming, two Lofstrom Loops were constructed at opposite points along the equator to eject some of the Venusian atmosphere to reverse this rotation, and produce a 24 hour day. This process took over five decades, but spared the planet from additional bombardments that would have delayed colonization even further.
+
+Both the mineral resources of the planet, as well as the products of the biosphere, contribute resources that are used to support the limited human population, and will support billions of future colonists. Human cultures have developed many views of the planet, including personification as a deity, a new home for humanity, and the next step as a space faring civilization
+
+==History==
+==='''Early exploration'''===
+By 2027 a number new, smaller companies and some [[Mars Corporation]] alums created [[Venus Group]] to spur aggressive investment in space futures. The Company procured an ITS Cargo carrier and adapted it using principles created for [[NASA]]'s proposed HAVOC mission. The first Human Mission to Venus was launched in April 2028 as part of a joint flight with NASA to study [[Mercury]] and explore recently identified Vulcanoids orbiting the sun. Upon reaching Venus the crew entered the upper atmosphere and deployed a dirigible to provide a base of operations in the relatively stable upper atmosphere. For the next 15 years, efforts to explore the surface were largely limited to robotic missions, and the Venusian population never climbed beyond a few hundred scientists and engineers.
+
+==='''Terraforming'''===
+LE, Venus Group's largest investor, began the construction on a large solar shield and magnetic shade for the planet at the same time that they were building the Mars Solar Reflectors. The sunshade was the largest object made by humans until the creation of the Titan Nano-Dome, and upon being delivered to Venusian L1 in 2036 the massive shade began lowering the planet's temperature. <span>One initial concern of the terraforming group was the possible presence of native microbial life in Venus's upper atmosphere. However, after a series of manned and unmanned probes into the planet's atmosphere no evidence of life was found. </span>By 2045 the planet had dropped sufficiently in temperatures to justify the construction of two gigantic Loftstrom Loops using molecular compilers. The simple machines began accelerating excess atmosphere from Venus into space, reversing its rotation to a pro-grade spin by 2054. Along with the seeding of reflective bacteria into the atmosphere and use ambient heat to provide energy to procreate, Venus eventually became cold enough to support regular surface operations by the 2060s.
+
+In 2048 the first deliveries of Jovian Hydrogen to Venus reached Venus, with the program given a significant boost in funding post-WWIII. Upon entering the atmosphere of Venus the Hydrogen bonded to the CO2 in the atmosphere and formed water and pure carbon. Originally the water would simply boil off and remain in the upper atmosphere, but by the 2060s the planet became cold enough for water vapor to exist at lower altitudes, allowing for the seeding of extremophiles designed to process CO2 into Oxygen and begin converting the toxic surface into useful soils. Perhaps the most unique feature of modern Venus is the incredible color spectrum of its soil, particularly in and around its beaches. Sulfur from the Venusian atmosphere was sequestered by these extremophiles into trisulfur compounds, most notably in the form of lapis sands or ultramarine sands. Others used the surplus carbon dioxide of the atmosphere to break down the basalt rock of the surface in reactive processes that produced micro-corals, along with opaline and abalone sands. Collectively this has produced Venus's iconic beaches of iridescent blue, purple, and black sands.
+
+By 2085 Venus received its first hosts of mosses, algae, fungi and lichens. and the Solar Shield was angled to allow additional light to reach the planet. To protect the surface, a Green Magenetoshield was positioned in L1 with the Sunshade. The first oceans began to form by 2090 and by 2102 the planet's rotation has reached a comfortable 24 hour day and surface temperatures had normalized to the point where the last remaining hosts of biomass could be introduced. Additional deliveries of Hydrogen would continue until the 2140s upon which Venus would play host to a series of oceans and a diverse biosphere.
+
+As of 2153, Venus is preparing to receive a proper moon to help create a sustainable magnetic field. Much like the Mars-Eris project, this will see the use of graviton propulsion to move a Kuiper Belt Object down system and into Venusian orbit.
+
+==='''Terran Diaspora'''===
+TBA
+[[Category:Venus]]
+[[Category:Planets]]
+[[Category:Planetary Commonwealths of the United States]]

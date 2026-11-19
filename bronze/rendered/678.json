@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "*": "Microformat_(uF)_message_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>The <span class=\"new\" title=\"Help:HTML in wikitext (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvSGVscDpIVE1MX2luX3dpa2l0ZXh0P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">HTML mark-up</span> produced by this template includes an <span class=\"new\" title=\"HCalendar microformat (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvSENhbGVuZGFyX21pY3JvZm9ybWF0P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">hCalendar microformat</span> that makes event details readily <a href=\"/wiki/Parsing\" class=\"mw-redirect\" title=\"Parsing\">parsable</a> by computer programs. This aids tasks such as the cataloguing of articles and maintenance of databases. For more information about the use of microformats on Wikipedia, please visit <a href=\"https://en.wikipedia.org/wiki/WikiProject_Microformats\" class=\"extiw\" title=\"wikipedia:WikiProject Microformats\">the Microformat WikiProject</a>.</p><div style=\"margin-top:0.5em;margin-bottom:0.65em;\">\n<dl><dt><span style=\"font-size: 120%;\">Subtemplates</span></dt></dl>\nDates will only be included if you use <div style=\"clear:both\"> (for single dates) or <div style=\"clear:both\">. Do not, however, use these templates <a href=\"https://en.wikipedia.org/wiki/WikiProject_Microformats/dates\" class=\"extiw\" title=\"wikipedia:WikiProject Microformats/dates\">if a date before 1583&#160;CE is involved</a>.\nTo include URLs, use <div style=\"clear:both\">.\n<p><i><b>Please do not remove instances of these subtemplates.</b></i>\n</p>\n</div><div style=\"margin-top:0.5em;margin-bottom:0.65em;\">\n<dl><dt><span style=\"font-size: 120%;\">Classes used</span></dt></dl>\n<p>The <a href=\"/wiki/HTML_attribute\" class=\"mw-redirect\" title=\"HTML attribute\">HTML classes</a> this microformat uses include:\n</p>\n<dl><dd><div class=\"hlist\"><ul><li style=\"font-size:110%;\">attendee</li><li style=\"font-size:110%;\">contact</li><li style=\"font-size:110%;\">description</li><li style=\"font-size:110%;\">dtend</li><li style=\"font-size:110%;\">dtstart</li><li style=\"font-size:110%;\">location</li><li style=\"font-size:110%;\">organiser</li><li style=\"font-size:110%;\">summary</li><li style=\"font-size:110%;\">url</li><li style=\"font-size:110%;\">vevent</li></ul></div>  </dd></dl></div>\n<div style=\"padding:0.1em 0;line-height:1.2em;line-height:1.3em\"><i><b>Please do not rename or remove these classes<br />nor collapse nested elements which use them.</b></i></div>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:UF-hcal/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VUYtaGNhbC9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:UF-hcal/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:UF-hcal/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VUYtaGNhbC9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:UF-hcal/doc</span></div>\n</div></div></div>\n<!-- \nNewPP limit report\nCached time: 20261119143314\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.029 seconds\nReal time usage: 0.042 seconds\nPreprocessor visited node count: 144/1000000\nPost‐expand include size: 4750/2097152 bytes\nTemplate argument size: 1044/2097152 bytes\nHighest expansion depth: 8/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nLua time usage: 0.005/7.000 seconds\nLua memory usage: 640195/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   26.373      1 -total\n 91.45%   24.119      1 Template:Microformat_message\n 66.12%   17.437      1 Template:Hlist\n  8.27%    2.182      1 Template:Documentation\n  5.40%    1.423      3 Template:Tl\n  5.33%    1.407      1 Template:Longitem\n  4.54%    1.196      2 Template:Big\n  3.13%    0.826      1 Template:UF-hcal/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:678-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119143314 and revision id 946. Rendering was triggered because: page-view\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:UF-hcal/doc",
+      "ns": 10
+    },
+    {
+      "*": "HTML attribute",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Parsing",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "HCalendar microformat",
+      "ns": 0
+    },
+    {
+      "*": "Help:HTML in wikitext",
+      "ns": 12
+    }
+  ],
+  "page_id": 678,
+  "revision_id": 946,
+  "title": "Template:UF-hcal"
+}

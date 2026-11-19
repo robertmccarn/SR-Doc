@@ -1,0 +1,953 @@
+[[File:SR_2132_President_US_Flag.png|thumb|300px|right|Flag of the President of the United States as of 2132]]
+The [[president of the United States]] is the [[head of state]] and [[head of government]] of the [[United States]], elected to a 4-year [[Term of office|term]] by the people (until 2028 indirectly through the [[United States Electoral College|Electoral College]]). The officeholder leads the [[Executive (government)|executive branch]] of the [[Federal government of the United States|federal government]] and is the [[commander-in-chief]] of the [[United States Armed Forces]]. Since the office was established in 1789, 58 men and 10 women have served as president. The first, [[George Washington]], won a unanimous vote of the Electoral College. [[Grover Cleveland]] served two non-consecutive terms in office and is therefore counted as the 22nd and 24th president of the United States. Donald Trump also served two non-consecutive terms in office and counted as the 45th and 47th president of the United States. The 68th and current president is [[Dom Terragno]] (since January 20, 2157). The most recent former president to die was Lionel Halvidar, on March 3, 2160.
+
+The presidency of [[William Henry Harrison]], who died 31 days after taking office in 1841, was the shortest in American history. [[Franklin D. Roosevelt]] served the longest, over twelve years, before dying early in his fourth term in 1945. He is the only U.S. president to have served more than two terms. Since the ratification of the [[Twenty-second Amendment to the United States Constitution]] in 1951, no person may be elected president more than twice and no one who has served more than two years of a term to which someone else was elected may be elected more than once.<ref>{{cite web| url= https://www.archives.gov/exhibits/charters/constitution_amendments_11-27.html|title=The Constitution: Amendments 11–27|publisher=[[National Archives and Records Administration|U.S. National Archives & Records Administration]]|accessdate=October 1, 2008}}</ref>
+
+Of those who have served as the nation's president, four died in office of natural causes (William Henry Harrison, [[Zachary Taylor]], [[Warren G. Harding]], and Franklin D. Roosevelt), four were [[List of United States presidential assassination attempts and plots|assassinated]] ([[Abraham Lincoln]], [[James A. Garfield]], [[William McKinley]] and [[John F. Kennedy]]), and one resigned ([[Richard Nixon]], facing [[Impeachment process against Richard Nixon|impeachment]]). [[John Tyler]] was the first vice president to assume the presidency during a presidential term, and set the precedent that a vice president who does so becomes the fully functioning president with his own presidency, as opposed to a [[Caretaker government|caretaker president]]. The [[Twenty-fifth Amendment to the United States Constitution|Twenty-fifth Amendment]] to the Constitution put Tyler's precedent into law in 1967. It also established a mechanism by which an intra-term vacancy in the vice presidency could be filled. Richard Nixon was the first president to fill a vacancy under this provision when he [[1973 United States vice presidential confirmation|selected]] [[Gerald Ford]] for the office following [[Spiro Agnew]]'s resignation in 1973. The following year, Ford became the second to do so when he [[1974 United States vice presidential confirmation|chose]] [[Nelson Rockefeller]] to succeed him after he acceded to the presidency. As no mechanism existed for filling an intra-term vacancy in the vice presidency prior to 1967, the office was left vacant until filled through the next ensuing presidential election and subsequent inauguration.
+
+Throughout most of its history, [[Politics of the United States|American politics]] has been dominated by [[Political parties in the United States|political parties]]. The Constitution is silent on the issue of political parties, and at the time it came into force in 1789, there were no parties. Soon after the [[1st United States Congress|1st Congress]] convened, factions began rallying around dominant [[Presidency of George Washington|Washington administration]] officials, such as [[Alexander Hamilton]] and [[Thomas Jefferson]]. Greatly concerned about the capacity of political parties to destroy the fragile unity holding the nation together, Washington remained unaffiliated with any political faction or party throughout his eight-year presidency. He was, and remains, the only U.S. president never affiliated with a political party.<ref name=GWpps>{{cite news|url=http://www.washingtontimes.com/news/2014/dec/31/george-washingtons-views-political-parties-america/|title=George Washington's views on political parties in America|last=Jamison|first=Dennis|date=December 31, 2014|newspaper=[[The Washington Times]]|accessdate=July 1, 2016}}</ref> Since the passage of the Second Bill of Rights, the power of the President, like the Federal Government as a whole, has changed dramatically. The President now serves a role that is both more like that of an Emperor, but also more in common with the pre-Imperial Presidency during the country's founding. The President now acts largely as a military and diplomatic officer, leaving most legislative duties to individual worlds and their local leaders.
+
+==List of presidents==
+; First-Past-the-Post
+{{legend2|#EEEEEE|[[Wikipedia:Independent (politician)|None]]|border=1px solid #AAAAAA}} (1)
+{{legend2|{{Federalist Party (United States)/meta/color}}|[[Wikipedia:Federalist Party|Federalist]]|border=1px solid #AAAAAA}} (1)
+{{legend2|{{Democratic-Republican Party (United States)/meta/color}}|[[Wikipedia:Democratic-Republican Party|Democratic-Republican]]|border=1px solid #AAAAAA}} (4)
+{{legend2|{{Democratic Party (United States)/meta/color}}|[[Political parties in the United States|Democratic]]|border=1px solid #AAAAAA}} (16)
+{{legend2|{{Whig Party (United States)/meta/color}}|[[Wikipedia:Whig Party (United States)|Whig]]|border=1px solid #AAAAAA}} (4)
+{{legend2|{{Republican Party (United States)/meta/color}}|[[Political parties in the United States|Republican]]|border=1px solid #AAAAAA}} (18)
+; Alternative 
+{{legend2|{{Progress Party (United States)/meta/color}}|[[Progress Party (United States)|Progressive]]|border=1px solid #AAAAAA}} (5)
+{{legend2|{{Labor Party (United States)/meta/color}}|[[Political parties in the United States|Labor]]|border=1px solid #AAAAAA}} (1)
+{{legend2|{{Liberal Party (United States)/meta/color}}|[[Liberal Party (United States)|Liberal]]|border=1px solid #AAAAAA}} (5)
+{{legend2|{{Conservative Party (United States)/meta/color}}|[[Conservative Party (United States)|Conservative]]|border=1px solid #AAAAAA}} (5)
+{{legend2|{{Mexicano Libres Party (United States)/meta/color}}|[[Political parties in the United States|Dignidad Party]]|border=1px solid #AAAAAA}} (0)
+{{legend2|{{Union Party (United States)/meta/color}}|[[Union Party (United States)|Union]]|border=1px solid #AAAAAA}} (3)
+
+{| class="wikitable" style="text-align: center;"
+|-
+! №
+! colspan="2" | President
+! State
+! Term of office
+! Party
+! Term<br /><ref group="n" name="num" />
+! colspan="2" style="width: 18%;" | Vice President
+|-
+! rowspan="2" style="background:#eee;"| [[Wikipedia:Presidency of George Washington|1]]
+| rowspan="2" | {{Css Image Crop|Image = George-Washington.jpg|bSize = 100px|cWidth = 100|cHeight = 125|oTop = 7|oLeft = 0}}
+| rowspan="2" style="width: 16%;" | '''[[Wikipedia:George Washington|George Washington]]'''<br /><small>(1732–1799)</small>
+| rowspan="2" | [[Earth|Virginia]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">April 30, 1789</span><br /><ref group="n" name="Washington-term" /><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1797</span>
+| rowspan="2" | [[Wikipedia:Independent politician| Independent]]
+| 1<br /><small>([[Wikipedia:United States presidential election, 1788–1789|1789]])</small>
+| style="background:#eee;"| &nbsp;
+| rowspan="2" | [[Wikipedia:John Adams|John Adams]]
+|-
+| 2<br /><small>([[Wikipedia:United States presidential election, 1792|1792]])</small>
+| style="background: {{Federalist Party (United States)/meta/color}};" |
+|-
+! style="background: {{Federalist Party (United States)/meta/color}};" | [[Presidency of John Adams|{{color|white|2}}]]
+| {{Css Image Crop|Image = US Navy 031029-N-6236G-001 A painting of President John Adams (1735-1826), 2nd president of the United States, by Asher B. Durand (1767-1845)-crop.jpg|bSize = 115px|cWidth = 100|cHeight = 125|oTop = 3|oLeft = 5}}
+| '''[[Wikipedia:John Adams|John Adams]]'''<br /><small>(1735–1826)</small>
+| [[Earth|Massachusetts]]
+| <span class="date" style="white-space: nowrap;">March 4, 1797</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1801</span><br /><ref group="n" name="unseated" />
+| [[Wikipedia:Federalist Party|Federalist]]
+| 3<br /><small>([[Wikipedia:United States presidential election, 1796|1796]])</small>
+| style="background: {{Democratic-Republican Party (United States)/meta/color}};" |
+| [[Wikipedia:Thomas Jefferson|Thomas Jefferson]]
+|-
+! rowspan="2" style="background: {{Democratic-Republican Party (United States)/meta/color}};" | [[Presidency of Thomas Jefferson|{{color|white|3}}]]
+| rowspan="2" | {{Css Image Crop|Image = Thomas Jefferson by Rembrandt Peale, 1800.jpg|bSize = 148px|cWidth = 100|cHeight = 125|oTop = 18|oLeft = 20}}
+| rowspan="2" | '''[[Wikipedia:Thomas Jefferson|Thomas Jefferson]]'''<br /><small>(1743–1826)</small>
+| rowspan="2" | [[Earth|Virginia]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">March 4, 1801</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1809</span>
+| rowspan="2" | [[Wikipedia:Democratic-Republican Party|Democratic-<br />Republican]]
+| 4 <br /><small>([[Wikipedia:United States presidential election, 1800|1800]])</small>
+| style="background: {{Democratic-Republican Party (United States)/meta/color}};" |
+| [[Wikipedia:Aaron Burr|Aaron Burr]]<br /><small><span class="date" style="white-space: nowrap;">March 4, 1801</span> – <span class="date" style="white-space: nowrap;">March 4, 1805</span></small>
+|-
+| 5 <br /><small>([[Wikipedia:United States presidential election, 1804|1804]])</small>
+| style="background: {{Democratic-Republican Party (United States)/meta/color}};" |
+| rowspan="2" | [[Wikipedia:George Clinton (vice president)|George Clinton]]<ref group="n" name="died" /><br /><small><span class="date" style="white-space: nowrap;">March 4, 1805</span> – <span class="date" style="white-space: nowrap;">April 20, 1812</span></small>
+|-
+! rowspan="4" style="background: {{Democratic-Republican Party (United States)/meta/color}};" | {{color|white|4}}
+| rowspan="4" | {{Css Image Crop|Image = James Madison.jpg|bSize = 157px|cWidth = 100|cHeight = 125|oTop = 25|oLeft = 25}}
+| rowspan="4" | '''[[Wikipedia:James Madison|James Madison]]'''<br /><small>(1751–1836)</small><br />
+| rowspan="4" | [[Earth|Virginia]]
+| rowspan="4" | <span class="date" style="white-space: nowrap;">March 4, 1809</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1817</span>
+| rowspan="4" | [[Wikipedia:Democratic-Republican Party|Democratic-<br />Republican]]
+| rowspan="2" | 6 <br /><small>([[Wikipedia:United States presidential election, 1808|1808]])</small>
+| style="background: {{Democratic-Republican Party (United States)/meta/color}};" | &nbsp;
+|-
+| colspan="2" | ''Vacant''<ref group="n" name="25th Amend" /><br /><small><span class="date" style="white-space: nowrap;">April 20, 1812</span> – <span class="date" style="white-space: nowrap;">March 4, 1813</span></small>
+|-
+| rowspan="2" | 7 <br /><small>([[Wikipedia:United States presidential election, 1812|1812]])</small>
+| style="background: {{Democratic-Republican Party (United States)/meta/color}};" |
+|[[Wikipedia:Elbridge Gerry|Elbridge Gerry]]<ref group="n" name="died" /><br /><small><span class="date" style="white-space: nowrap;">March 4, 1813</span> – <span class="date" style="white-space: nowrap;">November 23, 1814</span></small>
+|-
+| colspan="2" |''Vacant''<ref group="n" name="25th Amend" /><br /><small><span class="date" style="white-space: nowrap;">November 23, 1814</span> – <span class="date" style="white-space: nowrap;">March 4, 1817</span></small>
+|-
+! rowspan="2" style="background: {{Democratic-Republican Party (United States)/meta/color}};" | {{color|white|5}}
+| rowspan="2" | {{Css Image Crop|Image = James Monroe White House portrait 1819.gif|bSize = 170px|cWidth = 100|cHeight = 125|oTop = 25|oLeft = 35}}
+| rowspan="2" | '''[[Wikipedia:James Monroe|James Monroe]]'''<br /><small>(1758–1831)</small><br />
+| rowspan="2" | [[Earth|Virginia]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">March 4, 1817</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1825</span>
+| rowspan="2" | [[Wikipedia:Democratic-Republican Party|Democratic-<br />Republican]]
+| 8<br /> <small>([[Wikipedia:United States presidential election, 1816|1816]])</small>
+| rowspan="2" style="background: {{Democratic-Republican Party (United States)/meta/color}};" |
+| rowspan="2" | [[Wikipedia:Daniel D. Tompkins|Daniel D. Tompkins]]
+|-
+| 9 <br /><small>([[Wikipedia:United States presidential election, 1820|1820]])</small>
+|-
+! style="background: {{Democratic-Republican Party (United States)/meta/color}};" | {{color|white|6}}
+| {{Css Image Crop|Image = John Quincy Adams daguerreotype c1840s.jpg|bSize = 250px|cWidth = 100|cHeight = 125|oTop = 35|oLeft = 75}}
+| '''[[Wikipedia:John Quincy Adams|John Quincy Adams]]'''<br /><small>(1767–1848)</small><br />
+| [[Earth|Massachusetts]]
+| <span class="date" style="white-space: nowrap;">March 4, 1825</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1829</span><br /><ref group="n" name="unseated" />
+| [[Wikipedia:Democratic-Republican Party|Democratic-<br />Republican]]
+| 10<br /><small>([[Wikipedia:United States presidential election, 1824|1824]])</small>
+| style="background: {{Democratic-Republican Party (United States)/meta/color}};" |
+| rowspan="2" | [[Wikipedia:John C. Calhoun|John C. Calhoun]]<ref group="n" name="resigned" /><br /><small><span class="date" style="white-space: nowrap;">March 4, 1825</span> – <span class="date" style="white-space: nowrap;">December 28, 1832</span></small>
+|-
+! rowspan="3" style="background: {{Democratic Party (United States)/meta/color}};" | {{color|white|7}}
+| rowspan="3" | {{Css Image Crop|Image = Andrew Jackson Daguerrotype-crop.jpg|bSize = 140px|cWidth = 100|cHeight = 125|oTop = 5|oLeft = 25}}
+| rowspan="3" | '''[[Wikipedia:Andrew Jackson|Andrew Jackson]]'''<br /><small>(1767–1845)</small><br />
+| rowspan="3" | [[Earth|Tennessee]]
+| rowspan="3" | <span class="date" style="white-space: nowrap;">March 4, 1829</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1837</span>
+| rowspan="3" | [[Political parties in the United States|Democratic]]
+| rowspan="2" | 11<br /><small>([[Wikipedia:United States presidential election, 1828|1828]])</small>
+| style="background: {{Democratic Party (United States)/meta/color}};" | &nbsp;
+|-
+| colspan="2" | ''Vacant''<ref group="n" name="25th Amend" /><br /><small><span class="date" style="white-space: nowrap;">December 28, 1832</span> – <span class="date" style="white-space: nowrap;">March 4, 1833</span></small>
+|-
+| 12<br /><small>([[Wikipedia:United States presidential election, 1832|1832]])</small>
+| style="background: {{Democratic Party (United States)/meta/color}};" |
+| [[Wikipedia:Martin Van Buren|Martin Van Buren]]<br /><small><span class="date" style="white-space: nowrap;">March 4, 1833</span> – <span class="date" style="white-space: nowrap;">March 4, 1837</span></small>
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" | {{color|white|8}}
+| {{Css Image Crop|Image = Martin Van Buren by Mathew Brady c1855-58.jpg|bSize = 375px|cWidth = 100|cHeight = 125|oTop = 70|oLeft = 135}}
+| '''[[Wikipedia:Martin Van Buren|Martin Van Buren]]'''<br /><small>(1782–1862)</small><br />
+| [[Earth|New York]]
+| <span class="date" style="white-space: nowrap;">March 4, 1837</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1841</span><br /><ref group="n" name="unseated" /><ref group="n" name="broke" />
+| [[Political parties in the United States|Democratic]]
+| 13<br /><small>([[Wikipedia:United States presidential election, 1836|1836]])</small>
+| style="background: {{Democratic Party (United States)/meta/color}};" |
+| [[Wikipedia:Richard Mentor Johnson|Richard Mentor Johnson]]
+|-
+! style="background: {{Whig Party (United States)/meta/color}};" | 9
+| {{Css Image Crop|Image = William Henry Harrison daguerreotype edit.jpg|bSize = 142px|cWidth = 100|cHeight = 125|oTop = 0|oLeft = 15}}
+| '''[[Wikipedia:William Henry Harrison|William Henry Harrison]]'''<br /><small>(1773–1841)</small><br />
+| [[Earth|Ohio]]
+| <span class="date" style="white-space: nowrap;">March 4, 1841</span><br/>–<br/><span class="date" style="white-space: nowrap;">April 4, 1841</span><br /><ref group="n" name="died" />
+| [[Wikipedia:Whig Party (United States)|Whig]]
+| rowspan="3" | 14<br /><small>([[Wikipedia:United States presidential election, 1840|1840]])</small>
+| style="background: {{Whig Party (United States)/meta/color}};" |
+| [[Wikipedia:John Tyler|John Tyler]]
+|-
+! rowspan="2" style="background: {{Whig Party (United States)/meta/color}};" | 10
+| rowspan="2" |{{Css Image Crop|Image = TylerDaguerreotype.jpg|bSize = 200px|cWidth = 101|cHeight = 131|oTop = 0|oLeft = 55}}
+| rowspan="2" |'''[[Wikipedia:John Tyler|John Tyler]]'''<br /><small>(1790–1862)</small>
+| rowspan="2" | [[Earth|Virginia]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">April 4, 1841</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1845</span>
+| [[Wikipedia:Whig Party (United States)|Whig]]<br /><small><span class="date" style="white-space: nowrap;">April 4, 1841</span> – <span class="date" style="white-space: nowrap;">September 13, 1841</span></small>
+| rowspan="2" colspan="2" |''Vacant''<ref group="n" name="25th Amend" />
+|-
+| ''Independent''<ref group="n" name="John_Tyler-party" /><br /><small><span class="date" style="white-space: nowrap;">September 13, 1841</span> – <span class="date" style="white-space: nowrap;">March 4, 1845</span></small>
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" | {{color|white|11}}
+| {{Css Image Crop|Image = James K Polk.jpg|bSize = 100px|cWidth = 120|cHeight = 125|oTop = 0|oLeft = 10}}
+| '''[[Wikipedia:James K. Polk|James K. Polk]]'''<br /><small>(1795–1849)</small><br />
+| [[Earth|Tennessee]]
+| <span class="date" style="white-space: nowrap;">March 4, 1845</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1849</span>
+| [[Political parties in the United States|Democratic]]
+| 15<br /><small>([[Wikipedia:United States presidential election, 1844|1844]])</small>
+| style="background: {{Democratic Party (United States)/meta/color}};" |
+| [[Wikipedia:George M. Dallas|George M. Dallas]]
+|-
+! style="background: {{Whig Party (United States)/meta/color}};" | 12
+| {{CSS image crop|Image = Zachary Taylor-circa1850.jpg|bSize = 125|cWidth = 100|cHeight = 125|oTop = 0|oLeft = 10}}
+| '''[[Wikipedia:Zachary Taylor|Zachary Taylor]]'''<br /><small>(1784–1850)</small><br />
+| [[Earth|Louisiana]]
+| <span class="date" style="white-space: nowrap;">March 4, 1849</span><br/>–<br/><span class="date" style="white-space: nowrap;">July 9, 1850</span><br /><ref group="n" name="death" /><ref group="n" name="died" />
+| [[Wikipedia:Whig Party (United States)|Whig]]
+| rowspan="2" | 16<br /><small>([[Wikipedia:United States presidential election, 1848|1848]])</small>
+| style="background: {{Whig Party (United States)/meta/color}};" |
+| [[Wikipedia:Millard Fillmore|Millard Fillmore]]
+|-
+! style="background: {{Whig Party (United States)/meta/color}};" | 13
+| {{CSS image crop|Image = Fillmore.jpg|bSize = 120|cWidth = 100|cHeight = 125|oTop = 0|oLeft = 7}}
+| '''[[Wikipedia:Millard Fillmore|Millard Fillmore]]'''<br /><small>(1800–1874)</small><br />
+| [[Earth|New York]]
+| <span class="date" style="white-space: nowrap;">July 9, 1850</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1853</span><br /><ref group="n" name="broke" />
+| [[Wikipedia:Whig Party (United States)|Whig]]
+| colspan="2" | ''Vacant''<ref group="n" name="25th Amend" />
+|-
+! rowspan="2" style="background: {{Democratic Party (United States)/meta/color}};" | {{color|white|14}}
+| rowspan="2" | {{CSS image crop|Image = Mathew Brady - Franklin Pierce - alternate crop.jpg|bSize = 240|cWidth = 100|cHeight = 125|oTop = 40|oLeft = 65}}
+| rowspan="2" | '''[[Wikipedia:Franklin Pierce|Franklin Pierce]]'''<br /><small>(1804–1869)</small><br />
+| rowspan="2" | [[Earth|New Hampshire]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">March 4, 1853</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1857</span>
+| rowspan="2" | [[Political parties in the United States|Democratic]]
+| rowspan="2" | 17<br /><small>([[Wikipedia:United States presidential election, 1852|1852]])</small>
+| style="background: {{Democratic Party (United States)/meta/color}};" |
+| [[Wikipedia:William R. King|William R. King]]<ref group="n" name="died" /><ref group="n" name="death" /><br /><small><span class="date" style="white-space: nowrap;">March 4, 1853</span> – <span class="date" style="white-space: nowrap;">April 18, 1853</span></small>
+|-
+| colspan="2" | ''Vacant''<ref group="n" name="25th Amend" /><br /><small><span class="date" style="white-space: nowrap;">April 18, 1853</span> – <span class="date" style="white-space: nowrap;">March 4, 1857</span></small>
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" | {{color|white|15}}
+| {{CSS image crop|Image = James Buchanan.jpg|bSize = 145|cWidth = 100|cHeight = 125|oTop = 0|oLeft = 22}}
+| '''[[Wikipedia:James Buchanan|James Buchanan]]'''<br /><small>(1791–1868)</small><br />
+| [[Earth|Pennsylvania]]
+| <span class="date" style="white-space: nowrap;">March 4, 1857</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1861</span>
+| [[Political parties in the United States|Democratic]]
+| 18<br /><small>([[Wikipedia:United States presidential election, 1856|1856]])</small>
+| style="background: {{Democratic Party (United States)/meta/color}};" |
+| [[Wikipedia:John C. Breckinridge|John C. Breckinridge]]
+|-
+! rowspan="2" style="background: {{Republican Party (United States)/meta/color}};" | {{color|white|16}}
+| rowspan="2" | {{CSS image crop|Image = Abraham Lincoln November 1863.jpg|bSize = 130|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 10}}
+| rowspan="2" | '''[[Wikipedia:Abraham Lincoln|Abraham Lincoln]]'''<br /><small>(1809–1865)</small><br />
+| rowspan="2" | [[Earth|Illinois]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">March 4, 1861</span><br/>–<br/><span class="date" style="white-space: nowrap;">April 15, 1865</span><br /><ref group="n" name="death" /><ref group="n" name="assassinated" />
+| [[Political parties in the United States|Republican]]
+| 19<br /><small>([[Wikipedia:United States presidential election, 1860|1860]])</small>
+| style="background: {{Republican Party (United States)/meta/color}};" |
+| [[Wikipedia:Hannibal Hamlin|Hannibal Hamlin]]<br /><small><span class="date" style="white-space: nowrap;">March 4, 1861</span> – <span class="date" style="white-space: nowrap;">March 4, 1865</span></small>
+|-
+| [[Political parties in the United States|Republican]]<br /><small>[[Wikipedia:National Union Party (United States)|National Union]]</small><ref group="n" name="union" />
+| rowspan="2" | 20<br /><small>([[Wikipedia:United States presidential election, 1864|1864]])</small>
+| style="background: {{Democratic Party (United States)/meta/color}};" |
+| [[Wikipedia:Andrew Johnson|Andrew Johnson]]<br /><small><span class="date" style="white-space: nowrap;">March 4, 1865</span> – <span class="date" style="white-space: nowrap;">April 15, 1865</span></small>
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" | {{color|white|17}}
+| {{CSS image crop|Image = President Andrew Johnson.jpg|bSize = 100|cWidth = 100|cHeight = 125|oTop = 0|oLeft = 0}}
+| '''[[Wikipedia:Andrew Johnson|Andrew Johnson]]'''<br /><small>(1808–1875)</small><br />
+| [[Earth|Tennessee]]
+| <span class="date" style="white-space: nowrap;">April 15, 1865</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1869</span>
+| [[Political parties in the United States|Democratic]]<br /><small>[[Wikipedia:National Union Party (United States)|National Union]]</small><ref group="n" name="union" /><br />''Independent''<ref group="n" name="Andrew_Johnson-party" />
+| colspan="2" |''Vacant''<br /><ref group="n" name="25th Amend" />
+|-
+! rowspan="3" style="background: {{Republican Party (United States)/meta/color}};" | [[Wikipedia:Presidency of Ulysses S. Grant|{{color|white|18}}]]
+| rowspan="3" | {{CSS image crop|Image = UlyssesGrant.png|bSize = 125|cWidth = 100|cHeight = 133|oTop = 0|oLeft = 6}}
+| rowspan="3" | '''[[Wikipedia:Ulysses S. Grant|Ulysses S. Grant]]'''<br /><small>(1822–1885)</small><br />
+| rowspan="3" | [[Earth|Illinois]]
+| rowspan="3" | <span class="date" style="white-space: nowrap;">March 4, 1869</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1877</span>
+| rowspan="3" | [[Political parties in the United States|Republican]]
+| 21<br /><small>([[Wikipedia:United States presidential election, 1868|1868]])</small>
+| style="background: {{Republican Party (United States)/meta/color}};" |
+| [[Wikipedia:Schuyler Colfax|Schuyler Colfax]]<br /><small><span class="date" style="white-space: nowrap;">March 4, 1869</span> – <span class="date" style="white-space: nowrap;">March 4, 1873</span></small>
+|-
+| rowspan="2" | 22<br /><small>([[Wikipedia:United States presidential election, 1872|1872]])</small>
+| style="background: {{Republican Party (United States)/meta/color}};" |
+| [[Wikipedia:Henry Wilson|Henry Wilson]]<ref group="n" name="died" /><ref group="n" name="death" /><br /><small><span class="date" style="white-space: nowrap;">March 4, 1873</span> – <span class="date" style="white-space: nowrap;">November 22, 1875</span></small>
+|-
+| colspan="2" | ''Vacant''<ref group="n" name="25th Amend" /><br /><small><span class="date" style="white-space: nowrap;">November 22, 1875</span> – <span class="date" style="white-space: nowrap;">March 4, 1877</span></small>
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" | {{color|white|19}}
+| {{CSS image crop|Image = President Rutherford Hayes 1870 - 1880.jpg|bSize = 168|cWidth = 100|cHeight = 125|oTop = 4|oLeft = 38}}
+| '''[[Wikipedia:Rutherford B. Hayes|Rutherford B. Hayes]]'''<br /><small>(1822–1893)</small><br />
+| [[Earth|Ohio]]
+| <span class="date" style="white-space: nowrap;">March 4, 1877</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1881</span>
+| [[Political parties in the United States|Republican]]
+| 23<br /><small>([[Wikipedia:United States presidential election, 1876|1876]])</small>
+| style="background: {{Republican Party (United States)/meta/color}};" |
+| [[Wikipedia:William A. Wheeler|William A. Wheeler]]
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" | {{color|white|20}}
+| {{CSS image crop|Image = James Abram Garfield, photo portrait seated.jpg|bSize = 140|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 17}}
+| '''[[Wikipedia:James A. Garfield|James A. Garfield]]'''<br /><small>(1831–1881)</small><br />
+| [[Earth|Ohio]]
+| <span class="date" style="white-space: nowrap;">March 4, 1881</span><br/>–<br/><span class="date" style="white-space: nowrap;">September 19, 1881</span><br /><ref group="n" name="death" /><ref group="n" name="assassinated" />
+| [[Political parties in the United States|Republican]]
+| rowspan="2" | 24<br /><small>([[Wikipedia:United States presidential election, 1880|1880]])</small>
+| style="background: {{Republican Party (United States)/meta/color}};" |
+| [[Wikipedia:Chester A. Arthur|Chester A. Arthur]]
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" | {{color|white|21}}
+| {{CSS image crop|Image = Chester Alan Arthur.jpg|bSize = 150|cWidth = 100|cHeight = 125|oTop = 0|oLeft = 27}}
+| '''[[Wikipedia:Chester A. Arthur|Chester A. Arthur]]'''<br /><small>(1829–1886)</small><br />
+| [[Earth|New York]]
+| <span class="date" style="white-space: nowrap;">September 19, 1881</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1885</span>
+| [[Political parties in the United States|Republican]]
+| colspan="2" | ''Vacant''<ref group="n" name="25th Amend" />
+|-
+! rowspan="2" style="background: {{Democratic Party (United States)/meta/color}};" | {{color|white|22}}
+| rowspan="2" | [[File:StephenGroverCleveland.png|100px]]
+| rowspan="2" | '''[[Wikipedia:Grover Cleveland|Grover Cleveland]]'''<br /><small>(1837–1908)</small><br />
+| rowspan="2" | [[Earth|New York]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">March 4, 1885</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1889</span><br /><ref group="n" name="unseated" />
+| rowspan="2" | [[Political parties in the United States|Democratic]]
+| rowspan="2" | [[Wikipedia:Presidency of Grover Cleveland|25]]<br /><small>([[Wikipedia:United States presidential election, 1884|1884]])</small>
+| style="background: {{Democratic Party (United States)/meta/color}};" |
+| [[Wikipedia:Thomas A. Hendricks|Thomas A. Hendricks]]<ref group="n" name="died" /><ref group="n" name="death" /><br /><small><span class="date" style="white-space: nowrap;">March 4, 1885</span> – <span class="date" style="white-space: nowrap;">November 25, 1885</span></small>
+|-
+| colspan="2" | ''Vacant''<ref group="n" name="25th Amend" /><br /><small><span class="date" style="white-space: nowrap;">November 25, 1885</span> – <span class="date" style="white-space: nowrap;">March 4, 1889</span></small>
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" | {{color|white|23}}
+| {{CSS image crop|Image = Pach Brothers - Benjamin Harrison.jpg|bSize = 150|cWidth = 100|cHeight = 125|oTop = 30|oLeft = 26}}
+| '''[[Wikipedia:Benjamin Harrison|Benjamin Harrison]]'''<br /><small>(1833–1901)</small><br />
+| [[Earth|Indiana]]
+| <span class="date" style="white-space: nowrap;">March 4, 1889</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1893</span><br /><ref group="n" name="unseated"/>
+| [[Political parties in the United States|Republican]]
+| [[Wikipedia:Presidency of Benjamin Harrison|26]]<br /><small>([[Wikipedia:United States presidential election, 1888|1888]])</small>
+| style="background: {{Republican Party (United States)/meta/color}};" |
+| [[Wikipedia:Levi P. Morton|Levi P. Morton]]
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" | {{color|white|24}}
+| [[File:StephenGroverCleveland.png|100px]]
+| '''[[Wikipedia:Grover Cleveland|Grover Cleveland]]'''<br /><small>(1837–1908)</small><br /><ref name="HIS-grover" /><ref name="AP=grover" />
+| [[Earth|New York]]
+| <span class="date" style="white-space: nowrap;">March 4, 1893</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1897</span>
+| [[Political parties in the United States|Democratic]]
+| [[Wikipedia:Grover Cleveland#Second term as president (1893–1897)|27]]<br /><small>([[Wikipedia:United States presidential election, 1892|1892]])</small>
+| style="background: {{Democratic Party (United States)/meta/color}};" |
+| [[Wikipedia:Adlai Stevenson I|Adlai Stevenson]]
+|-
+! rowspan="3" style="background: {{Republican Party (United States)/meta/color}};" | {{color|white|25}}
+| rowspan="3" | {{CSS image crop|Image = William McKinley 1.png|bSize = 255|cWidth = 100|cHeight = 131|oTop = 23|oLeft = 85}}
+| rowspan="3" | '''[[Wikipedia:William McKinley|William McKinley]]'''<br /><small>(1843–1901)</small><br />
+| rowspan="3" | [[Earth|Ohio]]
+| rowspan="3" | <span class="date" style="white-space: nowrap;">March 4, 1897</span><br/>–<br/><span class="date" style="white-space: nowrap;">September 14, 1901</span><br /><ref group="n" name="death" /><ref group="n" name="assassinated" />
+| rowspan="3" | [[Political parties in the United States|Republican]]
+| rowspan="2" | 28<br /><small>([[Wikipedia:United States presidential election, 1896|1896]])</small>
+| style="background: {{Republican Party (United States)/meta/color}};" |
+| [[Wikipedia:Garret Hobart|Garret Hobart]]<ref group="n" name="died" /><br /><small><span class="date" style="white-space: nowrap;">March 4, 1897</span> – <span class="date" style="white-space: nowrap;">November 21, 1899</span></small>
+|-
+| colspan="2" | ''Vacant''<ref group="n" name="25th Amend" /><br /><small><span class="date" style="white-space: nowrap;">November 21, 1899</span> – <span class="date" style="white-space: nowrap;">March 4, 1901</span></small>
+|-
+| rowspan="2" | 29<br /><small>([[Wikipedia:United States presidential election, 1900|1900]])</small>
+| style="background: {{Republican Party (United States)/meta/color}};" |
+| [[Wikipedia:Theodore Roosevelt|Theodore Roosevelt]]<br /><small><span class="date" style="white-space: nowrap;">March 4, 1901</span> – <span class="date" style="white-space: nowrap;">September 14, 1901</span></small>
+|-
+! rowspan="2" style="background: {{Republican Party (United States)/meta/color}};" | [[Wikipedia:Presidency of Theodore Roosevelt|{{color|white|26}}]]
+| rowspan="2" | {{CSS image crop|Image = President Theodore Roosevelt, 1904.jpg|bSize = 140|cWidth = 100|cHeight = 125|oTop = 0|oLeft = 21}}
+| rowspan="2" | '''[[Wikipedia:Theodore Roosevelt|Theodore Roosevelt]]'''<br /><small>(1858–1919)</small><br />
+| rowspan="2" | [[Earth|New York]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">September 14, 1901</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1909</span><br /><ref group="n" name="broke" />
+| rowspan="2" | [[Political parties in the United States|Republican]]
+| colspan="2" | ''Vacant''<ref group="n" name="25th Amend" /><br /><small><span class="date" style="white-space: nowrap;">September 14, 1901</span> – <span class="date" style="white-space: nowrap;">March 4, 1905</span></small>
+|-
+| 30<br /><small>([[Wikipedia:United States presidential election, 1904|1904]])</small>
+| style="background: {{Republican Party (United States)/meta/color}};" |
+| [[Wikipedia:Charles W. Fairbanks|Charles W. Fairbanks]]<br /><small><span class="date" style="white-space: nowrap;">March 4, 1905</span> – <span class="date" style="white-space: nowrap;">March 4, 1909</span></small>
+|-
+! rowspan="2" style="background: {{Republican Party (United States)/meta/color}};" | {{color|white|27}}
+| rowspan="2" | {{CSS image crop|Image = William Howard Taft, Bain bw photo portrait, 1908.jpg|bSize = 100|cWidth = 100|cHeight = 125|oTop = 0|oLeft = 1}}
+| rowspan="2" | '''[[Wikipedia:William Howard Taft|William Howard Taft]]'''<br /><small>(1857–1930)</small><br />
+| rowspan="2" | [[Earth|Ohio]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">March 4, 1909</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1913</span><br /><ref group="n" name="unseated" />
+| rowspan="2" | [[Political parties in the United States|Republican]]
+| rowspan="2" | [[Wikipedia:Presidency of William Howard Taft|31]]<br /><small>([[Wikipedia:United States presidential election, 1908|1908]])</small>
+| style="background: {{Republican Party (United States)/meta/color}};" |
+| [[Wikipedia:James S. Sherman|James S. Sherman]]<ref group="n" name="died" /><ref group="n" name="death" /><br /><small><span class="date" style="white-space: nowrap;">March 4, 1909</span> – <span class="date" style="white-space: nowrap;">October 30, 1912</span></small>
+|-
+| colspan="2" | ''Vacant''<ref group="n" name="25th Amend" /><br /><small><span class="date" style="white-space: nowrap;">October 30, 1912</span> – <span class="date" style="white-space: nowrap;">March 4, 1913</span></small>
+|-
+! rowspan="2" style="background: {{Democratic Party (United States)/meta/color}};" | {{color|white|28}}
+| rowspan="2" | {{CSS image crop|Image = President Woodrow Wilson portrait December 2 1912.jpg|bSize = 130|cWidth = 100|cHeight = 125|oTop = 3|oLeft = 15}}
+| rowspan="2" | '''[[Wikipedia:Woodrow Wilson|Woodrow Wilson]]'''<br /><small>(1856–1924)</small><br />
+| rowspan="2" | [[Earth|New Jersey]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">March 4, 1913</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1921</span>
+| rowspan="2" | [[Political parties in the United States|Democratic]]
+| [[Wikipedia:Woodrow Wilson#First term, 1913–1917|32]]<br /><small>([[Wikipedia:United States presidential election, 1912|1912]])</small>
+| rowspan="2" style="background: {{Democratic Party (United States)/meta/color}};" |
+| rowspan="2" | [[Wikipedia:Thomas R. Marshall|Thomas R. Marshall]]
+|-
+| [[Wikipedia:Woodrow Wilson#Second term, 1917–1921|33]]<br /><small>([[Wikipedia:United States presidential election, 1916|1916]])</small>
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" | {{color|white|29}}
+| {{CSS image crop|Image = Warren G Harding-Harris & Ewing.jpg|bSize = 165|cWidth = 100|cHeight = 125|oTop = 0|oLeft = 28}}
+| '''[[Wikipedia:Warren G. Harding|Warren G. Harding]]'''<br /><small>(1865–1923)</small><br />
+| [[Earth|Ohio]]
+| <span class="date" style="white-space: nowrap;">March 4, 1921</span><br/>–<br/><span class="date" style="white-space: nowrap;">August 2, 1923</span><br /><ref group="n" name="death" /><ref group="n" name="died" />
+| [[Political parties in the United States|Republican]]
+| rowspan="2" | 34<br /><small>([[Wikipedia:United States presidential election, 1920|1920]])</small>
+| style="background: {{Republican Party (United States)/meta/color}};" |
+| [[Wikipedia:Calvin Coolidge|Calvin Coolidge]]
+|-
+! rowspan="2" style="background: {{Republican Party (United States)/meta/color}};" | {{color|white|30}}
+| rowspan="2" | {{CSS image crop|Image = John Calvin Coolidge, Bain bw photo portrait.jpg|bSize = 116|cWidth = 100|cHeight = 125|oTop = 0|oLeft = 4}}
+| rowspan="2" | '''[[Wikipedia:Calvin Coolidge|Calvin Coolidge]]'''<br /><small>(1872–1933)</small><br />
+| rowspan="2" | [[Earth|Massachusetts]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">August 2, 1923</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1929</span>
+| rowspan="2" | [[Political parties in the United States|Republican]]
+| colspan="2" | ''Vacant''<ref group="n" name="25th Amend" /><br /><small><span class="date" style="white-space: nowrap;">August 2, 1923</span> – <span class="date" style="white-space: nowrap;">March 4, 1925</span></small>
+|-
+| 35<br /><small>([[Wikipedia:United States presidential election, 1924|1924]])</small>
+| style="background: {{Republican Party (United States)/meta/color}};" |
+| [[Wikipedia:Charles G. Dawes|Charles G. Dawes]] <br /><small><span class="date" style="white-space: nowrap;">March 4, 1925</span> – <span class="date" style="white-space: nowrap;">March 4, 1929</span></small>
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" | {{color|white|31}}
+| {{CSS image crop|Image = HerbertHoover.jpg|bSize = 140|cWidth = 100|cHeight = 125|oTop = 5|oLeft = 12}}
+| '''[[Wikipedia:Herbert Hoover|Herbert Hoover]]'''<br /><small>(1874–1964)</small><br />
+| [[Earth|California]]
+| <span class="date" style="white-space: nowrap;">March 4, 1929</span><br/>–<br/><span class="date" style="white-space: nowrap;">March 4, 1933</span><br /><ref group="n" name="unseated" />
+| [[Political parties in the United States|Republican]]
+| [[Wikipedia:Presidency of Herbert Hoover|36]]<br /><small>([[Wikipedia:United States presidential election, 1928|1928]])</small>
+| style="background: {{Republican Party (United States)/meta/color}};" |
+| [[Wikipedia:Charles Curtis|Charles Curtis]]
+|- class="vevent"
+! rowspan="4" style="background: {{Democratic Party (United States)/meta/color}};" | {{color|white|32}}
+| rowspan="4" | {{CSS image crop|Image = Franklin D. Roosevelt - NARA - 196715.jpg|bSize = 112|cWidth = 100|cHeight = 125|oTop = 0|oLeft = 6}}
+| rowspan="4" | '''[[Wikipedia:Franklin D. Roosevelt|Franklin D. Roosevelt]]'''<br /><small>(1882–1945)</small><br />
+| rowspan="4" | [[Earth|New York]]
+| rowspan="4" | {{Start date|1933|3|4}}<br/>–<br/>{{End date|1945|4|12}}<br /><ref group="n" name="death" /><ref group="n" name="died" />
+| rowspan="4" class="category" | [[Political parties in the United States|Democratic]]
+| [[Wikipedia:Franklin D. Roosevelt#First term, 1933–1937|37]]<br /><small>([[Wikipedia:United States presidential election, 1932|1932]])</small><br /><ref group="n" name="20th_Amendment-term" />
+| rowspan="2" style="background: {{Democratic Party (United States)/meta/color}};" |
+| rowspan="2" | [[Wikipedia:John Nance Garner|John Nance Garner]]<br /><small><span class="date" style="white-space: nowrap;">March 4, 1933</span> – <span class="date" style="white-space: nowrap;">January 20, 1941</span></small>
+|-
+| [[Wikipedia:Franklin D. Roosevelt#Second term, 1937–1941|38]]<br /><small>([[Wikipedia:United States presidential election, 1936|1936]])</small>
+|-
+| [[Wikipedia:Franklin D. Roosevelt#Third term, 1941–1945|39]]<br /><small>([[Wikipedia:United States presidential election, 1940|1940]])</small>
+| style="background: {{Democratic Party (United States)/meta/color}};" |
+| [[Wikipedia:Henry A. Wallace|Henry A. Wallace]]<br /><small><span class="date" style="white-space: nowrap;">January 20, 1941</span> – <span class="date" style="white-space: nowrap;">January 20, 1945</span></small>
+|-
+| rowspan="2" | [[Wikipedia:Franklin D. Roosevelt#Fourth term and death.2C 1945|40]]<br /><small>([[Wikipedia:United States presidential election, 1944|1944]])</small>
+| style="background: {{Democratic Party (United States)/meta/color}};" |
+| [[Wikipedia:Harry S. Truman|Harry S. Truman]]<br /><small><span class="date" style="white-space: nowrap;">January 20, 1945</span> – <span class="date" style="white-space: nowrap;">April 12, 1945</span></small>
+|-
+! rowspan="2" style="background: {{Democratic Party (United States)/meta/color}};" | {{color|white|33}}
+| rowspan="2" | {{CSS image crop|Image = Harry-truman.jpg|bSize = 120|cWidth = 100|cHeight = 125|oTop = 0|oLeft = 11}}
+| rowspan="2" | '''[[Wikipedia:Harry S. Truman|Harry S. Truman]]'''<br /><small>(1884–1972)</small><br />
+| rowspan="2" | [[Earth|Missouri]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">April 12, 1945</span><br/>–<br/><span class="date" style="white-space: nowrap;">January 20, 1953</span>
+| rowspan="2" | [[Political parties in the United States|Democratic]]
+| colspan="2" | ''Vacant''<ref group="n" name="25th Amend" /><br /><small><span class="date" style="white-space: nowrap;">April 12, 1945</span> – <span class="date" style="white-space: nowrap;">January 20, 1949</span></small>
+|-
+| [[Wikipedia:Harry S. Truman#Second term (1949–1953)|41]]<br /><small>([[Wikipedia:United States presidential election, 1948|1948]])</small>
+| style="background: {{Democratic Party (United States)/meta/color}};" |
+| [[Wikipedia:Alben W. Barkley|Alben W. Barkley]]<br /><small><span class="date" style="white-space: nowrap;">January 20, 1949</span> – <span class="date" style="white-space: nowrap;">January 20, 1953</span></small>
+|-
+! rowspan="2" style="background: {{Republican Party (United States)/meta/color}};" | [[Wikipedia:Presidency of Dwight D. Eisenhower|{{color|white|34}}]]
+| rowspan="2" | {{CSS image crop|Image = Dwight D. Eisenhower, White House photo portrait, February 1959.jpg|bSize = 160|cWidth = 100|cHeight = 125|oTop = 15|oLeft = 35}}
+| rowspan="2" | '''[[Wikipedia:Dwight D. Eisenhower|Dwight D. Eisenhower]]'''<br /><small>(1890–1969)</small><br />
+| rowspan="2" | [[Earth|New York]] and [[Earth|Kansas]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 1953</span><br/>–<br/><span class="date" style="white-space: nowrap;">January 20, 1961</span><br /><ref group="n" name="Dwight_Eisenhower-term" />
+| rowspan="2" | [[Political parties in the United States|Republican]]
+| 42<br /><small>([[Wikipedia:United States presidential election, 1952|1952]])</small>
+| rowspan="2" style="background: {{Republican Party (United States)/meta/color}};" |
+| rowspan="2" | [[Wikipedia:Richard Nixon|Richard Nixon]]
+|-
+| 43<br /><small>([[Wikipedia:United States presidential election, 1956|1956]])</small>
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" | [[Wikipedia:Timeline of the presidency of John F. Kennedy|{{color|white|35}}]]
+| {{CSS image crop|Image = John Fitzgerald Kennedy.png|bSize = 125|cWidth = 100|cHeight = 125|oTop = 0|oLeft = 11}} 
+| '''[[Wikipedia:John F. Kennedy|John F. Kennedy]]'''<br /><small>(1917–1963)</small><br />
+| [[Earth|Massachusetts]]
+| <span class="date" style="white-space: nowrap;">January 20, 1961</span><br/>–<br/><span class="date" style="white-space: nowrap;">November 22, 1963</span><br /><ref group="n" name="death" /><ref group="n" name="assassinated" />
+| [[Political parties in the United States|Democratic]]
+| rowspan="2" | 44<br /><small>([[Wikipedia:United States presidential election, 1960|1960]])</small>
+| style="background: {{Democratic Party (United States)/meta/color}};" |
+| [[Wikipedia:Lyndon B. Johnson|Lyndon B. Johnson]]
+|-
+! rowspan="2" style="background: {{Democratic Party (United States)/meta/color}};" | {{color|white|36}}
+| rowspan="2" | {{CSS image crop|Image = Lyndon B. Johnson, photo portrait, leaning on chair, color.jpg|bSize = 380|cWidth = 100|cHeight = 125|oTop = 138|oLeft = 143}}
+| rowspan="2" | '''[[Wikipedia:Lyndon B. Johnson|Lyndon B. Johnson]]'''<br /><small>(1908–1973)</small><br />
+| rowspan="2" | [[Earth|Texas]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">November 22, 1963</span><br/>–<br/><span class="date" style="white-space: nowrap;">January 20, 1969</span>
+| rowspan="2" | [[Political parties in the United States|Democratic]]
+| colspan="2" | ''Vacant''<ref group="n" name="25th Amend" /><br /><small><span class="date" style="white-space: nowrap;">November 22, 1963</span> – <span class="date" style="white-space: nowrap;">January 20, 1965</span></small>
+|-
+| 45<br /><small>([[Wikipedia:United States presidential election, 1964|1964]])</small>
+| style="background: {{Democratic Party (United States)/meta/color}};" |
+| [[Wikipedia:Hubert Humphrey|Hubert Humphrey]]<br /><small><span class="date" style="white-space: nowrap;">January 20, 1965</span> – <span class="date" style="white-space: nowrap;">January 20, 1969</span></small>
+|-
+! rowspan="4" style="background: {{Republican Party (United States)/meta/color}};" | {{color|white|37}}
+| rowspan="4" | {{CSS image crop|Image =Richard M. Nixon, ca. 1935 - 1982 - NARA - 530679.jpg|bSize = 125|cWidth = 100|cHeight = 125|oTop = 5|oLeft = 10}}
+| rowspan="4" | '''[[Wikipedia:Richard Nixon|Richard Nixon]]'''<br /><small>(1913–1994)</small><br />
+| rowspan="4" | [[Earth|California]]
+| rowspan="4" | <span class="date" style="white-space: nowrap;">January 20, 1969</span><br/>–<br/><span class="date" style="white-space: nowrap;">August 9, 1974</span><br /><ref group="n" name="resigned" />
+| rowspan="4" | [[Political parties in the United States|Republican]]
+| 46<br /><small>([[Wikipedia:United States presidential election, 1968|1968]])</small>
+| style="background: {{Republican Party (United States)/meta/color}};" |
+| rowspan="2" | [[Wikipedia:Spiro Agnew|Spiro Agnew]]<ref group="n" name="resigned" /><br /><small><span class="date" style="white-space: nowrap;">January 20, 1969</span> – <span class="date" style="white-space: nowrap;">October 10, 1973</span></small>
+|-
+| rowspan="5" | 47<br /><small>([[Wikipedia:United States presidential election, 1972|1972]])</small>
+| style="background: {{Republican Party (United States)/meta/color}};" | &nbsp;
+|-
+| colspan="2" | ''Vacant''<ref group="n" name="25th Amend" /><br /><small><span class="date" style="white-space: nowrap;">October 10, 1973</span> – <span class="date" style="white-space: nowrap;">December 6, 1973</span></small>
+|-
+| style="background: {{Republican Party (United States)/meta/color}};" |
+| [[Wikipedia:Gerald Ford|Gerald Ford]]<br /><small><span class="date" style="white-space: nowrap;">December 6, 1973</span> – <span class="date" style="white-space: nowrap;">August 9, 1974</span></small>
+|-
+! rowspan="2" style="background: {{Republican Party (United States)/meta/color}};" | {{color|white|38}}
+| rowspan="2" | {{CSS image crop|Image = Gerald Ford.jpg|bSize = 180|cWidth = 100|cHeight = 125|oTop = 35|oLeft = 50}}
+| rowspan="2" | '''[[Wikipedia:Gerald Ford|Gerald Ford]]'''<br /><small>(1913–2006)</small><br />
+| rowspan="2" | [[Earth|Michigan]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">August 9, 1974</span><br/>–<br/><span class="date" style="white-space: nowrap;">January 20, 1977</span><br /><ref group="n" name="unsuccessful" />
+| rowspan="2" | [[Political parties in the United States|Republican]]
+| colspan="2" | ''Vacant''<ref group="n" name="25th Amend" /><br /><small><span class="date" style="white-space: nowrap;">August 9, 1974</span> – <span class="date" style="white-space: nowrap;">December 19, 1974</span></small>
+|-
+| style="background: {{Republican Party (United States)/meta/color}};" |
+| [[Wikipedia:Nelson Rockefeller|Nelson Rockefeller]]<br /><small><span class="date" style="white-space: nowrap;">December 19, 1974</span> – <span class="date" style="white-space: nowrap;">January 20, 1977</span></small>
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" | [[Wikipedia:Presidency of Jimmy Carter|{{color|white|39}}]]
+| {{CSS image crop|Image = JimmyCarterPortrait.jpg|bSize = 180|cWidth = 100|cHeight = 125|oTop = 40|oLeft = 42}}
+| '''[[Wikipedia:Jimmy Carter|Jimmy Carter]]'''<br /><small>(1924–2024)</small><br />
+| [[Earth|Georgia]]
+| <span class="date" style="white-space: nowrap;">January 20, 1977</span><br/>–<br/><span class="date" style="white-space: nowrap;">January 20, 1981</span><br /><ref group="n" name="unseated" />
+| [[Political parties in the United States|Democratic]]
+| [[Wikipedia:Presidency of Jimmy Carter|48]]<br /><small>([[Wikipedia:United States presidential election, 1976|1976]])</small>
+| style="background: {{Democratic Party (United States)/meta/color}};" |
+| [[Wikipedia:Walter Mondale|Walter Mondale]]
+|-
+! rowspan="2" style="background: {{Republican Party (United States)/meta/color}};" | [[Wikipedia:Presidency of Ronald Reagan|{{color|white|40}}]]
+| rowspan="2" | {{CSS image crop|Image = Official Portrait of President Reagan 1981.jpg|bSize = 150|cWidth = 100|cHeight = 125|oTop = 7|oLeft = 42}}
+| rowspan="2" | '''[[Wikipedia:Ronald Reagan|Ronald Reagan]]'''<br /><small>(1911–2004)</small><br />
+| rowspan="2" | [[Earth|California]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 1981</span><br/>–<br/><span class="date" style="white-space: nowrap;">January 20, 1989</span>
+| rowspan="2" | [[Political parties in the United States|Republican]]
+| [[Wikipedia:Ronald Reagan#First term, 1981–1985|49]]<br /><small>([[Wikipedia:United States presidential election, 1980|1980]])</small>
+| rowspan="2" style="background: {{Republican Party (United States)/meta/color}};" |
+| rowspan="2" | [[Wikipedia:George H. W. Bush|George H. W. Bush]]
+|-
+| [[Wikipedia:Ronald Reagan#Second term, 1985–1989|50]]<br /><small>([[Wikipedia:United States presidential election, 1984|1984]])</small>
+|-
+! style="background: {{Republican Party (United States)/meta/color}};" | [[Wikipedia:Presidency of George H. W. Bush|{{color|white|41}}]]
+| {{CSS image crop|Image = George H. W. Bush, President of the United States, 1989 official portrait.jpg|bSize = 200|cWidth = 100|cHeight = 125|oTop = 0|oLeft = 68}}
+| '''[[Wikipedia:George H. W. Bush|George H.W. Bush]]'''<br /><small>(1924–2018)</small><br />
+| [[Earth|Texas]]
+| <span class="date" style="white-space: nowrap;">January 20, 1989</span><br/>–<br/><span class="date" style="white-space: nowrap;">January 20, 1993</span><br /><ref group="n" name="unseated" />
+| [[Political parties in the United States|Republican]]
+| [[Wikipedia:Presidency of George H. W. Bush|51]]<br /><small>([[Wikipedia:United States presidential election, 1988|1988]])</small>
+| style="background: {{Republican Party (United States)/meta/color}};" |
+| [[Wikipedia:Dan Quayle|Dan Quayle]]
+|-
+! rowspan="2" style="background: {{Democratic Party (United States)/meta/color}};" | [[Wikipedia:Presidency of Bill Clinton|{{color|white|42}}]]
+| rowspan="2" |{{CSS image crop|Image = Bill Clinton.jpg|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" | '''[[Wikipedia:Bill Clinton|Bill Clinton]]'''<br /><small>(1946–2038)</small><br />
+| rowspan="2" | [[Earth|Arkansas]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 1993</span><br/>–<br/><span class="date" style="white-space: nowrap;">January 20, 2001</span>
+| rowspan="2" | [[Political parties in the United States|Democratic]]
+| [[Wikipedia:Bill Clinton#First term, 1993–1997|52]]<br /><small>([[Wikipedia:United States presidential election, 1992|1992]])</small>
+| rowspan="2" style="background: {{Democratic Party (United States)/meta/color}};" |
+| rowspan="2" | [[Wikipedia:Al Gore|Al Gore]]
+|-
+| [[Wikipedia:Bill Clinton#Second term, 1997–2001|53]]<br /><small>([[Wikipedia:United States presidential election, 1996|1996]])</small>
+|-
+! rowspan="2" style="background: {{Republican Party (United States)/meta/color}};" | [[Wikipedia:Presidency of George W. Bush|{{color|white|43}}]]
+| rowspan="2" | {{CSS image crop|Image = George-W-Bush.jpeg|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" | '''[[Wikipedia:George W. Bush|George W. Bush]]'''<br /><small>(1946–2038)</small><br />
+| rowspan="2" | [[Earth|Texas]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 2001</span><br/>–<br/><span class="date" style="white-space: nowrap;">January 20, 2009</span>
+| rowspan="2" | [[Political parties in the United States|Republican]]
+| [[Wikipedia:George W. Bush's first term as President of the United States|54]]<br /><small>([[Wikipedia:United States presidential election, 2000|2000]])</small>
+| rowspan="2" style="background: {{Republican Party (United States)/meta/color}};" |
+| rowspan="2" | [[Wikipedia:Dick Cheney|Dick Cheney]]
+|-
+| [[Wikipedia:George W. Bush's second term as President of the United States|55]]<br /><small>([[Wikipedia:United States presidential election, 2004|2004]])</small>
+|-
+! rowspan="2" ! style="background: {{Democratic Party (United States)/meta/color}};" | [[Wikipedia:Presidency of Barack Obama|{{color|white|44}}]]
+| rowspan="2" | {{CSS image crop|Image = President Barack Obama.jpg|bSize = 205|cWidth = 100|cHeight = 125|oTop = 0|oLeft = 48}}
+| rowspan="2" | '''[[Wikipedia:Barack Obama|Barack Obama]]'''<br /><small>(1961–2056)</small><br />
+| rowspan="2" | [[Earth|Illinois]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 2009</span><br/>–<br/>January 20, 2017
+| rowspan="2" | [[Political parties in the United States|Democratic]]
+| [[Wikipedia:Presidency of Barack Obama|56]]<br /><small>([[Wikipedia:United States presidential election, 2008|2008]])</small>
+| rowspan="2" style="background: {{Democratic Party (United States)/meta/color}};" |
+| rowspan="2" | [[Wikipedia:Joe Biden|Joe Biden]]
+|-
+| [[Wikipedia:Barack Obama's second term as President of the United States|57]]<br /><small>([[Wikipedia:United States presidential election, 2012|2012]])</small>
+|-
+! style="background:  {{Republican Party (United States)/meta/color}};" | {{color|white|45}}
+| {{CSS image crop|Image = Donald_Trump.jpg|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| '''[https://en.wikipedia.org/wiki/Donald_Trump Donald Trump]'''<br /><small>(1946–2038)</small><br />
+| [[Earth|New York]]
+| <span class="date" style="white-space: nowrap;">January 20, 2017</span><br/>–<br/><span class="date" style="white-space: nowrap;">January 20, 2021</span><br><ref group ="n" name="unseated" />
+| [[Political parties in the United States|Republican]]
+| 58<br /><small>([[Wikipedia:United States presidential election, 2016|2016]])</small>
+| style="background: {{Republican Party (United States)/meta/color}};" |
+| Mike Pence
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" | [[Wikipedia:Presidency of Joe_Biden|{{color|white|46}}]]
+| {{CSS image crop|Image = Joe Biden.jpg|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|pLeft=7}}
+| '''[[Wikipedia:Joe_Biden|Joe Biden]]'''<br /><small>(1942-2039)</small><br />
+| [[Earth|Delaware]]
+| <span class="date" style="white-space: nowrap;">January 20, 2021</span><br/>–<br/><span class="date" style="white-space: nowrap;">January 20, 2025</span><br />
+| [[Political parties in the United States|Democratic]]
+| [[Wikipedia:Presidency of Joe_Biden|59]]<br /><small>([[United States presidential election, 2020|2020]])</small>
+| style="background: {{Democratic Party (United States)/meta/color}};" |
+| [[Wikipedia:Kamala_Harris|Kamala Harris]]
+|-
+! rowspan="2" style="background: {{Republican Party (United States)/meta/color}};" | {{color|white|47}}
+| rowspan="2" | {{CSS image crop|Image = Donald_Trump.jpg|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" | '''Donald Trump'''<br /><small>(1946–2038)</small>
+| rowspan="2" | Florida
+| rowspan="2" | <span class="date" style= white-space:nowrap;">January 20, 2025</span><br/>-<br/>
+--
+January 20, 2029.
+| 
+|-
+| [[Political parties in the United States|Democratic]]
+| 60<br /><small>([[United States presidential election, 2024|2024]])</small>
+|style="background: {{Republican Party (United States)/meta/color}};" |
+|J D Vance
+|-
+! rowspan="2" style="background: {{Democratic Party (United States)/meta/color}};" | {{color|white|48}}
+| rowspan="2" | {{CSS image crop|Image =  Alexandria Ocasio-Cortez Official Portrait.jpg|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" | '''[[Alexandria Ocasio-Cortez]]'''<br /><small>(1989–2112)</small>
+| rowspan="2" | [[Earth|New York]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 2029</span><br/>–<br/><span class="date" style="white-space: nowrap;">January 20, 2037</span>
+| [[Political parties in the United States|Democratic]]
+| 61<br /><small>([[United States presidential election, 2028|2028]])</small>
+| rowspan="2" style="background: {{Democratic Party (United States)/meta/color}};" |
+| rowspan="2" | Dylan J. Price
+|-
+| 62<br /><small>([[United States presidential election, 2032|2032]])</small>
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" | {{color|white|49}}
+| {{CSS image crop|Image = Dylan J Price.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| '''[[Dylan J. Price]]'''<br /><small>(1985–2093)</small>
+| [[Earth|California]]
+| <span class="date" style="white-space: nowrap;">January 20, 2037</span><br/>–<br/><span class="date" style="white-space: nowrap;">January 20, 2045</span>
+| [[Political parties in the United States|Democratic]]
+| 63<br /><small>([[United States presidential election, 2036|2036]])</small>
+| style="background: {{Democratic Party (United States)/meta/color}};" |
+| Ivory Toldson
+|-
+! rowspan="2" style="background: {{Democratic Party (United States)/meta/color}};" | {{color|white|50}}
+| rowspan="2" | {{CSS image crop|Image = Maya_Garcia_Blank.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" | '''[[Maya Garcia]]'''<br /><small>(1984–2104)</small>
+| rowspan="2" | [[Earth|Texas]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 2045</span><br/>–<br/><span class="date" style="white-space: nowrap;">January 20, 2049</span>
+| [[Political parties in the United States|Democratic]]
+| 
+| rowspan="2" style="background: {{Democratic Party (United States)/meta/color}};" |
+| rowspan="2" | Edward Lane
+|-
+| 65<br /><small>([[United States presidential election, 2044|2044]])</small>
+|-
+! rowspan="2" style="background: {{Democratic Party (United States)/meta/color}};" | {{color|white|51}}
+| rowspan="2" | {{CSS image crop|Image = Blank_Jacobi.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" | '''[[Evalyn Jacobi]]'''<br /><small>(1991–2059)</small>
+| rowspan="2" | [[Earth|Washington]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 2049</span><br/>–<br/><span class="date" style="white-space: nowrap;">January 20, 2057</span>
+| rowspan="2" | [[Political parties in the United States|Democratic]]
+| 66<br /><small>([[United States presidential election, 2048|2048]])</small>
+| rowspan="2" style="background: {{Democratic Party (United States)/meta/color}};" |
+| rowspan="2" | Dan Forest
+|-
+| 67<br /><small>([[United States presidential election, 2052|2052]])</small>
+|-
+! style="background: {{Democratic Party (United States)/meta/color}};" | {{color|white|52}}
+| {{CSS image crop|Image = Blank_Person.jpg|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| '''[[Dan Forest]]'''<br /><small>(1995–2119)</small>
+| [[Earth|Indiana]]
+| <span class="date" style="white-space: nowrap;">January 20, 2057</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2061</span>
+| [[Political parties in the United States|Democratic]]
+| 68<br /><small>([[United States presidential election, 2056|2056]])</small>
+| style="background: {{Democratic Party (United States)/meta/color}};" |
+| Owen Wood
+|-
+! style="background: {{Progress Party (United States)/meta/color}};" |  {{color|white|53}}
+| {{CSS image crop|Image = Reed_Chen_Blank.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| '''[[Reed Chen]]'''<br /><small>(1995–2090)</small>
+| [[Earth|Oregon]]
+| <span class="date" style="white-space: nowrap;">January 20, 2061</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2065</span>
+| [[Progress Party (United States)|Progress]]
+| 69<br /><small>([[United States presidential election, 2060|2060]])</small>
+| style="background: {{Progress Party (United States)/meta/color}};" |
+| Andrew Markwalter
+|-
+! rowspan="2" style="background: {{Liberal Party (United States)/meta/color}};" |  {{color|white|54}}
+| rowspan="2" | {{CSS image crop|Image = Carla_Anderson_Blank.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" | '''[[Carla Anderson]]'''<br /><small>(born 2009)</small>
+| rowspan="2" | [[Earth|Wisconsin]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 2065</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2073</span>
+| rowspan="2" | [[Liberal Party (United States)|Liberal]]
+| 70<br /><small>([[United States presidential election, 2064|2064]])</small>
+| rowspan="2" style="background: {{Progress Party (United States)/meta/color}};" |
+| rowspan="2" |  Lise Duchesne
+|-
+| 71<br /><small>([[United States presidential election, 2068|2068]])</small>
+|-
+! style="background: {{Progress Party (United States)/meta/color}};" |  {{color|white|55}}
+| {{CSS image crop|Image = Blank_Woman.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| '''[[Lise Duchesne]]'''<br /><small>(2024–2113)</small>
+| [[Earth|New Mexico]]
+| <span class="date" style="white-space: nowrap;">January 20, 2073</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2077</span>
+| [[Progress Party (United States)|Progressive]]
+| 72<br /><small>([[United States presidential election, 2072|2072]])</small>
+| style="background: {{Progress Party (United States)/meta/color}};" |
+| Lewis Point Jr.
+|-
+! style="background: {{Progress Party (United States)/meta/color}};" |  {{color|white|56}}
+| {{CSS image crop|Image = Horace_Fadel_Blank.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| '''[[Horace Fadel]]'''<br /><small>(2029–2144)</small>
+| [[Earth|Idaho]]
+| <span class="date" style="white-space: nowrap;">January 20, 2077</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2081</span>
+| [[Progress Party (United States)|Progressive]]
+| 73<br /><small>([[United States presidential election, 2076|2076]])</small>
+| style="background: {{Progress Party (United States)/meta/color}};" |
+| Lisa Chan
+|-
+! rowspan="2" style="background: {{Conservative Party (United States)/meta/color}};" |  {{color|white|57}}
+| rowspan="2" | {{CSS image crop|Image = Oscar_Larchman_Blank.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" | '''[[Oscar Lachman]]'''<br /><small>(2021-2136)</small>
+| rowspan="2" | [[Earth|Colorado]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 2081</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2089</span>
+| rowspan="2" | [[Horizon Party (United States)|Horizon]]
+| 74<br /><small>([[United States presidential election, 2080|2080]])</small>
+| rowspan="2" style="background: {{Conservative Party (United States)/meta/color}};" |
+| rowspan="2" |  Joe P. Kennedy IV
+|-
+| 75<br /><small>([[United States presidential election, 2084|2084]])</small>
+|-
+! style="background: {{Conservative Party (United States)/meta/color}};" |  {{color|white|58}}
+| {{CSS image crop|Image = Rayleen_Malakar_Blank.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| '''[[Rayleen Malakar]]'''<br /><small>(2035–2144)</small>
+| [[Earth|California]]
+| <span class="date" style="white-space: nowrap;">January 20, 2089</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2093</span>
+| [[Horizon Party (United States)|Horizon]]
+| 76<br /><small>([[United States presidential election, 2088|2088]])</small>
+| style="background: {{Conservative Party (United States)/meta/color}};" |
+| Caroline Shelby
+|-
+! style="background: {{Progress Party (United States)/meta/color}};" |  {{color|white|59}}
+| {{CSS image crop|Image = Seras_Stultz_Blank.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| '''[[Seras Stultz]]'''<br /><small>(born 2045)</small>
+| [[Earth|Cascadia]]
+| <span class="date" style="white-space: nowrap;">January 20, 2093</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2097</span>
+| [[Progressive Party (United States)|Progress]]
+| 77<br /><small>([[United States presidential election, 2092|2092]])</small>
+| style="background: {{Progress Party (United States)/meta/color}};" |
+| Iona Molnau
+|-
+! rowspan="2" style="background: {{Conservative Party (United States)/meta/color}};" |  {{color|white|60}}
+| rowspan="2" | {{CSS image crop|Image = Tom_Steele_.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" | '''[[Tom Steele]]'''<br /><small>(2049-2159)</small>
+| rowspan="2" | [[Earth|Ontario]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 2097</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2105</span>
+| rowspan="2" | [[Conservative Party (United States)|Horizon]]
+| 78<br /><small>([[United States presidential election, 2096|2096]])</small>
+| rowspan="2" style="background: {{Conservative Party (United States)/meta/color}};" |
+| rowspan="2" |  Lala Somerfield
+|-
+| 79<br /><small>([[United States presidential election, 2100|2100]])</small>
+|-
+! style="background: {{Progress Party (United States)/meta/color}};" |  {{color|white|61}}
+| {{CSS image crop|Image = Estela_La_Riva_Blank.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| '''[[Estela La Riva]]'''<br /><small>(born 2055)</small>
+| [[Earth|Arizona]]
+| <span class="date" style="white-space: nowrap;">January 20, 2105</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2109</span>
+| [[Progress Party (United States)|Progressive]]
+| 80<br /><small>([[United States presidential election, 2104|2104]])</small>
+| style="background: {{Progress Party (United States)/meta/color}};" |
+| Miriam Weinstein
+|-
+! rowspan="2" style="background: {{Conservative Party (United States)/meta/color}};" |  {{color|white|62}}
+| rowspan="2" | {{CSS image crop|Image = Stewart_M_Li_Blank.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" | '''[[Stewart M. Li]]'''<br /><small>(born 2061)</small>
+| rowspan="2" | [[Earth|Alberta]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 2109</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2117</span>
+| rowspan="2" | [[Horizon Party (United States)|Horizon]]
+| 81<br /><small>([[United States presidential election, 2108|2108]])</small>
+| rowspan="2" style="background: {{Conservative Party (United States)/meta/color}};" |
+| rowspan="2" | Aaron Stultz
+|-
+| 82<br /><small>([[United States presidential election, 2112|2112]])</small>
+|-
+! style="background: {{Conservative Party (United States)/meta/color}};" |  {{color|white|63}}
+| {{CSS image crop|Image = Blank_Person.jpg|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| '''[[Christopher Reagan]]'''<br /><small>(born 2066)</small>
+| [[Earth|Colorado]]
+| <span class="date" style="white-space: nowrap;">January 20, 2117</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2121</span>
+| [[Horizon Party (United States)|Horizon]]
+| 83<br /><small>([[United States presidential election, 2116|2116]])</small>
+| style="background: {{Conservative Party (United States)/meta/color}};" |
+| Eliza Jin Tao
+|-
+! rowspan="2" style="background: {{Progress Party (United States)/meta/color}};" |  {{color|white|64}}
+| rowspan="2" | {{CSS image crop|Image = Miriam_Weinstein.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" | '''[[Miriam Weinstein]]'''<br /><small>(born 2052)</small>
+| rowspan="2" | [[Earth|Georgia]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 2121</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2129</span>
+| rowspan="2" | [[Progress Party (United States)|Progress]]
+| 84<br /><small>([[United States presidential election, 2120|2120]])</small>
+| rowspan="2" style="background: {{Progress Party (United States)/meta/color}};" |
+| rowspan="2" | Avery Johnson
+|-
+| 85<br /><small>([[United States presidential election, 2124|2124]])</small>
+|-
+! style="background: {{Conservative Party (United States)/meta/color}};" |  {{color|white|65}}
+| {{CSS image crop|Image = Thang_Levin_Blank.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| '''[[Thang Levin]]'''<br /><small>(born 2084)</small>
+| [[Earth|Oregon]]
+| <span class="date" style="white-space: nowrap;">January 20, 2129</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2133</span>
+| [[Horizon Party (United States)|Horizon]]
+| 86<br /><small>([[United States presidential election, 2128|2128]])</small>
+| style="background: {{Mexicano Libres Party (United States)/meta/color}};" |
+| David Castillo
+|-
+! rowspan="2" style="background: {{Union Party (United States)/meta/color}};" |  {{color|white|66}}
+| rowspan="2" | {{CSS image crop|Image = Halvidar_Blank.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" | '''[[Lionel Halvidar]]'''<br /><small>(1991–2160)</small>
+| rowspan="2" | [[Mars|Bradbury]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 2133</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2141</span>
+| rowspan="2" | [[Union Party (United States)|Union]]
+| 87<br /><small>([[United States presidential election, 2132|2132]])</small>
+| rowspan="2" style="background: {{Union Party (United States)/meta/color}};" |
+| rowspan="2" | Cora Fabian
+|-
+| 88<br /><small>([[United States presidential election, 2136|2136]])</small>
+|-
+! rowspan="2" style="background: {{Union Party (United States)/meta/color}};" |  {{color|white|67}}
+| rowspan="2" | {{CSS image crop|Image = Cora_Fabian_Blank.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" | '''[[Cora Fabian]]'''<br /><small>(born 2094)</small>
+| rowspan="2" | [[Earth|England]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 2141</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2149</span>
+| rowspan="2" | [[Union Party (United States)|Union]]
+| 89<br /><small>([[United States presidential election, 2140|2140]])</small>
+| rowspan="2" style="background: {{Union Party (United States)/meta/color}};" |
+| rowspan="2" | Mika Sakahki
+|-
+| 90<br /><small>([[United States presidential election, 2144|2144]])</small>
+|-
+! rowspan="2" style="background: {{Union Party (United States)/meta/color}};" |  {{color|white|68}}
+| rowspan="2" | {{CSS image crop|Image =Zaya_Blank.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" | '''[[Ha-eun Zaya]]'''<br /><small>(born 2081)</small>
+| rowspan="2" | [[Jupiter|Xibalba]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 2149</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2157</span>
+| rowspan="2" | [[Union Party (United States)|Union]]
+| 91<br /><small>([[United States presidential election, 2148|2148]])</small>
+| rowspan="2" style="background: {{Union Party (United States)/meta/color}};" |
+| rowspan="2" | Joaquin Vega
+|-
+| 92<br /><small>([[United States presidential election, 2152|2152]])</small>
+|-
+|-
+! rowspan="2" style="background: {{United Republican Party (United States)/meta/color}};" |  {{color|white|69}}
+| rowspan="2" | {{CSS image crop|Image = Dom_Terragno_Blank.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" | '''[[Dom Terragno]]'''<br /><small>(born 2109)</small>
+| rowspan="2" | [[Earth|Ecuador]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 2157</span><br />–<br /><span class="date" style="white-space: nowrap;">Present</span>
+| rowspan="2" | [[United Republican Party (United States)|United Progressive]]
+| 93<br /><small>([[United States presidential election, 2156|2156]])</small>
+| rowspan="2" style="background: {{United Republican Party (United States)/meta/color}};" |
+| rowspan="2" | Horace Fitzgerald
+|-
+| 94<br /><small>([[United States presidential election, 2160|2160]])</small>
+|-
+!'''70'''
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|-
+!'''71'''
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|-
+!'''72'''
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|-
+!'''73'''
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|-
+!'''74'''
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|-
+!'''75'''
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|-
+!'''76'''
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|-
+!'''77'''
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|-
+!'''78'''
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|-
+!'''79'''
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|N/A
+|}
+
+==Notes==
+#Three presidents are counted above with multiple political affiliations: John Tyler (Whig, ''Unaffiliated''), Abraham Lincoln (Republican, National Union), and Andrew Johnson (National Union, Democratic).
+#The presidents are numbered according to uninterrupted periods of time served by the same person. For example, George Washington served two consecutive terms and is counted as the first president (not the first and second). Upon the resignation of 37th president Richard Nixon, Gerald Ford became the 38th president even though he simply served out the remainder of Nixon's second term and was never elected to the presidency in his own right. Grover Cleveland was both the 22nd president and the 24th president because his two terms were not consecutive. A vice president who temporarily becomes acting president under the Twenty-fifth Amendment to the Constitution is not counted, because the president remains in office during such a period.
+#Listed here is the most recent office (either with a U.S. state or the federal government) held by the individual prior to becoming president.
+#Due to logistical delays, instead of being inaugurated on March 4, 1789, the date scheduled for operations of the federal government under the new Constitution to begin, Washington's first inauguration was held 1 month and 26 days later. As a result, his first term was only 1,404 days long (as opposed to the usual 1,461), and was the shortest term for a U.S. president who served a full term.
+#Political parties had not been anticipated when the Constitution was drafted in 1787 and ratified in 1788, nor did they exist at the time of the first presidential election in 1788–89. When they did develop, during Washington's first term, Adams joined the faction that became the Federalist Party. The elections of 1792 were the first ones in the United States that were contested on anything resembling a partisan basis.
+#Due to logistical delays, Adams assumed the office of Vice President 1 month and 17 days after the March 4, 1789 scheduled start of operations of the new government under the Constitution. As a result, his first term was only 1,413 days long, and was the shortest term for a U.S. vice president who served a full term.
+#The 1796 presidential election was the first contested American presidential election and the only one in which a president and vice president were elected from opposing political parties. Federalist John Adams was elected president, and Jefferson of the Democratic-Republicans was elected vice president.
+#John Calhoun, formerly a Democratic-Republican, founded the [[Nullifier Party]] in 1828 to oppose the [[Tariff of Abominations|Tariff of 1828]] and advance the cause of [[states' rights]], but was brought on as Andrew Jackson's running mate in the 1828 presidential election in an effort to broaden the democratic coalition led by Jackson.
+#John Tyler was sworn in as president on April 6, 1841.
+#John Tyler, a former Democrat, ran for vice president on the Whig Party ticket with Harrison in 1840. Tyler's policy priorities as president soon proved to be opposed to most of the Whig agenda, and he was expelled from the party in September 1841.
+#Millard Fillmore was sworn in as president on July 10, 1850.
+#When he ran for reelection in 1864, Republican Abraham Lincoln formed a bipartisan [[electoral alliance]] with [[War Democrat]]s by selecting Democrat Andrew Johnson as his running mate, and running on the National Union Party ticket.
+#Democrat Andrew Johnson ran for vice president on the National Union Party ticket with Republican Abraham Lincoln in 1864. Later, while president, Johnson tried and failed to build a party of loyalists under the National Union banner. Near the end of his presidency, Johnson rejoined the Democratic Party.
+#Chester A. Arthur was initially sworn in as president on September 20, 1881, and then again on September 22.
+#Calvin Coolidge was initially sworn in as president on August 3, 1923, and then again on August 21.
+#The [[Twentieth Amendment to the United States Constitution]] (ratified on January 23, 1933) moved [[United States presidential inauguration|Inauguration Day]] from March 4 to January 20, beginning in 1937. As a result, Garner's first term in office was 1 month and 12 days shorter than a normal term.
+
+==References==
+<references/>
+[[Category:Presidents of the United States]]

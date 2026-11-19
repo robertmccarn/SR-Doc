@@ -1,0 +1,743 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Provenance-preserving local mirror and continuity workspace">
+      
+      
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.8.2">
+    
+    
+      
+        <title>Module:TableTools - Second Renaissance Narrative Archive</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.57a0d79d.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#moduletabletools" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Second Renaissance Narrative Archive" class="md-header__button md-logo" aria-label="Second Renaissance Narrative Archive" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Second Renaissance Narrative Archive
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Module:TableTools
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Second Renaissance Narrative Archive" class="md-nav__button md-logo" aria-label="Second Renaissance Narrative Archive" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Second Renaissance Narrative Archive
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../source-index/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Source corpus
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../gold-index/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Narrative workspace
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../continuity-report/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Continuity report
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#preserved-source" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Preserved source
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#provenance" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Provenance
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="moduletabletools">Module:TableTools</h1>
+<h2 id="preserved-source">Preserved source</h2>
+<pre><code class="language-wikitext">--[------------------------------------------------------------------------------------
+--                               TableTools                                       --
+--                                                                                --
+-- This module includes a number of functions for dealing with Lua tables.        --
+-- It is a meta-module, meant to be called from other Lua modules, and should     --
+-- not be called directly from](https://second-renaissance.fandom.com/wiki/------------------------------------------------------------------------------------
+--_______________________________TableTools_______________________________________--
+--________________________________________________________________________________--
+--_This_module_includes_a_number_of_functions_for_dealing_with_Lua_tables.________--
+--_It_is_a_meta-module,_meant_to_be_called_from_other_Lua_modules,_and_should_____--
+--_not_be_called_directly_from)
+
+local libraryUtil = require('libraryUtil')
+
+local p = {}
+
+-- Define often-used variables and functions.
+local floor = math.floor
+local infinity = math.huge
+local checkType = libraryUtil.checkType
+
+--[------------------------------------------------------------------------------------
+-- isPositiveInteger
+--
+-- This function returns true if the given value is a positive integer, and false
+-- if not. Although it doesn't operate on tables, it is included here as it is
+-- useful for determining whether a given table key is in the array part or the
+-- hash part of a table.
+------------------------------------------------------------------------------------
+--](https://second-renaissance.fandom.com/wiki/------------------------------------------------------------------------------------
+--_isPositiveInteger
+--
+--_This_function_returns_true_if_the_given_value_is_a_positive_integer,_and_false
+--_if_not._Although_it_doesn't_operate_on_tables,_it_is_included_here_as_it_is
+--_useful_for_determining_whether_a_given_table_key_is_in_the_array_part_or_the
+--_hash_part_of_a_table.
+------------------------------------------------------------------------------------
+--)
+function p.isPositiveInteger(v)
+    if type(v) == 'number' and v &gt;= 1 and floor(v) == v and v &lt; infinity then
+        return true
+    else
+        return false
+    end
+end
+
+--[------------------------------------------------------------------------------------
+-- isNan
+--
+-- This function returns true if the given number is a NaN value, and false
+-- if not. Although it doesn't operate on tables, it is included here as it is
+-- useful for determining whether a value can be a valid table key. Lua will
+-- generate an error if a NaN is used as a table key.
+------------------------------------------------------------------------------------
+--](https://second-renaissance.fandom.com/wiki/------------------------------------------------------------------------------------
+--_isNan
+--
+--_This_function_returns_true_if_the_given_number_is_a_NaN_value,_and_false
+--_if_not._Although_it_doesn't_operate_on_tables,_it_is_included_here_as_it_is
+--_useful_for_determining_whether_a_value_can_be_a_valid_table_key._Lua_will
+--_generate_an_error_if_a_NaN_is_used_as_a_table_key.
+------------------------------------------------------------------------------------
+--)
+function p.isNan(v)
+    if type(v) == 'number' and tostring(v) == '-nan' then
+        return true
+    else
+        return false
+    end
+end
+
+--[------------------------------------------------------------------------------------
+-- shallowClone
+--
+-- This returns a clone of a table. The value returned is a new table, but all
+-- subtables and functions are shared. Metamethods are respected, but the returned
+-- table will have no metatable of its own.
+------------------------------------------------------------------------------------
+--](https://second-renaissance.fandom.com/wiki/------------------------------------------------------------------------------------
+--_shallowClone
+--
+--_This_returns_a_clone_of_a_table._The_value_returned_is_a_new_table,_but_all
+--_subtables_and_functions_are_shared._Metamethods_are_respected,_but_the_returned
+--_table_will_have_no_metatable_of_its_own.
+------------------------------------------------------------------------------------
+--)
+function p.shallowClone(t)
+    local ret = {}
+    for k, v in pairs(t) do
+        ret[k] = v
+    end
+    return ret
+end
+
+--[------------------------------------------------------------------------------------
+-- removeDuplicates
+--
+-- This removes duplicate values from an array. Non-positive-integer keys are
+-- ignored. The earliest value is kept, and all subsequent duplicate values are
+-- removed, but otherwise the array order is unchanged.
+------------------------------------------------------------------------------------
+--](https://second-renaissance.fandom.com/wiki/------------------------------------------------------------------------------------
+--_removeDuplicates
+--
+--_This_removes_duplicate_values_from_an_array._Non-positive-integer_keys_are
+--_ignored._The_earliest_value_is_kept,_and_all_subsequent_duplicate_values_are
+--_removed,_but_otherwise_the_array_order_is_unchanged.
+------------------------------------------------------------------------------------
+--)
+function p.removeDuplicates(t)
+    checkType('removeDuplicates', 1, t, 'table')
+    local isNan = p.isNan
+    local ret, exists = {}, {}
+    for i, v in ipairs(t) do
+        if isNan(v) then
+            -- NaNs can't be table keys, and they are also unique, so we don't need to check existence.
+            ret[#ret + 1] = v
+        else
+            if not exists[v] then
+                ret[#ret + 1] = v
+                exists[v] = true
+            end
+        end 
+    end
+    return ret
+end         
+
+--[------------------------------------------------------------------------------------
+-- numKeys
+--
+-- This takes a table and returns an array containing the numbers of any numerical
+-- keys that have non-nil values, sorted in numerical order.
+------------------------------------------------------------------------------------
+--](https://second-renaissance.fandom.com/wiki/------------------------------------------------------------------------------------
+--_numKeys
+--
+--_This_takes_a_table_and_returns_an_array_containing_the_numbers_of_any_numerical
+--_keys_that_have_non-nil_values,_sorted_in_numerical_order.
+------------------------------------------------------------------------------------
+--)
+function p.numKeys(t)
+    checkType('numKeys', 1, t, 'table')
+    local isPositiveInteger = p.isPositiveInteger
+    local nums = {}
+    for k, v in pairs(t) do
+        if isPositiveInteger(k) then
+            nums[#nums + 1] = k
+        end
+    end
+    table.sort(nums)
+    return nums
+end
+
+--[------------------------------------------------------------------------------------
+-- affixNums
+--
+-- This takes a table and returns an array containing the numbers of keys with the
+-- specified prefix and suffix. For example, for the table
+-- {a1 = 'foo', a3 = 'bar', a6 = 'baz'} and the prefix &quot;a&quot;, affixNums will
+-- return {1, 3, 6}.
+------------------------------------------------------------------------------------
+--](https://second-renaissance.fandom.com/wiki/------------------------------------------------------------------------------------
+--_affixNums
+--
+--_This_takes_a_table_and_returns_an_array_containing_the_numbers_of_keys_with_the
+--_specified_prefix_and_suffix._For_example,_for_the_table
+--_{a1_=_'foo',_a3_=_'bar',_a6_=_'baz'}_and_the_prefix_&quot;a&quot;,_affixNums_will
+--_return_{1,_3,_6}.
+------------------------------------------------------------------------------------
+--)
+function p.affixNums(t, prefix, suffix)
+    checkType('affixNums', 1, t, 'table')
+    checkType('affixNums', 2, prefix, 'string', true)
+    checkType('affixNums', 3, suffix, 'string', true)
+
+    local function cleanPattern(s)
+        -- Cleans a pattern so that the magic characters ()%.[]*+-?^$ are interpreted literally.
+        s = s:gsub('([%(%)%%%.%[%]%*%+%-%?%^%$])', '%%%1')
+        return s
+    end
+
+    prefix = prefix or ''
+    suffix = suffix or ''
+    prefix = cleanPattern(prefix)
+    suffix = cleanPattern(suffix)
+    local pattern = '^' .. prefix .. '([1-9]%d*)' .. suffix .. '$'
+
+    local nums = {}
+    for k, v in pairs(t) do
+        if type(k) == 'string' then         
+            local num = mw.ustring.match(k, pattern)
+            if num then
+                nums[#nums + 1] = tonumber(num)
+            end
+        end
+    end
+    table.sort(nums)
+    return nums
+end
+
+--[[
+------------------------------------------------------------------------------------
+-- numData
+--
+-- Given a table with keys like (&quot;foo1&quot;, &quot;bar1&quot;, &quot;foo2&quot;, &quot;baz2&quot;), returns a table
+-- of subtables in the format 
+-- { [1] = {foo = 'text', bar = 'text'}, [2] = {foo = 'text', baz = 'text'} }
+-- Keys that don't end with an integer are stored in a subtable named &quot;other&quot;.
+-- The compress option compresses the table so that it can be iterated over with
+-- ipairs.
+------------------------------------------------------------------------------------
+--]]
+function p.numData(t, compress)
+    checkType('numData', 1, t, 'table')
+    checkType('numData', 2, compress, 'boolean', true)
+    local ret = {}
+    for k, v in pairs(t) do
+        local prefix, num = mw.ustring.match(tostring(k), '^([^0-9]*)([1-9][0-9]*)$')
+        if num then
+            num = tonumber(num)
+            local subtable = ret[num] or {}
+            if prefix == '' then
+                -- Positional parameters match the blank string; put them at the start of the subtable instead.
+                prefix = 1
+            end
+            subtable[prefix] = v
+            ret[num] = subtable
+        else
+            local subtable = ret.other or {}
+            subtable[k] = v
+            ret.other = subtable
+        end
+    end
+    if compress then
+        local other = ret.other
+        ret = p.compressSparseArray(ret)
+        ret.other = other
+    end
+    return ret
+end
+
+--[------------------------------------------------------------------------------------
+-- compressSparseArray
+--
+-- This takes an array with one or more nil values, and removes the nil values
+-- while preserving the order, so that the array can be safely traversed with
+-- ipairs.
+------------------------------------------------------------------------------------
+--](https://second-renaissance.fandom.com/wiki/------------------------------------------------------------------------------------
+--_compressSparseArray
+--
+--_This_takes_an_array_with_one_or_more_nil_values,_and_removes_the_nil_values
+--_while_preserving_the_order,_so_that_the_array_can_be_safely_traversed_with
+--_ipairs.
+------------------------------------------------------------------------------------
+--)
+function p.compressSparseArray(t)
+    checkType('compressSparseArray', 1, t, 'table')
+    local ret = {}
+    local nums = p.numKeys(t)
+    for _, num in ipairs(nums) do
+        ret[#ret + 1] = t[num]
+    end
+    return ret
+end
+
+--[------------------------------------------------------------------------------------
+-- sparseIpairs
+--
+-- This is an iterator for sparse arrays. It can be used like ipairs, but can
+-- handle nil values.
+------------------------------------------------------------------------------------
+--](https://second-renaissance.fandom.com/wiki/------------------------------------------------------------------------------------
+--_sparseIpairs
+--
+--_This_is_an_iterator_for_sparse_arrays._It_can_be_used_like_ipairs,_but_can
+--_handle_nil_values.
+------------------------------------------------------------------------------------
+--)
+function p.sparseIpairs(t)
+    checkType('sparseIpairs', 1, t, 'table')
+    local nums = p.numKeys(t)
+    local i = 0
+    local lim = #nums
+    return function ()
+        i = i + 1
+        if i &lt;= lim then
+            local key = nums[i]
+            return key, t[key]
+        else
+            return nil, nil
+        end
+    end
+end
+
+--[------------------------------------------------------------------------------------
+-- size
+--
+-- This returns the size of a key/value pair table. It will also work on arrays,
+-- but for arrays it is more efficient to use the](https://second-renaissance.fandom.com/wiki/------------------------------------------------------------------------------------
+--_size
+--
+--_This_returns_the_size_of_a_key/value_pair_table._It_will_also_work_on_arrays,
+--_but_for_arrays_it_is_more_efficient_to_use_the)
+function p.size(t)
+    checkType('size', 1, t, 'table')
+    local i = 0
+    for k in pairs(t) do
+        i = i + 1
+    end
+    return i
+end
+
+return p
+</code></pre>
+<h2 id="provenance">Provenance</h2>
+<p>Raw source: <code>bronze/pages/666/933.wikitext</code> · revision <code>933</code> · <a href="https://second-renaissance.fandom.com/wiki/Module%3ATableTools">upstream</a></p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["navigation.sections", "navigation.indexes", "search.suggest"], "search": "../../../assets/javascripts/workers/search.a7633da7.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.a5f9d56c.min.js"></script>
+      
+    
+  </body>
+</html>

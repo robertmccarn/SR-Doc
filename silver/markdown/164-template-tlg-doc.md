@@ -1,0 +1,97 @@
+---
+page_id: 164
+revision_id: 220
+source_url: https://second-renaissance.fandom.com/wiki/Template%3ATlg/doc
+raw_sha256: a5a628b2c2e27b5edd87672ad06d2e03708cd444cd5ef55ea0633146d984d38d
+---
+
+# Template:Tlg/doc
+
+## Preserved source
+
+```wikitext
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES WHERE INDICATED AT THE BOTTOM OF THIS PAGE -->
+
+{{tl|tlg}} (abbreviating "[t]emplate [l]ink {{small|(with)}} [g]eneral {{small|(options)}}") is a generalised version of the {{tl|tl}} ("template link") template. It can be used to replace or implement {{tlf|tl}} and related templates such as {{tl|tlb}}, {{tl|tlx}}, etc.
+
+## Parameters
+; {{big|Named}}
+With the exception of {{mono|alttext}}, {{tlf|tlg}}'s named parameters are toggles that are either omitted (default) or activated (by being assigned a value such as "on", "yes", "true", "include", etc). They may be included in any order (see Examples below):
+{| class="wikitable"
+! Parameter || Action || As in
+|-
+ | braceinside || Include innermost braces as part of the template link                             || {{tl|tlw}}
+|-
+ | bold<br/>boldlink<br/>boldname || Renders the template link/name in '''bold'''                   || {{tl|tlb}} {{tl|tlx}} etc.
+|-
+ | code        || Display output using the ([monospaced](https://second-renaissance.fandom.com/wiki/Monospaced_font)) HTML <nowiki><code></nowiki> formatting || {{tl|tlc}} {{tl|tlx}} etc.
+|-
+ | italic<br/>italics || Display any parameters accompanying the template link/name in ''italic/s'' || {{tl|tlxi}}
+|-
+ | nolink      || Don't render the template name as a link                                          || {{tl|tln}}
+|-
+ | nowrap      || Prevent the insertion of line breaks ([word wrap](https://second-renaissance.fandom.com/wiki/word_wrap)) in the output                || 
+|-
+ | subst       || Include a [subst:](https://second-renaissance.fandom.com/wiki/Help:Substitution) prefix before the template link/name       || {{tl|tls}}
+|-
+ | <nowiki>|alttext=[text]</nowiki> || Use [text] as the label for the template link  || {{tl|tla}}
+|}
+
+; {{big|Unnamed}}
+{{tlf|tlg}} may take up to ten unnamed parameters as parameters accompanying the template link (or name); see Examples below.
+
+## Examples
+{{#switch:{{SITENAME}} |Wikipedia|Meta= |
+; Note: On the source sister projects, en.wikipedia and Meta, '''X0, X1, X2, …, X9 are sandbox templates''' for experimentation on involved templates that need be in template space. An auto-cleansing software facility exists that might be used to duplicate the facility on other Sister projects.
+}}
+{{Aligned table
+ |cols=3 |class=wikitable |style=border:1;cellpadding:4;
+ | '''Code'''                         | '''Output'''               | '''Remarks'''
+ | {{tlx|tlg|Abc}}                    | {{tlg|Abc}}                | 
+ | {{tlx|tlg|abC}}                    | {{tlg|abC}}                | template names are case-sensitive
+ | {{tlx|tlg|abc}}                    | {{tlg|abc}}                | first letter is case-insensitive though
+ | {{tlx|tlg|x0}}                     | {{tlg|x0}}                 | 
+ | {{tlx|tlg|x0|code{{=}}on}}         | {{tlg|x0|code=on}}         | &lt;code&gt; style
+ | {{tlx|tlg|x0|plaincode{{=}}on}}    | {{tlg|x0|plaincode=on}}    | plaincode style
+ | {{tlx|tlg|x0|bold{{=}}on}}         | {{tlg|x0|bold=on}}         | bold link/name
+ | {{tlx|tlg|x1|one|italic{{=}}on}}   | {{tlg|x1|one|italic=on}}   | parameter/s in italics
+ | {{tlx|tlg|x0|nolink{{=}}on}}       | {{tlg|x0|nolink=on}}       | 
+ | {{tlx|tlg|x0|subst{{=}}on}}        | {{tlg|x0|subst=on}}        | 
+ | {{tlx|tlg|x0|braceinside{{=}}on}}  | {{tlg|x0|braceinside=on}}  | 
+ | {{tlx|tlg|x0|alttext{{=}}x0 link}} | {{tlg|x0|alttext=x0 link}} | 
+ | {{tlx|tlg|x0|bold{{=}}on|code{{=}}on|braceinside{{=}}on}} | {{tlg|x0|bold=on|code=on|braceinside=on}} | No reason you can't combine multiple parameter settings
+ | {{tlx|tlg|x1|one}}                 | {{tlg|x1|one}}             | 
+ | {{tlx|tlg|x2|one|two}}             | {{tlg|x2|one|two}}         | 
+ | {{tlx|tlg|x2|bold{{=}}on|code{{=}}on|one|two}} | {{tlg|x2|bold=on|code=on|one|two}} | Can combine named and anonymous parameters …
+ | {{tlx|tlg|x2|one|two|bold{{=}}on|code{{=}}on}} | {{tlg|x2|one|two|bold=on|code=on}} | … in any order …
+ | {{tlx|tlg|x2|one|code{{=}}on|two|bold{{=}}on|three}} | {{tlg|x2|one|code=on|two|bold=on|three}} | … even intermixed …
+ | {{tlx|tlg|x2|one|code{{=}}on|two|bold{{=}}on|three|italic{{=}}on}} | {{tlg|x2|one|code=on|two|bold=on|three|italic=on}} | … with many different configurations.
+ | {{tlx|tlg|x3|1|2|3|4|5|6|7|8|9&#124;10}}               | {{tlg|x3|1|2|3|4|5|6|7|8|9|10}}      | 
+ | {{tlx|tlg|x4|1|2|3|4|5|6|7|8|9&#124;10&#124;11}}       | {{tlg|x4|1|2|3|4|5|6|7|8|9|10|11}}   | up to 10 parameters, then …
+ | {{tlx|tlg|x5|1|2|3|4|5|6|7|8|9&#124;10&amp;#124;11}}   | {{tlg|x5|1|2|3|4|5|6|7|8|9|10&#124;11}} | {{align|right|<code>&amp;#124;</code> for more}}
+ | {{tlx|tlg}}                                            | {{tlg}}                              | with no arguments, the current page name is substituted
+ | {{tlx|tlg|x1|x&#61;u}}                                 | {{tlg|x1|x{{=}}u}}                   | '''{{=}}''' won't work
+ | {{tlx|tlg|x1|x&amp;#61;u}}                             | {{tlg|x1|x&#61;u}}                   | {{align|right|<code>&amp;#61;</code> is okay}}
+ | {{tlx|tlg|x1|x<nowiki>{{=}}</nowiki>u}}                | {{tlg|x1|x{{=}}u}}                   | {{align|right|<code><nowiki>{{=}}</nowiki></code> is okay}}
+ | {{tlx|tlg|x1|x&lt;nowiki&gt;&#61;&lt;/nowiki&gt;u}}    | {{tlg|x1|x<nowiki>=</nowiki>u}}      | {{align|right|sticky nowiki is okay}}
+ | {{tlx|tlg|x2|<nowiki />|two|<nowiki />|<nowiki />}}    | {{tlg|x2||two||}}                    | empty parameters work too, even at the end
+ | {{tlx|tlg|x2|<nowiki>2=one</nowiki>|two}}              | {{tlg|x2|2{{=}}one|two}}             | '''two''' clobbers '''2{{=}}one'''
+ | {{tlx|tlg|x2|<nowiki>3=two</nowiki>|<nowiki>2=one</nowiki>}} | {{tlg|x2|3{{=}}two|2{{=}}one}} | {{align|right|right to left okay}}
+}}
+; Unlimited parameters as one nowiki string
+{{tlx|tlg|convert|<nowiki>&lt;nowiki>14|m|ftin|abbr=out|sp=us&lt;/nowiki></nowiki>}}
+
+# See also
+{{Template-linking templates}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox |
+| <!-- CATEGORIES BELOW THIS LINE, PLEASE: -->
+[Category:Internal template-link templates](https://second-renaissance.fandom.com/wiki/Category:Internal_template-link_templates)
+[Category:Typing-aid templates](https://second-renaissance.fandom.com/wiki/Category:Typing-aid_templates)
+}}</includeonly>
+```
+
+## Provenance
+
+Raw source: `bronze/pages/164/220.wikitext` · revision `220` · [upstream](https://second-renaissance.fandom.com/wiki/Template%3ATlg/doc)

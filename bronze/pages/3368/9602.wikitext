@@ -1,0 +1,1 @@
+Does anyone know what's wrong with the table under Religion? I tried fixing it in source editor assuming it was just duplicated parameters, but nothing changed with it when I removed the duplicates and clicked show preview, it also looks different in visual editor, i'm not experienced with code

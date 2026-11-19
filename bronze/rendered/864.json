@@ -1,0 +1,35 @@
+{
+  "categories": [
+    {
+      "*": "Template_documentation_pages",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    },
+    {
+      "*": "Pages_with_broken_file_links",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"plainlinks ombox ombox-notice\" style=\"margin-bottom:1.0em;\">\n<tbody><tr>\n<td class=\"mbox-image\">\n  <span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://static.wikia.nocookie.net/second-renaissance/images/1/15/Edit-copy_green.svg/revision/latest/scale-to-width-down/40?cb=20150808172902\" decoding=\"async\" loading=\"lazy\" width=\"40\" height=\"40\" class=\"mw-file-element\" data-image-name=\"Edit-copy green.svg\" data-image-key=\"Edit-copy_green.svg\" data-relevant=\"0\" /></span></span></td>\n<td class=\"mbox-text\" style=\"\"> <b>This is a <a href=\"https://en.wikipedia.org/wiki/Template_documentation\" class=\"extiw\" title=\"wikipedia:Template documentation\">documentation</a> <a href=\"https://en.wikipedia.org/wiki/Subpages\" class=\"extiw\" title=\"wikipedia:Subpages\">subpage</a> for <a href=\"/wiki/Template:Country_data\" title=\"Template:Country data\">Template:Country data</a></b>.<br />It contains usage information, <a href=\"https://en.wikipedia.org/wiki/Categorization\" class=\"extiw\" title=\"wikipedia:Categorization\">categories</a> and other content that is not part of the original template page. </td>\n</tr>\n</tbody></table><p>\nThis template is transcluded if a flag template is used without the first parameter, or with an empty first parameter. It can be used to place an \"invisible\" flag icon, as an alternative to using </p><div style=\"clear:both\"> (which adds a <code class=\"nowrap\" style=\"\">&lt;span&gt;</code> tag with padding at the size of a flag icon), if one item in a list of items with flags shouldn't have a flag icon. For example:\n<ul><li><span class=\"flagicon\"><span typeof=\"mw:Error mw:File\"><a href=\"/wiki/Special:Upload?wpDestFile=Flag_placeholder.svg\" class=\"new\" title=\"File:Flag placeholder.svg\"><span class=\"mw-file-element mw-broken-media\" data-width=\"23\" data-height=\"15\">File:Flag placeholder.svg</span></a></span></span> <span class=\"new\" title=\"Western Sahara (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvV2VzdGVybl9TYWhhcmE/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Western Sahara</span> (<tt>{{flagicon|}} [[Western Sahara]]</tt>)</li></ul>\n<p>which looks the same as\n</p>\n<ul><li><span class=\"new\" title=\"Template:Noflag (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6Tm9mbGFnP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">Template:Noflag</span> (<tt>{{noflag|[[Western Sahara]]}}</tt>)</li></ul>\n<p>For further instructions, please see: <a href=\"https://en.wikipedia.org/wiki/WikiProject_Flag_Template\" class=\"extiw\" title=\"wikipedia:WikiProject Flag Template\">WikiProject Flag Template</a>.\n</p><p><br />\n</p></div>\n<!-- \nNewPP limit report\nCached time: 20261119205534\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.022 seconds\nReal time usage: 0.040 seconds\nPreprocessor visited node count: 281/1000000\nPost‐expand include size: 4293/2097152 bytes\nTemplate argument size: 1191/2097152 bytes\nHighest expansion depth: 17/100\nExpensive parser function count: 1/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 61/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   20.579      1 -total\n 60.26%   12.400      1 Template:Documentation_subpage\n 41.71%    8.583      1 Template:Mbox\n 20.40%    4.199      1 Template:Ombox\n 19.78%    4.070      1 Template:Flagicon\n 12.94%    2.663      1 Template:Country_data\n 11.84%    2.437      1 Template:Ombox/core\n 11.36%    2.338      1 Template:Namespace_detect\n  8.10%    1.666      1 Template:Tag\n  6.97%    1.435      1 Template:Flagicon/core\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:864-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205534 and revision id 1179. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Country data",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Noflag",
+      "ns": 10
+    },
+    {
+      "*": "Western Sahara",
+      "ns": 0
+    }
+  ],
+  "page_id": 864,
+  "revision_id": 1179,
+  "title": "Template:Country data/doc"
+}

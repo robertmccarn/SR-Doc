@@ -1,0 +1,20 @@
+{{Political party color|National Union}}<noinclude>
+
+This is the "Firebrick" red taken from predefined [[web colors]] / [[X11 colors]].
+
+== Examples ==
+{|
+|- style="color:{{ {{PAGENAME}} }}"
+| '''This color'''
+|- style="background:{{ {{PAGENAME}} }}; color:white"
+| '''White on this color'''
+|- style="background:{{ {{PAGENAME}} }}; color:black"
+| '''Black on this color'''
+|}
+
+== See also ==
+* [[Template:Party shading/National Union]]
+* [[Template:Republican Party (US)/meta/color]]
+
+[[Category:United States political party color templates|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,16 @@
+-- This module implements {{NAMESPACEID}}.
+
+local p = {}
+
+function p.main(frame)
+	local ns = frame:getParent().args[1] or mw.title.getCurrentTitle().namespace
+	local nsTable = mw.site.namespaces[ns]
+	if nsTable then
+		return nsTable.id
+	else
+		return '<strong class="error">Invalid namespace in ' ..
+		'&#123;&#123;[[Template:NAMESPACEID|NAMESPACEID]]&#125;&#125;</strong>'
+	end
+end
+
+return p

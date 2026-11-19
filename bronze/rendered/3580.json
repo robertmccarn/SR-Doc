@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "*": "Technology",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    },
+    {
+      "*": "21st_Century",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>A <b>quantum capacitor</b> (also referred to as an QC, or a q-chip) is a device that stores information in a quantum field. It is a passive electronic component with two terminals. The effect of a quantum capacitor is known as quantum capacitance, which at the most basic level is the ability to store and discharge quantum information at desired rates. \n</p><p>QCs are now used in virtually all electronic equipment and have revolutionized the world of electronics. Computers, batteries, imprinters, non-localized recorders (NLRs), quantum navigation, <a href=\"/wiki/Chronoscope\" title=\"Chronoscope\">Chronoscopes</a>, entanglement arrays, and indeed <a href=\"/wiki/Dyson_Sphere\" title=\"Dyson Sphere\">Dyson Spheres</a> are now inextricable parts of the structure of modern life, made possible by ubiquitous applications of QCs.\n</p><p>Quantum capacitors were the result of military research programs initiated during the <a href=\"/wiki/World_War_III\" title=\"World War III\">Third World War</a> in direct response to the Thanksgiving attacks. These R&amp;D programs sought to create a means to detect seemingly undetectable swarms of small projectiles launched at random intervals to strike a single target, better known as \"brilliant pebbles\". The first quantum capacitor was successfully tested in 2056 as part of the Argus program that led to the launch of the Quantum Acquisition Object Detection (QAOD) system. However, the technology was not declassified until the 2060s when it was employed by <a href=\"/wiki/NASA\" title=\"NASA\">NASA</a> for the <a href=\"/wiki/Hyperion_(interstellar_vehicle)\" title=\"Hyperion (interstellar vehicle)\">Hyperion program</a>.\n</p><p>By the early 22nd Century, quantum capacitance came to be used for transferring energy instantaneously between two points in space. This led to the rise of a new type of Brilliant Pebble weapon, one where each \"warhead\" could have its own propulsion in the form of high frequency light powered from a remote source. This enabled pebble mob attacks where the warheads could be fired by a conventional missile or railgun, deploy at a desired distance and gain additional speed and maneuver using laser propellants. While chemical propellants had been used in a similar fashion for decades, this new technology allowed high speed brilliant pebbles to shrink dramatically and carry a proportionately more destructive warhead in the form of their own propulsion system.\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119001513\nCache expiry: 1209600\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:3580-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119001513 and revision id 12001. Rendering was triggered because: page-view\n -->\n</div>",
+  "links": [
+    {
+      "*": "Chronoscope",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Dyson Sphere",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Hyperion (interstellar vehicle)",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "NASA",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "World War III",
+      "exists": "",
+      "ns": 0
+    }
+  ],
+  "page_id": 3580,
+  "revision_id": 12001,
+  "title": "Quantum Capacitor"
+}

@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "*": "Wikipedia_pages_with_incorrect_protection_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": "Taxonomy/nobreak"
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:Taxonomy/nobreak/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGF4b25vbXkvbm9icmVhay9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:Taxonomy/nobreak/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:Taxonomy/nobreak/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGF4b25vbXkvbm9icmVhay9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:Taxonomy/nobreak/doc</span></div>\n<!-- \nNewPP limit report\nCached time: 20261119205702\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.030 seconds\nReal time usage: 0.054 seconds\nPreprocessor visited node count: 28/1000000\nPost‐expand include size: 612/2097152 bytes\nTemplate argument size: 2/2097152 bytes\nHighest expansion depth: 6/100\nExpensive parser function count: 3/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nLua time usage: 0.011/7.000 seconds\nLua memory usage: 779356/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   47.997      1 -total\n 83.08%   39.877      1 Template:Pp-template\n 11.17%    5.359      1 Template:Str_find\n  5.06%    2.430      1 Template:Documentation\n  2.35%    1.128      1 Template:Taxonomy/nobreak/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:1615-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205702 and revision id 3867. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Taxonomy/nobreak/doc",
+      "ns": 10
+    }
+  ],
+  "page_id": 1615,
+  "revision_id": 3867,
+  "title": "Template:Taxonomy/nobreak"
+}

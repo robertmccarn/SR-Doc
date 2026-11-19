@@ -1,0 +1,89 @@
+{
+  "categories": [
+    {
+      "*": "Human_populations",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>Total Earth Population: ~9 Billion\n</p><p>Census Information Provided\n</p><p><span class=\"new\" title=\"Africa (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvQWZyaWNhP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">Africa</span>: 1.8 Billion\n</p><p><a href=\"/wiki/India\" title=\"India\">India</a>: 1.33 Billion\n</p><p><a href=\"/wiki/United_States\" class=\"mw-redirect\" title=\"United States\">United States</a> (Earth): ~1Billion\n</p><p><span class=\"new\" title=\"East-Asian Association (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvRWFzdC1Bc2lhbl9Bc3NvY2lhdGlvbj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">East-Asian Association</span>: 931 Million\n</p><p><a href=\"/wiki/European_Association\" title=\"European Association\">European Association</a>: 582 Million\n</p><p><span class=\"new\" title=\"Arabia (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvQXJhYmlhP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">Arabia</span>: 300 Million\n</p><p><a href=\"/wiki/Iran\" title=\"Iran\">Iran</a>: 103 Million\n</p><p><a href=\"/wiki/Central_Eurasian_Union\" title=\"Central Eurasian Union\">Central Eurasian Union</a>: 91 Million\n</p><p><a href=\"/wiki/Trans-Siberia\" title=\"Trans-Siberia\">Trans-Siberia</a>: 84 Million\n</p><p><br />\n  No Census Information Provided\n</p><p><a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, <a href=\"/wiki/Brazil\" title=\"Brazil\">Brazil</a>, Rif, Senegal, Mali, Burkina Faso, Costa do Marfin, Abyssinia, Angola, Barotseland, Mozambique, <span class=\"new\" title=\"Zimbabwe (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvWmltYmFid2U/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Zimbabwe</span>, <span class=\"new\" title=\"Madagascar (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvTWFkYWdhc2Nhcj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Madagascar</span>, <a href=\"/wiki/Israel\" title=\"Israel\">Israel</a>, Dubai, Kurdistan, Balochistan, Malay, Indonesia\n</p><p>-\n</p><p>Serbia, Katanga, Zambia, Hejaz, Syrdarya, Samarkand, <span class=\"new\" title=\"Uzbekistan (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVXpiZWtpc3Rhbj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Uzbekistan</span>, Turkmenistan, Kyrgyzstan, Tajikistan, Hazaristan, Pashtunistan, Dzungaria, Uyghuristan, Tibet, <span class=\"new\" title=\"Nepal (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvTmVwYWw/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Nepal</span>, Bhutan\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119205914\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.014 seconds\nReal time usage: 0.019 seconds\nPreprocessor visited node count: 4/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 1/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:2954-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205914 and revision id 9556. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Brazil",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Central Eurasian Union",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "European Association",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "India",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Iran",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Israel",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Quebec",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Trans-Siberia",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "United States",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Africa",
+      "ns": 0
+    },
+    {
+      "*": "East-Asian Association",
+      "ns": 0
+    },
+    {
+      "*": "Arabia",
+      "ns": 0
+    },
+    {
+      "*": "Zimbabwe",
+      "ns": 0
+    },
+    {
+      "*": "Madagascar",
+      "ns": 0
+    },
+    {
+      "*": "Uzbekistan",
+      "ns": 0
+    },
+    {
+      "*": "Nepal",
+      "ns": 0
+    }
+  ],
+  "page_id": 2954,
+  "revision_id": 9556,
+  "title": "List of countries by population, 2160"
+}

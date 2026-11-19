@@ -1,0 +1,22 @@
+{{Political party color|Federalist}}<noinclude>
+
+== Examples ==
+{|
+|- style="color:{{ {{PAGENAME}} }}"
+| '''This color'''
+|- style="background:{{ {{PAGENAME}} }}; color:white"
+| '''White on this color'''
+|- style="background:{{ {{PAGENAME}} }}; color:black"
+| '''Black on this color'''
+|}
+
+== Use ==
+<tt>| <nowiki>style="background-color:{{</nowiki> {{PAGENAME}} <nowiki>}}</nowiki>;" |</tt><noinclude>
+
+== See also ==
+* [[ {{ROOTPAGENAME}} ]]
+* [[Template:Party shading/Federalist]]
+
+[[Category:{{ROOTPAGENAME}}]]
+[[Category:United States political party color templates|{{PAGENAME}}]]
+</noinclude>

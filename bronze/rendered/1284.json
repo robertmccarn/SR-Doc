@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "*": "Templates",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><dl><dt>This template is used on the <a href=\"/wiki/Main_Page\" class=\"mw-redirect\" title=\"Main Page\">main page</a> to list the affiliates of Second Renaissance Wikia.</dt></dl>\n<table style=\"padding:0.5em; margin-top:1em; width:100%; border:1px solid #aaa;\" cellspacing=\"2\" cellpadding=\"5\">\n<tbody><tr>\n<td><div class=\"plainlinks\"></div>\n<p><big><i>Affiliated wikis:</i></big><br />\n</p><p><b><a href=\"https://althistory.fandom.com/wiki/\" class=\"extiw\" title=\"w:c:althistory\">Alternate History Wiki</a></b> &#8226;\n<b><a href=\"https://community.fandom.com/wiki/c:oprandomstuff\" class=\"extiw\" title=\"w:c:oprandomstuff\">OPRandomStuff Wiki</a></b> &#8226;\n<b><a href=\"https://future.fandom.com/wiki/\" class=\"extiw\" title=\"w:c:future\">Future Wiki</a></b>&#8226;\n</p>\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20261119205626\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.007 seconds\nReal time usage: 0.011 seconds\nPreprocessor visited node count: 3/1000000\nPost‐expand include size: 24/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:1284-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205626 and revision id 2377. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Main Page",
+      "exists": "",
+      "ns": 0
+    }
+  ],
+  "page_id": 1284,
+  "revision_id": 2377,
+  "title": "Template:AffiliatedWikis"
+}

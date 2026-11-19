@@ -1,0 +1,78 @@
+---
+page_id: 2002
+revision_id: 5645
+source_url: https://second-renaissance.fandom.com/wiki/Associated_state
+raw_sha256: b871acd74acfcf83dc8558f4810a8475b9bf0a025116f832f07ad69bae043f83
+---
+
+# Associated state
+
+## Preserved source
+
+```wikitext
+An '''associated state''' is the minor partner in a formal, free relationship between a political territory with a degree of statehood and the [United States](806-united-states.md), for which no other specific term, such as protectorate, is adopted. The details of such free association are contained in the Treaty of San Juan, Article X, and the Associated Statehood Act of 2139 and are specific to the countries involved. Free associated states can be described as independent or not, but free association is not a qualification of an entity's statehood or status as a subject of international law.
+
+
+# States in a formal association
+{| class="wikitable"
+! width="160px" | Minor partner
+! class="unsortable" width="200px" |Associated since
+! class="unsortable" |Level of association
+! class="unsortable" |International status
+|-
+| {{flag|Association of East-Asia}}
+| 2140
+| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.
+|Independence in foreign relations recognized per the London Accords.
+|-
+| {{flag|European Association}}
+| 2139
+| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.
+|Independence in foreign relations recognized per the London Accords.
+|-
+| {{flag|Trans-Siberia}}
+| 2141
+| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.
+|Independence in foreign relations recognized per the London Accords.
+|-
+| {{flag|African Commonwealth}}
+| 2152
+| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.
+|Independence in foreign relations recognized per the London Accords.
+|-
+| {{flag|Central Eurasian Union}}
+| 2156
+| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.
+|Independence in foreign relations recognized per the London Accords.
+|-
+| {{flag|Arabian Association}}
+| 2140
+| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.
+|Independence in foreign relations recognized per the London Accords.
+|-
+| {{flag|Iran}}
+| 2140
+| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.
+|Independence in foreign relations recognized per the London Accords.
+|-
+| {{flag|Indonesia}}
+| 2144
+| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.
+|Independence in foreign relations recognized per the London Accords.
+|-
+| {{flag|United Nations of Tel-ma}}
+| 2157
+| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.
+|Independence in foreign relations recognized per treaty.
+|-
+| {{flag|Federated States of Umknovola}}
+| 2158
+| United States provides defense, funding grants, integration into the Quantum Economic Model, and access to U.S. social services for citizens of these areas under the Compact of Free Association.
+|Independence in foreign relations recognized per treaty.
+|}
+[Category:Associated states](https://second-renaissance.fandom.com/wiki/Category:Associated_states)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/2002/5645.wikitext` · revision `5645` · [upstream](https://second-renaissance.fandom.com/wiki/Associated_state)

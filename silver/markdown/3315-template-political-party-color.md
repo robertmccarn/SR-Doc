@@ -1,0 +1,219 @@
+---
+page_id: 3315
+revision_id: 9434
+source_url: https://second-renaissance.fandom.com/wiki/Template%3APolitical_party_color
+raw_sha256: 2496584e4dc731b90d02bc624a8118f51ce06b5828945641c628493a333118aa
+---
+
+# Template:Political party color
+
+## Preserved source
+
+```wikitext
+<includeonly><nowiki>#</nowiki>{{#switch: {{{1|}}}
+<!-- American                                           Use: Know Nothing -->
+<!-- American Party                                     Use: Know Nothing -->
+| American (1924)
+  | American Party (1924)                   = B340D1
+| American (1969)
+  | American Party (1969)                   = CC66FF
+<!-- American Constitution                              Use: Constitution -->
+<!-- American Constitution Party                        Use: Constitution -->
+| American Delta
+  | American Delta Party                    = 355E39
+| American Independent
+  | American Independent Party              = 800080
+| American Labor
+  | American Labor Party
+  | Labor
+  | Labor Party                             = FF6347
+| Americans Elect
+  | Americans Elect Party                   = FFFF88
+| Anti-Administration
+  | Anti-Administration Party               = CCFF66
+| Anti-Jacksonian
+  | Anti-Jacksonian Party
+  | Adams
+  | Adams Party
+  | National Republican
+  | National Republican Party               = FFE6B0
+| Anti-Jacksonian Hold
+  | Anti-Jacksonian Party Hold
+  | Adams Hold
+  | Adams Party Hold
+  | National Republican Hold
+  | National Republican Party Hold          = FFF5D7
+| Anti-Masonic
+  | Anti-Masonic Party                      = FFFF99
+| Anti-Masonic Hold
+  | Anti-Masonic Party Hold                 = FFFFE6
+
+| Conservative
+  | Conservative Party                      = FF8C00
+| Constitution
+  | Constitution Party                      = A356DE
+
+| Democratic
+  | Democratic Party                        = 3333FF
+| Democratic light
+  | Democratic shading                      = B0CEFF <!-- For text-over shading-->
+| Democratic–Farmer–Labor                            <!-- Rule: Use N-dash -->
+  | Democratic–Farmer–Labor Party
+  | Democratic-Farmer-Labor                          <!-- If hyphenated -->
+  | Democratic-Farmer-Labor Party           = 0055A5
+| Democratic-Republican
+  | Democratic-Republican Party                      <!-- Rule: Use hyphen -->
+  | Democratic–Republican
+  | Democratic–Republican Party                      <!-- If N-dash is used -->
+  | Jacksonian Democratic
+  | Jacksonian Democratic Party             = 008000
+| Dixiecrat
+  | Dixiecrat Party                         = F5BCA9
+
+| Farmer–Labor                                       <!-- Rule: Use N-dash -->
+  | Farmer–Labor Party                               <!-- Diff from Democratic–Farmer–Labor -->
+  | Farmer-Labor                                     <!-- If hyphen is used -->
+  | Farmer-Labor Party                      = 66F500
+| Federalist
+  | Federalist Party
+  | Jacksonian Federalist
+  | Jacksonian Federalist Party             = EA9978
+| Free Soil
+  | Free Soil Party                         = CCCC66
+
+| Green
+  | Green Party
+  | Pacific Green
+  | Pacific Green Party                     = 00A95C
+| Greenback
+  | Greenback Party                         = 0BDA51
+
+| Independence
+  | Independence Party                      = FFC14E
+| Independent
+  | Independent Party                       = DDDDCC<!-- old color (yellow): E8E800-->
+| Independent American
+  | Independent American Party              = FFD700
+| Independent Democratic
+  | Independent Democratic Party
+  | Mississippi Freedom Democratic
+  | Mississippi Freedom Democratic Party    = 6699CC
+| Independent Republican
+  | Independent Republican Party            = CC6666<!-- Old color: EE8811-->
+
+| Jacksonian
+  | Jacksonian Party                        = DDEEFF
+| Jacksonian Hold
+  | Jacksonian Party Hold                   = F1F8FF
+
+| Know Nothing                                       <!-- Rule: Use space -->
+  | Know Nothing Party
+  | Know-Nothing                                     <!-- If hyphenated -->
+  | Know-Nothing Party
+  | American
+  | American Party                          = D99FE8
+
+<!-- for Labor, see American Labor-->
+| Liberal
+  | Liberal Party                           = CC0000
+| Liberal Republican
+  | Liberal Republican Party                = FF69B4
+| Libertarian
+  | Libertarian Party                       = FED105
+| Liberty
+  | Liberty Party                           = 00DDDD
+| Liberty Union
+  | Liberty Union Party                     = D6FF33
+
+| Marijuana
+  | Marijuana Party
+  | Legal Marijuana Now
+  | Legal Marijuana Now Party
+  | Marijuana Reform
+  | Marijuana Reform Party
+  | Grassroots
+  | Grassroots Party
+  | Grassroots-Legalize Cannabis
+  | Grassroots-Legalize Cannabis Party      = 50C878
+
+| Natural Law
+  | Natural Law Party                       = 00BFFF
+| National
+  | National Party                          = EE6666
+| National Union  <!-- This is the "Firebrick" red taken from predefined [web colors](https://second-renaissance.fandom.com/wiki/web_colors) / [X11 colors](https://second-renaissance.fandom.com/wiki/X11_colors).-->
+  | National Union Party                    = B22222
+| Nonpartisan League
+  | Non-Partisan League
+  | NPL
+  | NPL Party                               = FCF5D9
+| North Dakota Democratic-NPL                        <!-- Not the same as plain NPL -->
+  | North Dakota Democratic-NPL Party       = 0D5CAB
+| Nullifier
+  | Nullifier Party                         = 0EBFB0
+
+| Opposition
+  | Opposition Party                        = FFE153
+| Other                                     
+  | Others                                  = DDDDCC<!-- See Independent -->
+
+| People's
+  | People's Party                          = 00FF7F
+| Populist
+  | Populist Party                          = ACE1AF
+| Pro-Administration
+  | Pro-Administration Party                = 0EBC00
+| Progressive
+  | Progressive Party                       = 5FD170
+| Prohibition
+  | Prohibition Party                       = FF00FF
+
+| Readjuster
+  | Readjuster Party                        = 0EBFE9
+| Republican
+  | Republican Party                        = E81B23
+| Republican light
+  | Republican shading                      = FFB6B6 <!-- For text-over shading-->
+| Reform
+  | Reform Party                            = 6A287E
+| Right to Life
+  | Right to Life Party                     = F4C2C2
+
+| Silver
+  | Silver Party                            = 79CDCD
+| Socialist
+  | Socialist Party                         = CD3700
+| Socialist Workers
+  | Socialist Workers Party                 = AA0000
+
+| Union
+  | Union Party                             = B28466
+| Union Labor
+  | Union Labor Party                       = 6633CC
+| United Utah
+  | United Utah Party                       = 80151F
+| Unionist
+  | Unionist Party
+  | Unionist Party (United States)          = FFAADD
+| Unconditional Unionist
+  | Unconditional Unionist Party            = FFAABB
+
+| Vacant                                    = FFFFFF
+
+| Whig
+  | Whig Party                              = F0C862
+| Workers World
+  | Workers World Party                     = FF33AA
+| Write-in
+  | Write in
+  | Unknown                                 = transparent<!-- See Other -->
+
+| transparent
+
+}}</includeonly><noinclude>
+{{documentation}}
+</noinclude>
+```
+
+## Provenance
+
+Raw source: `bronze/pages/3315/9434.wikitext` · revision `9434` · [upstream](https://second-renaissance.fandom.com/wiki/Template%3APolitical_party_color)

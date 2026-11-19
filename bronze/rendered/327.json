@@ -1,0 +1,30 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"plainlinks ombox ombox-style\" style=\"\">\n<tbody><tr>\n<td class=\"mbox-image\">\n  <span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://static.wikia.nocookie.net/second-renaissance/images/2/23/Ambox_warning_yellow.png/revision/latest?cb=20150811222658\" decoding=\"async\" loading=\"lazy\" width=\"40\" height=\"34\" class=\"mw-file-element\" data-image-name=\"Ambox warning yellow.png\" data-image-key=\"Ambox_warning_yellow.png\" data-relevant=\"0\" /></span></span></td>\n<td class=\"mbox-text\" style=\"\"> <b>This template is used on <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"//tools.wmflabs.org/templatecount/index.php?lang=en&amp;namespace=10&amp;name=High-use\">many pages</a></b>, so changes to it will be widely noticed. Please test any changes in the template's <span class=\"new\" title=\"Template:High-use/sandbox (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SGlnaC11c2Uvc2FuZGJveD9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">/sandbox</span> or <span class=\"new\" title=\"Template:High-use/testcases (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SGlnaC11c2UvdGVzdGNhc2VzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">/testcases</span> subpages, or in a <a href=\"https://en.wikipedia.org/wiki/Subpages#How_to_create_user_subpages\" class=\"extiw\" title=\"wikipedia:Subpages\">user subpage</a>, and consider discussing changes at the <span class=\"new\" title=\"Template talk:High-use (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGVfdGFsazpIaWdoLXVzZT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">talk page</span> before implementing them. </td>\n</tr>\n</tbody></table>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:High-use/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SGlnaC11c2UvZG9jP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">Template:High-use/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:High-use/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SGlnaC11c2UvZG9jP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">Template:High-use/doc</span></div>\n\n<!-- \nNewPP limit report\nCached time: 20261119205426\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.014 seconds\nReal time usage: 0.027 seconds\nPreprocessor visited node count: 111/1000000\nPost‐expand include size: 2797/2097152 bytes\nTemplate argument size: 1167/2097152 bytes\nHighest expansion depth: 9/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    9.553      1 -total\n 66.62%    6.364      1 Template:Ombox\n 40.12%    3.833      1 Template:Ombox/core\n 32.87%    3.140      1 Template:Documentation\n 12.44%    1.188      1 Template:High-use/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:327-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205426 and revision id 517. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:High-use/sandbox",
+      "ns": 10
+    },
+    {
+      "*": "Template:High-use/testcases",
+      "ns": 10
+    },
+    {
+      "*": "Template:High-use/doc",
+      "ns": 10
+    },
+    {
+      "*": "Template talk:High-use",
+      "ns": 11
+    }
+  ],
+  "page_id": 327,
+  "revision_id": 517,
+  "title": "Template:High-use"
+}

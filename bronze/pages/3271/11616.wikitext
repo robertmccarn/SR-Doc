@@ -1,0 +1,599 @@
+== List ==
+{| class="wikitable" style="text-align:center"
+|-
+! colspan=9 | {{legend2|{{Pro-Administration Party (US)/meta/color}}|[[Wikipedia:Pro-Administration party|Pro-Administration]] (1)|border=1px solid #AAAAAA}}{{ns|2}}{{Legend2|{{Federalist Party/meta/color}}|[[Wikipedia:Federalist Party|Federalist]] (1)|border=1px solid #AAAAAA}}{{ns|2}}{{Legend2|{{Democratic-Republican Party/meta/color}}|[[Wikipedia:Democratic-Republican Party|Democratic-Republican]] (6)|border=1px solid #AAAAAA}}{{ns|2}}{{Legend2|#0EBFB0|[[Wikipedia:Nullifier Party|Nullifier]] (1)|border=1px solid #AAAAAA}}{{ns|2}}{{Legend2|{{Democratic Party (US)/meta/color}}|[[Wikipedia:Democratic Party (United States)|Democratic]] (17)|border=1px solid #AAAAAA}}{{ns|2}}{{Legend2|{{Whig Party (US)/meta/color}}|[[Wikipedia:Whig Party (United States)|Whig]] (2)|border=1px solid #AAAAAA}}{{ns|2}}{{Legend2|{{Republican Party (US)/meta/color}}|[[Wikipedia:Republican Party (United States)|Republican]] (21)|border=1px solid #AAAAAA}}{{ns|2}}{{Legend2|{{National Union Party (US)/meta/color}}|[[Wikipedia:National Union Party (United States)|National Union]] (1)|border=1px solid #AAAAAA}}
+|-
+! colspan=2 | Vice presidency
+! colspan=2 | Vice President{{Efn|name="Definition"}}
+! Prior office{{Efn|name="position"}}
+! colspan=2 | Party
+! Election
+! President
+|-
+! rowspan=2 | 1
+| rowspan=2 | <span class="date" style="white-space:nowrap">April 21, 1789{{Efn|name="JA-start"}}</span><br />–<br /><span class="date" style="white-space:nowrap">March 4, 1797</span>
+| rowspan=2 | [[File:US Navy 031029-N-6236G-001 A painting of President John Adams (1735-1826), 2nd president of the United States, by Asher B. Durand (1767-1845)-crop.jpg|150px]]
+| rowspan=2 | '''{{Big|[[Wikipedia:John Adams|John Adams]]}}'''<br />1735–1826<br />{{Small|(Lived 90 years)}}<br /><ref>{{cite web |url=https://obamawhitehouse.archives.gov/about/presidents/johnadams/ |title=Biography of John Adams |accessdate=January 12, 2009 |date=March 12, 2007 |publisher=Whitehouse.gov}}</ref><ref>{{cite web |url=http://www.history.com/presidents/adams |title=John Adams&nbsp;– Federalist Party&nbsp;– 2nd President&nbsp;– American Presidents |accessdate=January 12, 2009 |publisher=[[Wikipedia:History (U.S. TV channel)|History]] |url-status=dead |archiveurl=https://web.archive.org/web/20090225173126/http://www.history.com/presidents/adams |archivedate=February 25, 2009}}</ref><ref>{{cite web |url=http://www.c-span.org/video/?121951-1/life-portrait-john-adams |title=Life Portrait of John Adams |accessdate=March 6, 2016 |work=American Presidents: Life Portrait |publisher=[[Wikipedia:C-SPAN|C-SPAN]]}}</ref>
+| rowspan=2 |[Wikipedia:[United States Ambassador to the United Kingdom|Minister to the Court of St. James's]]<br />{{small|(1785–1788)}}
+| style="background:{{Pro-Administration Party (US)/meta/color}}" |&nbsp;
+| [[Wikipedia:Pro-Administration party|Pro-Administration]]
+{{Efn|name="ProAdmin"}}
+| [[Wikipedia:1788–89 United States presidential election|1788–89]]
+| rowspan=2 | <span class="date" style="white-space:nowrap">[[Wikipedia:George Washington|George Washington]]{{Efn|name="Washington-nonpartisan"}}</span>
+|-
+| style="background-color:{{Federalist Party/meta/color}}" |
+| [[Wikipedia:Federalist Party|Federalist]]
+| [[Wikipedia:1792 United States presidential election|1792]]
+|-
+! 2
+| <span class="date" style="white-space:nowrap">March 4, 1797</span><br />–<br /><span class="date" style="white-space:nowrap">March 4, 1801</span>
+| [[File:Thomas Jefferson by Rembrandt Peale, 1800.jpg|150px]]
+| '''{{Big|[[Wikipedia:Thomas Jefferson|Thomas Jefferson]]}}'''<br />1743–1826<br />{{Small|(Lived 83 years)}}<br /><ref>{{cite web |url=https://obamawhitehouse.archives.gov/about/presidents/thomasjefferson/ |title=Biography of Thomas Jefferson |accessdate=January 12, 2009 |date=March 12, 2007 |publisher=Whitehouse.gov}}</ref><ref>{{cite web |url=http://www.history.com/presidents/jefferson |title=Thomas Jefferson&nbsp;–&nbsp;Democratic-Republican Party&nbsp;– 3rd President&nbsp;– American Presidents |accessdate=January 12, 2009 |publisher=[[Wikipedia:History (U.S. TV channel)|History]] |url-status=dead |archiveurl=https://web.archive.org/web/20090305021547/http://www.history.com/presidents/jefferson |archivedate=March 5, 2009}}</ref><ref>{{cite web |url=http://www.c-span.org/video/?121787-1/life-portrait-thomas-jefferson |title=Life Portrait of Thomas Jefferson |accessdate=March 6, 2016 |work=American Presidents: Life Portrait |publisher=[[Wikipedia:C-SPAN|C-SPAN]]}}</ref>
+| [[Wikipedia:United States Secretary of State|U.S. secretary of state]]<br />{{small|(1790–1793)}}
+| style="background-color:{{Democratic-Republican Party/meta/color}}" |
+| [[Wikipedia:Democratic-Republican Party|Democratic-Republican]]
+| [[Wikipedia:1796 United States presidential election|1796]]
+| [[Wikipedia:John Adams|John Adams]]
+{{Efn|name="Adams-Jefferson"}}
+|-
+! 3
+| <span class="date" style="white-space:nowrap">March 4, 1801</span><br />–<br /><span class="date" style="white-space:nowrap">March 4, 1805</span>
+| [[File:Vanderlyn Burr.jpg|150px]]
+| '''{{Big|[[Wikipedia:Aaron Burr|Aaron Burr]]}}'''<br />1756–1836<br />{{Small|(Lived 80 years)}}<br /><ref>{{cite web |url= http://millercenter.org/president/essays/burr-1801-vicepresident|title= Aaron Burr (1801–1805) – Vice President|publisher= Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| Member of the [[Wikipedia:New York State Assembly|New York State Assembly]]<br />{{small|(1784–1785 and 1798–1799)}}
+| style="background-color:{{Democratic-Republican Party/meta/color}}" |
+| [[Wikipedia:Democratic-Republican Party|Democratic-Republican]]
+| [[Wikipedia:1800 United States presidential election|1800]]
+| rowspan=2 | [[Wikipedia:Thomas Jefferson|Thomas Jefferson]]
+|-
+! rowspan=2 | 4
+| rowspan=2 | <span class="date" style="white-space:nowrap">March 4, 1805</span><br />–<br /><span class="date" style="white-space:nowrap">April 20, 1812</span><br />{{Small|(Died in office)}}
+| rowspan=2 | [[File:George Clinton by Ezra Ames.jpg|150px]]
+| rowspan=2 | '''{{Big|[[Wikipedia:George Clinton (vice president)|George Clinton]]}}'''<br />1739–1812<br />{{Small|(Lived 72 years)}}<br /><ref>{{cite web |url= http://millercenter.org/president/essays/clinton-1805-george-vicepresident|title= George Clinton (1805–1809) – Vice President|publisher= Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| rowspan=2 | [[Wikipedia:Governor of New York|Governor of New York]]<br />{{small|(1777–1795 and 1801–1804)}}
+| rowspan="2" style="background-color:{{Democratic-Republican Party/meta/color}}" |
+| rowspan=2 | [[Wikipedia:Democratic-Republican Party|Democratic-Republican]]
+| [[Wikipedia:1804 United States presidential election|1804]]
+|-
+| rowspan=2 | [[Wikipedia:1808 United States presidential election|1808]]
+| rowspan=4 | [[Wikipedia:James Madison|James Madison]]
+|-
+| colspan=7 {{CNone|''Office vacant April 20, 1812 – March 4, 1813''{{Efn|name="Pre-25th"}}}}
+|-
+! 5
+| <span class="date" style="white-space:nowrap">March 4, 1813</span><br />–<br /><span class="date" style="white-space:nowrap">November 23, 1814</span><br />{{Small|(Died in office)}}
+| [[File:Elbridge-gerry-painting.jpg|150px]]
+| '''{{Big|[[Wikipedia:Elbridge Gerry|Elbridge Gerry]]}}'''<br />1744–1814<br />{{Small|(Lived 70 years)}}<br /><ref>{{cite web|url= http://millercenter.org/president/essays/gerry-1813-vicepresident|title= Elbridge Gerry (1813–1814) – Vice President|publisher= Miller Center of Public Affairs, University of Virginia|access-date= September 6, 2016|url-status= dead|archiveurl= https://web.archive.org/web/20161021144448/http://millercenter.org/president/essays/gerry-1813-vicepresident|archivedate= October 21, 2016}}</ref>
+| [[Wikipedia:Governor of Massachusetts|Governor of Massachusetts]]<br />{{small|(1810–1812)}}
+| style="background-color:{{Democratic-Republican Party/meta/color}}" |
+| [[Wikipedia:Democratic-Republican Party|Democratic-Republican]]
+| rowspan=2 | [[Wikipedia:1812 United States presidential election|1812]]
+|-
+| colspan=7 {{CNone|''Office vacant November 23, 1814 – March 4, 1817''{{Efn|name="Pre-25th"}}}}
+|-
+! rowspan=2 | 6
+| rowspan=2 | <span class="date" style="white-space:nowrap">March 4, 1817</span><br />–<br /><span class="date" style="white-space:nowrap">March 4, 1825</span><br />
+| rowspan=2 | [[File:Daniel D Tompins by John Wesley Jarvis.jpg|150px]]
+| rowspan=2 |'''{{Big|[[Wikipedia:Daniel D. Tompkins|Daniel D. Tompkins]]}}'''<br />1774–1825<br />{{Small|(Lived 50 years)}}<br /><ref>{{cite web |url= http://millercenter.org/president/essays/tompkins-1817-vicepresident|title= Daniel D. Tompkins (1817–1825) – Vice President|publisher= Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| rowspan=2 | [[Wikipedia:Governor of New York|Governor of New York]]<br />{{small|(1807–1817)}}
+| rowspan="2" style="background-color:{{Democratic-Republican Party/meta/color}}" |
+| rowspan=2 | [[Wikipedia:Democratic-Republican Party|Democratic-Republican]]
+| [[Wikipedia:1816 United States presidential election|1816]]
+| rowspan=2 |[[Wikipedia:James Monroe|James Monroe]]
+|-
+| [[Wikipedia:1820 United States presidential election|1820]]
+|-
+! rowspan=2| 7
+| rowspan=2 | <span class="date" style="white-space:nowrap">March 4, 1825</span><br />–<br /><span class="date" style="white-space:nowrap">December 28, 1832</span><br />{{Small|(Resigned from office)}}
+| rowspan=2 | [[File:George Peter Alexander Healy - John C. Calhoun - Google Art Project.jpg|150px]]
+| rowspan=2 | '''{{Big|[[Wikipedia:John C. Calhoun|John C. Calhoun]]}}'''<br />1782–1850<br />{{Small|(Lived 68 years)}}<br /><ref>{{cite web |url= http://millercenter.org/president/essays/calhoun-1825-vicepresident|title= John C. Calhoun (1825–1829) – Vice President|publisher= Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| rowspan=2 | [[Wikipedia:United States Secretary of War|U.S. secretary of war]]<br />{{small|(1817–1825)}}
+| style="background-color:{{Democratic-Republican Party/meta/color}}" |
+| [[Wikipedia:Democratic-Republican Party|Democratic-Republican]]
+| [[Wikipedia:1824 United States presidential election|1824]]
+| [[Wikipedia:John Quincy Adams|John Q. Adams]]
+|-
+| style="background-color:#0EBFB0" |
+| [[Wikipedia:Nullifier Party|Nullifier]]
+{{Efn|name="Calhoun-party"}}<br />{{Small|[[Wikipedia:Democratic Party (United States)|Democratic]]}}
+| rowspan=2 | [[Wikipedia:1828 United States presidential election|1828]]
+| rowspan=3 | [[Wikipedia:Andrew Jackson|Andrew Jackson]]
+{{Efn|name="Jackson-party"}}
+|-
+| colspan=7 {{CNone|''Office vacant December 28, 1832 – March 4, 1833''{{Efn|name="Pre-25th"}}}}
+|-
+! 8
+| <span class="date" style="white-space:nowrap">March 4, 1833</span><br />–<br /><span class="date" style="white-space:nowrap">March 4, 1837</span>
+| [[File:Francis Alexander - Martin Van Buren - Google Art Project.jpg|150px]]
+| '''{{Big|[[Wikipedia:Martin Van Buren|Martin Van Buren]]}}'''<br />1782–1862<br />{{Small|(Lived 79 years)}}<br /><ref>{{cite web |url=https://obamawhitehouse.archives.gov/about/presidents/martinvanburen/|title=Biography of Martin Van Buren |accessdate=January 12, 2009 |date=March 12, 2007 |publisher=Whitehouse.gov}}</ref><ref>{{cite web |url=http://www.history.com/presidents/vanburen |title=Martin Van Buren –&nbsp;Democratic-Republican, Democratic, and Free Soil Party&nbsp;– 8th President&nbsp;– American Presidents |accessdate=January 12, 2009 |publisher=[[Wikipedia:History (U.S. TV channel)|History]] |url-status=dead |archiveurl=https://web.archive.org/web/20090305021457/http://www.history.com/presidents/vanburen |archivedate=March 5, 2009}}</ref><ref>{{cite web |url=http://www.c-span.org/video/?122988-1/life-portrait-martin-van-buren |title=Life Portrait of Martin Van Buren |accessdate=March 6, 2016 |work=American Presidents: Life Portrait |publisher=[[Wikipedia:C-SPAN|C-SPAN]]}}</ref>
+| [[Wikipedia:United States Ambassador to the United Kingdom|Minister to the Court of St. James's]]<br />{{small|(1831–1832)}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Wikipedia:Democratic Party (United States)|Democratic]]
+| [[Wikipedia:1832 United States presidential election|1832]]
+|-
+! 9
+| <span class="date" style="white-space:nowrap">March 4, 1837</span><br />–<br /><span class="date" style="white-space:nowrap">March 4, 1841</span>
+| [[File:RichardMentorJohnson.jpg|150px]]
+| '''{{Big|[[Wikipedia:Richard Mentor Johnson|Richard Mentor Johnson]]}}'''<br />1780–1850<br />{{Small|(Lived 70 years)}}<br /><ref>{{cite web |url= http://millercenter.org/president/essays/johnson-1837-vicepresident |title= Richard M. Johnson (1837–1841) – Vice President|publisher= Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| [[Wikipedia:List of United States Representatives from Kentucky|Member of the U.S. House of Representatives from Kentucky]]<br />{{small|(1833–1837)}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Wikipedia:Democratic Party (United States)|Democratic]]
+| [[Wikipedia:1836 United States presidential election|1836]]
+| [[Wikipedia:Martin Van Buren|Martin Van Buren]]
+|-
+! 10
+| <span class="date" style="white-space:nowrap">March 4, 1841</span><br />–<br /><span class="date" style="white-space:nowrap">April 4, 1841</span><br />{{Small|(Became President)}}
+| [[File:TylerDaguerreotype.jpg|150px]]
+| '''{{Big|[[Wikipedia:John Tyler|John Tyler]]}}'''<br />1790–1862<br />{{Small|(Lived 71 years)}}<br /><ref>{{cite web |url=https://obamawhitehouse.archives.gov/about/presidents/johntyler/|title=Biography of John Tyler |accessdate=January 12, 2009 |date=March 12, 2007 |publisher=Whitehouse.gov}}</ref><ref>{{cite web |url=http://www.history.com/presidents/tyler |title=John Tyler&nbsp;– No Party&nbsp;– 10th President&nbsp;– American Presidents |accessdate=January 12, 2009 |publisher=[[Wikipedia:History (U.S. TV channel)|History]] |url-status=dead |archiveurl=https://web.archive.org/web/20090305021653/http://www.history.com/presidents/tyler |archivedate=March 5, 2009}}</ref><ref>{{cite web |url=http://www.c-span.org/video/?123380-1/life-portrait-john-tyler |title=Life Portrait of John Tyler |accessdate=March 6, 2016 |work=American Presidents: Life Portrait |publisher=[[Wikipedia:C-SPAN|C-SPAN]]}}</ref>
+| [[Wikipedia:List of United States senators from Virginia|U.S. senator from Virginia]]<br />{{small|(1827–1836)}}
+| style="background-color:{{Whig Party (US)/meta/color}}" |
+| [[Wikipedia:Whig Party (United States)|Whig]]
+| rowspan=2 | [[Wikipedia:1840 United States presidential election|1840]]
+| [[Wikipedia:William Henry Harrison|William H. Harrison]]<br />{{Small|(Died in office)}}
+|-
+| colspan=7 {{CNone|''Office vacant April 4, 1841 – March 4, 1845''{{Efn|name="Pre-25th"}}}}
+| [[Wikipedia:John Tyler|John Tyler]]
+|-
+! 11
+| <span class="date" style="white-space:nowrap">March 4, 1845</span><br />–<br /><span class="date" style="white-space:nowrap">March 4, 1849</span>
+| [[File:George Mifflin Dallas 1848 crop.png|150px]]
+| '''{{Big|[[Wikipedia:George M. Dallas|George M. Dallas]]}}'''<br />1792–1864<br />{{Small|(Lived 72 years)}}<br /><ref>{{cite web |url= https://millercenter.org/president/polk/essays/dallas-1845-vicepresident|title= George M. Dallas (1845–1849) – Vice President|publisher= Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| [[Wikipedia:United States Ambassador to Russia|Minister to Russia]]<br />{{small|(1837–1839)}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Wikipedia:Democratic Party (United States)|Democratic]]
+| [[Wikipedia:1844 United States presidential election|1844]]
+| [[Wikipedia:James K. Polk|James K. Polk]]
+|-
+! 12
+| <span class="date" style="white-space:nowrap">March 4, 1849</span><br />–<br /><span class="date" style="white-space:nowrap">July 9, 1850</span><br />{{Small|(Became President)}}
+| [[File:Fillmore.jpg|150px]]
+| '''{{Big|[[Wikipedia:Millard Fillmore|Millard Fillmore]]}}'''<br />1800–1874<br />{{Small|(Lived 74 years)}}<br /><ref>{{cite web |url=https://obamawhitehouse.archives.gov/about/presidents/millardfillmore/|title=Biography of Millard Fillmore |accessdate=January 12, 2009 |date=March 12, 2007 |publisher=Whitehouse.gov}}</ref><ref>{{cite web |url=http://www.history.com/presidents/fillmore |title=Millard Filmore&nbsp;– WHIG Party&nbsp;– 13th President&nbsp;– American Presidents |accessdate=January 12, 2009 |publisher=[[Wikipedia:History (U.S. TV channel)|History]] |url-status=dead |archiveurl=https://web.archive.org/web/20090305021519/http://www.history.com/presidents/fillmore |archivedate=March 5, 2009}}</ref><ref>{{cite web |url=http://www.c-span.org/video/?124976-1/life-portrait-millard-fillmore |title=Life Portrait of Millard Fillmore |accessdate=March 6, 2016 |work=American Presidents: Life Portrait |publisher=[[Wikipedia:C-SPAN|C-SPAN]]}}</ref>
+| [[Wikipedia:New York State Comptroller|New York State Comptroller]]<br />{{small|(1848–1849)}}
+| style="background-color:{{Whig Party (US)/meta/color}}" |
+| [[Wikipedia:Whig Party (United States)|Whig]]
+| rowspan=2 | [[Wikipedia:1848 United States presidential election|1848]]
+| [[Wikipedia:Zachary Taylor|Zachary Taylor]]<br />{{Small|(Died in office)}}
+|-
+| colspan=7 {{CNone|''Office vacant July 9, 1850 – March 4, 1853''{{Efn|name="Pre-25th"}}}}
+| [[Wikipedia:Millard Fillmore|Millard Fillmore]]
+|-
+! 13
+| <span class="date" style="white-space:nowrap">March 4, 1853{{Efn|name="King-start"}}</span><br />–<br /><span class="date" style="white-space:nowrap">April 18, 1853</span><br />{{Small|(Died in office)}}
+| [[File:William R. D. King Vice President.jpg|150px]]
+| '''{{Big|[[Wikipedia:William R. King|William R. King]]}}'''<br />1786–1853<br />{{Small|(Lived 67 years)}}<br /><ref>{{cite web |url= http://millercenter.org/president/essays/king-1853-vicepresident|title= William R. D. King (1853) – Vice President|publisher= Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| [[Wikipedia:List of United States senators from Alabama|U.S. senator from Alabama]]<br />{{small|(1819–1844 and 1848–1852)}}<br />[[Wikipedia:President pro tempore of the United States Senate|President pro tempore]]<br />{{small|(1850–1852)}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Wikipedia:Democratic Party (United States)|Democratic]]
+| rowspan=2 |[[Wikipedia:1852 United States presidential election|1852]]
+| rowspan=2 |[[Wikipedia:Franklin Pierce|Franklin Pierce]]
+|-
+| colspan=7 {{CNone|''Office vacant April 18, 1853 – March 4, 1857''{{Efn|name="Pre-25th"}}}}
+|-
+! 14
+| <span class="date" style="white-space:nowrap">March 4, 1857</span><br />–<br /><span class="date" style="white-space:nowrap">March 4, 1861</span>
+| [[File:John C Breckinridge-04775-restored.jpg|150px]]
+| '''{{Big|[[Wikipedia:John C. Breckinridge|John C. Breckinridge]]}}'''<br />1821–1875<br />{{Small|(Lived 54 years)}}<br /><ref>{{cite web |url=http://millercenter.org/president/essays/breckinridge-1857-vicepresidentnt|title= John C. Breckinridge (1857–1861) – Vice President|publisher= Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| [[Wikipedia:List of United States Representatives from Kentucky|Member of the U.S. House of Representatives from Kentucky]]<br />{{small|(1851–1855)}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Wikipedia:Democratic Party (United States)|Democratic]]
+| [[Wikipedia:1856 United States presidential election|1856]]
+| [[Wikipedia:James Buchanan|James Buchanan]]
+|-
+! 15
+| <span class="date" style="white-space:nowrap">March 4, 1861</span><br />–<br /><span class="date" style="white-space:nowrap">March 4, 1865</span>
+| [[File:Hannibal Hamlin, photo portrait seated, c1860-65-retouched-crop.jpg|150px]]
+| '''{{Big|[[Wikipedia:Hannibal Hamlin|Hannibal Hamlin]]}}'''<br />1809–1891<br />{{Small|(Lived 81 years)}}<br /><ref>{{cite web |url= http://millercenter.org/president/essays/hamlin-1861-vicepresident|title= Hannibal Hamlin (1861–1865) – Vice President|publisher= Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| [[Wikipedia:List of United States senators from Maine|U.S. senator from Maine]]<br />{{small|(1848–1857 and 1857–1861)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Wikipedia:Republican Party (United States)|Republican]]
+| [[Wikipedia:1860 United States presidential election|1860]]
+| rowspan=2 |[[Wikipedia:Abraham Lincoln|Abraham Lincoln]]
+{{Efn|name="Lincoln-party"}}<br />{{Small|([[Wikipedia:Assassination of Abraham Lincoln|Died in office]])}}
+|-
+! 16
+| <span class="date" style="white-space:nowrap">March 4, 1865</span><br />–<br /><span class="date" style="white-space:nowrap">April 15, 1865</span><br />{{Small|(Became President)}}
+| [[File:President Andrew Johnson.jpg|150px]]
+| '''{{Big|[[Wikipedia:Andrew Johnson|Andrew Johnson]]}}'''<br />1808–1875<br />{{Small|(Lived 66 years)}}<br /><ref>{{cite web |url=https://obamawhitehouse.archives.gov/about/presidents/andrewjohnson/ |title=Biography of Andrew Johnson |accessdate=January 12, 2009 |date=March 12, 2007 |publisher=Whitehouse.gov}}</ref><ref>{{cite web |url=http://www.history.com/presidents/andrewjohnson |title=Andrew Johnson&nbsp;– National Union Party&nbsp;– 17th President&nbsp;– American Presidents |accessdate=January 12, 2009 |publisher=[[Wikipedia:History (U.S. TV channel)|History]] |url-status=dead |archiveurl=https://web.archive.org/web/20090305021512/http://www.history.com/presidents/andrewjohnson |archivedate=March 5, 2009}}</ref><ref>{{cite web |url=http://www.c-span.org/video/?150104-1/life-portrait-andrew-johnson |title=Life Portrait of Andrew Johnson |accessdate=March 6, 2016 |work=American Presidents: Life Portrait |publisher=[[Wikipedia:C-SPAN|C-SPAN]]}}</ref>
+| [[Wikipedia:Governor of Tennessee|Governor of Tennessee]]<br />{{small|(1853–1857)}}<br />Military Governor of Tennessee<br />{{small|(1862–1865)}}
+| style="background-color:{{National Union Party (US)/meta/color}}" |
+| [[Wikipedia:National Union Party (United States)|National Union]]
+| rowspan=2 | [[Wikipedia:1864 United States presidential election|1864]]
+|-
+| colspan=7 {{CNone|''Office vacant April 15, 1865 – March 4, 1869''{{Efn|name="Pre-25th"}}}}
+| [[Wikipedia:Andrew Johnson|Andrew Johnson]]
+|-
+! 17
+| <span class="date" style="white-space:nowrap">March 4, 1869</span><br />–<br /><span class="date" style="white-space:nowrap">March 4, 1873</span>
+| [[File:Schuyler Colfax portrait.jpg|150px]]
+| '''{{Big|[[Wikipedia:Schuyler Colfax|Schuyler Colfax]]}}'''<br />1823–1885<br />{{Small|(Lived 61 years)}}<br /><ref>{{cite web |url= http://millercenter.org/president/essays/colfax-1869-vicepresident|title= Schuyler Colfax (1869–1873) – Vice President|publisher= Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| [[Wikipedia:List of United States Representatives from Indiana|Member of the U.S. House of Representatives from Indiana]]<br />{{small|(1855–1869)}}<br />[[Wikipedia:Speaker of the United States House of Representatives|Speaker of the House]]<br />{{small|(1863–1869)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Wikipedia:Republican Party (United States)|Republican]]
+| [[Wikipedia:1868 United States presidential election|1868]]
+| rowspan=3 |[[Wikipedia:Ulysses S. Grant|Ulysses S. Grant]]
+|-
+! 18
+| <span class="date" style="white-space:nowrap">March 4, 1873</span><br />–<br /><span class="date" style="white-space:nowrap">November 22, 1875</span><br />{{Small|(Died in office)}}
+| [[File:HenryWilson.jpg|150px]]
+| '''{{Big|[[Wikipedia:Henry Wilson|Henry Wilson]]}}'''<br />1812–1875<br />{{Small|(Lived 63 years)}}<br /><ref>{{cite web |url= http://millercenter.org/president/essays/wilson-1873-vicepresident|title= Henry Wilson (1873–1875) – Vice President|publisher= Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| [[Wikipedia:List of United States senators from Massachusetts|U.S. senator from Massachusetts]]<br />{{small|(1855–1873)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Wikipedia:Republican Party (United States)|Republican]]
+| rowspan=2 |[[Wikipedia:1872 United States presidential election|1872]]
+|-
+| colspan=7 {{CNone|''Office vacant November 22, 1875 – March 4, 1877''{{Efn|name="Pre-25th"}}}}
+|-
+! 19
+| <span class="date" style="white-space:nowrap">March 4, 1877</span><br />–<br /><span class="date" style="white-space:nowrap">March 4, 1881</span>
+| [[File:VicePresident-WmAlWheeler.jpg|150px]]
+| '''{{Big|[[Wikipedia:William A. Wheeler|William A. Wheeler]]}}'''<br />1819–1887<br />{{Small|(Lived 67 years)}}<br /><ref>{{cite web |url= http://millercenter.org/president/essays/wheeler-1877-vicepresident|title= William A. Wheeler (1877–1881) – Vice President|publisher= Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| [[Wikipedia:List of United States Representatives from New York|Member of the U.S. House of Representatives from New York]]<br />{{small|(1875–1877)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Wikipedia:Republican Party (United States)|Republican]]
+| [[Wikipedia:1876 United States presidential election|1876]]
+| [[Wikipedia:Rutherford B. Hayes|Rutherford B. Hayes]]
+|-
+! 20
+|<br /><span class="date" style="white-space:nowrap">March 4, 1881</span><br />–<br /><span class="date" style="white-space:nowrap">September 19, 1881</span><br />{{Small|(Became President)}}
+| [[File:Chester Alan Arthur.jpg|150px]]
+| '''{{Big|[[Wikipedia:Chester A. Arthur|Chester A. Arthur]]}}'''<br />1829–1886<br />{{Small|(Lived 57 years)}}<br /><ref>{{cite web |url=https://obamawhitehouse.archives.gov/about/presidents/chesterarthur/ |title=Biography of Chester Arthur |accessdate=January 12, 2009 |date=March 12, 2007 |publisher=Whitehouse.gov}}</ref><ref>{{cite web |url=http://www.history.com/presidents/arthur |title=Chester A. Arthur –&nbsp;Republican Party&nbsp;– 21st President&nbsp;– American Presidents |accessdate=January 12, 2009 |publisher=[[Wikipedia:History (U.S. TV channel)|History]] |url-status=dead |archiveurl=https://web.archive.org/web/20090305021713/http://www.history.com/presidents/arthur |archivedate=March 5, 2009}}</ref><ref>{{cite web |url=http://www.c-span.org/video/?151431-1/life-portrait-chester-arthur |title=Life Portrait of Chester A. Arthur |accessdate=March 6, 2016 |work=American Presidents: Life Portrait |publisher=[[Wikipedia:C-SPAN|C-SPAN]]}}</ref>
+| 10th chairman of the [[Wikipedia:New York Republican State Committee|New York State Republican Executive Committee]]<br />{{small|(1879–1881)}}<br />{{small|(No prior elected office)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Wikipedia:Republican Party (United States)|Republican]]
+| rowspan=2 | [[Wikipedia:1880 United States presidential election|1880]]
+| [[Wikipedia:James A. Garfield|James A. Garfield]]<br />{{Small|([[Wikipedia:Assassination of James A. Garfield|Died in office]])}}
+|-
+| colspan=7 {{CNone|''Office vacant September 19, 1881 – March 4, 1885''{{Efn|name="Pre-25th"}}}}
+| [[Wikipedia:Chester A. Arthur|Chester A. Arthur]]
+|-
+! 21
+| <span class="date" style="white-space:nowrap">March 4, 1885</span><br />–<br /><span class="date" style="white-space:nowrap">November 25, 1885</span><br />{{Small|(Died in office)}}
+| [[File:Thomas Andrews Hendricks.jpg|150px]]
+| '''{{Big|[[Wikipedia:Thomas A. Hendricks|Thomas A. Hendricks]]}}'''<br />1819–1885<br />{{Small|(Lived 66 years)}}<br /><ref>{{cite web |url= http://millercenter.org/president/essays/hendricks-1885-vicepresident|title= Thomas A. Hendricks (1885) – Vice President|publisher= Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| [[Wikipedia:Governor of Indiana|Governor of Indiana]]<br />{{small|(1873–1877)}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Wikipedia:Democratic Party (United States)|Democratic]]
+| rowspan=2 |[[Wikipedia:1884 United States presidential election|1884]]
+| rowspan=2 | [[Wikipedia:Grover Cleveland|Grover Cleveland]]
+|-
+| colspan=7 {{CNone|''Office vacant November 25, 1885 – March 4, 1889''{{Efn|name="Pre-25th"}}}}
+|-
+! 22
+| <span class="date" style="white-space:nowrap">March 4, 1889</span><br />–<br /><span class="date" style="white-space:nowrap">March 4, 1893</span>
+| [[File:Levi Morton - Brady-Handy portrait - tight 3x4 crop.jpg|150px]]
+| '''{{Big|[[Wikipedia:Levi P. Morton|Levi P. Morton]]}}'''<br />1824–1920<br />{{Small|(Lived 96 years)}}<br /><ref>{{cite web |url=http://millercenter.org/president/essays/morton-1889-vicepresident|title=Levi P. Morton – Vice President|publisher= Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| [[Wikipedia:United States Ambassador to France|Minister to France]]<br />{{small|(1881–1885)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Wikipedia:Republican Party (United States)|Republican]]
+| [[Wikipedia:1888 United States presidential election|1888]]
+| [[Wikipedia:Benjamin Harrison|Benjamin Harrison]]
+|-
+! 23
+| <span class="date" style="white-space:nowrap">March 4, 1893</span><br />–<br /><span class="date" style="white-space:nowrap">March 4, 1897</span>
+| [[File:Adlai Ewing Stevenson I head-on-shoulders.jpg|150px]]
+| '''{{Big|[[Wikipedia:Adlai Stevenson I|Adlai Stevenson I]]}}'''<br />1835–1914<br />{{Small|(Lived 78 years)}}<br /><ref>{{cite web |url= http://millercenter.org/president/essays/stevenson-1893-vicepresident |title= Adlai E. Stevenson (1893–1897) – Vice President|publisher= Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| First assistant [[Wikipedia:United States Postmaster General|postmaster general]]<br />{{small|(1885–1889)}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Wikipedia:Democratic Party (United States)|Democratic]]
+| [[Wikipedia:1892 United States presidential election|1892]]
+| [[Wikipedia:Grover Cleveland|Grover Cleveland]]
+|-
+! 24
+| <span class="date" style="white-space:nowrap">March 4, 1897</span><br />–<br /><span class="date" style="white-space:nowrap">November 21, 1899</span><br />{{Small|(Died in office)}}
+| [[File:GHobart.jpg|150px]]
+| '''{{Big|[[Wikipedia:Garret Hobart|Garret Hobart]]}}'''<br />1844–1899<br />{{Small|(Lived 55 years)}}<br /><ref>{{cite web |url= http://millercenter.org/president/essays/hobart-1897-vicepresident|title=Garret A. Hobart (1897–1899) – Vice President|publisher= Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| Vice Chairman of the [[Wikipedia:Republican National Committee|Republican National Committee]]<br />{{Small|(1892–1896)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Wikipedia:Republican Party (United States)|Republican]]
+| rowspan=2 | [[Wikipedia:1896 United States presidential election|1896]]
+| rowspan=3 |[[Wikipedia:William McKinley|William McKinley]]<br />{{Small|([[Wikipedia:Assassination of William McKinley|Died in office]])}}
+|-
+| colspan=7 {{CNone|''Office vacant November 21, 1899 – March 4, 1901''{{Efn|name="Pre-25th"}}}}
+|-
+! 25
+| <span class="date" style="white-space:nowrap">March 4, 1901</span><br />–<br /><span class="date" style="white-space:nowrap">September 14, 1901</span><br />{{Small|(Became President)}}
+| [[File:President Theodore Roosevelt, 1904.jpg|150px]]
+| '''{{Big|[[Wikipedia:Theodore Roosevelt|Theodore Roosevelt]]}}'''<br />1858–1919<br />{{Small|(Lived 60 years)}}<br /><ref>{{cite web |url=https://obamawhitehouse.archives.gov/about/presidents/theodoreroosevelt/ |title=Biography of Theodore Roosevelt |accessdate=January 12, 2009 |date=March 12, 2007 |publisher=Whitehouse.gov}}</ref><ref>{{cite web |url=http://www.history.com/presidents/teddyroosevelt |title=Theodore Roosevelt –&nbsp;Republican, Bull Moose Party&nbsp;– 26th President&nbsp;– American Presidents |accessdate=January 12, 2009 |publisher=[[Wikipedia:History (U.S. TV channel)|History]] |url-status=dead |archiveurl=https://web.archive.org/web/20090226034721/http://www.history.com/presidents/teddyroosevelt |archivedate=February 26, 2009}}</ref><ref>{{cite web |url=http://www.c-span.org/video/?151618-1/life-portrait-theodore-roosevelt |title=Life Portrait of Theodore Roosevelt |accessdate=March 6, 2016 |work=American Presidents: Life Portrait |publisher=[[Wikipedia:C-SPAN|C-SPAN]]}}</ref>
+| [[Wikipedia:Governor of New York|Governor of New York]]<br />{{small|(1899–1900)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Wikipedia:Republican Party (United States)|Republican]]
+| rowspan=2 | [[Wikipedia:1900 United States presidential election|1900]]
+|-
+| colspan=7 {{CNone|''Office vacant September 14, 1901 – March 4, 1905''{{Efn|name="Pre-25th"}}}}
+| rowspan=2 | [[Wikipedia:Theodore Roosevelt|Theodore Roosevelt]]
+|-
+! 26
+| <span class="date" style="white-space:nowrap">March 4, 1905</span><br />–<br /><span class="date" style="white-space:nowrap">March 4, 1909</span>
+| [[File:CharlesWFairbanks.jpg|150px]]
+| '''{{Big|[[Wikipedia:Charles W. Fairbanks|Charles W. Fairbanks]]}}'''<br />1852–1918<br />{{Small|(Lived 66 years)}}<br /><ref>{{cite web |url=http://millercenter.org/president/essays/fairbanks-1901-vicepresident|title= Charles W. Fairbanks – Vice President |publisher= Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| [[Wikipedia:List of United States senators from Indiana|U.S. senator from Indiana]]<br />{{small|(1897–1905)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Wikipedia:Republican Party (United States)|Republican]]
+| [[Wikipedia:1904 United States presidential election|1904]]
+|-
+! 27
+| <span class="date" style="white-space:nowrap">March 4, 1909</span><br />–<br /><span class="date" style="white-space:nowrap">October 30, 1912</span><br />{{Small|(Died in office)}}
+| [[File:James Sherman, Bain bw photo portrait facing left.jpg|150px]]
+| '''{{Big|[[Wikipedia:James S. Sherman|James S. Sherman]]}}'''<br />1855–1912<br />{{Small|(Lived 57 years)}}<br /><ref>{{cite web |url = http://millercenter.org/president/essays/sherman-1909-vicepresident|title= James S. Sherman – Vice President|publisher= Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| [[Wikipedia:List of United States Representatives from New York|Member of the U.S. House of Representatives from New York]]<br />{{small|(1903–1909)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Wikipedia:Republican Party (United States)|Republican]]
+| rowspan=2 | [[Wikipedia:1908 United States presidential election|1908]]
+| rowspan=2 | [[Wikipedia:William Howard Taft|William H. Taft]]
+|-
+| colspan=7 {{CNone|''Office vacant October 30, 1912 – March 4, 1913''{{Efn|name="Pre-25th"}}}}
+|-
+! rowspan=2 | 28
+| rowspan=2 | <span class="date" style="white-space:nowrap">March 4, 1913</span><br />–<br /><span class="date" style="white-space:nowrap">March 4, 1921</span>
+| rowspan=2 | [[File:Thomas Riley Marshall headshot.jpg|150px]]
+| rowspan=2 |'''{{Big|[[Wikipedia:Thomas R. Marshall|Thomas Marshall]]}}'''<br />1854–1925<br />{{Small|(Lived 71 years)}}<br /><ref>{{cite web |url = http://millercenter.org/president/essays/marshall-1913-vicepresident|title= Thomas R. Marshall – Vice President|publisher= Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| rowspan=2 | [[Wikipedia:Governor of Indiana|Governor of Indiana]]<br />{{small|(1909–1913)}}
+| rowspan="2" style="background-color:{{Democratic Party (US)/meta/color}}" |
+| rowspan=2 | [[Wikipedia:Democratic Party (United States)|Democratic]]
+| [[Wikipedia:1912 United States presidential election|1912]]
+| rowspan=2 | [[Wikipedia:Woodrow Wilson|Woodrow Wilson]]
+|-
+| [[Wikipedia:1916 United States presidential election|1916]]
+|-
+! 29
+| <span class="date" style="white-space:nowrap">March 4, 1921</span><br />–<br /><span class="date" style="white-space:nowrap">August 2, 1923</span><br />{{Small|(Became President)}}
+| [[File:John Calvin Coolidge, Bain bw photo portrait.jpg|150px]]
+| '''{{Big|[[Wikipedia:Calvin Coolidge|Calvin Coolidge]]}}'''<br />1872–1933<br />{{Small|(Lived 60 years)}}<br /><ref>{{cite web |url=https://obamawhitehouse.archives.gov/about/presidents/calvincoolidge/ |title=Biography of Calvin Coolidge |accessdate=January 12, 2009 |date=March 13, 2007 |publisher=Whitehouse.gov}}</ref><ref>{{cite web |url=http://www.history.com/presidents/wilson |title=Calvin Coolidge –&nbsp;Republican Party&nbsp;– 30th President&nbsp;– American Presidents |accessdate=January 12, 2009 |publisher=[[Wikipedia:History (U.S. TV channel)|History]] |url-status=dead |archiveurl=https://web.archive.org/web/20090305021442/http://www.history.com/presidents/wilson |archivedate=March 5, 2009}}</ref><ref>{{cite web |url=http://www.c-span.org/video/?151626-1/life-portrait-calvin-coolidge |title=Life Portrait of Calvin Coolidge |accessdate=March 6, 2016 |work=American Presidents: Life Portrait |publisher=[[Wikipedia:C-SPAN|C-SPAN]]}}</ref>
+| [[Wikipedia:Governor of Massachusetts|Governor of Massachusetts]]<br />{{small|(1919–1921)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Wikipedia:Republican Party (United States)|Republican]]
+| rowspan=2 | [[Wikipedia:1920 United States presidential election|1920]]
+| [[Wikipedia:Warren G. Harding|Warren G. Harding]]<br />{{Small|(Died in office)}}
+|-
+| colspan=7 {{CNone|''Office vacant August 2, 1923 – March 4, 1925''{{Efn|name="Pre-25th"}}}}
+| rowspan=2 | [[Wikipedia:Calvin Coolidge|Calvin Coolidge]]
+|-
+! 30
+|<br /><span class="date" style="white-space:nowrap">March 4, 1925</span><br />–<br /><span class="date" style="white-space:nowrap">March 4, 1929</span>
+| [[File:Chas G Dawes-H&E.jpg|150px]]
+| '''{{Big|[[Wikipedia:Charles G. Dawes|Charles G. Dawes]]}}'''<br />1865–1951<br />{{Small|(Lived 85 years)}}<br /><ref>{{cite web |url = http://millercenter.org/president/essays/dawes-1923-vicepresident|title= Charles G. Dawes – Vice President|publisher=Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| 1st director of the [[Wikipedia:Office of Management and Budget|Bureau of the Budget]]<br />{{small|(1921–1922)}}<br />{{small|(No prior elected office)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Wikipedia:Republican Party (United States)|Republican]]
+| [[Wikipedia:1924 United States presidential election|1924]]
+|-
+! 31
+| <span class="date" style="white-space:nowrap">March 4, 1929</span><br />–<br /><span class="date" style="white-space:nowrap">March 4, 1933</span>
+| [[File:Charles Curtis-portrait.jpg|150px]]
+| '''{{Big|[[Wikipedia:Charles Curtis|Charles Curtis]]}}'''<br />1860–1936<br />{{Small|(Lived 76 years)}}<br /><ref>{{cite web |url = http://millercenter.org/president/essays/curtis-1929-vicepresident|title= Charles Curtis – Vice President|publisher=Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| [[Wikipedia:List of United States senators from Kansas|U.S. senator from Kansas]]<br />{{small|(1907–1913 and 1915–1929)}}<br />[[Wikipedia:President pro tempore of the United States Senate|President pro tempore]]<br />{{small|(1911)}}<br />[[Wikipedia:Party leaders of the United States Senate|Senate majority leader]]<br />{{small|(1925–1929)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Wikipedia:Republican Party (United States)|Republican]]
+| [[Wikipedia:1928 United States presidential election|1928]]
+| [[Wikipedia:Herbert Hoover|Herbert Hoover]]
+|-
+! rowspan=2 | 32
+| rowspan=2 | <span class="date" style="white-space:nowrap">March 4, 1933</span><br />–<br /><span class="date" style="white-space:nowrap">January 20, 1941{{Efn|name="AmendmentXX-term"}}</span>
+| rowspan=2 | [[File:JohnNanceGarner.png|150px]]
+| rowspan=2 | '''{{Big|[[Wikipedia:John Nance Garner|John Garner]]}}'''<br />1868–1967<br />{{Small|(Lived 98 years)}}<br /><ref>{{cite web |url = http://millercenter.org/president/essays/garner-1933-vicepresident|title= John N. Garner (1933–1941) – Vice President|publisher=Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| rowspan=2 | [[Wikipedia:List of United States Representatives from Texas|Member of the U.S. House of Representatives from Texas]]<br />{{small|(1903–1933)}}<br />[[Wikipedia:Party leaders of the United States House of Representatives|House minority leader]]<br />{{small|(1929–1931)}}<br />[[Wikipedia:Speaker of the United States House of Representatives|Speaker of the House]]<br />{{small|(1931–1933)}}
+| rowspan="2" style="background-color:{{Democratic Party (US)/meta/color}}" |
+| rowspan=2 | [[Wikipedia:Democratic Party (United States)|Democratic]]
+| [[Wikipedia:1932 United States presidential election|1932]]
+| rowspan=4 | [[Wikipedia:Franklin D. Roosevelt|Franklin D. Roosevelt]]<br />{{Small|(Died in office)}}
+|-
+| [[Wikipedia:1936 United States presidential election|1936]]
+|-
+! 33
+|<br /><span class="date" style="white-space:nowrap">January 20, 1941</span><br />–<br /><span class="date" style="white-space:nowrap">January 20, 1945</span>
+| [[File:Henry-A.-Wallace-Townsend.jpeg|150px]]
+| '''{{Big|[[Wikipedia:Henry A. Wallace|Henry A, Wallace]]}}'''<br />1888–1965<br />{{Small|(Lived 77 years)}}<br /><ref>{{cite web |url = http://millercenter.org/president/essays/wallace-1941-vicepresident|title= Henry A. Wallace (1941–1945) – Vice President|publisher=Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| [[Wikipedia:United States Secretary of Agriculture|U.S. secretary of agriculture]]<br />{{small|(1933–1940)}}<br />{{small|(No prior elected office)}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Wikipedia:Democratic Party (United States)|Democratic]]
+| [[Wikipedia:1940 United States presidential election|1940]]
+|-
+! 34
+| <span class="date" style="white-space:nowrap">January 20, 1945</span><br />–<br /><span class="date" style="white-space:nowrap">April 12, 1945</span><br />{{Small|(Became President)}}
+| [[File:Harry-truman.jpg|150px]]
+| '''{{Big|[[Wikipedia:Harry S. Truman|Harry S. Truman]]}}'''<br />1884–1972<br />{{Small|(Lived 88 years)}}<br /><ref>{{cite web |url=https://obamawhitehouse.archives.gov/about/presidents/harrystruman/ |title=Biography of Harry S Truman |accessdate=January 12, 2009 |date=March 12, 2007 |publisher=Whitehouse.gov}}</ref><ref>{{cite web |url=http://www.history.com/presidents/fdr |title=Harry S Truman –&nbsp;Democratic Party&nbsp;– 33rd President&nbsp;– American Presidents |accessdate=January 12, 2009 |publisher=[[Wikipedia:History (U.S. TV channel)|History]] |url-status=dead |archiveurl=https://web.archive.org/web/20090225043039/http://www.history.com/presidents/fdr |archivedate=February 25, 2009}}</ref><ref>{{cite web |url=http://www.c-span.org/video/?151629-1/life-portrait-harry-s-truman |title=Life Portrait of Harry S. Truman |accessdate=March 7, 2016 |work=American Presidents: Life Portrait |publisher=[[Wikipedia:C-SPAN|C-SPAN]]}}</ref>
+| [[Wikipedia:List of United States senators from Missouri|U.S. senator from Missouri]]<br />{{small|(1935–1945)}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Wikipedia:Democratic Party (United States)|Democratic]]
+| rowspan=2 | [[Wikipedia:1944 United States presidential election|1944]]
+|-
+| colspan=7 {{CNone|''Office vacant April 12, 1945 – January 20, 1949''{{Efn|name="Pre-25th"}}}}
+| rowspan=2 | [[Wikipedia:Harry S. Truman|Harry S. Truman]]
+|-
+! 35
+| <span class="date" style="white-space:nowrap">January 20, 1949</span><br />–<br /><span class="date" style="white-space:nowrap">January 20, 1953</span>
+| [[File:Alben Barkley.jpg|150px]]
+| '''{{Big|[[Wikipedia:Alben W. Barkley|Alben W. Barkley]]}}'''<br />1877–1956<br />{{Small|(Lived 78 years)}}<br /><ref>{{cite web |url = http://millercenter.org/president/essays/barkley-1945-vicepresident|title= Alben W. Barkley – Vice President|publisher=Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| [[Wikipedia:List of United States senators from Kentucky|U.S. senator from Kentucky]]<br />{{small|(1927–1949)}}<br />[[Wikipedia:Party leaders of the United States Senate|Senate majority leader]]<br />{{small|(1937–1947)}}<br />[[Wikipedia:Party leaders of the United States Senate|Senate minority leader]]<br />{{small|(1947–1949)}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Wikipedia:Democratic Party (United States)|Democratic]]
+| [[Wikipedia:1948 United States presidential election|1948]]
+|-
+! rowspan=2 | 36
+| rowspan=2 | <span class="date" style="white-space:nowrap">January 20, 1953</span><br />–<br /><span class="date" style="white-space:nowrap">January 20, 1961</span>
+| rowspan=2 | [[File:Richard M. Nixon, ca. 1935 - 1982 - NARA - 530679.jpg|150px]]
+| rowspan=2 |'''{{Big|[[Wikipedia:Richard Nixon|Richard Nixon]]}}'''<br />1913–[[Wikipedia:Death and state funeral of Richard Nixon|1994]]<br />{{Small|(Lived 81 years)}}<br /><ref>{{cite web |url=https://obamawhitehouse.archives.gov/about/presidents/richardnixon/ |title=Richard M. Nixon |accessdate=January 12, 2009 |date=March 12, 2007 |publisher=Whitehouse.gov}}</ref><ref>{{cite web |url=http://www.history.com/presidents/nixon |title=Richard Nixon –&nbsp;Republican Party&nbsp;– 37th President&nbsp;– American Presidents |accessdate=January 12, 2009 |publisher=[[Wikipedia:History (U.S. TV channel)|History]] |url-status=dead |archiveurl=https://web.archive.org/web/20090225070025/http://www.history.com/presidents/nixon |archivedate=February 25, 2009}}</ref><ref>{{cite web |url=http://www.c-span.org/video/?151633-1/life-portrait-richard-m-nixon |title=Life Portrait of Richard M. Nixon |accessdate=March 7, 2016 |work=American Presidents: Life Portrait |publisher=[[Wikipedia:C-SPAN|C-SPAN]]}}</ref>
+| rowspan=2 | [[Wikipedia:List of United States senators from California|U.S. senator from California]]<br />{{small|(1950–1953)}}
+| rowspan="2" style="background-color:{{Republican Party (US)/meta/color}}" |
+| rowspan=2 | [[Wikipedia:Republican Party (United States)|Republican]]
+| [[Wikipedia:1952 United States presidential election|1952]]
+| rowspan=2 | [[Wikipedia:Dwight D. Eisenhower|Dwight D. Eisenhower]]
+|-
+| [[Wikipedia:1956 United States presidential election|1956]]
+|-
+! 37
+| <span class="date" style="white-space:nowrap">January 20, 1961</span><br />–<br /><span class="date" style="white-space:nowrap">November 22, 1963</span><br />{{Small|(Became President)}}
+| [[File:Lyndon B. Johnson, photo portrait, leaning on chair, color.jpg|150px]]
+| '''{{Big|[[Wikipedia:Lyndon B. Johnson|Lyndon B. Johnson]]}}'''<br />1908–1973<br />{{Small|(Lived 64 years)}}<br /><ref>{{cite web |url=http://www.history.com/presidents/kennedy |title=Lyndon B. Johnson –&nbsp;Democratic Party&nbsp;– 36th President&nbsp;– American Presidents |accessdate=January 12, 2009 |publisher=[[Wikipedia:History (U.S. TV channel)|History]] |url-status=dead |archiveurl=https://web.archive.org/web/20090226041544/http://www.history.com/presidents/kennedy |archivedate=February 26, 2009}}</ref><ref>{{cite web |url=http://www.c-span.org/video/?151632-1/life-portrait-lyndon-b-johnson |title=Life Portrait of Lyndon B. Johnson |accessdate=March 7, 2016 |work=American Presidents: Life Portrait |publisher=[[Wikipedia:C-SPAN|C-SPAN]]}}</ref>
+| [[Wikipedia:List of United States senators from Texas|U.S. senator from Texas]]<br />{{small|(1949–1961)}}<br />[[Wikipedia:Party leaders of the United States Senate|Senate majority leader]]<br />{{small|(1955–1961)}}<br />[[Wikipedia:Party leaders of the United States Senate|Senate minority leader]]<br />{{small|(1953–1955)}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Wikipedia:Democratic Party (United States)|Democratic]]
+| rowspan=2 | [[1Wikipedia:960 United States presidential election|1960]]
+| [[Wikipedia:John F. Kennedy|John F. Kennedy]]<br />{{Small|([[Wikipedia:Assassination of John F. Kennedy|Died in office]])}}
+|-
+| colspan=7 {{CNone|''Office vacant November 22, 1963 – January 20, 1965''{{Efn|name="Pre-25th"}}}}
+| rowspan=2 | [[Wikipedia:Lyndon B. Johnson|Lyndon B. Johnson]]
+|-
+! 38
+| <span class="date" style="white-space:nowrap">January 20, 1965</span><br />–<br /><span class="date" style="white-space:nowrap">January 20, 1969</span>
+| [[File:Hubert Humphrey crop.jpg|150px]]
+| '''{{Big|[[Wikipedia:Hubert Humphrey|Hubert Humphrey]]}}'''<br />1911–1978<br />{{Small|(Lived 66 years)}}<br /><ref>{{cite web |url = http://millercenter.org/president/essays/humphrey-1963-vicepresident|title= Hubert H. Humphrey – Vice President|publisher=Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| [[Wikipedia:List of United States senators from Minnesota|U.S. senator from Minnesota]]<br />{{small|(1949–1964)}}<br />[[Wikipedia:Party leaders of the United States Senate|Senate majority whip]]<br />{{small|(1961–1964)}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Wikipedia:Democratic Party (United States)|Democratic]]
+| [[Wikipedia:1964 United States presidential election|1964]]
+|-
+! rowspan=2 | 39
+| rowspan=2 | <span class="date" style="white-space:nowrap">January 20, 1969</span><br />–<br /><span class="date" style="white-space:nowrap">October 10, 1973</span><br />{{Small|(Resigned from office)}}
+| rowspan=2 | [[File:Spiro Agnew.jpg|150px]]
+| rowspan=2 |'''{{Big|[[Wikipedia:Spiro Agnew|Spiro T. Agnew]]}}'''<br />1918–1996<br />{{Small|(Lived 77 years)}}<br /><ref>{{cite web |url = http://millercenter.org/president/essays/agnew-1969-vicepresident|title= Spiro T. Agnew (1969–1973) – Vice President|publisher=Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| rowspan=2 | [[Wikipedia:Governor of Maryland|Governor of Maryland]]<br />{{small|(1967–1969)}}
+| rowspan="2" style="background-color:{{Republican Party (US)/meta/color}}" |
+| rowspan=2 | [[Wikipedia:Republican Party (United States)|Republican]]
+| [[Wikipedia:1968 United States presidential election|1968]]
+| rowspan=4 |[[Wikipedia:Richard Nixon|Richard Nixon]]<br />{{Small|(Resigned from office)}}
+|-
+| rowspan=5 | [[Wikipedia:1972 United States presidential election|1972]]
+|-
+| colspan=7 {{CNone|''Office vacant October 10 – December 6, 1973''{{Efn|name="Post-25th"}}}}
+|-
+! 40
+| <span class="date" style="white-space:nowrap">December 6, 1973</span><br />–<br /><span class="date" style="white-space:nowrap">August 9, 1974</span><br />{{Small|(Became President)}}
+| [[File:Gerald Ford.jpg|150px]]
+| '''{{Big|[[Wikipedia:Gerald Ford|Gerald Ford]]}}'''<br />1913–[[Wikipedia:Death and state funeral of Gerald Ford|2006]]<br />{{Small|(Lived 93 years)}}<br /><ref>{{cite web |url=https://obamawhitehouse.archives.gov/about/presidents/geraldford/ |title=Biography of Gerald R. Ford |accessdate=January 12, 2009 |date=March 12, 2007 |publisher=Whitehouse.gov}}</ref><ref>{{cite web |url=http://www.history.com/presidents/ford |title=Gerald Ford –&nbsp;Republican Party&nbsp;– 38th President&nbsp;– American Presidents |accessdate=January 12, 2009 |publisher=[[Wikipedia:History (U.S. TV channel)|History]] |url-status=dead |archiveurl=https://web.archive.org/web/20090305021527/http://www.history.com/presidents/ford |archivedate=March 5, 2009}}</ref><ref>{{cite web |url=http://www.c-span.org/video/?151634-1/life-portrait-gerald-r-ford |title=Life Portrait of Gerald R. Ford |accessdate=March 7, 2016 |work=American Presidents: Life Portrait |publisher=[[Wikipedia:C-SPAN|C-SPAN]]}}</ref>
+| [[Wikipedia:List of United States Representatives from Michigan|Member of the U.S. House of Representatives from Michigan]]<br />{{small|(1949–1973)}}<br />[[Wikipedia:Leaders of the United States House of Representatives|House minority leader]]<br />{{small|(1965–1973)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Wikipedia:Republican Party (United States)|Republican]]
+|-
+| colspan=7 {{CNone|''Office vacant August 9 – December 19, 1974''{{Efn|name="Post-25th"}}}}
+| rowspan=2 | [[Wikipedia:Gerald Ford|Gerald Ford]]
+|-
+! 41
+| <span class="date" style="white-space:nowrap">December 19, 1974</span><br />–<br /><span class="date" style="white-space:nowrap">January 20, 1977</span>
+| [[File:Nelson Rockefeller.jpg|150px]]
+| '''{{Big|[[Wikipedia:Nelson Rockefeller|Nelson Rockefeller]]}}'''<br />1908–1979<br />{{Small|(Lived 70 years)}}<br /><ref>{{cite web |url = http://millercenter.org/president/essays/rockefeller-1974-vicepresident|title= Nelson A. Rockefeller – Vice President|publisher=Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| [[Wikipedia:Governor of New York|Governor of New York]]<br />{{small|(1959–1973)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Wikipedia:Republican Party (United States)|Republican]]
+|-
+! 42
+| <span class="date" style="white-space:nowrap">January 20, 1977</span><br />–<br /><span class="date" style="white-space:nowrap">January 20, 1981</span>
+| [[File:Vice President Mondale 1977 closeup.jpg|150px]]
+| '''{{Big|[[Wikipedia:Walter Mondale|Walter Mondale]]}}'''<br />1928–2021<br />{{Small|(Lived 93 years)}}<br /><ref>{{cite web |url = http://millercenter.org/president/essays/mondale-1977-vicepresident|title= Walter Mondale – Vice President|publisher=Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| [[Wikipedia:List of United States senators from Minnesota|U.S. senator from Minnesota]]<br />{{small|(1964–1976)}}
+| style="background-color:{{Democratic Party (US)/meta/color}}" |
+| [[Wikipedia:Democratic Party (United States)|Democratic]]
+| [[Wikipedia:1976 United States presidential election|1976]]
+| [[Wikipedia:Jimmy Carter|Jimmy Carter]]
+|-
+! rowspan=2 | 43
+| rowspan=2 | <span class="date" style="white-space:nowrap">January 20, 1981</span><br />–<br /><span class="date" style="white-space:nowrap">January 20, 1989</span>
+| rowspan=2 | [[File:George H. W. Bush, President of the United States, 1989 official portrait.jpg|150px]]
+| rowspan=2 | '''{{Big|[[Wikipedia:George H. W. Bush|George Herbert Walker Bush]]}}'''<br />1924–[[Wikipedia:Death and state funeral of George H. W. Bush|2018]]<br />{{Small|(Lived 94 years)}}<br /><ref>{{cite web |url=https://obamawhitehouse.archives.gov/1600/presidents/georgehwbush |title=Biography of George Herbert Walker Bush |accessdate=January 12, 2009 |date=March 12, 2007 |publisher=Whitehouse.gov}}</ref><ref>{{cite web |url=http://www.history.com/topics/us-presidents/george-bush |title=George H. W. Bush –&nbsp;Republican Party&nbsp;– 41st President&nbsp;– American Presidents |accessdate=January 12, 2009 |publisher=[[Wikipedia:History (U.S. TV channel)|History]]}}</ref><ref>{{cite web |url=http://www.c-span.org/video/?151637-1/life-portrait-george-hw-bush |title=Life Portrait of George H.W. Bush |accessdate=March 7, 2016 |work=American Presidents: Life Portrait |publisher=[[Wikipedia:C-SPAN|C-SPAN]]}}</ref>
+| rowspan=2 |[[Wikipedia:Director of Central Intelligence|Director of Central Intelligence]]<br />{{small|(1976–1977)}}
+| rowspan="2" style="background-color:{{Republican Party (US)/meta/color}}" |
+| rowspan=2 | [[Wikipedia:Republican Party (United States)|Republican]]
+| [[Wikipedia:1980 United States presidential election|1980]]
+| rowspan=2 | [[Wikipedia:Ronald Reagan|Ronald Reagan]]
+|-
+| [[Wikipedia:1984 United States presidential election|1984]]
+|-
+! 44
+| <span class="date" style="white-space:nowrap">January 20, 1989</span><br />–<br /><span class="date" style="white-space:nowrap">January 20, 1993</span>
+| [[File:Dan Quayle crop.jpg|150px]]
+| '''{{Big|[[Wikipedia:Dan Quayle|Dan Quayle]]}}'''><br />1947–2031<br />{{Small|(Lived 84 years)}}<br /><ref>{{cite web |url = http://millercenter.org/president/essays/quayle-1989-vicepresident|title= J. Danforth Quayle – Vice President|publisher=Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| [[Wikipedia:List of United States senators from Indiana|U.S. senator from Indiana]]<br />{{small|(1981–1989)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Wikipedia:Republican Party (United States)|Republican]]
+| [[Wikipedia:1988 United States presidential election|1988]]
+| [[Wikipedia:George H. W. Bush|George H. W. Bush]]
+|-
+| rowspan=2 | [[Wikipedia:Vice presidency of Al Gore|45]]
+| rowspan=2 | <span class="date" style="white-space:nowrap">January 20, 1993</span><br />–<br /><span class="date" style="white-space:nowrap">January 20, 2001</span>
+| rowspan=2 | [[File:Al Gore, Vice President of the United States, official portrait 1994.jpg|150px]]
+| rowspan=2 | '''{{Big|[[Wikipedia:Al Gore|Al Gore]]}}'''<br />1948–2029<br />{{Small|(Lived 81 years)}}<br /><ref>{{cite web |url = http://millercenter.org/president/essays/gore-1993-vicepresident|title= Albert Gore, Jr. – Vice President|publisher=Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| rowspan=2 | [[Wikipedia:List of United States senators from Tennessee|U.S. senator from Tennessee]]<br />{{small|(1985–1993)}}
+| rowspan="2" style="background-color:{{Democratic Party (US)/meta/color}}" |
+| rowspan=2 | [[Wikipedia:Democratic Party (United States)|Democratic]]
+| [[Wikipedia:1992 United States presidential election|1992]]
+| rowspan=2 | [[Wikipedia:Bill Clinton|Bill Clinton]]
+|-
+| [[Wikipedia:1996 United States presidential election|1996]]
+|-
+! rowspan=2 | 46
+| rowspan=2 | <span class="date" style="white-space:nowrap">January 20, 2001</span><br />–<br /><span class="date" style="white-space:nowrap">January 20, 2009</span>
+| rowspan=2 | [[File:46 Dick Cheney 3x4.jpg|150px]]
+| rowspan=2 |'''{{Big|[[Wikipedia:Dick Cheney|Richard "Dick" Cheney]]}}'''<br />1941–2024<br />{{Small|(Lived 83 years)}}<br /><ref>{{cite web |url = http://millercenter.org/president/essays/cheney-2001-vicepresident|title= Richard B. Cheney – Vice President|publisher=Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| rowspan=2 | [[Wikipedia:United States Secretary of Defense|U.S. secretary of defense]]<br />{{small|(1989–1993)}}
+| rowspan="2" style="background-color:{{Republican Party (US)/meta/color}}" |
+| rowspan=2 | [[Wikipedia:Republican Party (United States)|Republican]]
+| [[Wikipedia:2000 United States presidential election|2000]]
+| rowspan=2 | [[Wikipedia:George W. Bush|George W. Bush]]
+|-
+| [[Wikipedia:2004 United States presidential election|2004]]
+|-
+! rowspan=2 | 47
+| rowspan=2 | <span class="date" style="white-space:nowrap">January 20, 2009</span><br />–<br /><span class="date" style="white-space:nowrap">January 20, 2017</span>
+| rowspan=2 | [[File:Joe Biden official portrait crop.jpg|150px]]
+| rowspan=2 |'''{{Big|[[Wikipedia:Joe Biden|Joe Biden]]}}'''<br />1942–2037<br />{{Small|(Lived 95 years)}}<br /><ref>{{cite web |url = http://millercenter.org/president/essays/biden-2009-vicepresident|title= Joseph Biden – Vice President|publisher=Miller Center of Public Affairs, University of Virginia|access-date=September 6, 2016}}</ref>
+| rowspan=2 | [[Wikipedia:List of United States senators from Delaware|U.S. senator from Delaware]]<br />{{small|(1973–2009)}}
+| rowspan="2" style="background-color:{{Democratic Party (US)/meta/color}}" |
+| rowspan=2 | [[Wikipedia:Democratic Party (United States)|Democratic]]
+| [[Wikipedia:2008 United States presidential election|2008]]
+| rowspan=2 | [[Wikipedia:Barack Obama|Barack Obama]]
+|-
+| [[Wikipedia:2012 United States presidential election|2012]]
+|-
+! 48
+| <span class="date" style="white-space:nowrap">January 20, 2017</span><br />–<br />-<br /><span class="date" style="white-space:nowrap">January 20, 2021</span>
+| [[File:Vice President Pence Official Portrait (cropped).jpg|150px]]
+| '''{{Big|[[Wikipedia:Mike Pence|Michael Pence]]}}'''<br />1959–2050<br />{{Small|(Lived 91 years)}}<br /><ref>{{cite news|last1=Flegenheimer|first1=Matt|last2=Barbaro|first2=Michael|title=Donald Trump Is Elected President in Stunning Repudiation of the Establishment|url=https://www.nytimes.com/2016/11/09/us/politics/hillary-clinton-donald-trump-president.html|newspaper=[[Wikipedia:The New York Times|The New York Times]]|date=November 9, 2016|accessdate=November 13, 2016}}</ref><ref>{{cite web|title=Vice President Mike Pence|url=https://obamawhitehouse.archives.gov/administration/vice-president-pence|website=[[whitehouse.gov]]|accessdate=January 31, 2017|date=January 20, 2017}}</ref>
+| [[Wikipedia:Governor of Indiana|Governor of Indiana]]<br />{{small|(2013–2017)}}
+| style="background-color:{{Republican Party (US)/meta/color}}" |
+| [[Wikipedia:Republican Party (United States)|Republican]]
+| [[Wikipedia:2016 United States presidential election|2016]]
+| [[Donald Trump]]
+|-
+!49
+|<span class="date" style="white-space:nowrap">January 20, 2021</span><br>-<br /><span class="date" style="white-space:nowrap">January 20, 2025</span>
+|[[File:Kamala Harris official photo.jpg|150px]]
+|'''{{Big|[[Kamala Harris]]}}'''<br />1964-2073<br />{{Small|(lived 109 years)}}
+|[[Wikipedia:List of United States senators from California|US Senator from California]] <br />{{small|(2017-2021)}}
+| style="background-color:{{Democratic Party (United States)/meta/color}}" |
+|[[Wikipedia:Democratic Party (United States)|Democratic]]
+|[[Wikipedia:2020 United States presidential election|2020]]
+|Joe Biden
+|-
+!50
+|<span class="date" style="white-space:nowrap">January 20, 2025</span><br>-<br /><span class="date" style="white-space:nowrap">January 20, 2029</span>
+|IMAGE OF WALZ
+|Tim Walz
+
+1964-2059
+
+{{Small|(lived 95 years)}}
+|Governor of Minnesota
+
+{{small|(2019-2025)}}
+|
+|Democratic
+|2024
+|Kamala Harris
+|-
+!51
+|<span class="date" style="white-space:nowrap">January 20, 2029</span><br>-<br /><span class="date" style="white-space:nowrap">January 20, 2037</span>
+|IMAGE OF PRICE
+|Dylan Price
+1989–2093
+
+{{Small|(lived 104 years)}}
+|Governor of California
+{{small|(2027-2029)}}
+|
+|Progress
+|2028
+2032
+|[[Alexandria Ocasio-Cortez]]
+|-
+|}
+<references group="lower-alpha" />

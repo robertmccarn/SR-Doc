@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "*": "Postnaturalism",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    },
+    {
+      "*": "Post-naturalism",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p><i><b>Humanity's Garden&#160;</b></i>was the title of a nonfiction environmentalist book published in 2029 by University of California ecology professor Peter Shay. It is widely regarded as a major influence in the age of&#160;<a href=\"/wiki/Postnaturalism\" title=\"Postnaturalism\">Postnaturalism</a>, just as Racher Carson's book&#160;<i>Silent Spring&#160;</i> was for the original environmental movement in the 1970s.\n</p><p>Though an ardent environmentalist, Shay spoke out against traditional forms of environmentalism. He pointed out that, over thousands of years, humanity has altered the world's ecology to such and extent--the main examples he gives are the extinctions of the megafauna in the Americas and Australia and the flightless birds on the Pacific islands--that many of the so-called pristine wilderness areas were not in fact pristine at all, so preserving them in their present state had little ecological value. The title of the book refers to this idea. Earth as a whole is likened to a garden, an artificial ecosystem created by humans.&#160;\n</p><p>Taking the analogy further, Shay compared humanity to a gardener, faced with a garden crippled by blight. He advised that humans ought to actively intervene to repair damaged ecosystems to their former state instead of simply preserving what was left. To that end, he strongly supported the use of geoengineering and&#160;<a href=\"/wiki/De-Extinction\" title=\"De-Extinction\">De-Extinction</a>, which he saw as more effective means of conservation than merely fencing off protected areas. Shay later became a prominent member of the&#160;<a href=\"/wiki/Earth_Working_Group\" title=\"Earth Working Group\">Earth Working Group</a>, and was one of the key figures in carrying out&#160;<a href=\"/wiki/The_Refreeze\" title=\"The Refreeze\">The Refreeze</a>, which he saw as the ultimate vindication of his life's work.\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119205710\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.008 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:1696-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205710 and revision id 7665. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "De-Extinction",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Earth Working Group",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Postnaturalism",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "The Refreeze",
+      "exists": "",
+      "ns": 0
+    }
+  ],
+  "page_id": 1696,
+  "revision_id": 7665,
+  "title": "Humanity's Garden"
+}

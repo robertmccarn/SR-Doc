@@ -1,0 +1,75 @@
+The Planetary-Governor of the Commonwealth of Jupiter.
+
+==List of Planetary-Governors==
+{{legend2|{{Conservative Party (United States)/meta/color}}|[[Conservative Party (United States)|Conservative]]|border=1px solid #AAAAAA}} (2)
+{{legend2|{{United Republican Party (United States)/meta/color}}|[[United Republican Party (United States)|New Republican]]|border=1px solid #AAAAAA}} (1)
+{{legend2|{{Union Party (United States)/meta/color}}|[[Union Party (United States)|Union]]|border=1px solid #AAAAAA}} (2)
+
+{| class="wikitable" style="text-align: center;"
+|-
+! №
+! colspan="2" | Planetary-Governor
+! State
+! Term of office
+! Party
+! Term<br /><ref group="n" name="num" />
+! style="width: 18%;" colspan="2" | Lieutenant-Governor
+|-
+! style="background: {{Union Party (United States)/meta/color}};" | {{color|white|1}}
+| {{CSS image crop|Image = Blank_Person.jpg|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| '''Jeriel Cortes'''<br /><small>(born 1999)</small>
+| [[Earth|Cascadia]]
+| <span class="date" style="white-space: nowrap;">January 20, 2139</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2143</span><br />
+| [[Union Party (United States)|Union]]
+| 1<br /><small>(2138)</small>
+| style="background: {{Union Party (United States)/meta/color}};" |
+| Andrew Pham
+
+|-
+! style="background: {{Union Party (United States)/meta/color}};" | {{color|white|2}}
+| {{Css Image Crop|Image = Blank_Woman.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 3|oLeft = 5}}
+| '''Nica Rowan'''<br /><small>(born 2042)</small>
+| [[Jupiter|Galileo]]
+| <span class="date" style="white-space: nowrap;">January 20, 2143</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2147</span><br /><ref group="n" name="unseated" />
+| [[Union Party (United States)|Union]]
+| 2<br /><small>(2142)</small>
+| style="background: {{Union Party (United States)/meta/color}};" |
+| Sydney Riler
+
+|-
+! style="background: {{Conservative Party (United States)/meta/color}};" | {{color|white|3}}
+| {{Css Image Crop|Image = Blank_Woman.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 3|oLeft = 5}}
+| '''Emile Yang'''<br /><small>(born 2080)</small>
+| [[Jupiter|Galileo]]
+| <span class="date" style="white-space: nowrap;">January 20, 2147</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2151</span><br /><ref group="n" name="unseated" />
+| [[Conservative Party (United States)|Conservative]]
+| 3<br /><small>(2146)</small>
+| style="background: {{Conservative Party (United States)/meta/color}};" |
+| Philly Gates
+
+|-
+! rowspan="2" style="background: {{United Republican Party (United States)/meta/color}};" | {{color|white|4}}
+| rowspan="2" | {{CSS image crop|Image = Blank_Person.jpg|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" style="width: 16%;" | '''Buzz Belfast'''<br /><small>(born 2093)</small>
+| rowspan="2" | [[Jupiter|Valhalla]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 2151</span><br />–<br /><span class="date" style="white-space: nowrap;">January 20, 2159</span>
+| rowspan="2" | [[United Republican Party (United States)|New Republican]]
+| 4<br /><small>(2150)</small>
+| style="background: {{Liberal Party (United States)/meta/color}};"| &nbsp;
+| rowspan="2" | David Andruzzi
+
+|-
+| 5<br /><small>(2154)</small>
+| style="background: {{United Republican Party (United States)/meta/color}};" |
+|-
+! rowspan="2" style="background: {{Conservative Party (United States)/meta/color}};" | {{color|white|5}}
+| rowspan="2" | {{CSS image crop|Image = Blank_Woman.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}
+| rowspan="2" | '''Mika Sakahki'''<br /><small>(born 2119)</small>
+| rowspan="2" | [[Jupiter|Galileo]]
+| rowspan="2" | <span class="date" style="white-space: nowrap;">January 20, 2159</span><br />–<br /><span class="date" style="white-space: nowrap;">Present</span>
+| rowspan="2" | [[Conservative Party (United States)|Conservative]]
+| 6<br /><small>(2158)</small>
+| rowspan="2" style="background: {{Conservative Party (United States)/meta/color}};" |
+| rowspan="2" | Abram Inoki
+|}
+[[Category:Jupiter]]

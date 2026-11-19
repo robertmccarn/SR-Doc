@@ -1,0 +1,3283 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "1355": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Browse"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 8634,
+        "length": 2219,
+        "ns": 0,
+        "pageid": 1355,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7586,
+            "revid": 8634,
+            "slots": {
+              "main": {
+                "*": "==Current polls==\n<poll>\nIf there was a book set in the Second Renaissance universe, what would you want it to be about?\nThe Flood\nWorld War III\nThe Guardiola Incident\nThe Belt Pirate Wars\nThe Third Mexican-American War\n</poll>\n\n==Previous polls==\n<poll>\nCommunity Straw Poll: Who should be Joe Biden's running mate in 2020.\nKamala Harris\nCory Booker\nKristen Gillibrand\nSeth Moulton\nElizabeth Warren\nDeval Patrick\nAmy Klobuchar\nJulian Castro\nTulsi Gabbard\nJohn Hickenlooper\nJohn Kasich \n</poll>\n\n<poll>\nCommunity Straw Poll: Vote for your preferred Democratic candidate for President in 2020\nJoe Biden\nKamala Harris\nCory Booker\nKristen Gillibrand\nSeth Moulton\nElizabeth Warren\nDeval Patrick\nAmy Klobuchar\nJulian Castro\nTulsi Gabbard\nJohn Hickenlooper\n</poll>\n\n<poll>\nWhat new content do you want to see?\nMaps and flags of the factions of WWIII\nPost-World War III territory changes\nKorean War Maps\nPost-Little Cold War Territory change maps.\nMaps of the First Nations War\n</poll>\n<poll>\nWhat WWIII topic do you want to see expanded on?\nFactions \nLeaders\nWeapons\nSpace and Lunar Theater\nEuropean Theater\nPacific Theater\n</poll>\n\n<poll>\nWhich subject do you want to be expanded on?\nThe Mexican-American Cold War\nThe Terran Diaspora\nThe Refreeze\n21st Century Politics\nWorld War III\nThe Crash of 2027\n</poll>\n<poll>\nWho will be the Democratic Nominee in 2020?:\nCorey Booker\nJoe Biden\nHillary Clinton\nBernie Sanders\nKamala Harris\nAl Franken\nOther\n</poll>\n<poll>\nWill Donald Trump be:\nImpeached and removed from office.\nImpeached and left in office.\nResign\nRemain in Office until at least the election in 2020.\n</poll>\n<poll>\nWhich 22nd Century conflcit do you want to see more on?\nMexican-American Cold War\nThird Mexican War\nSecond Martian Revolution\nBelt Pirate Wars\nAlien conflicts\nOther\n</poll>\n<poll>\nWhich Political subject do you want to see expanded on?\nUS Political Parties\nPresidents of the United States\nMexican Politics\nColonial Politics\nChinese Politics\nEuropean Politics\n21st-century conflicts\n22nd-century conflicts\nPolitical Movements\nOther\n</poll>\n<poll>\nWhich subject do you want to be expanded on?\nMars\nVenus\nInterstellar Travel\nAlien species\nEveryday Technology\nCulture\nPolitics\n</poll>\n[[Category:Browse]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-04T16:28:09Z"
+          }
+        ],
+        "title": "Poll archive",
+        "touched": "2019-12-24T22:18:56Z"
+      },
+      "1356": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2694,
+        "length": 118,
+        "new": "",
+        "ns": 1,
+        "pageid": 1356,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2694,
+            "slots": {
+              "main": {
+                "*": "I assume this guy is based off of someone irl since a person being 169 years old (even in 2100s) is a bit far fetched?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-12-30T00:33:07Z"
+          }
+        ],
+        "title": "Talk:Lionel Halvidar/@comment-5590986-20161230003307",
+        "touched": "2016-12-30T00:33:08Z"
+      },
+      "1357": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11719,
+        "length": 0,
+        "ns": 1,
+        "pageid": 1357,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11719,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-11-28T18:47:23Z"
+          }
+        ],
+        "title": "Talk:Political parties in the United States/@comment-5590986-20161230043448",
+        "touched": "2024-11-28T18:47:23Z"
+      },
+      "1358": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11720,
+        "length": 0,
+        "ns": 1,
+        "pageid": 1358,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11720,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-11-28T18:47:23Z"
+          }
+        ],
+        "title": "Talk:Political parties in the United States/@comment-5590986-20161230043523",
+        "touched": "2024-11-28T18:47:23Z"
+      },
+      "1359": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11721,
+        "length": 0,
+        "ns": 1,
+        "pageid": 1359,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11721,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-11-28T18:47:23Z"
+          }
+        ],
+        "title": "Talk:Political parties in the United States/@comment-5590986-20161230043559",
+        "touched": "2024-11-28T18:47:23Z"
+      },
+      "1360": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Military Technology"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 2698,
+        "length": 2083,
+        "ns": 0,
+        "pageid": 1360,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2697,
+            "revid": 2698,
+            "slots": {
+              "main": {
+                "*": "A '''railgun''' is an electromagnetic projectile launcher based on principles similar to those of the homopolar motor. A railgun uses a pair of parallel conductors, or rails, along which a sliding armature is accelerated by the electromagnetic effects of a current that flows down one rail, into the armature and then back along the other rail.\n\n==History==\n==='''Naval Railguns'''===\n==='''Type 225'''===\nThe Japanese were the first to pioneer the railgun rifle concept, during World War III, based upon research that showed that most firefights happen beyond 500 meters and that contemporary rifles were under-powered for most small arms combat. The Type 225 was the first armor mounted railgun. Powered by an independent micro-gas-turbine engine and chambered for 30mm tungsten rounds, the Type 225 was capable of a maximum rate of fire of 30 rounds per minute from a drum magazine. \n\n==='''M801'''===\nLike the Japanese, the Americans were influenced by experience showing that most combat engagements occur beyond 500 meters and that their soldiers were consistently outgunned by heavily armed Japanese troops, especially those armed with the Type 225 railgun. The 30mm M801 Barrett Cannon was introduced as the first armor mounted railgun for the US military. Developed as a select-fire high powered rifle combining the rate of fire of a light machine gun with the range and stopping power of a railgun, the M801 is considered to be the common ancestor to all modern armor mounted railguns. While rate of fire was not significantly better than that of the Type 225 (45 rounds per minute against 30), it was a belt fed weapon rather than magazine fed, providing a greater fire time.\n\n==='''M107e'''===\nThe standard issue rifle of the 22nd Century is the M107e MagRifle, which fires a round that is either heated to the point of plasma and discharged at short ranges, or fires a semi-solid round upwards of 250 miles that morphs into a flat disk .0000128 seconds prior to the point of impact distributing the most force over the largest area.\n[[Category:Military Technology]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-12-30T18:22:39Z"
+          }
+        ],
+        "title": "Railgun",
+        "touched": "2017-02-13T20:41:21Z"
+      },
+      "1361": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2703,
+        "length": 164,
+        "new": "",
+        "ns": 1,
+        "pageid": 1361,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2703,
+            "slots": {
+              "main": {
+                "*": "Nope, he's a completely original character and his age is meant to be a prominent example of how logevity technologies have impacted humans by the mid 22nd Century.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2016-12-31T19:16:35Z"
+          }
+        ],
+        "title": "Talk:Lionel Halvidar/@comment-5590986-20161230003307/@comment-24.17.26.138-20161231191635",
+        "touched": "2016-12-31T19:16:35Z"
+      },
+      "1362": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century economic history"
+          },
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Political parties in the United States"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Politics"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 8162,
+        "length": 2916,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Dylan J. Price"
+          },
+          {
+            "ns": 0,
+            "title": "Lionel Halvidar"
+          },
+          {
+            "ns": 0,
+            "title": "Neo-Jeffersoninanism"
+          },
+          {
+            "ns": 0,
+            "title": "Ninth Party System"
+          },
+          {
+            "ns": 0,
+            "title": "Oscar Lachman"
+          },
+          {
+            "ns": 0,
+            "title": "Second Depression"
+          },
+          {
+            "ns": 0,
+            "title": "Seventh Party System"
+          },
+          {
+            "ns": 0,
+            "title": "Union Party (United States)"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1362,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4492,
+            "revid": 8162,
+            "slots": {
+              "main": {
+                "*": "The Eighth Party System refers to the era of American national politics that began in 2080 with the rise of the [[Neo-Jeffersoninanism|Neo-Jeffersonian Coalition]] under President [[Oscar Lachman]] following the [[Second Depression]]. It followed the Seventh Party System which started under [[Dylan J. Price]]. The Eighth Party System ended in 2132 with the rise of the [[Union Party (United States)|Union Party]] under [[Lionel Halvidar|Lionel J. Halvidar]] resulting in the creation of the [[Ninth Party System]].\n\nThe perceived Eighth Party System is characterized by an electoral shift from the electoral coalitions of the [[Seventh Party System]] during the New Nationalist Era: the Conservative Party became the dominant party in the East and major cities while the Progress Party increasingly started to assemble a coalition of Hispanics, rural Progressives, and Augments. A critical factor was the major transformation of the political system in the Lachman Era of the 2080s and beyond, led by Oscar Lachman, during the [[Second Depression]]. Dominant personalities during this period included Oscar Lachman (C), Rayleen Malakar (C), Tom Steele (C), Stewart M. Li (C), Miriam Weinstein (P), and Thang Levin (C).\n\n==Economic History==\nThe eighth party system came on the heels of the Second Depression. As general purpose AIs, longevity technologies, and advanced robotics replaced existing workers or at least reduced the demand for new ones, the US unemployment rate began to steadily climb, wages fell, and the dollar's value began to deflate. By the election of 2080 the US unemployment rate had climbed to 22%,the highest in more than 150 years. The Lachman administration argued for lowering interests rates to free up currency, close the borders and actually deport a sizable portion of America's immigrant population to reduce the strain on the job market, deregulate investment to create more enterprises and therefore jobs, and lower taxes.\n\nThese reforms resulted in a majority of Americans forming Personal Liability Corporations by 2095, and the largest expansion of the private banking industry in a century as private equity banks emerged to finance individual purchase of robotic labor for new enterprises, and private investment was decentralized as value shifted from an abstract corporation to individual worth. The resultant economic boom that followed saw Americans leverage this expansion of available investor capital and new energy sources from the colonies to expand the robotic workforce as a means of carrying out personal business objectives.\n\nBy 2120 this system resulted in the wealth gap widening to its largest degree since the Labor Shortage, with 99% of the country's wealth being concentrated in the hands of 1% of the population.\n[[Category:21st Century]]\n[[Category:21st-century economic history]]\n[[Category:Political parties in the United States]]\n[[Category:Politics]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-07-23T22:00:15Z"
+          }
+        ],
+        "title": "Eighth Party System",
+        "touched": "2018-07-23T22:00:15Z"
+      },
+      "1363": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2716,
+        "length": 44,
+        "new": "",
+        "ns": 1,
+        "pageid": 1363,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2716,
+            "slots": {
+              "main": {
+                "*": "Even a person born in the late 20th century?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-01-13T01:59:50Z"
+          }
+        ],
+        "title": "Talk:Lionel Halvidar/@comment-5590986-20161230003307/@comment-5590986-20170113015950",
+        "touched": "2017-01-13T01:59:50Z"
+      },
+      "1366": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:History of United States expansionism"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Politics"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11800,
+        "length": 4309,
+        "ns": 0,
+        "pageid": 1366,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11799,
+            "revid": 11800,
+            "slots": {
+              "main": {
+                "*": "The '''Caribbean annexation''' was the decades long incorporation of the remaining islands of the Caribbean into the United States of America, which were all admitted to the Union as states as of 2067.\n\n==Background==\n==='''Renewed U.S. Territorial Expansion and Guyana'''===\nAt the time Puerto Rico achieved statehood, the US had also begun to see an economic boom in space. Equatorial launch positions were a priority for the United States, and while sea-based launch platforms in the Pacific worked, they came with serious logistical challenges. Securing land based launch sites were a priority for the United States, and thus the US began to explore ways to deepen ties between the US and Caribbean nations, particularly Guyana. Guyana was historically tied to the United States, English speaking, geographically close, and had the majority of its population living and working in the U.S. (Guyana was actually the first country to have a woman born in the United States as head of state)<ref>[https://en.wikipedia.org/wiki/Janet_Jagan Wiki article on Janet Jagan,president 1997-1999]</ref>.\nIn 2026, the US began the construction of a new launch complex in southern Guyana and entered into a \"Free Association\" with the South American nation. Guyana would effectively allow the US to provide its national defense, in exchange Guyanans were given Free Travel between the United States and the home country. This was partly in response to Russian efforts to secure similar launch sites in French Guiana. The regular shipment of goods and materials between Guyana and the mainland United States, led to an increase in US trade and tourism across the Caribbean, which ballooned even further after the beginning of Mars Colonization. By 2028 the region had joined the Central American Free Trade Zone (CAFTA), with Cuba joining as an observer state.\n\n==='''The Flood and the Labor Shortage'''===\nBy the time the South Greenland Ice Sheet calved, the US had already been dealing with waves of Caribbean refugees fleeing to the mainland after almost every hurricane season going back at least to the 2008 Hurricane Season. Anticipating the devastation of rising sea levels, many Carribean countries declared total evacuations to the American Mainland or Guyana. Those that remained were already being set upon by increasingly devastating hurricanes that left many villages uninhabitable, flooding major cities with domestic refugees. After sea levels rose beyond 7 meters above pre-Flood Levels, hundreds of thousands of refugees fled in an armada of makeshift rafts.\n\nBy 2035 the Price administration's immigration reforms allowed Caribbean refugees to register for citizenship with no wait period and automatically receive guest worker status if they weren't interested in becoming citizens. These reforms were followed by the most devastating hurricane in living memory to hit the Caribbean, Hurricane Francesca, prompting the US to deploy the Navy to handle the evacuation of the remainder of Cuba and Hispaniola. The governments across the Caribbean islands had largely collapsed leaving the US to administer Martial Law. In 2035, President Price unilaterally annexed the smallest islands who's populations all had to be relocated to the US. Congress passed an annexation bill for Cuba and Hispaniola shortly thereafter. Only Jamaica had a semi-functioning government left that was able to negotiate a treaty of accession. Roughly a quarter of Caribbean refugees resettled in Guyana, and rather than risk losing potential additions to the workforce, the US negotiated Guyana's annexation and path to statehood in 2035. The US also agreed to buy the now sunken island territories of the Dutch and the British as a means of easing the exchange of relief to those nations.\n\n==='''WWIII and the Treaty of Geneva'''===\nDuring the latter portion of the Third World War, the US launch site in Guyana was attacked by French forces as part of a last ditch effort by the Turks to delay the US ability to assist the Poles in Europe. After the US demanded French Guiana be handed over to the US. A treaty of ascession was negotiated with the government of Suriname, thus uniting the Guyanas under a single state.\n[[Category:History of United States expansionism]]\n[[Category:Politics]]\n[[Category:21st Century]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-07-16T06:45:32Z"
+          }
+        ],
+        "title": "Caribbean annexation",
+        "touched": "2025-07-16T06:45:32Z"
+      },
+      "1367": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century military alliances"
+          },
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Flag of NATO.svg.png"
+          }
+        ],
+        "lastrevid": 11556,
+        "length": 2614,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Canada"
+          },
+          {
+            "ns": 0,
+            "title": "Dissolution of the Russian Federation"
+          },
+          {
+            "ns": 0,
+            "title": "Donald Trump"
+          },
+          {
+            "ns": 0,
+            "title": "Germany"
+          },
+          {
+            "ns": 0,
+            "title": "Japan"
+          },
+          {
+            "ns": 0,
+            "title": "Little Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Poland"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Ukraine"
+          },
+          {
+            "ns": 0,
+            "title": "United Nations"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1367,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11204,
+            "revid": 11556,
+            "slots": {
+              "main": {
+                "*": "[[File:Flag of NATO.svg.png|thumb|220x220px]]\nThe '''North Atlantic Treaty Organization''', or '''NATO''', was an intergovernmental military alliance established on 4 April 1949 during the Cold War, in order to deter a potential invasion of Western Europe by the Soviet Union. Originally there were 12 members, including ten Western European countries as well as the [[United States of America|United States]] and [[Canada]]; there were 32 members at its height. Its headquarters was located in Brussels, Belgium, and was governed by a council made up of the 32 members chaired by the Secretary General. The alliance constituted a system of collective defense, whereby its member states agreed to mutual defense in response to an attack by any external party.\n\nDuring the 21st Century, NATO gradually saw itself weaken, first when the majority of its member states refused to take part in the US invasion of Iraq. NATO was further weakened during the administration of [[Donald Trump]], who rattled fellow members by calling it obsolete as a candidate. Despite this, Trump would ultimately affirm the US's continued commitment to the alliance, pursuing troop deployments in the Eastern European nations making up the Visegrad Group. Upon the election of [[President of the United States|Joseph Biden Jr.]] to the presidency, the United States further escalated the [[Little Cold War]], placing sanctions on Russia and increasing troop deployments to force the Russians to overextend their military, first in [[Ukraine]] and then with the admission of Finland and Sweden to the alliance. After the [[dissolution of the Russian Federation|collapse of the Russian Federation]] in 2029, NATO and [[United Nations]] forces would spend the next 9 years securing former Russian nuclear weapons from the newly independent republics, giving both organizations a sense of legitimacy again. However, by the 2040's Turkey began displaying increasingly aggressive behavior, aligning with a similarly aggressive [[Japan]]. [[Poland]] called for Turkey's expulsion from the alliance, which subsequently did so. By the outbreak of the [[World War III|Third World War]] in 2051, the alliance had been reduced to a handful of core members.\n\nNATO was disbanded after World War III ended, being succeeded by the Paris Group, which included all the prewar members of the alliance, as well as France, [[Germany]], Austria, Italy, Catalonia, and even Tunesia and Tripolitania, breaking from the old alliance's power base being centered in Europe and North America.\n[[Category:21st-century military alliances]]\n[[Category:21st Century]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-07-11T22:56:21Z"
+          }
+        ],
+        "title": "North Atlantic Treaty Organization",
+        "touched": "2024-09-01T15:33:57Z"
+      },
+      "1368": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Political parties in the United States"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Politics"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11890,
+        "length": 2467,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Lionel Halvidar"
+          },
+          {
+            "ns": 0,
+            "title": "Oscar Lachman"
+          },
+          {
+            "ns": 0,
+            "title": "Second American Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Tenth Party System"
+          },
+          {
+            "ns": 0,
+            "title": "Union Party (United States)"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1368,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11874,
+            "revid": 11890,
+            "slots": {
+              "main": {
+                "*": "The Ninth Party System refers to the era of American national politics that began in 2132 with the rise of the [[Union Party (United States)|Union Party]] under [[Lionel Halvidar|Lionel J. Halvidar]]. It followed the Eighth Party System which started under [[Oscar Lachman]]. It continued to the election of 2156 which saw the Union Party merge with the Progress Party which resulted in the [[Tenth Party System]]. The dominant personalities during this period are Presidents Lionel Halvidar (U), Ha-eun Zaya (U), two-time party nominee Anakin F. Johnson (U), and former Party leader Steven Shen (C).\n\nThe Ninth Party System was defined by a new form of American nationalism aimed at colonial integration. Economic policy was functionally replaced entirely by the Quantum Economic Model.\n\n== Major Parties ==\n\n=== Union Party ===\nThe most dominant party during the era of the Ninth Party System.\n\n=== Progress Party ===\n\n=== Liberal Party ===\n\n=== Conservative Party ===\nThang Levin's presidency had caused a schism in the Conservative party when many had blamed its cause for the [[Second American Civil War]]. The party would've collapsed if it were not for Steven Shen, who led the party during the early years of the Ninth Party system. The party allied with with more conservative elements of the Union Party and once the Second Civil War grew into the Third Mexican War. It had been credited to the creation of the doctrine of \"New Globalism\" which helped refined internationalism and was adapted to what would eventually become the American protectorate system. It became a formidable player in Earth-Commonwealth politics and continued to do so early into the [[Tenth Party System|Tenth Party system]].\n\n=== Liberacion Party ===\nThe sixth largest party in the United States that was formed during the 2144 Presidential Election and steadily grew into prominence by the 2146 midterm elections. It was formed as a merger of many minor parties in Latin America that had largely opposed American occupation and annexation of their countries, including the now largely unpopular Dignidad Party. It supported self-determination and preservation of foreign culture within the recently occupied and protectorate territories. It later became a symbol for those who had also opposed the rising American hegemony in countries outside of the United States during the era of the Ninth Party System.\n[[Category:Politics]]\n[[Category:Political parties in the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-08-16T15:40:35Z"
+          }
+        ],
+        "title": "Ninth Party System",
+        "touched": "2025-08-16T15:40:35Z"
+      },
+      "1369": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2758,
+        "length": 19,
+        "links": [
+          {
+            "ns": 0,
+            "title": "BLANK"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 1369,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2758,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[BLANK]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-01-22T23:56:20Z"
+          }
+        ],
+        "title": "Martin O'Malley",
+        "touched": "2017-02-04T16:46:24Z"
+      },
+      "1370": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Jacobi.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blank Person.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blank Woman.png"
+          }
+        ],
+        "lastrevid": 11991,
+        "length": 3066,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Evalyn Jacobi"
+          },
+          {
+            "ns": 0,
+            "title": "Maya Garcia"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2044"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2052"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Alliance for Reform/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Alliance for Reform/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Christian Dignity/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Christian Dignity/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progress/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progress/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Republican/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Republican/meta/shortname"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1370,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11747,
+            "revid": 11991,
+            "slots": {
+              "main": {
+                "*": "{{Infobox election\n|election_name = United States presidential election, 2048\n|country = United States\n|type = presidential\n|ongoing = no\n| flag_year = 2043 \n|previous_election = United States presidential election, 2044\n|previous_year = 2044\n|next_election = United States presidential election, 2052\n|next_year = 2052\n|election_date = November 3, 2048\n| votes_for_election         = All elligable voters who participate\n| needed_votes               = 51% of the vote\n| turnout                    = 78.0%\n| image1 = [[File:Blank_Jacobi.png|150px]]\n| nominee1 = [[Evalyn Jacobi]]\n| party1 = Progress\n| home_state1 = Washington\n| running_mate1 = Dan Forest\n| electoral_vote1 =0 \n| states_carried1 = \n| popular_vote1 = \n| percentage1 = 55.2%\n| image2 = [[File:Blank_Woman.png|150px]]\n| nominee2 = Kobe Wilkes\n| party2 = Republican\n| home_state2 = Virginia\n| running_mate2 = W\n| electoral_vote2 =538\n| states_carried2 =\n| popular_vote2 =  \n| percentage2 = 100.0%\n| nominee5 = Loren Gonzalez\n| party5 = Christian Dignity\n| image5 = [[File:Blank_Person.jpg|150px]]\n| home_state5 = Puerto Rico\n| running_mate5 = Harlan Monroe\n| electoral_vote5 = \n| states_carried5 = \n| popular_vote5 = \n| percentage5 = 8.2%\n| nominee4 = Max Goren\n| party4 = Alliance for Reform\n| image4 = [[File:Blank_Person.jpg|150px]]\n| home_state4 = Florida\n| running_mate4 = Key Kerry\n| electoral_vote4 = \n| states_carried4 =\n| popular_vote4 = \n| percentage4 = 14.6%\n| title = President\n| before_election =  [[Maya Garcia]]\n| before_party = Conservative\n| after_election = [[Evalyn Jacobi]]\n| after_party = Progress}}\n\nThe '''2048 United States Presidential Election '''was the 66th quadrennial presidential election, held on Tuesday, November 6, 2048. The election was fought in the shadow of the global cold war with Turkey and Japan, as the United States was emerging from the Recession of 2045. The Progressive candidate, Evalyn Jacobi, acutely aware of strong non-interventionism sentiment, attacked Stanton with Garcia's foreign policy record, painting her as seeking to start a war with the Turks. The Alliance for Reform, under former Senator Max Goren, performed better than in any election before or since. Jacobi won a comfortable victory by building strong support among immigrants, urban progressives, and the traditionally Progressive Midwest.\n\n==Campaign==\n\n=== Issues ===\nStanton crusaded against what she claimed the incompetence and waste in prior Progressive governments welfare programs. She stated that as president she would keep most of Ocasio-Cortez's government programs, but would make them more efficient. However, many Americans had largely benefited from these policies, and were unwilling to see them cut, hurting Stanton's chances with rural voters.\n\nStanton also accused Jacobi of trying to weaken the US when the Turks and Japanese were preparing for war, but this actually hurt Stanton, as many Americans blamed the Garcia administration, and Stanton in particular for increasing hostilities with Japan and Turkey.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2026-03-13T01:17:33Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!-"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United States"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ifempty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/row"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/shortname"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:If empty"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          }
+        ],
+        "title": "United States presidential election, 2048",
+        "touched": "2026-03-13T01:17:33Z"
+      },
+      "1371": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2791,
+        "length": 179,
+        "ns": 1201,
+        "pageid": 1371,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2789,
+            "revid": 2791,
+            "slots": {
+              "main": {
+                "*": "I wonder if you have seen my Miriam Weinstein page. Here is the URL: http://second-renaissance.wikia.com/wiki/Miriam_Weinstein<ac_metadata title=\"Miriam Weinstein\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-01-26T18:55:40Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-27084453-20170126185220",
+        "touched": "2017-01-26T18:55:40Z"
+      },
+      "1372": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Woman.png"
+          }
+        ],
+        "lastrevid": 11941,
+        "length": 1990,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Carla Anderson"
+          },
+          {
+            "ns": 0,
+            "title": "First Nations War"
+          },
+          {
+            "ns": 0,
+            "title": "Horace Fadel"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Progressive Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Union Act of 2073"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1372,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11755,
+            "revid": 11941,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=Lise Duchesne\n|image=Blank_Woman.png\n|border\n|imagesize=265px\n|alt=\n|caption=\n|order=[[President of the United States|54th]]\n|office=President of the United States\n|vicepresident=Lewis Point, Jr.\n|predecessor=[[Carla Anderson]]\n|successor=[[Horace Fadel]]\n|order2= 56th\n|office2= Vice President of the United States\n|predecessor2= Andrew Markwalter\n|successor2= Lewis Point Jr.\n|order3= Governor\n|office3= New Mexico\n|predecessor3= Tyler McGovern\n|successor3= Juanita Gutierrez \n|birth_date=January 5, 2024\n|birth_place=Baton Rogue, LA\n|death_date= 2113\n|nationality= American\n|party=[[Progressive Party (United States)|Progressive]]\n|spouse= \n|children=\n|religion= Neo Anabaptist\n|profession=Civil Servant<br />Politician\n|termend = January 20, 2077\n|termstart = January 20, 2073}}'''Lise Duchesne '''(January 5, 2024 – 2113) was the 54th President of the United States, serving from 2073 to 2077. She oversaw the admission of the former territories of the Anglosphere into the Union and the United States' tricentennial year.\n\n== Personal Life ==\n\n== Presidency ==\n\n====New territories====\nAs Duchesne took office, Congress faced a battery of questions related to the [[Union Act of 2073]], and the new territories acquired after the [[First Nations War]] which had been divided into military districts. It was unclear which districts would be established into states and which would become federal territories, while the question of their partisan makeup threatened to bitterly divide Congress.\n\nIn Duchesne's view, the best way forward was to return the First Nations to territories and admit the established administrative divisions with sufficient populations into the Union as they stood. Where debate grew was with regard to New Zealand and the British Isles which were experiencing population surges as their territories becamemore livable with the falling tides.\n\n==== United States Tricentennial ====\n\n\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-10-19T16:03:42Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          }
+        ],
+        "title": "Lise Duchesne",
+        "touched": "2025-10-19T16:03:42Z"
+      },
+      "1373": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:22nd-century conflicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican-American Cold War"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:2nd Vietnam War.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cham Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cold War Logo.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of China (2058-2108).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Mexico (2074).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Vietnam.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Khmer Republic.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:National Vietnamese Army.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 81smallstars.png"
+          }
+        ],
+        "lastrevid": 11530,
+        "length": 4550,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Battle of Brazil"
+          },
+          {
+            "ns": 0,
+            "title": "India Crisis"
+          },
+          {
+            "ns": 0,
+            "title": "Interplanetary Trade Commission"
+          },
+          {
+            "ns": 0,
+            "title": "Latin American Union"
+          },
+          {
+            "ns": 0,
+            "title": "Luis Zepeda"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican Allies of the Third Mexican War"
+          },
+          {
+            "ns": 0,
+            "title": "Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "Oscar Lachman"
+          },
+          {
+            "ns": 0,
+            "title": "Sahara War"
+          },
+          {
+            "ns": 0,
+            "title": "Second Depression"
+          },
+          {
+            "ns": 0,
+            "title": "Second Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Chinese Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Timeline of major events"
+          },
+          {
+            "ns": 0,
+            "title": "Tom Steele"
+          },
+          {
+            "ns": 0,
+            "title": "U.S. Allies of the Third Mexican War"
+          },
+          {
+            "ns": 0,
+            "title": "United Federation of China"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican-American Cold War"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1373,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11528,
+            "revid": 11530,
+            "slots": {
+              "main": {
+                "*": "{{Infobox Military Conflict\n|conflict= Second Vietnam War\n|partof= Mexican-American Proxy Wars\n|image=[[File:2nd_Vietnam_War.png|270px]]\n|caption=Map of the War's Belligerents in 2105\n|date=February 2, 2102- April 4, 2106\n|place=Vietnam\n|causes= Vietnamese Military Coup d'état\n|territory=\n|result= Military stalemate\n|combatant1='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n'''[[U.S. Allies of the Third Mexican War| United States-Allies]]'''\n\n'''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n[[File:US_flag_81smallstars.png|20px|border]] [[United States of America|United States]]<br>\n[[File:Flag_of_China_(2058-2108).png|20px|border]] [[United Federation of China|China]]<br>\n[[File:Cham_Flag.png|20px|border]] [[wp:Champa|Champa]]<br>\n[[File:National Vietnamese_Army.png|20px|border]] National Vietnamese Army\n\n|combatant2='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n'''[[Mexican Allies of the Third Mexican War| Mexican-Allies]]'''\n\n'''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n[[File:Flag_of_Vietnam.png|20px|border]] [[wp:Vietnam|Vietnam]]'''<br>\n[[File:Flag_of_the_Khmer_Republic.png|20px|border]] [[wp:Khmer Republic|Khmer Republic]]\n\n----\n<small>'''Military Support:'''</small><br>\n[[File:Flag_of_Mexico_(2074).png|20px|border]] [[Mexico]]'''<br>\n\n|commander1='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n[[File:US_flag_81smallstars.png|20px|border]] [[Tom Steele]]<br>\n\n|commander2='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n[[File:Flag_of_Mexico_(2074).png|20px|border]] [[Luis Zepeda]]<br>\n}}\n\nThe '''Second Vietnam War''' was a protracted armed conflict that began in 2102 with the invasion of Vietnam by the United States-led coalition to restore the democratically elected government of Nguyen Tan Luong. The conflict continued until the 2106 Taipei Peace Talks divided the country and declared a ceasefire, though the conflict was technically still ongoing until the Third Mexican-American War ended.\n\n==Background==\n{{History of the Mexican-American Cold War}}\n\nIn 2101 Vietnam held the most contentious election in its history. Nguyen Tan Luong was a reformer who called for Vietnam to adopt the Quantum Economic Model, much as its neighbor China was attempting to do, and unite the East in a common market. Luong was opposed by candidates backed by Mexico, who were vehemently opposed to the QEM. Luong narrowly won the election, leading to riots across the country's northern territories. Luong was captured in a military coup shortly after taking office, and a Junta was put in place that called for new elections. The US supported Luong's election and Mexico supported the claims by the Junta that Luong was a dangerous radical.\n\n==Course of the War==\nThe US formed a coalition with China, the Philippines, Thailand, and Indonesia to invade and return Luong to office and restore order while Mexican operators distributed weapons and armor to fuel the Junta's resistance and predicted sectarian conflict. The US-backed coalition invaded in February 2102.\n\n==Aftermath==\nAfter the end of the Second Vietnam War, many Chinese soldiers returned home to not only find their economy still devoid of opportunities, but the Federalist government delaying pensions for veterans. The whole situation was a powder keg, and Mexico was quick to exploit it for their own benefit. After making contacts with local regionalists, Mexican operatives quickly established separatists movements from within local Chinese Army regiments. With a little social engineering, all of Southern China was quickly in open revolt against the Federalist government in Beijing. The revolts in the South eventually became a coup de tat that forced the Americans to invade and pacify the Chinese capital. After a short, but costly civil war, some order began to be restored by 2108 and a provisional republic governed from American-run Shanghai had been propped up. Taiwan and Manchuria were in open rebellion, but not by Mexican sponsored revolutionaries, but revolts from local governments who refused to submit to a government so incapable of keeping the country in one piece.\n[[Category:22nd-century conflicts]]\n[[Category:Mexican-American Cold War]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-06-26T23:45:23Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:History of the Mexican-American Cold War"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox Military Conflict"
+          },
+          {
+            "ns": 10,
+            "title": "Template:WPMILHIST Infobox style"
+          },
+          {
+            "ns": 10,
+            "title": "Template:·"
+          }
+        ],
+        "title": "Second Vietnam War",
+        "touched": "2024-06-26T23:45:23Z"
+      },
+      "1374": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2805,
+        "length": 30,
+        "new": "",
+        "ns": 1,
+        "pageid": 1374,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2805,
+            "slots": {
+              "main": {
+                "*": "What happened to Horace Fadel?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-01-28T20:50:20Z"
+          }
+        ],
+        "title": "Talk:Lise Duchesne/@comment-27084453-20170128205020",
+        "touched": "2017-01-28T20:50:20Z"
+      },
+      "1375": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Horace Fadel Blank.png"
+          }
+        ],
+        "lastrevid": 11626,
+        "length": 2338,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Artificial-Intelligence Operating System"
+          },
+          {
+            "ns": 0,
+            "title": "Lise Duchesne"
+          },
+          {
+            "ns": 0,
+            "title": "Oscar Lachman"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Progress Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Second Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Seras Stultz"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1375,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9301,
+            "revid": 11626,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=Horace Fadel\n|image= Horace_Fadel_Blank.png\n|border\n|imagesize=265px\n|alt=\n|caption=\n|order=[[President of the United States|55th]]\n|office=President of the United States\n|vicepresident=Lisa Chan\n|predecessor=[[Lise Duchesne]]\n|successor=[[Oscar Lachman]]\n|birth_date=2029\n|birth_place=Lewiston, Idaho\n|death_date=2144\n|nationality= American\n|party=[[Progress Party (United States)|Progress]]\n|spouse= \n|children=\n|religion= Sunni Islam\n|profession=Civil Servant<br />Politician\n|termend = January 20, 2081\n|termstart = January 20, 2077}}\n'''Horace Fadel''' (2029 – 2144) was an American politician who served as the 55th President of the United States from 2077 to 2081 during the Second Depression. A Progressive, as Secretary of Labor in the 2060s he introduced [[Artificial-Intelligence Operating System|AIOS]] systems into labor management boards to increase the efficiency of hiring practices and provided government support for the adoption of post-war labor saving technologies. As president from 2077 to 2081, his ambitious programs were overwhelmed by the Second Depression, which seemed to get worse every year despite the increasingly large-scale interventions he made in the economy. He was defeated in a landslide in 2081 by Horizon Party candidate [[Oscar Lachman]], and spent the rest of his life as a progressive denouncing right-wing policies, as Horizon politicians repeatedly used his Depression record to attack progressive and justify the reforms to the economy.\n\n\n==Legacy==\nFadel became a progressive spokesman in opposition to the domestic and foreign policies of the Horizon party. He opposed Lachman's deportation programs and the [[Second Mexican-American War]]. He had better relations with President [[Seras Stultz]] , and Fadel helped produce a number of reports that changed U.S. occupation policy in Panama. By the time of his death in 2144, he had rehabilitated his image. Nevertheless, Fadel is generally not ranked highly in historical rankings of Presidents of the United States.\n\nMany historians had compared his presidency to [https://en.wikipedia.org/wiki/Herbert_Hoover Herbert Hoover]. Citing that both Fadel and Hoover's rise to power and were both very similar and is just another example of the repeat of history.\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-09-04T11:37:17Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          }
+        ],
+        "title": "Horace Fadel",
+        "touched": "2024-09-04T11:37:17Z"
+      },
+      "1376": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Person.jpg"
+          }
+        ],
+        "lastrevid": 11634,
+        "length": 1026,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Horizon Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Miriam Weinstein"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Stewart M. Li"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1376,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11633,
+            "revid": 11634,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=Christopher Reagan\n|image=Blank_Person.jpg\n|border\n|imagesize=265px\n|alt=\n|caption=\n|order=[[President of the United States|62nd]]\n|office=President of the United States\n|vicepresident=Eliza Jin Tao\n|predecessor=[[Stewart M. Li]]\n|successor=[[Miriam Weinstein]]\n|birth_date=2066\n|birth_place= Colorado\n|nationality= American\n|party=[[Horizon Party (United States)|Horizon]]\n|spouse= \n|children=\n|religion= Congregationalism\n|profession=Civil Servant<br />Politician\n|termend = January 20, 2121\n|termstart = January 20, 2117}}\n\nChristopher Reagan was the 62nd President serving from 2117 to 2121. He was a descendant of Ronald Reagan, the 40th President of the United States .\n==Personal Life==\n===Early Years===\nChristopher Reagan was born in Colorado in 2066 to his parents Richard (who was the grandson of Michael Reagan, Ronald Reagan's adopted son) and Irene Reagan.\n===Entering Politics===\n==2116 Presidential Election==\n==Presidency (2117-2121)==\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-09-04T11:59:18Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          }
+        ],
+        "title": "Christopher Reagan",
+        "touched": "2024-09-04T11:59:18Z"
+      },
+      "1377": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Rayleen Malakar Blank.png"
+          }
+        ],
+        "lastrevid": 11627,
+        "length": 1699,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Horizon Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Oscar Lachman"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Second Depression"
+          },
+          {
+            "ns": 0,
+            "title": "Second Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Seras Stultz"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1377,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9302,
+            "revid": 11627,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=Rayleen Malakar\n|image=Rayleen_Malakar_Blank.png\n|imagesize=265px\n|alt=\n|caption=\n|order=[[President of the United States|57th]]\n|office=President of the United States\n|vicepresident=Caroline Shelby\n|predecessor=[[Oscar Lachman]]\n|successor=[[Seras Stultz]]\n|birth_date= April 1, 2035\n|birth_place=California\n|death_date= 2144\n|nationality= American\n|party=[[Horizon Party (United States)|Horizon]]\n|spouse= \n|children=\n|religion= Hinduism\n|profession=Civil Servant<br />Politician\n|termend = January 20, 2093\n|termstart = January 20, 2089}}\n'''Rayleen Malakar''' (April 1, 2035 – 2144) was an American politician who was the 57th President of the United States from 2089 to 2093 and the 87th United States Secretary of State from 2085 to 2089. A member of the Horizon Party, she was previously a Senator, and Director of Central Intelligence.\n\nIn 2088, Malakar ran a successful campaign to succeed Lachman as President, winning a comfortable 55% of the popular vote. Foreign policy drove the Malakar presidency, as the Central American annexation crisis began just three weeks into her Presidency; an event that would ultimately lead to the [[Second Mexican-American War]] 1 year later. Domestically, Malakar presided over a weak recovery from the [[Second Depression]], along with continuing budget deficits and the perceived defeat in the Second Mexican War, she lost the 2092 presidential election to Liberal [[Seras Stultz]].\n\n==Presidency==\n==='''Foreign Policy'''===\n===='''Central America'''====\n===='''Second Mexican War'''====\n===='''Mediterranean Union'''====\n==='''Economy'''===\n==='''Recession of 2092-93'''===\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-09-04T11:42:38Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          }
+        ],
+        "title": "Rayleen Malakar",
+        "touched": "2024-09-04T11:42:38Z"
+      },
+      "1378": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Stewart M Li Blank.png"
+          }
+        ],
+        "lastrevid": 11631,
+        "length": 5554,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Christopher Reagan"
+          },
+          {
+            "ns": 0,
+            "title": "Estela La Riva"
+          },
+          {
+            "ns": 0,
+            "title": "Horizon Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Non-Human Civil Rights Movement"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1378,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6618,
+            "revid": 11631,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=Stewart M. Li\n|image= Stewart_M_Li_Blank.png\n|imagesize=265px\n|alt=\n|caption=\n|order=[[President of the United States|61st]]\n|office=President of the United States\n|vicepresident=Aaron Stultz\n|predecessor=[[Estela La Riva]]\n|successor=[[Christopher Reagan]]\n|birth_date=2061\n|birth_place= Boise, Idaho\n|nationality= American\n|party=[[Horizon Party (United States)|Horizon]]\n|spouse= \n|children=\n|religion= Buddhism\n|profession=Civil Servant<br />Politician\n|termend = January 20, 2117\n|termstart = January 20, 2109}}\n\n'''Stewart Milo Li''' is an American politician who served as the 61st President of the United States from 2109 to 2117. Li served at the height of the Mexican-American Cold War, and much of his presidency focused on managing relations with Mexico. He was a member of the Horizon Party who represented Alberta in the United States House of Representatives and the United States Senate prior to becoming president. He is remembered quite fondly by many Americans.\n\nLi was born in Boise, Idaho two years before his family relocated to Vancouver, Cascadia for work. After graduating from Wharton School of Business in 2083, he joined the Center for Business Development in Red Deer, Alberta. Li became a respected representative for the business community in central Alberta, and continued to work at the CBD until 2089, when he was elected as Alberta's representative in their 4th congressional district, serving until 2095. He was subsequently elected to the U.S. Senate and served as the junior Senator from Alberta from until 2108. While serving in the Senate, he published ''Challenge of our Time'', which won the Pulitzer Prize in 2106. In the 2108 presidential election, Li narrowly defeated Horizon party favorite, Governor Aaron Stultz of Texas, for the nomination and went on to win a landslide victory in the general election against incumbent Estela La Riva.\n\n== Presidency ==\n\n=== [[Non-Human Civil Rights Movement|Civil Rights Movement of 2110s]] ===\nThe establishment of legal rights for non-humans was one of the most divisive domestic issues of the 2110s. The established law in American Southwest barred extraterrestrials from many of the civil rights afforded to all other citizens, and Sentient AIs only had rights in a handful of territories in the Colonies. The Supreme Court of the United States had ruled in 2109 in Gia-ma vs. Chamber of Commerce that extraterrestrials were afforded the same protections under the 14th Amendment as any other citizen. Many businesses and public institutions in Southwestern states, did not obey the Supreme Court's decision. However the court also opened the country up to a larger debate by using the language, \"Non-human persons\" in its decisions, which many lawyers used in arguments for the rights of sentient AIs.\n\n=== Partition of East Africa ===\nLi was quick to work with newly elected Mexican President Joaquín Andrade to find a speedy conclusion to the conflict in East Africa. Andrade had been a harsh critic of his predecessors commitment to supporting rebel groups in East Africa which had severely disrupted the global trade. Li famously went to Mexico City to negotiate in person with Andrade and the two leaders were able to come to agreement to partition East Africa, recognizing some of the more legitimate claims for national self determination while securing global trade.\n\n== After Presidency ==\n\n== Personal Life ==\nLi was born in Boise, Idaho two years before his family relocated to Vancouver, Cascadia for civil work in the newly annexed territory. Li had described growing up in early American Vancouver as \"... a normal awkward experience...\". The United States annexed Vancouver in the late 2050s, after the Third World War, prompting backlash, mainly from Canadian media along with a unsettled population. However, the hostile feeling of what was described as \"foreign occupation\" slowly subsided during the 2060s. \n\nDespite being born from the United States, Li rarely faced open discrimination from his peers but he claimed that \"they know what had happened, and the tension was there.\" While Li was in elementary school in 2070, he befriended 6 others, two of which were his future Presidential Secretaries (Cass Idol and Howe Danseuse) and one was his future wife Karine P. Joijima, after an incident where Li was caught attempting to start a business selling his \"lunch\" to other students. The seven of which formed a small group whom Li later fondly called the \"Freelancers\". The Li and the 'Freelancers' would later grew up to attend college and joined a business together.\n\nAs an adolescent, he was frequently described by his friends and family as being 'mischievous and cunning'. He has a deep interest in educational literature, mainly English history, science, and psychology, and was able to apply his knowledge for working for his own interests. Because he is frequently overambitious, mischievous, cunning, and egotistical, his peers often socially reject him. His friends often described him as being \"desperate\" on more than one occasion, as Li had often starved for social acceptance. As an adult, he was described to be grown to be 'quite sincere and level-headed', putting his knowledge to what he described as a more 'ethical use', allowing him to reinforce his philanthropic ambitions. \n\nLi married his wife Karina P. Jojima in 2081. While serving in the Senate, he published ''Challenge of our Time'', which won the Pulitzer Prize in 2106.  \n\n== Legacy ==\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-09-04T11:53:03Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          }
+        ],
+        "title": "Stewart M. Li",
+        "touched": "2024-09-04T11:53:03Z"
+      },
+      "1379": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Estela La Riva Blank.png"
+          }
+        ],
+        "lastrevid": 7998,
+        "length": 1205,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Miriam Weinstein"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Progress Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Stewart M. Li"
+          },
+          {
+            "ns": 0,
+            "title": "Third Chinese Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Tom Steele"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1379,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7345,
+            "revid": 7998,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=Estela La Riva\n|image= Estela_La_Riva_Blank.png\n|imagesize=265px\n|alt=\n|caption=\n|order=[[President of the United States|60th]]\n|office=President of the United States\n|vicepresident=[[Miriam Weinstein]]\n|predecessor=[[Tom Steele]]\n|successor=[[Stewart M. Li]]\n|birth_date=2055\n|birth_place=Arizona\n|nationality= American\n|party=[[Progress Party (United States)|Progress]]\n|spouse= \n|children=\n|religion= Roman Catholicism\n|profession=Civil Servant<br />Politician\n|termend = January 20, 2109\n|termstart = January 20, 2105}}\nEstela La Riva was the 60th President of the United States serving from 2105 to 2109. She was the first president to be elected and fully served in the 22nd century.\n\n==Presidency==\n==='''Chinese Civil War'''===\n''Main article: [[Third Chinese Civil War]]''\nLa Riva took office at the start of the Chinese Civil War and was responsible for the American peace keeping mission to Beijing. What was originally a very popular decision grew out of favor with the public and by the 2108 elections, La Riva took much of the blame for China's dissolution and the loss of so much of the country to Mexican influence.\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-06-21T15:16:02Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          }
+        ],
+        "title": "Estela La Riva",
+        "touched": "2018-06-21T15:16:02Z"
+      },
+      "1380": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Tom Steele .png"
+          }
+        ],
+        "lastrevid": 11636,
+        "length": 9043,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Conservative Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Donald Trump"
+          },
+          {
+            "ns": 0,
+            "title": "Estela La Riva"
+          },
+          {
+            "ns": 0,
+            "title": "Guardiola Incident"
+          },
+          {
+            "ns": 0,
+            "title": "Horizon Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Second Vietnam War"
+          },
+          {
+            "ns": 0,
+            "title": "Seras Stultz"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1380,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11630,
+            "revid": 11636,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=Tom Steele\n|image=Tom_Steele_.png\n|imagesize=265px\n|alt=\n|caption=\n|order=[[President of the United States|59th]]\n|office=President of the United States\n|vicepresident=Lala Somerfield\n|predecessor=[[Seras Stultz]]\n|successor=[[Estela La Riva]]\n|birth_date=October 14, 2049\n|birth_place=Ontario\n|death_date=March 28, 2159 (aged 109)\n|death_place=Alberta\n|nationality=American\n|party=[[Horizon Party (United States)|Horizon]]\n|spouse= \n|children=\n|religion= Episcopalianism\n|profession=Civil Servant<br />Politician\n|termend = January 20, 2105\n|termstart = January 20, 2097}}'''Thomas \"Tom\" Cartwright Steele''' (October 14, 2049 – March 28, 2159) was the 59th President of the United States from 2097 until 2105. Prior to entering politics, he served as the youngest Chairman of the Joint Chiefs of Staff during the Second Mexican War.\n\n==Election of 2096==\nPresident Anderson, symbolizing a broad-based desire for a Steele candidacy for president, approached Steele in 2094 and pressed him to run for the office as a Progressive. Steele had been privately looking into a run for the White House since 2092, and revealed to Anderson that he and his family were largely [[Conservative Party (United States)|Conservatives]] before the creation of the [[Horizon Party (United States)|Horizon Party]]. Steele announced his candidacy in April 2096, citing his opposition to what he perceived as a directionless foreign policy of President Stultz. Steele easily defeated his more conservative rivals for the nomination, and ran on a campaign of centrism which largely appealed to a country that had grown tired of Stultz's partisanship. To balance out some of the more right wing elements in his party, Steele chose Lala Somerfield as his Vice President, knowing that concerns over his youth may be balanced out by the senior Somerfield.\n\nHe defeated President Seras Stultz's bid for re-election in a landslide, with 61% of the vote, the and was the second choice of almost 73% of the electorate. In the election he also brought with him a Horizon-Libertarian majority in the House (by twelve votes) and in the Senate (by two votes).\n\nSteele was the only general to serve as President in the 21st century and was the most recent President to have never held elected office prior to the Presidency since [[Donald Trump]]; the other Presidents who did not have prior elected office were Zachary Taylor, Ulysses S. Grant, William Howard Taft, Herbert Hoover,and Dwight D. Eisenhower.\n\n==Presidency==\n==='''[[Guardiola Incident]]'''===\nSteele had been critical of the Stultz administration's lackluster response to the Guardiola threat against the Cislunar Colonies, and had voiced a willingness to directly engage the Guardiola's and the Mediterranean Union. However, upon entering office, Steele downplayed his desire to combat Guardiola attacks against civilian orbitals with the US Space Force, and instead pushed for the Planetary Guard forces to take the lead in combating attacks on Cislunar colonies, even if they were launched from Earth.\n\nIn the Spring of 2099, the Steele faced the greatest crisis of his Presidency when Roma Guardiola launched a force of 8000 Guardiola Specialists and some 15 assault ships to wage war against the Orbitals and Lunar colonies. Steele publicly admonished the MU and branded the Guardiola's a terrorist organization, seizing Guardiola assets in the United States and their allied nations. However, Steele, still refused to directly engage, knowing that a conflict with the MU would lead to a war with Mexico that would tear the country apart. Throughout the conflict, Steele directly engaged with Mexico, Mediterranean, and Colonial leaders to find a resolution to the crisis that would prevent a war on Earth. Steele accomplished this by sending intelligence and material support to the colonies, and getting Mexico to pass a limited sanction against the Guardiolas.\n\nBy the new year, more than 100,000 people in the colonies had been killed as a result of the conflict, and Steele's support among the populace was waning on Earth, and had turned to outright hostility in the colonies, leading to Steele deploying a limited blockade of MU ships suspected of harboring weapons for the Guardiolas. Despite this show of good faith, by January 2100, Planetary Guard commanders were devising an assault on the Guardiola stronghold in Catalonia. This action would have been the first invasion of a sovereign state by a colonial force, and would have been a political disaster for the Steele administration. With the threat of the colonies staging an unauthorized invasion and the overtures from ITC Chairman Akiyama, President Steele was able to convince Mexico to sanction a joint assault against the Guardiola stronghold on Earth without the involvement of the colonies. Later Mexico, the US, and the MU issued joint warrants for the arrest of the Guardiola Foundation's surviving members, finally leading to the colonies to stand down and withdraw to their own worlds.\n\n==='''Election of 2100'''===\nSteele's resolution of the Guardiola Incident all but assured his re-election in 2100, however he would remain a much more controversial figure in the colonies for decades to come. Facing opposition from an attempted run for a non-consecutive second term by former President Stultz and the Progress party's nomination of Nebraska Governor Priya Sekun who had been critical of Steele's handling of the conflict up until its resolution. Steele won a 56% of the popular vote.\n\n==='''European Food Riots'''===\nDuring the Guardiola's attack on the colonies, the Interplanetary Trade Commission began an unofficial blockade of the Mediterranean Union by redirecting shipments of food and goods produced in the colonies that normally would have been delivered to the Uganda tower. Steele, knowing this was an attempt at retribution that would no doubt lead to destabilizing the region attempted to force the ITC to continue regular deliveries to the Uganda tower via executive order directing the Space Force to serve as escorts, acknowledging the heightened security risks cited by the colonies. Despite Steele's executive order, colony ships did not return to Earth at pre-Incident levels until 2102. The ITC claimed this was the result of the initial reduction in O'Neil ship traffic to Earth which were redirected to other locations in the solar system that made it more difficult for them to be directed back to Earth. No matter the reason, the end result was food shortages across Africa and Europe.\n\nBy 2100 Riots had broken out across northern Europe over food shortages. The worst of these riots eventually deposed the German government, sending the country into chaos that only made the broader European crisis worse. Successive revolutions in France, Austria, and Italy forced Steele to order the US military to intervene and restore order. With a major invasion in France, and smaller operations across the continent, Steele functionally spent the bulk of his second term trying to hold Europe together with endless operations in Germany, propping up breakaway Republics, and effectively surrendering half the country to Poland. By the time O'Neil ship traffic had begun to normalize, Sicily's government dissolved following public outcry over rising food prices. The MU itself was plagued by populist uprisings that would continue well past Steele's Presidency.\n\n==='''[[Second Vietnam War]]'''===\nIn 2102 Vietnamese President Nguyen Tan Luong was captured in a military coup organized by Mexican backed forces within the Vietnamese military. Seeking to contain Mexico's destabilizing efforts in Asia, Steele pushed for China, the Philippines, Thailand, and Indonesia to join the US in a coalition effort to invade and return Luong to office and restore order. By the time Steele left office, the Second Vietnam War had grown into a sectarian conflict and fallen out of favor with the American public. Luong had been killed in an assassination shortly after being freed from prison, and the Vietnamese government propped up by the US and China was revealed in 2104 to be selling weapons provided to them by the US on the black market.\n\n==Retirement, death and funeral==\nSteele left office with his popularity falling in the face of an overextended military and several unpopular wars with no end in sight. While his image had recovered in somewhat by the Third Mexican War, he remains a controversial figure. Beyond Earth, he is consistently rated near the bottom in historical lists of American Presidents, while on Earth he tends to be remembered often with middling Presidents like William McKinley and Maya Garcia. Steele died in 2159 at the age of 110 after suffering a massive heart attack while hiking in northern Alberta. The former President's body was not discovered for nearly a week after his death and dissappearance. Doctors confirmed that he would have easily survived had he not been alone and had proper first aid.\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-09-05T15:32:30Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          }
+        ],
+        "title": "Tom Steele",
+        "touched": "2024-09-05T15:32:30Z"
+      },
+      "1381": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2842,
+        "length": 67,
+        "new": "",
+        "ns": 1,
+        "pageid": 1381,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2842,
+            "slots": {
+              "main": {
+                "*": "Malakar is not a Muslim last name. It is a Bengali Hindu last name.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-02-03T04:43:33Z"
+          }
+        ],
+        "title": "Talk:Rayleen Malakar/@comment-27084453-20170203044333",
+        "touched": "2017-02-03T04:43:33Z"
+      },
+      "1382": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6159,
+        "length": 45,
+        "ns": 6,
+        "pageid": 1382,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2850,
+            "revid": 6159,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:00:59Z"
+          }
+        ],
+        "title": "File:Tom Steele .png",
+        "touched": "2017-11-08T00:10:30Z"
+      },
+      "1383": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Seras Stultz Blank.png"
+          }
+        ],
+        "lastrevid": 11628,
+        "length": 3870,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Liberal Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Rayleen Malakar"
+          },
+          {
+            "ns": 0,
+            "title": "Tom Steele"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1383,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8168,
+            "revid": 11628,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=Seras Stultz\n|image=Seras_Stultz_Blank.png\n|imagesize=265px\n|alt=\n|caption=\n|order=[[President of the United States|58th]]\n|office=President of the United States\n|vicepresident=Caroline Shelby\n|predecessor=[[Rayleen Malakar]]\n|successor=[[Tom Steele]]\n|order2= 3rd\n|office2= Governor of Cascadia\n|deputy2= Blythe Donaldson\n|predecessor2= Jordan Locke\n|successor2= Scott Shran\n|termend2 = January 20, 2089\n|termstart2 = January 20, 2093\n|birth_date= 2045\n|birth_place= Carson City, NV\n|nationality= American\n|party=[[Liberal Party (United States)|Liberal]]\n|spouse= \n|children=Aaron Stultz\n|religion= Judaism\n|profession=Civil Servant<br />Politician\n|termend = January 20, 2097\n|termstart = January 20, 2093}}'''Seras Stultz''' (born August 1, 2045) was an American politician who served as the 58th President of the United States serving from 2093 to 2097. Stultz was the 3rd Governor of Cascadia, serving from 2089 to 2093. A member of the Liberal Party, and the first Jewish President, Stultz also had the distinction of being the first President from a former Canadian province (though Stultz was born in Nevada, and had been a US citizen all her life, she had lived in Canada a decade before annexation.) She became known for rather partisan politics which led to her defeat in 2096.\n\n== Early Life and Career ==\n\n=== '''Early Life''' ===\nSeras Stultz was born on August 1, 2045 to a local wealthy family in Carson City, Nevada. Her mother was a philanthropist and software engineer while her father was a director for several popular local films and documentaries. Growing up, Stultz was constantly taught that they \"had everything\" by her parents and was also subsequently shielded\n\nStultz attended Pioneer High School and graduated at the top 15% of her class in 2062. During the years of her time in highschool, she became one of the more popular students of her class. She first delved into politics in 2060 after supporting a Liberal candidate, but was unhappy with the contemporary politics after the 2060 US election of Conservative candidate Reed Chen. Stultz had believed in change, and claimed that she wanted to bring \"people with likewise mindsets\" into power to \"make change\".\n\nShe took advantage of her popularity by running for a school election during her last school year to local student council and closely won. This was her first experience in politics of any kind, and had ran into several problems during her early years as part of the student council. Stultz had several ideas in changing the system. It was noted that being \"pampered\" for all her life up to this point, Stultz suffered a mental breakdown. But had quickly recovered after stumbling across recordings of several speeches and written literature made by her \"favorite person at the time\"; Robert F. Kennedy. Inspired by Kennedy's actions, Stultz worked hard and became one of the more popular members of the student council during her time.\n\nAfter Stultz graduated, she moved to Victoria, British Columbia in Canada to attend University of Victoria there.\n\n=== '''Political Career''' ===\n\n==Presidency==\n==='''2092 presidential campaign'''===\nStultz's 2092 presidential campaign was noted for her attempts to unite opposition parties against the ruling Horizon party, notably both Liberals and Progressives. She promised a marriage of both Liberal and Progressive ideals to help unite the Left. This strategy had allowed her to grab significant enough votes for a surprise Liberal party victory.\n\nHowever, constant pressures from more traditional factions in her party had quickly made her backtrack on many campaign promises to progressive voters. This has generated backlash.\n\n==='''Colonial security'''===\n==='''Recession of 2095'''===\n==='''Affair Scandal'''===\n\n== Personal Life ==\n\n===<nowiki/>===\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-09-04T11:43:48Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          }
+        ],
+        "title": "Seras Stultz",
+        "touched": "2024-09-04T11:43:48Z"
+      },
+      "1384": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2876,
+        "length": 26,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Corey Booker"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 1384,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2876,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Corey Booker]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-02-04T16:46:24Z"
+          }
+        ],
+        "title": "BLANK",
+        "touched": "2017-02-05T23:11:05Z"
+      },
+      "1385": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2889,
+        "length": 305,
+        "new": "",
+        "ns": 10,
+        "pageid": 1385,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2889,
+            "slots": {
+              "main": {
+                "*": "<nowiki>#1E90FF</nowiki><noinclude>\n\n== Examples ==\n{|\n|- style=\"color:{{ {{PAGENAME}} }}\"\n| '''This color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:white\"\n| '''White on this color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:black\"\n| '''Black on this color'''\n|}\n\n== See also ==\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-02-05T03:16:34Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:United Republican Party (United States)/meta/color"
+          }
+        ],
+        "title": "Template:United Republican Party (United States)/meta/color",
+        "touched": "2017-02-05T03:16:34Z"
+      },
+      "1386": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags of commonwealths of the United States"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mars state flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 10997,
+        "length": 87,
+        "ns": 6,
+        "pageid": 1386,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3135,
+            "revid": 10997,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags of commonwealths of the United States]]\n[[Category:Mars state flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2022-12-15T20:55:16Z"
+          }
+        ],
+        "title": "File:Flag of Mars.png",
+        "touched": "2022-12-15T20:55:16Z"
+      },
+      "1387": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 2896,
+        "length": 297,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Mars/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1387,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2896,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Mars\n| flag alias = Flag_of_Mars.png\n| alt attribute = Flag of the Martian Commonwealth\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-02-05T08:16:17Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Mars/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Mars",
+        "touched": "2017-02-05T08:16:17Z"
+      },
+      "1388": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2905,
+        "length": 92,
+        "ns": 1,
+        "pageid": 1388,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2897,
+            "revid": 2905,
+            "slots": {
+              "main": {
+                "*": "Booker has actually announced that he won't run for President. Who are you going to use now?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-02-05T23:09:52Z"
+          }
+        ],
+        "title": "Talk:Cory Booker/@comment-24.224.66.196-20170205183737",
+        "touched": "2017-02-05T23:09:52Z"
+      },
+      "1389": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2906,
+        "length": 165,
+        "ns": 1,
+        "pageid": 1389,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2898,
+            "revid": 2906,
+            "slots": {
+              "main": {
+                "*": "There are other candidates who'd fit the description above. Booker doesn't intend to run now, but by that time he'll likely be a favorite whether he likes it or not.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-02-05T23:09:53Z"
+          }
+        ],
+        "title": "Talk:Cory Booker/@comment-24.224.66.196-20170205183737/@comment-30470028-20170205194200",
+        "touched": "2017-02-05T23:09:53Z"
+      },
+      "1390": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2904,
+        "length": 25,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Cory Booker"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 1390,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2904,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Cory Booker]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-02-05T23:09:52Z"
+          }
+        ],
+        "title": "Corey Booker",
+        "touched": "2021-01-22T02:44:54Z"
+      },
+      "1391": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Former countries in North America"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former country articles requiring maintenance"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexico"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Coat of arms of Mexico.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cold War Logo.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Mexico (2074).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United States.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Map of Mexico by CaptainMME45.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Second Mexican Empire Flag.png"
+          }
+        ],
+        "lastrevid": 10514,
+        "length": 9158,
+        "links": [
+          {
+            "ns": 0,
+            "title": "''Himno Nacional Mexicano''"
+          },
+          {
+            "ns": 0,
+            "title": "Android"
+          },
+          {
+            "ns": 0,
+            "title": "Artificial-Intelligence Operating System"
+          },
+          {
+            "ns": 0,
+            "title": "Battle of Brazil"
+          },
+          {
+            "ns": 0,
+            "title": "Biorobotics boom"
+          },
+          {
+            "ns": 0,
+            "title": "Biotech bubble"
+          },
+          {
+            "ns": 0,
+            "title": "Chamber of Deputies"
+          },
+          {
+            "ns": 0,
+            "title": "Coat of arms of Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "Congress"
+          },
+          {
+            "ns": 0,
+            "title": "Edwin Jaso"
+          },
+          {
+            "ns": 0,
+            "title": "Eurasian Coalition"
+          },
+          {
+            "ns": 0,
+            "title": "Federal presidential constitutional republic"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of the Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "Genetic Engineering"
+          },
+          {
+            "ns": 0,
+            "title": "India Crisis"
+          },
+          {
+            "ns": 0,
+            "title": "Interplanetary Trade Commission"
+          },
+          {
+            "ns": 0,
+            "title": "Latin American Union"
+          },
+          {
+            "ns": 0,
+            "title": "List of countries and dependencies by area"
+          },
+          {
+            "ns": 0,
+            "title": "List of countries by population"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican Vacuum Command"
+          },
+          {
+            "ns": 0,
+            "title": "Mexico City"
+          },
+          {
+            "ns": 0,
+            "title": "Oscar Lachman"
+          },
+          {
+            "ns": 0,
+            "title": "Peso ($)"
+          },
+          {
+            "ns": 0,
+            "title": "Sahara War"
+          },
+          {
+            "ns": 0,
+            "title": "Second Depression"
+          },
+          {
+            "ns": 0,
+            "title": "Second Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Second Mexican Empire"
+          },
+          {
+            "ns": 0,
+            "title": "Second Vietnam War"
+          },
+          {
+            "ns": 0,
+            "title": "Senate"
+          },
+          {
+            "ns": 0,
+            "title": "Third Chinese Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Timeline of major events"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 0,
+            "title": "United States of Aztlan"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican-American Cold War"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in 2139"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2130s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2139"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 22nd century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in 1876"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 1870s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 1876"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 19th century"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1391,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9924,
+            "revid": 10514,
+            "slots": {
+              "main": {
+                "*": "{{Infobox former country\n|conventional_long_name = United Mexican States\n| common_name            = Mexico\n| continent              = North America\n| region                 = Latin America\n| government_type        = Federal presidential constitutional republic\n| image_map              = \n| image_map_caption      = \n| image_flag             = Flag_of_Mexico_(2074).png\n| coa_size               = x70px\n| symbol_type            = Coat of Arms\n| symbol                 = Coat of arms of Mexico\n| image_coat             = Coat_of_arms_of_Mexico.png\n| year_start             = 1876\n| year_end               = 2139\n| era                    = \n|national_motto = \n|national_anthem = ''Himno Nacional Mexicano''\n|capital = Mexico City\n|largest_city = Mexico City\n|languages = Spanish\n|languages_type = National language\n| event_pre    = Independence from Spain Declared\n| date_pre     = 16 September 1810\n| event_start  = [[Wikipedia:Spanish_American_wars_of_independence#New_Spain_and_Central_America|Independence recognized]]\n| date_start   = 28 December 1836\n| event1       = First constitution\n| date_event1  = 4 October 1824\n| event2       = Second constitution\n| date_event2  = 5 February 1857\n| event3       = Current constitution\n| date_event3  = 5 February 1917\n| event_end    = Treaty of San Juan\n| date_end     = November 19, 2139\n| p1           = Second Mexican Empire\n| image_p1     = [[File:Second_Mexican_Empire_Flag.png|20px|link=]]\n| s1           = United States of America\n| image_s1     = [[File:Flag_of_the_United_States.png|20px|link=]]\n| title_leader = President\n| leader1      = [[Edwin Jaso]]\n| year_leader1 = 2134-2139\n| title_deputy = Vice President\n| deputy1      = \n| legislature  = Congress\n| house1       = Senate\n| house2       = Chamber of Deputies\n| stat_year1   = 2130\n| stat_area1   = 2406339\n| stat_pop1    = 213142002\n| today        = [[United States of America]]\n| footnotes    = \n| width        = 265px\n| currency = Peso ($)\n}}'''Mexico''' (Spanish: México, pronounced: [ˈme.xi.ko]), officially the '''United Mexican States''' (Spanish: Estados Unidos Mexicanos) was a federal republic in the southern half of North America. At its height in the 2130s it was bordered to the north by the United States; to the south and west by the Pacific Ocean; to the southeast by Panama and the Caribbean Sea; to the east by the Gulf of Mexico; and during the [[Third Mexican-American War]] claimed most territory of the [[United States of Aztlan|South-Western United States]].\n\nFor much of its history, Mexico was on uneasy terms with the United States, facing sporadic armed conflicts early in its history with the [[Wikipedia:Texas Revolution|Texas War]] (c.1835-1836), [[Wikipedia:Mexican Mexican–American War|the First Mexican-American War]] (c.1846-1848), followed by sporadic episodes of peace and revolution preceding the Mexican Golden Age leading to a series of armed conflicts known as the Mexican Wars (c. 2091 - 2139). Mexico also had to deal with hostile Revolutionaries throughout much of its history. After the Third Mexican War ended in 2139 with Mexico's total defeat, U.S. forces occupied the country and, after the Treaty of San Juan, annexed it into the Union. Nearly all of the other Mexican client-states and former Mexican dependencies subsequently fell into American hands.\n\n==History==\n==='''Pre-Columbian Mexico'''===\nThe earliest complex civilization in Mexico was the Olmec culture, which flourished on the Gulf Coast from around 1500 BCE. The formative-era of Mesoamerica is considered one of the six independent cradles of civilization.\n\nIn Central Mexico, the height of the classic period saw the ascendancy of Teotihuacan, which formed a military and commercial empire whose political influence stretched south into the Maya area as well as north until its collapse around 600 CE.\n\nDuring the post-classic era came the emergence of the Aztec empire. The Aztec of Central Mexico built a tributary empire covering most of central Mexico, and would fall to Spanish conquest in the 16th century. Over the next centuries Mexican indigenous cultures were gradually subjected to Spanish colonial rule.\n\n==='''Spanish Conquest (1519–1821)'''===\n==='''War of Independence (1810–1821)'''===\n==='''Imperial period (1821-1867)'''===\n==='''Porfiriato (1876–1911)'''===\n==='''Mexican Revolution and one-party rule (1910–2000)'''===\n==='''Economic modernization (2000–2067)'''===\nThe Flood did not severely impact Mexican territory, but the changing climate did put additional strains on Mexico's agricultural sector as drought struck the country's north and floods plagued Mexico City. In 2041, Hurricane Elliot led to flooding so severe that the Mexican government called for the Earth Working Group to rebuilt the ancient lakes at the heart of the Valley of Mexico to solve the historic flooding problems that plagued the country's capital and largest city. The project would feature a major urban redevelopment campaign for Mexico city and the surrounding regions impacted by the hurricane in a project that came to be a major symbol of Mexican national pride. Using chronoscope data, Mexican architects with the EW were able to fully restore Tenochtitlan as both a center for tourism, and modern city.\n\nCapital flight from China and Europe, combined with progressive policies towards [[Biotech bubble|biotech research]], gave Mexico the tools for strong economic growth during the 2030s and 40s. The country continued to receive investment and support from the United States in the form of construction loans (which helped spur the development of new infrastructure), and preferential trade deals that eased investment in the country.\n\nDuring [[World War III]], Mexico remained an important ally of the US, though it did not directly engage the [[Eurasian Coalition|Coalition forces]] during the conflict. Mexico was briefly approached by the Japanese in an attempt to split the Organization of American States. Mexico, however, was quick to reject Japan's petition, and the government made the US aware of the scheme immediately, the administration believing the alliance with the US was too beneficial to risk.\n\n==='''Emergence as a great power (2067-2092)'''===\nBy the Refreeze Mexico had supplanted Indonesia, becoming the world's 4th largest economy, largely a result from the biotech sector and the country's adoption of [[Genetic Engineering|new GM crop and fertilization techniques,]] previously only used for terraforming, that helped create a resurgent agriculture sector. Mexico would also be a major player in the [[Biorobotics boom]], benefiting from international technology transfer agreements from the United States.\n\nThe country's relationship with the US remained cordial, even after the American ban on military activities in Space from other nations, which Mexico strongly opposed. Mexico's military continued to be a major buyer of American military equipment through the 2070s. The Mexican-American Split ultimately came about after the US reversal of its immigration policy, and the mass deportation of people to Mexico.\n\n==='''Cold War with the United States ([[Tel:2092–2134|2092–2134]])'''===\n{{History of the Mexican-American Cold War}}\nMain Article: [[Mexican-American Cold War]]\n\nDuring the 2090s and 2110s Mexico began a major military buildup and economic expansion, developing advanced infrastructure and pushing its reach out into space, the first nation to do so since the Third World War. While the creation of a [[Mexican Vacuum Command|military presence in space]] is often the most recognized feature of Mexico effort to counter the US, the country also adopted programs to enhance its economic standing against the US. Mexico became the world's number one producer of [[Android|robotic labor]] by the end of the 21st Century, and aggressively pursued late period free market policies to grow its economy, forming a single free trade zone across Latin America that effectively extended the Mexican economy over the whole of the region.\n\n[[File:Map_of_Mexico_by_CaptainMME45.png|300px|thumb|Mexico during the height of the Mexican-American Cold War.]]\n\n==Economy==\nPrior to the Third Mexican-American War, Mexico had the Earth's second largest economy by nominal GDP and was the world's number one producer of [[Artificial-Intelligence Operating System|AI software]] and consumer robotics. Mexican cybernetics technology had largely surpassed that of the terrestrial United States by the 2090s, though American colonial enterprises were still considered superior to any on Earth, and were only limited by Earth's relatively meager Space-to-Surface commerce infrastructure. Mexico also held a virtual monopoly on neural imprinting technology, and were able to rapidly train its population to outpace the US workforce in their skill-sets. Mexico placed tight controls on this technology and would not allow it to be exported beyond the [[Latin American Union]], though there is evidence to suggest it has been used against political figures around the world during the Mexican-American Cold War.\n[[Category:Former countries in North America]]\n[[Category:Mexico]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-08-21T01:15:04Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Both"
+          },
+          {
+            "ns": 10,
+            "title": "Template:History of the Mexican-American Cold War"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country/autocat"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Main other"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Nbsp"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Nowrap"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ns0"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ordinal"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str find"
+          },
+          {
+            "ns": 10,
+            "title": "Template:·"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "Mexico",
+        "touched": "2021-08-21T01:15:04Z"
+      },
+      "1392": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Cora Fabian Blank.png"
+          }
+        ],
+        "lastrevid": 11037,
+        "length": 2018,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Earth"
+          },
+          {
+            "ns": 0,
+            "title": "Ha-eun Zaya"
+          },
+          {
+            "ns": 0,
+            "title": "Lionel Halvidar"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Union Party (United States)"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1392,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10791,
+            "revid": 11037,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=Cora Fabian\n|image=Cora_Fabian_Blank.png\n|imagesize=265px\n|alt=\n|caption=\n|order=[[President of the United States|66th]]\n|office=President of the United States\n|vicepresident=Mika Sakahki\n|predecessor=[[Lionel Halvidar]]\n|successor=[[Ha-eun Zaya]]\n|birth_date=2094\n|birth_place=London, England\n|nationality= American\n|party=[[Union Party (United States)|Union]]\n|spouse= \n|children=\n|religion= Mormonism\n|profession=Civil Servant<br />Politician\n|termend = January 20, 2149\n|termstart = January 20, 2141}}\n\n'''Cora Fabian''' was the 66th President of the United States serving from 2141 to 2149 and the 68th Vice President of the United States from 2133 to 2141. A member of the Union Party, they were previously a member of Congress and the United States Senate. A [[Earth|Terran]], [[Lionel Halvidar]] chose Fabian as his running mate, and Fabian became vice president after the Halivdar–Fabian ticket won the 2132 election.\n\nIn 2140, Fabian ran a successful campaign to succeed Halvidar, becoming the first president from the European continent. Domestic policy drove the Fabian presidency: they favored a methodical admission of the newly absorbed Latin American states, much as Halvidar did, and aggressively pushed Congress to provide funds to enable the Terran population to easily relocate to the colonies. They continued the expansion of the Quantum Economic Model worldwide, and their domestic economic proposals were largely a continuation of Halvidar's policies. Early in their second term their administration faced a constitutional crisis over reconstruction, as the Earth planetary commonwealth rejected the admission of several South American states the Federal government deemed ready to join the Union. After a lengthy court battle, the Supreme Court ruled in a 6-3 decision that the admission of states into the Union on Earth fell to the Planetary Government and was no longer the responsibility of the Federal Government.\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-01-16T06:42:41Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          }
+        ],
+        "title": "Cora Fabian",
+        "touched": "2023-01-16T06:42:41Z"
+      },
+      "1393": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:American military leaders"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:US-O11 Rank.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US Space Force.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Zaya Blank.png"
+          }
+        ],
+        "lastrevid": 11312,
+        "length": 17264,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Cora Fabian"
+          },
+          {
+            "ns": 0,
+            "title": "Dom Terragno"
+          },
+          {
+            "ns": 0,
+            "title": "Eternal Spring Revolt"
+          },
+          {
+            "ns": 0,
+            "title": "Federated Provinces of the Yangtze"
+          },
+          {
+            "ns": 0,
+            "title": "Guardiola Incident"
+          },
+          {
+            "ns": 0,
+            "title": "Joseph Loveridge"
+          },
+          {
+            "ns": 0,
+            "title": "Jupiter"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Union Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "United Progessive Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1393,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11311,
+            "revid": 11312,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=Ha-eun Zaya\n|image=Zaya_Blank.png\n|imagesize=265px\n|alt=\n|caption=\n|order=[[President of the United States|67th]]\n|office=President of the United States\n|vicepresident=Joaquin Vega\n|predecessor=[[Cora Fabian]]\n|successor=[[Dom Terragno]]\n|birth_date=January 14, 2081\n|birth_place=[[Jupiter|Loltun, Xibalba, Gaynamede]]\n|nationality= American\n|party=[[Union Party (United States)|Union]] (2129-2153), [[United_Progessive_Party_(United States)|United Progressive]] (2153-present)\n|spouse= \n|children=\n|religion= Buddhism\n|profession=Soldier<br />Politician\n|branch=[[File:US_Space_Force.png|25px]] United States Space Force\n|unit= Planetary Task Force India\n|serviceyears= \n|rank= [[File:US-O11_Rank.png|25px]] [[United States of America|General of the Space Force]]\n|battles=[[Guardiola Incident]]<br />[[Third Mexican-American War|Third Mexican War]]\n|termend = January 20, 2157\n|termstart = January 20, 2149}}'''Ha-eun Zaya''' (born January 14, 2081) was the 67th President of the United States from 2149 until 2157. She was a five-star general in the United States Space Force during the [[Third Mexican-American War]] and served as Supreme Commander of Planetary Task Force India. She was responsible for planning and supervising the invasion of China in Operation Stardust in 2136 and the successful invasion of India and Indonesia in 2137 from Orbit.\n\nZaya was of Chinese Mongol, and Korean ancestry, and was raised in a large family in Xibalba by parents with a strong Buddhist background. She joined the Planetary Guard while at New Venice University's School of Military History before being deployed to fight in the Guardiola Incident. After the conflict, Zaya earned her Ph.D. and published her thesis, ''World Conquerors: A History of the Mongol Invasions .''\n\nZaya entered the 2148 presidential race on the Union Party ticket, and won in a landslide, defeating Conservative candidate Adel Navarro. Zaya's main goals in office were to keep pressure on the still consolidating Free Associations and address the growing number of militias in the O'Neil colonies. This would culminate in the [[Eternal Spring Revolt]] for which Zaya was credited for resolving with minimal loss of life.\n\nZaya's two terms saw considerable economic prosperity except for a brief recession in 2156. She achieved widespread popular esteem both in and out of office, and is consistently remembered as a great President. She is also remembered for being the first President born outside of Earth and the first President born on Ganymede. Her election marked the the transition of political power moving away from Earth and to the former planetary colonies.\n\n==Early life and education==\nThe Zaya family left Inner Mongolia for the Jovian system in 2057, first settling in the Galileo colony on Callisto, and in the 2070s moving to Ganymede's Loltun colony in Xibalba. Zaya's father, Tabin Zaya, a first generation colonial and architect met Ji-eun \"June\" Park, a colony planner and Zaya's mother. The two married in 2077, having Ha-eun Zaya in 2081 and her younger sister Nari Zaya in 2086.\n\nAs a child, she was involved one of the worst colony accidents in history when a glacier ruptured, temporarily depressurizing Loltun, costing her younger sister her right leg to frostbite; she later referred to this as an experience teaching her the need to be protective of those under her. Zaya's parents would play a significant role in repairing Loltun, and her mother would rise to be a leading figure in the restored city council of the colony.\n\nWhile Zaya's mother was a more pacifist, it was her father's collection of Mongol heirlooms that first sparked Zaya's early and lasting interest in military history. She studied the history of these trinkets from Earth, discovering their ties to her ancestor's empire and became a voracious reader in the subject. Other favorite subjects early in her education were mathematics and botany.\n\nHer parents pushed Zaya into calligraphy courses, martial arts, the study of Modern Buddhism. The Zayas' home served as the local temple for Loltun's small population of Buddhists from 2082-2095, though Zaya eventually began to avoid services over personal disagreements with her much more traditional mother. Her later decision to join the Planetary Guard and study at the School of Military History led to a lasting schism between Zaya and her mother. Zaya would continue to study modern Buddhist principles and remained close with her father, though she seldom saw her mother after joining the military.\n\nAt NVU Zaya relished the emphasis on tradition and sport, and joined the school marshal arts team achieving her black belt in Hung Ga Kung Fu. She was also a regular violator of the more detailed regulations, and finished school with a less than stellar discipline rating. Academically, Zaya's best subject by far was History, and she excelled during her undergraduate coursework. One of the more significant relationships Zaya made while at NVU was her friendship with the Dean of Military History, former Space Force General [[Joseph Loveridge]], who Zaya looked up to as a mentor during her first years at NVU.\n\n==Guardiola Incident==\nZaya requested early assignment with Loveridge in 2099 when the Planetary Guard forces were called to join in the defense of the Cislunar Colonies. Loveridge tentatively accepted her on as his personal assistant aboard the flagship. While Jovian Planetary Guard forces did not reach Earth until after the worst of the fighting had ended, Zaya took part in half a dozen battles aboard Loveridge's flagship, and earned high honors for her actions. During the final battle on the Moon to push the last remaining Guardiola fighters off the surface, Zaya took temporary command of the ship's drone forces through neural link after the ship's flight officer was incapacitated from surface fire. For her actions she received the Planetary Guard Medal and was given a field promotion to First Lieutenant for her actions, and placed in temporary command of the ship's drones for the remainder of the conflict.\n\n==='''In service to generals'''===\nAfter the war, Zaya transferred to the Space Force Academy at Colorado Springs to complete her undergraduate coursework, like many veterans of the Guardiola Incident, her service record during the Incident was not accepted as battlefield experience, because the US never recognized the Incident as a war. Zaya spent the next 2 years at Colorado Springs where she graduated as a Second Lieutenant. She returned to NVU School of Military History where she was promoted to First Lieutenant by General Loveridge. Zaya completed her doctoral coursework by 2105 and was promoted to the rank of Major upon graduation, a rank she held for the next 10 years. The major was assigned in 2109 to a Planetary Guard task force under General Hellena Lerman conducting war games using the Jovian system as a simulated solar system. Zaya was nearly court-marshaled for carrying out a mock invasion of Earth during one such wargame, having been earlier reprimanded on multiple occasions for similar actions in simulators.\n\nFrom 2110 onward Zaya served under a succession of talented generals – Vix Banning, her old mentor Joseph Loveridge, Rohan Mustafa and Erin McCain. She first became executive officer to General Banning in the Asteroid Belt, where she served until 2116. Under Banning's tutelage, she gained a greater appreciation for military theory, and later cited Banning's enormous influence on her military thinking. Banning would later comment on Zaya, \"She is one of the most capable, resourceful and loyal officers I have ever met.\" On Banning's recommendation, in 2117-2118 she attended the Space Command and General Staff College at Locke Space Force Base, Texas, where she graduated first in a class of 95 officers. She then served as a squadron commander at Grove Station, Mars until 2122.\n\nDuring the 2120s Zaya's was assigned to the effort to eliminate the piracy problem in the Asteroid Belt. Zaya was promoted to Colonel and given command of the Jovian Planetary Guard's 9th Expeditionary Squadron out of Herculina. Zaya organized over two dozen operations against the Belt Pirates between 2122 and 2127 before returning to Fort Knight, Ares. At Fort Knight she was promoted to the rank of Brigadier General and given special assignment to lead a series of simulated war games in anticipation for the next war. In 2130, she participated in putting down the Bradbury Riots and was promoted to Major General in recognition for her administration of Planetary Guard forces combating MSIF forces around Mars.\n\n==Third Mexican War==\nAfter the Southwest seceded, Zaya was assigned to the Planetary Guard General Staff in Bradbury, where she served until June 2136 with responsibility for creating the major war plans to defeat Mexico's proxies in Asia. As a key figure in the creation of the Colonial Fleet, Zaya was given a priority transfer to the Space Force when the Fleet was acquired by the Federal Government, and promoted to the rank of General to oversee preparations for the Colonies entry into the War.\n\nAt the end of November 2134, Zaya accompanied General Erin McCain, commanding general of the Planetary Guard's Terrestrial Forces, to Armstrong to assess the effectiveness of the theater commander in Cislunar Space, Gen. Loretta E. Lanning. She returned to Bradbury on December 1 with a pessimistic assessment, stating she felt Lanning and her staff were \"patently ill equipped\" to defend Luna from Mexican Vacuum Commandos.\n\n==='''Supreme Commander Task Force India and Operation Stardust'''===\nIn February 2135, President Halvidar decided that Zaya – not Banning – would be Supreme Commander of Planetary Task Force India. The following month, she was officially designated as the Supreme Commander of the Task Force India, and was promoted to General of the Space Force, the third person in history to receive such a title, along with her two former commanders Rohan Mustafa and Joseph Loveridge. She was charged in this position with planning and carrying out the Colonial invasion of China in August 2136 under the code name Operation Stardust, the defeat of Mexican proxies in China and the invasion of India.\n\nZaya and the other Supreme Commanders had originally planned to reach on Earth by September 3, 2136 with the first wave as part of Operation Stardust. However, upon Mexico's attack on the United States Capitol, the first wave was reduced by 25% and launched 4 days ahead of schedule. Zaya commanded the ''Heinlein's Light'' and the rest of her squadron to push their ship's reactors to the point of redline to save precious hours to get to Earth. At 1:14 am, Zaya's squadron reached Earth Orbit and entered into combat with the Mexican Orbital ''Diaz.'' Upon the arrival of General Mustafa's squadron, Zaya withdrew and burned toward the Earth with Mustafa, who had left half of his forces to capture ''Diaz''. Zaya and Mustafa coordinated their attacks to clear a path for the Marines to deploy to Washington.\n\nBy August 28th, 4:21 am EST 11,152 Marines from the Colonies touched down at Washington with drone and micro-artillery support. Zaya coordinated the invasion for 5 hours, providing support fire while Mustafa redirected his ships against Mexican forces still in space. After the surrender of Bautista, Zaya personally landed at the Capital upon which she was greeted by President Halvidar who hailed the invasion as the turning point of the war. Zaya was the first to be alerted to Halvidar's collapse after the fight, and ordered that the men not be alerted to the President's condition. She personally contacted Vice President Fabian and informed her of the situation. After surgeons had managed to stop the bleeding, Halvidar ordered Zaya to return to Orbit and allow Mustafa and Task Force Pacific to handle operations in the Americas as planned. While this was not officially a reprimand, Halvidar felt Zaya's over-zealousness should be kept in check.\n\nThe China landings on October 20, 2136, were costly but successful. A month later (November 26), the invasion of Southern China took place, and control of forces in the region transferred to Task Force India. Many colonials thought that victory in Asia would come by summer's end, but Zaya, ever the student of wars in Asia, knew the Mexican backed forces would not capitulate so easily. From then until the end of the war in Asia, Zaya commanded all American-Allied forces in the region, and established military governments . She was ever mindful of the inevitable loss of life and suffering that would be experienced on an individual level by the troops under her command and their families, and thus spent a great deal of time studying and reviewing ancient battles in similar regions to avoid the mistakes of the past. This dedication to the lives of her troops is largely what drove Zaya to be the first Supreme Commander to request the usage of Relativistic weapons during the war.\n\n==='''Operation Vishnu'''===\nHalvidar had been reluctant to authorize the use of relativistic weapons, and had hoped to limit their use to the invasion of Mexico city to serve as the killing blow to Mexico, but was compelled to act after the nuclear attacks against colonial forces in China. Zaya felt that relativistic strikes in combination with a bombardment campaign and aggressive troop movements would break the enemies' will to fight. Thus began Operation Vishnu, and the first use of relativistic weaponry of the war.\n\n==='''Victory in Asia'''===\n==Post-war==\n==='''Military governor of China'''===\nFollowing the unconditional surrender of the [[Federated Provinces of the Yangtze|Yangtze Federation]] and Yunnan, Zaya was appointed Military Governor of the U.S. Occupation Zone, based in Shanghai. She had full responsibility over the provisional governing body established over the zone. Her first act was to allow the press into the mass deprogramming camps the U.S. had set up during the conflict to handle brain-hacked citizens who'd been turned to the enemy cause. Zaya followed the orders laid down by the Joint Chiefs of Staff (JCS) in directive JCS 9012, instituting the Quantum Economic Model over China bringing in 7,100,000 tonnes of food for civilians, along with medical equipment and supplies to begin the reconstruction of the country. Her actions reflected the new American attitudes of the Chinese people as victims of Mexican infiltration rather than collaborators, while aggressively purging the Mexican operatives.\n\nZaya's regime in Shanghai would come to be celebrated by the Chinese as the most effective government in living memory. Zaya blended colonial governing systems with her own deep study of historic Chinese governing systems, particularly the Yuan dynasty. She oversaw the reconstruction and expansion of China's infrastructure, encouraged the movement of refugees to Beanstalk and the newly completed Borneo tower where they could be relocated to new colonies being established in the Jovian system and Saturn; and later on Venus.\n\n==='''U.S. Space Force Chief of Staff'''===\n==='''Election of 2148'''===\nZaya was popular among the Union Party base which felt that Secretary of State Olivia Keyes was too timid to lead the party, and would push the country too far to the left. In one of the great political coups of the era, the Unionists and Conservatives both chose Zaya as their presidential candidate on the first ballot at both National Conventions. Zaya's nomination was seen by many liberal Unionists as a betrayal to the party's founding ideals, and largely contributed to the formation of the United Republican Party. Despite the opposition of liberal unionists, Zaya won the support of many Conservatives thanks in part for her nomination of Colorado governor Joaquin Vega for the vice presidency.\n\nThe Progress party nominated former Illinois Governor Axel Mattarella. Their campaign focused mainly on ending Reconstruction and working to integrate South Americans more directly into American society. The Progressives attacked Zaya's support for Reconstruction, with Mattarella calling her, \"the Jovian Conqueror.\" Zaya won the election by 57% on the second ballot.\n\n==Presidency==\n==='''Orbital Colony incidents'''===\n''Main article: [[Eternal Spring Revolt]]''\n\nZaya entered office with tensions between the Federal Government and the Orbital Colonies at an all time high. The Great Mutiny was one of the few black marks on President [[Cora Fabian]]'s otherwise successful presidency, and Zaya considered it to be an act of high treason. During the summer of 2149 when the ''Eternal Spring'' made its formal declaration of war against the United States, Zaya dispatched the whole of the US Space Force fleet and federalized the Lunar and Terran Space National Guards, with the USS Olympus leading the attack against the ''Spring.'' The rebel fighters were given no quarter until the O'Neil ship was captured and its defense broken. While some criticized Zaya's decision to take no prisoners as rather harsh, most on Earth celebrated her for taking decisive action in the face of a rogue colony.\n[[Category:Presidents of the United States]]\n[[Category:American military leaders]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-06-16T03:14:03Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 10,
+            "title": "Template:WPMILHIST Infobox style"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          }
+        ],
+        "title": "Ha-eun Zaya",
+        "touched": "2023-06-16T03:14:03Z"
+      },
+      "1394": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Dom Terragno Blank.png"
+          }
+        ],
+        "lastrevid": 11308,
+        "length": 5839,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Earth"
+          },
+          {
+            "ns": 0,
+            "title": "Ha-eun Zaya"
+          },
+          {
+            "ns": 0,
+            "title": "Planetary-Governor of Earth"
+          },
+          {
+            "ns": 0,
+            "title": "President of the United States"
+          },
+          {
+            "ns": 0,
+            "title": "United Progressive Party (United States)"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1394,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10792,
+            "revid": 11308,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=Dom Terragno\n|image=Dom_Terragno_Blank.png\n|imagesize=265px\n|alt=\n|caption=\n|order=[[President of the United States|68th]]\n|office=President of the United States\n|vicepresident=Horace Fitzgerald\n|predecessor=[[Ha-eun Zaya]]\n|successor=\n|order2= [[Planetary-Governor of Earth|3rd]]\n|office2= Planetary-Governor of [[Earth]]\n|term_start2=January 20, 2151\n|term_end2=January 20, 2157\n|deputy2= Victoria Li\n|predecessor2= Leddy Sirleaf\n|successor2= Victoria Li\n|order3= Member of the U.S. House of Representatives\n|office3= from Earth's 5th district\n|term_start3=January 20, 2141\n|term_end3=January 20, 2151\n|predecessor3= ''position created''\n|successor3= Carlos Baquerizo \n|birth_date= August 29, 2109\n|birth_place= Ciudad Mitad del Mundo, Quito Elevator Zone, U.S.\n|nationality= American\n|party=[[United Progressive Party (United States)|New Progressive]]\n|spouse= \n|children=\n|religion= Roman Catholicism\n|profession=Civil Servant<br />Politician\n|termend =\n|termstart = January 20, 2157}}'''Domanic \"Dom\" Terragno''' (born August 29, 2109) is the current President of the United States having served since 2157. He holds the distinction of being the first president to have previously served as a Planetary-Governor and the first president to be born in the 22nd century, along with being the first from South America.\n\n==Early life and military career, 2109–2140==\n\n==='''Formative years and education'''===\nDom Terragno was born on August 29, 2109, at Ciudad Mitad del Mundo in the Quito Elevator Zone, to Space Force officer Rodolfo \"Rod\" Terrangno (2071-2134) and Roberta Brooks-Terrangno (born 2068).\n\nTerragno's family tree includes Argentinian (with distant Italian ancestry) and Caribbean ancestors. Both his father and his paternal grandfather, Sebastián Terragno, became four-star United States Space Force generals. The Terragno family followed their father to various naval postings before settling at Ciudad Mitad del Mundo in 2104, shortly before Terragno was born.\n\nFollowing in the footsteps of his father and grandfather, Terragno entered the United States Space Force Academy at Colorado Springs. There, he was a friend and informal leader for many of his classmates, and while he did well academically he was expelled after coming into conflict with higher-ranking personnel. His expulsion led to a schism between Terragno and his father who refused to allow him back into his house after he returned from School. Terragno and his father would not speak again until shortly before his father's death in 2134.\n\n==='''Third Mexican War service'''===\nAfter washing out of the Space Force Academy, Terragno struggled to find work and briefly relocated to Kennedy city on Luna where he joined the Planetary Guard in 2129. At the outbreak of the Second Civil War, Terragno was assigned to the crew of the ''USPGS Sri Patel'' to shadow Mexico's Orbitals. After sustaining severe wounds along with the loss of his ship at the Battle of L2, he was recovered by the hospital ship ''USSFS Leddy Hacket'' and remained in hospital for three months.\n\nHis first command was PSC-95 from December 7, 2135, until February 23, 2136. It was a Patrol spacecraft used for satellite repair and maintenance in L4, where Terragno and his crew engaged Mexican space forces on 41 separate occasions. His ship was critically damaged after Terragno used his ship as a ram to cripple the Mexican cruiser ''Intrépido.'' Terragno and his entire crew survived and managed to return PSC-95 to Whidbey station where they were awarded the Distinguished Unit Citation and Terragno the Space Force Cross.\n\nHe was promoted to the rank of Major reassigned to U.S. Space Force cruiser ''Travis Nealson'' and the Space Force's 14th Squadron. He led his squadron during the assault against Mexico's lunar Orbitals, and spent the remainder of the war in skirmishes between Mexican forces hiding in the debris field around Luna. On May 10, 2139, he was relieved of active duty. He resigned his commission on New Year's Day 2140 and retired from the Space Force. He returned to his family home only to hold a belated funeral for his father before settling in Guayaquil with his mother and younger brother.\n\n==Congressional career==\nIn 2140 the Union Party in Earth's 5th congressional district, which roughly covered the immediate area of Ecuador, rallied behind Terragno as a consensus candidate who would run a strong campaign to bring Ecuador into the Union on equal footing with the North American states. The party selection committee chair, Lora Vasquez, suggested Terragno, a family friend with whom she had served with during the war. Vasquez wrote to Terragno in Guayaquil, and while initially hesitant, Terragno agreed to stand as the Union party nominee. He began a year long campaign across the Congressional district won his first election on the first ballot with a 54% majority.\n\nIn Congress, Terragno served on the Education and Veteran's Affairs Committees. He was part of the Samak Committee, which went to Europe to report on the need for additional U.S. foreign aid and recommended delaying the withdraw of US forces from Eastern Europe for another two years past the recommended date. Terragno was the youngest member of the committee, and the only South American.\n\n==Planetary Governor of Earth==\n==Presidential Election of 2156==\n==Presidency (2157-Present)==\nTerragno entered office with the goal of expanding the scope of the protectorate system established under Halvidar and brought two Free Association agreements for approval to the US Congress in his first two years in office. Terragno also worked to directly incorporate guidelines into NASA's first contact protocol that would allow alien civilizations to eventually join the Union as Free Associations.\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-06-14T19:55:49Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          }
+        ],
+        "title": "Dom Terragno",
+        "touched": "2023-06-14T19:55:49Z"
+      },
+      "1395": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2932,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 1395,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2932,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-02-07T17:58:22Z"
+          }
+        ],
+        "title": "File:US-O11 Rank.png",
+        "touched": "2018-11-08T04:14:41Z"
+      },
+      "1396": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6193,
+        "length": 45,
+        "ns": 6,
+        "pageid": 1396,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2934,
+            "revid": 6193,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:10:22Z"
+          }
+        ],
+        "title": "File:Zaya Blank.png",
+        "touched": "2017-11-08T00:10:31Z"
+      },
+      "1397": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2949,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1397,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2949,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-02-08T19:45:40Z"
+          }
+        ],
+        "title": "Message Wall:168.105.5.188",
+        "touched": "2017-02-08T19:45:41Z"
+      },
+      "1398": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2950,
+        "length": 728,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Earth"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1398,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2950,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Earth]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-02-08T19:45:41Z"
+          }
+        ],
+        "title": "Thread:168.105.5.188/@comment-22439-20170208194541",
+        "touched": "2017-02-08T19:45:41Z"
+      },
+      "1399": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6033,
+        "length": 45,
+        "ns": 6,
+        "pageid": 1399,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2953,
+            "revid": 6033,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:27:16Z"
+          }
+        ],
+        "title": "File:Dom Terragno Blank.png",
+        "touched": "2018-08-19T05:37:09Z"
+      },
+      "1400": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:CSS image crop using invalid parameters"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Earth"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Woman.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Dom Terragno Blank.png"
+          }
+        ],
+        "lastrevid": 6915,
+        "length": 3676,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Conservative Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Dom Terragno"
+          },
+          {
+            "ns": 0,
+            "title": "Earth"
+          },
+          {
+            "ns": 0,
+            "title": "Union Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "United Republican Party (United States)"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1400,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4870,
+            "revid": 6915,
+            "slots": {
+              "main": {
+                "*": "The Planetary-Governor of the Commonwealth of Earth.\n\n==List of Planetary-Governors==\n{{legend2|{{Conservative Party (United States)/meta/color}}|[[Conservative Party (United States)|Conservative]]|border=1px solid #AAAAAA}} (0)\n{{legend2|{{United Republican Party (United States)/meta/color}}|[[United Republican Party (United States)|New Republican]]|border=1px solid #AAAAAA}} (2)\n{{legend2|{{Union Party (United States)/meta/color}}|[[Union Party (United States)|Union]]|border=1px solid #AAAAAA}} (2)\n\n{| class=\"wikitable\" style=\"text-align: center;\"\n|-\n! №\n! colspan=\"2\" | Planetary-Governor\n! State\n! Term of office\n! Party\n! Term<br /><ref group=\"n\" name=\"num\" />\n! style=\"width: 18%;\" colspan=\"2\" | Lieutenant-Governor\n|-\n! rowspan=\"2\" style=\"background: {{Union Party (United States)/meta/color}};\" | {{color|white|1}}\n| rowspan=\"2\" | {{CSS image crop|Image = Blank_Woman.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}\n| rowspan=\"2\" style=\"width: 16%;\" | '''Yanna Lynne'''<br /><small>(2091)</small>\n| rowspan=\"2\" | [[Earth|Colorado]]\n| rowspan=\"2\" | <span class=\"date\" style=\"white-space: nowrap;\">January 20, 2139</span><br /><ref group=\"n\" name=\"Washington-term\" /><br/>–<br/><span class=\"date\" style=\"white-space: nowrap;\">January 20, 2147</span>\n| rowspan=\"2\" | [[Union Party (United States)|Union]]\n| 1<br /><small>(2138)</small>\n| style=\"background:#eee;\"| &nbsp;\n| rowspan=\"2\" | Syng Anderson\n|-\n| 2<br /><small>(2142)</small>\n| style=\"background: {{Conservative Party (United States)/meta/color}};\" |\n|-\n! style=\"background: {{Union Party (United States)/meta/color}};\" | {{color|white|2}}\n| {{Css Image Crop|Image = Blank_Woman.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 3|oLeft = 5}}\n| '''Leddy Sirleaf'''<br /><small>(2098)</small>\n| [[Earth|England]]\n| <span class=\"date\" style=\"white-space: nowrap;\">January 20, 2147</span><br/>–<br/><span class=\"date\" style=\"white-space: nowrap;\">January 20, 2151</span><br /><ref group=\"n\" name=\"unseated\" />\n| [[Union Party (United States)|Union]]\n| 3<br /><small>(2146)</small>\n| style=\"background: {{Union Party (United States)/meta/color}};\" |\n| Tom Jefferson\n|-\n! rowspan=\"2\" style=\"background: {{United Republican Party (United States)/meta/color}};\" | {{color|white|3}}\n| rowspan=\"2\" | {{CSS image crop|Image = Dom_Terragno_Blank.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}\n| rowspan=\"2\" | '''[[Dom Terragno]]'''<br /><small>(born 2109)</small>\n| rowspan=\"2\" | [[Earth|Ecuador]]\n| rowspan=\"2\" | <span class=\"date\" style=\"white-space: nowrap;\">January 20, 2151</span><br/>–<br/><span class=\"date\" style=\"white-space: nowrap;\">January 20, 2157</span>\n| rowspan=\"2\" | [[United Republican Party (United States)|New Republican]]\n| 4<br /><small>(2150)</small>\n| rowspan=\"2\" style=\"background: {{United Republican Party (United States)/meta/color}};\" |\n| rowspan=\"2\" | Victoria Li\n|-\n| 5<br /><small>(2154)</small>\n|-\n! rowspan=\"2\" style=\"background: {{United Republican Party (United States)/meta/color}};\" | {{color|white|4}}\n| rowspan=\"2\" | {{CSS image crop|Image = Blank_Woman.png|bSize = 110|cWidth = 100|cHeight = 125|oTop = 2|oLeft = 7}}\n| rowspan=\"2\" | '''Victoria Li'''<br /><small>(born 2109)</small>\n| rowspan=\"2\" | [[Earth|Jacinto]]\n| rowspan=\"2\" | <span class=\"date\" style=\"white-space: nowrap;\">January 20, 2157</span><br/>–<br/><span class=\"date\" style=\"white-space: nowrap;\">Present</span>\n| rowspan=\"2\" | [[United Republican Party (United States)|New Republican]]\n| 6<br /><small>(2158)</small>\n| rowspan=\"2\" style=\"background: {{United Republican Party (United States)/meta/color}};\" |\n| rowspan=\"2\" | Edwardo Kirchner\n|-\n|}\n[[Category:Earth]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-12T17:58:20Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:CSS image crop"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative Party (United States)/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Css Image Crop"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ifnumber"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Legend2"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Union Party (United States)/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:United Republican Party (United States)/meta/color"
+          }
+        ],
+        "title": "Planetary-Governor of Earth",
+        "touched": "2023-06-14T19:51:37Z"
+      },
+      "1401": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2972,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1401,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2972,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-02-11T05:07:06Z"
+          }
+        ],
+        "title": "Message Wall:Trc2033",
+        "touched": "2017-02-11T05:07:08Z"
+      },
+      "1402": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2973,
+        "length": 569,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1402,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2973,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Third Mexican-American War]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-02-11T05:07:08Z"
+          }
+        ],
+        "title": "Thread:Trc2033/@comment-22439-20170211050708",
+        "touched": "2017-02-11T05:07:08Z"
+      },
+      "1403": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 2974,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 1403,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2974,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-02-11T05:07:08Z"
+          }
+        ],
+        "title": "User:Trc2033",
+        "touched": "2017-02-11T05:07:08Z"
+      },
+      "1404": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Presidents of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6131,
+        "length": 45,
+        "ns": 6,
+        "pageid": 1404,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 2975,
+            "revid": 6131,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Presidents of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:53:02Z"
+          }
+        ],
+        "title": "File:Maya Garcia Blank.png",
+        "touched": "2017-11-08T00:10:31Z"
+      },
+      "1405": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Planetary Commonwealths of the United States"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Planets"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Flag of Jupiter.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Jupapr3color-jd-170304.png"
+          }
+        ],
+        "lastrevid": 9500,
+        "length": 5611,
+        "links": [
+          {
+            "ns": 0,
+            "title": "21st Century"
+          },
+          {
+            "ns": 0,
+            "title": "22nd Century"
+          },
+          {
+            "ns": 0,
+            "title": "American, Jovian, Galilean people"
+          },
+          {
+            "ns": 0,
+            "title": "Demographics of Jupiter"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Jupiter"
+          },
+          {
+            "ns": 0,
+            "title": "ISO 4217"
+          },
+          {
+            "ns": 0,
+            "title": "Jupiter of Jupiter"
+          },
+          {
+            "ns": 0,
+            "title": "List of countries by population"
+          },
+          {
+            "ns": 0,
+            "title": "Planetary-Governor of Jupiter"
+          },
+          {
+            "ns": 0,
+            "title": "Politics of Jupiter"
+          },
+          {
+            "ns": 0,
+            "title": "Quantum Economic Model"
+          },
+          {
+            "ns": 0,
+            "title": "U.S. planetary commonwealth"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1405,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8811,
+            "revid": 9500,
+            "slots": {
+              "main": {
+                "*": "{{Infobox country\n|conventional_long_name = Planetary Commonwealth of Jupiter\n|national_motto = \"Family\"\n|national_anthem = \"The Star-Spangled Banner\"\n|capital = Galileo\n|largest_city = Valhalla\n|languages = English (de facto)\n|demonym = American, Jovian, Galilean\n|languages_type = \n|lang_others= Chinese, Russian, Japanese, etc.\n|government_type = United States Planetary Commonwealth\n|leader_title1 = [[Planetary-Governor of Jupiter|Planetary-Governor]]\n|leader_name1 = Mika Sakahki\n|legislature = Jovian Congress\n|upper_house = Planetary Senate\n|lower_house = Planetary House of Representatives\n|established_event1 = Formation \n|sovereignty_type = Created per Amendemnt to the constitution\n|established_date1 = July 4, 2137\n|area_rank = 1st\n|area_sq_mi = \n|population_estimate = 340 Million\n|population_estimate_year = 2160\n|population_estimate_rank = 4th\n|currency = United States dollar ($)\n|currency_code = USD\n|image_flag = Flag_of_Jupiter.png\n|leader_title2 = Lieutenant Governor\n|leader_name2 = \n|image_symbol = jupapr3color-jd-170304.png|symbol_type = Jupiter}}'''Jupiter''' is the fifth planet from the Sun in the Sol System, and largest [[U.S. planetary commonwealth]] by area and number of bodies in its orbit, while being 4th most populous. The bulk of the Jovian population (76%) reside beneath the surfaces of the Galilean Moons of Ganymede, Callisto, and Europa, while the remainder live in the hundreds of Orbitals that circle the planet and its moons. The Galilean Moons are the most naturally bio-diverse worlds outside of Earth, Home to millions of native species, and non-native humans and genetically engineered flora and fauna brought from Earth.\n\n==History==\n==='''Early research'''===\n==='''20th Century'''===\n==='''[[21st Century]]'''===\nThe first human effort to explore the Jovian system was an expedition launched from Earth in 2033, led by Russian-American captain Vera Loban, who penetrated Callisto's icy shell and established the town of St. Ekaterina.\n\n==='''[[22nd Century]]'''===\n\n==Moons==\nThe moons discovered by Galileo—Io, Europa, Ganymede, and Callisto—are among the largest satellites in the Solar System, and all but Io have been settled by Humans. Like Earth's moon, the bulk of the Galilean population live beneath the surface of these worlds. The eccentricity of their orbits causes regular flexing of the three moons' shapes, with Jupiter's gravity stretching them out as they approach it and allowing them to spring back to more spherical shapes as they swing away. This tidal flexing heats the moons' interiors by friction. This is seen most dramatically in the extraordinary volcanic activity of innermost Io (which is subject to the strongest tidal forces), and to a lesser degree in the geological youth of Europa's surface.\n\n==='''Europa'''===\nThe smallest of the inhabited moons, and located deep into the radiation belt of Jupiter, Europa is the least populated with 20 million inhabitants. Despite the hazards posed in traveling to Europa, the world is the most popular destination for tourism in the Jovian system due to public interest in the diverse array of life present in the subsurface ocean . The bulk of Europa's population reside on the floor of this ocean in hive cities which play host to tourism, but also mine the ocean floor for vulcanoid metals and biomass used in the pharmaceutics industry.\n\n==='''Callisto'''===\nThe most populated moon in the system, the 180 million residents of Callisto enjoy the most tectonically stable body in the Jovian system, and only 0.01 rem per day on the surface, allowing for ease of colonization. Callisto also possesses a subsurface ocean which harbors life, however unlike Europa and Ganymede its life is only microscopic. Its population dwells in massive constructed caverns in the ice layer, which play host to both a human population and a constructed biosphere similar to that of the Lunar cave cities.\n\n==='''Ganymede '''===\nThe largest of the Galileans, and the largest moon in the Solar System, Ganymede receives 5 rem per day, and while not a great hazard with modern spacecraft protections, it is largely the result in Ganymede's early slump in colonists. The moon's population of 100 million enjoy a large subsurface ocean with a diverse array of life, but also reside in \"air pockets\" in the ice layer like on Callisto. Population growth on Ganymede surpassed that of Callisto in 2152, however, due to the flow of the bulk of Terran colonists to Venus, it is estimated Ganymede won't surpass Callisto's population until the early 23rd Century.\n\n==Culture==\n\n==Economy==\nThe Jovian system enjoys a post-scarcity economy under the [[Quantum Economic Model]], however it is highly independent of trade with the rest of the Solar System. The cryosphere environments of its moons have made the Jovian Commonwealth an easy place to colonize and develop, while the abundance of raw materials both in Jupiter's atmosphere and the natural satellites orbiting the gas giant provide the population with a degree of economic independence not seen anywhere else in the system. This abundance of resources has led to Jupiter being a primarily export driven economy, shipping raw materials across the solar system and using said raw materials to build and propel ships. All of this wealth means the relatively small human population is able to live with one of the highest standards of living in the Solar System, and has given rise to a vibrant community of artisans as well as entrepreneurs.\n\n==Government and politics==\n[[Category:Planetary Commonwealths of the United States]]\n[[Category:Planets]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-12-07T05:19:35Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          }
+        ],
+        "title": "Jupiter",
+        "touched": "2019-12-07T06:50:45Z"
+      },
+      "1406": {
+        "contentmodel": "wikitext",
+        "lastrevid": 2982,
+        "length": 29,
+        "new": "",
+        "ns": 1,
+        "pageid": 1406,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 2982,
+            "slots": {
+              "main": {
+                "*": "Still need to add more stuff.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-02-11T18:28:02Z"
+          }
+        ],
+        "title": "Talk:Ha-eun Zaya/@comment-27084453-20170211182802",
+        "touched": "2017-02-11T18:28:03Z"
+      }
+    }
+  }
+}

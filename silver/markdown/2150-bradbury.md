@@ -1,0 +1,61 @@
+---
+page_id: 2150
+revision_id: 11639
+source_url: https://second-renaissance.fandom.com/wiki/Bradbury
+raw_sha256: 94e70fc0adeb77f6f1f42467a7d5aaa5a3636a40df6be3d4f9c4d58fd04895ee
+---
+
+# Bradbury
+
+## Preserved source
+
+```wikitext
+{{Infobox country
+|conventional_long_name = State of Bradbury
+|national_motto = "De Profundis Ad Astra"
+|national_anthem = 
+|capital = Bradbury
+|largest_city = Bradbury
+|languages = English (de facto)
+|demonym = Bradburian
+|languages_type = 
+|lang_others= Chinese, Tamil, Bengal, Japanese, French, Spanish, etc.
+|government_type =
+|leader_title1 = Governor
+|leader_name1 = Nikko Modi
+|legislature = Bradbury State Legislature
+|upper_house = Senate
+|lower_house = State Assembly
+|established_event1 = Formation 
+|sovereignty_type = Admitted to the Union
+|established_date1 = December 1, 2134
+|area_rank =
+|area_sq_mi = 
+|population_estimate = 19,104,321
+|population_estimate_year = 2160
+|population_estimate_rank = 4th
+|currency = United States dollar ($)
+|currency_code = USD
+|image_flag = Bradbury_Flag.png
+|image_coat = Bradbury_COA.png
+|image_map = Bradbury_Map.png
+|leader_title2 = Lieutenant Governor
+|leader_name2 = Signe Lanzhou 
+}}
+
+'''Bradbury''' is a state on the Northern cliffs of Mariner Valley on [Mars](318-mars.md). Bradbury is nicknamed the "Heart of Mars" because of its history as the power center for Martian and inter-system politics. The geography and climate of the State are shaped by rolling lowlands of the Capri peninsula and the steep cliffs and plateaus framing the Mariner Valley, which provide habitat for its diverse array of [flora and fauna](2045-flora-and-fauna-of-mars.md). The capital and largest city of the State is Bradbury, which shares a place with the Martian Capital District. The State's estimated population as of 2160 is over 19.1 Million.
+
+# Overview
+Where [New Virginia](2127-new-virginia.md) is the gateway to Mars, Bradbury is its beating heart. The first settlement to be fully sustainable, the birthplace of Quantum Economics, and home to the seat of power of the [Interplanetary Trade Commission](216-interplanetary-trade-commission.md). First settled in 2027, Bradbury as a settlement is second only to Meridian Landing in terms of age. The city that would come to be the namesake for the state was a stark rejection of the notions of colonization first tried at Meridian. Where the colonists of Meridian hid beneath the dirt, Bradbury vaulted out of a crater with one of the planet's first domes. Where Meridian's colonists subsisted on low calorie greens and fish, Bradbury had wheat, beef, milk, cheese and honey. Where Meridian's colonists were disorganized scientists with no clear leadership, Bradbury was a settlement of adventurers, of pioneers, with a clearly defined authority system. Bradbury's settlers were mocked and maligned at first, their population was much lower than Meridian Landing's or even Sagan the younger colony, but after a  year of subsisting on a diet devoid of sugar of carbohydrates, of any real calories, the other colonies began to be less concerned mocking the first farm town on Mars and began turning inward. Fights between the colonists became more frequent, work orders weren't being filled, and those who were in charge didn't believe anyone should be in charge. On July 7, 2030 there was a knock at the main airlock of Meridian Base, and in entered three Bradbury colonists with an air-tight crate. They had arrived in the middle of a squabble between two of the Base's larger factions, but upon opening their container the din of the colony fell to silence. Cheese, Honey, Milk, Bread, Butter, and Beef. Not in large quantities but enough for the whole colony to start offering anything for the treasure trove. The Bradbury colonists agreed to give their wares to any colonist who could fill the duties of some of the jobs they had that their own population could not meet. By the end of the day 15 members of Meridian Landing left for Bradbury, including most of their Genetic researchers.<br><br>From then on word spread quickly throughout Mars and to those still on [Earth](272-earth.md), that Bradbury was the place to settle, and those who didn't should try to emulate their example. Bradbury was able to set up new colonies from the surface, not just producing Ag-products, but steel mills, and cement factories, and mining facilities. Bradbury agreed to lease these colonies to companies and people coming in, in exchange for labor when they needed it and a greater position on the [Mars Corporation](638-mars-corporation.md)'s Terraforming Council. Where terraforming was once a tabou subject for Mars Corp, Bradbury made it official policy. Bradbury use its position to leverage Mars Corp to reorganize itself in the 2030s to give the colonists greater say in internal affairs, and even got them to set up their Headquarters at Viking City, one of Bradbury's outposts. As the colonies grew in population and new settlements outside of their own were set up, Bradbury turned from agricultural hub to one of Mars's greatest trade-ports. The first ship-yards were built at Bradbury, the first line of the Mars Transit Network started at Bradbury. While Bradbury wasn't the first capital of Mars, it was its seat of power, and the place where decisions pertaining to the planet's future were made. <br><br>When the [First Mars Revolution](1680-first-martian-revolution.md) Started, it was Bradbury that acted as the main power broker between the Martians and [Adrian Hayer](1589-adrian-hayer.md)'s loose confederacy of colonies that would become the ITC. As a show of good faith, the ITC set its headquarters in Bradbury. As the billions of new colonists flooded in through the towers at [New Richmond](https://second-renaissance.fandom.com/wiki/New_Richmond), [Chamba](https://second-renaissance.fandom.com/wiki/Chamba), [New Babylon](https://second-renaissance.fandom.com/wiki/New_Babylon), [Chrysaor](https://second-renaissance.fandom.com/wiki/Chrysaor), [Lucus City](https://second-renaissance.fandom.com/wiki/Lucus_City), Heavensgate or Midgard, Bradbury's population eventually topped out at 10 million people. A respectably large city, but the state no longer could compete with the sheer size of fertile land in Araby and Magartifer, Tharsis was simply too rocky, too tall, and too arid to support those kinds of projects. But the city remained a crucial trade port, and a center for business and culture. When the MSIF and Maise Luong wanted to start another revolution, they directed their fury at Bradbury, when Earth needed a President to unite the system, they got one from Bradbury.
+# History
+Home of the first settlement to be fully sustainable, the birthplace of Quantum Economics, and home to the seat of power of the Interplanetary Trade Commission. First settled in 2024, Bradbury as a settlement is second only to Meridian Landing in terms of age. The city that would come to be the namesake for the state was a stark rejection of the notions of colonization first tried at Meridian. Where the colonists of Meridian hid beneath the dirt, Bradbury vaulted out of a crater with one of the planet's first domes. Where Meridian's colonists subsisted on low calorie greens and fish, Bradbury had wheat, beef, milk, cheese and honey. Where Meridian's colonists were disorganized scientists with no clear leadership, Bradbury was a settlement of adventurers, of pioneers, with a clearly defined authority system. Bradbury's settlers were mocked and maligned at first, their population was much lower than Meridian Landing's or even Sagan the younger colony, but after a year of subsisting on a diet devoid of sugar of carbohydrates, of any real calories, the other colonies began to be less concerned mocking the first farm town on Mars and began turning inward. Fights between the colonists became more frequent, work orders weren't being filled, and those who were in charge didn't believe anyone should be in charge. On July 7, 2028 there was a knock at the main airlock of Meridian Base, and in entered three Bradbury colonists with an air-tight crate. They had arrived in the middle of a squabble between two of the Base's larger factions, but upon opening their container the din of the colony fell to silence. Cheese, Honey, Milk, Bread, Butter, and Beef. Not in large quantities but enough for the whole colony to start offering anything for the treasure trove. The Bradbury colonists agreed to give their wares to any colonist who could fill the duties of some of the jobs they had that their own population could not meet. By the end of the day 15 members of Meridian Landing left for Bradbury, including most of their Genetic researchers.
+
+From then on word spread quickly throughout Mars and to those still on Earth, that Bradbury was the place to settle, and those who didn't should try to emulate their example. Bradbury was able to set up new colonies from the surface, not just producing Ag-products, but steel mills, and cement factories, and mining facilities. Bradbury agreed to lease these colonies to companies and people coming in, in exchange for labor when they needed it and a greater position on the Mars Corporation's Terraforming Council. Where terraforming was once a tabou subject for Mars Corp, Bradbury made it official policy. Bradbury use its position to leverage Mars Corp to reorganize itself in the 2030s to give the colonists greater say in internal affairs, and even got them to set up their Headquarters at Viking City, one of Bradbury's outposts. As the colonies grew in population and new settlements outside of their own were set up, Bradbury turned from agricultural hub to one of Mars's greatest trade-ports. The first ship-yards were built at Bradbury, the first line of the Mars Transit Network started at Bradbury. While Bradbury wasn't the first capital of Mars, it was its seat of power, and the place where decisions pertaining to the planet's future were made.
+
+When the First Mars Revolution Started, it was Bradbury that acted as the main power broker between the Martians and Adrian Hayer's loose confederacy of colonies that would become the ITC. As a show of good faith, the ITC set its headquarters in Bradbury. As the billions of new colonists flooded in through the towers at New Richmond, Chamba, New Babylon, Chrysaor, Lucus City, Heavensgate or Midgard, Bradbury's population eventually topped out at 10 million people. A respectably large city, but the state no longer could compete with the sheer size of fertile land in Araby and Magartifer, Tharsis was simply too rocky, too tall, and too arid to support those kinds of projects. But the city remained a crucial trade port, and a center for business and culture. When the MSIF and Maise Luong wanted to start another revolution, they directed their fury at Bradbury, when Earth needed a President to unite the system, they got one from Bradbury.
+[Category:Mars](https://second-renaissance.fandom.com/wiki/Category:Mars)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/2150/11639.wikitext` · revision `11639` · [upstream](https://second-renaissance.fandom.com/wiki/Bradbury)

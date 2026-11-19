@@ -1,0 +1,88 @@
+---
+page_id: 1583
+revision_id: 11888
+source_url: https://second-renaissance.fandom.com/wiki/Sol_system
+raw_sha256: 02e60c3cb2a94647e8be8e469de5f89a755a8823caaf5a3246b5c3926be2b493
+---
+
+# Sol system
+
+## Preserved source
+
+```wikitext
+[thumb|220x220px](2876-file-sol-system-jpg.md)
+The '''Solar System''' is the gravitationally bound system comprising the star '''Sol''' and the objects that orbit it, either directly or indirectly. Of those objects that orbit the Sun directly, the largest nine are the planets, with the remainder being significantly smaller objects, such as dwarf planets, small Solar System bodies, and large artificial structures. Of the objects that orbit the Sun indirectly, the moons, two are larger than the smallest planet, Mercury.
+
+# Inner solar system
+The four terrestrial or inner planets have dense, rocky compositions, few or no moons, and no ring systems. They are composed largely of refractory minerals, such as the silicates, which form their crusts and mantles, and metals, such as iron and nickel, which form their cores. Three of the four inner planets (Venus, Earth and Mars) have atmospheres substantial enough to generate weather; all have impact craters and tectonic surface features, such as rift valleys and volcanoes. The term inner planet should not be confused with inferior planet, which designates those planets that are closer to the Sun than Earth is (i.e. Mercury and Venus).
+
+## '''Mercury'''
+[thumb|220x220px](2849-file-mercury-in-color-prockter07-edit1-jpg.md)
+Mercury (0.4 AU from the Sun) is the closest planet to the Sun and the smallest planet in the Solar System (0.055 Earth masses). Mercury has no natural satellites; besides impact craters, its only known geological features are lobed ridges or rupes that were probably produced by a period of contraction early in its history. Mercury's very tenuous atmosphere consists of atoms blasted off its surface by the solar wind.[68] Its relatively large iron core and thin mantle have not yet been adequately explained. Hypotheses include that its outer layers were stripped off by a giant impact; or, that it was prevented from fully accreting by the young Sun's energy. Mercury hosts a small population of mining camps near its poles which remain in shadow and twilight.
+
+## '''[Venus](1154-venus.md)'''
+Venus (0.7 AU from the Sun) is close in size to Earth (0.815 Earth masses) and, like Earth, has a thick silicate mantle around an iron core, a substantial atmosphere, and internal geological activity. After terraforming Venus's atmosphere became much wetter than Earth, and remains hotter overall. Venus has no natural satellites, and its current major satellite, Ceres is a former Dwarf Planet deorbited from the Asteroid Belt.
+
+## '''[Earth](272-earth.md)'''
+[thumb|224x224px](2850-file-green-sahara-from-space-jpg.md)
+Earth (1 AU from the Sun) is the largest and densest of the inner planets, and the cradle world of humanity and the majority of all life in the solar system. It has one natural satellite, [Luna](1143-luna.md), or the Moon, the only large satellite of a terrestrial planet in the Solar System. It also hosts at least 27 former asteroids that serve as counterweight satellites for its network of space elevators.
+
+## '''[Mars](318-mars.md)'''
+[thumb|220x220px](2857-file-marstransitionv-png.md)
+Mars (1.5 AU from the Sun) is smaller than Earth and Venus (0.107 Earth masses). It was successfully terraformed to human habitability by 2081. Its surface, peppered with vast volcanoes, such as Olympus Mons, and rift valleys, such as Valles Marineris, shows geological activity that may have persisted until as recently as 2 million years ago. Mars had two tiny natural satellites (Deimos and Phobos) prior to human colonization, that have since been expanded into larger spheroidal satellites to help create and maintain a stable magnetic field. The third moon, Eris, is currently being moved to serve as a new moon to control the planet's tidal waves.
+
+# Asteroid Belt
+[thumb|220x220px](2852-file-asteroidbelt-png.md)
+Asteroids are classified as small Solar System bodies and are composed mainly of refractory rocky and metallic minerals, with some ice. They range from a few metres to hundreds of kilometres in size. Asteroids smaller than one meter are usually called meteoroids and micrometeoroids (grain-sized), depending on different, somewhat arbitrary definitions.
+
+The asteroid belt occupies the orbit between Mars and Jupiter, between 2.3 and 3.3 AU from the Sun. It is thought to be remnants from the Solar System's formation that failed to coalesce because of the gravitational interference of Jupiter. The asteroid belt contained 187,033 objects over one kilometer in diameter prior to the [Space Age](1232-space-age.md), despite this, the total mass of the asteroid belt was only 4% that of [Luna](1143-luna.md). Since the beginning of human colonization of Mars and exploration of the Outer Planets, the asteroid bet's total mass has dropped substantially. Its most massive objects have been orbited to serve as moons for Mars and Venus, and its more averaged sized objects are the primary source for raw materials in the construction of [O'Neil Ships](1477-orbitals.md)
+
+The asteroid belt is very sparsely populated; made up predominantly of automated mining operations and ship-building enterprises, with a total population of less than a million. The size and relative seclusion of objects in the Belt have made it a popular destination for subcultures and criminal organizations, most famously terrorist groups like the [Guardiola remnants and Space Pirates.](1576-belt-pirate-wars.md)
+
+# Outer solar system
+The five outer planets, or giant planets (sometimes called Jovian planets), collectively make up 99% of the mass known to orbit the Sun. Jupiter and Saturn are together over 400 times the mass of Earth and consist overwhelmingly of hydrogen and helium; Uranus, Neptune, and Terminus are far less massive (<20 Earth masses each) and are composed primarily of ices, making them "ice giants". All five giant planets have rings, although only Saturn's ring system is easily observed from Earth. The term superior planet designates planets outside Earth's orbit and thus includes both the outer planets and Mars.
+
+## '''[Jupiter](1405-jupiter.md)'''
+[thumb|220x220px](2853-file-jupapr3color-jd-170304-png.md)
+Jupiter (5.2 AU), at 318 Earth masses, is 2.5 times the mass of all the other planets put together. It is composed largely of hydrogen and helium. Jupiter's strong internal heat creates semi-permanent features in its atmosphere, such as cloud bands and the Great Red Spot. Prior to human colonization, Jupiter had 67 natural satellites; as of 2160 all but 9 remain. The four largest, Ganymede, Callisto, Io, and Europa, are similar to terrestrial planets, exhibiting volcanism and internal heating. Ganymede, the largest satellite in the Solar System, is larger than Mercury, while Callisto is the most populated moon in the system.
+
+## '''[Saturn](1426-saturn.md)'''
+[thumb|220x220px](2854-file-saturn-pia06077-jpg.md)
+Saturn (9.5 AU), distinguished by its extensive ring system, has several similarities to Jupiter, such as its atmospheric composition and magnetosphere. Although Saturn has 60% of Jupiter's volume, it is less than a third as massive, at 95 Earth masses. Saturn is the only planet of the Solar System that is less dense than water. The rings of Saturn are made up of small ice and rock particles. Prior to human colonization Saturn had 62 natural satellites composed largely of ice; as of 2160, only 33 natural satellites remain. Two of these, Titan and Enceladus, are geologically active. Titan, the second-largest moon in the Solar System, is larger than Mercury and the system's largest source of Nitrogen gas. Titan supports the largest paraterraforming effort in the system.
+
+## '''[Uranus](1988-uranus.md)'''
+[thumb|220x220px](2855-file-uranus2-jpg.md)
+Uranus (19.2 AU), at 14 Earth masses, is the second lightest of the outer planets. Uniquely among the planets, it orbits the Sun on its side; its axial tilt is over ninety degrees to the ecliptic. It has a much colder core than the other giant planets and radiates very little heat into space. Uranus has 27 known satellites, the largest ones being Titania, Oberon, Umbriel, Ariel, and Miranda.
+
+## '''[Neptune](1427-neptune.md)'''
+[thumb|220x220px](2856-file-neptune-true-colour-jpg.md)
+Neptune (30.1 AU), though slightly smaller than Uranus, is more massive (equivalent to 17 Earths) and hence more dense. It radiates more internal heat, but not as much as Jupiter or Saturn. Neptune has 14 known satellites. The largest, Triton, is geologically active, with geysers of liquid nitrogen, and the largest permanent human colony beyond the orbit of Saturn. Triton is the only large satellite with a retrograde orbit, however there have been proposals to reverse it into a more stable prograde orbit. Neptune is accompanied in its orbit by several minor planets, termed Neptune trojans, that are in 1:1 resonance with it.
+
+# '''Dwarf Planets and Other objects'''
+## '''[Pluto](https://second-renaissance.fandom.com/wiki/Pluto)'''
+## '''Sedna'''
+Haumea
+
+Makemake
+
+Eris
+
+# Kuiper Belt
+The Kuiper belt is a great ring of debris similar to the asteroid belt, but consisting mainly of objects composed primarily of ice. It extends between 30 and 50 AU from the Sun, and contains several hundred dwarf planets, and 134,550 Kuiper belt objects with a diameter greater than 50 km, but the total mass of the Kuiper belt is estimated to be less than a tenth that of Earth, not including Terminus. Many Kuiper belt objects have multiple satellites, and most have orbits that take them outside the plane of the ecliptic.
+
+## '''[Terminus](3672-terminus.md)'''
+Terminus (200 AU), is the most distant plant from the Sun. It is roughly 10 times as massive as the Earth at 2.77 times the size. Terminus has 11 satellites. The largest, Sabine and Titus, at 900 km and 1300 km respectively are believed to be captured Kuiper Belt Objects, much like the rest of Terminus's small satellites. Due to the extreme distance from the Sun, and relatively limited economic value, Terminus only has a population of a few thousand researchers and engineers, and there are no serious plans to colonize the Terminus planetary system.
+
+# [Oort Cloud](2382-oort-cloud.md)
+[thumb|220x220px](3097-file-oortcloud-jpg.md)
+The Oort cloud is a hypothetical spherical cloud of up to a trillion icy objects that is thought to be the source for all long-period comets and to surround the Solar System at roughly 50,000 AU (around 1 light-year (ly)), and possibly to as far as 100,000 AU (1.87 ly). It is thought to be composed of comets that were ejected from the inner Solar System by gravitational interactions with the outer planets. Oort cloud objects move very slowly, and can be perturbed by infrequent events, such as collisions, the gravitational effects of a passing star, or the galactic tide, the tidal force exerted by the Milky Way.
+
+There are believed to be dozens of unidentified rogue or independent spacecrafts orbiting around the sun in the Oort Cloud, many of which were believed to be O'Neil ships built by religious sects and ethnonationalists. At least one confirmed spacecraft is believed to house remnants of the Mexican space forces who escaped the fall of the Orbitals, leading to rumors of a rogue Mexican fleet. No contact has ever been made with these vessels and it is not known if they directly communicate with Each other. It is theorized that they sustain themselves through the capture of water-ice and helium objects to maintain their fusion reactors or through engagements of piracy of other space ships. It is not known how many are armed, as all ships usually avoids close contact.
+
+Beyond the cloud, other systems with planets exist like the Alpha Centauri and Tau Ceti systems.
+[Category:Planets](https://second-renaissance.fandom.com/wiki/Category:Planets)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1583/11888.wikitext` · revision `11888` · [upstream](https://second-renaissance.fandom.com/wiki/Sol_system)

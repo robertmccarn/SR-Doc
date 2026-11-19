@@ -1,0 +1,67 @@
+---
+page_id: 70
+revision_id: 70
+source_url: https://second-renaissance.fandom.com/wiki/Template%3AInfobox_location
+raw_sha256: ea7cbc508cd2acb517c35d4376c56046c876e7c980ad82c3396dcdae780af484
+---
+
+# Template:Infobox location
+
+## Preserved source
+
+```wikitext
+<onlyinclude>{| class="wikia-infobox"
+
+|-
+! class="wikia-infobox-header" colspan="2" | {{{title|''Unknown''}}}
+
+|-
+{{#if: {{{image|}}} |
+{{!}} class="wikia-infobox-image" colspan="2" {{!}} [{{{imagewidth|210}}}px|{{{imagecaption|}}}](https://second-renaissance.fandom.com/wiki/File:{{{image}}})
+| }}
+
+|-
+{{#if: {{{imagecaption|}}} |
+{{!}} class="wikia-infobox-caption" colspan="2" {{!}} {{{imagecaption}}}
+| }}
+
+|-
+{{#if: {{{map|}}} |
+{{!}} class="wikia-infobox-image" colspan="2" {{!}} [{{{mapwidth|210}}}px|{{{mapcaption|}}}](https://second-renaissance.fandom.com/wiki/File:{{{map}}})
+| }}
+
+|-
+{{#if: {{{mapcaption|}}} |
+{{!}} class="wikia-infobox-caption" colspan="2" {{!}} {{{mapcaption}}}
+| }}
+
+|-
+! colspan="2" | <div class="wikia-infobox-section-header">Vital statistics</div>
+
+|-
+! Type
+| {{{type|''Unknown''}}}
+
+|-
+! Level
+| {{{level|''Unknown''}}}
+
+|-
+! Location
+| {{{location|''Unknown''}}}
+
+|-
+! Inhabitants
+| {{{inhabitants|''Unknown''}}}
+
+|- style="font-size:0; line-height:0;"
+! style="width:50%; padding:0" |
+! style="width:50%; padding:0" |
+
+|}</onlyinclude><noinclude><br style="clear:both;"/>
+{{documentation}}</noinclude>
+```
+
+## Provenance
+
+Raw source: `bronze/pages/70/70.wikitext` · revision `70` · [upstream](https://second-renaissance.fandom.com/wiki/Template%3AInfobox_location)

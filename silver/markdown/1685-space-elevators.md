@@ -1,0 +1,41 @@
+---
+page_id: 1685
+revision_id: 10323
+source_url: https://second-renaissance.fandom.com/wiki/Space_Elevators
+raw_sha256: 184468ebd55954a31370a11dc7525b331f27af30a27214a9dee6366a387787c2
+---
+
+# Space Elevators
+
+## Preserved source
+
+```wikitext
+A '''space elevator''' is a type of space transportation system which has been designed for high-volume space-to-ground traffic, with all traffic flow and ingress/egress regulated.
+
+# History
+In 2035, Intervol Nano-Systems secured a joint-patent with MarsCorp for a "Molecular Compiler" that could produce a continuous ribbon of carbon nanotubes. This led directly to Earth's first space elevator, contracted by the US military through MarsCorp, LaserMotive, and Intervol ; and Praxis Group's elevator at New Richmond.
+
+To meet the long-term growth in demand for energy spurred by greater automation to deal with the care of the elderly, while also making it easier for immigrants to reach US markets, the US Government works with several Latin American nations to build a TransAmerican rail line from the planned Quito Space Elevator to Helena, Montana in 2038.
+
+The first elevators were simple nano-ribbons, and in Titan's case they were paper-thin pipes for pumping nitrogen into space to be shipped down-system for Mars. By the 22nd Century, advanced compilers could build elevators robust enough to ship millions of tonnes of goods and people from the surface to space and back.
+
+By the late 2140s there were 13 Space Elevators on Earth. Most were either built on artificial habitats on water ( as is the case of Maluae, Darwin's Tree, Atlantis, Ancla del Cielo, Paradise Gate, Morgan Tower, Beanstalk and The Line) or on countries with land near the Equator ( Quito Tower and Jarvis Island in the US, Macapa Tower in Brazil, Borneo Tower in Indonesia and Uganda Tower in East Africa). With the advent of the [Third American-Mexican War](119-third-mexican-american-war.md), much of the future plans were either pushed back or cancelled altogether. However, after the war, plans have picked up steam once again, and by the dawn of the 22nd century it is expected that the number of space elevators will exceed 30.
+
+[thumb|Earth's 13 space elevators, identified as white dots near the Equator](3601-file-the-great-experiment-by-ynot1989-d95e933-png.md)
+
+# Construction sequence
+Typical space elevators are constructed using a sequence generally described as follows. Depending on length and size, construction may take anywhere between a year and a half (construction on the original Lunar elevator took only 19 months) up to as long as five years without politically motivated delays (Brazil's first elevator took more than a decade to be completed due to the Third Mexican War and acts of terrorism.)
+
+#Where the anchor station is founded on land or water, a heavy series of caissons are driven to the bedrock to form an extremely strong foundation for the tether.
+#From the dock foundation, towers of single or multiple columns are erected using nano-reinforced concrete or steel. The towers serve as loading docks for cargo and passengers of the large elevator cars.
+#One or more heavy ''saddles'', which will connect the tether to the dock, are positioned between the towers at the base of the anchor. Since the second generation elevators were built, these saddles are made of extreme-strength nano-materials to resist the tension of the tetgers and form as the main anchor system for the entire structure. 
+#Automated construction robots are landed on a source asteroid or comet and begin converting its material into the tether. Most elevators since the 2050s are made from carbon nanotubes, however early elevators on the Moon, Phobos, and a handful of large asteroids used steel or kevlar. A long series of carbon nano-ribbons are spooled into the elevator's tether, usually from a carbon-rich asteroid. This is the most time-intensive process of the construction of the elevators, and can take as long as three years. 
+#The spooled tether is moved to a counterweight asteroid and attached to an anchor similar to the one positioned on the surface of the target body. The counterweight asteroid is positioned into stationary orbit over the target.
+#The high strength nano-ribbon (typically a meter wide tether or tube), is pulled in a loop by powered-lander, or ''traveler,'' with one end affixed at the counterweight asteroid. When the traveler reaches the opposite anchorage on the surface it lands below the saddle and spools any excess length of tether (usually very little), before the saddle clamps onto the tether, securing it to the target body.
+#With completion of the primary structure, one or more gondolas are mated to the tether and a habitable station and spaceport is typically constructed on the counterweight asteroid.
+[Category:Technology](https://second-renaissance.fandom.com/wiki/Category:Technology)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1685/10323.wikitext` · revision `10323` · [upstream](https://second-renaissance.fandom.com/wiki/Space_Elevators)

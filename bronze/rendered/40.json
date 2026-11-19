@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "*": "Templates",
+      "sortkey": "T"
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>{{[[Template:{{{1}}}|{{{1}}}]]}}\n</p>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <a href=\"/wiki/Template:T/doc\" title=\"Template:T/doc\">Template:T/doc</a> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<dl><dt>Description</dt>\n<dd>A template link with a variable number of example parameters (0-20), which can be used to show example inputs.</dd>\n<dd>Utilises <a href=\"/wiki/Template:T/piece\" title=\"Template:T/piece\">Template:T/piece</a>.</dd>\n<dt>Syntax</dt>\n<dd>{{<strong class=\"mw-selflink selflink\">t</strong>&#124;<font color=\"gray\"><i>&lt;parameter1&gt;</i></font>&#124;<font color=\"gray\"><i>&lt;parameter2&gt;</i></font>&#124;<font color=\"gray\"><i>&lt;parameter3&gt;</i></font>&#124;<font color=\"gray\"><i>&lt;parameter4&gt;</i></font>&#124;<font color=\"gray\"><i>&lt;...&gt;</i></font>&#124;<font color=\"gray\"><i>&lt;parameter20&gt;</i></font>}}</dd>\n<dt>Sample code</dt>\n<dd><code>{{t|infobox}}</code> gives...</dd>\n<dd>{{<a href=\"/wiki/Template:Infobox\" title=\"Template:Infobox\">infobox</a>}}</dd>\n<dd><code>{{t|infobox|Item1|Item2|Item3|Item4|Item5|...}}</code> gives...</dd>\n<dd>{{<a href=\"/wiki/Template:Infobox\" title=\"Template:Infobox\">infobox</a>&#124;<font color=\"gray\"><i>&lt;Item1&gt;</i></font>&#124;<font color=\"gray\"><i>&lt;Item2&gt;</i></font>&#124;<font color=\"gray\"><i>&lt;Item3&gt;</i></font>&#124;<font color=\"gray\"><i>&lt;Item4&gt;</i></font>&#124;<font color=\"gray\"><i>&lt;Item5&gt;</i></font>&#124;<font color=\"gray\"><i>&lt;...&gt;</i></font>}}</dd>\n<dt>See also</dt>\n<dd><a href=\"https://wowpedia.fandom.com/wiki/Template:T\" class=\"extiw\" title=\"w:c:wow:Template:T\">Template:T</a> on WoWWiki</dd></dl></div>\n<!-- \nNewPP limit report\nCached time: 20261119205356\nCache expiry: 2592000\nReduced expiry: false\nComplications: [vary‐revision‐sha1]\nCPU time usage: 0.014 seconds\nReal time usage: 0.021 seconds\nPreprocessor visited node count: 732/1000000\nPost‐expand include size: 4973/2097152 bytes\nTemplate argument size: 480/2097152 bytes\nHighest expansion depth: 8/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 76/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   10.442      1 -total\n 76.17%    7.954      1 Template:Documentation\n 58.72%    6.131      1 Template:T/doc\n 36.89%    3.852     80 Template:T/piece\n 34.86%    3.640      3 Template:T\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:40-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205356 and revision id 40. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:T/doc",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:T/piece",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Infobox",
+      "exists": "",
+      "ns": 10
+    }
+  ],
+  "page_id": 40,
+  "revision_id": 40,
+  "title": "Template:T"
+}

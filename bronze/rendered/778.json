@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "*": "Template_documentation",
+      "sortkey": ""
+    },
+    {
+      "*": "Wikipedia_formatting_and_function_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">Template:Documentation</a></li></ul></div><p><span class=\"new\" title=\"Template:Redr (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6UmVkcj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:Redr</span>\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119205524\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.004 seconds\nReal time usage: 0.005 seconds\nPreprocessor visited node count: 2/1000000\nPost‐expand include size: 18/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    1.017      1 Template:Redr\n100.00%    1.017      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:778-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205524 and revision id 1051. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Redr",
+      "ns": 10
+    },
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    }
+  ],
+  "page_id": 778,
+  "revision_id": 1051,
+  "title": "Template:Template doc"
+}

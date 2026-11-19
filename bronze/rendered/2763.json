@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "*": "Uniformed_services_of_the_United_States",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>The <b>United States Planetary Guard</b> (USPG), was the administrative body for the militia forces of the interplanetary colonies. It was unique among the US military chain of command, in that it was organized under the <a href=\"/wiki/Interplanetary_Trade_Commission\" title=\"Interplanetary Trade Commission\">Interplanetary Trade Commission</a> rather than the Department of Defense. Whilst its loyalties were formally to the <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a>, in reality the commander-in-chief of the Planetary Guard was always recognized to be the Chairman of the Interplanetary Trade Commission. In 2134, the Planetary Guard was formally dissolved as a unified militia organization and its forces and responsibilities were either rolled into the <a href=\"/wiki/United_States_Space_Force\" title=\"United States Space Force\">United States Space Force</a> or transferred to the United States Space National Guard.\n</p>\n<!-- \nNewPP limit report\nCached time: 20261118205414\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.004 seconds\nReal time usage: 0.007 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:2763-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261118205414 and revision id 9078. Rendering was triggered because: page-view\n -->\n</div>",
+  "links": [
+    {
+      "*": "Interplanetary Trade Commission",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "President of the United States",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "United States Space Force",
+      "exists": "",
+      "ns": 0
+    }
+  ],
+  "page_id": 2763,
+  "revision_id": 9078,
+  "title": "Planetary Guard"
+}

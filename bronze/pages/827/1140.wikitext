@@ -1,0 +1,7 @@
+#redirect [[Template:When in sandbox]]
+
+<pre>(...because {{When in sandbox}} returns "/sandbox" when transcluded on a sandbox page)</pre>
+
+{{DEFAULTSORT:When in sandbox}}
+[[Category:If-then-else templates]]
+[[Category:Sandbox templates]]

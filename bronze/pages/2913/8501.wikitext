@@ -1,0 +1,8 @@
+<div class="templatedata-header">{{#if:{{{noheader|}}}|{{Template error report}}|This is the {{#if:{{{nolink|}}}|TemplateData|[[Wikipedia:TemplateData|TemplateData]]}} documentation for this template used by [[Wikipedia:VisualEditor|VisualEditor]] and other tools; {{Template error report|lc=yes}}}} 
+
+'''TemplateData for {{{1|{{BASEPAGENAME}}}}}'''
+</div><includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||
+[[Category:TemplateData documentation]]
+}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>

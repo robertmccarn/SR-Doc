@@ -1,0 +1,2317 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "1822": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6078,
+        "length": 69,
+        "ns": 6,
+        "pageid": 1822,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4670,
+            "revid": 6078,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:39:11Z"
+          }
+        ],
+        "title": "File:Flag of Tlicho.gif",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "1823": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Country data"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5013,
+        "length": 316,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Sahtu/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "ns": 10,
+        "pageid": 1823,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4990,
+            "revid": 5013,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Republic of Sahtu\n| flag alias = Sahtu_Flag.png\n| alt attribute = Flag of Sahtu\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]\n[[Category: Country data]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-08-12T18:51:21Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Sahtu/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Sahtu",
+        "touched": "2017-08-12T18:51:21Z"
+      },
+      "1824": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4679,
+        "length": 106,
+        "new": "",
+        "ns": 1,
+        "pageid": 1824,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4679,
+            "slots": {
+              "main": {
+                "*": "Should the timeline stop in Early or late 2160? \n\nIncase stuff may change and someone else may be elected",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-25T21:17:47Z"
+          }
+        ],
+        "title": "Talk:United States presidential election, 2160/@comment-5590986-20170725211747",
+        "touched": "2017-07-25T21:17:47Z"
+      },
+      "1829": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6057,
+        "length": 19,
+        "ns": 6,
+        "pageid": 1829,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4696,
+            "revid": 6057,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:33:19Z"
+          }
+        ],
+        "title": "File:Flag of Kyrgyzstan.png",
+        "touched": "2018-02-04T18:44:32Z"
+      },
+      "1830": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7237,
+        "length": 208,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Kyrgyzstan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "ns": 10,
+        "pageid": 1830,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4698,
+            "revid": 7237,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Kyrgyzstan\n| flag alias = Flag_of_Kyrgyzstan.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:29:04Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Kyrgyzstan/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Kyrgyzstan",
+        "touched": "2018-02-03T20:29:04Z"
+      },
+      "1831": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6058,
+        "length": 19,
+        "ns": 6,
+        "pageid": 1831,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4699,
+            "revid": 6058,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:33:27Z"
+          }
+        ],
+        "title": "File:Flag of Laos.png",
+        "touched": "2018-02-04T18:44:32Z"
+      },
+      "1832": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4700,
+        "length": 196,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Laos/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1832,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4700,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Laos\n| flag alias = Flag_of_Laos.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-26T15:27:53Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Laos/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Laos",
+        "touched": "2017-07-26T15:27:53Z"
+      },
+      "1833": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Middle Eastern flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6060,
+        "length": 53,
+        "ns": 6,
+        "pageid": 1833,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6059,
+            "revid": 6060,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Middle Eastern flags]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:33:40Z"
+          }
+        ],
+        "title": "File:Flag of Lebanon.png",
+        "touched": "2018-02-04T18:44:32Z"
+      },
+      "1834": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7230,
+        "length": 202,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Lebanon/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "ns": 10,
+        "pageid": 1834,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4702,
+            "revid": 7230,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Lebanon\n| flag alias = Flag_of_Lebanon.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-02-03T20:25:29Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Lebanon/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Lebanon",
+        "touched": "2018-02-03T20:25:29Z"
+      },
+      "1835": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Middle Eastern flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6012,
+        "length": 53,
+        "ns": 6,
+        "pageid": 1835,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4703,
+            "revid": 6012,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Middle Eastern flags]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:22:19Z"
+          }
+        ],
+        "title": "File:Alawite Flag.png",
+        "touched": "2017-11-08T00:09:27Z"
+      },
+      "1836": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4709,
+        "length": 205,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Alawite State/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "ns": 10,
+        "pageid": 1836,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4707,
+            "revid": 4709,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Alawite State\n| flag alias = Alawite_Flag.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-26T15:34:22Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Alawite State/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Alawite State",
+        "touched": "2017-07-26T15:34:22Z"
+      },
+      "1837": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6239,
+        "length": 19,
+        "ns": 6,
+        "pageid": 1837,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4705,
+            "revid": 6239,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-03T16:46:31Z"
+          }
+        ],
+        "title": "File:Druz Flag.gif",
+        "touched": "2017-11-08T00:09:27Z"
+      },
+      "1838": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4706,
+        "length": 194,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Jabal al Druze/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1838,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4706,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Druze\n| flag alias = Druz_Flag.gif\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-26T15:33:15Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Jabal al Druze/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Jabal al Druze",
+        "touched": "2017-07-26T15:33:15Z"
+      },
+      "1839": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4708,
+        "length": 49,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Alawite State"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1839,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4708,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Template:Country data Alawite State]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-26T15:34:06Z"
+          }
+        ],
+        "title": "Template:Country data Alawai State",
+        "touched": "2017-07-26T15:36:36Z"
+      },
+      "1840": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Middle Eastern flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6017,
+        "length": 53,
+        "ns": 6,
+        "pageid": 1840,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4711,
+            "revid": 6017,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Middle Eastern flags]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:24:02Z"
+          }
+        ],
+        "title": "File:Assyrian Flag.jpg",
+        "touched": "2017-11-08T00:09:27Z"
+      },
+      "1841": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4712,
+        "length": 284,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data State of Assyria/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1841,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4712,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Assyria\n| flag alias = Assyrian_Flag.jpg\n| alt attribute = Flag of Assyria\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-26T15:39:53Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data State of Assyria/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data State of Assyria",
+        "touched": "2017-07-26T15:40:04Z"
+      },
+      "1842": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Russian flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6056,
+        "length": 46,
+        "ns": 6,
+        "pageid": 1842,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4715,
+            "revid": 6056,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Russian flags]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:33:10Z"
+          }
+        ],
+        "title": "File:Flag of Kamchatka.png",
+        "touched": "2017-11-08T00:09:27Z"
+      },
+      "1843": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4716,
+        "length": 206,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Kamchatka Republic/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1843,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4716,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Kamchatka\n| flag alias = Flag_of_Kamchatka.png\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| variant = {{{variant|}}}\n}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-26T19:46:41Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Kamchatka Republic/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Kamchatka Republic",
+        "touched": "2017-07-26T19:46:41Z"
+      },
+      "1844": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4718,
+        "length": 293,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Australia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1844,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4718,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Australia\n| flag alias = Australia_2037.png\n| alt attribute = Flag of New Australia\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-26T19:52:15Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Australia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Australia",
+        "touched": "2017-07-26T19:52:16Z"
+      },
+      "1845": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4719,
+        "length": 286,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Hungary/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1845,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4719,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Hungary\n| flag alias = Flag_of_Hungary.png\n| alt attribute = Flag of Hungary\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-26T19:54:57Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Hungary/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Hungary",
+        "touched": "2017-07-26T19:54:57Z"
+      },
+      "1846": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:European flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6072,
+        "length": 47,
+        "ns": 6,
+        "pageid": 1846,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4720,
+            "revid": 6072,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:European flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:37:06Z"
+          }
+        ],
+        "title": "File:Flag of Romania.png",
+        "touched": "2018-02-04T18:30:34Z"
+      },
+      "1847": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4721,
+        "length": 286,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Romania/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1847,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4721,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Romania\n| flag alias = Flag_of_Romania.png\n| alt attribute = Flag of Romania\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-26T19:56:00Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Romania/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Romania",
+        "touched": "2017-07-26T19:56:01Z"
+      },
+      "1848": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4722,
+        "length": 287,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Estonia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1848,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4722,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Estonia\n| flag alias = Flag_of_Estonia2.png\n| alt attribute = Flag of Estonia\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-26T19:56:36Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Estonia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Estonia",
+        "touched": "2017-07-26T19:56:36Z"
+      },
+      "1849": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4723,
+        "length": 283,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Latvia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1849,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4723,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Latvia\n| flag alias = Flag_of_Latvia.png\n| alt attribute = Flag of Latvia\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-26T19:56:57Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Latvia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Latvia",
+        "touched": "2017-07-26T19:56:57Z"
+      },
+      "1850": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4724,
+        "length": 292,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Lithuania/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1850,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4724,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Lithuania\n| flag alias = Flag_of_Lithuania.png\n| alt attribute = Flag of Lithuania\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-26T19:57:32Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Lithuania/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Lithuania",
+        "touched": "2017-07-26T19:57:32Z"
+      },
+      "1851": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:European flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6076,
+        "length": 47,
+        "ns": 6,
+        "pageid": 1851,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4725,
+            "revid": 6076,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:European flags]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:38:52Z"
+          }
+        ],
+        "title": "File:Flag of Slovakia.png",
+        "touched": "2021-05-09T06:14:28Z"
+      },
+      "1852": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4726,
+        "length": 289,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Slovakia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1852,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4726,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Slovakia\n| flag alias = Flag_of_Slovakia.png\n| alt attribute = Flag of Slovakia\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-26T19:58:42Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Slovakia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Slovakia",
+        "touched": "2017-07-26T19:58:42Z"
+      },
+      "1853": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:European flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6082,
+        "length": 47,
+        "ns": 6,
+        "pageid": 1853,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4727,
+            "revid": 6082,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:European flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:39:45Z"
+          }
+        ],
+        "title": "File:Flag of the Czech Republic.png",
+        "touched": "2018-02-01T21:23:02Z"
+      },
+      "1854": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4728,
+        "length": 311,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Czech Republic/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1854,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4728,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Czech_Republic\n| flag alias = Flag_of_the_Czech_Republic.png\n| alt attribute = Flag of Czech_Republic\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-26T19:59:14Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Czech Republic/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Czech Republic",
+        "touched": "2017-07-26T19:59:14Z"
+      },
+      "1855": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 4729,
+        "length": 296,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Korea/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 1855,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4729,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Korea\n| flag alias = 2000px-Flag_of_Korea_1882.svg.png\n| alt attribute = Flag of Korea\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-26T20:00:24Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Korea/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Korea",
+        "touched": "2017-07-26T20:00:25Z"
+      },
+      "1856": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4739,
+        "length": 125,
+        "new": "",
+        "ns": 1,
+        "pageid": 1856,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4739,
+            "slots": {
+              "main": {
+                "*": "Can somebody explain to me the differences between the Conservative, Progressive and Labor parties? What are their platforms?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-27T21:52:39Z"
+          }
+        ],
+        "title": "Talk:Dylan J. Price/@comment-31721837-20170727215239",
+        "touched": "2017-07-27T21:52:39Z"
+      },
+      "1857": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4741,
+        "length": 1530,
+        "ns": 1,
+        "pageid": 1857,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4740,
+            "revid": 4741,
+            "slots": {
+              "main": {
+                "*": "It's depending on which period since each party did went through some form of evolution. But i'd assume you are talking about the seventh party system? In that case:\n\nConservatives advocate for Globalism, Internationalism, Economic Liberalism, and Liberal Conservatism. Unlike most parties, they favor smaller (and probably active) government with minimal micromanagement as safe as possible. I personally think of them as a mix of Rockefeller Republicans and New Democrats (as they are a mix of both parties anyways), but they probably grew to represent whats left of any right-wingers in seventh party system.\n\nhttps://en.wikipedia.org/wiki/Rockefeller_Republican\n\nhttps://en.wikipedia.org/wiki/New_Democrats\n\n<span style=\"font-size:12.6px;font-weight:normal;\">Progressives advocate for Social Democracy, </span><span style=\"font-size:12.6px;font-weight:normal;\">Progressivism, </span><span style=\"font-size:12.6px;font-weight:normal;\">Economic Nationalism, etc. I assumed their policies are similar to Bernie Sanders or Elizabeth Warren (since I assume they led the Progressives before they were a separate party)</span>\n\n<span style=\"font-size:12.6px;font-weight:normal;\">Labor is pretty similar to Progressives, but i think they are generally more conservative and more centre-left than Progressives. They probably aren't but thats my view of them</span>\n\n<span style=\"font-size:12.6px;font-weight:normal;\">yeah, im probably not the best person to explain since we don't have all the info for each party on this wiki</span>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-27T23:14:48Z"
+          }
+        ],
+        "title": "Talk:Dylan J. Price/@comment-31721837-20170727215239/@comment-5590986-20170727231427",
+        "touched": "2017-07-27T23:14:48Z"
+      },
+      "1858": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4742,
+        "length": 281,
+        "new": "",
+        "ns": 1,
+        "pageid": 1858,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4742,
+            "slots": {
+              "main": {
+                "*": "Most of the moon of the moons of Jupiter and Saturn are a half a dozen klicks across and are basically big snowballs of rock and dust. So yeah, they've all been mined to make O'Neil ships, the cities beneath the ice-moons, or launched down system to heat up the Martian atmosphere.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-28T01:38:37Z"
+          }
+        ],
+        "title": "Talk:Sol system/@comment-31711431-20170508105443/@comment-899576-20170728013837",
+        "touched": "2017-07-28T01:38:37Z"
+      },
+      "1859": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4743,
+        "length": 113,
+        "new": "",
+        "ns": 1,
+        "pageid": 1859,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4743,
+            "slots": {
+              "main": {
+                "*": "This  species will probably a part of a human dominated multi-species union including the Klerin and the Moraks.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-28T02:17:44Z"
+          }
+        ],
+        "title": "Talk:Tel-bn/@comment-31711431-20170728021744",
+        "touched": "2017-07-28T02:17:44Z"
+      },
+      "1860": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4744,
+        "length": 85,
+        "new": "",
+        "ns": 1,
+        "pageid": 1860,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4744,
+            "slots": {
+              "main": {
+                "*": "What is the difference between Naturals and Terrans?  There seems to be none at all.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-28T02:19:27Z"
+          }
+        ],
+        "title": "Talk:Human/@comment-31711431-20170728021927",
+        "touched": "2017-07-28T02:19:27Z"
+      },
+      "1861": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4745,
+        "length": 42,
+        "new": "",
+        "ns": 1,
+        "pageid": 1861,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4745,
+            "slots": {
+              "main": {
+                "*": "can't go into space without mortal enemies",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-28T02:43:32Z"
+          }
+        ],
+        "title": "Talk:Tel-bn/@comment-31711431-20170728021744/@comment-5590986-20170728024332",
+        "touched": "2017-07-28T02:43:32Z"
+      },
+      "1862": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4747,
+        "length": 172,
+        "ns": 1,
+        "pageid": 1862,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4746,
+            "revid": 4747,
+            "slots": {
+              "main": {
+                "*": "I think the difference is that Terrans are like genetically enhanced superhumans compared to \"naturals\" who were never genetically modified \n\nbut thats probably not enough",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-28T02:45:31Z"
+          }
+        ],
+        "title": "Talk:Human/@comment-31711431-20170728021927/@comment-5590986-20170728024416",
+        "touched": "2017-07-28T02:45:31Z"
+      },
+      "1863": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4752,
+        "length": 40,
+        "new": "",
+        "ns": 1,
+        "pageid": 1863,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4752,
+            "slots": {
+              "main": {
+                "*": "Is Terminus the so-called \"Planet Nine\"?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-28T16:20:07Z"
+          }
+        ],
+        "title": "Talk:Sol system/@comment-24.224.66.196-20170728162007",
+        "touched": "2017-07-28T16:20:07Z"
+      },
+      "1864": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4757,
+        "length": 291,
+        "new": "",
+        "ns": 1,
+        "pageid": 1864,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4757,
+            "slots": {
+              "main": {
+                "*": "So basically the future political parties are everything left of Bill Clinton?\n\nIf the Conservatives represent neocons and new left then their should be a Libertarian Party to fill the void of the laisez-faire capitalists. The Libertarian Party would be the opposite of the Progressive Party",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-28T18:17:28Z"
+          }
+        ],
+        "title": "Talk:Dylan J. Price/@comment-31721837-20170727215239/@comment-31721837-20170728181728",
+        "touched": "2017-07-28T18:17:29Z"
+      },
+      "1865": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4759,
+        "length": 70,
+        "ns": 1,
+        "pageid": 1865,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4758,
+            "revid": 4759,
+            "slots": {
+              "main": {
+                "*": "Yeah, thats pretty much the Libertarian party around this time anyways",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-28T18:36:45Z"
+          }
+        ],
+        "title": "Talk:Dylan J. Price/@comment-31721837-20170727215239/@comment-5590986-20170728183622",
+        "touched": "2017-07-28T18:36:45Z"
+      },
+      "1866": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4764,
+        "length": 374,
+        "ns": 1,
+        "pageid": 1866,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4763,
+            "revid": 4764,
+            "slots": {
+              "main": {
+                "*": "Just note im explaining the parties around this time (2029-2080) or something. I am pretty sure the Conservative party became different later on. (And im prob not the best person to explain)\n\nbut yeah thats pretty much the Libertarian party. They disbanded later on and most had joined the Conservative Party (known as the Conservative Union later on) in the early mid-2100s",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-28T18:44:16Z"
+          }
+        ],
+        "title": "Talk:Dylan J. Price/@comment-31721837-20170727215239/@comment-5590986-20170728184103",
+        "touched": "2017-07-28T18:44:16Z"
+      },
+      "1867": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4765,
+        "length": 759,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1867,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4765,
+            "slots": {
+              "main": {
+                "*": "According to my research, Hitler's remains were exhumed, burned and their ashes scattered by the Soviet Union in 1970 to keep them from becoming a rallying point for fascists. The body was in an advanced state of decay when it was exhumed, and the remains were then burned and dumped into the Biederitz river. For many years it was believed that his skull had survived, but recent DNA analysis has revealed that the skull was actually that of a woman, possibly Eva Braun. \n\nIn other words, no genetic material of Adolf Hitler is known to exist, and even if it did it would certainly by out of the reach of a group of neo-Nazis operating on an amateur budget.\n\nNow, ''Stalin'', on the other hand. . .<ac_metadata title=\"Hitler&#039;s remains\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-28T19:09:49Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-24.224.66.196-20170728190949",
+        "touched": "2017-07-28T20:13:55Z"
+      },
+      "1868": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4775,
+        "length": 454,
+        "ns": 1201,
+        "pageid": 1868,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4774,
+            "revid": 4775,
+            "slots": {
+              "main": {
+                "*": "Perhaps but that is for evidence or identification if the body was Adolf Hitler's or not, not through whether to just get his DNA.\n\nit is possible (much more in the future, im serious people in this timeline traveled all the way to pluto when they were barely in the 22nd century) that they have found Adolf Hitler's DNA through other means such as his old uniform, napkins he wiped he lips from, his old pistol, medical stuff taken from his doctor, etc.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-28T19:22:49Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-24.224.66.196-20170728190949/@comment-5590986-20170728191447",
+        "touched": "2017-07-28T19:22:49Z"
+      },
+      "1869": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4772,
+        "length": 94,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1869,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4772,
+            "slots": {
+              "main": {
+                "*": "Scientists already had tested Hitler's DNA in the labs to find out his ancestral roots anyways",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-28T19:19:24Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-24.224.66.196-20170728190949/@comment-5590986-20170728191924",
+        "touched": "2017-07-28T19:19:24Z"
+      },
+      "1870": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4778,
+        "length": 840,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1870,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 4778,
+            "slots": {
+              "main": {
+                "*": "I don't deny that it could theoretically happen, but I'm going to take this up with YNot1989, since he's the one in charge of the site. \n\nAlso, consider this. Germany today is deeply ashamed of the Third Reich, probably more than any other country. You can't show a swastika there unless it's for educational or artistic purposes, and all German children have to be taught about the atrocities committed by the Nazis. You can be fined for even saying \"Hiel Hitler\" in public. So if human cloning were ever made legal--especially cloning of humans from the past--I imagine that Germany would take ''major ''steps to keep potential sources of Hitler's DNA out of unscrupulous hands. Uniforms, weapons, medications, and things like that would all probably be locked up and closely guarded in case anyone tried to take DNA samples from them.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-28T19:56:10Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-24.224.66.196-20170728190949/@comment-24.224.66.196-20170728195610",
+        "touched": "2017-07-28T19:56:10Z"
+      },
+      "1871": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4782,
+        "length": 1375,
+        "ns": 1201,
+        "pageid": 1871,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4781,
+            "revid": 4782,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">24.224.66.196 wrote:<br />I don't deny that it could theoretically happen, but I'm going to take this up with YNot1989, since he's the one in charge of the site. \n\nAlso, consider this. Germany today is deeply ashamed of the Third Reich, probably more than any other country. You can't show a swastika there unless it's for educational or artistic purposes, and all German children have to be taught about the atrocities committed by the Nazis. You can be fined for even saying \"Hiel Hitler\" in public. So if human cloning were ever made legal--especially cloning of humans from the past--I imagine that Germany would take ''major ''steps to keep potential sources of Hitler's DNA out of unscrupulous hands. Uniforms, weapons, medications, and things like that would all probably be locked up and closely guarded in case anyone tried to take DNA samples from them.\n</div>\nWell he was the one who originally added Hitler to it.\n\nAlso a lot of Hitler's possessions and other stuff were likely taken out of Germany overtime so... It's likely that Hitler's DNA would be put up for display at some point in some other country but was bought and sold several times and all that. And then when cloning was made legal, all genetic material was made for public use (sometimes illegally in some countries). SO...\n\n(oh yeah make sure to mention what i said as well)",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-28T20:08:46Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-24.224.66.196-20170728190949/@comment-5590986-20170728200624",
+        "touched": "2017-07-28T20:08:46Z"
+      },
+      "1872": {
+        "contentmodel": "wikitext",
+        "lastrevid": 4785,
+        "length": 366,
+        "ns": 1201,
+        "pageid": 1872,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 4784,
+            "revid": 4785,
+            "slots": {
+              "main": {
+                "*": "Either that or the German government has gotten softer lately.\n\nI mean really you know how many growing reference to Nazis or how tolerable it is in Germany lately? Okay maybe a few but it's still slightly more (like Ist Wieder Da). Germany would probably relax laws about nazism regarding \"Freedom of Speech\", because you can see that one coming (because internet).",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-07-28T20:15:52Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-24.224.66.196-20170728190949/@comment-5590986-20170728201355",
+        "touched": "2017-07-28T20:15:52Z"
+      },
+      "1873": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Person.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blank Woman.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 56stars Black Stripe.png"
+          }
+        ],
+        "lastrevid": 11765,
+        "length": 3269,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Dan Forest"
+          },
+          {
+            "ns": 0,
+            "title": "Evalyn Jacobi"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2052"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2060"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Democratic/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Democratic/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Green/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Green/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Libertarian/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Libertarian/meta/shortname"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1873,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10895,
+            "revid": 11765,
+            "slots": {
+              "main": {
+                "*": "{{Infobox election\n|election_name = United States presidential election, 2056\n|country = United States\n|type = presidential\n|ongoing = no\n| flag_year = 2043 \n|previous_election = United States presidential election, 2052\n|previous_year = 2052\n|next_election = United States presidential election, 2060\n|next_year = 2060\n|election_date = November 7, 2056\n| votes_for_election         = All elligable voters who participate\n| needed_votes               = 51% of the vote\n| turnout                    = 48.3%\n| image1 = [[File:Blank_Person.jpg|150px]]\n| nominee1 = [[Dan Forest]]\n| party1 = Democratic\n| home_state1 = Indiana\n| running_mate1 = Owen Wood\n| electoral_vote1 = \n| states_carried1 = \n| popular_vote1 = \n| percentage1 = 39.9%\n| image2 = [[File:Blank_Person.jpg|150px]]\n| nominee2 = Brandon Tran\n| party2 = Conservative\n| home_state2 = Maryland\n| running_mate2 = Sam Hodman\n| electoral_vote2 =\n| states_carried2 =\n| popular_vote2 =  \n| percentage2 = 40.1%\n| nominee5 = Andrew Markwalter\n| party5 = Libertarian\n| image5 = [[File:Blank_Person.jpg|150px]]\n| home_state5 = Kentucky\n| running_mate5 = Harlan Monroe\n| electoral_vote5 = \n| states_carried5 = \n| popular_vote5 = \n| percentage5 = 7.5%\n| nominee4 = Sarah Perez\n| party4 = Green\n| image4 = [[File:Blank_Woman.png|150px]]\n| home_state4 = Colorado\n| running_mate4 = Matilda Belrose\n| electoral_vote4 = \n| states_carried4 =\n| popular_vote4 = \n| percentage4 = 12.5%\n| title = President\n| before_election =  [[Evalyn Jacobi]]\n| before_party = Democratic\n| after_election = [[Dan Forest]]\n| after_party = Democratic}}\n\nThe '''2056 United States Presidential Election ''' was the 68th quadrennial presidential election. Democratic Party Candidate Dan Forest won the election thanks to having the majority of second and third choice votes.. This was the first election where a candidate with the most votes on the first ballot lost, leading to President Elect [[Dan Forest]] to promise only a single term as President.\n==Background==\nIn the aftermath of [[World War III]], the United States became split upon on the decision of what the post-war world would look like and be maintained. \n==Nominations==\n===Democratic===\n<span style=\"font-size:14px;font-weight:normal;\">While respected as a competent and moderate Vice President, Forest was not President Jacobi's first choice to succeed her. After repeated attempts to push Secretary of the Space Force, James E. Knight to seek the Democratic nomination, the Progressive Caucus and President Jacobi endorsed Forest as the nominee. To the surprise of many in the party, Forest's laid back attitude struck a chord with the nation, exhausted by war, frozen conflicts, and economic upheaval.</span>\n===Conservative===\n===Green===\n===Libertarian===\n\n==Result==\nThe results were surprising when Conservative candidate Brandon Tran's bipartisan strategy to win the Progressive and Conservative votes allowed him to gain enough votes to secure the majority of the first ballots. However, Brandon Tran's neglect of the lower parties had resulted in Dan Forest's domination of being in their second and third choices. It gave him enough power to ultimately win more than 51% of the the vote to narrowly steal the election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-03-16T07:15:34Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!-"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United States"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ifempty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/row"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/shortname"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:If empty"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          }
+        ],
+        "title": "United States presidential election, 2056",
+        "touched": "2025-03-16T07:15:34Z"
+      },
+      "1874": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Person.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blank Woman.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Reed Chen Blank.png"
+          }
+        ],
+        "lastrevid": 11766,
+        "length": 1908,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Dan Forest"
+          },
+          {
+            "ns": 0,
+            "title": "Eighth Party System"
+          },
+          {
+            "ns": 0,
+            "title": "Evalyn Jacobi"
+          },
+          {
+            "ns": 0,
+            "title": "Reed Chen"
+          },
+          {
+            "ns": 0,
+            "title": "Seventh Party System"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2056"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2064"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Christian Dignity/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Christian Dignity/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Liberal/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Liberal/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progressive/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progressive/meta/shortname"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1874,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11405,
+            "revid": 11766,
+            "slots": {
+              "main": {
+                "*": "{{Infobox election\n|election_name = United States presidential election, 2056\n|country = United States\n|type = presidential\n|ongoing = no\n|flag_year = 2043 \n|previous_election = United States presidential election, 2056\n|previous_year = 2056\n|next_election = United States presidential election, 2064\n|next_year = 2064\n|election_date = November 7, 2060\n| votes_for_election         = All elligable voters who participate\n| needed_votes               = 51% of the vote\n| turnout                    = 48.3%\n| image1 = [[File:Reed_Chen_Blank.png|150px]]\n| nominee1 = [[Reed Chen]]\n| party1 = Liberal\n| home_state1 = Oregon\n| running_mate1 = Andrew Markwalter\n| electoral_vote1 = \n| states_carried1 = \n| popular_vote1 = \n| percentage1 = 43.2%\n| image2 = [[File:Blank_Person.jpg|150px]]\n| nominee2 = Owen Wood\n| party2 = Progressive\n| home_state2 = Vermont\n| running_mate2 = Mat Grocholski\n| electoral_vote2 =\n| states_carried2 =\n| popular_vote2 =  \n| percentage2 = 36.8%\n| nominee5 = Matilda Belrose\n| party5 = Conservative\n| image5 = [[File:Blank_Woman.png|150px]]\n| home_state5 = North Dakota\n| running_mate5 = Rowan Smith \n| electoral_vote5 = \n| states_carried5 = \n| popular_vote5 = \n| percentage5 = 9.0%\n| nominee4 = David Garcia\n| party4 = Christian Dignity\n| image4 = [[File:Blank_Person.jpg|150px]]\n| home_state4 = Florida\n| running_mate4 = Adriana Rocha Flores\n| electoral_vote4 = \n| states_carried4 =\n| popular_vote4 = \n| percentage4 = 11.0%\n| title = President\n| before_election =  [[Evalyn Jacobi]]\n| before_party = Progressive\n| after_election = [[Dan Forest]]\n| after_party = Progressive}}\nThe '''2060 United States Presidential Election ''' was the 69th quadrennial presidential election. [[Reed Chen]] won the election. This election marked the beginning of the dealignment period from the [[Seventh Party System]] to the [[Eighth Party System]].\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-03-16T16:49:00Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!-"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United States"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ifempty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/row"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/shortname"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:If empty"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          }
+        ],
+        "title": "United States presidential election, 2060",
+        "touched": "2025-03-16T16:49:00Z"
+      },
+      "1875": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States Presidential Elections"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Blank Person.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Blank Woman.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Thang Levin Blank.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 81smallstars.png"
+          }
+        ],
+        "lastrevid": 10475,
+        "length": 1819,
+        "links": [
+          {
+            "ns": 0,
+            "title": "David Castillo"
+          },
+          {
+            "ns": 0,
+            "title": "Miriam Weinstein"
+          },
+          {
+            "ns": 0,
+            "title": "Thang Levin"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2124"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2132"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Conservative/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Liberal/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Liberal/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progress/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progress/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Progressive/meta/shortname"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Union/meta/color"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Union/meta/shortname"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1875,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5164,
+            "revid": 10475,
+            "slots": {
+              "main": {
+                "*": "{{Infobox election\n|election_name = United States presidential election, 2128\n|country = United States\n|type = presidential\n|ongoing = no\n| flag_year = 2090\n|previous_election = United States presidential election, 2124\n|previous_year = 2124\n|next_election = United States presidential election, 2132\n|next_year = 2132\n|election_date = November 7, 2128\n| votes_for_election         = All elligable voters who participate\n| needed_votes               = 51% of the vote\n| turnout                    = 72.9%\n| image1 = [[File:Thang_Levin_Blank.png|150px]]\n| nominee1 = [[Thang Levin]]\n| party1 = Conservative\n| home_state1 = Oregon\n| running_mate1 = [[David Castillo]]\n| electoral_vote1 = \n| states_carried1 = \n| popular_vote1 = 145,849,620   \n| percentage1 = 46.9%\n| image4 = [[File:Blank_Person.jpg|150px]]\n| nominee4 = Avery Johnson\n| party4 = Progress\n| home_state4 = Maryland\n| running_mate4 = Mike Jacobi\n| electoral_vote4 =\n| states_carried4 =\n| popular_vote4 =  55,043,463\n| percentage4 = 17.7%\n| nominee5 = Eliza Jin Tao\n| party5 = Liberal\n| image5 = [[File:Blank_Woman.png|150px]]\n| home_state5 = Colorado\n| running_mate5 = Syng Anderson\n| electoral_vote5 = \n| states_carried5 = \n| popular_vote5 = 28,921,147\n| percentage5 = 9.3%\n| nominee2 = Yanna Lynne\n| party2 = Union\n| image2 = [[File:Blank_Woman.png|150px]]\n| home_state2 = Colorado\n| running_mate2 = Robert K. Mackenzie\n| electoral_vote2 = \n| states_carried2 =\n| popular_vote2 = 81,165,783\n| percentage2 = 26.1%\n| title = President\n| before_election =  [[Miriam Weinstein]]\n| before_party = Progressive\n| after_election = [[Thang Levin]]\n| after_party = Conservative}}\n\nThe '''United States presidential election of 2128''' was the 86th quadrennial presidential election. [[Thang Levin]] won the election.\n[[Category:United States Presidential Elections]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-06-28T19:59:04Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!-"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country data United States"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Flagicon/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ifempty"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/row"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox election/shortname"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Arguments"
+          },
+          {
+            "ns": 828,
+            "title": "Module:If empty"
+          },
+          {
+            "ns": 828,
+            "title": "Module:InfoboxImage"
+          }
+        ],
+        "title": "United States presidential election, 2128",
+        "touched": "2021-06-28T19:59:04Z"
+      }
+    }
+  }
+}

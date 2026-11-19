@@ -1,0 +1,25 @@
+<!-- Any text contained within {{{|these symbols}}} will be displayed on the main page, but not in the navigation boxes.-->
+'''<big>Automated taxobox system</big>'''
+* [[WP:Automated taxobox system/intro|Introduction]]
+* [[WP:Automated taxobox system/intro#benefits|Why use the system?]]
+* [[WP:Automated taxobox system/method|Making it work]]
+* [[WP:Automated taxobox system/technical|More technical details]]
+* [[WP:Automated taxobox system/map|Map of all called templates]]
+
+'''<big>Taxonomy templates</big>'''
+* [[WP:Automated taxobox system/taxonomy templates|Introduction to taxonomy templates]]
+* [[WP:Automated taxobox system/advanced taxonomy|Advanced features of taxonomy templates]]
+
+'''<big>Taxobox templates</big>'''
+* [[WP:Automated taxobox system/which|Which should be used?]]
+* [[WP:Automated taxobox system/display|Changing the taxa displayed]]
+* [[WP:Automated taxobox system/convert|Convert a taxobox to an automated taxobox]]
+* [[WP:Automated taxobox system/all parameters|Glossary of automated taxobox parameters]]
+* [[Template:Automatic taxobox/doc|'''Automatic taxobox''']] – mainly for genera and higher taxa
+** [[Template:Automatic taxobox/doc/new|Details]]
+* [[Template:Speciesbox/doc|'''Speciesbox''']] – for a species
+* [[Template:Subspeciesbox/doc|'''Subspeciesbox''']] – for an animal subspecies
+* [[Template:Infraspeciesbox/doc|'''Infraspeciesbox''']] – for a plant subspecies or variety
+* [[Template:Hybridbox/doc|'''Hybridbox''']] – for an animal hybrid within a genus
+* [[Template:Ichnobox/doc|'''Ichnobox''']] – for a trace fossil
+* [[Template:Oobox/doc|'''Oobox''']] – for a fossil egg

@@ -1,0 +1,23 @@
+{
+  "categories": [
+    {
+      "*": "Templates",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:Country data Colombia/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6Q291bnRyeV9kYXRhX0NvbG9tYmlhL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:Country_data_Colombia/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:Country data Colombia/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6Q291bnRyeV9kYXRhX0NvbG9tYmlhL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:Country data Colombia/doc</span></div>\n<!-- \nNewPP limit report\nCached time: 20261119205811\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.013 seconds\nReal time usage: 0.016 seconds\nPreprocessor visited node count: 20/1000000\nPost‐expand include size: 877/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 5/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    6.439      1 Template:Country_showdata\n100.00%    6.439      1 -total\n 39.80%    2.563      1 Template:Documentation\n 13.34%    0.859      1 Template:Country_data_Colombia/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:2294-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205811 and revision id 6535. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Country data Colombia/doc",
+      "ns": 10
+    }
+  ],
+  "page_id": 2294,
+  "revision_id": 6535,
+  "title": "Template:Country data Colombia"
+}

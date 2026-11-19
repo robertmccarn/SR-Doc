@@ -1,0 +1,228 @@
+{
+  "categories": [
+    {
+      "*": "Pages_using_deprecated_enclose_attributes",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><div class=\"plainlinks hlist navbar\"><ul><li class=\"nv-view\"><strong class=\"mw-selflink selflink\"><span title=\"View this template\">view</span></strong></li><li class=\"nv-talk\"><span class=\"new\" title=\"Template talk:Template-linking templates (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGVfdGFsazpUZW1wbGF0ZS1saW5raW5nX3RlbXBsYXRlcz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\"><span title=\"Discuss this template\">talk</span></span></li><li class=\"nv-edit\"><a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Template-linking_templates?action=edit\"><span title=\"Edit this template\">edit</span></a></li></ul></div>\n<div style=\"position:relative;text-align:left;\"><div style=\"width:;position:absolute; top:0;right:0;bottom:;left:;\"><table class=\"shortcutbox shortcutbox-template plainlinks noprint\" style=\"float:right;margin:0.3em 0.3em 0.3em 1.0em;border:1px solid #aaa;background:#fff;padding:3px;text-align:center;\"><tbody><tr><th style=\"font-size:85%;border:none;background:transparent;\"> Shortcuts\n<div class=\"plainlist\" style=\"font-size:120%;font-family:monospace;\">\n<ul><li>&#123;&#123;<span class=\"new\" title=\"Template:Tl-nav (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGwtbmF2P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">tl-nav</span>&#125;&#125;</li>\n<li>&#123;&#123;<span class=\"new\" title=\"Template:Tl templates (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGxfdGVtcGxhdGVzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">tl templates</span>&#125;&#125;</li></ul></div></th></tr>\n</tbody></table></div></div>\n<h3><span class=\"mw-headline\" id=\"General-purpose_formatting\">General-purpose formatting</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<table class=\"wikitable navbox collapsible\" style=\"width:auto;font-size:90%;margin:1.0em auto 1.0em auto;vertical-align:top;text-align:center;\">\n<caption>Comparison of template-linking templates according to their style\n</caption>\n<tbody><tr>\n<th style=\"*&quot;\">\n</th>\n<th style=\"background:#fcc;\">Link style →\n</th>\n<th style=\"background:#fee;\">Linked\n</th>\n<th style=\"background:#fee;\">Unlinked\n</th>\n<th style=\"background:#fee;\">Linked with subst\n</th>\n<th style=\"background:#fee;\">Linked including braces\n</th>\n<th style=\"background:#fee;\">Linked with alternative&#160;text\n</th></tr>\n<tr>\n<th style=\"background:#ccf;\">Text style ↓\n</th>\n<td><b>↓ <code>{{<a href=\"/wiki/Template:Tlg\" title=\"Template:Tlg\">tlg</a>}}</code> options<sup>1</sup> →</b>\n</td>\n<td style=\"background: #ececec; color: grey; vertical-align: middle; font-size: smaller; text-align: center;\" class=\"table-na\">N/A\n</td>\n<td><code><code class=\"mw-highlight mw-highlight-lang-text mw-content-ltr\" dir=\"ltr\">nolink=yes</code></code>\n</td>\n<td><code><code class=\"mw-highlight mw-highlight-lang-text mw-content-ltr\" dir=\"ltr\">subst=yes</code></code>\n</td>\n<td><code><code class=\"mw-highlight mw-highlight-lang-text mw-content-ltr\" dir=\"ltr\">braceinside=yes</code></code>\n</td>\n<td><code><code class=\"mw-highlight mw-highlight-lang-text mw-content-ltr\" dir=\"ltr\">alttext=Foo</code></code><br /><code><code class=\"mw-highlight mw-highlight-lang-text mw-content-ltr\" dir=\"ltr\">2=Foo</code></code>\n</td></tr>\n<tr>\n<td style=\"background:#eef;\">Normal\n</td>\n<td style=\"background: #ececec; color: grey; vertical-align: middle; font-size: smaller; text-align: center;\" class=\"table-na\">N/A\n</td>\n<td><span class=\"nowrap\"><code>{{<a href=\"/wiki/Template:Tlg\" title=\"Template:Tlg\">tlg</a>}}</code><sup>1, 2</sup></span><br /><code>{{<a href=\"/wiki/Template:Tl\" title=\"Template:Tl\">tl</a>}}</code><br /><code>{{<span class=\"new\" title=\"Template:Tlp (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGxwP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">tlp</span>}}</code><sup>2</sup><br /><code>{{<a href=\"/wiki/Template:Tlu\" title=\"Template:Tlu\">tlu</a>}}</code><sup>4</sup>\n</td>\n<td><code>{{<a href=\"/wiki/Template:Tlf\" title=\"Template:Tlf\">tlf</a>}}</code><sup>2</sup>\n</td>\n<td><code>{{<span class=\"new\" title=\"Template:Tls (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGxzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">tls</span>}}</code><br /><code>{{<span class=\"new\" title=\"Template:Tlsp (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGxzcD9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">tlsp</span>}}</code>\n</td>\n<td><code>{{<span class=\"new\" title=\"Template:Tn (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VG4/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">tn</span>}}</code>\n</td>\n<td><code>{{<span class=\"new\" title=\"Template:Tla (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGxhP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">tla</span>}}</code>\n</td></tr>\n<tr>\n<th style=\"background:#eef;\"><code>Code</code>\n</th>\n<td><code><code class=\"mw-highlight mw-highlight-lang-text mw-content-ltr\" dir=\"ltr\">code=yes</code></code> or<br /><code><code class=\"mw-highlight mw-highlight-lang-text mw-content-ltr\" dir=\"ltr\">tt=yes</code></code>\n</td>\n<td><code>{{<a href=\"/wiki/Template:Tlx\" title=\"Template:Tlx\">tlx</a>}}</code><br /><code>{{<a href=\"/wiki/Template:Tltt\" title=\"Template:Tltt\">tltt</a>}}</code><br /><code>{{<span class=\"new\" title=\"Template:Tltt2 (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGx0dDI/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">tltt2</span>}}</code>\n</td>\n<td><code>{{<a href=\"/wiki/Template:Tlc\" title=\"Template:Tlc\">tlc</a>}}</code><sup>2</sup><br /><code>{{<a href=\"/wiki/Template:Tld\" title=\"Template:Tld\">tld</a>}}</code><sup>2</sup><br /><code>{{<a href=\"/wiki/Template:Tnull\" title=\"Template:Tnull\">tnull</a>}}</code>\n</td>\n<td><code>{{<span class=\"new\" title=\"Template:Tlxs (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGx4cz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">tlxs</span>}}</code><br /><code>{{<span class=\"new\" title=\"Template:Tltts (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGx0dHM/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">tltts</span>}}</code><br /><code>{{<span class=\"new\" title=\"Template:Tltts3 (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGx0dHMzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">tltts3</span>}}</code><br /><code>{{<span class=\"new\" title=\"Template:Tltss (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGx0c3M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">tltss</span>}}</code><sup>3</sup>\n</td>\n<td colspan=\"2\" style=\"background: #ececec; color: grey; vertical-align: middle; font-size: smaller; text-align: center;\" class=\"table-na\">N/A\n</td></tr>\n<tr>\n<td style=\"background:#eef;\"><b>Bold</b>\n</td>\n<td><code><code class=\"mw-highlight mw-highlight-lang-text mw-content-ltr\" dir=\"ltr\">bold=yes</code></code>\n</td>\n<td><code>{{<span class=\"new\" title=\"Template:Tlb (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGxiP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">tlb</span>}}</code>\n</td>\n<td rowspan=\"3\" colspan=\"4\" style=\"background: #ececec; color: grey; vertical-align: middle; font-size: smaller; text-align: center;\" class=\"table-na\">N/A\n</td></tr>\n<tr>\n<td style=\"background:#eef;\"><b><code>Bold code</code></b>\n</td>\n<td><code><code class=\"mw-highlight mw-highlight-lang-text mw-content-ltr\" dir=\"ltr\">bold=yes|code=yes</code></code>\n</td>\n<td><code>{{<span class=\"new\" title=\"Template:Tlxb (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGx4Yj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">tlxb</span>}}</code>\n</td></tr>\n<tr>\n<td style=\"background:#eef;\"><i><code>Italic code</code></i>\n</td>\n<td><code><code class=\"mw-highlight mw-highlight-lang-text mw-content-ltr\" dir=\"ltr\">italic=yes|code=yes</code></code>\n</td>\n<td><code>{{<span class=\"new\" title=\"Template:Tlxi (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGx4aT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">tlxi</span>}}</code>\n</td></tr></tbody></table>\n<div style=\"clear:both;\"></div>\n<div class=\"plainlist\" style=\"font-size:90%\">\n<ul><li><sup>1</sup> <code>{{<a href=\"/wiki/Template:Tlg\" title=\"Template:Tlg\">tlg</a>}}</code> is the most general, allowing any combination of text style and/or link style options.</li>\n<li><sup>2</sup> Prevents wrapping of text by placing it inside <code class=\"nowrap\" style=\"\">&lt;span&#32;class=\"nowrap\"&gt;...&lt;&#47;span&gt;</code> tags.</li>\n<li><sup>3</sup> Uses monospace font but not <code class=\"nowrap\" style=\"\">&lt;code&gt;...&lt;&#47;code&gt;</code>.</li>\n<li><sup>4</sup> Allows links to templates in any namespace.</li></ul>\n</div>\n<h3><span class=\"mw-headline\" id=\"Other_formatting_templates\">Other formatting templates</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<table class=\"wikitable sortable\" style=\"vertical-align:top;\">\n<tbody><tr>\n<th>Code example</th>\n<th>Effect</th>\n<th>Notes\n</th></tr>\n<tr>\n<td><code>{{<a href=\"/wiki/Template:Tl2\" title=\"Template:Tl2\">tl2</a>&#124;Hatnote|lang=fr}}</code></td>\n<td><code>{{<span class=\"new\" title=\"Fr:Template:hatnote (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvRnI6VGVtcGxhdGU6aGF0bm90ZT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">hatnote</span>}}</code></td>\n<td>Supports linking to sister projects (e.g., fr:Hatnote)\n</td></tr>\n<tr>\n<td><code>{{<a href=\"/wiki/Template:Tlu\" title=\"Template:Tlu\">tlu</a>&#124;User:Ahunt/SSHFS}}</code></td>\n<td>{{<span class=\"new\" title=\"User:Ahunt/SSHFS (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVXNlcjpBaHVudC9TU0hGUz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">User:Ahunt/SSHFS</span>}}</td>\n<td>Supports linking to any namespace\n</td></tr>\n<tr>\n<td><code>{{<a href=\"/wiki/Template:Xpd\" title=\"Template:Xpd\">xpd</a>&#124;Hatnote|Some hatnote text}}</code></td>\n<td><code>\"{&#123;hatnote&#124;Some hatnote text}&#125;\"</code> gives \"<div class=\"hatnote\">Some hatnote text</div>\" <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"autonumber\" href=\"https://second-renaissance.fandom.com/wiki/Special:ExpandTemplates?input=%22%7B%7Bhatnote%7cSome+hatnote+text%7D%7D%22\">[1]</a></td>\n<td>Shows code, example and a link to expand the template code\n</td></tr>\n<tr>\n<td><code>{{<a href=\"/wiki/Template:Para\" title=\"Template:Para\">para</a>&#124;title|&lt;var&gt;book title&lt;/var&gt;}}</code></td>\n<td><code class=\"nowrap\">&#124;title&#61;<var>book title</var></code></td>\n<td>Formats template parameters for display, with or without values\n</td></tr></tbody></table>\n<h3><span class=\"mw-headline\" id=\"With_utility_links\">With utility links</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h3>\n<table class=\"wikitable sortable\" style=\"vertical-align:top;\">\n<tbody><tr>\n<th>Code example</th>\n<th>Effect\n</th></tr>\n<tr>\n<td><code>{{<a href=\"/wiki/Template:Lts\" title=\"Template:Lts\">lts</a>&#124;Hatnote}}</code></td>\n<td><span style=\"padding-right:3px;\"><a href=\"/wiki/Template:Hatnote\" title=\"Template:Hatnote\">Template:Hatnote</a></span><span class=\"plainlinks nourlexpansion lx\" style=\"font-size: 85%;\">(<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Hatnote?action=edit\">edit</a>&#160;<span class=\"new\" title=\"Template talk:Hatnote (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGVfdGFsazpIYXRub3RlP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">talk</span>&#160;<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Special:Whatlinkshere/Template:hatnote?limit=500\">links</a>&#160;<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Hatnote?action=history\">history</a>)</span>\n</td></tr>\n<tr>\n<td><code>{{<a href=\"/wiki/Template:T_links\" title=\"Template:T links\">t links</a>&#124;Hatnote}}</code></td>\n<td><span class=\"plainlinks nourlexpansion lx\" style=\"\"> <a href=\"/wiki/Template:Hatnote\" title=\"Template:Hatnote\">Hatnote</a>&#x20;<span style=\"font-size:85%;\">(<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Hatnote?action=edit\">edit</a>&#160;<b>&#183;</b>&#32;<span class=\"new\" title=\"Template talk:Hatnote (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGVfdGFsazpIYXRub3RlP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">talk</span>&#160;<b>&#183;</b>&#32;<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Hatnote?action=history\">history</a>&#160;<b>&#183;</b>&#32;<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Special:Whatlinkshere/Template:Hatnote?limit=999\">links</a>&#160;<b>&#183;</b>&#32;<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Special:PrefixIndex/Template:Hatnote/\">/subpages</a>&#160;<b>&#183;</b>&#32;<span class=\"new\" title=\"Template:Hatnote/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SGF0bm90ZS9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">/doc</span>&#160;<b>&#183;</b>&#32;<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Hatnote/doc?action=edit\">/doc edit</a>&#160;<b>&#183;</b>&#32;<span class=\"new\" title=\"Template:Hatnote/sandbox (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SGF0bm90ZS9zYW5kYm94P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">/sbox</span>&#160;<b>&#183;</b>&#32;<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Special:ComparePages?page1=Template%3AHatnote&amp;page2=Template%3AHatnote%2Fsandbox\">/sbox&#160;diff</a>&#160;<b>&#183;</b>&#32;<span class=\"new\" title=\"Template:Hatnote/testcases (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6SGF0bm90ZS90ZXN0Y2FzZXM/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">/test</span></span><span style=\"font-size:85%;\">&#160;<b>&#183;</b>&#32;<a href=\"/wiki/Module:Hatnote\" title=\"Module:Hatnote\">Module:hatnote</a>)</span></span>\n</td></tr>\n<tr>\n<td><code>{{<a href=\"/wiki/Template:Tfd_links\" title=\"Template:Tfd links\">tfd links</a>&#124;Hatnote}}</code></td>\n<td><span id=\"Template:Hatnote\" class=\"plainlinks nourlexpansion lx\"><a href=\"/wiki/Template:Hatnote\" title=\"Template:Hatnote\">Template:Hatnote</a>&#160;<span class=\"plainlinks\">(<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Hatnote?action=edit\">edit</a>⧼dot-separator⧽<span class=\"new\" title=\"Template talk:Hatnote (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGVfdGFsazpIYXRub3RlP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">talk</span>⧼dot-separator⧽<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Hatnote?action=history\">history</a>⧼dot-separator⧽<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Special:Whatlinkshere/Template:Hatnote?limit=999\">links</a>⧼dot-separator⧽<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Special:Log?page=Template%3AHatnote\">logs</a>⧼dot-separator⧽<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Special:PrefixIndex/Template:Hatnote/\">subpages</a>⧼dot-separator⧽<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Hatnote?action=delete&amp;wpReason=%5B%5BTemplate%3ATemplate-linking+templates%23Template%3Ahatnote%5D%5D\">delete</a>)</span></span>\n</td></tr>\n<tr>\n<td><code>{{<a href=\"/wiki/Template:Tiw\" title=\"Template:Tiw\">tiw</a>&#124;Hatnote}}</code></td>\n<td><a href=\"/wiki/Template:Hatnote\" title=\"Template:Hatnote\">Template:hatnote</a>&#160;<span style=\"font-size:90%;\">(<a href=\"/wiki/Special:WhatLinksHere/Template:hatnote\" title=\"Special:WhatLinksHere/Template:hatnote\">backlinks</a> <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://community.fandom.com/wiki/Template:hatnote?action=edit\">edit</a>)</span>\n</td></tr>\n<tr>\n<td><code>{{<a href=\"/wiki/Template:Tltt\" title=\"Template:Tltt\">tltt</a>&#124;Hatnote}}</code></td>\n<td><code title=\"&#123;&#123;&#123;2&#125;&#125;&#125;\">&#123;&#123;<a href=\"/wiki/Template:Hatnote\" title=\"Template:Hatnote\">Hatnote</a>&#125;&#125;</code>\n</td></tr>\n<tr>\n<td><code>{{<a href=\"/wiki/Template:Tetl\" title=\"Template:Tetl\">tetl</a>&#124;Hatnote}}</code></td>\n<td>{{<small>&#160;</small><a href=\"/wiki/Template:Hatnote\" title=\"Template:Hatnote\">Hatnote</a><small>&#160;</small>}}<br /><span class=\"plainlinksneverexpand\"><small><a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Special:Whatlinkshere/Template:Hatnote?limit=500\">links</a></small>&#160;<small><span class=\"new\" title=\"Template talk:Hatnote (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGVfdGFsazpIYXRub3RlP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">talk</span></small>&#160;<small><a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Hatnote?action=edit\">view</a></small></span>\n</td></tr>\n<tr>\n<td><code>{{<a href=\"/wiki/Template:Tsetl\" title=\"Template:Tsetl\">tsetl</a>&#124;Hatnote}}</code></td>\n<td>{{<small>&#160;</small><a href=\"https://en.wikipedia.org/wiki/Template_substitution\" class=\"extiw\" title=\"wikipedia:Template substitution\">subst</a><code>:</code><a href=\"/wiki/Template:Hatnote\" title=\"Template:Hatnote\">Hatnote</a><small>&#160;</small>}}<br />&#160;<span class=\"plainlinksneverexpand\"><small><a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Special:Whatlinkshere/Template:Hatnote?limit=500\">links</a>&#160;<span class=\"new\" title=\"Template talk:Hatnote (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGVfdGFsazpIYXRub3RlP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">talk</span>&#160;<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Hatnote?action=edit\">view</a></small></span>\n</td></tr>\n<tr>\n<td><code>{{<a href=\"/wiki/Template:Ti\" title=\"Template:Ti\">ti</a>&#124;Hatnote}}</code></td>\n<td><b><a href=\"/wiki/Template:Hatnote\" title=\"Template:Hatnote\">Template:Hatnote</a></b>&#160;(<span class=\"new\" title=\"Template talk:Hatnote (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGVfdGFsazpIYXRub3RlP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">talk</span>⧼dot-separator⧽<a href=\"/wiki/Special:WhatLinksHere/Template:Hatnote\" title=\"Special:WhatLinksHere/Template:Hatnote\">links</a>⧼dot-separator⧽<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Hatnote?action=edit\">edit</a>)\n</td></tr>\n<tr>\n<td><code>{{<a href=\"/wiki/Template:Tic\" title=\"Template:Tic\">tic</a>&#124;Hatnote}}</code></td>\n<td><span class=\"plainlinks\"><a href=\"/wiki/Template:Hatnote\" title=\"Template:Hatnote\">Template:Hatnote</a>&#160;(<span class=\"new\" title=\"Template talk:Hatnote (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGVfdGFsazpIYXRub3RlP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">talk</span> <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Special:Whatlinkshere/Template:Hatnote?limit=500\">links</a> <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Hatnote?action=edit\">edit</a>)</span>\n</td></tr>\n<tr>\n<td><code>{{<a href=\"/wiki/Template:Tiw\" title=\"Template:Tiw\">tiw</a>&#124;Hatnote}}</code></td>\n<td><a href=\"/wiki/Template:Hatnote\" title=\"Template:Hatnote\">Template:Hatnote</a>&#160;<span style=\"font-size:90%;\">(<a href=\"/wiki/Special:WhatLinksHere/Template:Hatnote\" title=\"Special:WhatLinksHere/Template:Hatnote\">backlinks</a> <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://community.fandom.com/wiki/Template:Hatnote?action=edit\">edit</a>)</span>\n</td></tr>\n<tr>\n<td><code>{{<a href=\"/wiki/Template:Tlt\" title=\"Template:Tlt\">tlt</a>&#124;Hatnote}}</code></td>\n<td>&#123;{<a href=\"/wiki/Template:Hatnote\" title=\"Template:Hatnote\">Hatnote</a>}}&#160;(<span class=\"new\" title=\"Template talk:Hatnote (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGVfdGFsazpIYXRub3RlP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">t</span>/<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Special:Whatlinkshere/Template:Hatnote?limit=999\">l</a>)\n</td></tr>\n<tr>\n<td><code>{{<a href=\"/wiki/Template:Ttl\" title=\"Template:Ttl\">ttl</a>&#124;Hatnote}}</code></td>\n<td>&#123;{<a href=\"/wiki/Template:Hatnote\" title=\"Template:Hatnote\">Hatnote</a>}}&#160;(<span class=\"new\" title=\"Template talk:Hatnote (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGVfdGFsazpIYXRub3RlP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">t</span>/<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Special:Whatlinkshere/Template:Hatnote?limit=999\">l</a>)\n</td></tr>\n<tr>\n<td><code>{{<a href=\"/wiki/Template:Twlh\" title=\"Template:Twlh\">twlh</a>&#124;Hatnote}}</code></td>\n<td><a href=\"/wiki/Template:Hatnote\" title=\"Template:Hatnote\">Template:Hatnote</a> (<a href=\"/wiki/Special:WhatLinksHere/Template:Hatnote\" title=\"Special:WhatLinksHere/Template:Hatnote\">links</a>, <span class=\"new\" title=\"Template talk:Hatnote (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGVfdGFsazpIYXRub3RlP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">talk</span>)\n</td></tr></tbody></table>\n<!-- \nNewPP limit report\nCached time: 20261119205410\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.103 seconds\nReal time usage: 0.204 seconds\nPreprocessor visited node count: 2889/1000000\nPost‐expand include size: 27603/2097152 bytes\nTemplate argument size: 7972/2097152 bytes\nHighest expansion depth: 29/100\nExpensive parser function count: 12/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 1194/5000000 bytes\nLua time usage: 0.006/7.000 seconds\nLua memory usage: 701712/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  131.769      1 -total\n 45.52%   59.978      4 Template:P1\n 36.24%   47.753      3 Template:If\n 22.92%   30.200      2 Template:P2\n 15.79%   20.812      1 Template:Xpd\n 11.20%   14.761      1 Template:Navbar\n 10.66%   14.043      1 Template:Xpd1\n  9.36%   12.335      1 Template:Float\n  9.29%   12.236      1 Template:Tfd_links\n  8.25%   10.869     41 Template:Tlx\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:173-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205410 and revision id 230. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Tl-nav",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tl templates",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tlu",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tlx",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tltt",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tl2",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Xpd",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Para",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Lts",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Hatnote",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:T links",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tfd links",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tiw",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tetl",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tsetl",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Ti",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tic",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tlt",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Ttl",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Twlh",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tl",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tlc",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tld",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tlf",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tlg",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tnull",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tlp",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tls",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tlsp",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tn",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tla",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tltt2",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tlxs",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tltts",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tltts3",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tltss",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tlb",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tlxb",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tlxi",
+      "ns": 10
+    },
+    {
+      "*": "Template:Hatnote/doc",
+      "ns": 10
+    },
+    {
+      "*": "Template:Hatnote/sandbox",
+      "ns": 10
+    },
+    {
+      "*": "Template:Hatnote/testcases",
+      "ns": 10
+    },
+    {
+      "*": "Module:Hatnote",
+      "exists": "",
+      "ns": 828
+    },
+    {
+      "*": "Fr:Template:hatnote",
+      "ns": 0
+    },
+    {
+      "*": "User:Ahunt/SSHFS",
+      "ns": 2
+    },
+    {
+      "*": "Template talk:Template-linking templates",
+      "ns": 11
+    },
+    {
+      "*": "Template talk:Hatnote",
+      "ns": 11
+    }
+  ],
+  "page_id": 173,
+  "revision_id": 230,
+  "title": "Template:Template-linking templates"
+}

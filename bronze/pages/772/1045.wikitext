@@ -1,0 +1,30 @@
+{{TemplateDataHeader}}
+<templatedata>
+{
+	"description": "This template is used to start formatting for a reference list or bibliography. ",
+	"params": {
+		"1": {
+			"label": "Columns",
+			"type": "number",
+			"description": "Specify number or width of columns."
+		},
+		"colwidth": {
+			"label": "colwidth",
+			"description": "Width of columns eg '25em' the default is '30em'.",
+			"type": "string",
+			"required": false
+		},
+		"indent": {
+			"label": "Hanging indent",
+			"type": "string",
+			"description": "Set to \"yes\" to use hanging indent if an individual reference wraps over more than one line in the browser's display window."
+		},
+		"indentsize": {
+			"label": "indentsize",
+			"description": "Amount of indent in em units. Default is '3.2'",
+			"type": "number",
+			"required": false
+		}
+	}
+}
+</templatedata>

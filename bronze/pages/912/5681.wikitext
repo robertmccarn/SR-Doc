@@ -1,0 +1,21 @@
+{{Infobox political party
+|name_english       = Union Party
+|logo               = [[File:Union_Logo.png|200px]]
+|colorcode          = #062A78
+|chairperson        = Cora Fabian
+|founded            = 3 May 2088
+|headquarters       = A-4 Founder St. W, Bradbury, BR, 719234
+|student_wing       = 
+|youth_wing         = 
+|membership_year    = 
+|membership         = 
+|ideology           = Post-Scarcity <br> Unionism
+|colors             = Dark Blue
+|website            = 
+|country            = 
+|country_dab1       = 
+}}
+The '''Union Party''' was one of the major contemporary political parties in the United States and its [[Associated state|Associated states]].
+
+Tracing its origins back to the founding of the [[Interplanetary Trade Commission]], the Union Party was founded around 2088 in an effort to unite the colonial delegation to Earth under a single political apparatus. There have been 3 Unionist presidents, the first being [[Lionel Halvidar]], who served from 2133 to 2141.
+[[Category:Political parties in the United States]]

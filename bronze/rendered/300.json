@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "*": "Pages_with_broken_file_links",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    },
+    {
+      "*": "All_country_data_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": " "
+    },
+    {
+      "*": "Country_data_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": " "
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>{{ {{{1}}} | alias = | flag alias = Flag placeholder.svg | name =  | size =  | border= | altlink =  }}\n</p>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <a href=\"/wiki/Template:Country_data/doc\" title=\"Template:Country data/doc\">Template:Country_data/doc</a> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<p><br />\n</p>\nThis template is transcluded if a flag template is used without the first parameter, or with an empty first parameter. It can be used to place an \"invisible\" flag icon, as an alternative to using <div style=\"clear:both\"> (which adds a <code class=\"nowrap\" style=\"\">&lt;span&gt;</code> tag with padding at the size of a flag icon), if one item in a list of items with flags shouldn't have a flag icon. For example:\n<ul><li><span class=\"flagicon\"><span typeof=\"mw:Error mw:File\"><a href=\"/wiki/Special:Upload?wpDestFile=Flag_placeholder.svg\" class=\"new\" title=\"File:Flag placeholder.svg\"><span class=\"mw-file-element mw-broken-media\" data-width=\"23\" data-height=\"15\">File:Flag placeholder.svg</span></a></span></span> <span class=\"new\" title=\"Western Sahara (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvV2VzdGVybl9TYWhhcmE/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Western Sahara</span> (<tt>{{flagicon|}} [[Western Sahara]]</tt>)</li></ul>\n<p>which looks the same as\n</p>\n<ul><li><span class=\"new\" title=\"Template:Noflag (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6Tm9mbGFnP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">Template:Noflag</span> (<tt>{{noflag|[[Western Sahara]]}}</tt>)</li></ul>\n<p>For further instructions, please see: <a href=\"https://en.wikipedia.org/wiki/WikiProject_Flag_Template\" class=\"extiw\" title=\"wikipedia:WikiProject Flag Template\">WikiProject Flag Template</a>.\n</p>\n</div>\n</div>\n<!-- \nNewPP limit report\nCached time: 20261119205423\nCache expiry: 2592000\nReduced expiry: false\nComplications: [vary‐revision‐sha1]\nCPU time usage: 0.024 seconds\nReal time usage: 0.033 seconds\nPreprocessor visited node count: 115/1000000\nPost‐expand include size: 2463/2097152 bytes\nTemplate argument size: 69/2097152 bytes\nHighest expansion depth: 10/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 61/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   16.874      1 Template:Documentation\n100.00%   16.874      1 -total\n 90.18%   15.217      1 Template:Country_data/doc\n 18.80%    3.172      1 Template:Flagicon\n 18.01%    3.040      1 Template:Documentation_subpage\n 11.94%    2.014      1 Template:Tl\n 10.21%    1.723      1 Template:Country_data\n 10.18%    1.718      1 Template:Tag\n  9.01%    1.520      1 Template:Flagicon/core\n  5.67%    0.957      1 Template:Noflag\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:300-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205423 and revision id 449. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Country data/doc",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Noflag",
+      "ns": 10
+    },
+    {
+      "*": "Western Sahara",
+      "ns": 0
+    }
+  ],
+  "page_id": 300,
+  "revision_id": 449,
+  "title": "Template:Country data"
+}

@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "*": "Templates_generating_hCards",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    },
+    {
+      "*": "Microformat_(uF)_message_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>The HTML mark up produced by this template includes an <a href=\"/wiki/HCard\" class=\"mw-redirect\" title=\"HCard\">hCard microformat</a>, which makes the place-name and location <a href=\"/wiki/Parsing\" class=\"mw-redirect\" title=\"Parsing\">parsable</a> by computers, either acting automatically to catalogue article across Wikipedia, or via a browser tool operated by a person, to (for example) add the subject to an address book. For more information about the use of <a href=\"/wiki/Microformat\" class=\"mw-redirect\" title=\"Microformat\">microformats</a> on Wikipedia, please see <a href=\"https://en.wikipedia.org/wiki/UF\" class=\"extiw\" title=\"wp:UF\">the microformat project</a>.\n</p><p>\nIf the place or venue has an \"established\", \"founded\", \"opened\" or similar date that is specific to the day, use </p><div style=\"clear:both\"> <a href=\"https://en.wikipedia.org/wiki/WikiProject_Microformats/dates\" class=\"extiw\" title=\"wikipedia:WikiProject Microformats/dates\">unless the date is before 1583 CE</a>. If it has a URL, use <div style=\"clear:both\">.\n<p>hCard uses HTML classes including:\n</p>\n<div class=\"hlist\">\n<ul><li>adr</li>\n<li>category</li>\n<li>country-name</li>\n<li>extended-address</li>\n<li>fn</li>\n<li>label</li>\n<li>locality</li>\n<li>nickname</li>\n<li>note</li>\n<li>org</li>\n<li>street-address</li>\n<li>url</li>\n<li>vcard</li></ul>\n</div>\n<p><b>Please do not rename or remove these classes nor collapse nested elements which use them.</b>\n</p></div></div>\n<!-- \nNewPP limit report\nCached time: 20261119205427\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.013 seconds\nReal time usage: 0.018 seconds\nPreprocessor visited node count: 12/1000000\nPost‐expand include size: 208/2097152 bytes\nTemplate argument size: 131/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    3.387      1 -total\n 47.15%    1.597      2 Template:Tl\n 46.62%    1.579      1 Template:Flatlist/microformat\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:332-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205427 and revision id 522. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "HCard",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Microformat",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Parsing",
+      "exists": "",
+      "ns": 0
+    }
+  ],
+  "page_id": 332,
+  "revision_id": 522,
+  "title": "Template:UF-hcard-place"
+}

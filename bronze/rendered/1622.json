@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "*": "Pages_with_script_errors",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p><strong class=\"error\"><span class=\"scribunto-error mw-scribunto-error-7cbbac74\">Script error: No such module &quot;Autotaxobox&quot;.</span></strong>\n</p>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:Taxon info/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGF4b25faW5mby9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:Taxon_info/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:Taxon info/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGF4b25faW5mby9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:Taxon info/doc</span></div>\n<!-- \nNewPP limit report\nCached time: 20261119205703\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.007 seconds\nReal time usage: 0.010 seconds\nPreprocessor visited node count: 10/1000000\nPost‐expand include size: 565/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nLua time usage: 0.002/7.000 seconds\nLua memory usage: 619130/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    2.270      1 Template:Documentation\n100.00%    2.270      1 -total\n 39.87%    0.905      1 Template:Taxon_info/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:1622-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205703 and revision id 3874. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Taxon info/doc",
+      "ns": 10
+    }
+  ],
+  "page_id": 1622,
+  "revision_id": 3874,
+  "title": "Template:Taxon info"
+}

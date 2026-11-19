@@ -1,0 +1,124 @@
+---
+page_id: 216
+revision_id: 10467
+source_url: https://second-renaissance.fandom.com/wiki/Interplanetary_Trade_Commission
+raw_sha256: 8d60510c02288a3bd08ff79f38b178ffd7bd6a233959360eb5b56ca57ce02bdc
+---
+
+# Interplanetary Trade Commission
+
+## Preserved source
+
+```wikitext
+{{Infobox government agency
+| agency_name = Interplanetary Trade Commission
+| seal = ITC_Logo.png
+| seal_width = 150 px
+| logo = 
+| logo_width = 
+| logo_caption = 
+| formed = December 8, 2085
+| preceding1 = [Mars Corporation](638-mars-corporation.md)
+|dissolved       = {{End date|df=yes|2134|6|1}}
+| jurisdiction = Interplanetary Economic Issues
+| headquarters = Washington, D.C. (de jure), Bradbury (de facto)
+| employees = 
+| budget = 
+| chief1_name = [Adrian Hayer](1589-adrian-hayer.md)
+| chief1_position = Chairman
+| chief2_name = 
+| chief2_position = Vice-Chairman
+| chief3_name = 
+| chief3_position = 
+| parent_department = 
+| child1_agency = 
+| website = 
+| footnotes = 
+}}
+The '''Interplanetary Trade Commission (ITC)''' was an NGO and later Government Agency established from the great conglomerates that led the settlement of the Solar System. The ITC was created to manage the flow of raw materials throughout the system, and operate as a pseudo-central bank for colonists and former affiliates of the Mars Corporation. The ITC eventually came to finance the Planetary Guards of the solar system, act as the financial and monetary apparatus of the system, and served as a diplomatic apparatus to the governments of Earth. To many it was the legitimate government of colonies for over 50 years until the ITC was rolled into the duties of the US Department of Commerce, always pushing to fully integrate the colonies into Union as full member states and defend their interests until such a time.
+
+# Mission
+* Administer U.S. interplanetary trade laws pursuant to the Rosalind Amendment within its mandate in a fair and objective manner;
+*Oversee the funding of the various Planetary Guards.
+* Provide the President, Office of the United States Trade Representative, and Congress with independent, quality analysis, information, and support on matters of interplanetary trade, the state of the space territories and their economy, and forecast the Gross Space Product; and
+*Manage the flow of capital throughout the US territories in space.
+
+This final directive was intentionally left vague, and "Capital" is typically seen to refer to any quantifiable asset in the colonies, effectively giving the ITC the power to regulate colonial administration and immigration.
+
+# History
+## '''Founding'''
+''Main article: [First Martian Revolution](1680-first-martian-revolution.md)''
+
+In the 2070s the unemployment crisis on Earth was driving support for a radical reversal in US immigration policy, with many Presidential candidates going so far as to suggest closing the country off to immigrants all together. This would have been disastrous to the Mars Corporation, who's entire long-term existence was predicated on profits generated from incoming colonists. At the time, MarsCorp was generating record low profits as Martian companies and individuals continued to press for an end of their "profit-sharing," policies by going on Business Strikes that sold company apparatuses to temporary trusts in the Jovian system outside of MarsCorps control. In 2078, the New Richmond Delegation even went so far as to stage a massive sit in around the base of the New Richmond Elevator, grinding the Martian economy to a halt. On Earth this action, in concert with speculator concerns about the political climate sent MarsCorp stocks plummeting. The crash of the space economy reverberated across the system and to Earth, indirectly causing the [Collapse of 2079](1446-second-depression.md), and dooming the [Fadel Administration's](1375-horace-fadel.md) chances in the [election of 2080.](1887-united-states-presidential-election-2080.md)
+
+Shortly after the Crash of MarsCorp's stock, Galileo Development's CEO, Adrian Hayer, approached the leaders of the other great conglomerates of the outer colonies to seize the opportunity that was now presenting itself to the colonies. The outer colonies seldom benefited from US immigration policies, but Hayer believed that the present political climate presented an opportunity to the colonies that had never previously been available. At a meeting between the heads of Galileo Development, Trident Industries, Titan Corp, and the Venusian Working Group a plan was orchestrated to take control of the Mars Corporation and separate the colonial economy from dependence on Earth. The heads of these companies, [Adrian Hayer](1589-adrian-hayer.md), [Lionel Halvidar](212-lionel-halvidar.md), [Arya Kanzaki](1431-arya-kanzaki.md), and [Liza Maheswaran](1750-liza-maheswaran.md) respectively, all agreed to organize a massive hostile takeover of MarsCorp, with their interests controlling 35%, if Lunar Energy Ltd, a high ranking member company of MarsCorp, would agree to the plan. LE was open to the idea ONLY if the government on Earth would not close immigration to the colonies, thus guaranteeing their investments in Mars. Hayer and Halvidar brokered a deal with the incoming administration which assured that Mars would be open for colonization regardless of the government's policies on Earth, and that Helium-3 from Neptune and Uranus would reach Earth at a reasonable price. MarsCorp's stocks were already plummeting with the crisis on Earth and the Mars Revolution's protests against the regime. These founding companies formed the Interplanetary Trade Commission and pooled their assets to secure the acquisition of MarsCorp. To guarantee and administer the economy of the colonies, and avoid being dismantled for anti-Trust violations, the founding members of the ITC formally established the organization as a non-profit NGO, and formed the first executive council of the ITC, with Hayer as the first Chairman. In 2081, the new Lachman Administration signed an immigration reform bill that included the historic Rosiland Amendment, which exempted the colonies from any limits on immigration. By 2085, the ITC's leaders had negotiated the successful absorption of the organization into the Federal Government, the hope being that the ITC would serve as the primary enforcer of the Rosiland Amendment's policies.
+
+# Organizational structure
+## Commission members
+The ITC included a quasi-legislative body of several thousand commissioners from across the colonies. The President had the power to designate one of the Commissioners as Chairman, the ITC's top executive. However, the President did not possess the power to fire the appointed Commissioners, and the Chairman is nominated by the commissioners of the ITC, two provisions made to ensure the independence of the ITC. The nomination of the chairman is usually held after a ceremonial election in which the territorial governments petition the Commissioners on behalf of their citizens to nominate a preferred candidate.
+
+## List of Chairpersons
+{| cellpadding="2" cellspacing="2"
+|- bgcolor="#cccccc"
+! #
+! Name
+! Took Office
+! Left Office
+! Territory
+|- bgcolor="#ccccc"
+| align="center" | 1
+| [Adrian Hayer](1589-adrian-hayer.md)
+| 2086
+| 2095
+| Galileo
+|- bgcolor="#ccccc"
+| 2
+| Takashi Akiyama
+| 2095
+| 2105
+| Kennedy
+|- bgcolor="#ccccc"
+| 3
+| Ky Musk
+| 2105
+| 2110
+| Hawthorne
+|- bgcolor="#ccccc"
+| 4
+| Raleigh Kanzaki
+| 2110
+| 2115
+| Gondor
+|- bgcolor="#ccccc"
+| 5
+| [Lionel Halvidar](212-lionel-halvidar.md)
+| 2115
+| 2133
+| Bradbury
+|}
+
+## Divisions
+Within the ITC, there were five divisions. While officially headquartered in Washington, D.C., its largest office and unofficial headquarters was in Bradbury, in what is now the Mars Planetary Capitol Building.
+
+The ITC's divisions were:
+*Economic and Analysis and Management
+*Transportation and Infrastructure
+*Benefits and Services
+*Finance and Trading
+*Enforcement
+
+## '''Economic and Analysis and Management'''
+''Main article: [Quantum Economic Model](1337-quantum-economic-model.md)''
+
+The ITC would go onto formalize the Quantum Economic Model (QEM) as the primary method for organizing the flow of resources to the colonials. The Quantum Economic Model (QEM) is an economic system in which the economy is planned, simulated, and managed by both ITC quantum computer netwroks, which work in concert with smaller networks across the system, running simulations trillions of times a second on virtually every economic scenario to insure a stable, prosperous economy for the system. Essential services and basic resources, largely already under the control of the founding companies of the ITC (which were themselves little more than individual trade commissions with their own QEM networks) are all controlled by the ITC through the QEM. Resources are distributed to people based on need, as determined by the analysis of the computer networks, and essential services are created and managed to keep the economy operating at peak efficiency. Quantum economics was gradually introduced in the colonies during the early days of space colonization, when people's consumption of resources and basic needs were strictly regulated due to rationing. As time went on and the resources of the solar system became readily available to the point that any world with sufficient space access could enjoy a post scarcity economy, quantum economic theory continued to grow and evolve, becoming the primary means of managing post-scarcity resources in a planetary system, territory, or even township. Automation (far more prevalent in the colonies earlier in history due to the settlers initial lack of manpower), drove the QEM into full swing as the post scarcity economy no longer required large portions of the population to support it. Market-based economics exist within the QEM to promote entrepreneurial activity, but are not beyond the control of the QEM because private enterprise ultimately depends on the price of raw materials. Thus recessions and depressions can be avoided by simultaneously controlling prices, interest rates, and credit availability through quantum economic management. Additionally, quantum economics solves unemployment problems through its management of basic services. An economically inactive person (unemployed) receives the bare minimum resources required to keep them from endangering the rest of the economy, but the QEM takes advantage of any inflation in the inactive pool of the populace to offer socially-beneficial opportunities to individuals. These are essentially community service jobs that are HIGHLY targeted to those who request them, not just based on skill, but everything from personal history, psychology, pathology, interrelationships, etc. For most though, the QEM enables people to live comfortable lives that let them seek personal fulfillment, be they industrious, entrepreneurial, artistic, etc.
+
+## '''Enforcement'''
+''Main article: [Planetary Guard](2763-planetary-guard.md)''
+
+A unique responsibility to the ITC was that it was largely responsible for the funding of the various Planetary Guard units of the colonies. While the Department of Defense funded the Planetary Guard, these funds were usually taken to only extend to Earth and Luna. The ITC was given the power to divert funds "during times of appropriate military need" to fund the Planetary Guard. In reality, the bulk of all Planetary Guard funding came from the ITC.
+[Category:Non-Governmental Organizations](https://second-renaissance.fandom.com/wiki/Category:Non-Governmental_Organizations)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/216/10467.wikitext` · revision `10467` · [upstream](https://second-renaissance.fandom.com/wiki/Interplanetary_Trade_Commission)

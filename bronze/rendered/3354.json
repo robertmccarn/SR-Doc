@@ -1,0 +1,26 @@
+{
+  "categories": [
+    {
+      "*": "Former_countries_in_Europe",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p><b>Romania</b> Was a former country In <b>Eastern Europe</b>. It bordered <a href=\"/wiki/Poland\" title=\"Poland\">Poland</a> and Slovakia to the North. Hungary to the West. Vojvodina and Serbia to the Southwest. Bulgaria to the South. and <a href=\"/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a> to the East.\n</p><p class=\"mw-empty-elt\">\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119142244\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.006 seconds\nReal time usage: 0.009 seconds\nPreprocessor visited node count: 20/1000000\nPost‐expand include size: 36/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 28/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    3.565      1 Template:Alexander_Moreau\n100.00%    3.565      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:3354-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119142244 and revision id 10978. Rendering was triggered because: unknown\n -->\n</div>",
+  "links": [
+    {
+      "*": "Poland",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Ukraine",
+      "exists": "",
+      "ns": 0
+    }
+  ],
+  "page_id": 3354,
+  "revision_id": 10978,
+  "title": "Romania"
+}

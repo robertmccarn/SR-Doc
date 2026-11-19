@@ -1,0 +1,17 @@
+{{Documentation subpage}} {{WikiProject Infoboxes sidebar}}
+The '''{{tlx|WikiProject Infoboxes sidebar}}''' template is used on pages related to the [[Wikipedia:WikiProject Infoboxes | WikiProject Infoboxes]], without [[WP:SUBST|substitution]], allowing the automatic inclusion of future modifications.
+
+== Usage ==
+Place this sidebar template at the top of pages relevant to Infoboxes. The template is expanded by default.
+
+The parameter ''<code>collapsed<code>'' may be used to collapse the sidebar listing and hide the detail. 
+: <code><nowiki>{{WikiProject Infoboxes sidebar |collapsed}}</nowiki></code>
+<!--
+== See also ==
+* {{tl|WikiProject Infoboxes wide}}, an alternative navbox with the same content, intended for use at the bottom of a page
+-->
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:WikiProject Infoboxes| Sidebar]]
+
+</includeonly>

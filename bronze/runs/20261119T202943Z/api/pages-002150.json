@@ -1,0 +1,2408 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "2232": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6367,
+        "length": 18,
+        "ns": 6,
+        "pageid": 2232,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6248,
+            "revid": 6367,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Maps]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-12T03:39:00Z"
+          }
+        ],
+        "title": "File:Lunar Orbit 2051.png",
+        "touched": "2021-03-10T21:27:46Z"
+      },
+      "2233": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6263,
+        "length": 432,
+        "ns": 1,
+        "pageid": 2233,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6262,
+            "revid": 6263,
+            "slots": {
+              "main": {
+                "*": "<span style=\"font-size:14px;font-weight:normal;\">Do plant-life count as \"life-forms\" in this context? Or if it exists? </span>\n\n<span style=\"font-size:14px;font-weight:normal;\">If so I can just move/change the 'Nemo Station Incident'. And put it as microbial through uncleaned water. Not sure how this should work.</span>\n\n<span style=\"font-size:14px;font-weight:normal;\">or just put plants as an exception to microbial life</span>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-04T03:13:29Z"
+          }
+        ],
+        "title": "Talk:Atlantis (planet)/@comment-5590986-20171004024452",
+        "touched": "2017-10-04T03:13:29Z"
+      },
+      "2234": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6280,
+        "length": 220,
+        "new": "",
+        "ns": 1,
+        "pageid": 2234,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6280,
+            "slots": {
+              "main": {
+                "*": "That's not what its called, but they have stated the goal to create a ultra-light machine gun in the next 3-5 years with a titanium or composite body and mechanisms to reduce weight and be operated like an assault rifle.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-06T03:15:48Z"
+          }
+        ],
+        "title": "Talk:List of World War III weapons/@comment-30470028-20170616171416/@comment-899576-20171006031548",
+        "touched": "2017-10-06T03:15:49Z"
+      },
+      "2235": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Presidents of Mexico"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Joaquín Andrade.png"
+          }
+        ],
+        "lastrevid": 9115,
+        "length": 1377,
+        "links": [
+          {
+            "ns": 0,
+            "title": "India Crisis"
+          },
+          {
+            "ns": 0,
+            "title": "List of heads of state of Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "Mexico"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2235,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6479,
+            "revid": 9115,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=Joaquin Andrade\n|image= Joaquín_Andrade.png|border\n|imagesize=265px\n|alt=\n|caption=\n|order=[[List of heads of state of Mexico|72nd]]\n|office=President of [[Mexico]]\n|vicepresident=\n|term_start=December 1st, 2114\n|term_end=December 1st, 2126\n|predecessor=Miguel Caso\n|successor= Américo Ordaz \n|order2= Governor \n|office2= of the State of Durango\n|term_start2= December 1st, 2108\n|term_end2=December 1st, 2114\n|deputy2= \n|predecessor2= \n|successor2= \n|birth_date= October 13, 2037\n|birth_place=Colotlán, Jalisco\n|death_date= December 1, 2132 (aged 95)\n|death_place= Mexico City\n|restingplace= \n|nationality= Mexican\n|party= National Action\n|spouse= \n|children=\n|religion= Roman Catholic\n|profession=Businessman<br />Politician\n|branch= Mexican Navy\n|serviceyears= 6 years (May 1, 2090- July 10, 2096)\n|rank= [[Mexico|Lt. Commander]]\n|battles=\n}}\n'''Joaquin Andrade''' was a Mexican statesman and political leader who served as the 72nd President of the Mexico from 2114 to 2126. Andrade was the first member of the National Action Party to win the Mexican presidency in 36 years, defeating Miguel Caso in the elections of 2114. Andrade was a central figure in Mexico's strategy of destabilization against the United States, having ordered the engineering of the [[India Crisis]] and renewed hostilities in China.\n[[Category:Presidents of Mexico]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-11T17:58:46Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 10,
+            "title": "Template:WPMILHIST Infobox style"
+          }
+        ],
+        "title": "Joaquín Andrade",
+        "touched": "2019-03-12T00:08:49Z"
+      },
+      "2236": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of commonwealths of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6312,
+        "length": 288,
+        "ns": 6,
+        "pageid": 2236,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6311,
+            "revid": 6312,
+            "slots": {
+              "main": {
+                "*": "==Description==\nThe flag of Venus is supposed to have over 100 stars in total + the origional 13 in teh symbol. However, I always have trouble with arrays in GIMP. If anyone's better at this than me, please help.\n[[Category:Flags]]\n[[Category:Flags of commonwealths of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-09T19:35:07Z"
+          }
+        ],
+        "title": "File:Venus Flag.png",
+        "touched": "2018-06-04T15:29:28Z"
+      },
+      "2237": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Planetary Commonwealths of the United States"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6834,
+        "length": 103,
+        "ns": 14,
+        "pageid": 2237,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6314,
+            "revid": 6834,
+            "slots": {
+              "main": {
+                "*": "[[Category:Flags]]\n[[Category:Planetary Commonwealths of the United States]]\n[[Category:United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-12-05T04:03:18Z"
+          }
+        ],
+        "title": "Category:Flags of commonwealths of the United States",
+        "touched": "2017-12-05T04:03:19Z"
+      },
+      "2238": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6315,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2238,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6315,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-10T00:05:46Z"
+          }
+        ],
+        "title": "File:Flag Hainan.png",
+        "touched": "2017-11-08T00:10:17Z"
+      },
+      "2239": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Chinese flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6374,
+        "length": 46,
+        "ns": 6,
+        "pageid": 2239,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6327,
+            "revid": 6374,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Chinese flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-12T03:42:09Z"
+          }
+        ],
+        "title": "File:Wuyue Flag.png",
+        "touched": "2017-11-08T00:12:19Z"
+      },
+      "2240": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Alien species"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11055,
+        "length": 724,
+        "ns": 0,
+        "pageid": 2240,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6876,
+            "revid": 11055,
+            "slots": {
+              "main": {
+                "*": "The Ir'ba are the only native intelligence to the planet Q'jo orbiting HD71334d. They are tall, slender and serpentlike. Posessing a narrow brain-case atop a narrow and extremely nimble spinal column, the Ir'ba posses only two actual manipulator limbs on the torso, and a serpent-like \"tail\" extending down the length of their body. Their planet is currently in the middle of the equivalent of an ice age, drastically increasing available land, when for most of their evolutionary history they were confined to marshlands and shallow seas, limiting the need for distinct lower limbs.\n\n==Society==\nThe Ir'ba are divided into several paleolithic tribes across their planet's more temperate regions.\n\n[[Category:Alien species]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-01-23T17:45:02Z"
+          }
+        ],
+        "title": "Ir'ba",
+        "touched": "2023-01-23T17:45:02Z"
+      },
+      "2241": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Chinese flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6368,
+        "length": 46,
+        "ns": 6,
+        "pageid": 2241,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6324,
+            "revid": 6368,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Chinese flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-12T03:39:15Z"
+          }
+        ],
+        "title": "File:Hong Kong (22nd Century).png",
+        "touched": "2022-12-05T01:53:16Z"
+      },
+      "2242": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6325,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2242,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6325,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-10T17:52:13Z"
+          }
+        ],
+        "title": "File:Flag of Macau.png",
+        "touched": "2017-11-08T00:10:17Z"
+      },
+      "2243": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Chinese flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6370,
+        "length": 46,
+        "ns": 6,
+        "pageid": 2243,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6328,
+            "revid": 6370,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Chinese flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-12T03:39:44Z"
+          }
+        ],
+        "title": "File:Jiangxi.png",
+        "touched": "2017-11-08T00:12:19Z"
+      },
+      "2244": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Chinese flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6520,
+        "length": 46,
+        "ns": 6,
+        "pageid": 2244,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6369,
+            "revid": 6520,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Chinese flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-22T00:57:33Z"
+          }
+        ],
+        "title": "File:Hunan Flag.png",
+        "touched": "2017-11-08T00:12:19Z"
+      },
+      "2245": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6340,
+        "length": 750,
+        "ns": 1201,
+        "pageid": 2245,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6334,
+            "revid": 6340,
+            "slots": {
+              "main": {
+                "*": "I made a portrait for President Seras Stultz with couple versions\n\nhttps://imgur.com/a/FQYtX\n\nFirst image: The first image includes a regular Seras Stultz. She has somewhat long curly hair that goes slightly below her shoulders. It's a little hard to distinguish but she also has a ponytail (the part of her hair that touches her shoulder is the ponytail anyways)\n\nSecond Image: I thought it would look pretty cool/cute(?) to give her a Tattoo, it may look a little unprofessional but perhaps things would be different in the future. It also gives her a more unique look that implies her personality.\n\nTattoo: https://i.imgur.com/FXMcNoW.png\n\nwhat do you think?<ac_metadata title=\"Seras Stultz Portrait pic (and Reed Chen Remastered)\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-11T05:05:29Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20171010210513",
+        "touched": "2017-10-11T16:29:47Z"
+      },
+      "2246": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6335,
+        "length": 38,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2246,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6335,
+            "slots": {
+              "main": {
+                "*": "No tatoo, though I do like the design.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-10T21:57:25Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20171010210513/@comment-899576-20171010215725",
+        "touched": "2017-10-10T21:57:25Z"
+      },
+      "2247": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6337,
+        "length": 118,
+        "ns": 1201,
+        "pageid": 2247,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6336,
+            "revid": 6337,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">YNot1989 wrote:<br />No tatoo, though I do like the design.</div>\nthanks\n\n\n\ni hope it's good enough",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-11T01:23:58Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20171010210513/@comment-5590986-20171010225336",
+        "touched": "2017-10-11T01:23:58Z"
+      },
+      "2248": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6343,
+        "length": 190,
+        "ns": 1201,
+        "pageid": 2248,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6342,
+            "revid": 6343,
+            "slots": {
+              "main": {
+                "*": "I also made another Reed Chen Portrait but I \"remastered\" or \"remade\" it to make it look better\n\n\n\nhttps://imgur.com/a/A0eO6\n\n\n\nThink these portraits i made are worthy enough to be on pages?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-11T05:12:53Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20171010210513/@comment-5590986-20171011050700",
+        "touched": "2017-10-11T05:12:53Z"
+      },
+      "2249": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6344,
+        "length": 211,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2249,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6344,
+            "slots": {
+              "main": {
+                "*": "Ok, I kinda have a general rule of not depicting accessories beyond a tie or collar feature on these silouettes. So put the one without glasses on the page. And the one for Stultz wihtout the tattoo is good too.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-11T16:29:47Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20171010210513/@comment-899576-20171011162947",
+        "touched": "2017-10-11T16:29:47Z"
+      },
+      "2250": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6345,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2250,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6345,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-11T18:27:41Z"
+          }
+        ],
+        "title": "File:Seras Stultz Blank.png",
+        "touched": "2017-10-11T18:36:49Z"
+      },
+      "2251": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6349,
+        "length": 0,
+        "ns": 6,
+        "pageid": 2251,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6348,
+            "revid": 6349,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-11T18:34:23Z"
+          }
+        ],
+        "title": "File:Reed Chen Blank.png",
+        "touched": "2017-10-25T00:50:28Z"
+      },
+      "2252": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Military Technology"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States Army"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11663,
+        "length": 21547,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Little Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2252,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10896,
+            "revid": 11663,
+            "slots": {
+              "main": {
+                "*": "The '''United States Army''' ('''USA''') is the second largest branch of the United States Armed Forces and performs land-based military operations. It is one of several uniformed services of the United States and is designated as the Army of the United States according to the United States Constitution.\n\nAs the oldest and most senior branch of the U.S. military in order of precedence, the modern U.S. Army has its roots in the Continental Army, which was formed (14 June 1775) to fight the American Revolutionary War (1775–1783)—before the United States of America was established as a country. After the Revolutionary War, the Congress of the Confederation created the United States Army on 3 June 1784 to replace the disbanded Continental Army. The United States Army considers itself descended from the Continental Army, and dates its institutional inception from the origin of that armed force in 1775.\n\n=='''History'''==\n==='''Continental''' '''Origins '''===\n1775 - 1791\n\nThe Continental Army was created on 14 June 1775 by the Continental Congress as a unified army for the colonies to fight Great Britain, with George Washington appointed as its commander. The army was initially led by men who had served in the British Army or colonial militias and who brought much of British military heritage with them. As the Revolutionary War progressed, French aid, resources and military thinking influenced the new army. A number of European soldiers came on their own to help, such as Friedrich Wilhelm von Steuben, who taught Prussian Army tactics and organizational skills.\n\nThe army fought numerous pitched battles and in the South in 1780–1781, sometimes used the Fabian strategy and hit-and-run tactics, hitting where the British were weakest to wear down their forces. Washington led victories against the British at Trenton and Princeton, but lost a series of battles in the New York and New Jersey campaign in 1776 and the Philadelphia campaign in 1777. With a decisive victory at Yorktown and the help of the French, the Continental Army prevailed against the British.\n\nAfter the war, the Continental Army was quickly given land certificates and disbanded in a reflection of the republican distrust of standing armies. State militias became the new nation's sole ground army, with the exception of a regiment to guard the Western Frontier and one battery of artillery guarding West Point's arsenal. However, because of continuing conflict with Native Americans, it was soon realized that it was necessary to field a trained standing army. The Regular Army was at first very small and after General St. Clair's defeat at the Battle of the Wabash, the Regular Army was reorganized as the Legion of the United States, which was established in 1791 and renamed the United States Army in 1796.\n\n==='''Early History '''===\n1792 - 1860\n\n==== '''Post-Revolution''' ====\nThe War of 1812, the second and last war between the United States and Great Britain, had mixed results. The U.S. Army did not conquer Canada but it did destroy Native American resistance to expansion in the Old Northwest and it validated its independence by stopping two major British invasions in 1814 and 1815. After taking control of Lake Erie in 1813, the U.S. Army seized parts of western Upper Canada, burned York and defeated Tecumseh, which caused his Western Confederacy to collapse. Following U.S.victories in the Canadian province of Upper Canada, British troops who had dubbed the U.S. Army \"Regulars, by God!\", were able to capture and burn Washington, which was defended by militia, in 1814. The regular army, however proved they were professional and capable of defeating the British army during the invasions of Plattsburgh and Baltimore, prompting British agreement on the previously rejected terms of a status quo ante bellum. Two weeks after a treaty was signed (but not ratified), Andrew Jackson defeated the British in the Battle of New Orleans and Siege of Fort St. Philip, and became a national hero. U.S. troops and sailors captured HMS Cyane, Levant and Penguin in the final engagements of the war. Per the treaty, both sides (the United States and Great Britain) returned to the geographical status quo. Both navies kept the warships they had seized during the conflict.\n\nThe army's major campaign against the Indians was fought in Florida against Seminoles. It took long wars (1818–1858) to finally defeat the Seminoles and move them to Oklahoma. The usual strategy in Indian wars was to seize control of the Indians' winter food supply, but that was no use in Florida where there was no winter. The second strategy was to form alliances with other Indian tribes, but that too was useless because the Seminoles had destroyed all the other Indians when they entered Florida in the late eighteenth century.\n\nThe U.S. Army fought and won the Mexican–American War (1846–1848), which was a defining event for both countries. The U.S. victory resulted in acquisition of territory that eventually became all or parts of the states of California, Nevada, Utah, Colorado, Arizona, Wyoming and New Mexico.\n\n==='''Industrial'''===\n1861 - 1946\n\n==== '''First''' '''Industrial Conflicts''' ====\nThe American Civil War was the costliest war for the U.S. in terms of casualties. After most slave states, located in the southern U.S., formed the Confederate States, the Confederate States Army, led by former U.S. Army officers, mobilized a large fraction of Southern white manpower. Forces of the United States (the \"Union\" or \"the North\") formed the Union Army, consisting of a small body of regular army units and a large body of volunteer units raised from every state, north and south, except South Carolina.\n\nFor the first two years Confederate forces did well in set battles but lost control of the border states. The Confederates had the advantage of defending a large territory in an area where disease caused twice as many deaths as combat. The Union pursued a strategy of seizing the coastline, blockading the ports, and taking control of the river systems. The Confederacy surrendered in 1865, ending the American Civil War. The war remains the deadliest conflict that was fought mainly on American soil, resulting in the deaths of 620,000 soldiers.\n\nFollowing the Civil War, the U.S. Army had the mission of containing western tribes of Native Americans on the Indian reservations. They set up many forts, and engaged in the last of the American Indian Wars. U.S. Army troops also occupied several Southern states during the Reconstruction Era to protect freedmen. \n\nThe key battles of the Spanish–American War of 1898 were fought by the Navy. Using mostly new volunteers, the U.S. Army defeated Spain in land campaigns in Cuba and played the central role in the Philippine–American War.\n\n==== '''The Early World Wars''' ====\nThe United States joined World War I in 1917 on the side of Britain, France, Russia, Italy and other allies. U.S. troops were sent to the Western Front and were involved in the last offensives that ended the war. With the armistice in November 1918, the army once again decreased its forces.\n\nThe United States joined World War II in December 1941 after the Japanese attack on Pearl Harbor. On the European front, U.S. Army troops formed a significant portion of the forces that captured North Africa and Sicily and later fought in Italy. On D-Day 6 June 1944 and in the subsequent liberation of Europe and defeat of Nazi Germany, millions of U.S. Army troops played a central role. In the Pacific War, U.S. Army soldiers participated alongside the United States Marine Corps in capturing the Pacific Islands from Japanese control. Following the Axis surrenders in May (Germany) and August (Japan) of 1945, army troops were deployed to Japan and Germany to occupy the two defeated nations. Two years after World War II, the Army Air Forces separated from the army to become the United States Air Force in September 1947. In 1948, the army was desegregated by order of President Harry S. Truman.\n\n=== '''Post-Industrial''' ===\n1947 - 2057\n\n==== '''(First)''' '''Cold War''' ====\nThe end of World War II set the stage for the East-West confrontation known as the Cold War. With the outbreak of the Korean War, concerns over the defense of Western Europe rose. Two corps, V and VII, were reactivated under Seventh United States Army in 1950 and American strength in Europe rose from one division to four. Hundreds of thousands of U.S. troops remained stationed in West Germany, with others in Belgium, the Netherlands and the United Kingdom, until the 1990s in anticipation of a possible Soviet attack.\n\nDuring the Cold War, American troops and their allies fought Communist forces in Korea and Vietnam (see Domino Theory). The Korean War began in 1950, when the Soviets walked out of a U.N. Security Council meeting, removing their possible veto. Under a United Nations umbrella, hundreds of thousands of U.S. troops fought to prevent the takeover of South Korea by North Korea, and later, to invade the northern nation. After repeated advances and retreats by both sides, and the PRC People's Volunteer Army entry into the war, the Korean Armistice Agreement ended the war and returned the peninsula to the status quo in 1953.\n\nA \"Total Force Policy\" was adopted by Chief of Staff of the Army General Creighton Abrams in the aftermath of the Vietnam War and involved treating the three components of the Army – the Regular Army, the Army National Guard and the Army Reserve as a single force. \n\nTraining and Doctrine Command was established as a major U.S. Army command on 1 July 1973. The 1980s was mostly a decade of reorganization. The Army converted to an all-volunteer force with greater emphasis on training and technology. The Goldwater-Nichols Act of 1986 created Unified Combatant Commands bringing the Army together with the other three military branches under unified, geographically organized command structures. The Army also played a role in the invasions of Grenada in 1983 (Operation Urgent Fury) and Panama in 1989 (Operation Just Cause).\n\nBy 1989 Germany was nearing reunification and the Cold War was coming to a close. The Army leadership reacted by starting to plan for a reduction in strength. By November 1989 Pentagon briefers were laying out plans for 'Operation Quicksilver,' a plan to reduce Army end-strength by 23%, from 750,000 to 580,000. A number of incentives such as early retirement were used.\n\n==== '''Post Cold War''' ====\nIn 1990 Iraq invaded its smaller neighbor, Kuwait, and U.S. land forces, led by the 82nd Airborne Division, quickly deployed to assure the protection of Saudi Arabia. In January 1991 Operation Desert Storm commenced, a U.S.-led coalition which deployed over 500,000 troops, the bulk of them from U.S. Army formations, to drive out Iraqi forces. The campaign ended in a victory for the Army, as Western coalition forces routed the Iraqi Army, organized along Soviet lines, in just one hundred hours.\n\nIn the early 21st century, the United States army was extended across the globe with military bases in almost every continent. Most military operations conducted before [[World War III]] was usually foreign interventions and combating terrorist organizations. The United States was the main participant in the [[Little Cold War]]. The most radical shift in US Policy in this region was with Iran, whose alliance, formed after years of negotiations and the war with the Islamic State enabled the US to withdraw all combat troops in Afghanistan and Iraq (save for Balad Air Base) creating a new balance of power. Israel remained an ally of the United States but was officially neutral.\n\n==== '''Flood Era''' ====\nNATO and UN forces make incursions into the former Russian Federation to secure nuclear stockpiles from breakaway republics and rogue generals. Some states such as Buryatia and Tuva voluntarily hand over their stockpiles, while Primorye, the Ural Republic, Samara, and the future Russian Republic refuse to surrender their weapons. For the next 15 years, international forces engage in a series of small wars to secure former Russian nuclear weapons. Poland and Turkey divide their respective sphere's of influence in Russia through the Treaty of Odessa. Indirectly leading up to World War III.\n\nWorld War III was a global war that lasted from 2051 to 2055, though some related conflicts in Asia began before 2051. It involved the vast majority of the world's nations—including all of the great powers—eventually forming two opposing military alliances: the Alliance and the Coalition. It was the most widespread war of the century, involving over 5 million people across the planet. Unlike the two previous World Wars, World War III was not a \"total war,\" but rather a precision war. Marked with few civilian casualties, the destruction of only critical infrastructure points, hypersonic precision strikes of enemy military assets, all under the threat of nuclear retaliation for any action that went to far, it only resulted in an estimated 110,000 fatalities. These made World War III the deadliest conflict of the 21st Century, but was relatively bloodless compared to the previous World Wars.\n\n==='''Modern'''===\n\n2058 - Present\n\n==== '''Post-WWIII''' ====\nWorld War III altered the political alignment and social structure of the world. The great powers that were the victors of the war—the United States, Poland, China, the United Kingdom, and India all formed alliance systems that directly cooperated with the United States. The US remained the world's dominant power, while the sphere's of Turkey and Japan were curtailed.\n\n In 2064, conflict erupts between Canada, Quebec, and the First Nations. The United States intervenes in the Canadian Civil War and deploys forces to prevent the spread of the conflict from hurt American interests. In 2067, the Canadian Civil War ends with a ceasefire. Canada is occupied by the United States. Six years later, the Union Act is passed, formally annexing the British Isles, Canada, the former First Nations, Australia, and New Zealand into the United States.\n\n==== '''Mex-American Conflicts''' ====\nIn 2089, Mexico formally annexes its Central American allies with minimal resistance. Many of the former expatriates refuse to relocate, out of the desire to return to their adoptive country. The United States deploys several Battle Groups to the Panama coast to prevent Mexican takeover of the Canal zone. War breaks out in 2090 after Pro-US Panamanians fire on a Mexican division stationed at DMZ, drawing Mexico to invade Panama to support their claim to the region. Mexico deploys troops to Columbia to counter the US assault from Ecuador. With the exception of Brazil and Ecuador, all of South America has declared for Mexico. The US deploys Space Marines to Argentina and Chile to split Mexico's forces from Ecuador and Panama. The conflict ends in a ceasefire in 2092.\n\n10 years later in 2102, the Second Vietnam War began with the invasion of Vietnam by the United States-led coalition to restore the democratically elected government of Nguyen Tan Luong. The conflict continued until the 2106 Taipei Peace Talks divided the country and declared a ceasefire, though the conflict was technically still ongoing until the Third Mexican-American War ended. Soon after, the United Federation of China collapses in 2117 when separatist groups can no longer be held back as discontent in the Chinese military leads to a coup in Beijing. US military forces in Shanghai are deployed to restore order and put down the coup, propping up a Han Chinese state and occupying the Wu speaking region of the Yangtze delta.\n\nMex-American proxy wars in East Africa end after both powers deploy troops to secure critical interests. Stability comes, but many countries are broken into American and Mexican client states. Brazil begins meeting in secret with the US to discuss a united front against Mexico. Facing the possibility of a US-Brazil Entente, Mexico and its allies stage a massive invasion of Brazil after engineering a series of riots in the capital. A neutral puppet government is established, while Mexico's allies annex neighboring territory and establish satellite states in southern Brazil. Afterwards, Poland sends diplomats to Mexico City to discuss an alliance against the US.\n\nSix Southwestern States secede from the Union to form the United States of Aztlan. The conflict is centered around the status of America's Hispanic-majority population along the US-Mexican border. After the US recaptures Texas and California, bringing the rebel states back into the Union, Mexico detonates its nuclear arsenal along the DMZ to clear a path to invade the American Southwest, beginning the Third Mexican-American War.  Poland Invades Denmark to secure a rout to the Atlantic, while Bavaria invades Saxony to secure an overland rout. Tactical nuclear weapons are used by Poland and Russia when American forces use orbital weapons against Polish forces in former Germany. Operation Starlight began at the Battle of Washington, which proves to be a turning point in the war as Mexico is defeated with the help of the newly admitted colonial states. Poland finds itself fighting a two front war and Mexico is pushed back to their territory with the help of Colonial reinforcements. \n\nMexico surrenders after President Jaso is killed by his own Secretary of Defense. The Third Mexican-American War ends. Fallout from the Mexico campaign leaves the Earth in a nuclear winter. Mexico and its sphere come under the Quantum Economic Model, the US agrees to oversee reconstruction efforts. With no clear end in sight for the occupation of South America, and significant population displacement, the US Congress formally annexes all but Brazil in Latin America, and begins a slow transition to statehood. In the meantime, US army forces were mostly used to maintain occupied territories in Latin America and the rest of the world to help assist the newly established Free Associations.\n\n==== '''Post-War''' ====\nIn 2149 O'Neil Ship, ''Eternal Spring'', attempts to secede from the Union and bombard the Earth while passing by the planet. US army forces on Earth prepared measures to defend the planet against the bombardment on the ground. However, the different branches of the United States Space Forces and Planetary Guards managed to recapture the station and the rebels were arrested.\n\nToday, the US Army is now one of the largest of the three branches of the military, and most of which are stationed abroad. They primarily charged with patrolling and assisting US allies and protectorates. There is a recorded 5.3 million active soldiers still under deployment today, with increasing reliance on robotic technology to fill in gaps of manpower.\n\n==Equipment==\n\n== Personnel ==\n\n== General of the Army ==\nAs the logistics and military leadership requirements of World War II escalated after the June 1944 Normandy Landings, the United States government created a new version of General of the Army. The five-star rank and authority of General of the Army and equivalent naval fleet admiral was created by an Act of Congress on a temporary basis. It was created to give the most senior American commanders parity of rank with their British counterparts holding the ranks of field marshal and admiral of the fleet. This second General of the Army rank is not the same as the post-Civil War era version because of its purpose and five stars.\n\nThe insignia for General of the Army, created in 1944, consists of five stars in a pentagonal pattern, with points touching. Officers who held a previous version of the rank wore four stars rather than five, making the General of the Army pre-WW2 a different version. However, 3 Generals who previously held the rank before 1944 were posthumously renewed and bestowed upon. Throughout history, only twelve officers were promoted to 'General of the Army', they are:\n* George Marshall (December 16, 1944)\n* Douglas MacArthur (December 18, 1944)\n* Dwight D. Eisenhower (December 20, 1944)\n* Henry H. Arnold (December 21, 1944)\n* Omar Bradley (September 22, 1950)\n* Sam Hodman (July 16, 2054)\n* William Sherman (April 12, 2061) (Posthumous) \n* Philip Sheridan (April 12, 2061) (Posthumous) \n* Rosetta M. Faust (October 21, 2137)\n* Ike E.J. Einarsdottir (October 23, 2137)\n* Kyle J. Hotchkiss (March 17, 2140)\n\n=== '''General of the Armies''' ===\nThe General of the Armies of the United States, or more commonly referred to as General of the Armies (abbreviated as GAS), is the highest possible rank in the United States Army. The rank is informally equated to that of a six-star general and is currently the highest possible operational rank of the United States Armed Forces.\n\nThe rank has been held only three times in history, most of which are posthumous. The rank of General of the Armies is senior to General of the Army, General of the Air Force, and Fleet Admiral.\n* John J. Pershing (September 3, 1919)\n* George Washington (July 4, 1976 or March 13, 1978) (Posthumous)\n* Ulysses S. Grant (April 19, 2024) (Posthumous)\n* Douglas MacArthur (April 5, 2064) (Posthumous)\n\nThere has been several renewed (but mostly failed) efforts to promote long dead officers in the mid-21st and mid-22nd centuries, including former President Lionel Halvidar. After Halvidar's death, there has been renewed efforts to posthumously promote the former president.\n[[Category:United States]]\n[[Category:Military Technology]]\n[[Category:United States Army]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-10-14T20:37:38Z"
+          }
+        ],
+        "title": "United States Army",
+        "touched": "2024-10-14T20:37:38Z"
+      },
+      "2253": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6382,
+        "length": 136,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2253,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6382,
+            "slots": {
+              "main": {
+                "*": "i have reason to believe he is abusing his power by not being Aware of his place.<ac_metadata title=\"Concerns about aen\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-12T21:48:08Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-32499366-20171012214808",
+        "touched": "2017-10-13T09:57:05Z"
+      },
+      "2254": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6383,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2254,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6383,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-12T21:48:09Z"
+          }
+        ],
+        "title": "Message Wall:Preasten",
+        "touched": "2017-10-12T21:48:10Z"
+      },
+      "2255": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6384,
+        "length": 573,
+        "links": [
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          },
+          {
+            "ns": 1201,
+            "title": "Thread:2253"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2255,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6384,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Thread:2253|Concerns about aen]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-12T21:48:09Z"
+          }
+        ],
+        "title": "Thread:Preasten/@comment-32769624-20171012214809",
+        "touched": "2017-10-12T21:48:10Z"
+      },
+      "2256": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 6385,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2256,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6385,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-12T21:48:10Z"
+          }
+        ],
+        "title": "User:Preasten",
+        "touched": "2017-10-12T21:48:10Z"
+      },
+      "2257": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6386,
+        "length": 38,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2257,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6386,
+            "slots": {
+              "main": {
+                "*": "This is not a place to inform me about",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-12T22:43:19Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-32499366-20171012214808/@comment-5590986-20171012224319",
+        "touched": "2017-10-12T22:43:20Z"
+      },
+      "2258": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6387,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2258,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6387,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-13T07:05:55Z"
+          }
+        ],
+        "title": "File:Aaddd.png",
+        "touched": "2017-11-08T00:10:17Z"
+      },
+      "2259": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Aaddd.png"
+          }
+        ],
+        "lastrevid": 6388,
+        "length": 308,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2259,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6388,
+            "slots": {
+              "main": {
+                "*": "Well sorry i dont want him trying to defend himself with all the shit he could think of and make me suffer for it\n\n[[File:Aaddd.png|thumb|Proof hes gone mad with power.]]he kicked minnesotan from Minnesotans Map game and\n\nKicked me for saying well actually i was china first, when asgard shifted me to japan.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-13T07:06:46Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-32499366-20171012214808/@comment-32499366-20171013070646",
+        "touched": "2017-10-13T07:06:46Z"
+      },
+      "2260": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6393,
+        "length": 1546,
+        "ns": 1201,
+        "pageid": 2260,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6392,
+            "revid": 6393,
+            "slots": {
+              "main": {
+                "*": "Again, this is not the place to talk to me about this.\n\nBut to be quick: The map game, while no clear indicator that it originally was meant to be serious, seems to be a game where people did not take things seriously.\n\nWhile what Aen did I had not personally agree with, I am pretty sure that environment is not something to be taken seriously of, including Aen. The fact that the game is not taken seriously should not make you concerned about whether or not he abused his powers, clearly he does not abuse wiki staff powers and he did not unironically take control.(and Minnesota didn't seem to try to stop it even after it became apparent that Aen did carry out his comment)\n\nI understand you are concerned and wants things to be serious, but if the page is like that then there is no point, because what he did is not technicallt against the wiki rules. If you are worried this \"mad with power\" stuff is gonna happen again in the future, simply include a rule about this in the future.\n\nRegardless, I or we have no real authority over map games unless someone actually vandalized or spammed or etc on it. Which by then would fall against jurisdiction of wiki. If you do not like the map game, simply move or create your own (I do recommend it because we need more serious map games) or more\n\nBut if you want I could notify him about concerns of this incident, at that point he'll be aware and be \"more careful\" in the future\n\nDo not come to this specific wiki we are in to tell your concerns or complaints again, please. Talk somewhere else.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-13T09:15:08Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-32499366-20171012214808/@comment-5590986-20171013080208",
+        "touched": "2017-10-13T09:15:08Z"
+      },
+      "2261": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6394,
+        "length": 28,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2261,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6394,
+            "slots": {
+              "main": {
+                "*": "Minnesota was kicked. and ok",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-13T09:57:05Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-32499366-20171012214808/@comment-32499366-20171013095704",
+        "touched": "2017-10-13T09:57:05Z"
+      },
+      "2262": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8703,
+        "length": 27,
+        "ns": 2,
+        "pageid": 2262,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6959,
+            "revid": 8703,
+            "slots": {
+              "main": {
+                "*": "A student in Social Science",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-11-21T20:12:24Z"
+          }
+        ],
+        "title": "User:Batran99",
+        "touched": "2018-11-21T20:12:24Z"
+      },
+      "2263": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6405,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2263,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6405,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-14T21:49:43Z"
+          }
+        ],
+        "title": "File:US GDP 1990 2040.png",
+        "touched": "2017-11-08T00:12:19Z"
+      },
+      "2264": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6408,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2264,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6408,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-15T02:25:39Z"
+          }
+        ],
+        "title": "File:Freelance Jobs US 1990 2040.png",
+        "touched": "2017-11-15T13:58:46Z"
+      },
+      "2265": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6415,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2265,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6415,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-16T00:05:35Z"
+          }
+        ],
+        "title": "File:Global Population Growth.png",
+        "touched": "2018-02-28T00:49:21Z"
+      },
+      "2266": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:TemplateData documentation"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Template documentation pages"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Edit-copy green.svg"
+          }
+        ],
+        "lastrevid": 6425,
+        "length": 13816,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Acanthocarpus (crab)"
+          },
+          {
+            "ns": 0,
+            "title": "Acanthocarpus (plant)"
+          },
+          {
+            "ns": 0,
+            "title": "Acanthocarpus preissii"
+          },
+          {
+            "ns": 0,
+            "title": "Allium moly"
+          },
+          {
+            "ns": 0,
+            "title": "Aphyllanthes"
+          },
+          {
+            "ns": 0,
+            "title": "Garlic chives"
+          },
+          {
+            "ns": 0,
+            "title": "Halictus? savenyei"
+          },
+          {
+            "ns": 0,
+            "title": "Lobatus gigas"
+          },
+          {
+            "ns": 0,
+            "title": "Polygonatum × hybridum"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Automatic taxobox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Automatic taxobox/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Automatic taxobox/doc/new"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hybridbox/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ichnobox/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infraspeciesbox/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Oobox/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Speciesbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Speciesbox/example"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Subspeciesbox/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxonbar"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxonomy/Acanthocarpus (plant)"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxonomy/Mus (Coelomys)"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxonomy/Pinus sect. Trifoliae"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxonomy/Pinus subg. Pinus"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2266,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6425,
+            "slots": {
+              "main": {
+                "*": "{{Documentation subpage}}\n{{Lua|Module:Autotaxobox}}{{clear}}\n{{Automatic_taxobox/doc/nav/boxed}}\n<!-- Please place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[Wikipedia:Wikidata]]) -->\n\nThis template is used to display a taxobox for a species whose parent's taxonomy is stored in the [[Wikipedia:Automated_taxobox_system/taxonomy_templates|taxonomy templates]] of the [[WP:Automated taxobox system|automated taxobox system]]. A requirement is that the name of the species is displayed as a simple binomial (i.e. in the form ''Genus species''). In a few special cases, the name of the species is displayed differently (as for example at ''[[Halictus? savenyei]]''), when [[Template:Automatic taxobox]] is used.\n\nUsing this template effectively requires some familiarity with the automated taxobox system; see the [[WP:Automated taxobox system/intro|introduction to the system]].\n\nThe Speciesbox template does not require or make use of a taxonomy template for the species; it only uses the taxonomy template for the parent taxon, normally the genus.\n\n== Usage ==\nUsage is basically the same as [[Template:Automatic taxobox]] (with one slight variation noted below).\n\nThere are five main cases to consider in using this template:\n* [[#Simple cases|Simple cases]], where the species is not a hybrid so that the × symbol is not present, the genus name is unique and not duplicated between kingdoms, and the species is not the only one in the genus.\n* [[#Hybrid species|Hybrid species names]], where the symbol × is required.\n* [[#Genus names duplicated across kingdoms|Species where the genus name is duplicated between kingdoms]], so the taxonomy for the genus must distinguish between kingdoms (e.g. [[Acanthocarpus (plant)|''Acanthocarpus'' (plant)]] and [[Acanthocarpus (crab)|''Acanthocarpus'' (crab)]]).\n* [[#Monospecific genera|Monospecific genera]], where the species and genus articles are combined, with the article title being the genus name.\n* [[#Parent taxon is not the genus|Parent taxon not the genus]], where the parent taxon must be specified as it cannot be deduced from the binomial.\n\n=== Simple cases ===\nIf the article is about a species whose binomial and genus name are both straightforward (e.g. no rank between the species and its genus, no hybrid symbol, no parenthesized disambiguation in the genus name), then the minimum requirement is to specify the <code>taxon</code> parameter:<ref group=note>If the <code>taxon</code> or <code>genus</code>/<code>species</code> parameters are omitted, the template will try to use the page title as the taxon name. This is deprecated, since it is not self-documenting, so is confusing to editors not familiar with the template, and causes problems if the page is moved.</ref>\n* {{para|taxon|name of the species without any formatting (e.g. Quercus major, Lobatus gigas)}}\n\n:(Alternatively you can use the <code>genus</code> and <code>species</code> parameters separately – this is different from {{tl|Automatic taxobox}}:\n:* {{para|genus|name of the genus without any formatting (e.g. Quercus, Lobatus)}}\n:* {{para|species|specific epithet or name without any formatting (e.g. major, gigas)}}\n:This slightly reduces the processing needed.)\n\nIf necessary, you can also use:\n* {{para|subgenus|link to subgenus}} – deprecated, use {{para|parent}} – [[#Parent taxon is not the genus|see below]]\n* {{para|extinct|yes}} if the species (but not the genus) is extinct (if the genus is extinct, this should be marked in its taxonomy template, so will be picked up automatically); <code>true</code> is also accepted.\n\nIt's not necessary to include {{tl|italic title}} in the article; this will be added automatically by the Speciesbox template if needed.\n\nFor more complicated cases, see the other sections below.\n\n==== Simple examples ====\n* Page at the binomial name; displayed taxobox to have the binomial name as its title, e.g. ''[[Lobatus gigas]]''.\n\n:<code><nowiki>{{Speciesbox</nowiki>\n:| taxon = Lobatus gigas</code>\n:<code>| authority = (Linnaeus, 1758)</code> ''--optional; this is the binomial authority''\n:<code>...</code> ''--other optional parameters, e.g. for an image''\n:<code><nowiki>}}</nowiki></code>\n\n* Page at the binomial name; displayed taxobox to have the common name as its title, e.g. ''[[Allium moly]]''.\n\n:<code><nowiki>{{Speciesbox</nowiki>\n:| name = Golden garlic</code> ''--required if title of taxobox ≠ taxon name''\n:<code>| taxon = Allium moly</code>\n:<code>| authority = L.</code> ''--optional; this is the binomial authority''\n:<code>...</code> ''--other optional parameters, e.g. for an image''\n:<code><nowiki>}}</nowiki></code>\n\n* Page at the common name; displayed taxobox to have the same common name as its title, e.g. [[Garlic chives]].\n\n:<code><nowiki>{{Speciesbox</nowiki>\n:| name = Garlic chives</code> ''--optional''\n:<code>| taxon = Allium tuberosum</code> ''--essential''\n:<code>...</code> ''--other optional parameters, e.g. for an image''\n:<code><nowiki>}}</nowiki></code>\n\n=== Hybrid species ===\nCare is needed to obtain the correct italicization of hybrid species names in the displayed taxobox since the hybrid sign, ×, should not be italicized, whereas the rest of the binomial should be. The example below shows one way of achieving the desired effect. Assume that the name of the article is \"Polygonatum × hybridum\", which should display as the title \"[[Polygonatum × hybridum|''Polygonatum'' × ''hybridum'']]\".\n\n:<code><nowiki>{{DISPLAYTITLE:''Polygonatum'' × ''hybridum''}}</nowiki>\n:<nowiki>{{Speciesbox</nowiki>\n:| taxon   = Polygonatum <nowiki>{{hybrid}}</nowiki> hybridum\n:| ...\n:}}</code>\n\nNotes:\n* Use <code><nowiki>{{hybrid}}</nowiki></code> rather than the × character in the value of the <code><nowiki>taxon</nowiki></code> parameter; this ensures that it will not be italicized in the displayed taxobox.\n* In the article body, you can either use <code><nowiki>''Polygonatum'' × ''hybridum''</nowiki></code> or <code><nowiki>''Polygonatum {{hybrid}} hybridum''</nowiki></tt> to obtain the correct italicization.\n\n=== Genus names duplicated across kingdoms ===\nA special case is where the name of the genus is duplicated in different kingdoms, e.g. ''Acanthocarpus'', which is used for a plant and a crab. The taxonomy template for the plant has to be at [[Template:Taxonomy/Acanthocarpus (plant)]] to allow there to be a separate page at \"Template:Taxonomy/Acanthocarpus (crab)\". Consider the page ''[[Acanthocarpus preissii]]''. The taxobox has to be set up in this way:\n\n:<tt><nowiki>{{Speciesbox</nowiki>\n:| genus   = Acanthocarpus (plant)\n:| species = preissii\n:| ...\n:}}</tt>\n\nThe corresponding taxonomy template for the genus, [[:Template:Taxonomy/Acanthocarpus (plant)]], contains the line:\n\n:<tt>| link  = Acanthocarpus (plant)|Acanthocarpus</tt>\n\nto ensure that wikilinks are to \"Acanthocarpus (plant)\" whereas the displayed genus name is \"''Acanthocarpus''\".\n\nNote that this approach is ''only'' necessary when the disambiguation is needed because genus names are duplicated across kingdoms.<!--Need an example here? Previously used Liriope muscari, but now that there's a jellyfish genus with this name it doesn't work-->\n\n=== Monospecific genera ===\nAnother special case is where the article is about a genus with only one species. The article will be at the genus name, but the final taxon to be displayed in the taxobox should be the species. An example is ''[[Aphyllanthes]]'', with the sole species ''Aphyllanthes monspeliensis''.\n\n:<tt><nowiki>{{Speciesbox</nowiki>\n:|taxon = Aphyllanthes monspeliensis\n:|parent_authority = L. </tt>''--authority for genus''<tt>\n:|authority = L. </tt>''--authority for binomial (i.e. the species)''<tt>\n:|... </tt>''--other optional parameters''<tt>\n:}}</tt>\n\nThe use of the Speciesbox template with the <tt>taxon</tt> parameter set to the species name ensures that the taxobox ends with the binomial name even though the page title is the genus name. The mediawiki software automatically replaces the generated wikilink <nowiki>[[Aphyllanthes]]</nowiki> by bold text since it goes to the same page. In this case we want to display the authority for both the species and the genus, since there is no other article. The parameters <tt>parent_authority</tt>, <tt>grandparent_authority</tt>, etc. are the way to display authorities up the classification hierarchy.\n\n===Parent taxon is not the genus===\nBy default, the Speciesbox template uses the genus name as the name of the parent taxon. If this is not the case, because the parent taxon is at a rank between the species and its genus, such as subgenus or botanical section, then use:\n*{{para|parent|''parent_taxon''}}\n\n\"Template:Taxonomy/''parent_taxon''\" must then exist. Conventions for the name of a taxonomy template at a rank between species and genus include:\n*\"Template:Taxonomy/''Genus'' (''Subgenus'')\" for a zoological subgenus, e.g. [[Template:Taxonomy/Mus (Coelomys)]]\n*\"Template:Taxonomy/''Genus'' subg. ''Subgenus''\" for a botanical subgenus, e.g. [[Template:Taxonomy/Pinus subg. Pinus]]\n*\"Template:Taxonomy/''Genus'' sect. ''Section''\" for a botanical section, e.g. [[Template:Taxonomy/Pinus sect. Trifoliae]]\n\nThus if a zoological subgenus is to be shown, then the taxobox is set up in this way:\n\n:<code><nowiki>{{Speciesbox</nowiki>\n:| name = House mouse\n:| parent = Mus (Mus)\n:| taxon = Mus musculus\n:| ...\n:}}</code>\n\n== Italicizing the article title ==\nThe template can normally determine whether the page title matches the species or the genus in the taxobox, and if so outputs {{tl|italic title}}, so usually it is not necessary to add this template. In a very few cases the automatic italicization will be wrong (e.g. if the article is at the English name and this is the same as the genus name). Automatic italicization can be over-ridden by setting {{para|italic_title|no}}.\n\n== Requirement for correct display ==\nThe template will generate a taxobox which will display correctly only if the taxonomy for the genus (or {{para|parent}}) has already been created (i.e. \"Template:Taxonomy/''genusname''\" or \"Template:Taxonomy/''parent''\" already exists). If it does not, you will be asked to create it. One way is to look for the \"fix\" link and open it.\n\n== See also ==\n* An example: [[Template:Speciesbox/example]]\n* [[Template:Taxonbar]]\n\n==Notes==\n{{reflist|group=note}}\n\n==Template Data==\n{{TemplateDataHeader}}\n<templatedata>\n{\n\t\"params\": {\n\t\t\"taxon\": {\n\t\t\t\"type\": \"string\",\n\t\t\t\"suggested\": true\n\t\t},\n\t\t\"authority\": {\n\t\t\t\"type\": \"string\",\n\t\t\t\"suggested\": true\n\t\t},\n\t\t\"genus\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"species\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"subgenus\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"parent\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"extinct\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"name\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"parent_authority\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"image\": {\n\t\t\t\"type\": \"wiki-file-name\",\n\t\t\t\"suggested\": true\n\t\t},\n\t\t\"image_caption\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"status\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"status_system\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"status_ref\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"fossil_range\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"image_width\": {\n\t\t\t\"deprecated\": \"Use image_upright\",\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"synonyms_ref\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"synonyms\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"display_parents\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"range_map\": {\n\t\t\t\"type\": \"wiki-file-name\"\n\t\t},\n\t\t\"image2\": {\n\t\t\t\"type\": \"wiki-file-name\"\n\t\t},\n\t\t\"range_map_caption\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"image2_caption\": {},\n\t\t\"subdivision_ranks\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"subdivision\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"status2\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"status2_ref\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"status2_system\": {},\n\t\t\"image_upright\": {\n\t\t\t\"type\": \"number\"\n\t\t},\n\t\t\"grandparent_authority\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"image_alt\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"range_map_upright\": {\n\t\t\t\"type\": \"number\"\n\t\t},\n\t\t\"range_map_alt\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"greatgrandparent_authority\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"range_map_width\": {\n\t\t\t\"type\": \"string\",\n\t\t\t\"deprecated\": \"Use range_map_upright\"\n\t\t},\n\t\t\"range_map2\": {\n\t\t\t\"type\": \"wiki-file-name\"\n\t\t},\n\t\t\"range_map2_caption\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"range_map2_alt\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"range_map2_width\": {\n\t\t\t\"type\": \"string\",\n\t\t\t\"deprecated\": \"Use range_map2_upright\"\n\t\t},\n\t\t\"range_map2_upright\": {\n\t\t\t\"type\": \"number\"\n\t\t},\n\t\t\"image2_alt\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"image2_upright\": {\n\t\t\t\"type\": \"number\"\n\t\t},\n\t\t\"image2_width\": {\n\t\t\t\"type\": \"string\",\n\t\t\t\"deprecated\": \"Use image2_upright\"\n\t\t},\n\t\t\"classification_status\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t\t\"color_as\": {\n\t\t\t\"type\": \"string\"\n\t\t},\n\t},\n\t\"description\": \"An infobox for species of organisms where {{tl|Automatic taxobox}} is used at the genus and higher ranks\",\n\t\"paramOrder\": [\n\t\t\"color_as\",\n\t\t\"name\",\n\t\t\"taxon\",\n\t\t\"authority\",\n\t\t\"parent\",\n\t\t\"fossil_range\",\n\t\t\"image\",\n\t\t\"image_width\",\n\t\t\"image_upright\",\n\t\t\"image_alt\",\n\t\t\"image_caption\",\n\t\t\"image2\",\n\t\t\"image2_width\",\n\t\t\"image2_upright\",\n\t\t\"image2_alt\",\n\t\t\"image2_caption\",\n\t\t\"status\",\n\t\t\"status_system\",\n\t\t\"status_ref\",\n\t\t\"status2\",\n\t\t\"status2_system\",\n\t\t\"status2_ref\",\n\t\t\"extinct\",\n\t\t\"classification_status\",\n\t\t\"greatgrandparent_authority\",\n\t\t\"grandparent_authority\",\n\t\t\"parent_authority\",\n\t\t\"display_parents\",\n\t\t\"genus\",\n\t\t\"subgenus\",\n\t\t\"species\",\n\t\t\"subdivision_ranks\",\n\t\t\"subdivision\",\n\t\t\"range_map\",\n\t\t\"range_map_width\",\n\t\t\"range_map_upright\",\n\t\t\"range_map_alt\",\n\t\t\"range_map_caption\",\n\t\t\"range_map2\",\n\t\t\"range_map2_width\",\n\t\t\"range_map2_upright\",\n\t\t\"range_map2_alt\",\n\t\t\"range_map2_caption\",\n\t\t\"synonyms\",\n\t\t\"synonyms_ref\"\n\t]\n}\n</templatedata>\n\n<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox | |\n<!-- Categories below this line, please; interwikis at Wikidata -->\n[[Category:Taxobox templates]]\n}}</includeonly>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-17T16:28:18Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Automatic taxobox/doc/nav/boxed"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Autotaxobox system nav"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Clear"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation subpage"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Lua"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Mbox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Namespace detect"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ombox/core"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Para"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Reflist"
+          },
+          {
+            "ns": 10,
+            "title": "Template:TemplateDataHeader"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Tl"
+          },
+          {
+            "ns": 828,
+            "title": "Module:List"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Lua banner"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Message box"
+          },
+          {
+            "ns": 828,
+            "title": "Module:No globals"
+          },
+          {
+            "ns": 828,
+            "title": "Module:TableTools"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Yesno"
+          }
+        ],
+        "title": "Template:Speciesbox/doc",
+        "touched": "2017-10-17T16:44:06Z"
+      },
+      "2267": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6426,
+        "length": 120,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Autotaxobox system nav"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2267,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6426,
+            "slots": {
+              "main": {
+                "*": "<div style=\"float:right; width:300px; max-width:350px; margin-left: 2em;\" class=\"toc\">\n{{Autotaxobox system nav}}\n</div>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-17T16:29:14Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Autotaxobox system nav"
+          }
+        ],
+        "title": "Template:Automatic taxobox/doc/nav/boxed",
+        "touched": "2017-10-17T16:30:51Z"
+      },
+      "2268": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6427,
+        "length": 1635,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Automatic taxobox/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Automatic taxobox/doc/new"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Hybridbox/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ichnobox/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infraspeciesbox/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Oobox/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Speciesbox/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Subspeciesbox/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2268,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6427,
+            "slots": {
+              "main": {
+                "*": "<!-- Any text contained within {{{|these symbols}}} will be displayed on the main page, but not in the navigation boxes.-->\n'''<big>Automated taxobox system</big>'''\n* [[WP:Automated taxobox system/intro|Introduction]]\n* [[WP:Automated taxobox system/intro#benefits|Why use the system?]]\n* [[WP:Automated taxobox system/method|Making it work]]\n* [[WP:Automated taxobox system/technical|More technical details]]\n* [[WP:Automated taxobox system/map|Map of all called templates]]\n\n'''<big>Taxonomy templates</big>'''\n* [[WP:Automated taxobox system/taxonomy templates|Introduction to taxonomy templates]]\n* [[WP:Automated taxobox system/advanced taxonomy|Advanced features of taxonomy templates]]\n\n'''<big>Taxobox templates</big>'''\n* [[WP:Automated taxobox system/which|Which should be used?]]\n* [[WP:Automated taxobox system/display|Changing the taxa displayed]]\n* [[WP:Automated taxobox system/convert|Convert a taxobox to an automated taxobox]]\n* [[WP:Automated taxobox system/all parameters|Glossary of automated taxobox parameters]]\n* [[Template:Automatic taxobox/doc|'''Automatic taxobox''']] – mainly for genera and higher taxa\n** [[Template:Automatic taxobox/doc/new|Details]]\n* [[Template:Speciesbox/doc|'''Speciesbox''']] – for a species\n* [[Template:Subspeciesbox/doc|'''Subspeciesbox''']] – for an animal subspecies\n* [[Template:Infraspeciesbox/doc|'''Infraspeciesbox''']] – for a plant subspecies or variety\n* [[Template:Hybridbox/doc|'''Hybridbox''']] – for an animal hybrid within a genus\n* [[Template:Ichnobox/doc|'''Ichnobox''']] – for a trace fossil\n* [[Template:Oobox/doc|'''Oobox''']] – for a fossil egg",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-17T16:29:44Z"
+          }
+        ],
+        "title": "Template:Autotaxobox system nav",
+        "touched": "2017-10-17T16:29:44Z"
+      },
+      "2269": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6428,
+        "length": 799,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxobox colour/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2269,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6428,
+            "slots": {
+              "main": {
+                "*": "<includeonly>{{#switch:{{Delink|{{lc:{{{1|}}} }} }}\n|eukaryota|eukarya = rgb(245,215,255)\n|animalia|animal = rgb(235,235,210)\n|archaeplastida|plantae|plant|viridiplantae = rgb(180,250,180)\n|fungi = rgb(145,250,250)\n|sar|chromalveolata = rgb(200,250,80)\n|opisthokonta|choanozoa = rgb(240,240,120)\n|excavata|excavates|protista|protists = rgb(250,250,100)\n|amoebozoa = rgb(170,250,205)\n|bacteria|firmicutes|eubacteria = rgb(220,235,245)\n|archaea|nanoarchaeota|nanarchaeota|euryarchaeota|crenarchaeota|thaumarchaeota|korarchaeota = rgb(195,245,250)\n|incertae sedis|''incertae sedis''|acritarcha = rgb(250,240,230)\n|virus|viruses|i|ii|iii|iv|v|vi|vii|viii|viroid|viroids = rgb(250,250,190)\n|=transparent\n|#default = {{Taxobox/Error colour}}<!--\n-->}}</includeonly><noinclude>\n{{template doc}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-17T16:33:19Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxobox colour/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Template doc"
+          }
+        ],
+        "title": "Template:Taxobox colour",
+        "touched": "2017-10-17T16:33:19Z"
+      },
+      "2270": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6429,
+        "length": 462,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxobox/Error colour/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2270,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6429,
+            "slots": {
+              "main": {
+                "*": "<includeonly>transparent; text-align:center; border: 2px solid red; error:colour</includeonly><noinclude><!--\n-- The caller template must check invalid\n-- {{{colour}}} value to link [[Category:Taxoboxes with an invalid color]] because\n-- a [[wp:wikitable]] column format cannot contain a wikilinked page or category,\n-- as of September 2016.\n--\n-- See check of {{{colour}}} in template {Taxobox/core}.\n-->{{documentation|Template:Taxobox colour/doc}}</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-17T16:34:20Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Taxobox/Error colour/doc"
+          }
+        ],
+        "title": "Template:Taxobox/Error colour",
+        "touched": "2017-10-17T16:34:20Z"
+      },
+      "2271": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Emblem of the Kuomintang.svg"
+          }
+        ],
+        "lastrevid": 6432,
+        "length": 84,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo/doc"
+          }
+        ],
+        "ns": 10,
+        "pageid": 2271,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6430,
+            "revid": 6432,
+            "slots": {
+              "main": {
+                "*": "[[File:Emblem_of_the_Kuomintang.svg|25px]]<noinclude>\n{{documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-17T16:36:38Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo/doc"
+          }
+        ],
+        "title": "Template:KMT/logo",
+        "touched": "2017-12-13T19:03:01Z"
+      },
+      "2272": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6431,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2272,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6431,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-17T16:36:33Z"
+          }
+        ],
+        "title": "File:Emblem of the Kuomintang.svg",
+        "touched": "2017-11-10T16:33:57Z"
+      },
+      "2274": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Green Taiwan in White Cross.png"
+          }
+        ],
+        "lastrevid": 6437,
+        "length": 135,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "ns": 10,
+        "pageid": 2274,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6435,
+            "revid": 6437,
+            "slots": {
+              "main": {
+                "*": "<noinclude>{{pp-template|small=yes}}</noinclude>[[File:Green_Taiwan_in_White_Cross.png|20px]]<noinclude>\n{{documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-17T16:42:49Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Pp-template"
+          },
+          {
+            "ns": 828,
+            "title": "Module:File link"
+          },
+          {
+            "ns": 828,
+            "title": "Module:No globals"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Protection banner"
+          }
+        ],
+        "title": "Template:DPP/logo",
+        "touched": "2017-12-13T19:03:15Z"
+      },
+      "2275": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6436,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2275,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6436,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-17T16:42:43Z"
+          }
+        ],
+        "title": "File:Green Taiwan in White Cross.png",
+        "touched": "2017-11-10T16:34:02Z"
+      },
+      "2276": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6438,
+        "length": 222,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ISO 639 name/doc"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2276,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6438,
+            "slots": {
+              "main": {
+                "*": "{{SAFESUBST:<noinclude />#if:{{{1|}}}|{{SAFESUBST:<noinclude />#ifexist:Template:ISO 639 name {{{1}}}|{{SAFESUBST:<noinclude />ISO 639 name {{{1}}}}}}}|{{ISO 639 name undefined}}}}<noinclude>\n{{Documentation}}\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-17T16:44:50Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Error"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ISO 639 name/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ISO 639 name undefined"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Error"
+          }
+        ],
+        "title": "Template:ISO 639 name",
+        "touched": "2017-10-17T16:46:43Z"
+      },
+      "2277": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6440,
+        "length": 118,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ISO 639 name undefined/doc"
+          }
+        ],
+        "ns": 10,
+        "pageid": 2277,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6439,
+            "revid": 6440,
+            "slots": {
+              "main": {
+                "*": "{{Error|Template requires an [[Wikipedia:ISO 639|ISO 639]] language code}}<noinclude>\n\n{{Documentation}}\n\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-17T16:46:43Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Error"
+          },
+          {
+            "ns": 10,
+            "title": "Template:ISO 639 name undefined/doc"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Error"
+          }
+        ],
+        "title": "Template:ISO 639 name undefined",
+        "touched": "2017-10-17T16:46:43Z"
+      },
+      "2278": {
+        "contentmodel": "wikitext",
+        "lastrevid": 6449,
+        "length": 0,
+        "ns": 6,
+        "pageid": 2278,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6448,
+            "revid": 6449,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-10-17T23:24:56Z"
+          }
+        ],
+        "title": "File:Community-header-background",
+        "touched": "2017-11-10T19:51:11Z"
+      },
+      "2279": {
+        "contentmodel": "Scribunto",
+        "lastrevid": 6457,
+        "length": 6810,
+        "links": [
+          {
+            "ns": 828,
+            "title": "Module:Portal"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/a"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/aliases"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/b"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/c"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/d"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/f"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/g"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/h"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/i"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/j"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/k"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/l"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/m"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/n"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/o"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/other"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/p"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/q"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/r"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/s"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/t"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/u"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/v"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/w"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/x"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/y"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/z"
+          }
+        ],
+        "new": "",
+        "ns": 828,
+        "pageid": 2279,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6457,
+            "slots": {
+              "main": {
+                "*": "--[==[ This is the \"E\" list of portal image names. It contains a list of portal images for use with [[Module:Portal]]\n-- for portal names that start with the letter \"E\". For aliases to existing portal names, and for portal names that\n-- start with other letters, please use the appropriate page from the following list:\n \n-- [[Module:Portal/images/a]]       - for portal names beginning with \"A\".\n-- [[Module:Portal/images/b]]       - for portal names beginning with \"B\".\n-- [[Module:Portal/images/c]]       - for portal names beginning with \"C\".\n-- [[Module:Portal/images/d]]       - for portal names beginning with \"D\".\n-- [[Module:Portal/images/f]]       - for portal names beginning with \"F\".\n-- [[Module:Portal/images/g]]       - for portal names beginning with \"G\".\n-- [[Module:Portal/images/h]]       - for portal names beginning with \"H\".\n-- [[Module:Portal/images/i]]       - for portal names beginning with \"I\".\n-- [[Module:Portal/images/j]]       - for portal names beginning with \"J\".\n-- [[Module:Portal/images/k]]       - for portal names beginning with \"K\".\n-- [[Module:Portal/images/l]]       - for portal names beginning with \"L\".\n-- [[Module:Portal/images/m]]       - for portal names beginning with \"M\".\n-- [[Module:Portal/images/n]]       - for portal names beginning with \"N\".\n-- [[Module:Portal/images/o]]       - for portal names beginning with \"O\".\n-- [[Module:Portal/images/p]]       - for portal names beginning with \"P\".\n-- [[Module:Portal/images/q]]       - for portal names beginning with \"Q\".\n-- [[Module:Portal/images/r]]       - for portal names beginning with \"R\".\n-- [[Module:Portal/images/s]]       - for portal names beginning with \"S\".\n-- [[Module:Portal/images/t]]       - for portal names beginning with \"T\".\n-- [[Module:Portal/images/u]]       - for portal names beginning with \"U\".\n-- [[Module:Portal/images/v]]       - for portal names beginning with \"V\".\n-- [[Module:Portal/images/w]]       - for portal names beginning with \"W\".\n-- [[Module:Portal/images/x]]       - for portal names beginning with \"X\".\n-- [[Module:Portal/images/y]]       - for portal names beginning with \"Y\".\n-- [[Module:Portal/images/z]]       - for portal names beginning with \"Z\".\n-- [[Module:Portal/images/other]]   - for portal names beginning with any other letters. This includes numbers,\n--                                    letters with diacritics, and letters in non-Latin alphabets.\n-- [[Module:Portal/images/aliases]] - for adding aliases for existing portal names. Use this page for variations\n--                                    in spelling and diacritics, etc., no matter what letter the portal begins with.\n \n-- When adding entries, please use alphabetical order. The format of the images table entries is as follows:\n--          [\"portal name\"] = \"image.svg\",\n-- The portal name should be the name of your portal, in lower case. For example, the portal name for \n-- \"Portal:United Kingdom\" would be \"united kingdom\". The image name should be capitalised normally, and the \"File:\"\n-- namespace prefix should be omitted.\n]==]\n\nreturn {\n\t[\"early modern britain\"] = \"Union flag 1606 (Kings Colors).svg|border|link=|alt=flag\",\n\t[\"earth\"] = \"The Earth seen from Apollo 17 with transparent background.png|link=|alt=\",\n\t[\"earth sciences\"] = \"The Earth seen from Apollo 17 with transparent background.png|link=|alt=\",\n\t[\"earthquakes\"] = \"Good Friday Earthquake at Turnagain Arm.jpg|link=|alt=image\",\n\t[\"east asia\"] = \"East Asia Cutout Projection.png|border|link=|alt=map\",\n\t[\"east carolina university\"] = \"East Carolina Pirates wordmark.svg|link=|alt=wordmark\",\n\t[\"east frisia\"] = \"Ostfriesland CoA.svg|link=|alt=\",\n\t[\"east germany\"] = \"Flag of East Germany.svg|border|link=|alt=flag\",\n\t[\"east midlands england\"] = \"EnglandEastMidlands.png|alt=icon\",\n\t[\"east sussex\"] = \"E Sussex arms.png|link=|alt=\",\n\t[\"east timor\"] = \"Flag of East Timor.svg|border|link=|alt=flag\",\n\t[\"eastenders\"] = \"EastEnders Television.png|alt=icon\",\n\t[\"eastern christianity\"] = \"USVA headstone emb-05.svg|link=|alt=\",\n\t[\"eastern europe\"] = \"Eastern Europe (Robinson projection).png|border|link=|alt=map\",\n\t[\"eastern ontario\"] = \"EasternOntario.png|link=|alt=\",\n\t[\"ecology\"] = \"Earth Day Flag.png|border|link=|alt=icon\",\n\t[\"ecuador\"] = \"Flag of Ecuador.svg|border|link=|alt=flag\",\n\t[\"ed, edd n eddy\"] = \"Ed, Edd n Eddy logo.png|link=|alt=\",\n\t[\"edmonton\"] = \"Edmonton Downtown Skyline daytime new.jpg|alt=icon\",\n\t[\"education\"] = \"Nuvola apps bookcase.svg|alt=icon\",\n\t[\"education in canada\"] = \"School.svg|link=|alt=\",\n\t[\"education in india\"] = \"Nalanda University India ruins.jpg|link=|alt=photo\",\n\t[\"education in pakistan\"] = \"Flag of Pakistan.svg|border|link=|alt=flag\",\n\t[\"egypt\"] = \"Flag of Egypt.svg|border|link=|alt=flag\",\n\t[\"el salvador\"] = \"Flag of El Salvador.svg|border|link=|alt=flag\",\n\t[\"elbe sandstone mountains\"] = \"Lilienstein herbstabend.jpeg|alt=icon\",\n\t[\"electoral districts in canada\"] = \"Canpoligeoicon.png|link=|alt=\",\n\t[\"electromagnetism\"] = \"Elektromagnetische Induktion.svg|link=|alt=diagram\",\n\t[\"electronic music\"] = \"Maplin 5600.jpg|link=|alt=\",\n\t[\"electronics\"] = \"Nuvola apps ksim.png|alt=icon\",\n\t[\"elvis presley\"] = \"YoungElvisPresley.jpg|link=|alt=\",\n\t[\"eminem\"] = \"Elogo.svg|alt=icon\",\n\t[\"emo\"] = \"Emosmile.png|alt=icon\",\n\t[\"energy\"] = \"Crystal energy.svg|alt=icon\",\n\t[\"engineering\"] = \"Nuvola apps kcmsystem.svg|alt=icon\",\n\t[\"england\"] = \"Flag of England.svg|border|link=|alt=flag\",\n\t[\"english football\"] = \"Soccerball England.svg|link=|alt=\",\n\t[\"english language\"] = \"Shakespeare2.jpg|link=|alt=painting\",\n\t[\"entomology\"] = \"Orapia rayneri.svg|link=|alt=image\",\n\t[\"environment\"] = \"Aegopodium podagraria1 ies.jpg|alt=icon\",\n\t[\"equatorial guinea\"] = \"Flag of Equatorial Guinea.svg|border|link=|alt=flag\",\n\t[\"erie\"] = \"Flag of Erie, Pennsylvania.svg|border|link=|alt=flag\",\n\t[\"eritrea\"] = \"Flag of Eritrea.svg|border|link=|alt=flag\",\n\t[\"esperanto\"] = \"Flag of Esperanto.svg|border|link=|alt=icon\",\n\t[\"estonia\"] = \"Flag of Estonia.svg|border|link=|alt=flag\",\n\t[\"estrie\"] = \"Abbey St-Benoît-du-lac.jpg|alt=icon\",\n\t[\"ethics\"] = \"Conscience and law.jpg|link=|alt=\",\n\t[\"ethiopia\"] = \"Flag of Ethiopia.svg|border|link=|alt=flag\",\n\t[\"europe\"] = \"Europe green light.png|link=|alt=\",\n\t[\"european space agency\"] = \"ESA logo simple.svg|link=|alt=\",\n\t[\"european union\"] = \"Flag of Europe.svg|border|link=|alt=flag\",\n\t[\"european union/member states\"] = \"Obiekt zabytkowy.svg|link=|alt=\",\n\t[\"eurovision\"] = \"Wiki Eurovision Heart.svg|alt=icon\",\n\t[\"evanescence\"] = \"EV-In.svg|alt=icon\",\n\t[\"evangelical christianity\"] = \"Ichthys.svg|link=|alt=\",\n\t[\"evangelion\"] = \"Tree of life kircher plain.png|link=|alt=\",\n\t[\"evolutionary biology\"] = \"Tree of life.svg|alt=icon\",\n\t[\"extinct and endangered species\"] = \"ExtinctDodoBird.jpeg|link=|alt=\",\n\t[\"extraterrestrial\"] = \"Galaxy blue.jpg|link=|alt=photo\"\n}",
+                "contentformat": "text/plain",
+                "contentmodel": "Scribunto"
+              }
+            },
+            "timestamp": "2017-10-18T00:01:13Z"
+          }
+        ],
+        "title": "Module:Portal/images/e",
+        "touched": "2017-10-18T00:02:19Z"
+      },
+      "2280": {
+        "contentmodel": "Scribunto",
+        "lastrevid": 6458,
+        "length": 7989,
+        "links": [
+          {
+            "ns": 828,
+            "title": "Module:Portal"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/a"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/aliases"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/b"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/c"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/d"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/e"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/f"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/g"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/h"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/i"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/j"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/k"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/l"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/m"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/n"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/o"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/other"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/q"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/r"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/s"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/t"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/u"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/v"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/w"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/x"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/y"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/z"
+          }
+        ],
+        "new": "",
+        "ns": 828,
+        "pageid": 2280,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6458,
+            "slots": {
+              "main": {
+                "*": "--[==[ This is the \"P\" list of portal image names. It contains a list of portal images for use with [[Module:Portal]]\n-- for portal names that start with the letter \"P\". For aliases to existing portal names, and for portal names that\n-- start with other letters, please use the appropriate page from the following list:\n \n-- [[Module:Portal/images/a]]       - for portal names beginning with \"A\".\n-- [[Module:Portal/images/b]]       - for portal names beginning with \"B\".\n-- [[Module:Portal/images/c]]       - for portal names beginning with \"C\".\n-- [[Module:Portal/images/d]]       - for portal names beginning with \"D\".\n-- [[Module:Portal/images/e]]       - for portal names beginning with \"E\".\n-- [[Module:Portal/images/f]]       - for portal names beginning with \"F\".\n-- [[Module:Portal/images/g]]       - for portal names beginning with \"G\".\n-- [[Module:Portal/images/h]]       - for portal names beginning with \"H\".\n-- [[Module:Portal/images/i]]       - for portal names beginning with \"I\".\n-- [[Module:Portal/images/j]]       - for portal names beginning with \"J\".\n-- [[Module:Portal/images/k]]       - for portal names beginning with \"K\".\n-- [[Module:Portal/images/l]]       - for portal names beginning with \"L\".\n-- [[Module:Portal/images/m]]       - for portal names beginning with \"M\".\n-- [[Module:Portal/images/n]]       - for portal names beginning with \"N\".\n-- [[Module:Portal/images/o]]       - for portal names beginning with \"O\".\n-- [[Module:Portal/images/q]]       - for portal names beginning with \"Q\".\n-- [[Module:Portal/images/r]]       - for portal names beginning with \"R\".\n-- [[Module:Portal/images/s]]       - for portal names beginning with \"S\".\n-- [[Module:Portal/images/t]]       - for portal names beginning with \"T\".\n-- [[Module:Portal/images/u]]       - for portal names beginning with \"U\".\n-- [[Module:Portal/images/v]]       - for portal names beginning with \"V\".\n-- [[Module:Portal/images/w]]       - for portal names beginning with \"W\".\n-- [[Module:Portal/images/x]]       - for portal names beginning with \"X\".\n-- [[Module:Portal/images/y]]       - for portal names beginning with \"Y\".\n-- [[Module:Portal/images/z]]       - for portal names beginning with \"Z\".\n-- [[Module:Portal/images/other]]   - for portal names beginning with any other letters. This includes numbers,\n--                                    letters with diacritics, and letters in non-Latin alphabets.\n-- [[Module:Portal/images/aliases]] - for adding aliases for existing portal names. Use this page for variations\n--                                    in spelling and diacritics, etc., no matter what letter the portal begins with.\n \n-- When adding entries, please use alphabetical order. The format of the images table entries is as follows:\n--          [\"portal name\"] = \"image.svg\",\n-- The portal name should be the name of your portal, in lower case. For example, the portal name for \n-- \"Portal:United Kingdom\" would be \"united kingdom\". The image name should be capitalised normally, and the \"File:\"\n-- namespace prefix should be omitted.\n]==]\n \nreturn {\n\t[\"pakistan\"] = \"Flag of Pakistan.svg|border|link=|alt=flag\",\n\t[\"pakistan super league\"] = \"PSL.svg|link=|alt=\",\n\t[\"palaeontology\"] = \"Allosaurus Jardin des Plantes.png|link=|alt=icon\",\n\t[\"palau\"] = \"Flag of Palau.svg|border|link=|alt=flag\",\n\t[\"paleontology\"] = \"Allosaurus Jardin des Plantes.png|link=|alt=icon\",\n\t[\"palestine\"] = \"Flag of Palestine.svg|border|link=|alt=flag\",\n\t[\"panama\"] = \"Flag of Panama.svg|border|link=|alt=flag\",\n\t[\"papua new guinea\"] = \"Flag of Papua New Guinea.svg|border|link=|alt=flag\",\n\t[\"paraguay\"] = \"Flag of Paraguay.svg|border|link=|alt=flag\",\n\t[\"paralympics\"] = \"IPC logo (2004).svg|link=|alt=\",\n\t[\"paris\"] = \"Eiffel tower.svg|link=|alt=\",\n\t[\"parliamentary procedure\"] = \"Gavel.png|link=|alt=\",\n\t[\"patna\"] = \"Golghar, Patna, 1888.jpg|link=|alt=\",\n\t[\"peerage and baronetage\"] = \"General Sir Bernard Montgomery in England, 1943 TR1036.jpg|link=|alt=photo\",\n\t[\"pennsylvania\"] = \"Flag of Pennsylvania.svg|border|link=|alt=flag\",\n\t[\"pennsylvania state university\"] = \"Penn State Athletics wordmark.svg|link=|alt=wordmark\",\n\t[\"people's republic of china\"] = \"Flag of the People's Republic of China.svg|border|link=|alt=flag\",\n\t[\"percussion\"] = \"Bendir.jpg|alt=icon\",\n\t[\"perth\"] = \"Perth COA.jpg|alt=icon\",\n\t[\"peru\"] = \"Flag of Peru.svg|border|link=|alt=flag\",\n\t[\"pervasive developmental disorders\"] = \"Autism-stacking-cans 2nd edit.jpg|alt=icon\",\n\t[\"pharmacy and pharmacology\"] = \"Tabletten.JPG|alt=icon\",\n\t[\"philadelphia\"] = \"Libertybell alone small.jpg|link=|alt=\",\n\t[\"philately\"] = \"Stamp UK Penny Red pl148.jpg|link=|alt=\",\n\t[\"philippines\"] = \"Flag of the Philippines.svg|border|link=|alt=flag\",\n\t[\"philosophers\"] = \"Ibn rushd.jpg|link=|alt=image\",\n\t[\"philosophy\"] = \"Socrates.png|link=|alt=\",\n\t[\"philosophy of science\"] = \"P philosophy.png|alt=icon\",\n\t[\"photography\"] = \"Large format camera lens.png|link=|alt=\",\n\t[\"physical chemistry\"] = \"Nuvola apps edu science.svg|alt=icon\",\n\t[\"physical science\"] = \"Kepler-first-law.svg|link=|alt=diagram\",\n\t[\"physics\"] = \"Stylised Lithium Atom.svg|alt=icon\",\n\t[\"piano\"] = \"Bechstein Schriftzug.jpg|alt=icon\",\n\t[\"pichilemu\"] = \"Coat of arms of Pichilemu.svg|link=|alt=\",\n\t[\"pink floyd\"] = \"Dispersion prism.jpg|link=|alt=\",\n\t[\"pipe organ\"] = \"Ittenheim StGall32.JPG|alt=icon\",\n\t[\"piracy\"] = \"Skull and crossbones.svg|link=|alt=\",\n\t[\"pittsburgh\"] = \"Pittsburgh city coat of arms.svg|link=|alt=\",\n\t[\"plants\"] = \"Rose Amber Flush 20070601.jpg|alt=icon\",\n\t[\"poetry\"] = \"Quill and ink.svg|alt=icon\",\n\t[\"pokémon\"] = \"Wikiball.svg|alt=icon\",\n\t[\"poland\"] = \"Flag of Poland.svg|border|link=|alt=flag\",\n\t[\"political science\"] = \"Plato-raphael.jpg|link=|alt=\",\n\t[\"politics\"] = \"A coloured voting box.svg|border|alt=icon\",\n\t[\"politics and government\"] = \"President Barack Obama.jpg|link=|alt=photo\",\n\t[\"polyhedra\"] = \"Small snub icosicosidodecahedron.png|link=|alt=icon\",\n\t[\"polynesia\"] = \"Map OC-Polynesia.PNG|border|link=|alt=map\",\n\t[\"pollution\"] = \"Benxi Steel Industries.jpg|link=|alt=photo\",\n\t[\"pop music\"] = \"Audio-input-microphone.png|alt=icon\",\n\t[\"pope\"] = \"Coat of arms Holy See.svg|link=|alt=\",\n\t[\"pornography\"] = \"Pornproject logo.svg|alt=icon\",\n\t[\"port of spain\"] = \"Internationalfinancecentre.JPG|alt=icon\",\n\t[\"portal\"] = \"PorcheCentralNordCathedraleChartre041130-.jpg|alt=icon\",\n\t[\"portugal\"] = \"Flag of Portugal.svg|border|link=|alt=flag\",\n\t[\"portuguese\"] = \"Grammatica da Lingoagem portuguesa.JPG|link=Portuguese language|alt=icon\",\n\t[\"prague\"] = \"Prague CoA CZ.svg|link=|alt=\",\n\t[\"prehistoric mammals\"] = \"Smilodon Knight.jpg|link=|alt=\",\n\t[\"prescott-russell\"] = \"Map of Ontario PRESCOTT AND RUSSELL.svg|link=|alt=\",\n\t[\"primates\"] = \"Man of the woods.JPG|alt=icon\",\n\t[\"prince edward island\"] = \"Flag of Prince Edward Island.svg|border|link=|alt=flag\",\n\t[\"prisons\"] = \"Prisonbars.svg|border|alt=icon\",\n\t[\"private revelation\"] = \"Tuam Cathedral of the Assumption Sacred Heart Detail 2009 09 14.jpg|alt=icon\",\n\t[\"probability\"] = \"Nuvola apps atlantik.png|link=|alt=icon\",\n\t[\"professional wrestling\"] = \"WWE ring.jpg|alt=icon\",\n\t[\"progressive rock\"] = \"'A' (PSF).png|link=|alt=\",\n\t[\"protected areas of india\"] = \"Nagzira Tiger By Vijay Phulwadhawa.jpg|link=|alt=photo\",\n\t[\"pseudoscience\"] = \"Question opening-closing.svg|link=|alt=icon\",\n\t[\"psychiatry\"] = \"American Lady Against The Sky.jpg|alt=icon\",\n\t[\"psychology\"] = \"Psi2.svg|link=|alt=\",\n\t[\"puducherry\"] = \"Seal of Puducherry (cropped).svg|link=|alt=\",\n\t[\"puerto rico\"] = \"Flag of Puerto Rico.svg|border|link=|alt=flag\",\n\t[\"pune\"] = \"Dagaduseth halwai ganpati temple.jpg|link=|alt=photo\",\n\t[\"punjab\"] = \"Golden Temple (Harmandir Sahib) in Amritsar, India.jpg|border|link=|alt=image\",\n\t[\"punjab, india\"] = \"Emblem-Punjab-Protocol-Manual-page98-appendix12.svg|link=|alt=icon\",\n\t[\"punjab, pakistan\"] = \"Flag of Punjab.svg|border|link=|alt=flag\",\n\t[\"punk rock\"] = \"Crystal Clear app kguitar.png|alt=icon\",\n\t[\"pyrotechnics\"] = \"D-W002 Warnung vor explosionsgefaehrlichen Stoffen ty.svg|link=|alt=\"\n}",
+                "contentformat": "text/plain",
+                "contentmodel": "Scribunto"
+              }
+            },
+            "timestamp": "2017-10-18T00:01:40Z"
+          }
+        ],
+        "title": "Module:Portal/images/p",
+        "touched": "2017-10-18T00:02:19Z"
+      },
+      "2281": {
+        "contentmodel": "Scribunto",
+        "lastrevid": 6459,
+        "length": 3396,
+        "links": [
+          {
+            "ns": 828,
+            "title": "Module:Portal"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/a"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/aliases"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/b"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/c"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/d"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/e"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/f"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/g"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/h"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/i"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/j"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/k"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/l"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/m"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/n"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/o"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/other"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/p"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/r"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/s"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/t"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/u"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/v"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/w"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/x"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/y"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/z"
+          }
+        ],
+        "new": "",
+        "ns": 828,
+        "pageid": 2281,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6459,
+            "slots": {
+              "main": {
+                "*": "--[==[ This is the \"Q\" list of portal image names. It contains a list of portal images for use with [[Module:Portal]]\n-- for portal names that start with the letter \"Q\". For aliases to existing portal names, and for portal names that\n-- start with other letters, please use the appropriate page from the following list:\n \n-- [[Module:Portal/images/a]]       - for portal names beginning with \"A\".\n-- [[Module:Portal/images/b]]       - for portal names beginning with \"B\".\n-- [[Module:Portal/images/c]]       - for portal names beginning with \"C\".\n-- [[Module:Portal/images/d]]       - for portal names beginning with \"D\".\n-- [[Module:Portal/images/e]]       - for portal names beginning with \"E\".\n-- [[Module:Portal/images/f]]       - for portal names beginning with \"F\".\n-- [[Module:Portal/images/g]]       - for portal names beginning with \"G\".\n-- [[Module:Portal/images/h]]       - for portal names beginning with \"H\".\n-- [[Module:Portal/images/i]]       - for portal names beginning with \"I\".\n-- [[Module:Portal/images/j]]       - for portal names beginning with \"J\".\n-- [[Module:Portal/images/k]]       - for portal names beginning with \"K\".\n-- [[Module:Portal/images/l]]       - for portal names beginning with \"L\".\n-- [[Module:Portal/images/m]]       - for portal names beginning with \"M\".\n-- [[Module:Portal/images/n]]       - for portal names beginning with \"N\".\n-- [[Module:Portal/images/o]]       - for portal names beginning with \"O\".\n-- [[Module:Portal/images/p]]       - for portal names beginning with \"P\".\n-- [[Module:Portal/images/r]]       - for portal names beginning with \"R\".\n-- [[Module:Portal/images/s]]       - for portal names beginning with \"S\".\n-- [[Module:Portal/images/t]]       - for portal names beginning with \"T\".\n-- [[Module:Portal/images/u]]       - for portal names beginning with \"U\".\n-- [[Module:Portal/images/v]]       - for portal names beginning with \"V\".\n-- [[Module:Portal/images/w]]       - for portal names beginning with \"W\".\n-- [[Module:Portal/images/x]]       - for portal names beginning with \"X\".\n-- [[Module:Portal/images/y]]       - for portal names beginning with \"Y\".\n-- [[Module:Portal/images/z]]       - for portal names beginning with \"Z\".\n-- [[Module:Portal/images/other]]   - for portal names beginning with any other letters. This includes numbers,\n--                                    letters with diacritics, and letters in non-Latin alphabets.\n-- [[Module:Portal/images/aliases]] - for adding aliases for existing portal names. Use this page for variations\n--                                    in spelling and diacritics, etc., no matter what letter the portal begins with.\n \n-- When adding entries, please use alphabetical order. The format of the images table entries is as follows:\n--          [\"portal name\"] = \"image.svg\",\n-- The portal name should be the name of your portal, in lower case. For example, the portal name for \n-- \"Portal:United Kingdom\" would be \"united kingdom\". The image name should be capitalised normally, and the \"File:\"\n-- namespace prefix should be omitted.\n]==]\n \nreturn {\n\t[\"qatar\"] = \"Flag of Qatar.svg|border|link=|alt=flag\",\n\t[\"quebec\"] = \"Flag of Quebec.svg|border|link=|alt=flag\",\n\t[\"quebec city\"] = \"Flag of Quebec City.svg|border|link=|alt=flag\",\n\t[\"queen (band)\"] = \"Q00.svg|alt=icon\",\n\t[\"queensland\"] = \"Flag of Queensland.svg|border|link=|alt=flag\",\n\t[\"quran\"] = \"Quran logo.png|alt=icon\"\n}",
+                "contentformat": "text/plain",
+                "contentmodel": "Scribunto"
+              }
+            },
+            "timestamp": "2017-10-18T00:01:57Z"
+          }
+        ],
+        "title": "Module:Portal/images/q",
+        "touched": "2017-10-18T00:02:19Z"
+      },
+      "2282": {
+        "contentmodel": "Scribunto",
+        "lastrevid": 6460,
+        "length": 5822,
+        "links": [
+          {
+            "ns": 828,
+            "title": "Module:Portal"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/a"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/aliases"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/b"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/c"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/d"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/e"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/f"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/g"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/h"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/i"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/j"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/k"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/l"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/m"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/n"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/o"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/other"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/p"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/q"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/r"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/s"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/t"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/u"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/v"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/x"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/y"
+          },
+          {
+            "ns": 828,
+            "title": "Module:Portal/images/z"
+          }
+        ],
+        "new": "",
+        "ns": 828,
+        "pageid": 2282,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 6460,
+            "slots": {
+              "main": {
+                "*": "--[==[ This is the \"W\" list of portal image names. It contains a list of portal images for use with [[Module:Portal]]\n-- for portal names that start with the letter \"W\". For aliases to existing portal names, and for portal names that\n-- start with other letters, please use the appropriate page from the following list:\n \n-- [[Module:Portal/images/a]]       - for portal names beginning with \"A\".\n-- [[Module:Portal/images/b]]       - for portal names beginning with \"B\".\n-- [[Module:Portal/images/c]]       - for portal names beginning with \"C\".\n-- [[Module:Portal/images/d]]       - for portal names beginning with \"D\".\n-- [[Module:Portal/images/e]]       - for portal names beginning with \"E\".\n-- [[Module:Portal/images/f]]       - for portal names beginning with \"F\".\n-- [[Module:Portal/images/g]]       - for portal names beginning with \"G\".\n-- [[Module:Portal/images/h]]       - for portal names beginning with \"H\".\n-- [[Module:Portal/images/i]]       - for portal names beginning with \"I\".\n-- [[Module:Portal/images/j]]       - for portal names beginning with \"J\".\n-- [[Module:Portal/images/k]]       - for portal names beginning with \"K\".\n-- [[Module:Portal/images/l]]       - for portal names beginning with \"L\".\n-- [[Module:Portal/images/m]]       - for portal names beginning with \"M\".\n-- [[Module:Portal/images/n]]       - for portal names beginning with \"N\".\n-- [[Module:Portal/images/o]]       - for portal names beginning with \"O\".\n-- [[Module:Portal/images/p]]       - for portal names beginning with \"P\".\n-- [[Module:Portal/images/q]]       - for portal names beginning with \"Q\".\n-- [[Module:Portal/images/r]]       - for portal names beginning with \"R\".\n-- [[Module:Portal/images/s]]       - for portal names beginning with \"S\".\n-- [[Module:Portal/images/t]]       - for portal names beginning with \"T\".\n-- [[Module:Portal/images/u]]       - for portal names beginning with \"U\".\n-- [[Module:Portal/images/v]]       - for portal names beginning with \"V\".\n-- [[Module:Portal/images/x]]       - for portal names beginning with \"X\".\n-- [[Module:Portal/images/y]]       - for portal names beginning with \"Y\".\n-- [[Module:Portal/images/z]]       - for portal names beginning with \"Z\".\n-- [[Module:Portal/images/other]]   - for portal names beginning with any other letters. This includes numbers,\n--                                    letters with diacritics, and letters in non-Latin alphabets.\n-- [[Module:Portal/images/aliases]] - for adding aliases for existing portal names. Use this page for variations\n--                                    in spelling and diacritics, etc., no matter what letter the portal begins with.\n \n-- When adding entries, please use alphabetical order. The format of the images table entries is as follows:\n--          [\"portal name\"] = \"image.svg\",\n-- The portal name should be the name of your portal, in lower case. For example, the portal name for \n-- \"Portal:United Kingdom\" would be \"united kingdom\". The image name should be capitalised normally, and the \"File:\"\n-- namespace prefix should be omitted.\n]==]\n \nreturn {\n\t[\"wake island\"] = \"Flag of Wake Island.svg|border|link=|alt=flag\",\n\t[\"wales\"] = \"Flag of Wales 2.svg|border|link=|alt=flag\",\n\t[\"wallis and futuna\"] = \"Flag of Wallis and Futuna.svg|border|link=|alt=flag\",\n\t[\"war\"] = \"Bluetank.png|link=|alt=\",\n\t[\"war of 1812\"] = \"USS Constitution vs Guerriere.jpg|link=|alt=\",\n\t[\"washington\"] = \"Flag of Washington.svg|border|link=|alt=flag\",\n\t[\"washington & jefferson college\"] = \"W&J seal old updated color.svg|link=|alt=\",\n\t[\"washington roads\"] = \"WA-blank.svg|link=|alt=\",\n\t[\"washington university in st. louis\"] = \"The Kansas City review of science and industry (1884) (14598227079).jpg|link=|alt=image\",\n\t[\"washington, d.c.\"] = \"Flag of Washington, D.C..svg|border|link=|alt=flag\",\n\t[\"water\"] = \"Drinking water.jpg|alt=icon\",\n\t[\"water sports\"] = \"Kitesurfing.jpg|link=|alt=\",\n\t[\"waterfalls\"] = \"Victoria falls, zambia.jpg|link=|alt=icon\",\n\t[\"weapons of mass destruction\"] = \"Operation Castle - Romeo 001.jpg|link=|alt=\",\n\t[\"weather\"] = \"Cumulus clouds in fair weather.jpeg|alt=icon\",\n\t[\"weimar republic\"] = \"Wappen Deutsches Reich (Weimarer Republik).svg|alt=icon\",\n\t[\"west bengal\"] = \"BengaliScriptKo.svg|link=|alt=\",\n\t[\"west germany\"] = \"Flag of Germany.svg|border|link=|alt=flag\",\n\t[\"west sussex\"] = \"EnglandWestSussex.svg|link=|alt=\",\n\t[\"west virginia\"] = \"Flag of West Virginia.svg|border|link=|alt=flag\",\n\t[\"west virginia university\"] = \"West Virginia Mountaineers logo.svg|link=|alt=logo\",\n\t[\"western australia\"] = \"Flag of Western Australia.svg|border|link=|alt=flag\",\n\t[\"western region (ghana)\"] = \"Flag of Western Region (Ghana).gif|border|link=|alt=flag\",\n\t[\"western sahara\"] = \"Flag of the Sahrawi Arab Democratic Republic.svg|border|link=|alt=flag\",\n\t[\"wetlands\"] = \"Atchafalaya Basin.jpg|link=|alt=\",\n\t[\"whitney houston\"] = \"Flickr Whitney Houston performing on GMA 2009 2.jpg|alt=icon\",\n\t[\"wicca\"] = \"Pentacle 2.svg|link=|alt=\",\n\t[\"wikipedia\"] = \"X mark.svg|link=|alt=\",\n\t[\"wiltshire\"] = \"EnglandWiltshire.png|alt=icon\",\n\t[\"wine\"] = \"Glass of wine.png|alt=icon\",\n\t[\"winter paralympics\"] = \"IPC logo (2004).svg|link=|alt=\",\n\t[\"wisconsin\"] = \"Flag of Wisconsin.svg|border|link=|alt=flag\",\n\t[\"women in red\"] = \"Women in Red logo.svg|link=|alt=logo\",\n\t[\"women scientists\"] = \"Women Geologists, Spedizione XII, Italiantartide 1995-96.jpg|link=|alt=photo\",\n\t[\"women's association football\"] = \"Womens-soccer-icon.png|alt=icon\",\n\t[\"women's history\"] = \"Simone Veil (1984).jpg|alt=icon\",\n\t[\"women's sport\"] = \"Netball.svg|link=|alt=\",\n\t[\"world war i\"] = \"Fokker Dr. I (117710246).jpg|border|alt=icon\",\n\t[\"world war ii\"] = \"Heinkel He 111 during the Battle of Britain.jpg|border|link=|alt=\",\n\t[\"writing\"] = \"Nuvola apps kmessedwords.png|alt=icon\",\n\t[\"wyoming\"] = \"Flag of Wyoming.svg|border|link=|alt=flag\"\n}",
+                "contentformat": "text/plain",
+                "contentmodel": "Scribunto"
+              }
+            },
+            "timestamp": "2017-10-18T00:02:19Z"
+          }
+        ],
+        "title": "Module:Portal/images/w",
+        "touched": "2017-10-18T00:02:19Z"
+      }
+    }
+  }
+}

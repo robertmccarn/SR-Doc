@@ -1,0 +1,5 @@
+<div name="Deletion notice" class="boilerplate metadata" id="delete" style="background-color:#fee; margin:1em; padding:5px 10px; border:1px solid #aaa;">
+'''This page is a candidate for deletion.'''
+
+''Remember to check [[Special:Whatlinkshere/{{FULLPAGENAME}}|what links here]] and [{{fullurl:{{FULLPAGENAME}}|action=history}} the page history] before deletion.''</div><includeonly>[[Category:Candidates for deletion]]</includeonly><noinclude>
+{{documentation}}</noinclude>

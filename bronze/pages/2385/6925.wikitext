@@ -1,0 +1,4 @@
+Hey, there seems to be that a lot of countries lack either a flag or a coat of arms in the page. I think it would be a good idea to use these as placeholders: 
+[[File:Placeholder_Flag.png|thumb]]
+
+[[File:Placeholder_Coat_of_Arms.png|thumb]]<ac_metadata title="Idea"> </ac_metadata>

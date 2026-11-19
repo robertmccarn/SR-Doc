@@ -1,0 +1,4 @@
+==Description==
+The flag of Venus is supposed to have over 100 stars in total + the origional 13 in teh symbol. However, I always have trouble with arrays in GIMP. If anyone's better at this than me, please help.
+[[Category:Flags]]
+[[Category:Flags of commonwealths of the United States]]

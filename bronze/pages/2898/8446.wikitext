@@ -1,0 +1,27 @@
+New rules regarding alien life-forms. We're going to be changing the dates of contact for intelligent speices, and capping the number disocvered by humans by 2160 that are considered intelligent (ask and ye shall receive the full reason).
+
+But let's start with my calculations for the Drake equation for the Milkey Way Galaxy:
+
+
+:''R''<sub>∗</sub> = the average rate of [https://en.wikipedia.org/wiki/Star_formation star formation] in [https://en.wikipedia.org/wiki/Milky_Way our galaxy] ('''1 yr<sup>−1</sup> ''')
+:''f''<sub>p</sub> = the fraction of those stars that have [https://en.wikipedia.org/wiki/Planet planets] ('''0.75''')
+:''n''<sub>e</sub> = the average number of planets that can potentially support [https://en.wikipedia.org/wiki/Life life] per star that has planets ('''3''')
+:''f''<sub>l</sub> = the fraction of planets that could support life that actually develop life at some point ('''1''')
+:''f''<sub>i</sub> = the fraction of planets with life that actually go on to develop [https://en.wikipedia.org/wiki/Intelligence intelligent] life (civilizations) ('''0.33''')
+:''f''<sub>c</sub> = the fraction of civilizations that develop a technology that releases detectable signs of their existence into space ('''0.003''')
+:''L'' = the length of time for which such civilizations release detectable signals into space<span style="font-size:11px;"> </span> ('''10000 years''')
+
+N = 22 civilizations capable of radio communications.
+
+N_stone-age+ = 7500
+
+N_bronze-age+ = 500
+:
+:N_iron-age+ = 150
+
+Of those 22 advanced civilizations, I'm gonna say that all of them exist in the outer spiral arms of the Milkey Way (I doubt), about half in the Perseus Arm of the Milkey way, and half of those in the Orion arm within the Perseus arm, meaning about 5 or 6 advanced technological civilizations over the 10,000 lightyear length of our backyard. So we need to make some changes:
+
+1. [https://second-renaissance.wikia.com/wiki/Argommi Argommi], [https://second-renaissance.wikia.com/wiki/Hivvir Hivvir], [https://second-renaissance.wikia.com/wiki/Hiilo Hiilo],  can still exist, but I'm now decreeing that they were some of the most distant missions humanity has ever undertaken. Pick some earthlike stars around 5000 LY from Sol, because that's where we're moving them.
+2. The Equoloii can remain in their current position, but we're scrapping their abillity to produce radio.
+:3. The Ckuteko can continue to exist, but they have to be 10000 LY from Earth, and I want them to be far less impressive, downright pitiful machines. Think of a planet with a few thousand next generation predator drones and roombas on it, not planet of the terminators.
+:4. No new advanced civilizations may be created beyond this point, but feel free to create a bunch of cavemen. 

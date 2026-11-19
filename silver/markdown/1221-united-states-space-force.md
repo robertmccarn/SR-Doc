@@ -1,0 +1,192 @@
+---
+page_id: 1221
+revision_id: 11939
+source_url: https://second-renaissance.fandom.com/wiki/United_States_Space_Force
+raw_sha256: 64ef9f9cde3bc9cd676ee34d0fd418093ab9e204974e4e3523b0faf3bcbd01a8
+---
+
+# United States Space Force
+
+## Preserved source
+
+```wikitext
+{{Infobox military unit
+|unit_name= United States Space Force
+|image= US_Space_Force.png
+|caption= Seal of the Department of the Space Force
+|dates= {{nowrap|30 November 2051&nbsp;– present<br />(109 years)
+|country= {{nowrap|{{flag|United States|name=United States of America}}}}
+|allegiance= United States Constitution
+|type= Space Force
+|Mission= "To maintain, train and equip combat-ready Space forces capable of winning wars, deterring aggression and maintaining freedom from threats on Earth and in Space."
+|size= 307,001 active personnel<br />177,221 civilian personnel<br />69,200 reserve personnel<br />105,500 air guard personnel<br />$940 billion budget<br /> 1,351 spacecraft<br />55,137 aircraft
+|command_structure= U.S. Department of Defense
+|garrison= The Pentagon
+|garrison_label= Headquarters
+|motto= ''"Guard from Above for those Below"''
+|colors= Black and White {{Color box|#120a8f}}{{Color box|#FFDF00}}
+|colors_label= Colors
+|march= The U.S. Space Force
+}}
+
+|website =
+<!-- Commanders -->
+|commander1=[President](214-president-of-the-united-states.md)
+|commander1_label= [Commander-in-Chief](214-president-of-the-united-states.md)
+|commander2= The Honorable Raj Signe
+|commander2_label= Secretary of Defense
+|commander3= The Honorable Yin Lee Rai
+|commander3_label= Secretary of the Space Force
+|commander4= Gen. Kia Stavole
+|commander4_label= Chief of Staff
+|commander5= Gen. Herman Watson
+|commander5_label= Vice Chief of Staff
+|commander6= CMSSF Cody J. Andrews
+|commander6_label= Chief Master Sergeant
+<!-- Insignia -->
+|identification_symbol=
+|identification_symbol_label=Flag
+|identification_symbol_2=
+|identification_symbol_2_label= Roundel
+|identification_symbol_3=
+|identification_symbol_3_label= Jack
+<!-- Spacecraft-->
+|aircraft_attack= 
+|aircraft_bomber= 
+|aircraft_electronic= 
+|aircraft_fighter= 
+|aircraft_helicopter= 
+|aircraft_recon= 
+|aircraft_trainer= 
+|aircraft_transport= 
+|aircraft_tanker= 
+}}The '''United States Space Force''' ('''USSF''') is the space warfare service branch of the United States Armed Forces and one of the seven uniformed services of the United States. Initially made up of various commands under the US Air Force, Navy and Army, the USSF was formed as a separate branch of the military on 20 December 2019 under the US Department of the Air Force, and was later established as an independent branch on 30 November 2051 under the Space Security Act of 2051. It is the most recent branch of the U.S. military to be formed, and is world's most dominant space force, as well as the largest and one of the world's most technologically advanced air forces. The Space Force also commands its own specialized division of Marines, independent of the Navy.
+
+The USSF articulates its core functions as Space Superiority, Nuclear Deterrence Operations, Special Operations, Air Superiority, Global Integrated ISR, Command and Control, Personnel Recovery, Global Precision Attack, and Rapid Orbital Transport.
+
+The U.S. Space Force is a military service organized within the Department of the Space Force, one of the three military departments of the Department of Defense. The Space Force is headed by the civilian Secretary of the Space Force, who reports to the Secretary of Defense, and is appointed by the [President](214-president-of-the-united-states.md) with Senate confirmation. The highest-ranking military officer in the Department of the Space Force is the Chief of Staff of the Space Force, who exercises supervision over Space Force units, and serves as a member of the Joint Chiefs of Staff. Space Force combat and mobility forces are assigned, as directed by the Secretary of Defense, to the Combatant Commanders, and neither the Secretary of the Space Force nor the Chief of Staff have operational command authority over them.
+
+# History
+## '''Origins'''
+[thumb|Seal of the Space Force prior to its establishment as an independent department.](3340-file-space-force-png.md)
+The U.S. Department of Defense created the first antecedent of the U.S. Space Force in 1985, which through a succession of changes of organization, titles, and missions advanced toward eventual separation 70 years later. In 2018, the Trump Administration initially led a serious push for a formation of a proper space force, but was turned down and attention was turned to the 2018 mid-terms. Instead, the U.S. government managed to eventually settle with the creation of the the Space Force being organized under the U.S. Department of the Air Force in 2019. In practice, the USSF were virtually independent of the Air Force prior to WWIII, but officials wanted formal independence. The Space Security Act of 2051 was signed on 30 November 2051 by President [Evalyn Jacobi](317-evalyn-jacobi.md) , which established the Department of the Space Force, with James E. Knight being sworn in as the first Secretary of the Space Force on December 19.
+
+The act reorganized the Department of Defense, dissolving the Department of the Air Force, and reorganizing the various commands of the Air Force, Navy, and Army and independent agencies that held control over various activities in space to be controlled under the Department of the Space Force. Prior to 1947, the responsibility for military space operations was shared between the Army (for mobile ground launches), the Navy (for sea-based launches and ship-born command and control), and the Air Force (for the bulk of all in-space operations). The Space Force consolidated these responsibilities was charged with full command and control authority over all space and near space systems, i.e. long range-hypersonic weapons. The Navy, Army, and Marine Corps were given direct control over the remaining air forces, which were entirely unmanned by 2051.
+
+The predecessor organizations of today's Space Force are:
+
+*Air Force Space Command (1982-2019)
+*U.S. Space Command (1985 – 2002)
+*Naval Space Command (1983-2002)
+*U.S. Army Space and Missile Defense Command (1997-2051)
+*National Reconnaissance Office (1961-2051)
+
+## '''[21st Century](94-21st-century.md)'''
+### '''[World War III](107-world-war-iii.md)'''
+The first operation conducted by the new branch of the military was the defense of the Tycho shipyards. A group of US Force Recon Marines experienced in microgravity operations were transferred over to the Space Force and quickly deployed to secure Tycho from Japanese invasion, retake the city of Armstrong, and wipe out the Japanese military presence on the Moon.
+
+Following the operations on the Moon, the Space force spent the remainder of the Third World War re-establishing American supremacy over Space and in the Air on Earth, with the launch of a next generation fleet of hypersonic drones, and the launch of a mothballed Mark 2 Orbital Command Station. This marked the turning point in the war, for the American-Allied Victory over the Coalition.
+
+Doctrine had significantly shifted by the end of the war. the US had followed had favored concentrated groups of spacecraft clustered around fixed platforms in orbit. The development of pebble mob weapons and their devastating utilization by the Japanese against the U.S. during the Thanksgiving Attacks, however, shifted U.S. thinking. The Thanksgiving Day attack destroyed the bulk of U.S. assets in Space. This placed much of the burden of retaliating against the Japanese on the small number of light attack spacecraft and large mobile platforms.
+
+### '''Post-War Buildup'''
+After WWIII the Space Force saw a massive surge in funding. The attack on American operations in space had a similar psychological effect on the US after Pearl Harbor, and the military became obsessed with securing America's dominance over space. The Mark 2 OCS became one of a fleet of spacecraft positioned in high orbit around the Earth and the Moon. Space infrastructure received enormous funding from new dry-docks at the Tycho shipyards, to the rebuilding and fortification of the Space Elevators to refueling stations, to the largest surge in demand for Helium-3 and Hydrogen to fuel all of these facilities in history.
+
+Development shifted from fixed stations to new ships and spacecraft, including the Tycho-class Cruiser and the Gus Grissom-Class Gunship. Fixed fortifications were positioned aboard the counterweight asteroids of the Space Elevators and key asteroids in the Lagrangian points, while military bases on the Moon were expanded. Because of its size, weapons technology, and ability to project force globally, the current U.S. Space Force became the most potent United States. Moreover, it became the principal means through which the U.S. maintains international global order, namely by safeguarding global trade and protecting allied nations.
+
+## '''[22nd Century](96-22nd-century.md)'''
+### '''[Mexican-American Cold War](1597-mexican-american-cold-war.md)'''
+### '''[Third Mexican-American War](119-third-mexican-american-war.md)'''
+# Personnel
+The United States Space Force has nearly 300,000 personnel, approximately a quarter of whom are in ready reserve. Of those on active duty, more than seventy percent are enlisted, and around twenty five percent are commissioned officers.
+
+## '''Uniforms'''
+[thumb|220x220px|Uniforms during the war.](1596-file-wwiii-space-force-uniforms-by-ynot1989-da49kd6-png.md)
+The uniforms of the U.S. Space Force have evolved gradually since the first uniform regulations for officers were issued in 2021 even before the formation of the Department of the Space Force. The predominant colors of U.S. Space Force uniforms are black and silver. U.S. Space Force uniforms were based on U.S. Air Force uniforms of the time, and have tended to follow that template.
+
+# Current insignia
+'''Commissioned officers'''
+
+The commissioned officer ranks of the U.S. Space Force are divided into three categories: junior officers, senior officers, and general officers. Junior officers are those officers in pay grades O-1 to O-4, while senior officers are those in pay grades O-5 and O-6, and general officers are those in pay grades of O-7 and above. Junior officers are required to obtain at minimum a bachelor's degree in Space Mechanics, while Senior Officers must gain Masters degrees in fields relevant to leadership, tactics, and human behavior, while General officers are required to receive at least one Ph.D in strategic analysis. US Space Force rank is descended from that of the US Air Force and NASA tradition.
+{| style="border:1px solid #8888aa; background-color:#f7f8ff; padding:5px; font-size:95%; margin: 0px 12px 12px 0px;"
+|- bgcolor="#cccccc"
+!US DoD Pay Grade!!O-1!!O-2!!O-3!!O-4!!O-5!!O-6!!O-7!!O-8!!O-9!!O-10!!Special<sup>1</sup>
+|- align="center"
+|Insignia
+| [22px](2744-file-us-o1-insignia-png.md)
+| [22px](2745-file-us-o2-insignia-png.md)
+| [60px](2746-file-us-o3-insignia-png.md)
+| [60px](2747-file-us-o4-insignia-png.md)
+| [60px](2748-file-us-o5-insignia-png.md)
+| [70px](2749-file-us-o6-insignia-png.md)
+| [35px](2750-file-us-o7-insignia-png.md)
+| [65px](2751-file-us-o8-insignia-png.md)
+| [100px](2752-file-us-o9-insignia-png.md)
+| [135px](2754-file-us-o10-insignia-png.md)
+| [90px](2753-file-us-o11-insignia-png.md)
+|- align="center"
+|Title
+| Second Lieutenant
+| First Lieutenant
+| Captain
+| Major
+| Lieutenant Colonel
+| Colonel
+| Brigadier General
+| Major General
+| Lieutenant General
+| General
+| General of the Space Force
+|- align="center"
+|Abbreviation||2d Lt||1st Lt||Capt||Maj||Lt Col||Col||Brig Gen||Maj Gen||Lt Gen||Gen||GSF
+|- align="center"
+|NATO Code||OF-1||OF-1||OF-2||OF-3||OF-4||OF-5||OF-6||OF-7||OF-8||OF-9||OF-10||
+|}
+
+### '''Enlisted'''
+Enlisted members of the USSF have pay grades from E-1 (entry level) to E-9 (senior enlisted). The pay grades of E-1 through E-4, which are below the level of non-commissioned officers (NCOs). Above the pay grade of E-4 (i.e., pay grades E-5 through E-9) all ranks fall into the category of NCO and are further subdivided into "NCOs" (pay grades E-5 and E-6) and "Senior NCOs" (pay grades E-7 through E-9); the term "Junior NCO" is sometimes used to refer to staff sergeants and technical sergeants (pay grades E-5 and E-6). All enlisted member must train in the new USSF Space Base located on the dark side of the moon.
+
+# Bases
+The size, complexity, and system-wide presence of the United States Space Force requires a large number of installations to support its operations. While the majority of bases are located in Earth Orbit, the Space Force maintains a significant number of facilities further out-system.
+
+## Earth Orbit
+The overwhelming majority of US Space Force facilities are positioned in free space around Earth. The largest complex in orbit is Cruithne Space Base, which is comprised of the lower levels of the Cruithne counterweight station, and provides nearly 200 square kilometers of living space for 120,000 personnel.
+
+Apophis Space Station is the home station of the Earth Fleet (although its headquarters is located in Pearl Harbor, Hawaii). USSF Whidbey Island Station is home to the Space Special Warfare Center, the primary training center for Orbital Recon Marines.
+
+## Luna
+The largest presence of the U.S. Space Force on Earth's moon is at New Bath, Tycho, where the Space Force occupies over 36,000 acres of land. Located at New Bath are the Tycho Ship Yards, the massive network of ship-building complexes spanning the crater.
+
+# Spacecraft Inventory
+Since 2056, the Space Force maintained a unified designation system heavily reflecting the Air Force method. The various aircraft of the Air Force include:
+
+## A – Attack
+The attack spacecraft of the USSF are designed exclusively for space-to-space combat, spearheading suppression of enemy defense systems and anti-station warfare. Their striking force centers on vacuum combat forces instead of atmospheric entry. They deliver, command, coordinate, and fully support all elements of a 300-strong Space Force Combat Unit in a space assault using both armored infantry and unmanned spacecraft. They are also frequently deployed as close space support for, and in proximity to terrestrial forces. The proximity to friendly forces require precision strikes from these spacecraft that are not always possible with bombers. Their role is tactical rather than strategic, operating at the front of the battle rather than against targets further afield. Attack spacecraft are made up of a series of launch rails arranged at the nose of the spacecraft with crew, command and support quarters positioned behind the rails. A-20 Ranger is the primary attack spacecraft of the Space Force.
+
+## B - Bomber
+Bombers are small, high speed strike vehicles used for strategic assault missions against enemy space stations and surface facilities. Typically with only two-person crew (a pilot and mission systems officer), these spacecraft carry out high-G maneuvers to deploy ordinance against enemy targets up to and including kinetic and nuclear payloads. The B-6V Spear and the B-11 Ghost are the two spacecraft that occupy this role, with the B-6A initial production variant having been in service since 2053. Bombers tend to have the most varied design morphology and mission of any spacecraft. The B-6 series were built exclusively for combat in vacuum while the B-11 is a multirole bomber capable of operations in atmosphere. Consequently, there have been many attempts over the years to create separate designations for different types of bomber spacecraft and spaceplanes.
+
+## C - Cargo/Transport
+Cargo spacecraft deliver troops, weapons and other equipment to any area of military operation on the surface of the Earth or Luna, usually outside of the commercial orbital flightpaths in uncontested space. As a primary component of an Orbital Strike Group, these spacecraft are typically deployed only after the suppression of enemy air and space defense systems. The workhorses of the USSF transport forces are the C-30 Atlas, C-100 Starmaster, and C-15 Odyssey.
+## D - Dreadnoughts
+Dreadnoughts are multi-mission space superiority vehicles, capable of sustained performance against targets on land, air, sea, and space for offensive strike operations. Dreadnoughts are far and away the largest spacecraft in service to the US Space Force, with the D-1 Olympus being the only ship of this type. While their role is similar to that of multirole spacecraft, The D-1 Olympus was built to serve as transport spacecraft for entire squadrons of ships, allowing for the rapid deployment of interplanetary reinforcements to Earth.
+## E – Special Electronic
+## G - Gunship
+The gunship spacecraft of the USSF are small, fast, and maneuverable military spacecraft primarily used for space-to-space combat. Many have secondary surface-attack capabilities, and some serve duel roles as Gunship-Transport spacecraft for asteroid and station assault missions. The term "gunship" is also sometimes used colloquially for dedicated surface-attack spacecraft, such as the G-71F Super Grissom. The G-71 Grissom family of spacecraft are the backbone of both the Space Force and the Planetary Guard.
+
+The term "gunship" originates from the medium anti-ship guns along the long axis of the spacecraft used to defeat larger spacecraft at distance. However, while this is the primary weapon of gunships, like all combat spacecraft they also employ banks of missiles and energy weapons for close-quarters combat. Gunships typically have crews of 5: an Spacecraft Commander, Pilot, Flight Engineer, an Offensive Systems Officer (OSO) and a Defensive Systems Officer (DSO).
+
+## KH - Reconnaissance
+## M - Multirole
+Multirole spacecraft are large vehicles that conduct anti-air/anti-missile warfare, space warfare, anti-satellite warfare, and orbital strike operations independently or as members of a larger task force. Modern multi-mission spacecraft were developed out of a need to counter the anti-space weapons threat facing the United States Space Force after WWIII. It is generally agreed that the original [Orbital Command Stations](1479-orbital-command-stations.md) were the first multirole military spacecraft. Hence the standard designation system requiring all successive multirole vehicles to be designated M-2 and above, while the OCS platforms were not given an M designation. The M-4 Thor was used primarily as anti-air and anti-missile defense platform in a battle force protection role. Later developments of orbital bombardment systems and the Razorback missile gave cruisers additional long-range land, sea, and space strike capability, making them capable of both offensive and defensive battle operations. The M-19 Ares is the only active class of multi-mission spacecraft as of 2160.
+
+## Aircraft
+The Space Force also operates the United States' fleet of military aircraft, most of which are unmanned. With the increased importance of space combat and orbital bombardment, aerial combat is not as high a priority as it once was. However, aircraft are still valuable for fighting battles on Earth where spacecraft would not be useful. The most prominent models used at the time of the Third Mexican-American War were the Northrop Grumman A-24 Bobcat close-support/attack fighter, the Boeing F-51 Mustang II air superiority fighter, the Lockheed Martin MV-47 Vulture special-ops transport, and the Boeing C-36 Stratotitan heavy transport. Out of these, only the MV-47 requires a human pilot, the others being either unmanned or optionally-manned.
+
+## '''Weapons'''
+[Category:Uniformed services of the United States](https://second-renaissance.fandom.com/wiki/Category:Uniformed_services_of_the_United_States)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1221/11939.wikitext` · revision `11939` · [upstream](https://second-renaissance.fandom.com/wiki/United_States_Space_Force)

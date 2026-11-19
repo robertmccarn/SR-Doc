@@ -1,0 +1,39 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p><span class=\"plainlinks nourlexpansion lx\" style=\"\"> <a href=\"/wiki/Template:Example\" title=\"Template:Example\">Example</a>&#x20;<span style=\"font-size:85%;\">(<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Example?action=edit\">edit</a>&#160;<b>&#183;</b>&#32;<span class=\"new\" title=\"Template talk:Example (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGVfdGFsazpFeGFtcGxlP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">talk</span>&#160;<b>&#183;</b>&#32;<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Example?action=history\">history</a>&#160;<b>&#183;</b>&#32;<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Special:Whatlinkshere/Template:Example?limit=999\">links</a>&#160;<b>&#183;</b>&#32;<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Special:PrefixIndex/Template:Example/\">/subpages</a>&#160;<b>&#183;</b>&#32;<span class=\"new\" title=\"Template:Example/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6RXhhbXBsZS9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">/doc</span>&#160;<b>&#183;</b>&#32;<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Example/doc?action=edit\">/doc edit</a>&#160;<b>&#183;</b>&#32;<span class=\"new\" title=\"Template:Example/sandbox (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6RXhhbXBsZS9zYW5kYm94P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">/sbox</span>&#160;<b>&#183;</b>&#32;<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Special:ComparePages?page1=Template%3AExample&amp;page2=Template%3AExample%2Fsandbox\">/sbox&#160;diff</a>&#160;<b>&#183;</b>&#32;<span class=\"new\" title=\"Template:Example/testcases (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6RXhhbXBsZS90ZXN0Y2FzZXM/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">/test</span></span><span style=\"font-size:85%;\">)</span></span> \n</p>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:T links/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VF9saW5rcy9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:T_links/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:T links/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VF9saW5rcy9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:T links/doc</span></div>\n\n<!-- \nNewPP limit report\nCached time: 20261119205410\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.018 seconds\nReal time usage: 0.023 seconds\nPreprocessor visited node count: 82/1000000\nPost‐expand include size: 3286/2097152 bytes\nTemplate argument size: 1019/2097152 bytes\nHighest expansion depth: 8/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    8.742      1 -total\n 56.26%    4.918      1 Template:Yesno\n 27.59%    2.412      1 Template:Documentation\n 14.27%    1.247      9 Template:Middot\n  9.87%    0.863      1 Template:T_links/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:177-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205410 and revision id 234. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Example",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Example/doc",
+      "ns": 10
+    },
+    {
+      "*": "Template:Example/sandbox",
+      "ns": 10
+    },
+    {
+      "*": "Template:Example/testcases",
+      "ns": 10
+    },
+    {
+      "*": "Template:T links/doc",
+      "ns": 10
+    },
+    {
+      "*": "Template talk:Example",
+      "ns": 11
+    }
+  ],
+  "page_id": 177,
+  "revision_id": 234,
+  "title": "Template:T links"
+}

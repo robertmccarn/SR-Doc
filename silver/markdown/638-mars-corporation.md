@@ -1,0 +1,84 @@
+---
+page_id: 638
+revision_id: 10394
+source_url: https://second-renaissance.fandom.com/wiki/Mars_Corporation
+raw_sha256: b5899d99b1609e85e96913d30b69b1738c90d2a2ba322b7783016c30131e5b5e
+---
+
+# Mars Corporation
+
+## Preserved source
+
+```wikitext
+{{Infobox company
+| name             = Mars Corporation (MarsCorp)
+| logo             = MarsCorp.png
+| caption          = Company flag after 2055
+| type             = Public-Private Conglomerate
+| genre            =
+| fate             = Dissolved
+| predecessor      =
+| successor        = [Interplanetary Trade Commission](216-interplanetary-trade-commission.md)
+| foundation       = 31 December 2023
+| founder          =
+| defunct          = {{End date|df=yes|2079|6|1}}
+| location_city    = Washington D.C. then Viking City
+| location_country = United States
+| location         =
+| locations        =
+| area_served      = Mars, Phobos, Demos, Asteroid Belt
+| key_people       =
+| industry         = Space Colonization
+| products         =
+| services         =
+| revenue          =
+| operating_income =
+| net_income       =
+| aum              =
+| assets           =
+| equity           =
+| owner            =
+| num_employees    =
+| parent           =
+| divisions        =
+| subsid           =
+| homepage         =
+| footnotes        =
+| intl             =
+}}The '''Mars Corporation''' or '''MarsCorp''', was an American public-private conglomerate, established in 2023 by act of Congress to facilitate the exploration and colonization of Mars.
+
+The territory granted to the Mars Corporation included the two moons of Mars (Phobos and Demos) and later the asteroid belt to facilitate terraforming and resource extraction. The company was permitted by its charter to establish settlements and research stations across Mars. The company did not have the sole authority to establish colonies on the surface, but was responsible for overseeing any goods and services produced on Mars that would be sold on Earth, and would receive a portion of all profits.
+
+MarsCorp made planetfall on April 26, 2023, in the heart of the Uzboi Basin, which they named Meridian Base. Later in 2025, the Praxis Corporation established its New Richmond Colony in present-day New Virginia.
+
+# History
+During the [Little Cold War](97-little-cold-war.md), American venture capitalists and aerospace contractors established a number of companies and operations to take advantage of new space access technologies and US military projects in Cislunar space. Each company was made up of individuals who purchased shares of company stock. The US Government granted a charter to each company with the means to explore, mine or settle a particular region of the moon or Near-Earth Asteroid. Profits from these ventures were high, but so was the operating and startup costs. Between 2017 and 2020, the private space industry's market valuation grew by 900%.
+
+## '''Founding'''
+Investors in the Mars Corporation hoped to profit from increased traffic in Cislunar-services for continuous flights to Mars, but the real incentive for investment was the promise of a portion of any profits made for goods and services produced on Mars and sold to Earth. In 2022, the [Biden](https://second-renaissance.fandom.com/wiki/Biden) Administration, through NASA, granted the MarsCorp organizers exclusive rights to settle on Mars. The Corporate charter distributed the number of flights out to Mars among its principle associates based on their financial commitment to the project, with NASA being given first pick of the best sites. NASA paid all the startup costs, while MarsCorp's private division covered the costs of each successive flight, and in return controlled all land and resources there, requiring all settlers to work through MarsCorp.
+
+In an extensive publicity campaign, the MarsCorp founders, among whom were Elon Musk, Dave Masten and few others, conducted a massive web and traditional media campaign, going on talk shows, podcasts, news programs, and producing hundreds of hours of promotional media for digital consumption. Settlers could buy seats as individuals or in groups for their flight out to Mars, and due in part of the media blitz, more than 100,000 people bought at least one seat for the first private flights out to Mars. Money from the sale of seats was used to pay for ships and supplies and to recruit and outfit laborers. A single seat for a flight out to Mars from the Mars Corporation cost 500,000 USD, the equivalent to the full cost of a mid-sized home in 2020.
+
+The largest single investor was Elon Musk, founder of SpaceX, who served as the first chairman of the Mars Corporation from 2023 to 2028.
+
+### '''Associate Members'''
+<gallery perrow="5" spacing="small">
+File:SpaceX.png|SpaceX
+File:640px-Lockheed_Martin.svg.png|Lockheed Martin
+File:Northrop_Grumman.png|Northrop Grumman
+File:Planet_Labs.jpg|Planet Labs
+</gallery>
+
+## '''[Expedition 1](1310-frontier-program.md)'''
+In March 2023, the Mars Corporation's three ships, containing 100 men and women, lifted off from Cape Canaveral, Florida. After record setting voyage of 27 days, they made landfall on April 26, 2023 in the heart of the Uzboi Basin, which they named Meridian Base. Upon landing they deployed Conestoga robots to craft their first habitat. In addition to survival, the early colonists were contracted or employed to conduct research for NASA, the largest partners in MarsCorp at the time. Of the first hundred, 65 were NASA mission specialists, the remaining 35 were private citizens with the National Science Foundation and the US Geological Survey.
+
+Initially, the colonists were governed by a station commander and seven-member council selected by NASA. Leadership problems quickly erupted. Meridian's first two leaders coped with varying degrees of success with sickness, dust-storms, poor food and water supplies, and general discontent. Many colonists were ill-prepared to carve out a new settlement on a frontier. When Lionel Halvidar established himself as a leader in Bradbury, he proved the strong leader that the colony needed, and his example was emulated at Meridian.
+
+## '''Charter of 2057'''
+## '''Collapse and dissolution'''
+[Category:Mars](https://second-renaissance.fandom.com/wiki/Category:Mars)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/638/10394.wikitext` · revision `10394` · [upstream](https://second-renaissance.fandom.com/wiki/Mars_Corporation)

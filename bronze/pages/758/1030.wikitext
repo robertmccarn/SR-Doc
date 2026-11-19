@@ -1,0 +1,1 @@
+{{country data {{{1|}}}|flagdeco/core|variant={{{variant|{{{2|}}}}}}|size={{{size|}}}}}<noinclude>{{documentation}}</noinclude>

@@ -1,0 +1,74 @@
+---
+page_id: 1405
+revision_id: 9500
+source_url: https://second-renaissance.fandom.com/wiki/Jupiter
+raw_sha256: ccfec196e3b8984e5d15b274b76de80c1625cb7a3224c8c7fb68bb9e8d22e447
+---
+
+# Jupiter
+
+## Preserved source
+
+```wikitext
+{{Infobox country
+|conventional_long_name = Planetary Commonwealth of Jupiter
+|national_motto = "Family"
+|national_anthem = "The Star-Spangled Banner"
+|capital = Galileo
+|largest_city = Valhalla
+|languages = English (de facto)
+|demonym = American, Jovian, Galilean
+|languages_type = 
+|lang_others= Chinese, Russian, Japanese, etc.
+|government_type = United States Planetary Commonwealth
+|leader_title1 = [Planetary-Governor](3333-planetary-governor-of-jupiter.md)
+|leader_name1 = Mika Sakahki
+|legislature = Jovian Congress
+|upper_house = Planetary Senate
+|lower_house = Planetary House of Representatives
+|established_event1 = Formation 
+|sovereignty_type = Created per Amendemnt to the constitution
+|established_date1 = July 4, 2137
+|area_rank = 1st
+|area_sq_mi = 
+|population_estimate = 340 Million
+|population_estimate_year = 2160
+|population_estimate_rank = 4th
+|currency = United States dollar ($)
+|currency_code = USD
+|image_flag = Flag_of_Jupiter.png
+|leader_title2 = Lieutenant Governor
+|leader_name2 = 
+|image_symbol = jupapr3color-jd-170304.png|symbol_type = Jupiter}}'''Jupiter''' is the fifth planet from the Sun in the Sol System, and largest [U.S. planetary commonwealth](576-u-s-planetary-commonwealth.md) by area and number of bodies in its orbit, while being 4th most populous. The bulk of the Jovian population (76%) reside beneath the surfaces of the Galilean Moons of Ganymede, Callisto, and Europa, while the remainder live in the hundreds of Orbitals that circle the planet and its moons. The Galilean Moons are the most naturally bio-diverse worlds outside of Earth, Home to millions of native species, and non-native humans and genetically engineered flora and fauna brought from Earth.
+
+# History
+## '''Early research'''
+## '''20th Century'''
+## '''[21st Century](94-21st-century.md)'''
+The first human effort to explore the Jovian system was an expedition launched from Earth in 2033, led by Russian-American captain Vera Loban, who penetrated Callisto's icy shell and established the town of St. Ekaterina.
+
+## '''[22nd Century](96-22nd-century.md)'''
+# Moons
+The moons discovered by Galileo—Io, Europa, Ganymede, and Callisto—are among the largest satellites in the Solar System, and all but Io have been settled by Humans. Like Earth's moon, the bulk of the Galilean population live beneath the surface of these worlds. The eccentricity of their orbits causes regular flexing of the three moons' shapes, with Jupiter's gravity stretching them out as they approach it and allowing them to spring back to more spherical shapes as they swing away. This tidal flexing heats the moons' interiors by friction. This is seen most dramatically in the extraordinary volcanic activity of innermost Io (which is subject to the strongest tidal forces), and to a lesser degree in the geological youth of Europa's surface.
+
+## '''Europa'''
+The smallest of the inhabited moons, and located deep into the radiation belt of Jupiter, Europa is the least populated with 20 million inhabitants. Despite the hazards posed in traveling to Europa, the world is the most popular destination for tourism in the Jovian system due to public interest in the diverse array of life present in the subsurface ocean . The bulk of Europa's population reside on the floor of this ocean in hive cities which play host to tourism, but also mine the ocean floor for vulcanoid metals and biomass used in the pharmaceutics industry.
+
+## '''Callisto'''
+The most populated moon in the system, the 180 million residents of Callisto enjoy the most tectonically stable body in the Jovian system, and only 0.01 rem per day on the surface, allowing for ease of colonization. Callisto also possesses a subsurface ocean which harbors life, however unlike Europa and Ganymede its life is only microscopic. Its population dwells in massive constructed caverns in the ice layer, which play host to both a human population and a constructed biosphere similar to that of the Lunar cave cities.
+
+## '''Ganymede '''
+The largest of the Galileans, and the largest moon in the Solar System, Ganymede receives 5 rem per day, and while not a great hazard with modern spacecraft protections, it is largely the result in Ganymede's early slump in colonists. The moon's population of 100 million enjoy a large subsurface ocean with a diverse array of life, but also reside in "air pockets" in the ice layer like on Callisto. Population growth on Ganymede surpassed that of Callisto in 2152, however, due to the flow of the bulk of Terran colonists to Venus, it is estimated Ganymede won't surpass Callisto's population until the early 23rd Century.
+
+# Culture
+# Economy
+The Jovian system enjoys a post-scarcity economy under the [Quantum Economic Model](1337-quantum-economic-model.md), however it is highly independent of trade with the rest of the Solar System. The cryosphere environments of its moons have made the Jovian Commonwealth an easy place to colonize and develop, while the abundance of raw materials both in Jupiter's atmosphere and the natural satellites orbiting the gas giant provide the population with a degree of economic independence not seen anywhere else in the system. This abundance of resources has led to Jupiter being a primarily export driven economy, shipping raw materials across the solar system and using said raw materials to build and propel ships. All of this wealth means the relatively small human population is able to live with one of the highest standards of living in the Solar System, and has given rise to a vibrant community of artisans as well as entrepreneurs.
+
+# Government and politics
+[Category:Planetary Commonwealths of the United States](2357-category-planetary-commonwealths-of-the-united-states.md)
+[Category:Planets](https://second-renaissance.fandom.com/wiki/Category:Planets)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1405/9500.wikitext` · revision `9500` · [upstream](https://second-renaissance.fandom.com/wiki/Jupiter)

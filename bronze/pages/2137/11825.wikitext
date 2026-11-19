@@ -1,0 +1,86 @@
+{{WIP}}'''Generational Chaos: The Cyclical Phenomena of American History''' is a 2071 book by Dr. Yazmin Bhattaru, expanding on her 2066 essay "The Next American Crisis." In the book, Bhattaru argues that American history tends to follow cycles of economic and social-political development punctuated by crisis moments coinciding with the development of each generation.
+
+Bhattaru offered several deviations from the Strauss–Howe generational theory and the Friedman generational theory, but most significantly was her thesis on how institutional cycles would last much longer as a result in the increase in human lifespans. Claiming the current cycle that began around 2020 would last 100 years, not the usual 80. And the next cycle would most likely last closer to 200 years.
+
+==Highlights==
+==='''Economic Cycles'''===
+Bhattaru held that the United States experiences an economic cycle beginning with the emergence of one generation during the height of their economic independence after establishing themselves in the workforce, usually in their 30s and 40s.
+
+==='''National Cycles'''===
+The book's most significant contribution to sociology lied in its deviation from contemporary analysis of institutional, cultural, or as she called it, "National cycles." Bhattaru concurred with previous analyses from the likes of Strauss and Friedman that historically National cycles last about 80 years beginning and ending with a generation that left their adolescence during the start of the crisis and largely died by the end. Bhattaru argued that paradigm is no longer in effect, as the average lifespan as of 2077 had been extended to 105 years. She argued that this would extend the next National Cycle at least 20 years beyond where it would normally start, and would end less as a result of the death of the Millenials, and more as a result of them being replaced as the largest generation by simple population growth.
+
+==='''Predictions'''===
+Bhattaru famously predicted with startling accuracy the coming [[Second Depression]], identifying the year it would occur, the depth of its impact on the job market, and ultimately how it would be resolved.
+
+She also predicted the inevitability of the United States relationship with Mexico, however in this regard she made some notable errors, such as her claim that the US-Mexican Cold War would be punctuated by only one direct conflict between both powers, and while she correctly assessed that it would be the most destructive war in living memory, she believed the United States would loose the war after the American space colonies become independent.
+
+==Timing of generations and cycles==
+{| class="wikitable" style="margin-left:10ex"
+! Generation !! Generation Archetype !! Generation Birth Year Span !! Entered childhood in a !! Turning Year Span
+|-
+! colspan=5 | Revolutionary Saeculum (90 years)
+|-
+| Awakening Generation || Prophet (Idealist) || align=center|1701–1723 (23) || 1st Turning: High: [[Wikipedia: Augustan literature|Augustan Age of Empire]] || align=center|1704–1727 (23)
+|-
+| [[Liberty Generation]] || Nomad (Reactive) || align=center|1724–1741 (18) || 2nd Turning: Awakening: [[Wikipedia: First Great Awakening|Great Awakening]], [[Wikipedia:Age of Enlightenment|Age of Enlightenment]] || align=center|1727–1746 (19)
+|-
+| [[Wikipedia:Republican Generation|Republican Generation]] || Hero (Civic) || align=center|1742–1766 (25)|| 3rd Turning: Unraveling: [[French and Indian War]], [[Wikipedia: Colonialism|British Imperialism]]|| align="center" | 1746–1773 (27)
+|-
+! colspan=5 | Pioneer Economy 1776-1828 (52 years)
+|-
+| Compromise Generation || Artist (Adaptive) || align=center|1767–1791 (23)|| 4th Turning: Crisis: [[Wikipedia:American Revolution|American Revolution]], [[Wikipedia:Age of Revolution|Age of Revolution]] || align=center|1773–1794 (21)
+|-
+! colspan=5 | Slavery Saeculum (71 years)
+|-
+| Transcendental Generation || Prophet (Idealist) ||align=center|1792–1821 (28)|| 1st Turning: High: [[Wikipedia:Era of Good Feelings|Era of Good Feelings]] || align=center|1794–1822 (28)
+|-
+! colspan=5 | Yeoman Economy 1828-1876 (48 years)
+|-
+| [[Wikipedia: Gilded Generation (Strauss–Howe theory)|Gilded Generation]] || Nomad (Reactive)   || align=center|1822–1842 (21)|| 2nd Turning: Awakening: [[Wikipedia: Second Great Awakening|Transcendental Awakening]], [[Romanticism]], [[Abolitionism]] || align=center|1822–1844 (22)
+|-
+| Civil War Generation || Hero (Civic) || || 3rd Turning: Unraveling: [[Wikipedia: Mexican–American War|Mexican War and Sectionalism]], [[Gold Rush]], [[Wild West]] || align=center|1844–1860 (16)
+|-
+| [[Wikipedia: Progressive Era|Progressive Generation]] || Artist (Adaptive)  ||align=center|1843–1859 (17)||4th Turning: Crisis: [[American Civil War]] || align=center|1860–1865 (5)
+|-
+! colspan=5 | Nationalism Saeculum (81 years)
+|-
+! colspan=5 | Industrialization 1876-1932 (56 years)
+|-
+| [[Missionary Generation]] || Prophet (Idealist) ||align=center|1860–1882 (23)|| 1st Turning: High: [[Wikipedia: Reconstruction era of the United States|Reconstruction]], [[Gilded Age]] || align=center|1865–1886 (21)
+|-
+| [[Lost Generation]] || Nomad (Reactive)   || align=center|1883–1900 (18)|| 2nd Turning: Awakening: [[Wikipedia: Third Great Awakening|Missionary Awakening]], [[Progressive era]] || align=center|1886–1908 (22)
+|-
+| [[G.I. Generation]] || Hero (Civic) || align=center|1901–1924 (24)|| 3rd Turning: Unraveling: [[World War I]], [[Wikipedia: Prohibition in the United States|Prohibition]], [[Roaring Twenties]] || align=center|1908–1929 (21)
+|-
+! colspan=5 | Industrial Economy 1932-1980 (48 years)
+|-
+| [[Silent Generation]] || Artist (Adaptive)  ||align=center|1925–1942 (18)|| 4th Turning: Crisis: [[Wikipedia: Great Depression in the United States|Great Depression]], [[World War II]], [[Dust Bowl]] || align=center|1929–1946 (17)
+|-
+! colspan=5 | Bretton Woods Saeculum (83 years)
+|-
+| [[Wikipedia:Baby boomers|Baby Boom Generation]] || Prophet (Idealist) || align=center|1943–1960 (18) || 1st Turning: High: [[Pax Americana|Superpower America]], [[Golden Age of Capitalism]] || align=center|1946–1963 (17)
+|-
+! colspan=5 | Service Economy 1980-2028 (48 years)
+|-
+| [[Wikipedia:Generation X|Generation X]] || Nomad (Reactive) ||align=center|1961–1981 (21)|| 2nd Turning: Awakening: [[Counterculture of the 1960s|Consciousness Revolution]], [[Fourth Great Awakening]] || align=center|1963–1983 (20)
+|-
+| [[Wikipedia:Millennials|Millennial Generation]] ||Hero (Civic) || align=center|1982–2000 (19) || 3rd Turning: Unraveling: [[Culture War]]s, [[Postmodernism]], [[Neoliberalism]], [[Great Regression]], [[Gulf War]] || align=center|1984–2008 (24)
+|-
+| [[Wikipedia:Generation Z|Generation Z]] || Artist (Adaptive) ||align=center|2001–2023 (22) || 4th Turning: Crisis: [[Great Recession]], [[War on Terror]], [[The Great Reset]] [[The Flood]] || align="center" |2008-2033 (25)
+|-
+! colspan=5 | Great Reset Saeculum (~100 years)
+|-
+! colspan=5 | Gig Economy 2028-2080 (52 years)
+|-
+| [[Generation|Flood Generation]] || Prophet (Idealist) ||align=center|2024-2047 (23)|| 1st Turning: High: [[Seventh Party System|Renewal]] || align=center|2033–2051 (18)
+|-
+| [[Generation|Missing Generation]] || Nomad (Reactive) || align=center|2048-2074 (26)|| 2nd Turning: Awakening: [[World War III]], [[The Refreeze]] || align=center|2051–2077 (26)
+|-
+! colspan=5 | Neo-feudal Economy 2080-2128 (48 years)
+|-
+| [[Generation|Colonial Generation]] || Hero (Civic) || align=center|2075-2097 (22)|| 3rd Turning: Unraveling: [[Mexican-American Cold War]], [[Second Depression]] || align=center|2077-2101 (24)
+|-
+| [[Generation|Nomad Generation]] || Artist (Adaptive)  ||align=center|2098-2125 (27)|| 4th Turning: Crisis: [[Aztlan War]] [[Third Mexican-American War|"Second Border War"]] || align=center|2101–2133 (32)
+|}
+[[Category:Literature]]
+[[Category:United States]]

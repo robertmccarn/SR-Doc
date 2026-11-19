@@ -1,0 +1,646 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Provenance-preserving local mirror and continuity workspace">
+      
+      
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.8.2">
+    
+    
+      
+        <title>Module:Namespace detect - Second Renaissance Narrative Archive</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.57a0d79d.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#modulenamespace-detect" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Second Renaissance Narrative Archive" class="md-header__button md-logo" aria-label="Second Renaissance Narrative Archive" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Second Renaissance Narrative Archive
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Module:Namespace detect
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Second Renaissance Narrative Archive" class="md-nav__button md-logo" aria-label="Second Renaissance Narrative Archive" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Second Renaissance Narrative Archive
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../source-index/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Source corpus
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../gold-index/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Narrative workspace
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../continuity-report/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Continuity report
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#preserved-source" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Preserved source
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#provenance" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Provenance
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="modulenamespace-detect">Module:Namespace detect</h1>
+<h2 id="preserved-source">Preserved source</h2>
+<pre><code class="language-wikitext">--[--------------------------------------------------------------------------------
+--                                                                            --
+--                            NAMESPACE DETECT                                --
+--                                                                            --
+-- This module implements the {{namespace detect}} template in Lua, with a    --
+-- few improvements: all namespaces and all namespace aliases are supported,  --
+-- and namespace names are detected automatically for the local wiki. The     --
+-- module can also use the corresponding subject namespace value if it is     --
+-- used on a talk page. Parameter names can be configured for different wikis --
+-- by altering the values in the &quot;cfg&quot; table in                               --
+-- Module:Namespace detect/config.                                            --
+--                                                                            --
+--------------------------------------------------------------------------------
+--](https://second-renaissance.fandom.com/wiki/--------------------------------------------------------------------------------
+--____________________________________________________________________________--
+--____________________________NAMESPACE_DETECT________________________________--
+--____________________________________________________________________________--
+--_This_module_implements_the_{{namespace_detect}}_template_in_Lua,_with_a____--
+--_few_improvements:_all_namespaces_and_all_namespace_aliases_are_supported,__--
+--_and_namespace_names_are_detected_automatically_for_the_local_wiki._The_____--
+--_module_can_also_use_the_corresponding_subject_namespace_value_if_it_is_____--
+--_used_on_a_talk_page._Parameter_names_can_be_configured_for_different_wikis_--
+--_by_altering_the_values_in_the_&quot;cfg&quot;_table_in_______________________________--
+--_Module:Namespace_detect/config.____________________________________________--
+--____________________________________________________________________________--
+--------------------------------------------------------------------------------
+--)
+
+local data = mw.loadData('Module:Namespace detect/data')
+local argKeys = data.argKeys
+local cfg = data.cfg
+local mappings = data.mappings
+
+local yesno = require('Module:Yesno')
+local mArguments -- Lazily initialise Module:Arguments
+local mTableTools -- Lazily initilalise Module:TableTools
+local ustringLower = mw.ustring.lower
+
+local p = {}
+
+local function fetchValue(t1, t2)
+    -- Fetches a value from the table t1 for the first key in array t2 where
+    -- a non-nil value of t1 exists.
+    for i, key in ipairs(t2) do
+        local value = t1[key]
+        if value ~= nil then
+            return value
+        end
+    end
+    return nil
+end
+
+local function equalsArrayValue(t, value)
+    -- Returns true if value equals a value in the array t. Otherwise
+    -- returns false.
+    for i, arrayValue in ipairs(t) do
+        if value == arrayValue then
+            return true
+        end
+    end
+    return false
+end
+
+function p.getPageObject(page)
+    -- Get the page object, passing the function through pcall in case of
+    -- errors, e.g. being over the expensive function count limit.
+    if page then
+        local success, pageObject = pcall(mw.title.new, page)
+        if success then
+            return pageObject
+        else
+            return nil
+        end
+    else
+        return mw.title.getCurrentTitle()
+    end
+end
+
+-- Provided for backward compatibility with other modules
+function p.getParamMappings()
+    return mappings
+end
+
+local function getNamespace(args)
+    -- This function gets the namespace name from the page object.
+    local page = fetchValue(args, argKeys.demopage)
+    if page == '' then
+        page = nil
+    end
+    local demospace = fetchValue(args, argKeys.demospace)
+    if demospace == '' then
+        demospace = nil
+    end
+    local subjectns = fetchValue(args, argKeys.subjectns)
+    local ret
+    if demospace then
+        -- Handle &quot;demospace = main&quot; properly.
+        if equalsArrayValue(argKeys.main, ustringLower(demospace)) then
+            ret = mw.site.namespaces[0].name
+        else
+            ret = demospace
+        end
+    else
+        local pageObject = p.getPageObject(page)
+        if pageObject then
+            if pageObject.isTalkPage then
+                -- Get the subject namespace if the option is set,
+                -- otherwise use &quot;talk&quot;.
+                if yesno(subjectns) then
+                    ret = mw.site.namespaces[pageObject.namespace].subject.name
+                else
+                    ret = 'talk'
+                end
+            else
+                ret = pageObject.nsText
+            end
+        else
+            return nil -- return nil if the page object doesn't exist.
+        end
+    end
+    ret = ret:gsub('_', ' ')
+    return ustringLower(ret)
+end
+
+function p._main(args)
+    -- Check the parameters stored in the mappings table for any matches.
+    local namespace = getNamespace(args) or 'other' -- &quot;other&quot; avoids nil table keys
+    local params = mappings[namespace] or {}
+    local ret = fetchValue(args, params)
+    --[-- If there were no matches, return parameters for other namespaces.
+    -- This happens if there was no text specified for the namespace that
+    -- was detected or if the demospace parameter is not a valid
+    -- namespace. Note that the parameter for the detected namespace must be
+    -- completely absent for this to happen, not merely blank.
+    --](https://second-renaissance.fandom.com/wiki/--_If_there_were_no_matches,_return_parameters_for_other_namespaces.
+    --_This_happens_if_there_was_no_text_specified_for_the_namespace_that
+    --_was_detected_or_if_the_demospace_parameter_is_not_a_valid
+    --_namespace._Note_that_the_parameter_for_the_detected_namespace_must_be
+    --_completely_absent_for_this_to_happen,_not_merely_blank.
+    --)
+    if ret == nil then
+        ret = fetchValue(args, argKeys.other)
+    end
+    return ret
+end
+
+function p.main(frame)
+    mArguments = require('Module:Arguments')
+    local args = mArguments.getArgs(frame, {removeBlanks = false})
+    local ret = p._main(args)
+    return ret or ''
+end
+
+function p.table(frame)
+    --[-- Create a wikitable of all subject namespace parameters, for
+    -- documentation purposes. The talk parameter is optional, in case it
+    -- needs to be excluded in the documentation.
+    --](https://second-renaissance.fandom.com/wiki/--_Create_a_wikitable_of_all_subject_namespace_parameters,_for
+    --_documentation_purposes._The_talk_parameter_is_optional,_in_case_it
+    --_needs_to_be_excluded_in_the_documentation.
+    --)
+
+    -- Load modules and initialise variables.
+    mTableTools = require('Module:TableTools')
+    local namespaces = mw.site.namespaces
+    local cfg = data.cfg
+    local useTalk = type(frame) == 'table' 
+        and type(frame.args) == 'table' 
+        and yesno(frame.args.talk) -- Whether to use the talk parameter.
+
+    -- Get the header names.
+    local function checkValue(value, default)
+        if type(value) == 'string' then
+            return value
+        else
+            return default
+        end
+    end
+    local nsHeader = checkValue(cfg.wikitableNamespaceHeader, 'Namespace')
+    local aliasesHeader = checkValue(cfg.wikitableAliasesHeader, 'Aliases')
+
+    -- Put the namespaces in order.
+    local mappingsOrdered = {}
+    for nsname, params in pairs(mappings) do
+        if useTalk or nsname ~= 'talk' then
+            local nsid = namespaces[nsname].id
+            -- Add 1, as the array must start with 1; nsid 0 would be lost otherwise.
+            nsid = nsid + 1 
+            mappingsOrdered[nsid] = params
+        end
+    end
+    mappingsOrdered = mTableTools.compressSparseArray(mappingsOrdered)
+
+    -- Build the table.
+    local ret = '{| class=&quot;wikitable&quot;'
+        .. '\n|-'
+        .. '\n! ' .. nsHeader
+        .. '\n! ' .. aliasesHeader
+    for i, params in ipairs(mappingsOrdered) do
+        for j, param in ipairs(params) do
+            if j == 1 then
+                ret = ret .. '\n|-'
+                    .. '\n| &lt;code&gt;' .. param .. '&lt;/code&gt;'
+                    .. '\n| '
+            elseif j == 2 then
+                ret = ret .. '&lt;code&gt;' .. param .. '&lt;/code&gt;'
+            else
+                ret = ret .. ', &lt;code&gt;' .. param .. '&lt;/code&gt;'
+            end
+        end
+    end
+    ret = ret .. '\n|-'
+        .. '\n|}'
+    return ret
+end
+
+return p
+</code></pre>
+<h2 id="provenance">Provenance</h2>
+<p>Raw source: <code>bronze/pages/743/1015.wikitext</code> · revision <code>1015</code> · <a href="https://second-renaissance.fandom.com/wiki/Module%3ANamespace_detect">upstream</a></p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["navigation.sections", "navigation.indexes", "search.suggest"], "search": "../../../assets/javascripts/workers/search.a7633da7.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.a5f9d56c.min.js"></script>
+      
+    
+  </body>
+</html>

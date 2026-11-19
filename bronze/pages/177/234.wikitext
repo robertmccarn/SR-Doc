@@ -1,0 +1,38 @@
+<span class="plainlinks nourlexpansion lx" style="{{{style|}}}">{{{prefix|}}} {{yesno|{{{sandboxlinks|no}}}<!--
+----- sandboxlinks=no -----
+-->|no=[[:Template:{{{1|Example}}}|{{ucfirst:{{{1|Example}}}}}]]&#x20;<!--
+--><span style="font-size:85%; {{{liststyle|}}}">([{{fullurl:Template:{{ucfirst:{{{1|Example}}}}}|action=edit}} edit]<!--
+-->{{middot}}[[Template talk:{{{1|Example}}}|talk]]<!--
+-->{{middot}}[{{fullurl:Template:{{ucfirst:{{{1|Example}}}}}|action=history}} history]<!--
+-->{{middot}}[{{fullurl:Special:Whatlinkshere/Template:{{ucfirst:{{{1|Example}}}}}|limit=999}} links]<!--
+-->{{middot}}[{{fullurl:Special:PrefixIndex/Template:{{ucfirst:{{{1|Example}}}}}/}} /subpages]<!--
+-->{{middot}}[[Template:{{{1|Example}}}/doc|/doc]]<!--
+-->{{middot}}[{{fullurl:Template:{{ucfirst:{{{1|Example}}}}}/doc|action=edit}} /doc edit]<!--
+-->{{middot}}[[Template:{{{1|Example}}}/sandbox|/sbox]]<!--
+-->{{middot}}[{{fullurl:Special:ComparePages|page1={{urlencode:Template:{{ucfirst:{{{1|Example}}}}}}}&page2={{urlencode:Template:{{ucfirst:{{{1|Example}}}}}/sandbox}}}} /sbox&nbsp;diff]<!--
+-->{{middot}}[[Template:{{{1|Example}}}/testcases|/test]]</span><!--
+
+----- sandboxlinks=yes -----
+-->|yes='''{{{1|Example}}}'''[[:Template:{{{1|Example}}}/sandbox|/sandbox]]&#x20;<!--
+--><span style="font-size:85%; {{{liststyle|}}}">(<span style="background:#dbffdb;"><!--
+-->[{{fullurl:Template:{{ucfirst:{{{1|Example}}}}}/sandbox|action=edit}} edit]<!--
+-->{{middot}}[{{fullurl:Special:ComparePages|page1={{urlencode:Template:{{ucfirst:{{{1|Example}}}}}}}&page2={{urlencode:Template:{{ucfirst:{{{1|Example}}}}}/sandbox}}}} diff]<!--
+-->{{middot}}[[Template:{{{1|Example}}}/testcases|/test]]<!--
+-->{{middot}}[[Template talk:{{{1|Example}}}|t]]<!--
+-->{{middot}}[{{fullurl:Template:{{ucfirst:{{{1|Example}}}}}/sandbox|action=history}} h]<!--
+-->{{middot}}[{{fullurl:Special:Whatlinkshere/Template:{{ucfirst:{{{1|Example}}}}}/sandbox|limit=999}} lk]<!--
+--></span><!-- SOURCE:
+-->{{middot}}[[:Template:{{{1|Example}}}|<span style="background:#ffdbdb;">Source</span>]]{{middot}}<!--
+-->[{{fullurl:Template:{{ucfirst:{{{1|Example}}}}}|action=edit}} <span style="background:#ffdbdb;">e</span>]<!--
+-->{{middot}}[[Template talk:{{{1|Example}}}|talk]]<!--
+-->{{middot}}[{{fullurl:Template:{{ucfirst:{{{1|Example}}}}}|action=history}} hist]<!--
+-->{{middot}}[{{fullurl:Special:Whatlinkshere/Template:{{ucfirst:{{{1|Example}}}}}|limit=999}} links]<!--
+-->{{middot}}[{{fullurl:Special:PrefixIndex/Template:{{ucfirst:{{{1|Example}}}}}/}} /subpages]<!--
+-->{{middot}}[[Template:{{{1|Example}}}/doc|/doc]]<!--
+-->{{middot}}[{{fullurl:Template:{{ucfirst:{{{1|Example}}}}}/doc|action=edit}} /doc edit]<!--
+--></span>}}<!--end yes/no
+----- module -----
+--><span style="font-size:85%; {{{liststyle|}}}">{{#if:{{{module|}}}|{{middot}}<!--by param-->[[Module:{{{module|}}}]]|{{#if:{{{module}}}|<!--auto add when eponymous bluelink-->{{#ifexist:Module:{{{1|}}}|{{middot}}[[Module:{{{1|}}}]]}}|<!-- blank so no link -->}}}}<!--
+-->)</span></span> {{{suffix|}}}<noinclude>
+{{documentation}}
+</noinclude>

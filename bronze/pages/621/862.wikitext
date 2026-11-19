@@ -1,0 +1,148 @@
+{{Navbox
+|name=USStateLists
+|title=[[Lists of U.S. state topics|United States state-related lists]]
+|state= {{{state|autocollapse}}}
+|bodyclass = hlist
+
+|above=[[List of states and territories of the United States]]
+
+|group1= Demographics
+|list1 =
+*[[List of U.S. states by educational attainment|Educational attainment]]
+*[[Irreligion in the United States#Demographics|Irreligion]]
+*[[List of U.S. states' largest cities by population|Largest cities by population]]
+*[[List of most popular given names by state in the United States|Most popular given names]]
+*[[List of the most populous counties by U.S. state|Most populous counties]]
+*[[List of U.S. states and territories by population|Population]]
+**[[List of U.S. states by population density|Density]]
+**[[List of U.S. states by population growth rate|Growth rate]]
+**[[List of U.S. states by historical population|Historical]]
+**[[List of U.S. states by African-American population|African American]]
+**[[List of U.S. states by Amish population|Amish]]
+**[[List of U.S. states by Hispanic and Latino population|Hispanic and Latino]]
+**[[Spanish language in the United States#Geographic distribution|Spanish-speaking]]
+
+|group2= Economy
+|list2 =
+*[[List of U.S. states by the number of billionaires|Billionaires]]
+*[[List of U.S. state budgets|Budgets]]
+*[[List of companies of the United States by state|Companies]]
+*[[Federal tax revenue by state|Federal tax revenue]]
+*[[Federal taxation and spending by state|Federal taxation and spending]]
+*[[List of U.S. states by GDP|Gross domestic product]]
+**[[List of U.S. states by economic growth rate|Growth rate]]
+**[[List of U.S. states by GDP per capita|Per capita]]
+*[[List of U.S. states by income|Income]]
+**[[List of U.S. states by income#States ranked by median household income|Household]]
+**[[List of U.S. states by income#States ranked by per capita income|Per capita]]
+**[[List of U.S. states by Gini coefficient|Inequality]]
+*[[Minimum wage in the United States|Minimum wages]]
+*[[List of U.S. states by poverty rate|Poverty rates]]
+*[[Sales taxes in the United States#By jurisdiction|Sales taxes]]
+*[[State tax levels in the United States|State income taxes]]
+**[[State income tax#States with flat rate individual income tax|Flat rate]]
+**[[State income tax#States with no individual income tax|None]]
+*[[List of U.S. states by unemployment rate|Unemployment rates]]
+*[[Union affiliation by U.S. state|Union affiliation]]
+*[[List of U.S. states by vehicles per capita|Vehicles per capita]]
+
+|group3= Environment
+|list3 =
+*[[List of U.S. states by carbon dioxide emissions|Carbon dioxide emissions]]
+*[[Lists of state parks by U.S. state|Parks]]
+*[[List of U.S. states by electricity production from renewable sources|Renewable energy]]
+*[[List of Superfund sites in the United States|Superfund sites]]
+*[[List of U.S. state and tribal wilderness areas|Wilderness areas]]
+
+|group4= Geography
+|list4 =
+*[[List of U.S. states and territories by area|Area]]
+*[[List of U.S. states by coastline|Coastline]]
+*[[List of U.S. states by elevation|Elevation]]
+*[[Geographic centers of the United States|Geographic centers]]
+
+|group5= Government
+|list5 =
+*[[State attorney general|Attorneys general]]
+*[[List of capitals in the United States|Capitals]]
+**[[List of capitals in the United States#Historical state capitals|Historical]]
+*[[List of state capitols in the United States|Capitol buildings]]
+*[[Comparison of U.S. state governments|Comparison]]
+*[[List of counties by U.S. state|Counties]]
+**[[Index of U.S. counties|Alphabetical]]
+*[[List of current United States governors|Governors]]
+**[[List of current United States lieutenant governors|Lieutenant governors]]
+*[[List of United States state legislatures|Legislatures]]
+*[[List of U.S. state libraries and archives|Libraries and archives]]
+*[[Languages of the United States#Official language status|Official languages]]
+*[[List of U.S. states' Poets Laureate|Poets laureate]]
+*[[State auditor]]s
+*[[Secretary of state (U.S. state government)|State secretaries of state]]
+*[[Superintendent (education)#Current chief state school officers|State superintendents of education]]
+*[[State supreme court]]s
+*[[State treasurer]]s
+
+|group6= Health
+|list6 =
+*[[List of U.S. states by American Human Development Index|American HDI]]
+*[[List of U.S. states and territories by fertility rate|Fertility rates]]
+*[[Lists of hospitals in the United States|Hospitals]]
+*[[List of U.S. states by life expectancy|Life expectancy]]
+*[[Obesity in the United States#Prevalence by state|Obesity rates]]
+
+|group7= History
+|list7 =
+*[[List of U.S. states by date of admission to the Union|Date of statehood]]
+*[[List of state name etymologies in the United States|Etymologies]]
+*[[List of U.S. state historical societies and museums|Historical societies and museums]]
+*[[List of U.S. National Historic Landmarks by state|National Historic Landmarks]]
+*[[United States National Register of Historic Places listings|National Register of Historic Places]]
+*[[List of U.S. states that were never U.S. territories|Never territories]]
+*[[List of U.S. state partition proposals|Partition proposals]]
+*[[Historic regions of the United States|Regions]]
+
+|group8= Law
+|list8 =
+*[[Abortion in the United States by state#State table|Abortion]]
+*[[Ages of consent in North America#United States|Age of consent]]
+*[[Alcohol laws of the United States|Alcohol]]
+**[[List of dry communities by U.S. state|Dry communities]]
+*[[List of U.S. states by Alford plea usage|Alford plea]]
+*[[Restrictions on cell phone use while driving in the United States|Cell phone use while driving]]
+*[[List of U.S. state constitutions|Constitutions]]
+*[[Gun laws in the United States by state|Firearms]]
+**[[Gun violence in the United States by state|Homicide]]
+*[[List of United States state and local law enforcement agencies|Law enforcement agencies]]
+*[[Legality of cannabis by U.S. state|Legality of cannabis]]
+*[[United States Peace Index|Peace Index]]
+*[[List of United States state prisons|Prisons]]
+**[[List of U.S. states by incarceration rate|Incarceration rate]]
+*[[List of U.S. state laws on same-sex unions|Same-sex unions]]
+**[[List of former U.S. state constitutional amendments banning same-sex unions by type|Former constitutional bans]]
+**[[Same-sex marriage law in the United States by state|Marriage law]]
+*[[Seat belt legislation in the United States#The laws by state|Seat belt laws]]
+*[[List of U.S. state constitutional provisions allowing self-representation in state courts|Self-representation]]
+*[[List of smoking bans in the United States|Smoking bans]]
+*[[List of U.S. state statutory codes|Statutory codes]]
+
+|group9 = Miscellaneous
+|list9=
+*[[List of U.S. state abbreviations|Abbreviations]]
+*[[List of demonyms for U.S. states|Demonyms]]
+*[[List of fictional U.S. states|Fictional states]]
+*[[List of U.S. state, district, and territorial insignia|Insignia]]
+*[[Lists of United States state symbols|Symbols]]
+*[[List of tallest buildings by U.S. state|Tallest buildings]]
+*[[List of time offsets by U.S. state|Time zones]]
+
+|below=
+* {{icon|category}} [[:Category:States of the United States|Category]]
+* {{icon|commons}} [[commons:Category:States of the United States|Commons]]
+* {{icon|portal}} [[Wikipedia:List of U.S. state portals|Portals]]
+
+}}<noinclude>
+{{collapsible option}}
+[[Category:United States state templates| ]]
+[[Category:States of the United States-related lists| ]]
+[[Category:United States-related lists| ]]
+</noinclude>

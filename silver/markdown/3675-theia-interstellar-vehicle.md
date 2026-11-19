@@ -1,0 +1,72 @@
+---
+page_id: 3675
+revision_id: 11567
+source_url: https://second-renaissance.fandom.com/wiki/Theia_%28interstellar_vehicle%29
+raw_sha256: e0c84e0f2593ef3ad02546cd2389f4133abcf257e6a28de7f4204ea1e337d370
+---
+
+# Theia (interstellar vehicle)
+
+## Preserved source
+
+```wikitext
+''' Theia'''-class was [NASA](1592-nasa.md)'s second crewed interstellar vehicle program. Entering service in 2082, the  Theia more than doubled NASA's crewed interstellar fleet and made some significant increases in performance and reliability from the older [Hyperion.](3645-hyperion-interstellar-vehicle.md)  Six complete  Theia interstellar vehicles were built and flown on a total of 135 missions from 2082 to 2152, with IV-206 ''Odyssey '' holding the record for the longest service life of any interstellar spacecraft.
+
+# Design and Development
+In the mid 2070s it was becoming clear that the ''Hyperion'' would need to be retired in the next ten years or require major refits to continue safe operation. On September 24, 2076, NASA released a study concluding that a new vehicle was required to satisfy the agency's future demands and outlined desired improvements over the Hyperion for the new class of interstellar vehicle. The head of the NASA Office of Manned Spaceflight, Mariah Mueller, announced the plan for a next-generation interstellar vehicle on August 10, 2078. NASA issued a request for proposal (RFP) for designs of the Interstellar Vehicle Second Generation Program or IV-2XX, which would later become the  Theia. In December 2078, NASA created the Interstellar Vehicle 2XX Task Group to determine the optimal design for the new class of spacecraft. A year later they issued a report that determined the IV-2XX would support longer-duration crewed missions beyond the Sol System. The group formally released the report in 2079 calling for a spacecraft nearly double the size of the Hyperion, and increasing its warp cruising "speed" from 12 to 50 times the speed of light.
+
+After the release of the IV-2XX Task Group report, NASA contractors put forth several proposed designs based on research done since the launch of the first Prometheus probe on warp tori design. The winning bid would grant NASA the desired 50x light speed target, but would fail to double the size of the crew module. Instead NASA would have to settle for a 70% larger crewed section or 59.5 meters. The Hexagon arrangement for the Crew Return Vehicles was kept, as was the antimatter propulsion bus despite lingering calls to discontinue antimatter propulsion following the Constitution Disaster. All told, the  Theia was an iterative improvement to the ''Hyperion'' with reliability being its highest priority, contributing to its longevity as an interstellar vehicle.
+
+# Ships of the class
+{| class="wikitable sortable" style="width: 100%"
+|-
+! style="width:100px;" class="unsortable" |Vehicle Designation
+! style="width:100px;" | Name
+! width="75" | First Flight
+! width="75" | Last Flight
+! class="unsortable" | Status
+|-
+| style="text-align:center;" | IV-201
+| style="text-align:center;" | Columbia
+| style="text-align:center;" | 2082
+| style="text-align:center;" |2138
+| Refitted in 2105. Currently Retired.
+|-
+| style="text-align:center;" | IV-202
+| style="text-align:center;" | Endeavour
+| style="text-align:center;" | 2082
+| style="text-align:center;" |2112
+| Destroyed
+|-
+| style="text-align:center;" | IV-203
+| style="text-align:center;" | Explorer
+| style="text-align:center;" | 2082
+| style="text-align:center;" |2138
+| Retired
+|-
+| style="text-align:center;" | IV-204
+| style="text-align:center;" | Adventure
+| style="text-align:center;" | 2082
+| style="text-align:center;" |2138
+| Retired
+|-
+| style="text-align:center;" | IV-205
+| style="text-align:center;" | Intrepid
+| style="text-align:center;" | 2082
+| style="text-align:center;" |2138
+| Retired
+|-
+| style="text-align:center;" | IV-206
+| style="text-align:center;" | Odyssey
+| style="text-align:center;" | 2082
+| style="text-align:center;" |2152
+| Retired
+|}
+
+[Category:Space Age](https://second-renaissance.fandom.com/wiki/Category:Space_Age)
+[Category:Technology](https://second-renaissance.fandom.com/wiki/Category:Technology)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/3675/11567.wikitext` · revision `11567` · [upstream](https://second-renaissance.fandom.com/wiki/Theia_%28interstellar_vehicle%29)

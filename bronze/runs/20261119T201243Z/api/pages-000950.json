@@ -1,0 +1,1412 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "1000": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1558,
+        "length": 41,
+        "new": "",
+        "ns": 0,
+        "pageid": 1000,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1558,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Maastricht Treaty]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:21:05Z"
+          }
+        ],
+        "title": "Maastricht Treaty",
+        "touched": "2015-11-07T06:21:05Z"
+      },
+      "1001": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1559,
+        "length": 29,
+        "new": "",
+        "ns": 0,
+        "pageid": 1001,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1559,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Texas]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:21:15Z"
+          }
+        ],
+        "title": "Texas",
+        "touched": "2015-11-07T06:21:15Z"
+      },
+      "1002": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1560,
+        "length": 60,
+        "new": "",
+        "ns": 0,
+        "pageid": 1002,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1560,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:President of the European Commission]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:22:25Z"
+          }
+        ],
+        "title": "President of the European Commission",
+        "touched": "2015-11-07T06:22:25Z"
+      },
+      "1003": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1561,
+        "length": 38,
+        "new": "",
+        "ns": 0,
+        "pageid": 1003,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1561,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:North Carolina]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:22:40Z"
+          }
+        ],
+        "title": "North Carolina",
+        "touched": "2015-11-07T06:22:40Z"
+      },
+      "1004": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1562,
+        "length": 48,
+        "new": "",
+        "ns": 0,
+        "pageid": 1004,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1562,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Coat of arms of Cameroon]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:23:00Z"
+          }
+        ],
+        "title": "Coat of arms of Cameroon",
+        "touched": "2015-11-07T06:23:00Z"
+      },
+      "1005": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1563,
+        "length": 35,
+        "new": "",
+        "ns": 0,
+        "pageid": 1005,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1563,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Microformat]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:23:26Z"
+          }
+        ],
+        "title": "Microformat",
+        "touched": "2015-11-07T06:23:26Z"
+      },
+      "1006": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1564,
+        "length": 41,
+        "new": "",
+        "ns": 0,
+        "pageid": 1006,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1564,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Geo (microformat)]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:23:36Z"
+          }
+        ],
+        "title": "Geo (microformat)",
+        "touched": "2015-11-07T06:23:37Z"
+      },
+      "1007": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1565,
+        "length": 41,
+        "new": "",
+        "ns": 0,
+        "pageid": 1007,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1565,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:HCard microformat]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:23:55Z"
+          }
+        ],
+        "title": "HCard microformat",
+        "touched": "2015-11-07T06:23:55Z"
+      },
+      "1008": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1566,
+        "length": 58,
+        "new": "",
+        "ns": 0,
+        "pageid": 1008,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1566,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:List of heads of state of Cameroon]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:24:11Z"
+          }
+        ],
+        "title": "List of heads of state of Cameroon",
+        "touched": "2015-11-07T06:24:11Z"
+      },
+      "1009": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1567,
+        "length": 56,
+        "new": "",
+        "ns": 0,
+        "pageid": 1009,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1567,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Currencies of the European Union]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:24:23Z"
+          }
+        ],
+        "title": "Currencies of the European Union",
+        "touched": "2015-11-07T06:24:23Z"
+      },
+      "1010": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1568,
+        "length": 37,
+        "new": "",
+        "ns": 0,
+        "pageid": 1010,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1568,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Croatian kuna]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:24:31Z"
+          }
+        ],
+        "title": "Croatian kuna",
+        "touched": "2015-11-07T06:24:31Z"
+      },
+      "1011": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1569,
+        "length": 61,
+        "new": "",
+        "ns": 0,
+        "pageid": 1011,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1569,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:O Cameroon, Cradle of our Forefathers]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:24:55Z"
+          }
+        ],
+        "title": "O Cameroon, Cradle of our Forefathers",
+        "touched": "2015-11-07T06:24:55Z"
+      },
+      "1012": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1570,
+        "length": 37,
+        "new": "",
+        "ns": 0,
+        "pageid": 1012,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1570,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Ethnic groups]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:25:58Z"
+          }
+        ],
+        "title": "Ethnic groups",
+        "touched": "2015-11-07T06:25:58Z"
+      },
+      "1013": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1571,
+        "length": 40,
+        "new": "",
+        "ns": 0,
+        "pageid": 1013,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1571,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:West Africa Time]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:26:09Z"
+          }
+        ],
+        "title": "West Africa Time",
+        "touched": "2015-11-07T06:26:09Z"
+      },
+      "1014": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1572,
+        "length": 50,
+        "new": "",
+        "ns": 0,
+        "pageid": 1014,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1572,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Coordinated Universal Time]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:26:25Z"
+          }
+        ],
+        "title": "Coordinated Universal Time",
+        "touched": "2015-11-07T06:26:25Z"
+      },
+      "1015": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1573,
+        "length": 57,
+        "new": "",
+        "ns": 0,
+        "pageid": 1015,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1573,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:President of the European Council]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:26:43Z"
+          }
+        ],
+        "title": "President of the European Council",
+        "touched": "2015-11-07T06:26:44Z"
+      },
+      "1016": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1574,
+        "length": 43,
+        "new": "",
+        "ns": 0,
+        "pageid": 1016,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1574,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Geography of Europe]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:26:56Z"
+          }
+        ],
+        "title": "Geography of Europe",
+        "touched": "2015-11-07T06:26:56Z"
+      },
+      "1017": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1575,
+        "length": 58,
+        "new": "",
+        "ns": 0,
+        "pageid": 1017,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1575,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Member state of the European Union]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:27:22Z"
+          }
+        ],
+        "title": "Member state of the European Union",
+        "touched": "2015-11-07T06:27:22Z"
+      },
+      "1018": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1576,
+        "length": 30,
+        "new": "",
+        "ns": 0,
+        "pageid": 1018,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1576,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Douala]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:27:37Z"
+          }
+        ],
+        "title": "Douala",
+        "touched": "2015-11-07T06:27:37Z"
+      },
+      "1019": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1577,
+        "length": 35,
+        "new": "",
+        "ns": 0,
+        "pageid": 1019,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1577,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Upper house]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:27:48Z"
+          }
+        ],
+        "title": "Upper house",
+        "touched": "2015-11-07T06:27:48Z"
+      },
+      "1020": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1578,
+        "length": 51,
+        "new": "",
+        "ns": 0,
+        "pageid": 1020,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1578,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Motto of the European Union]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:28:06Z"
+          }
+        ],
+        "title": "Motto of the European Union",
+        "touched": "2015-11-07T06:28:06Z"
+      },
+      "1021": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1579,
+        "length": 31,
+        "new": "",
+        "ns": 0,
+        "pageid": 1021,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1579,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Demonym]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:28:12Z"
+          }
+        ],
+        "title": "Demonym",
+        "touched": "2015-11-07T06:28:12Z"
+      },
+      "1022": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1580,
+        "length": 32,
+        "new": "",
+        "ns": 0,
+        "pageid": 1022,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1580,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:New York]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:30:00Z"
+          }
+        ],
+        "title": "New York",
+        "touched": "2015-11-07T06:30:00Z"
+      },
+      "1023": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1581,
+        "length": 35,
+        "new": "",
+        "ns": 0,
+        "pageid": 1023,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1581,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Puerto Rico]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:30:13Z"
+          }
+        ],
+        "title": "Puerto Rico",
+        "touched": "2015-11-07T06:30:13Z"
+      },
+      "974": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1532,
+        "length": 32,
+        "new": "",
+        "ns": 0,
+        "pageid": 974,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1532,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Republic]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:07:05Z"
+          }
+        ],
+        "title": "Republic",
+        "touched": "2015-11-07T06:07:05Z"
+      },
+      "975": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1533,
+        "length": 47,
+        "new": "",
+        "ns": 0,
+        "pageid": 975,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1533,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Human Development Index]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:07:23Z"
+          }
+        ],
+        "title": "Human Development Index",
+        "touched": "2015-11-07T06:07:23Z"
+      },
+      "976": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1534,
+        "length": 41,
+        "new": "",
+        "ns": 0,
+        "pageid": 976,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1534,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:British Cameroons]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:07:41Z"
+          }
+        ],
+        "title": "British Cameroons",
+        "touched": "2015-11-07T06:07:41Z"
+      },
+      "977": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1535,
+        "length": 33,
+        "new": "",
+        "ns": 0,
+        "pageid": 977,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1535,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Paul Biya]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:08:03Z"
+          }
+        ],
+        "title": "Paul Biya",
+        "touched": "2015-11-07T06:08:03Z"
+      },
+      "978": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1536,
+        "length": 47,
+        "new": "",
+        "ns": 0,
+        "pageid": 978,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1536,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:European People's Party]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:08:22Z"
+          }
+        ],
+        "title": "European People's Party",
+        "touched": "2015-11-07T06:08:23Z"
+      },
+      "979": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1537,
+        "length": 43,
+        "new": "",
+        "ns": 0,
+        "pageid": 979,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1537,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:European Parliament]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:08:37Z"
+          }
+        ],
+        "title": "European Parliament",
+        "touched": "2015-11-07T06:08:37Z"
+      },
+      "980": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1538,
+        "length": 40,
+        "new": "",
+        "ns": 0,
+        "pageid": 980,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1538,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Anthem of Europe]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:08:50Z"
+          }
+        ],
+        "title": "Anthem of Europe",
+        "touched": "2015-11-07T06:08:50Z"
+      },
+      "981": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1539,
+        "length": 41,
+        "new": "",
+        "ns": 0,
+        "pageid": 981,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1539,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Herman Van Rompuy]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:09:08Z"
+          }
+        ],
+        "title": "Herman Van Rompuy",
+        "touched": "2015-11-07T06:09:08Z"
+      },
+      "982": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1540,
+        "length": 37,
+        "new": "",
+        "ns": 0,
+        "pageid": 982,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1540,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Swedish krona]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:09:25Z"
+          }
+        ],
+        "title": "Swedish krona",
+        "touched": "2015-11-07T06:09:25Z"
+      },
+      "983": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1541,
+        "length": 27,
+        "new": "",
+        "ns": 0,
+        "pageid": 983,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1541,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:.cm]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:12:21Z"
+          }
+        ],
+        "title": ".cm",
+        "touched": "2015-11-07T06:12:21Z"
+      },
+      "984": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1542,
+        "length": 28,
+        "new": "",
+        "ns": 0,
+        "pageid": 984,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1542,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:+237]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:12:45Z"
+          }
+        ],
+        "title": "+237",
+        "touched": "2015-11-07T06:12:45Z"
+      },
+      "985": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1543,
+        "length": 39,
+        "new": "",
+        "ns": 0,
+        "pageid": 985,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1543,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Gibraltar pound]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:13:06Z"
+          }
+        ],
+        "title": "Gibraltar pound",
+        "touched": "2015-11-07T06:13:06Z"
+      },
+      "986": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11990,
+        "length": 119,
+        "ns": 0,
+        "pageid": 986,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 1544,
+            "revid": 11990,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Prime Minister of Cameroon]]This page should get deleted ASAP. I don’t know why it even exists.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2026-03-07T18:26:14Z"
+          }
+        ],
+        "title": "Prime Minister of Cameroon",
+        "touched": "2026-03-07T18:26:14Z"
+      },
+      "987": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1545,
+        "length": 53,
+        "new": "",
+        "ns": 0,
+        "pageid": 987,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1545,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Council of the European Union]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:13:43Z"
+          }
+        ],
+        "title": "Council of the European Union",
+        "touched": "2015-11-07T06:13:43Z"
+      },
+      "988": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1546,
+        "length": 32,
+        "new": "",
+        "ns": 0,
+        "pageid": 988,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1546,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Yaoundé]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:14:02Z"
+          }
+        ],
+        "title": "Yaoundé",
+        "touched": "2015-11-07T06:14:02Z"
+      },
+      "989": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1547,
+        "length": 28,
+        "new": "",
+        "ns": 0,
+        "pageid": 989,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1547,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Euro]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:14:11Z"
+          }
+        ],
+        "title": "Euro",
+        "touched": "2015-11-07T06:14:11Z"
+      },
+      "990": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1548,
+        "length": 52,
+        "new": "",
+        "ns": 0,
+        "pageid": 990,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1548,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:National Assembly (Cameroon)]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:14:29Z"
+          }
+        ],
+        "title": "National Assembly (Cameroon)",
+        "touched": "2015-11-07T06:14:29Z"
+      },
+      "991": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1549,
+        "length": 40,
+        "new": "",
+        "ns": 0,
+        "pageid": 991,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1549,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Gini coefficient]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:14:39Z"
+          }
+        ],
+        "title": "Gini coefficient",
+        "touched": "2015-11-07T06:14:39Z"
+      },
+      "992": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1550,
+        "length": 47,
+        "new": "",
+        "ns": 0,
+        "pageid": 992,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1550,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Purchasing power parity]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:14:49Z"
+          }
+        ],
+        "title": "Purchasing power parity",
+        "touched": "2015-11-07T06:14:49Z"
+      },
+      "993": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1551,
+        "length": 53,
+        "new": "",
+        "ns": 0,
+        "pageid": 993,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1551,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Country code top-level domain]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:15:01Z"
+          }
+        ],
+        "title": "Country code top-level domain",
+        "touched": "2015-11-07T06:15:01Z"
+      },
+      "994": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1552,
+        "length": 33,
+        "new": "",
+        "ns": 0,
+        "pageid": 994,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1552,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Euro sign]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:15:50Z"
+          }
+        ],
+        "title": "Euro sign",
+        "touched": "2015-11-07T06:15:50Z"
+      },
+      "995": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1553,
+        "length": 27,
+        "new": "",
+        "ns": 0,
+        "pageid": 995,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1553,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:.eu]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:16:03Z"
+          }
+        ],
+        "title": ".eu",
+        "touched": "2015-11-07T06:16:03Z"
+      },
+      "996": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1554,
+        "length": 46,
+        "new": "",
+        "ns": 0,
+        "pageid": 996,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1554,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Gross domestic product]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:16:14Z"
+          }
+        ],
+        "title": "Gross domestic product",
+        "touched": "2015-11-07T06:16:14Z"
+      },
+      "997": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1555,
+        "length": 36,
+        "new": "",
+        "ns": 0,
+        "pageid": 997,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1555,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Romanian Leu]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:16:26Z"
+          }
+        ],
+        "title": "Romanian Leu",
+        "touched": "2015-11-07T06:16:26Z"
+      },
+      "998": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1556,
+        "length": 61,
+        "new": "",
+        "ns": 0,
+        "pageid": 998,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1556,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:Orthographic projection (cartography)]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:16:45Z"
+          }
+        ],
+        "title": "Orthographic projection (cartography)",
+        "touched": "2015-11-07T06:16:45Z"
+      },
+      "999": {
+        "contentmodel": "wikitext",
+        "lastrevid": 1557,
+        "length": 29,
+        "new": "",
+        "ns": 0,
+        "pageid": 999,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 1557,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Wikipedia:HCard]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2015-11-07T06:18:08Z"
+          }
+        ],
+        "title": "HCard",
+        "touched": "2015-11-07T06:18:08Z"
+      }
+    }
+  }
+}

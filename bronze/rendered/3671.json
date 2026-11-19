@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "*": "Unrecognized_countries",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    },
+    {
+      "*": "Former_countries_in_North_America",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><figure class=\"thumb  show-info-icon\" typeof=\"mw:File/Thumb\" style=\"width: 180px\"> \t<a href=\"https://static.wikia.nocookie.net/second-renaissance/images/4/4d/Christian_Separatist_Flag.png/revision/latest?cb=20180509153302\" class=\"mw-file-description image\"><img alt=\"One of the more common flags used by the Christian Republic.\" src=\"https://static.wikia.nocookie.net/second-renaissance/images/4/4d/Christian_Separatist_Flag.png/revision/latest/scale-to-width-down/180?cb=20180509153302\" decoding=\"async\" loading=\"lazy\" width=\"180\" height=\"108\" class=\"thumbimage\" data-image-name=\"Christian Separatist Flag.png\" data-image-key=\"Christian_Separatist_Flag.png\" data-relevant=\"0\" /></a> \t \t<figcaption class=\"thumbcaption\"> \t\t\t<a href=\"/wiki/File:Christian_Separatist_Flag.png\" class=\"info-icon\"><svg><use xlink:href=\"#wds-icons-info-small\"></use></svg></a> \t\t\t<p class=\"caption\">One of the more common flags used by the Christian Republic.</p> \t</figcaption> </figure>\n<p>The <b>Christian Republic</b> was a far-right state during the <a href=\"/wiki/White_Tide\" title=\"White Tide\">White Tide</a>, actively involved in seeking independence from the <a href=\"/wiki/United_States_of_America\" title=\"United States of America\">United States</a>.\n</p><p>The Christian Republic had origins in the Christian Right that had emerged in the mid 20th century and American immigration policies of the 2020s, mostly upon taking in large amounts of immigrants from different backgrounds, especially religious ones. As the government become more left-wing, some Americans felt that the government no longer represented Christian interests. Once the <a href=\"/wiki/White_Tide\" title=\"White Tide\">White Tide</a> began, far-right Christian groups joined the <a href=\"/wiki/Sovereign_Citizen%27s_Alliance\" title=\"Sovereign Citizen&#39;s Alliance\">SCA</a> in the hopes of overthrowing the current government and re-establishing America as a \"Christian Nation.\" After the collapse of the SCA in 2031, these Christian militants broke off to form an overtly secessionist government.\n</p><p>The Christian Republic would ultimately fail in its secessionist attempt, being overpowered by federal troops due in part to a lack of defensible positions, poor coordination with its military units (mostly comprised of former NDF members), and infighting with other far right groups. The Christian Republic was predominantly based in the Great Plains and was founded shortly before the Drive Across the Plains. During its time, the Christian Republic mostly focused on implementing a strict version of Christian law, which involved anti-LGBTQ policies. The Christian Republic was not unique among rebel groups of the White Tide for its strong usage of religious text to implement laws, the <a href=\"/wiki/New_Confederacy\" title=\"New Confederacy\">New Confederacy</a>, 2nd Republic of Texas, and the SCA frequently used religious justification for its laws.\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119210017\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.007 seconds\nReal time usage: 0.010 seconds\nPreprocessor visited node count: 1/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 1/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:3671-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119210017 and revision id 11132. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "New Confederacy",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Sovereign Citizen's Alliance",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "United States of America",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "White Tide",
+      "exists": "",
+      "ns": 0
+    }
+  ],
+  "page_id": 3671,
+  "revision_id": 11132,
+  "title": "Christian Republic"
+}

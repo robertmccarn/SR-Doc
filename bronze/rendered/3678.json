@@ -1,0 +1,26 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"infobox geography vcard\" style=\"width:22em; font-size:88%;\"><tbody><tr class=\"adr\">\n         <th colspan=\"3\" class=\"mergedtoprow\" style=\"text-align:center;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;\"><span class=\"fn org country-name\">United Congo Republic</span><br /></th>\n       </tr><tr class=\"mergedtoprow\">\n          <td class=\"maptable\" colspan=\"3\" style=\"text-align:center;padding:0.5em 0;\"><table style=\"text-align:center;width:100%;background:none;\"><tbody><tr>\n                <td style=\"text-align:center; vertical-align:middle;\"><span class=\"mw-image-border\" typeof=\"mw:File\"><a href=\"https://static.wikia.nocookie.net/second-renaissance/images/a/a3/Flag_of_the_Congolese_Federation.png/revision/latest?cb=20230419165429\" class=\"mw-file-description image\" title=\"Flag of Congo\"><img alt=\"\" src=\"https://static.wikia.nocookie.net/second-renaissance/images/a/a3/Flag_of_the_Congolese_Federation.png/revision/latest/scale-to-width-down/125?cb=20230419165429\" decoding=\"async\" loading=\"lazy\" width=\"125\" height=\"77\" class=\"mw-file-element\" data-image-name=\"Flag of the Congolese Federation.png\" data-image-key=\"Flag_of_the_Congolese_Federation.png\" data-relevant=\"1\" /></a></span></td>\n              </tr><tr>\n              <td style=\"text-align:center;font-size:85%;\">Flag</td>\n              </tr></tbody></table>\n          </td>\n        </tr><tr class=\"mergedtoprow\"><td colspan=\"2\"><b>Capital</b><br />and largest city</td><td>Nkana-Kinshasa</td></tr><tr>\n         <th colspan=\"2\" style=\"white-space:nowrap;\">Official languages</th>\n         <td>French, Kongo</td>\n       </tr><tr>\n            <td colspan=\"2\">Recognised national&#160;languages</td>\n            <td style=\"vertical-align:middle;\">Mongo, Teke, Ngala, Budu, Mibochi</td>\n          </tr><tr>\n        <th colspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Demonym\" class=\"extiw\" title=\"wikipedia:Demonym\">Demonym</a></th>\n        <td>Congolese</td>\n      </tr><tr>\n         <th colspan=\"2\" style=\"vertical-align:middle;\">Currency</th>\n           <td>Congolese franc ($) (<a href=\"/wiki/ISO_4217\" class=\"mw-redirect\" title=\"ISO 4217\">CDF</a>)</td>\n       </tr></tbody></table><p>The <b>United Congo Republic</b>, more commonly known as <b>Congo</b>, is a country in Central Africa which borders the Atlantic Ocean to the west. By land area, Congo is the second-largest in Africa after the <span class=\"new\" title=\"Tuareg Federation (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVHVhcmVnX0ZlZGVyYXRpb24/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Tuareg Federation</span>. The United Congo Republic is the most populous officially Francophone country in the world, and the national capital and largest city is Nkuna-Kinshasa, which is the nation's economic center.</p>\n<!-- \nNewPP limit report\nCached time: 20261119210018\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.017 seconds\nReal time usage: 0.023 seconds\nPreprocessor visited node count: 392/1000000\nPost‐expand include size: 3406/2097152 bytes\nTemplate argument size: 430/2097152 bytes\nHighest expansion depth: 8/100\nExpensive parser function count: 2/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    9.691      1 Template:Infobox_country\n100.00%    9.691      1 -total\n 16.86%    1.634      1 Template:Yesno\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:3678-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119210018 and revision id 11222. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Flag of Congo",
+      "ns": 0
+    },
+    {
+      "*": "Congolese people",
+      "ns": 0
+    },
+    {
+      "*": "ISO 4217",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Tuareg Federation",
+      "ns": 0
+    }
+  ],
+  "page_id": 3678,
+  "revision_id": 11222,
+  "title": "Congo"
+}

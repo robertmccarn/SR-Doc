@@ -1,0 +1,7 @@
+<div class="wikipediauserbox" style="float:left;margin:1px;border:1px solid #999;">
+{| style="<!--width:262px;-->background:#eee;" cellspacing="0"
+|- style="vertical-align:middle;"
+|style="padding:4px 0 0 4px;"| [[File:Cube.svg|40px|alt=|link=]]
+|style="font-size:8pt;height:45px;padding:0 4px;vertical-align:middle;text-align:left;line-height:1.25em;color:black;"| {{nowrap|This is an example of a template.<br/>For help with templates, see [[Help:Template]].}}
+|}
+</div><noinclude>{{clear}}{{Documentation}}</noinclude>

@@ -1,0 +1,1756 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "2699": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7747,
+        "length": 70,
+        "ns": 1,
+        "pageid": 2699,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7746,
+            "revid": 7747,
+            "slots": {
+              "main": {
+                "*": "New to the page. Hope you like my Orbital Kenetic Weapons addition. ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-04-02T17:31:08Z"
+          }
+        ],
+        "title": "Talk:Hypersonic Weapons/@comment-35184654-20180402172527",
+        "touched": "2018-04-02T17:31:08Z"
+      },
+      "2700": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7750,
+        "length": 22,
+        "new": "",
+        "ns": 1,
+        "pageid": 2700,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7750,
+            "slots": {
+              "main": {
+                "*": "I'll fix it right now.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-04-02T21:52:38Z"
+          }
+        ],
+        "title": "Talk:Malcolm Moreau/@comment-5590986-20180331040845/@comment-100.36.170.162-20180402215238",
+        "touched": "2018-04-02T21:52:38Z"
+      },
+      "2701": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7757,
+        "length": 210,
+        "ns": 1,
+        "pageid": 2701,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7752,
+            "revid": 7757,
+            "slots": {
+              "main": {
+                "*": "So is this the theoretical planet orbiting Alpha Centauri B? It's not the tidally locked planet in the babital zone of Proxima Centauri? Proxima Centauri b could be a potential candidate for terraforming. ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-04-05T16:32:16Z"
+          }
+        ],
+        "title": "Talk:Atlantis (planet)/@comment-35184654-20180405013450",
+        "touched": "2018-04-05T16:32:16Z"
+      },
+      "2702": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7759,
+        "length": 32,
+        "new": "",
+        "ns": 1,
+        "pageid": 2702,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7759,
+            "slots": {
+              "main": {
+                "*": "No this is a theoretical planet.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-04-07T15:55:25Z"
+          }
+        ],
+        "title": "Talk:Atlantis (planet)/@comment-35184654-20180405013450/@comment-899576-20180407155525",
+        "touched": "2018-04-07T15:55:25Z"
+      },
+      "2703": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7763,
+        "length": 80,
+        "new": "",
+        "ns": 1,
+        "pageid": 2703,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7763,
+            "slots": {
+              "main": {
+                "*": "Shouldn’t people born in territories be given the right to vote for President?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-04-10T06:16:57Z"
+          }
+        ],
+        "title": "Talk:United States of America/@comment-24.6.114.95-20180410061657",
+        "touched": "2018-04-10T06:16:57Z"
+      },
+      "2704": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7778,
+        "length": 852,
+        "ns": 1,
+        "pageid": 2704,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7777,
+            "revid": 7778,
+            "slots": {
+              "main": {
+                "*": "The Nemo Station Incident '''NEEDS TO GO'''. It just isn't biologically possible. Even on Earth, most viruses, bacteria, and parasites only affect a single species or a few related ones, and so-called \"zoonoses\" have generally only been a big deal amongst livestock, which we've intentionally cultivated in close proximity for ages. Most other parasites are host-specific, and can't survive in a host that they haven't specifically evolved to feed on. For example, the parasitoid wasp ''Cotesia glomerata'' lays its eggs exclusively in the caterpillars of the cabbage white butterfly. It cannot suddenly make the switch to attacking humans. A creature from a completely different planet--one far more different from us in terms of biochemistry and nutritional requirements than the aforementioned wasp--would have even more difficulty doing that. ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-04-15T03:50:08Z"
+          }
+        ],
+        "title": "Talk:Atlantis (planet)/@comment-34930587-20180415034320",
+        "touched": "2018-04-15T03:50:08Z"
+      },
+      "2705": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7789,
+        "length": 532,
+        "ns": 1,
+        "pageid": 2705,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7788,
+            "revid": 7789,
+            "slots": {
+              "main": {
+                "*": "Extraterrestrial parasites can behave or evolve differently from that of Earth, and may evolve to certain conditions that the human body can coincidentally  provide. Maybe it is biologically impossible because you or we are looking at it on Earth's rules\n\nThen how would you suggest the incident should go while keeping its basic elements or events? An experiment gone wrong perhaps (maybe regarding use of life to create some sort of medicine)?\n\nBut i do not want to participate in an edit war that would get us both in trouble",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-04-15T09:57:44Z"
+          }
+        ],
+        "title": "Talk:Atlantis (planet)/@comment-34930587-20180415034320/@comment-5590986-20180415093511",
+        "touched": "2018-04-15T09:57:44Z"
+      },
+      "2706": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7793,
+        "length": 53,
+        "new": "",
+        "ns": 1,
+        "pageid": 2706,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7793,
+            "slots": {
+              "main": {
+                "*": "I modified the section so it would make 'more sense'.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-04-16T03:47:47Z"
+          }
+        ],
+        "title": "Talk:Atlantis (planet)/@comment-34930587-20180415034320/@comment-5590986-20180416034747",
+        "touched": "2018-04-16T03:47:47Z"
+      },
+      "2707": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7803,
+        "length": 188,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2707,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7803,
+            "slots": {
+              "main": {
+                "*": "Are you on the Speculative Evolution forum (http://s1.zetaboards.com/Conceptual_Evolution/index/)?\n\nI am; I'm \"Scrublord\". <ac_metadata title=\"Speculative Evolution Forum\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-04-21T01:25:17Z"
+          }
+        ],
+        "title": "Thread:Gwiber49/@comment-24.224.66.196-20180421012517",
+        "touched": "2018-04-21T01:25:17Z"
+      },
+      "2708": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7808,
+        "length": 61,
+        "new": "",
+        "ns": 1,
+        "pageid": 2708,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7808,
+            "slots": {
+              "main": {
+                "*": "is arrivo what you have in mind when it comes to modern cars?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-04-23T19:47:22Z"
+          }
+        ],
+        "title": "Talk:Car/@comment-90.254.37.133-20180423194722",
+        "touched": "2018-04-23T19:47:22Z"
+      },
+      "2709": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7816,
+        "length": 328,
+        "new": "",
+        "ns": 1,
+        "pageid": 2709,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7816,
+            "slots": {
+              "main": {
+                "*": "They, like the Hivvir endured a new dark age while cut off from the home-world, and while most of the Hivvir living in space died within a year of losing contact with Earth, one group of only a few dozen colonists were able to create a sustainable biosphere on one of the orbiting asteroids.\n\n\n\n\nShould it be Ivrilu, not Earth?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-04-27T01:32:34Z"
+          }
+        ],
+        "title": "Talk:Hivvir/@comment-34884423-20180427013234",
+        "touched": "2018-04-27T01:32:34Z"
+      },
+      "2710": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7817,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2710,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7817,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-04-27T01:32:35Z"
+          }
+        ],
+        "title": "Message Wall:Contracorriente12",
+        "touched": "2018-04-27T01:32:36Z"
+      },
+      "2711": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7818,
+        "length": 549,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Hivvir"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2711,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7818,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Hivvir]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-04-27T01:32:35Z"
+          }
+        ],
+        "title": "Thread:Contracorriente12/@comment-32769624-20180427013235",
+        "touched": "2018-04-27T01:32:35Z"
+      },
+      "2712": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 7819,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2712,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7819,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-04-27T01:32:36Z"
+          }
+        ],
+        "title": "User:Contracorriente12",
+        "touched": "2018-04-27T01:32:36Z"
+      },
+      "2713": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7821,
+        "length": 9,
+        "ns": 1,
+        "pageid": 2713,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7820,
+            "revid": 7821,
+            "slots": {
+              "main": {
+                "*": "[Removed]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-04-27T02:04:19Z"
+          }
+        ],
+        "title": "Talk:Postnaturalism/@comment-34884423-20180427020343",
+        "touched": "2018-04-27T02:04:19Z"
+      },
+      "2714": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7824,
+        "length": 98,
+        "new": "",
+        "ns": 1,
+        "pageid": 2714,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7824,
+            "slots": {
+              "main": {
+                "*": "An deracinated English-speaking Europe under total American hegemonic control... what a nightmare.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-02T11:44:23Z"
+          }
+        ],
+        "title": "Talk:European Association/@comment-2A00:23C5:258C:4400:913C:4CC1:A2A:BDC9-20180502114423",
+        "touched": "2018-05-02T11:44:23Z"
+      },
+      "2715": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7825,
+        "length": 59,
+        "new": "",
+        "ns": 1,
+        "pageid": 2715,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7825,
+            "slots": {
+              "main": {
+                "*": "What is a nightmare is just a mere dream to some of us lol",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-02T21:09:46Z"
+          }
+        ],
+        "title": "Talk:European Association/@comment-2A00:23C5:258C:4400:913C:4CC1:A2A:BDC9-20180502114423/@comment-5590986-20180502210946",
+        "touched": "2018-05-02T21:09:46Z"
+      },
+      "2716": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7827,
+        "length": 19,
+        "new": "",
+        "ns": 1,
+        "pageid": 2716,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7827,
+            "slots": {
+              "main": {
+                "*": "Whoops! Good catch.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-05T15:49:29Z"
+          }
+        ],
+        "title": "Talk:Hivvir/@comment-34884423-20180427013234/@comment-899576-20180505154929",
+        "touched": "2018-05-05T15:49:29Z"
+      },
+      "2717": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7828,
+        "length": 104,
+        "new": "",
+        "ns": 1,
+        "pageid": 2717,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7828,
+            "slots": {
+              "main": {
+                "*": "Eh, sortof. I'm picturing cars driving into hyperloop pods more than being built on more concrete roads.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-05T15:54:03Z"
+          }
+        ],
+        "title": "Talk:Car/@comment-90.254.37.133-20180423194722/@comment-899576-20180505155403",
+        "touched": "2018-05-05T15:54:03Z"
+      },
+      "2718": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Former countries in North America"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former country articles requiring maintenance"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Under Construction"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Unrecognized countries"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Christian Separatist Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Confederate-rebel-flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Northwest Territorial Imperative flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:SCA Flag (2030-2031).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:The American Troubles.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 50 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 52stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Under contruction icon-red.png"
+          }
+        ],
+        "lastrevid": 11407,
+        "length": 15051,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Alexandria Ocasio-Cortez"
+          },
+          {
+            "ns": 0,
+            "title": "American Redoubt"
+          },
+          {
+            "ns": 0,
+            "title": "Christian Republic"
+          },
+          {
+            "ns": 0,
+            "title": "Congress of Sovereign Citizen"
+          },
+          {
+            "ns": 0,
+            "title": "Donald Trump †"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of SCA"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of the SCA"
+          },
+          {
+            "ns": 0,
+            "title": "Great Famine"
+          },
+          {
+            "ns": 0,
+            "title": "Michael Wallace †"
+          },
+          {
+            "ns": 0,
+            "title": "New Confederacy"
+          },
+          {
+            "ns": 0,
+            "title": "Seventh Party System"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "US Dollar"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2028"
+          },
+          {
+            "ns": 0,
+            "title": "White Nationalist Junta"
+          },
+          {
+            "ns": 0,
+            "title": "White Tide"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in 2031"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2030s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2031"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 21st century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in 2028"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 2020s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 2028"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 21st century"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2718,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11406,
+            "revid": 11407,
+            "slots": {
+              "main": {
+                "*": "{{WIP}}\n{{Infobox former country\n| conventional_long_name = Sovereign Citizens Alliance\n| common_name            = SCA\n| continent              = North America\n| region                 = American Southeast\n| government_type        = White Nationalist Junta\n| image_map = \n| image_map_caption = \n| image_flag   = SCA Flag (2030-2031).png\n| coa_size     = x100px\n| symbol_type  = \n| symbol       =\n|national_motto = One people. One family. One glorious American nation!\n| image_coat = \n| year_start   =2028 \n| year_end     =2031\n| p1= United States of America\n| flag_p1= US flag 50 stars.png\n| s1=United States of America\n| flag_s1=US flag 52stars.png\n| s2= American Redoubt\n| flag_s2= Northwest Territorial Imperative flag.png\n| s3= New Confederacy\n| flag_s3= Confederate-rebel-flag.png\n| s4= Christian Republic\n| flag_s4= Christian Separatist Flag.png\n| era           = The Flood\n| capital = Palm Beach, Florida (until October 17, 2029)<br>\nMobile, Alabama (until December 3, 2029)<br>\nRapid City, South Dakota (until January 22, 2031)\n| largest_city = \n| title_leader = President\n| leader1      = Donald Trump †\n| title_deputy = Executive Director\n| deputy1      = Michael Wallace †\n| legislature  = Congress of Sovereign Citizen\n| house1       = \n| house2       = \n| stat_year1   = \n| stat_area1   = \n| stat_pop1    = \n| today        = United States of America\n| footnotes    = \n| width        = 265px\n| currency = US Dollar\n|status = Unrecognized State/Terrorist Organization}}\nThe '''Sovereign Citizens Alliance''' was an American Far Right terrorist organization and former unrecognized quasi-state that followed a fundamentalist Christian and White Nationalist doctrine commonly known as Trumpism. The SCA gained global prominence during the [[White Tide]] when it formed a pretender government over the \"Red States\" of the [[United States of America|United States]] following the election of 2028.\n\nThe SCA received notoriety for its violence against non-white, non-protestant, non-neurotypical and non-cis/het peoples. It carried out executions against soldiers and civilians, including journalists and political activists, and destroyed centers of non-white heritage. Their reign of terror was gruesome, and highly destructive as it directly led to the American Famine of 2029-2030 through the supply chains they interrupted. All told, it is estimated that some 11 million Americans died as a result of the SCA's actions. The organization's surviving leadership were held responsible for numerous war crimes and crimes against humanity, and were all given the death penalty.\n\nThe SCA was the result of the Congress of Sovereign Citizens in 2026, in which several of the White Nationalist, Alt-Right, and neo-fascist groups that had been rising in the US declared the creation of a single organization and military leadership. The group proclaimed the restoration of the \"American Republic\" and began referring to itself as the Sovereign Citizens Alliance or the SCA in January 2028 after its declaration of rebellion and allegiance to the pretender government initially based in Palm Beach, Florida. \n\n==Purpose and strategy==\n===Ideology===\nThe SCA was a white nationalist, Christian fundamentalist group whose origins lay with the Sovereign Citizen, Alt-right, and Q-anon movements within the broader Conservative movement. While the SCA had elements of many different far right groups, the core leadership saw themselves as a Sovereign Citizens fighting to retake the United States in a Second American Revolution, although their Neo-Confederate supporters would often refer to their movement as the Third American Revolution. Sovereign Citizens of the 2020s believed that the United States effectively ceased to exist after the passage of the 14th Amendment in 1871, and the country from that time forward was led by a cabal of Satan-worshiping pedophiles.\n\nRight-wing nationalist groups inside the Republican party argued that the SCA did not represent the principles of American nationalism and were not true conservatives, however few in the Republican Party would claim that they weren't true Christians. The SCA promoted religious violence, and regards Christians who do not agree with its interpretations as apostates or closeted atheists. Officially, the SCA never actually claimed to be a white nationalist or even Christian nationalist organization, but many of its leaders argued that White Men in the US were being oppressed and under threat of having their cultural identity being destroyed. Despite these claims, the bulk of the SCA's attacks were disproportionately targeted at people of Hispanic, African, Asian, Arab or mixed ancestry. The stated core of the SCA's ideology was traditional American republicanism, and the restoration of state's rights over federal power.\n\nThe Congress of the Sovereign Citizens, was originally convened in opposition to the emergency population relocation measured passed by the Harris administration which moved several million East Coast urbanites into rural communities, many of whom had remained in those states well past the time they were promised to return home. The result was the passage of progressive policies like comprehensive firearm background checks and increased representation for minority groups. The SCA interpreted this as the start of a culling by the cabal. Many units within the SCA flew some variation on the US Civil Flag, a banner normally adopted by anti-tax Sovereign Citizen groups for many years prior to the White Tide. Interestingly, Mike Wallace, the leader of the SCA and briefly self professed rightful President of the United States following the death of Donald Trump, claimed to be the 20th President of the United States, and that every President after Ulysses S. Grant was illegitimate, with the exception of himself and his predecessor.\n\n===Symbols and Flags===\n[[File:Christian_Separatist_Flag.png|thumb|One of the more common banners associated with the SCA.]] \nFor the first 8 months of its life, the SCA had no official flag. The National Defense Force primarily utilized uniforms taken from the National Guard or State Defense Forces, and thus wore the flag of the United States. Several unofficial flags were used by states and municipalities loyal to the Maga government. The \"Thin Blue Line\" flag was often used by Police Infantry Units, while NDF units and militias often used either some variation on the Betsy Ross Flag, Trump's 28' campaign flag, the Gadsden flag, the old Confederate flag, along with assorted neo-Nazi flags including the actual banner of Nazi Germany. On September 2nd, 2029 the American Congress passed a provisional flag act, requiring units display a variation of the Bonnie Blue Flag that featured a blue field and an outlining red stripe framing a single star. This flag grew to be quite popular within the Maga hierarchy and was enthusiastically adopted as the symbol of the revolt.\n\n===Christian dominionism===\nThe SCA largely subscribed to dominion theology, a Christian political ideology that sought to institute a nation which is governed by Christians based on an extreme right-wing interpretation of biblical law.\n\n==Organization==\nPalm Springs, Florida was under SCA control from 2028 where it became the group's de facto capital city. On 17 October 2029, following a lengthy battle that saw massive destruction to the city, the United States Marine Corps announced the full capture of Palm Springs from the SCA, by which time its leaders had abandoned the city. The SCA capital briefly relocated to Mobile before relocating to its final capital in the Great Plains.\n\n===Leadership and governance===\nThe SCA officially recognized the Constitution of the United States, however did not recognize any amendment after the 13th Amendment as legitimate, and operated an extremely loose interpretation of Exception clause of the 13th amendment. Women and ethnic minorities had no right to vote or hold property and were treated as \"subjects\" not citizens. The SCA had no tax on income, income tax, capital gains, or estates, but instead used a national sales tax and voluntary contributions to fund its war effort.\n\n===Military===\nThe Military of the SCA was referred to as the \"National Defense Force\" and was made up initially of defectors from the US military, police officers, and militia groups, however by 2030 it was overwhelmingly made up of fresh recruits, both volunteers and conscripts.\n\n===Civilians in SCA-controlled areas===\nIn regions outside of frontline combat, social control of civilians was by imposition of the SCA's White Christian-nationalist ideology, enforced by Police infantry units. These units imposed \"decency laws\" passed by the SCA government and Maga state governments. These laws were often vague in their definitions and effectively gave cops the power to impose moral order however they saw fit. But in general civilians in SCA territory were prohibited from engaging in acts that violated gender binarism, neurotypical behavioral standards or heteronormative behavior. Church attendance was made mandatory, and ministers were encouraged to expose those that violated any social norms for either punishment by the state or mob justice.\n\nWhile it styled itself a \"Free Nation,\" citizens of the SCA were forbidden from forming labor organizations, and in effect were required to work from the direction of the state. Child labor laws were eliminated, and while most parents only permitted teenagers to go into the workforce or join the NDF, children as young as 5 years old in foster care were placed in factory and mining jobs.\n\n==Racial and Religious policies==\nRacism and Christian nationalism were basic tenets of the Republican Party and the SCA regime. The SCA's racial policy was based on white supremacy, while religious policy was based on Christian dominionism. The Maga government reintroduced anti-miscegenation laws, anti-sodomy laws, racial segregation and enforced anti-neurodiversity laws, and in some states non-whites were not even permitted to address whites without first being addressed by whites.\n\n===Genocide and Slavery===\nShortly after the establishment of the SCA, its leaders authorized the mass arrest of transfolk, queerfolk, abortion providers, people who received abortions, and non-Christians. With rare exception, these people were sentenced to death. Initially housed in prisons, the victims of the SCA Christian nationalist policies were transferred to death camps and systematically executed by ICE agents.\n\nSlavery was functionally reintroduced in the SCA, though it did exist within the United States prior to the White Tide as punishments for a crime. The SCA broadened the scope of forced labor and increased arrests, condemning all but the most outwardly loyal or submissive non-whites to slave labor. Political dissidents were almost always condemned to the same fate.\n\nThe goal of the SCA was the complete purge of initially all non-Christians from the country, and later its very specific list of sanctioned protestant faiths and eventually to amalgamate said faiths under a new denomination which would serve as a state religion. Slavery was to become the default form of punishment for crimes committed by non-whites. Fortunately, the SCA did not exist long enough to enforce its slave system and genocidal policies on the scale that it had intended. The first death camps and slave labor camps were discovered via satellite in spring of 2030 and by 2031 the largest of them had been liberated.\n\n==History==\n[[File:The_American_Troubles.png|thumb|300px|Farthest extent of SCA territorial control and activity]]\nThe SCA emerged as a serious threat during the Revolutions of 2027 when its forces successfully captured Montgomery and claimed the formation of the first Sovereign Citizens Republic. The capture of Montgomery emboldened many of their supporters and at the height of the [[Great Famine]] the SCA and its affiliates had captured several towns and small cities across Alabama, Mississippi, Georgia, Tennessee, Arkansas, Texas, Missouri, Kentucky, Ohio, and Indiana, clashing with National Guard forces and sustaining their grip on these communities by capturing truck stops and thus controlling the flow of food stuffs to much of their territory. The Harris administration responded by nationalizing the state national guards of the various states where SCA terrorist activity was most predominant, but refused to declare martial law. Harris's public response fueled opposition to the Democrats and the administration by Progressive groups who themselves were becoming emboldened by such a clear enemy to the Republic. While Harris's public response was seen as a half measure, the administration was also ordering covert operations against the SCA that would not become public knowledge until 2042. These operations were extremely effective in breaking the SCA's network of control, however the details of their battle record won't be declassified until 2177.\n\nDespite the success of the US Special Forces, the SCA and their affiliates remained a serious public threat well into the year of 2028. Their territory had largely been pushed back to Alabama and Mississippi, but as they fell back the group and their supporters carried out increasingly violent acts of domestic terrorism, including setting fire to whole towns, destroying oil pipelines, and staging public executions of African-Americans, Hispanics, people of mixed race, Muslims, Jewish people, women, neurodiverse individuals, homosexuals, and reporters. While the strategic integrity of the SCA was collapsing, the brutality of these acts contributed to a public perception that the Harris administration was not capable of defeating the SCA and is cited by political theorists as an important contributing factor for the [[Seventh Party System|Progressive Sweep]] in the [[United States presidential election, 2028|elections of 2028]].\n\nShortly after [[Alexandria Ocasio-Cortez]] took office in 2029, the SCA had largely been pushed back to Mobile and their affiliates had gone underground. One of Ocasio-Cortez's first acts upon taking office was the deploying of the US Army to Mobile in a seven day assault that ended with the deaths of all remaining members of the SCA. Following the disbandment of the Sovereign Citizen's Alliance, the Ocasio-Cortez administration declared white supremacist groups and other domestic extremist movements to be a clear and present danger to the national security of the United States. Immediately after the liberation of Mobile, federal raids across the country against similar movements became commonplace and increased powers were given to the FBI to monitor and shut down online groups if they were determined to be a potential security threat. As a result of these acts, most white supremacist and racial extremist movements were forced back underground. The SCA was, and has been, the only attempt by these groups to form a unified political entity during this period.\n[[Category:Unrecognized countries]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-12-30T01:05:46Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Both"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country/autocat"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Main other"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ns0"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ordinal"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str find"
+          },
+          {
+            "ns": 10,
+            "title": "Template:WIP"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "Sovereign Citizen's Alliance",
+        "touched": "2024-06-08T01:03:41Z"
+      },
+      "2719": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7836,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2719,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7836,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-09T15:33:02Z"
+          }
+        ],
+        "title": "File:Christian Separatist Flag.png",
+        "touched": "2023-03-02T16:47:55Z"
+      },
+      "2720": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7839,
+        "length": 73,
+        "new": "",
+        "ns": 1,
+        "pageid": 2720,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7839,
+            "slots": {
+              "main": {
+                "*": "I think something with the name \"patriots\" in it would make better sense.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-09T23:28:37Z"
+          }
+        ],
+        "title": "Talk:Sovereign Citizen's Alliance/@comment-5590986-20180509232837",
+        "touched": "2018-05-09T23:28:37Z"
+      },
+      "2721": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7849,
+        "length": 66,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2721,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7849,
+            "slots": {
+              "main": {
+                "*": "Hi NTrio, what about LoPac?<ac_metadata title=\"Hi\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-10T07:28:44Z"
+          }
+        ],
+        "title": "Thread:NTrio Mapping/@comment-33992316-20180510072844",
+        "touched": "2018-05-10T07:28:44Z"
+      },
+      "2722": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7850,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2722,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7850,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-10T07:28:46Z"
+          }
+        ],
+        "title": "Message Wall:Gralician Federation",
+        "touched": "2018-05-10T07:28:48Z"
+      },
+      "2723": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7851,
+        "length": 557,
+        "links": [
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          },
+          {
+            "ns": 1201,
+            "title": "Thread:2721"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2723,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7851,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Thread:2721|Hi]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-10T07:28:47Z"
+          }
+        ],
+        "title": "Thread:Gralician Federation/@comment-32769624-20180510072846",
+        "touched": "2018-05-10T07:28:47Z"
+      },
+      "2724": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 7852,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2724,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7852,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-10T07:28:48Z"
+          }
+        ],
+        "title": "User:Gralician Federation",
+        "touched": "2018-05-10T07:28:48Z"
+      },
+      "2725": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7859,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2725,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7859,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-11T00:59:02Z"
+          }
+        ],
+        "title": "File:Azawad Flag.png",
+        "touched": "2018-05-14T18:17:10Z"
+      },
+      "2726": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7860,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2726,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7860,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-11T01:09:06Z"
+          }
+        ],
+        "title": "File:Flag of Mali.png",
+        "touched": "2018-05-17T20:35:47Z"
+      },
+      "2727": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7862,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2727,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7862,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-11T01:11:11Z"
+          }
+        ],
+        "title": "File:Flag of Biafra.png",
+        "touched": "2018-05-14T18:17:10Z"
+      },
+      "2728": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7863,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2728,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7863,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-11T01:15:46Z"
+          }
+        ],
+        "title": "File:Flag of Arewa Republic.png",
+        "touched": "2018-05-14T18:17:10Z"
+      },
+      "2729": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7865,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2729,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7865,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-11T01:25:41Z"
+          }
+        ],
+        "title": "File:Med Union Map.png",
+        "touched": "2018-05-11T01:30:16Z"
+      },
+      "2730": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7870,
+        "length": 151,
+        "ns": 6,
+        "pageid": 2730,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7867,
+            "revid": 7870,
+            "slots": {
+              "main": {
+                "*": "Crteated by Nils AKA [https://federalrepublic.deviantart.com/ FederalRepublic]\n\nhttps://federalrepublic.deviantart.com/art/Tenere-Republic-271249800",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-11T14:34:17Z"
+          }
+        ],
+        "title": "File:Tenere Flag.png",
+        "touched": "2018-05-11T14:34:17Z"
+      },
+      "2731": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7873,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2731,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7873,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-13T16:54:32Z"
+          }
+        ],
+        "title": "File:The American Troubles.png",
+        "touched": "2018-05-13T20:19:17Z"
+      },
+      "2732": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7878,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2732,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7878,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-14T18:16:49Z"
+          }
+        ],
+        "title": "File:Flag of Nigeria.png",
+        "touched": "2018-05-15T05:58:24Z"
+      },
+      "2733": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7881,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2733,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7881,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-15T17:55:19Z"
+          }
+        ],
+        "title": "File:Sahara War.png",
+        "touched": "2018-05-15T18:00:06Z"
+      },
+      "2734": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7884,
+        "length": 54,
+        "new": "",
+        "ns": 1,
+        "pageid": 2734,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7884,
+            "slots": {
+              "main": {
+                "*": "What are the demographics of the European Association?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-16T23:58:31Z"
+          }
+        ],
+        "title": "Talk:European Association/@comment-159.255.53.14-20180516235831",
+        "touched": "2018-05-16T23:58:31Z"
+      },
+      "2735": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7885,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2735,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7885,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-17T15:41:17Z"
+          }
+        ],
+        "title": "File:Tuareg Union Flag.png",
+        "touched": "2018-05-17T15:47:10Z"
+      },
+      "2736": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Former countries in Africa"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Former country articles requiring maintenance"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Flag of Mali.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Tuareg Union Flag.png"
+          }
+        ],
+        "lastrevid": 7893,
+        "length": 2327,
+        "links": [
+          {
+            "ns": 0,
+            "title": "African Commonwealth"
+          },
+          {
+            "ns": 0,
+            "title": "Confederated tribal constitutional republic"
+          },
+          {
+            "ns": 0,
+            "title": "Congress"
+          },
+          {
+            "ns": 0,
+            "title": "Earth Working Group"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Tuareg Union"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of the Tuareg Union"
+          },
+          {
+            "ns": 0,
+            "title": "General Assembly"
+          },
+          {
+            "ns": 0,
+            "title": "Mali"
+          },
+          {
+            "ns": 0,
+            "title": "Mediterranean Franc ($)"
+          },
+          {
+            "ns": 0,
+            "title": "Sahara War"
+          },
+          {
+            "ns": 0,
+            "title": "The Refreeze"
+          },
+          {
+            "ns": 0,
+            "title": "Timbuktu"
+          },
+          {
+            "ns": 0,
+            "title": "Tribal Council"
+          },
+          {
+            "ns": 0,
+            "title": "Tuareg Federation"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in 2125"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2120s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 2125"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories disestablished in the 22nd century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in 2061"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 2060s"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 2061"
+          },
+          {
+            "ns": 14,
+            "title": "Category:States and territories established in the 21st century"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2736,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7891,
+            "revid": 7893,
+            "slots": {
+              "main": {
+                "*": "{{Infobox former country\n|conventional_long_name = United Tuareg Tribal Republic\n| common_name            = Tuareg Union\n| continent              = Africa\n| region                 = Sahara\n| government_type        = Confederated tribal constitutional republic\n| image_map              = \n| image_map_caption      = \n| image_flag             = Tuareg_Union_Flag.png\n| coa_size               = x70px\n| symbol_type            = Coat of Arms\n| symbol                 = Coat of arms of Mexico\n| image_coat             = \n| year_start             = 2061\n| year_end               = 2125\n| era                    = \n|national_motto = \n|national_anthem = \n|capital = Timbuktu\n|largest_city = Timbuktu\n|languages = Tuareg\n|languages_type = National language\n| event_pre    = Independence from Mali Declared\n| date_pre     = 1 September 2061\n| event_start  = \n| date_start   = \n| event_end    = In Salah Constitutional Convention\n| date_end     = November 19, 2125\n| p1           = Mali\n| image_p1     = [[File:Flag_of_Mali.png|20px|link=]]\n| s1           = Tuareg Federation\n| image_s1     = [[File:Tuareg_Union_Flag.png|20px|link=]]\n| title_leader = President\n| leader1      = \n| year_leader1 = \n| title_deputy = Vice President\n| deputy1      = \n| legislature  = Congress\n| house1       = Tribal Council \n| house2       = General Assembly\n| stat_year1   = \n| stat_area1   = \n| stat_pop1    = \n| today        = [[African Commonwealth]]\n| footnotes    = \n| width        = 265px\n| currency = Mediterranean Franc ($)\n}}\n\nThe '''Tuareg Union''' officially the '''United Tuareg Tribal Republic,''' abbreviated as the UTTR, was a nation-state in the Sahara region of Africa that existed from 2061 to 2125.\n\nThe Tuareg Union was formed during [[The Refreeze|the Refreeze]] when the Sahara terraforming project of the [[Earth Working Group]] neared completion. Several local leaders who'd cooperated with the EWG met in a tribal council where they declared that their people had a sovereign claim to this land when it was considered worthless and they would exercise that claim now that it was valuable.\n\nThe Tuareg Union formally ended in 2125 after the Treaty of Tripoli and was reconstituted into the Tuareg Federation, having lost its southern territory to separatist groups during the [[Sahara War]].\n[[Category:Former countries in Africa]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-17T20:35:47Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:!!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Both"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox former country/autocat"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Main other"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ns0"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Ordinal"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Str find"
+          },
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "Tuareg Union",
+        "touched": "2018-05-17T20:35:47Z"
+      },
+      "2737": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7895,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2737,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7895,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-17T21:30:05Z"
+          }
+        ],
+        "title": "Message Wall:Ritzgrandmaster",
+        "touched": "2018-05-17T21:30:06Z"
+      },
+      "2738": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7896,
+        "length": 561,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Col-begin"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2738,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7896,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Template:Col-begin]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-17T21:30:05Z"
+          }
+        ],
+        "title": "Thread:Ritzgrandmaster/@comment-32769624-20180517213005",
+        "touched": "2018-05-17T21:30:05Z"
+      },
+      "2739": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 7897,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2739,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7897,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-17T21:30:06Z"
+          }
+        ],
+        "title": "User:Ritzgrandmaster",
+        "touched": "2018-05-17T21:30:06Z"
+      },
+      "2740": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7903,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2740,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7903,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-19T16:07:08Z"
+          }
+        ],
+        "title": "File:Dissolution of the European Union.png",
+        "touched": "2018-05-19T16:17:22Z"
+      },
+      "2741": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7909,
+        "length": 198,
+        "new": "",
+        "ns": 1,
+        "pageid": 2741,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7909,
+            "slots": {
+              "main": {
+                "*": "Does every Associated State have its own defensive paramilitary force, such as a European Association Army or Defense Force, or are all military activities of the states fall under the US Military?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-24T23:24:06Z"
+          }
+        ],
+        "title": "Talk:Associated state/@comment-24.165.26.87-20180524232406",
+        "touched": "2018-05-24T23:24:07Z"
+      },
+      "2742": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7910,
+        "length": 133,
+        "new": "",
+        "ns": 1,
+        "pageid": 2742,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7910,
+            "slots": {
+              "main": {
+                "*": "I'd advise against making this page. Not because I think it's not going to happen, but because it's so sensitive to current events. ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-25T06:02:29Z"
+          }
+        ],
+        "title": "Talk:Trump-Russia scandal/@comment-24.224.66.196-20180525060229",
+        "touched": "2018-05-25T06:02:29Z"
+      },
+      "2743": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7914,
+        "length": 153,
+        "ns": 6,
+        "pageid": 2743,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7913,
+            "revid": 7914,
+            "slots": {
+              "main": {
+                "*": "== Summary ==\nProposal for Flag of the State of Brazos, based very largely off the historical Flag of Dallas from 1916-1967.\n\n== Licensing ==\n{{Fairuse}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-26T00:00:45Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Fairuse"
+          }
+        ],
+        "title": "File:Brazos Flag 1.svg",
+        "touched": "2018-05-26T00:00:45Z"
+      },
+      "2744": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7915,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2744,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7915,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-26T17:45:39Z"
+          }
+        ],
+        "title": "File:US-O1 insignia.png",
+        "touched": "2018-05-27T08:41:59Z"
+      },
+      "2745": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7916,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2745,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7916,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-26T17:46:04Z"
+          }
+        ],
+        "title": "File:US-O2 insignia.png",
+        "touched": "2018-05-27T08:41:59Z"
+      },
+      "2746": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7917,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2746,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7917,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-26T17:46:25Z"
+          }
+        ],
+        "title": "File:US-O3 insignia.png",
+        "touched": "2018-05-27T08:43:26Z"
+      },
+      "2747": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7918,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2747,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7918,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-26T17:46:40Z"
+          }
+        ],
+        "title": "File:US-O4 insignia.png",
+        "touched": "2018-05-27T08:43:26Z"
+      },
+      "2748": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7919,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2748,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7919,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-05-26T17:47:03Z"
+          }
+        ],
+        "title": "File:US-O5 insignia.png",
+        "touched": "2018-05-27T08:44:55Z"
+      }
+    }
+  }
+}

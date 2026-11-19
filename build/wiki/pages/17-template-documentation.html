@@ -1,0 +1,90 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Template:Documentation | Second Renaissance</title><link rel="stylesheet" href="../assets/wiki.css"></head><body><header class="top"><a class="brand" href="../index.html">Second Renaissance Wikia</a><a href="../all-pages.html">Explore</a><a href="../categories.html">Categories</a><input id="search" class="search" placeholder="Search this wiki" oninput="findPage(this.value)"></header><div class="layout"><aside><h3>Navigation</h3><a href="../index.html">Main page</a><a href="../all-pages.html">All pages</a><a href="../categories.html">Categories</a><h3>Archive</h3><a href="../continuity.html">Continuity report</a><a href="../source-corpus.html">Source provenance</a></aside><main><h1 class="title">Template:Documentation</h1><article class="article"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><table class="article-table" style="width:100%;">
+
+<tbody><tr style="font-size:18px;">
+<th>Template documentation follows
+</th></tr>
+<tr>
+<td><i>Note: the template above may sometimes be partially or fully invisible.</i>
+</td></tr>
+<tr>
+<td>Visit <a href="pages/19-template-documentation-doc.html" title="Template:Documentation/doc">Template:Documentation/doc</a> to edit this documentation. (<strong class="mw-selflink selflink">How does this work?</strong>)
+</td></tr></tbody></table>
+<div style="margin:0 1em;">
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1"><a href="#Syntax"><span class="tocnumber">2</span> <span class="toctext">Syntax</span></a></li>
+<li class="toclevel-1"><a href="#Usage"><span class="tocnumber">3</span> <span class="toctext">Usage</span></a>
+<ul>
+<li class="toclevel-2"><a href="#On_the_Template_page"><span class="tocnumber">3.1</span> <span class="toctext">On the Template page</span></a></li>
+<li class="toclevel-2"><a href="#On_the_Template/doc_page"><span class="tocnumber">3.2</span> <span class="toctext">On the Template/doc page</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This template is used to insert descriptions on template pages.
+</p>
+<h2><span class="mw-headline" id="Syntax">Syntax</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Add <code>&lt;noinclude&gt;{{<strong class="mw-selflink selflink">documentation</strong>}}&lt;/noinclude&gt;</code> at the end of the template page.
+</p>
+<h2><span class="mw-headline" id="Usage">Usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="On_the_Template_page">On the Template page</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This is the normal format when used:
+</p>
+<pre>TEMPLATE CODE&lt;includeonly&gt;Any categories to be inserted into articles by the template&lt;/includeonly&gt;&lt;noinclude&gt;
+{{documentation}}&lt;/noinclude&gt;
+</pre>
+<p><i>If your template is not a completed div or table, you may need to close the tags just before <code>{{documentation}}</code> is inserted (within the noinclude tags).</i>
+</p><p><i>A line break right before <code>{{documentation}}</code> can also be useful as it helps prevent the documentation template "running into" previous code.</i>
+</p>
+<h3><span id="On_the_Template.2Fdoc_page"></span><span class="mw-headline" id="On_the_Template/doc_page">On the Template/doc page</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Normally, you will want to write something like the following on the documentation page:
+</p>
+<pre>==Description==
+This template is used to do something.
+
+==Syntax==
+Type &lt;code&gt;{{t|templatename}}&lt;/code&gt; somewhere.
+
+==Samples==
+&lt;code&gt;&lt;nowiki&gt;{{templatename|input}}&lt;/nowiki&gt;&lt;/code&gt; 
+
+results in...
+
+{{templatename|input}}
+
+&lt;includeonly&gt;Any categories for the template itself&lt;/includeonly&gt;&lt;noinclude&gt;[[Category:Template documentation|{{PAGENAME}}]]&lt;/noinclude&gt;
+</pre>
+<p>Use any or all of the above description/syntax/sample output sections. You may also want to add "see also" or other sections.
+</p>
+Note that the above example also uses the <a href="pages/40-template-t.html" title="Template:T">Template:T</a> and <a href="pages/41-template-t-piece.html" title="Template:T/piece">Template:T/piece</a> templates.</div>
+<!-- 
+NewPP limit report
+Cached time: 20261119205354
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.018 seconds
+Real time usage: 0.022 seconds
+Preprocessor visited node count: 203/1000000
+Post‐expand include size: 3124/2097152 bytes
+Template argument size: 86/2097152 bytes
+Highest expansion depth: 8/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 681/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   10.858      1 Template:Documentation
+100.00%   10.858      1 -total
+ 95.08%   10.324      1 Template:Documentation/doc
+ 56.59%    6.144      1 Template:T
+ 27.05%    2.937     20 Template:T/piece
+-->
+
+<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:17-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205354 and revision id 17. Rendering was triggered because: api-parse
+ -->
+</div></article><div class="meta">Mirrored from <a href="https://second-renaissance.fandom.com/wiki/Template%3ADocumentation">Fandom</a> · revision 17 · page ID 17</div></main></div><script src="../assets/wiki.js"></script></body></html>

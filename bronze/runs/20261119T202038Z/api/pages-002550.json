@@ -1,0 +1,1459 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "2647": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7559,
+        "length": 119,
+        "new": "",
+        "ns": 1,
+        "pageid": 2647,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7559,
+            "slots": {
+              "main": {
+                "*": "True.\n\nBut, I don't think Saber-Toothed Cats will be making a comeback, as they were machairodonts, and not \"big cats\".",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-08T01:04:00Z"
+          }
+        ],
+        "title": "Talk:De-Extinction/@comment-34843935-20180305221354/@comment-34843935-20180308010400",
+        "touched": "2018-03-08T01:04:00Z"
+      },
+      "2648": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7562,
+        "length": 175,
+        "new": "",
+        "ns": 1,
+        "pageid": 2648,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7562,
+            "slots": {
+              "main": {
+                "*": "Ynot1989's idea is that they're incubated in artificial wombs, so having no close living relatives isnt a problems. I dont necessarily agree with it, but I let him keep it. ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-08T05:17:51Z"
+          }
+        ],
+        "title": "Talk:De-Extinction/@comment-34843935-20180305221354/@comment-34930587-20180308051751",
+        "touched": "2018-03-08T05:17:51Z"
+      },
+      "2649": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7563,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2649,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7563,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-08T05:17:52Z"
+          }
+        ],
+        "title": "Message Wall:Specboy93",
+        "touched": "2018-03-08T05:17:53Z"
+      },
+      "2650": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7564,
+        "length": 556,
+        "links": [
+          {
+            "ns": 0,
+            "title": "De-Extinction"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2650,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7564,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:De-Extinction]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-08T05:17:52Z"
+          }
+        ],
+        "title": "Thread:Specboy93/@comment-32769624-20180308051752",
+        "touched": "2018-03-08T05:17:52Z"
+      },
+      "2651": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 7565,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2651,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7565,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-08T05:17:53Z"
+          }
+        ],
+        "title": "User:Specboy93",
+        "touched": "2019-05-06T00:23:06Z"
+      },
+      "2652": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9799,
+        "length": 42,
+        "ns": 1,
+        "pageid": 2652,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7573,
+            "revid": 9799,
+            "slots": {
+              "main": {
+                "*": "I think there are templates for quotations",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-10-05T19:14:05Z"
+          }
+        ],
+        "title": "Talk:Honda Hippies/@comment-5590986-20180308062553",
+        "touched": "2020-10-05T19:14:05Z"
+      },
+      "2653": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7581,
+        "length": 94,
+        "ns": 1,
+        "pageid": 2653,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7580,
+            "revid": 7581,
+            "slots": {
+              "main": {
+                "*": "Oh yeah, those things.   \n\n\nI personal think artificial wombs are not a bad idea to be honest.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-09T02:38:59Z"
+          }
+        ],
+        "title": "Talk:De-Extinction/@comment-34843935-20180305221354/@comment-34843935-20180309023818",
+        "touched": "2018-03-09T02:38:59Z"
+      },
+      "2654": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7610,
+        "length": 561,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2654,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7610,
+            "slots": {
+              "main": {
+                "*": "i know we've had our struggles in the past, i do realize this isnt the best place to ask you for help but its a place no one can interupt what im trying to say.\n\ni know ive done wrong in the past but can you help end the aen-trio conflict, i dont want a part in it, aen and his army spammed my pages and won't listen to me when i say im not trying to pass the map off as my own hence why i kept his map and used it directly,\n\nhe won't listen to me and his army will carry on spamming, please talk to him\n\n~ Trio<ac_metadata title=\"can you help?\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-13T23:40:06Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006",
+        "touched": "2018-03-25T06:25:59Z"
+      },
+      "2655": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7611,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2655,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7611,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-13T23:40:07Z"
+          }
+        ],
+        "title": "Message Wall:NTrio Mapping",
+        "touched": "2018-05-10T07:28:44Z"
+      },
+      "2656": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7612,
+        "length": 568,
+        "links": [
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          },
+          {
+            "ns": 1201,
+            "title": "Thread:2654"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2656,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7612,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Thread:2654|can you help?]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-13T23:40:08Z"
+          }
+        ],
+        "title": "Thread:NTrio Mapping/@comment-32769624-20180313234007",
+        "touched": "2018-03-13T23:40:08Z"
+      },
+      "2657": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 7613,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2657,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7613,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-13T23:40:08Z"
+          }
+        ],
+        "title": "User:NTrio Mapping",
+        "touched": "2018-03-22T12:52:48Z"
+      },
+      "2658": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7622,
+        "length": 719,
+        "ns": 1201,
+        "pageid": 2658,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7621,
+            "revid": 7622,
+            "slots": {
+              "main": {
+                "*": "I don't even know what the hell any of this is. I never even heard of or where this had happened.\n\n\"aen and his army\" He doesn't even have an army, he doesn't even have alternate accounts to \"spam\". It's most likely other users who CHOSE to take his side of the conflict. Actually I don't think this should be a conflict at all. Just some unneccessary situation that shouldn't even be a problem about an image. I don't even see spam at all in the logs.\n\nI don't even know how all this even started. I'll talk to him to understand, but where ever this unneccessary thing is, you should form it into a more civilized discussion (while not antagonizing the 'other side'). \n\nBut please, never talk to me (on here) again.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-14T01:06:14Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006/@comment-5590986-20180314005932",
+        "touched": "2018-03-14T01:06:14Z"
+      },
+      "2659": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7623,
+        "length": 397,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2659,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7623,
+            "slots": {
+              "main": {
+                "*": "(Don't respond)\n\n\"I'm not angry that you created a nation using the borders of a shitty map I made. I'm angry because you used my own map and passed it off as your own.\" - Aen\n\n\"yes and i never claimed credit for it.\" - NTrio\n\n-\n\nHere's a solution: You can give credit to Aen WHILE being able to use the image by putting\n\n\"Original image/map by Aen\" or along the lines of it within the captions.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-14T01:14:22Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006/@comment-5590986-20180314011422",
+        "touched": "2018-03-14T01:14:22Z"
+      },
+      "2661": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7637,
+        "length": 761,
+        "new": "",
+        "ns": 10,
+        "pageid": 2661,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7637,
+            "slots": {
+              "main": {
+                "*": "<infobox>\n  <image source=\"image1\">\n    <caption source=\"caption1\"/>\n  </image>\n  <data source=\"born\">\n    <label>Born</label>\n  </data>\n  <data source=\"notable_works\">\n    <label>Notable Works</label>\n  </data>\n  <data source=\"relatives\">\n    <label>Relatives</label>\n  </data>\n  <data source=\"spouse\">\n    <label>Spouse</label>\n  </data>\n  <data source=\"children\">\n    <label>Children</label>\n  </data>\n  <data source=\"occupation\">\n    <label>Occupation</label>\n  </data>\n  <group>\n    <header>Alexander Moreau</header>\n  </group>\n</infobox>\n<noinclude>\nExample usage:<pre>\n{{Alexander Moreau\n|image1=Example\n|caption1=Example\n|born=Example\n|notable_works=Example\n|relatives=Example\n|spouse=Example\n|children=Example\n|occupation=Example\n}}\n</pre>\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-15T00:43:51Z"
+          }
+        ],
+        "title": "Template:Alexander Moreau",
+        "touched": "2018-03-15T00:43:51Z"
+      },
+      "2662": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7640,
+        "length": 38,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Flora and Fauna of Minya"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 2662,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7640,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Flora and Fauna of Minya]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-15T00:52:07Z"
+          }
+        ],
+        "title": "Alexander Moreau",
+        "touched": "2019-02-13T22:47:08Z"
+      },
+      "2663": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7641,
+        "length": 46,
+        "new": "",
+        "ns": 1,
+        "pageid": 2663,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7641,
+            "slots": {
+              "main": {
+                "*": "Desert planet but it says rainforest\n\n\n\n\nehhhh",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-15T04:05:08Z"
+          }
+        ],
+        "title": "Talk:Minya/@comment-5590986-20180315040508",
+        "touched": "2018-03-15T04:05:08Z"
+      },
+      "2664": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7661,
+        "length": 12,
+        "ns": 1,
+        "pageid": 2664,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7652,
+            "revid": 7661,
+            "slots": {
+              "main": {
+                "*": "I'll fix it.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-17T16:52:55Z"
+          }
+        ],
+        "title": "Talk:Minya/@comment-5590986-20180315040508/@comment-34843935-20180315205212",
+        "touched": "2018-03-17T16:52:55Z"
+      },
+      "2665": {
+        "contentmodel": "wikitext",
+        "lastrevid": 9488,
+        "length": 324,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Minya"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2665,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 7761,
+            "revid": 9488,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Minya]]\n\n== Class Dracotheria ==\n\n1. \n\n2.\n\n3.\n\n4.\n\n5.\n\n== Class Pneumatopoda ==\n\n1.\n\n2.\n\n3.\n\n4.\n\n5.\n\n6.\n\n7.\n\n8.\n\n== Class Brachiostoma ==\n\n1.\n\n2.\n\n3.\n\n4.\n\n== Class Allopisces ==\n\n1.\n\n2.\n\n3.\n\n4.\n\n5.\n\n6.\n\n7.\n\n8.\n\n== Class Alioptera ==\n\n1.\n\n2.\n\n3.\n\n4.\n\n5.\n\n6.\n\n7.\n\n8.\n\n9.\n\n10.\n\n11.\n\n12.\n\n13.\n\n14.\n__STATICREDIRECT__",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-11-16T21:35:24Z"
+          }
+        ],
+        "title": "List of Minyan Fauna",
+        "touched": "2019-11-16T21:35:24Z"
+      },
+      "2666": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7656,
+        "length": 1019,
+        "new": "",
+        "ns": 1,
+        "pageid": 2666,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7656,
+            "slots": {
+              "main": {
+                "*": "Minya can't have a fresh water ocean, the erosion of rocks by river systems will invariably lead to large bodies of water becoming salty. The Great Lakes are a rare exception because they sit on a high enough elevation that water being fed into them by rivers also feeds out of them downstream on the St. Lawrence to the Atlanitc Ocean, effectively prevening a buildup of Salt.\n\nSo, \"No\" to fresh water seas.\n\nSecond, global rainforests are a problem on a moon oribiting a gas giant. Let's say its as far away from its parent as Callisto is from Jupiter (and is thus clear of the radiation belt) and has a 17 day orbital period around the planet. So you'd have 8.5 days of darkness. The other 8.5 would have a normal day/night cycle as the moon spins on its access while exposed to the sun. So could such a lack of solar radiation exposer lead to rainforests? The planet is much more likely to defined more by scrubland, icy tundra and plants similar to those in the ocean that can survive with limited access to light.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-16T01:12:46Z"
+          }
+        ],
+        "title": "Talk:Minya/@comment-899576-20180316011246",
+        "touched": "2018-03-16T01:12:46Z"
+      },
+      "2667": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7658,
+        "length": 7,
+        "new": "",
+        "ns": 1,
+        "pageid": 2667,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7658,
+            "slots": {
+              "main": {
+                "*": "Got it.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-16T09:44:00Z"
+          }
+        ],
+        "title": "Talk:Minya/@comment-899576-20180316011246/@comment-100.36.143.251-20180316094400",
+        "touched": "2018-03-16T09:44:00Z"
+      },
+      "2668": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7670,
+        "length": 61,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2668,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7670,
+            "slots": {
+              "main": {
+                "*": "Read what i put on your wall on the madness wiki, i need help",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-18T10:22:50Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006/@comment-33603164-20180318102250",
+        "touched": "2018-03-18T10:22:50Z"
+      },
+      "2669": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7671,
+        "length": 41,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2669,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7671,
+            "slots": {
+              "main": {
+                "*": "What did I say?\n\n\n\n\nand Not there either.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-18T18:36:02Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006/@comment-5590986-20180318183602",
+        "touched": "2018-03-18T18:36:02Z"
+      },
+      "2670": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7672,
+        "length": 222,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2670,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7672,
+            "slots": {
+              "main": {
+                "*": "I said i was banned and accused of \"Abusing multiple accounts: alt or impersonation\"\n\nbanned for 1 year despite having no reason for altmaking as i was accepted back onto the wiki. and perhaps corrosivedragon was mistaken.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-18T19:00:00Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006/@comment-33603164-20180318190000",
+        "touched": "2018-03-18T19:00:00Z"
+      },
+      "2671": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7676,
+        "length": 251,
+        "ns": 1201,
+        "pageid": 2671,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7675,
+            "revid": 7676,
+            "slots": {
+              "main": {
+                "*": "stop talking to me here.\n\n\n\n\nThe staff has concluded that you and preasten are the same person due to similar or matching behavioral patterns and the fact preasten broke rules and spammed. \n\nIf you have evidence or proof otherwise, please present so.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-18T19:11:27Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006/@comment-5590986-20180318190731",
+        "touched": "2018-03-18T19:11:27Z"
+      },
+      "2672": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7679,
+        "length": 76,
+        "ns": 1201,
+        "pageid": 2672,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7678,
+            "revid": 7679,
+            "slots": {
+              "main": {
+                "*": "okay here's a deal. We'll talk to you privately on Discord. send discord tag",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-18T19:22:18Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006/@comment-5590986-20180318191705",
+        "touched": "2018-03-18T19:22:18Z"
+      },
+      "2673": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7681,
+        "length": 868,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2673,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7681,
+            "slots": {
+              "main": {
+                "*": "i have his email, i dont have discord anymore it got hacked a month ago, i havent been able to get back on it, i never gave my password away but yeah this is not evidence this is my defence.\n\nalso my personality is not an uncommon one.\n\nand also i believe preasten lives in yorkshire yet i live in essex, you can believe what you want but i know im telling the honest truth, you can doubt me because of my past but i honestly have no evidence but i know i am not lying and aslong as im doing, the fact i wasnt even interested in coming back to the wiki the time preasten joined, i was only interested in november december time because of ethan changing his official nation to mine.\n\njuly 9th 2017 is when preasten joined\n\ni joined in november\n\nyet preasten still remained active surely if he was me he would of stopped being active around the time i rejoined the wiki.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-19T13:42:46Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006/@comment-33603164-20180319134246",
+        "touched": "2018-03-19T13:42:46Z"
+      },
+      "2674": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7684,
+        "length": 336,
+        "ns": 1201,
+        "pageid": 2674,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7682,
+            "revid": 7684,
+            "slots": {
+              "main": {
+                "*": "do i like preasten?\n\nno he is a prick who took credit for my work.\n\nam i preasten?\n\ni would of said \"no i dont think so\" in a jokey way hoping you would see the sarcasm in my words meaning \"No im not preasten\"\n\nbut i have to be more clear, IM NOT PREASTEN\n\npreasten has his own discord, me i dont anymore because some A$$hole hacked it.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-19T13:47:30Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006/@comment-33603164-20180319134606",
+        "touched": "2018-03-19T13:47:30Z"
+      },
+      "2675": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7683,
+        "length": 82,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2675,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7683,
+            "slots": {
+              "main": {
+                "*": "and honestly why would i be an alt when i already got one account, thats my logic.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-19T13:47:11Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006/@comment-33603164-20180319134711",
+        "touched": "2018-03-19T13:47:12Z"
+      },
+      "2676": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7686,
+        "length": 64,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2676,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7686,
+            "slots": {
+              "main": {
+                "*": "There is such thing as making another discord. That is possible.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-19T22:37:09Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006/@comment-5590986-20180319223709",
+        "touched": "2018-03-19T22:37:09Z"
+      },
+      "2677": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7693,
+        "length": 253,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2677,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7693,
+            "slots": {
+              "main": {
+                "*": "ill do it when i ge tthe chance, but can you please trust what i say, i dont want to stay banned again for something i haven't done. it is kinda unfair. i know i have no evidence but the fact i know im not lying, I know im not preasten should be enough.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-20T08:10:19Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006/@comment-33603164-20180320081019",
+        "touched": "2018-03-20T08:10:19Z"
+      },
+      "2678": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7694,
+        "length": 172,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2678,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7694,
+            "slots": {
+              "main": {
+                "*": "all i wanted is to redeem myself, ive stopped the alt making i was turning over a new page, i was just so all of a sudden banned the other day i just didnt know what to do.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-20T08:12:12Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006/@comment-33603164-20180320081212",
+        "touched": "2018-03-20T08:12:12Z"
+      },
+      "2680": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7700,
+        "length": 164,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2680,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7700,
+            "slots": {
+              "main": {
+                "*": "I dont think you can end the issue by ignoring me and not doing anything, i understand you were doing your job but you need to admit when you are wrong at times ok.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-22T12:24:31Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006/@comment-33603164-20180322122431",
+        "touched": "2018-03-22T12:24:31Z"
+      },
+      "2681": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7704,
+        "length": 399,
+        "ns": 1201,
+        "pageid": 2681,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7703,
+            "revid": 7704,
+            "slots": {
+              "main": {
+                "*": "<div class=\"quote\">NTrio Mapping wrote:<br />I dont think you can end the issue by ignoring me and not doing anything, i understand you were doing your job but you need to admit when you are wrong at times ok.</div>\nI asked for your discord so we can discuss it over the discord. You didn't give me it nor gave me anywhere to look for it.  \n\n\n\n\nI am offering you a way out and you aren't taking it.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-22T23:48:03Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006/@comment-5590986-20180322234247",
+        "touched": "2018-03-22T23:48:03Z"
+      },
+      "2682": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7705,
+        "length": 15,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2682,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7705,
+            "slots": {
+              "main": {
+                "*": "TrioBoimap#4571",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-23T10:53:17Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006/@comment-33603164-20180323105317",
+        "touched": "2018-03-23T10:53:17Z"
+      },
+      "2683": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Authors"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 9562,
+        "length": 2963,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Human"
+          },
+          {
+            "ns": 0,
+            "title": "The Microcontinents: A Natural History"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2683,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9487,
+            "revid": 9562,
+            "slots": {
+              "main": {
+                "*": "Damian Frederick Holland, or better known by his penname, as Malcolm Moreau, is a [[Human|theriform human]] science fiction writer and comic book artist. He is best known for his 10-book series entitled ''The Microcontinents: A Natural History''.\n\n== Early Life ==\nDamian was born on January 17, 2086, in Washington County, Oregon. As a theriform human, he had the physical characteristics, and abilities of the animal donor parent. In Damian's case, it was an emu, which made him a fast runner, and agile. Making any attempt at catching him a near impossible task. His emu DNA also gave Damian a shaggy appearance, which was often a source of ridicule. He was also known for having a relatively deep voice compared to the other kids.\n\nAt age 17, he became interested in speculative biology after acquiring copies of ''The World of Kong: A Natural History of Skull Island'' by Weta Workshop and ''After Man: A Zoology Of The Future ''by Dougal Dixon, as well as becoming an active member of the ''Speculative Evolution'' internet forum under the username Shagrat86. Despite the books' scientific inaccuracies regarding the wildlife, it sowed the seeds in his mind, the blueprints of what would become his life's work. During his writing class, he presented a rough draft of a story that he described as, \"an example of how not to write a hollow earth story.\" Despite his lack of confidence in the draft, it was well-received by most of his classmates.\n\nHe graduated from Jefferson Online College with a modified diploma and received a PhD in Linguistics on June 14, 2110.\n\n== Natural Histories ==\nHolland's most famous work by far is ''[[The Microcontinents: A Natural History]],'' a 10-book series describing hypothetical ecosystems that may have existed in Earth's distant past on landmasses that have since disappeared underwater. Each book in the series was styled as a \"field guide\" to a different prehistoric landmass at a different time. The series currently contains ten books.\n\nThe books included the following:\n\n''Tropical Antarctica ''(Antarctica, 150 million years ago)\n\n''Edge of the World'' (Kerguelen Plateau, 75 million years ago)\n\n''Sundaland (''Indonesia, 2 million years ago)\n\n''The Great Island ''(Maui Nui, Hawaii, 1 million years ago)\n\n''Shell, Feather, and Bone ''(Zealandia, 35 million years ago)\n\n== Comics ==\n\n== Physical Appearance ==\nAs mentioned above, Damien is a genetic chimera of a human and an emu, with the balance being human. While he has a human's general body plan, the lower portions of his legs are elongated, and heavily muscled. Each foot is digitigrade in structure and bore three, long toes, with the middle toe being longer than the other toes. The structure of his feet meant that if he was in a tough situation, he could outrun his aggressors, or strike them down with his bone-cracking kicks. His arms were normal human arms, but with feather quills lining his elbows, and ended at the wrists.\n[[Category:Authors]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-02-10T13:57:26Z"
+          }
+        ],
+        "title": "Malcolm Moreau",
+        "touched": "2020-02-10T13:59:05Z"
+      },
+      "2684": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7709,
+        "length": 17,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2684,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7709,
+            "slots": {
+              "main": {
+                "*": "thats my username",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-24T22:40:29Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006/@comment-33603164-20180324224029",
+        "touched": "2018-03-24T22:40:29Z"
+      },
+      "2685": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7710,
+        "length": 21,
+        "new": "",
+        "ns": 1,
+        "pageid": 2685,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7710,
+            "slots": {
+              "main": {
+                "*": "Who the hell is this?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-24T23:21:30Z"
+          }
+        ],
+        "title": "Talk:Malcolm Moreau/@comment-30470028-20180324232130",
+        "touched": "2018-03-24T23:21:30Z"
+      },
+      "2686": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7711,
+        "length": 24,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2686,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7711,
+            "slots": {
+              "main": {
+                "*": "accept Jmathias' request",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-25T04:37:38Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006/@comment-5590986-20180325043738",
+        "touched": "2018-03-25T04:37:38Z"
+      },
+      "2687": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7713,
+        "length": 91,
+        "ns": 1,
+        "pageid": 2687,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7712,
+            "revid": 7713,
+            "slots": {
+              "main": {
+                "*": "Probably the guy who discovered Velmin?\n\nidk, its made by the same guy who made those pages",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-25T04:46:33Z"
+          }
+        ],
+        "title": "Talk:Malcolm Moreau/@comment-30470028-20180324232130/@comment-5590986-20180325044540",
+        "touched": "2018-03-25T04:46:33Z"
+      },
+      "2688": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7714,
+        "length": 31,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2688,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7714,
+            "slots": {
+              "main": {
+                "*": "i dont have a request from him.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-25T06:25:59Z"
+          }
+        ],
+        "title": "Thread:Batran99/@comment-33603164-20180313234006/@comment-33603164-20180325062559",
+        "touched": "2018-03-25T06:25:59Z"
+      },
+      "2689": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7715,
+        "length": 147,
+        "new": "",
+        "ns": 1,
+        "pageid": 2689,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7715,
+            "slots": {
+              "main": {
+                "*": "An a science fiction author that was one of three people, that have been credited with the discovery of Velmin, as he was present during the event.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-26T00:13:42Z"
+          }
+        ],
+        "title": "Talk:Malcolm Moreau/@comment-30470028-20180324232130/@comment-34843935-20180326001342",
+        "touched": "2018-03-26T00:13:42Z"
+      },
+      "2690": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7716,
+        "length": 45,
+        "new": "",
+        "ns": 1,
+        "pageid": 2690,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7716,
+            "slots": {
+              "main": {
+                "*": "By the way, how do you get rid of info boxes?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-26T00:17:25Z"
+          }
+        ],
+        "title": "Talk:Malcolm Moreau/@comment-30470028-20180324232130/@comment-34843935-20180326001725",
+        "touched": "2018-03-26T00:17:26Z"
+      },
+      "2691": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7722,
+        "length": 47,
+        "ns": 1,
+        "pageid": 2691,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7720,
+            "revid": 7722,
+            "slots": {
+              "main": {
+                "*": "go into classic editor and play around with it.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-26T23:51:03Z"
+          }
+        ],
+        "title": "Talk:Malcolm Moreau/@comment-30470028-20180324232130/@comment-5590986-20180326235008",
+        "touched": "2018-03-26T23:51:04Z"
+      },
+      "2692": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7727,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2692,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7727,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-28T20:29:41Z"
+          }
+        ],
+        "title": "File:North american hyperloop networks by ynot1989-dc75bjb.png",
+        "touched": "2018-03-28T21:18:29Z"
+      },
+      "2693": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Technology"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11404,
+        "length": 2693,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Android"
+          },
+          {
+            "ns": 0,
+            "title": "Lionel Halvidar"
+          },
+          {
+            "ns": 0,
+            "title": "Market Crash of 2027"
+          },
+          {
+            "ns": 0,
+            "title": "Oscar Lachman"
+          },
+          {
+            "ns": 0,
+            "title": "Quantum Capacitor"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2693,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11403,
+            "revid": 11404,
+            "slots": {
+              "main": {
+                "*": "A '''vactrain''' (or '''vacuum tube train''') is a mode of very-high speed rail transportation. It is a maglev (magnetic levitation) line using partly evacuated tubes or tunnels. Reduced air resistance could permit vactrains to travel at very high (hypersonic) speeds with relatively little power—up to 6,400–8,000 km/h (4,000–5,000 mph). This is 5–6 times the speed of sound in Earth's atmosphere at sea level.\n\n== History ==\n===Early history===\nWith the successful human passenger test by Virgin Hyperloop in 2020, and its inclusion in the bipartisan infrastructure bill in 2021, it was only the matter of time before hyperloop truly become a reality. Most hyperloop companies went bankrupt prior to the [[Market Crash of 2027]].\n\n===Development===\nVactrain development slowed considerably after the 2020s after investor capital contracted and government support to high-speed rail grew. After the development of room temperature superconductors and the emergence of the first [[Android]]s, development and operating costs fell considerably, and a new generation of startups emerged in the 2060s and 70s to build the first commercial vactrain tracks in Illinois, Texas, and California. Government regulations and high capital costs limited these tracts to be single-state lines.\n\nThe economic policies of the [[Oscar Lachman|Lachman]] administration saw private vactrain lines expand exponentially, eventually replacing traditional high speed rail. This enabled anyone in the US to travel to anywhere else in the continental US in 30 minutes or less, and after connecting lines were built between the US and Mexico, anywhere on the continent. From here vactrain projects spread worldwide in a high decentralized network, with most governments only administering switching stations and ticketing infrastructure.\n\nThe vactrain network served as a major redistributor of wealth from urban areas to rural communities, and made it much easier to manage the new workforce. Rural regions grew in wealth as urban workers would relocate to buy cheap land and create high density residential developments for citizens commuting to major cities and back. The hyperloop network would be a driving force behind the [[Quantum Capacitor|Quantum Boom of the 2090s]], as it made it easier for businesses to expand or be created on cheap land while still efficiently reaching customers and investors.\n\n===Nationalization===\nDuring the [[Lionel Halvidar]] administration, the US government nationalized most private vactrains on Earth and largely absorbed control of many damaged or bankrupt international networks to create a global vactrain network.\n\n[[Category:Technology]]\n[[Category:21st Century]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-12-22T19:55:11Z"
+          }
+        ],
+        "title": "Vactrain",
+        "touched": "2023-12-22T19:55:11Z"
+      },
+      "2694": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7734,
+        "length": 7,
+        "new": "",
+        "ns": 1,
+        "pageid": 2694,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7734,
+            "slots": {
+              "main": {
+                "*": "Thanks!",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-29T02:09:17Z"
+          }
+        ],
+        "title": "Talk:Malcolm Moreau/@comment-30470028-20180324232130/@comment-34843935-20180329020917",
+        "touched": "2018-03-29T02:09:17Z"
+      },
+      "2695": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7741,
+        "length": 77,
+        "ns": 1,
+        "pageid": 2695,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7740,
+            "revid": 7741,
+            "slots": {
+              "main": {
+                "*": "being born in 2136 is a little bit young imo if he's going to be an explorer.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-31T04:09:55Z"
+          }
+        ],
+        "title": "Talk:Malcolm Moreau/@comment-5590986-20180331040845",
+        "touched": "2018-03-31T04:09:55Z"
+      },
+      "2696": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7743,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2696,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7743,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-04-02T17:24:38Z"
+          }
+        ],
+        "title": "Message Wall:President Mahan",
+        "touched": "2018-04-02T17:24:39Z"
+      },
+      "2697": {
+        "contentmodel": "wikitext",
+        "lastrevid": 7744,
+        "length": 561,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Hypersonic Weapons"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2697,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7744,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Hypersonic Weapons]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-04-02T17:24:39Z"
+          }
+        ],
+        "title": "Thread:President Mahan/@comment-32769624-20180402172439",
+        "touched": "2018-04-02T17:24:39Z"
+      },
+      "2698": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 7745,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2698,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 7745,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-04-02T17:24:39Z"
+          }
+        ],
+        "title": "User:President Mahan",
+        "touched": "2018-04-02T17:24:39Z"
+      }
+    }
+  }
+}

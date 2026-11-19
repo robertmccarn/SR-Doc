@@ -1,0 +1,111 @@
+<mainpage-leftcolumn-start />
+<center>
+[[File:Welcome.png|center|700px|link=]]'''An encyclopedia for Sean McKnight's Second Renaissance series that [[Help:Editing|anyone can edit]].
+
+[[Special:Statistics|{{NUMBEROFARTICLES}} articles]] since August 2015.<br />
+[[File:About.png|320px|center|link=]]
+</center>
+'''The Second Renaissance''' is a futurist series written by American engineer and writer Sean McKnight (YNot1989). He began creating this series in 2007 and reworked it over the course of years to its current form. The Second Renaissance chronicles the next century of politics and war, science and technology, culture and history through the lens of realist forecasting via high concept sci-fi. Originally envisioned as a Utopian sci-fi universe, the series has evolved into a brutally realist look into the next century and beyond. The Second Renaissance started life on [http://future.wikia.com/wiki/Scenario:_The_Second_Renaissance Future.wikia], and the bulk of its material is still there for all to enjoy, however, it has been given its own site because Future.wikia could not contain it any longer.
+
+''"Once in a great while, civilizations undergo a period of massive society change effecting everything from economics to culture. In the 14th Century, Western Civilization underwent the first change of this kind, and since then many smaller ones have occurred across the globe. The Age of Enlightenment, the Industrial Revolution, the Information age. However none of these smaller revolutions compare to the magnitude of change that occurred during the Renaissance over three centuries. In the 22nd Century the world entered into the Second Renaissance. This is the story of how that came to be."''
+
+''This is a future history prone to being overwritten by real-world events though updating can lag behind.''
+
+[[File:New_Articles.png|center|link=]]
+<gallery type="slider">
+Slider
+SR_Timeline.png|link=Timeline|linktext=Chronology of Events
+Liza Maheswaran.png|link=Liza Maheswaran|linktext=Character spotlight: Liza Maheswaran
+Cold_War_Logo.png|link=Sahara War|linktext=The conflict in the Sahara
+Alo YBP1194 c.png|link=Alo|linktext=Advanced civilizations
+</gallery>
+<br />
+
+{{MainpageHeading SecondRenaissance|Contents <small>([[Special:Allpages|view all pages]])</small>}}
+{{col-begin}}
+{{col-2}}
+'''Society and Technology'''
+* [[Armor]]
+* [[Virtuals]]
+* [[Gravitonics]]
+* [[Genetic Engineering]]
+* [[Quantum Capacitor]]
+* [[Non-Human Civil Rights Movement]]
+* [[Augment Rights Movement]]
+
+'''Aliens and Non-humans'''
+*[[K'lerin]]
+*[[Moraks]]
+*[[Tel-bn]]
+*[[Androids]]
+
+{{col-2}}
+'''War and Politics'''
+* [[Timeline]]
+* [[21st Century]]
+* [[22nd Century]]
+* [[Great Reset]]
+* [[Quantum Economic Model]]
+* [[Third Mexican-American War|Third Mexican War]]
+* [[World War III]]
+
+'''[[Sol system|Planets]]'''
+* [[Earth]]
+* [[Mars]]
+* [[Luna]]
+* [[Venus]]
+{{col-end}}
+
+[[File:Poll.png|center|link=]]
+<poll>
+If there was a book set in the Second Renaissance universe, what would you want it to be about?
+The Flood
+World War III
+The Guardiola Incident
+The Belt Pirate Wars
+The Third Mexican-American War
+</poll>
+<center><small>Vote now!</small><br />[[Poll archive|See more >]]</center>
+<br />
+
+<mainpage-endcolumn />
+<mainpage-rightcolumn-start />
+[[File:User_Blogs-01.png|center|link=]]
+<bloglist count=3 summary=true summarylength=300 timestamp=true>
+<title></title>
+<type>bloglist</type>
+<order>date</order>
+<category>Blog posts</category>
+</bloglist>
+<br />
+[[File:Helping-01.png|center|link=]]
+<center>We are currently housing [[Special:Statistics|{{NUMBEROFARTICLES}}]] articles, and [[Special:Statistics|{{NUMBEROFFILES}}]] files. We need YOUR help expanding and adding articles to the wiki!</center> 
+
+<div style="font-variant: small-caps"><center>[[Special:Newpages|New pages]] | [[Wikia:Help:Tutorial|Wiki tutorial]] | [[Wikia:Category:Help|Help pages]]</center></div>
+
+<center>If you're new to wikia, please use the above links to get started.</center>
+<center>If you already have editing experience, and you noticed an article from Future.wikia is missing to the series, please to contribute, use the box below to create it:</center>
+<createbox>width=30</createbox><br />
+
+; Adding content
+* Every wiki has two list of articles that need help called  '''[[:Category:Article stubs|"Stubs"]]''' and '''[[Special:Wantedpages|"Wanted Articles"]]'''. Don't be shy, just get in there. 
+* Uploading [[:Category:Images|images]] is another really easy way to help out - see the '''[[Special:Upload]]''' page!
+* You can find a list of useful templates on [[:Category:Templates]], some of which are documented on the '''[[Project:Templates|templates project page]]'''.
+
+; Talk and more...
+* Check out the '''[[Project:Community Portal|community portal]]''' to see what the community is working on, to give feedback or just to say hi.
+* See [[Special:RecentChanges]] to see what's new.(No longer available to anyone without a registered Fandom account)
+<mainpage-endcolumn /><br style="clear:both;" />__NOTOC__<!-- This removes the table of contents -->
+
+__NOEDITSECTION__ <!-- This removes the section edit links -->
+
+----
+{{AffiliatedWikis}}
+----
+<mainpage-endcolumn/>
+<br style="clear:both;" />
+__NOTOC__
+__NOEDITSECTION__
+__NOWYSIWYG__
+[[Category:Planets|Planets]]
+[[Category:Browse]]

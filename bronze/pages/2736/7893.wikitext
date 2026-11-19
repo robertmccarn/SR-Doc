@@ -1,0 +1,55 @@
+{{Infobox former country
+|conventional_long_name = United Tuareg Tribal Republic
+| common_name            = Tuareg Union
+| continent              = Africa
+| region                 = Sahara
+| government_type        = Confederated tribal constitutional republic
+| image_map              = 
+| image_map_caption      = 
+| image_flag             = Tuareg_Union_Flag.png
+| coa_size               = x70px
+| symbol_type            = Coat of Arms
+| symbol                 = Coat of arms of Mexico
+| image_coat             = 
+| year_start             = 2061
+| year_end               = 2125
+| era                    = 
+|national_motto = 
+|national_anthem = 
+|capital = Timbuktu
+|largest_city = Timbuktu
+|languages = Tuareg
+|languages_type = National language
+| event_pre    = Independence from Mali Declared
+| date_pre     = 1 September 2061
+| event_start  = 
+| date_start   = 
+| event_end    = In Salah Constitutional Convention
+| date_end     = November 19, 2125
+| p1           = Mali
+| image_p1     = [[File:Flag_of_Mali.png|20px|link=]]
+| s1           = Tuareg Federation
+| image_s1     = [[File:Tuareg_Union_Flag.png|20px|link=]]
+| title_leader = President
+| leader1      = 
+| year_leader1 = 
+| title_deputy = Vice President
+| deputy1      = 
+| legislature  = Congress
+| house1       = Tribal Council 
+| house2       = General Assembly
+| stat_year1   = 
+| stat_area1   = 
+| stat_pop1    = 
+| today        = [[African Commonwealth]]
+| footnotes    = 
+| width        = 265px
+| currency = Mediterranean Franc ($)
+}}
+
+The '''Tuareg Union''' officially the '''United Tuareg Tribal Republic,''' abbreviated as the UTTR, was a nation-state in the Sahara region of Africa that existed from 2061 to 2125.
+
+The Tuareg Union was formed during [[The Refreeze|the Refreeze]] when the Sahara terraforming project of the [[Earth Working Group]] neared completion. Several local leaders who'd cooperated with the EWG met in a tribal council where they declared that their people had a sovereign claim to this land when it was considered worthless and they would exercise that claim now that it was valuable.
+
+The Tuareg Union formally ended in 2125 after the Treaty of Tripoli and was reconstituted into the Tuareg Federation, having lost its southern territory to separatist groups during the [[Sahara War]].
+[[Category:Former countries in Africa]]

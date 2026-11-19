@@ -1,0 +1,22 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>{{<small>&#160;</small><strong class=\"mw-selflink selflink\">Tetl</strong><small>&#160;</small>}}<br /><span class=\"plainlinksneverexpand\"><small><a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Special:Whatlinkshere/Template:Tetl?limit=500\">links</a></small>&#160;<small><span class=\"new\" title=\"Template talk:Tetl (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGVfdGFsazpUZXRsP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">talk</span></small>&#160;<small><a target=\"_blank\" rel=\"noreferrer noopener\" class=\"text\" href=\"https://second-renaissance.fandom.com/wiki/Template:Tetl?action=edit\">view</a></small></span>\n</p>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:Tetl/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGV0bC9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:Tetl/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:Tetl/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VGV0bC9kb2M/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">Template:Tetl/doc</span></div>\n\n<!-- \nNewPP limit report\nCached time: 20261119205412\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.010 seconds\nReal time usage: 0.020 seconds\nPreprocessor visited node count: 33/1000000\nPost‐expand include size: 569/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 4/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    3.351      1 Template:Documentation\n100.00%    3.351      1 -total\n 35.60%    1.193      1 Template:Tetl/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:189-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205412 and revision id 247. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Tetl/doc",
+      "ns": 10
+    },
+    {
+      "*": "Template talk:Tetl",
+      "ns": 11
+    }
+  ],
+  "page_id": 189,
+  "revision_id": 247,
+  "title": "Template:Tetl"
+}

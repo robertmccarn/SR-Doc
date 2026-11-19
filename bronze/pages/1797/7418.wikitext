@@ -1,0 +1,80 @@
+
+
+
+
+{{Infobox election
+|election_name = United States presidential election, 2044
+|country = United States
+|type = presidential
+|ongoing = no
+| flag_year = 2043 
+|previous_election = United States presidential election, 2040
+|previous_year = 2040
+|next_election = United States presidential election, 2048
+|next_year = 2048
+|election_date = November 8, 2044
+| votes_for_election         = All eligible voters who participate
+| needed_votes               = 51% of the vote
+| turnout                    = 68.7%
+| image1 = [[File:Maya_Garcia_Blank.png|150px]]
+| nominee1 = [[Maya Garcia]]
+| party1 = Conservative
+| home_state1 = Texas
+| running_mate1 = George P. Bush
+| electoral_vote1 = 
+| states_carried1 = 
+| popular_vote1 = 
+| percentage1 = 58.2%
+| image2 = [[File:Blank_Woman.png|150px]]
+| nominee2 = Jesse Hovel
+| party2 = Progressive
+| home_state2 = Maryland
+| running_mate2 = Mitch Saxon
+| electoral_vote2 =
+| states_carried2 =
+| popular_vote2 =  
+| percentage2 =  37.1%
+| nominee5 = Tammy Mann
+| party5 = Green
+| image5 = [[File:Blank_Woman.png|150px]]
+| home_state5 = Florida
+| running_mate5 = Alberta Jackson 
+| electoral_vote5 = 
+| states_carried5 = 
+| popular_vote5 = 
+| percentage5 = 1.6%
+| nominee4 = Evan Piossex
+| party4 = Labor
+| image4 = [[File:Blank_Person.jpg|thumb|155px]]
+| home_state4 = Puerto Rico
+| running_mate4 = Sue Mary
+| electoral_vote4 = 
+| states_carried4 =
+| popular_vote4 = 
+| percentage4 = 3.1%
+| title = President
+| before_election =  [[Maya Garcia|Maya Garcia]]
+| before_party = Conservative
+| after_election = [[Maya Garcia|Maya Garcia]]
+| after_party = Conservative}}
+
+
+The '''United States presidential election of 2044''' was the sixty-fifth quadrennial presidential election. Maya Garcia won re-election.
+
+
+
+==Nominations==
+
+==='''Labor'''===
+
+
+
+==='''Conservative'''===
+
+
+
+==='''Progressive'''===
+
+
+==='''Green'''===
+[[Category:United States Presidential Elections]]

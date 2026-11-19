@@ -1,0 +1,1788 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "1511": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3537,
+        "length": 145,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1511,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3537,
+            "slots": {
+              "main": {
+                "*": "So that 1 biilion figure doesnt include the Free Associations, Serbia, Central Asia and other areas refusing to join the new American order then?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-09T06:23:18Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-124.104.123.215-20170408122351/@comment-124.104.123.215-20170409062318",
+        "touched": "2017-04-09T06:23:18Z"
+      },
+      "1512": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3538,
+        "length": 15,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1512,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3538,
+            "slots": {
+              "main": {
+                "*": "No it does not.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-09T18:02:27Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-124.104.123.215-20170408122351/@comment-899576-20170409180226",
+        "touched": "2017-04-09T18:02:27Z"
+      },
+      "1513": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3540,
+        "length": 161,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1513,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3540,
+            "slots": {
+              "main": {
+                "*": "When you will you post the map of Mars in the 22nd century in your DeviantArt page? Really looking forward to it.<ac_metadata title=\"Map of Mars\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-10T07:19:10Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-124.104.123.215-20170410071910",
+        "touched": "2017-04-10T15:24:03Z"
+      },
+      "1514": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3541,
+        "length": 63,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1514,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3541,
+            "slots": {
+              "main": {
+                "*": "And what is the total human population as of the latest update?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-10T14:02:52Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-124.104.123.215-20170410071910/@comment-124.104.123.215-20170410140252",
+        "touched": "2017-04-10T14:02:52Z"
+      },
+      "1515": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6129,
+        "length": 99,
+        "ns": 6,
+        "pageid": 1515,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3542,
+            "revid": 6129,
+            "slots": {
+              "main": {
+                "*": "Flag of the US state of Luzon.\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:52:43Z"
+          }
+        ],
+        "title": "File:Luzon state flag.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "1516": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6188,
+        "length": 100,
+        "ns": 6,
+        "pageid": 1516,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3543,
+            "revid": 6188,
+            "slots": {
+              "main": {
+                "*": "Flag of the US state of Visayas\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:08:26Z"
+          }
+        ],
+        "title": "File:Visayas state flag.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "1517": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6132,
+        "length": 101,
+        "ns": 6,
+        "pageid": 1517,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3544,
+            "revid": 6132,
+            "slots": {
+              "main": {
+                "*": "Flag of the US state of Mindanao\n[[Category:Flags of states of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:53:12Z"
+          }
+        ],
+        "title": "File:Mindanao state flag.jpeg",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "1518": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3546,
+        "length": 386,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1518,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3546,
+            "slots": {
+              "main": {
+                "*": "<span style=\"font-size:14px;font-weight:normal;\"> While Ecuador was annexed in 2130s, but Dom was born in 2109, that kind makes him not a natural born citizen, isn't it?</span>\n\n<span style=\"font-size:14px;font-weight:normal;\">like you need to be a natural born citizen to be president right?</span><ac_metadata title=\"Is Dom Terragno a natural born citizen of the US?\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-10T14:20:39Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170410142039",
+        "touched": "2017-04-11T14:31:57Z"
+      },
+      "1519": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3548,
+        "length": 308,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1519,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3548,
+            "slots": {
+              "main": {
+                "*": "Good catch. I changed it to where he is born in Ciudad Mitad del Mundo, an American town in Quito directly at the anchor of the Quito Space Elevator. Its kinda like the Panama Canal Zone, in that its US territory set up to administer a critical piece of infrastructure built outside our immediate territory.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-10T14:36:46Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170410142039/@comment-899576-20170410143646",
+        "touched": "2017-04-10T14:36:47Z"
+      },
+      "1520": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3554,
+        "length": 54,
+        "ns": 1201,
+        "pageid": 1520,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3553,
+            "revid": 3554,
+            "slots": {
+              "main": {
+                "*": "14 Billion for all of humanity, and 3 billion on Mars.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-10T15:24:23Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-124.104.123.215-20170410071910/@comment-899576-20170410152403",
+        "touched": "2017-04-10T15:24:23Z"
+      },
+      "1521": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3556,
+        "length": 160,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1521,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3556,
+            "slots": {
+              "main": {
+                "*": "Sorry to bother you again, lol.  Are you currently working for a new map of Mars in the 22nd century? If you are, when do you think will you be able to post it?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-10T15:56:12Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170410142039/@comment-124.104.123.215-20170410155612",
+        "touched": "2017-04-10T15:56:12Z"
+      },
+      "1522": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3557,
+        "length": 105,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1522,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3557,
+            "slots": {
+              "main": {
+                "*": "The last map of Mars he did was Mars at its current state. It remained that way through the 22nd Century.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-10T18:53:09Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170410142039/@comment-30470028-20170410185309",
+        "touched": "2017-04-10T18:53:09Z"
+      },
+      "1523": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Political parties in the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11310,
+        "length": 1105,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Dom Terragno"
+          },
+          {
+            "ns": 0,
+            "title": "Postnaturalism"
+          },
+          {
+            "ns": 0,
+            "title": "Progress Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Quantum Economic Model"
+          },
+          {
+            "ns": 0,
+            "title": "Union Party (United States)"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1523,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11305,
+            "revid": 11310,
+            "slots": {
+              "main": {
+                "*": "\nThe '''United Progressive Party''', colloquially known as the '''New Progressives''' or the '''UPP''', is a political party in the United States. They are also called '''UniProgs,''' typically by opposing factions. It is positioned on the Left of the American political spectrum. The party's current leader starting in 2156 is [[Dom Terragno]], the first President of the United States to run as a New Progressive. The party is usually differentiated from the Old Progressives in that they have fully embraced [[Postnaturalism]]. \n\nIn 2153, the American [[Progress Party (United States)|Progress]] and [[Union Party (United States)|Union ]]Parties, as well as several minor parties in the newly admitted states and Commonwealths, merged, forming the United Progressive Party. The unified New Progressive Party generally favors expanding the role of the [[Quantum Economic Model]], a strong central government, centralizing the powers of federal government, while keeping those powers limited to what the Planetary governments cannot immediately handle.\n[[Category:Political parties in the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-06-16T03:09:06Z"
+          }
+        ],
+        "title": "United Progressive Party (United States)",
+        "touched": "2023-06-16T03:09:06Z"
+      },
+      "1524": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3563,
+        "length": 79,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1524,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3563,
+            "slots": {
+              "main": {
+                "*": "Didn't it change states and with more states added after the Third Mexican war?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-11T03:18:24Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170410142039/@comment-31711431-20170411031824",
+        "touched": "2017-04-11T03:18:24Z"
+      },
+      "1525": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Luzon state flag.png"
+          }
+        ],
+        "lastrevid": 3580,
+        "length": 40,
+        "ns": 10,
+        "pageid": 1525,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3579,
+            "revid": 3580,
+            "slots": {
+              "main": {
+                "*": "[[File:Luzon_state_flag.png|Luzon|24px]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-12T03:06:16Z"
+          }
+        ],
+        "title": "Template:Country data Luzon",
+        "touched": "2017-04-12T03:06:16Z"
+      },
+      "1526": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3566,
+        "length": 22,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1526,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3566,
+            "slots": {
+              "main": {
+                "*": "(who are you people!?)",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-11T14:31:57Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-5590986-20170410142039/@comment-5590986-20170411143157",
+        "touched": "2017-04-11T14:31:57Z"
+      },
+      "1527": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3742,
+        "length": 55,
+        "ns": 1,
+        "pageid": 1527,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3569,
+            "revid": 3742,
+            "slots": {
+              "main": {
+                "*": "This page definitely needs to be revised at this point.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-30T02:57:06Z"
+          }
+        ],
+        "title": "Talk:Dissolution of the Russian Federation/@comment-30470028-20170411235337",
+        "touched": "2017-04-30T02:57:06Z"
+      },
+      "1528": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Visayas state flag.png"
+          }
+        ],
+        "lastrevid": 3583,
+        "length": 36,
+        "ns": 10,
+        "pageid": 1528,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3581,
+            "revid": 3583,
+            "slots": {
+              "main": {
+                "*": "[[File:Visayas_state_flag.png|24px]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-12T03:14:34Z"
+          }
+        ],
+        "title": "Template:Country data Visayas",
+        "touched": "2017-04-12T03:14:34Z"
+      },
+      "1529": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Mindanao state flag.jpeg"
+          }
+        ],
+        "lastrevid": 3584,
+        "length": 38,
+        "ns": 10,
+        "pageid": 1529,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3582,
+            "revid": 3584,
+            "slots": {
+              "main": {
+                "*": "[[File:Mindanao_state_flag.jpeg|24px]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-12T03:14:41Z"
+          }
+        ],
+        "title": "Template:Country data Mindanao",
+        "touched": "2017-04-12T03:14:41Z"
+      },
+      "1530": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3586,
+        "length": 55,
+        "new": "",
+        "ns": 1,
+        "pageid": 1530,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3586,
+            "slots": {
+              "main": {
+                "*": "Where is New Richmond located? In what territory/State?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-12T11:52:59Z"
+          }
+        ],
+        "title": "Talk:Mars/@comment-31711431-20170412115259",
+        "touched": "2017-04-12T11:52:59Z"
+      },
+      "1531": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3592,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1531,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3592,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-13T16:20:42Z"
+          }
+        ],
+        "title": "Message Wall:112.211.114.225",
+        "touched": "2017-04-13T16:20:44Z"
+      },
+      "1532": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3593,
+        "length": 728,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Venus"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 1532,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3593,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Venus]]!\n\n'''[[Special:UserSignup|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-13T16:20:44Z"
+          }
+        ],
+        "title": "Thread:112.211.114.225/@comment-22439-20170413162043",
+        "touched": "2017-04-13T16:20:44Z"
+      },
+      "1533": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:22nd-century conflicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican-American Cold War"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:255px-Flag of India.svg.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Cold War Logo.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Mexico (2074).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Khalistan Sikh Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 81smallstars.png"
+          }
+        ],
+        "lastrevid": 10468,
+        "length": 7178,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Battle of Brazil"
+          },
+          {
+            "ns": 0,
+            "title": "Christopher Reagan"
+          },
+          {
+            "ns": 0,
+            "title": "India"
+          },
+          {
+            "ns": 0,
+            "title": "Interplanetary Trade Commission"
+          },
+          {
+            "ns": 0,
+            "title": "Joaquín Andrade"
+          },
+          {
+            "ns": 0,
+            "title": "Latin American Union"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican Allies of the Third Mexican War"
+          },
+          {
+            "ns": 0,
+            "title": "Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "Oscar Lachman"
+          },
+          {
+            "ns": 0,
+            "title": "Sahara War"
+          },
+          {
+            "ns": 0,
+            "title": "Second Depression"
+          },
+          {
+            "ns": 0,
+            "title": "Second Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Second Vietnam War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Chinese Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Timeline of major events"
+          },
+          {
+            "ns": 0,
+            "title": "U.S. Allies of the Third Mexican War"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican-American Cold War"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1533,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6789,
+            "revid": 10468,
+            "slots": {
+              "main": {
+                "*": "{{Infobox Military Conflict\n|conflict= India Crisis\n|partof= [[Mexican-American Cold War]]\n|image=\n|caption= Map of the War's Belligerents in 2120\n|date= 2119 - 2126\n|place= India\n|causes= Mass Suicide of the Union Council of Ministers\n|territory=\n|result= Military stalemate\n|combatant1='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n'''[[U.S. Allies of the Third Mexican War| United States-Allies]]'''\n\n'''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n[[File:US_flag_81smallstars.png|20px|border]] [[United States of America|United States]]<br>\n[[File:255px-Flag_of_India.svg.png|20px|border]] [[India]]<br>\n\n|combatant2='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n'''[[Mexican Allies of the Third Mexican War| Mexican-Allies]]'''\n\n'''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n[[File:Khalistan_Sikh_Flag.png|20px|border]]  Sikh Empire<br>\nRajasthan<br>\nTamil State <br>\nNaxal Republic<br>\nOrrisa''\n----\n<small>'''Military Support:'''</small><br>\n[[File:Flag_of_Mexico_(2074).png|20px|border]] [[Mexico]]'''<br>\n\n|commander1='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n[[File:US_flag_81smallstars.png|20px|border]] [[Christopher Reagan]]<br>\n\n|commander2='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\">{{{1|}}}</span>'''\n[[File:Flag_of_Mexico_(2074).png|20px|border]] [[Joaquín Andrade]]<br>\n}}\n\nThe '''India Crisis''' (also known as the Great War of India or the Great Subcontinent War) was a period of political upheaval and conflict in the Indian Subcontinent between 2119 and 2126. It began almost immediately after the mass suicide of the federal cabinet following what was believed to be a Mexican backed neuro-virus attack and ended with the partition of the country with the New Maldives Armistice. Constituting a series of civil wars, the India Crisis was also a proxy conflict in the Mex-American Cold War in which Mexico and United States supported opposing factions. Around 30,000 people are believed to have been killed during the crisis.\n\n==Background==\n{{History of the Mexican-American Cold War}}\n==='''India and the United States'''===\nThe Republic of India has been a historic ally of the United States through the 21st Century with the country sharing deep economic and geopolitical interests, as well as cultural ties from the large Indian-American population of the US. With its geographically secure position and large military, the US viewed India as a useful source of stability in the increasingly volatile South Asian region, and a guarantor for the security of the Strait of Malacca. By the turn of the century, however, the systemic conflicts in the Asia-Pacific region had overextended India's military and bred dissatisfaction in the populace toward the government, which were often seen as toadies of the United States.\n\n==='''Mexican ambitions'''===\nMexico saw India as the last domino to fall in their gambit to disrupt the US alliance system in Asia and secure Mexican interests in Asian markets. Additionally, there was the fear by some Mexican politicians that should the US secure a bid to build a new Space elevator opposite the Strait of Malacca, the American colonies would have a direct line to Indian Ocean trade that Mexico could not block, growing the power of the American colonies further and giving the US as secure a bargaining chip as the Uganda tower was for holding onto the Congo as an ally.\n\nCapitalizing on the discontent of the populace, Mexico pushed its client states in southern China to fund and train various splinter groups in India and former Pakistan creating a campaign of terrorism that fueled public animosity towards Indian political institutions and deepening divisions within the military.\n\n==Beginning of the crisis==\n==='''Cyberattacks'''===\nOn April 10, 2118 a cyber attack was carried out against the Union Council of Ministers. Using a new strain of neurolinguistic virus, the cyber attack infected every tactile neural interface with a visual feedback function to display an additional layer of information over the perceived audio and visual files, that to the user would appear to be slightly corrupted data. However the neurolinguistic virus coded in the data left its victims with a deep sense of depression and abandonment, along with several trigger words and phrases that when spoken collectively would drive the victims to suicide. By 4:29pm, New Delhi time, the President, Prime Minister and entire cabinet had committed suicide, breaking the chain of succession.\n\n==='''Terrorist campaign'''===\nThe power vacuum was exploited by several rebel groups, supported by Mexican-backed Chinese forces, who used the confusion to carry out a string of attacks across the India that toppled the leadership of several Indian state governments, sending the nation into chaos. With no orders coming in from the central government, generals began attacking rebel positions on their own, and several regions declared home rule to put down these rebel groups. These regimes were actively supported by Mexico itself, while the US focused their own efforts on securing New Delhi and restoring order.\n\n==='''Military intervention and constitutional crisis'''===\nBy June 30, 2118, the Indian military with aid from the US had installed a provisional government. Marshal law was declared nation-wide and the states that had declared home rule had begun to negotiate a constitutional referendum. Elections were held in September of 2118 in which Om Gaur Chouhan was elected to the Presidency and Kamala Gandhi to Prime Minister. The election caused a split in the government as Gandhi and the Indian National Congress controlled the legislature, but Chouhan and the Hindu Nationalist party controlled the Presidency and were supported by the largest factions of the military. This was particularly troubling because while the Prime Minister was the recognized central leader of the country under the Indian constitution prior to 2119, the constitutional referendum included several provisions for establishing the President as both Head of State AND Head of Government. While this was widely supported by the military, the most of the states that had called for it, Chouhan's position put the country at risk of coming under a radical Hindu Nationalist agenda.\n\nBy a 0.3% margin of the popular vote, the constitutional referendum carried the proposed reforms and Chouhan was given sweeping powers as head of government.\n\n==Political disintegration==\n==='''National government split'''===\n==July coup d'état==\n==Aftermath and legacy==\nThe cabinet cyberattack was the most ambitious use of brain-hacking as a method of political engineering observed at that time, and records obtained after the Third Mexican War implicate Mexico's National Intelligence Service.\n[[Category:22nd-century conflicts]]\n[[Category:Mexican-American Cold War]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-06-27T05:09:23Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:History of the Mexican-American Cold War"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox Military Conflict"
+          },
+          {
+            "ns": 10,
+            "title": "Template:WPMILHIST Infobox style"
+          },
+          {
+            "ns": 10,
+            "title": "Template:·"
+          }
+        ],
+        "title": "India Crisis",
+        "touched": "2021-06-27T05:09:23Z"
+      },
+      "1534": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3606,
+        "length": 78,
+        "ns": 1,
+        "pageid": 1534,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3598,
+            "revid": 3606,
+            "slots": {
+              "main": {
+                "*": "Does anyone know where I origionally made reference to a War in India in 2126?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-15T04:55:38Z"
+          }
+        ],
+        "title": "Talk:India Crisis/@comment-899576-20170414201432",
+        "touched": "2017-04-15T04:55:38Z"
+      },
+      "1535": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3607,
+        "length": 189,
+        "ns": 1,
+        "pageid": 1535,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3599,
+            "revid": 3607,
+            "slots": {
+              "main": {
+                "*": "You never explicitly stated there was one, but you mentioned in the 2132: Dusk map that there were civil wars in India and China distracting the US from Mexican proxy wars in South America.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-15T04:55:38Z"
+          }
+        ],
+        "title": "Talk:India Crisis/@comment-899576-20170414201432/@comment-30470028-20170414234429",
+        "touched": "2017-04-15T04:55:38Z"
+      },
+      "1536": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3605,
+        "length": 26,
+        "links": [
+          {
+            "ns": 0,
+            "title": "India Crisis"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 1536,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3605,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[India Crisis]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-15T04:55:37Z"
+          }
+        ],
+        "title": "Indian War of 2126",
+        "touched": "2021-06-27T05:09:23Z"
+      },
+      "1537": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:22nd Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexico"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Pages with script errors"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Presidents of Mexico"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Luis Zepeda.png"
+          }
+        ],
+        "lastrevid": 9091,
+        "length": 6094,
+        "links": [
+          {
+            "ns": 0,
+            "title": "21st Century"
+          },
+          {
+            "ns": 0,
+            "title": "22nd Century"
+          },
+          {
+            "ns": 0,
+            "title": "Deandre Garcia"
+          },
+          {
+            "ns": 0,
+            "title": "Guardiola Incident"
+          },
+          {
+            "ns": 0,
+            "title": "List of heads of state of Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "Mexico"
+          },
+          {
+            "ns": 0,
+            "title": "New Revolution Party (Mexico)"
+          },
+          {
+            "ns": 0,
+            "title": "Second Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Second Vietnam War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Chinese Civil War"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1537,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6294,
+            "revid": 9091,
+            "slots": {
+              "main": {
+                "*": "{{Infobox officeholder\n|name=Luis Zepeda\n|image= Luis_Zepeda.png|border\n|imagesize=265px\n|alt=\n|caption=\n|order=[[List of heads of state of Mexico|70th]]\n|office=President of [[Mexico]]\n|vicepresident=\n|term_start=April 3rd, 2091\n|term_end=December 1st, 2108\n|predecessor=Filipe Peña \n|successor= Miguel Caso\n|order2= Secretary\n|office2= of the Interior\n|term_start2= December 14th, 2088\n|term_end2=April 3rd, 2091\n|deputy2= \n|predecessor2= Miguel Caso\n|successor2= Hector Caldaron\n|order3= Governor\n|office3= of Veracruz\n|term_start3= December 1st, 2082\n|term_end3=December 1st, 2088\n|deputy3= Miguel Santiago\n|predecessor3= Carlos Diaz\n|successor3= Miguel Santiago\n|birth_date= October 13, 2037\n|birth_place=Colotlán, Jalisco\n|death_date= December 1, 2132 (aged 95)\n|death_place= Mexico City\n|restingplace= \n|nationality= Mexican\n|party=[[New Revolution Party (Mexico)|Revolution]]\n|spouse= \n|children=\n|religion= Roman Catholic\n|profession=Judge<br />Politician\n|branch=Mexican Army\n|serviceyears= 6 years (May 1, 2055- July 10, 2061)\n|rank= [[Mexico|First Lieutenant]]\n|battles=\n}}\n'''Luis Zepeda Cárdenas''' (October 13, 2037 - December 1, 2132) was a Mexican statesman and political leader who served as the 70th President of the Mexico from 2091 to 2108. A founder of the Revolution Party he became President after his processor Filipe Pena died of a stroke shortly after taking office, and emerged as a central figure in world events during the end of the [[21st Century]] and the beginning of the [[22nd Century]]. He directed the Mexican government during most of the [[Second Mexican-American War]] and the [[Second Vietnam War]]. As a dominant leader of his party, he built a coalition that realigned Mexican politics and defined Mexican nationalism throughout the first third of the 22nd century. He is often rated by scholars as the most instrumental leader in Mexico's rise to prominence in the 22nd Century.\n\n==Presidency (2090-2108)==\n==='''First Term'''===\nOn April 3, President Pena suffered a massive stroke and died before government doctors could save him. Zepeda was visiting the Central American front, and was informed while just 10 kilometers from the fighting. He returned to Mexico City and was sworn in. Pena's supporters were nervous about the new president, and the United States government began a sustained information gathering campaign on him. Zepeda assured party leaders that he intended to adhere to Pena's policies, and he retained Pena's Cabinet. Nonetheless, Zepeda sought to position himself as the party's undisputed leader, seeking to bolster the role of the president and position himself for the 2096 election.\n\n===='''[[Second Mexican-American War]]'''====\nShortly after taking office, Zepeda was approached by the US ambassador to Mexico to continue secret negotiations toward a ceasefire in the Second Mexican-American War. Zepeda rejected the conditions outright and in fact widened the war effort, swearing that Mexico would not be a puppet of the United States. Zepeda's firey nationalist rhetoric energized the country as support for the war had weighed, but Zepeda never halted negotiations, believing that the war should end on Mexican terms.\n\n==='''Second Term'''===\nAs he neared the end of his first term, many Revolution Party leaders pushed Zepeda to seek another term, arguing that the Mexican constitution only banned Presidents from running more than once, not serving for longer than the 6 year limit. Zepeda easily won his party's nomination and was elected on his own right in a landslide.\n\n===='''[[Guardiola Incident]]'''====\n\n==='''Third Term'''===\nAs he neared the end of his first term, Zepeda's popularity had grown dramatically among Mexico's population, leading to Revolution Party super-majorities in both houses of the Mexican Congress. A constitutional referendum was called for by Senate President Jesús Zambrano Diaz in the fall of 2098 and and the public overwhelmingly voted to repeal the single-term limit, granting Zepeda the right to run for President an additional time by setting a 2-election limit, rather than a direct term limit. Zepeda easily won his re-election in 2096 with limited opposition from the other major parties.\n\nDespite his popularity, and calls for a complete repeal of term-limits in Mexico, Zepeda refused to even entertain the notion of a fourth term, preferring to support Secretariat of Foreign Affairs Miguel Caso in the 2108 elections and retire from politics. Despite his formal retirement, Zepeda continued to play a major role in Mexican politics until his death.\n===='''[[Third Chinese Civil War]]'''====\n\n==='''Death and Legacy'''===\nZepeda continued to be an influential voice in Mexican politics while formally retired, though he progressively reduced his public appearances and comments. However, he played a leading role in the highly contentious Mexican election of 2132, choosing to support [[Deandre Garcia]]'s bid for the Revolution Party nomination. Garcia, considered more dovish than most of her contemporaries, was hotly opposed by her own party, but won popular support in the third round of voting. Zepeda's support of Garcia was perceived as a betrayal by many of Mexico's military leaders who felt Garcia was too willing to bend to American pressure and turn a blind eye to the plight of Mexican-Americans in the Southwestern United States.\n\nDuring the inauguration of President Garcia, Zepeda was killed by a sniper, one Juaquin Nieto. While many believed Garcia was the target, forensic analysis of the assassin's brain confirmed that while Garcia was the primary target, Zepeda was the secondary target. Investigations into the assassination never uncovered hard evidence of any conspiracy, but given Nieto's personal history as a sub-standard soldier in the Mexican National Guard, and sudden public expressions of hatred towards Garcia, many believe that Nieto was brain-hacked by the National Intelligence Service to carry out the assassination.\n[[Category:22nd Century]]\n[[Category:Mexico]]\n[[Category:Presidents of Mexico]]\n[[Category:21st Century]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-03-09T00:09:43Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:!"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:DPP/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Office"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Infobox officeholder/Personal data"
+          },
+          {
+            "ns": 10,
+            "title": "Template:IsValidPageName"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT"
+          },
+          {
+            "ns": 10,
+            "title": "Template:KMT/logo"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Px"
+          },
+          {
+            "ns": 10,
+            "title": "Template:WPMILHIST Infobox style"
+          },
+          {
+            "ns": 828,
+            "title": "Module:IsValidPageName"
+          }
+        ],
+        "title": "Luis Zepeda",
+        "touched": "2019-03-12T00:09:10Z"
+      },
+      "1538": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mexico political party colour templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3616,
+        "length": 322,
+        "new": "",
+        "ns": 10,
+        "pageid": 1538,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3616,
+            "slots": {
+              "main": {
+                "*": "<nowiki>#CE1126</nowiki><noinclude>\n== Examples ==\n{|\n|- style=\"color:#CE1126\"\n| '''This color'''\n|- style=\"background:#CE1126; color:white\"\n| '''White on this color'''\n|- style=\"background:#CE1126; color:black\"\n| '''Black on this color'''\n|}\n\n[[Category:Mexico political party colour templates|{{PAGENAME}}]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-16T01:17:59Z"
+          }
+        ],
+        "title": "Template:Institutional Revolutionary Party/meta/color",
+        "touched": "2017-04-16T01:17:59Z"
+      },
+      "1539": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mexico political party colour templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3617,
+        "length": 356,
+        "new": "",
+        "ns": 10,
+        "pageid": 1539,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3617,
+            "slots": {
+              "main": {
+                "*": "<nowiki>#00478e</nowiki><noinclude>\n\n== Examples ==\n{|\n|- style=\"color:{{ {{PAGENAME}} }}\"\n| '''This color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:white\"\n| '''White on this color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:black\"\n| '''Black on this color'''\n|}\n\n[[Category:Mexico political party colour templates|{{PAGENAME}}]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-16T01:18:51Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:National Action Party (Mexico)/meta/color"
+          }
+        ],
+        "title": "Template:National Action Party (Mexico)/meta/color",
+        "touched": "2017-04-16T01:18:52Z"
+      },
+      "1540": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mexico political party colour templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3618,
+        "length": 356,
+        "new": "",
+        "ns": 10,
+        "pageid": 1540,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3618,
+            "slots": {
+              "main": {
+                "*": "<nowiki>#CE1126</nowiki><noinclude>\n\n== Examples ==\n{|\n|- style=\"color:{{ {{PAGENAME}} }}\"\n| '''This color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:white\"\n| '''White on this color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:black\"\n| '''Black on this color'''\n|}\n\n[[Category:Mexico political party colour templates|{{PAGENAME}}]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-16T01:19:42Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Mexican Laborist Party/meta/color"
+          }
+        ],
+        "title": "Template:Mexican Laborist Party/meta/color",
+        "touched": "2017-04-16T01:19:42Z"
+      },
+      "1541": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mexico political party colour templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3619,
+        "length": 356,
+        "new": "",
+        "ns": 10,
+        "pageid": 1541,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3619,
+            "slots": {
+              "main": {
+                "*": "<nowiki>#D4AA00</nowiki><noinclude>\n\n== Examples ==\n{|\n|- style=\"color:{{ {{PAGENAME}} }}\"\n| '''This color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:white\"\n| '''White on this color'''\n|- style=\"background:{{ {{PAGENAME}} }}; color:black\"\n| '''Black on this color'''\n|}\n\n[[Category:Mexico political party colour templates|{{PAGENAME}}]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-16T01:20:16Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Liberal Constitutionalist Party (Mexico)/meta/color"
+          }
+        ],
+        "title": "Template:Liberal Constitutionalist Party (Mexico)/meta/color",
+        "touched": "2017-04-16T01:20:16Z"
+      },
+      "1542": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3622,
+        "length": 99,
+        "new": "",
+        "ns": 1,
+        "pageid": 1542,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3622,
+            "slots": {
+              "main": {
+                "*": "Wait a minute, how is Cora Fabian Zepeda's Vice President? Fabian was U.S. President Halvidar's VP.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-16T08:16:45Z"
+          }
+        ],
+        "title": "Talk:Luis Zepeda/@comment-24.165.26.87-20170416081645",
+        "touched": "2017-04-16T08:16:45Z"
+      },
+      "1543": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3623,
+        "length": 83,
+        "new": "",
+        "ns": 1,
+        "pageid": 1543,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3623,
+            "slots": {
+              "main": {
+                "*": "He probably copied the template from Halvidar's and forgot to change Fabian's name.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-16T14:17:55Z"
+          }
+        ],
+        "title": "Talk:Luis Zepeda/@comment-24.165.26.87-20170416081645/@comment-30470028-20170416141755",
+        "touched": "2017-04-16T14:17:55Z"
+      },
+      "1544": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mexico political party colour templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 3629,
+        "length": 322,
+        "ns": 10,
+        "pageid": 1544,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3628,
+            "revid": 3629,
+            "slots": {
+              "main": {
+                "*": "<nowiki>#CE1126</nowiki><noinclude>\n== Examples ==\n{|\n|- style=\"color:#FFBF00\"\n| '''This color'''\n|- style=\"background:#FFBF00; color:white\"\n| '''White on this color'''\n|- style=\"background:#FFBF00; color:black\"\n| '''Black on this color'''\n|}\n\n[[Category:Mexico political party colour templates|{{PAGENAME}}]]\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-17T16:03:24Z"
+          }
+        ],
+        "title": "Template:New Revolution Party/meta/color",
+        "touched": "2017-04-17T16:03:25Z"
+      },
+      "1545": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3638,
+        "length": 34,
+        "new": "",
+        "ns": 1,
+        "pageid": 1545,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3638,
+            "slots": {
+              "main": {
+                "*": "so what do the 12 stars represent?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-18T02:28:41Z"
+          }
+        ],
+        "title": "Talk:United States of America/@comment-5590986-20170418022841",
+        "touched": "2017-04-18T02:28:41Z"
+      },
+      "1546": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3643,
+        "length": 147,
+        "new": "",
+        "ns": 1,
+        "pageid": 1546,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3643,
+            "slots": {
+              "main": {
+                "*": "13 stars, and it's the original flag of the US. It was readopted as the increasing number of states couldn't be adequately represented on the flag.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-18T13:25:58Z"
+          }
+        ],
+        "title": "Talk:United States of America/@comment-5590986-20170418022841/@comment-30470028-20170418132558",
+        "touched": "2017-04-18T13:25:58Z"
+      },
+      "1547": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3646,
+        "length": 195,
+        "new": "",
+        "ns": 1,
+        "pageid": 1547,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3646,
+            "slots": {
+              "main": {
+                "*": "ah okay, i'd rather have that ww2 american symbol of a star (the sun) with a circle around it (orbit) to represent the Sol system or having like 8 starts to represent the 8 commonwealths but okay",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-18T17:37:12Z"
+          }
+        ],
+        "title": "Talk:United States of America/@comment-5590986-20170418022841/@comment-5590986-20170418173712",
+        "touched": "2017-04-18T17:37:12Z"
+      },
+      "1548": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3647,
+        "length": 239,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1548,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3647,
+            "slots": {
+              "main": {
+                "*": "What is the average size of a typical O'neill ship?\n\nAnd also what is the largest ship in human sphere of influence and what is its size?\n\nAnd also, what is largest space station and its size?<ac_metadata title=\"Ship Sizes\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-19T03:54:07Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-31711431-20170419035407",
+        "touched": "2017-04-19T18:19:59Z"
+      },
+      "1549": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3648,
+        "length": 293,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1549,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3648,
+            "slots": {
+              "main": {
+                "*": "The median O'Neil ship is around 10km, the largest ships by far are the sister ships Nix and Hydra, made from two of pluto's moons, and around 100km in length. They're sub-light intersteller ships used for generating biomass in flight to help terraform the worlds in the Alpha Centauri system.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-19T18:19:58Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-31711431-20170419035407/@comment-899576-20170419181958",
+        "touched": "2017-04-19T18:19:58Z"
+      },
+      "1550": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3649,
+        "length": 190,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1550,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3649,
+            "slots": {
+              "main": {
+                "*": "I've never truly been able to figure out, what's the story behind Quebec's secession? And what was the relationship between Quebec and Canada like?<ac_metadata title=\"Quebec\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-20T01:38:59Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-30470028-20170420013859",
+        "touched": "2017-04-22T18:57:03Z"
+      },
+      "1551": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st Century"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Countries in North America"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Flag of Quebec.svg.png"
+          }
+        ],
+        "lastrevid": 10813,
+        "length": 2195,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Canada"
+          },
+          {
+            "ns": 0,
+            "title": "Market Crash of 2027"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "United States"
+          }
+        ],
+        "ns": 0,
+        "pageid": 1551,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8565,
+            "revid": 10813,
+            "slots": {
+              "main": {
+                "*": "[[File:Flag of Quebec.svg.png|thumb|220x220px]]\nThe '''Republic of Quebec''' (<small>English pronunciation:</small> [[wikipedia:Wikipedia:IPA for English|/kəˈbɛk/]] or [[wikipedia:Wikipedia:IPA for English|/kwɨˈbɛk/]]; French: '''''République du Québec''''' [[wikipedia:Wikipedia:IPA for English|[keˈbɛk]]]) is a country located in North-Eastern North America. It is bordered by the [[United States]], the James Bay and Hudson Bay; Hudson Strait and Ungava Bay to the north.\n\n==Independence==\nQuebec's unique culture and relationship with the rest of [[Canada]] was a constant driver of various independence movements for much of its history. However, at no point prior to the [[The Flood|Flood]] was Quebec's relationship with Canada proper so detrimental that majority support for independence could be achieved. \n\nWhen the South Greenland Ice Sheet fell into the Atlantic, the floodwaters swept over the Laurentian Plateau and devastated the peninsula. The major population centers in Southern Quebec experienced more flooding than was expected, but the destruction of Quebec's natural resources crippled the regional economy. Economic relief from Canada was mostly going toward rebuilding the Maritimes which were hit even harder than Quebec. Despite preparations and government campaigns to prepare the public for the effects of the Flood, the Quebecois saw themselves as abandoned by the government in Ottawa.\n\nDemonstrations and general public outcry led to elections being held in late 2026 where the Coalition Avenir Québec-Parti Québécois coalition won a super-majority in the National Assembly of Quebec, and the Canadian Parliament permitted a referendum for independence. Polling initially indicated that a narrow majority of Quebecois were in favor of remaining in Canada. However, as the resulting famine of 2027 took hold and the global economy [[Market Crash of 2027|crashed]], public support shifted in favor of independence.\n\nOn November 13, 2027, the Quebec Referendum was held and the province's citizens voted 64% in favor of independence. Quebec would formally leave Canada on June 24th, 2028.\n[[Category:Countries in North America]]\n[[Category:21st Century]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2022-07-19T21:13:18Z"
+          }
+        ],
+        "title": "Quebec",
+        "touched": "2022-07-19T21:13:18Z"
+      },
+      "1552": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3652,
+        "length": 47,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1552,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3652,
+            "slots": {
+              "main": {
+                "*": "http://second-renaissance.wikia.com/wiki/Quebec",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-20T16:21:09Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-30470028-20170420013859/@comment-899576-20170420162109",
+        "touched": "2017-04-20T16:21:10Z"
+      },
+      "1553": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3657,
+        "length": 421,
+        "ns": 1201,
+        "pageid": 1553,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3656,
+            "revid": 3657,
+            "slots": {
+              "main": {
+                "*": "Is artificial gravity technology already developed? If not, then when it is developed, won't that make ships much smaller? Due to the O'neill ships and the centrifuge system eventually becoming obsolete. Although applying this artificial gravity system to massive space stations seem impractical, gravity due to centrifuge could survive but only in massive stations.<ac_metadata title=\"Artificial Gravity\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-20T16:45:30Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-31711431-20170420164416",
+        "touched": "2017-04-20T19:43:18Z"
+      },
+      "1554": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6070,
+        "length": 69,
+        "ns": 6,
+        "pageid": 1554,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3658,
+            "revid": 6070,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:36:42Z"
+          }
+        ],
+        "title": "File:Flag of Quebec.svg.png",
+        "touched": "2017-11-08T00:09:53Z"
+      },
+      "1555": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3660,
+        "length": 336,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1555,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3660,
+            "slots": {
+              "main": {
+                "*": "Humans haven't figured out artificial grav, they only statistically proved the existence of the Graviton in 2130, and are no where near understanding how to manipulate it. Its generally considered that doing so would be the single greatest advancement humans could hope to achieve, because controlling gravity basically makes you a god.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-20T19:43:18Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-31711431-20170420164416/@comment-899576-20170420194318",
+        "touched": "2017-04-20T19:43:18Z"
+      },
+      "1556": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Presidents of Mexico"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6126,
+        "length": 34,
+        "ns": 6,
+        "pageid": 1556,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 3670,
+            "revid": 6126,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Presidents of Mexico]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:51:17Z"
+          }
+        ],
+        "title": "File:Luis Zepeda.png",
+        "touched": "2019-03-11T18:03:46Z"
+      },
+      "1557": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3675,
+        "length": 40,
+        "new": "",
+        "ns": 1201,
+        "pageid": 1557,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3675,
+            "slots": {
+              "main": {
+                "*": "Can you please do an infobox for Quebec?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-22T18:57:03Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-30470028-20170420013859/@comment-30470028-20170422185703",
+        "touched": "2017-04-22T18:57:03Z"
+      },
+      "1558": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3676,
+        "length": 11,
+        "new": "",
+        "ns": 1,
+        "pageid": 1558,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3676,
+            "slots": {
+              "main": {
+                "*": "Definitely!",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-22T21:50:08Z"
+          }
+        ],
+        "title": "Talk:Luis Zepeda/@comment-24.165.26.87-20170416081645/@comment-27084453-20170422215008",
+        "touched": "2017-04-22T21:50:08Z"
+      },
+      "1559": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3677,
+        "length": 36,
+        "new": "",
+        "ns": 1,
+        "pageid": 1559,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3677,
+            "slots": {
+              "main": {
+                "*": "absolutely riveting. Great work man.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-22T22:27:02Z"
+          }
+        ],
+        "title": "Talk:Third Mexican-American War/@comment-96.32.91.69-20170422222702",
+        "touched": "2017-04-22T22:27:02Z"
+      },
+      "1560": {
+        "contentmodel": "wikitext",
+        "lastrevid": 3678,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 1560,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 3678,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-04-22T22:27:03Z"
+          }
+        ],
+        "title": "Message Wall:96.32.91.69",
+        "touched": "2017-04-22T22:27:03Z"
+      }
+    }
+  }
+}

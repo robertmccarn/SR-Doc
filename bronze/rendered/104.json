@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "*": "Templates",
+      "sortkey": "Tl"
+    },
+    {
+      "*": "Utility_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": "Tl"
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><div style=\"clear:both\">\n<p>Code: &lt;div style=\"clear:both\" /&gt;\n</p><p>This causes any previously-established float to clear. The name of this template is a mnemonic for an imaginary horizontal line, which separates floating elements above from those below. \n</p>\nThis is not the same as <div style=\"clear:clear;\"></div>, which is a empty &lt;div&gt;, not a &lt;br&gt; element. </div>\n<!-- \nNewPP limit report\nCached time: 20261119205402\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.004 seconds\nReal time usage: 0.006 seconds\nPreprocessor visited node count: 18/1000000\nPost‐expand include size: 36/2097152 bytes\nTemplate argument size: 5/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 53/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    3.984      1 Template:-\n100.00%    3.984      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:104-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205402 and revision id 119. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [],
+  "page_id": 104,
+  "revision_id": 119,
+  "title": "Template:Tl"
+}

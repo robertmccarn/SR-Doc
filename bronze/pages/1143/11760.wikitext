@@ -1,0 +1,59 @@
+{{Infobox country
+|conventional_long_name = Planetary Commonwealth of Luna
+|national_motto = "One small step for a man, one giant leap for mankind."
+|national_anthem = "The Star-Spangled Banner"
+|capital = Armstrong
+|largest_city = Armstrong
+|languages = English (de facto)
+|demonym = American, Lunarian
+|languages_type = 
+|lang_others= Japanese, Russian, Mandarin
+|government_type = United States Planetary Commonwealth
+|leader_title1 = Planetary-Governor
+|leader_name1 = Wenn Gonzolas
+|legislature = Lunar Congress
+|upper_house = Planetary Senate
+|lower_house = Planetary House of Representatives
+|established_event1 = Formation 
+|sovereignty_type = Created per Amendemnt to the constitution
+|established_date1 = July 4, 2137
+|area_rank =
+|area_sq_mi = 
+|population_estimate = 63 million
+|population_estimate_year = 2160
+|population_estimate_rank = 7th
+|currency = United States dollar ($)
+|currency_code = USD
+|image_flag = Luna_Flag.png
+|leader_title2 = Lieutenant Governor
+|leader_name2 = Ry Zimmers
+|image_symbol = Luna_2073.jpg|symbol_type = Luna in 2073}}
+
+'''Luna,''' often referred to as '''the Moon,''' is the only natural satellite of [[Earth]]. Although not the largest natural satellite in the [[Sol system|Solar System]], it is, among the satellites of major planets, the largest relative to the size of the object it orbits. Home to millions of species, including humans, the Moon is the first object beyond Earth to support human civilization after colonization began in the 2020s.
+
+==History==
+===Settlement===
+The moon was the first world beyond Earth that humans explored during the First Space Age of the 1960s and 70s. For half a century, no human and only a handful of probes ever traveled to the moon. During the Space Boom, the US government sponsored a number of private operators to begin developing the moon and Near-Earth-Asteroids to service the growing US military presence in space, and counter Russian attempts to develop space resources. After several unmanned landings in the mid 2010s, the first human settlement was established in 2019 at the Sea of Tranquility by the crew of the Exploration Mission 1. These primitive settlements were small, self-contained ecosystems large enough for two people to live and work for a few months at a time on the surface. These first settlers were employees of the first mining operations in space, and were primarily tasked with setting up habitats for future workers and extracting valuable resources to service other spacecraft. With the development of the first prototype fusion reactor on Earth in 2019, the demand for lunar extracted Helium-3 boomed, fueling military backed projects on the Moon. By 2021 there were over a dozen settlements established across the lunar surface, the largest of which were at Tycho crater and the Sea of Tranquility.
+
+Helium-3 rapidly eclipsed all other industries on the moon by 2023 when the Navy began using fusion reactors on their larger warships and the first fusion propelled space tug entered service. In the span of just a few months over 20,000 civilian contractors flooded to the moon to build and maintain the facilities required to provide the Helium-3 earth so demanded. These contractors resulted in the construction of the moon's first true cities, constructed underground beneath the layers of reinforced steel and utility lines that provided protection from the dangerous environment of hard space. 2023 was also the year of the founding of the [[Mars Corporation]], of which many Lunar based companies were a part of, but none larger than Lunar Energy Ltd. Originally a start-up founded in the Mojave, LE had grown to become the largest supplier of Helium-3 and Hydrogen on the moon. Lunar Helium-3 and Hydrogen fueled the next generation of Mars colonial ships, launched not from Earth, but in orbit and propelled by Helium-3 fusion engines. The mining and export of Rare-Earth-Elements on the moon, eventually eclipsed that of Earth by 2024, as the lack of any natural biosphere made the otherwise toxic manufacturing process more appealing on the lunar surface.
+
+===Militarization===
+As the US military had nearly completed the implementation of its Third Offset policy by the end of the [[Little Cold War]], the Lunar economy enjoyed the wealth provided from the sale of Helium-3 to the US military and civilian sectors by the end of the 2020s. The end of the decade also brought with it the first military presence on the moon in the form of the Tycho shipyards. The US military financed the construction of spacecraft construction facilities at Tycho as early as 2025, knowing that the southern crater's large supply of water ice and obscured locations would make it ideal for covert construction of military hardware that could be launched without detection. Initially these relatively small subterranean shipyards were used to launch the first orbital bombardment satellites and anti-satellite platforms to Earth. With the success of these first programs, the US military went forward with its most ambitious project of the 2030s, the ASGARD project. Starting in 2033, the Tycho shipyards began construction of three [[Orbital Command Stations]] to provide C2 networking with unmanned spy satellites, refueling and repair facilities and orbital bombardment stations. No longer relying on vulnerable land based command centers, the United States could project its power with minimum effort and superb accuracy. All three stations were completed and Launched in 2037, reaching Earth orbit, and revealed to the public after a year of shakedown tests, having never been detected in that time.
+[[File:Lunar Orbit 2051.png|thumb|220x220px]]
+Primary command and control moved to the Orbital Command Stations to limit the number of failure points, with space based systems seeming invulnerable to smaller powers. OCS Eisenhower was stationed over Uganda, OCS Kennedy over Papua New Guinea, and the main command station, OCS Reagan was stationed over Ecuador. Commanding fleets of hypersonic unmanned aircraft and coordinating Naval support around the planet, the Orbital Command Stations could impose devastating blockades against US adversaries, and coordinate rapid response strikes in a matter of minutes. [[Project ASGARD]] brought with it a formal US military presence and eventually a Japanese response at their terminator bases.
+
+==='''World War III'''===
+''Main article [[World War III#Cislunar (2051-2053)|Lunar front of World War III]]''
+
+The moon was an important front of the Third World War, with [[Japan]] using their far-side bases to launch the strikes against the Orbital Command Stations, and several battles being fought to secure key space-based manufacturing and military interests. 
+
+===Post-WWIII===
+After WWIII the Tycho shipyards were expanded to meet the demand for a massive space force and logistical infrastructure. Helium-3 mining operations blanketed the lunar surface and its industrial output grew faster than anywhere in the solar system to meet the Earth's demands for cheap fusion energy. In 2073, Helium-3 production on the moon peaked and was no longer able to meet Terran energy demands. By 2081 rolling blackouts had become a major problem on Earth, and Helium-3 markets had collapsed on the Moon. This is partly what led to Lunar Energy Ltd. allying with the outer colonies to establish the [[Interplanetary Trade Commission]] as a means of revitalizing Helium-3 markets. 
+
+Despite the efforts of economic reformers in the ITC, Luna remained much more entrenched in late-period Terran capitalism than any other colony world, not even possessing a colony-wide quantum economic system. The attempts to reinvigorate the Lunar Helium-3 industry were an early failure of the QEM, as the Terran demand for energy shifted demand to more abundant supplies coming from the Ice Giants and the Sun. The moon began to experience population decline, one of the only colonies to ever face such a trend. By 2090 over 25% of the lunar population had relocated, with one exception: Armstrong City. The lunar capitol was the first to deplete its Helium-3 reserves starting in the late 2060s. With the availability of capital from its proximity to Earth and the social safety net provide by even a relatively undeveloped QEM, local businesses in Armstrong were able to buy up vacant property and build up the local tourism industry. Tourism had been a founding economic sector for the Moon from the earliest days of colonization, but the Armstrong model sought to make it the core of the Lunar economy. Governments were lobbied to adjust the climate of the lunar habitats from temperate to tropical, while gambling was legalized. The Tourism boom of the 2090s in Armstrong spread to many habitats across the moon in the 2100s and into the 2110s. Most adopted similar tropical environments similar to Armstrong, but several elected to convert their chambers to more exotic habitats, with Shackleton lowering their temperatures to create an Alpine climate for low gravity winter sports.
+
+During the early 22nd century lunar architecture moved away from the utilitarian and brutalist styles that had defined much of its history to low-gravity variants on historical styles of Earth. Most leaned heavily into the 1960s American aesthetic, while Shackleton became the home of the Low-Gravity Chalet movement, building high-rise hotels with relatively small footprints that were an homage to Swiss ski lodges. This economic model (boosted by cheap [[Android]] and [[Biorobotics boom|biorobotic]] labor) led to an economic resurgence on the moon, securing its place as a major tourist destination for Terrans.
+
+As a consequence of the success of the mixed economy on Luna, the moon became a major source for conservative voices in the ITC, and by far the greatest opponents of Halivdar's colonial integration plan beyond Earth. Multiple attempts were made in the early 22nd century to actually remove Luna from the QEM, and many would remark that the Lunar transition to the QEM would inform similar endeavors on Earth during the Great Experiment.
+[[Category:Moons]]
+[[Category:Planetary Commonwealths of the United States]]

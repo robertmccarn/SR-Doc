@@ -1,0 +1,19 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <a href=\"/wiki/Template:Country_data_United_States_Army/doc\" title=\"Template:Country data United States Army/doc\">Template:Country_data_United_States_Army/doc</a> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<p>{{ {{{1}}}\n| alias = United States Army\n| shortname alias = U.S. Army\n| flag alias = Flag of the United States Army.svg\n| flag alias-1784 = US flag 13 stars – Betsy Ross.svg\n| flag alias-1795 = StarSpangledBannerFlag.svg\n| flag alias-1818 = US flag 20 stars.svg\n| flag alias-1819 = US flag 21 stars.svg\n| flag alias-1820 = US flag 23 stars.svg\n| flag alias-1822 = US flag 24 stars.svg\n| flag alias-1836 = US flag 25 stars.svg\n| flag alias-1837 = US flag 26 stars.svg\n| flag alias-1845 = US flag 27 stars.svg\n| flag alias-1846 = US flag 28 stars.svg\n| flag alias-1847 = US flag 29 stars.svg\n| flag alias-1848 = US flag 30 stars.svg\n| flag alias-1851 = US flag 31 stars.svg\n| flag alias-1858 = US flag 32 stars.svg\n| flag alias-1859 = US flag 33 stars.svg\n| flag alias-1861 = US flag 34 stars.svg\n| flag alias-1863 = US flag 35 stars.svg\n| flag alias-1865 = US flag 36 stars.svg\n| flag alias-1867 = US flag 37 stars.svg\n| flag alias-1877 = US flag 38 stars.svg\n| flag alias-1890 = US flag 43 stars.svg\n| flag alias-1891 = US flag 44 stars.svg\n| flag alias-1896 = US flag 45 stars.svg\n| flag alias-1908 = US flag 46 stars.svg\n| flag alias-1912 = US flag 48 stars.svg\n| flag alias-1956 = Flag of the United States Army.svg\n| size = \n| name = \n| altlink = \n| altvar = \n| variant = \n</p>\n}}</div>\n<!-- \nNewPP limit report\nCached time: 20261119205533\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.014 seconds\nReal time usage: 0.019 seconds\nPreprocessor visited node count: 85/1000000\nPost‐expand include size: 4646/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 6/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   11.418      1 Template:Country_showdata\n100.00%   11.418      1 -total\n 60.28%    6.883      1 Template:Documentation\n 43.29%    4.943      1 Template:Country_data_United_States_Army/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:853-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205533 and revision id 1168. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Country data United States Army/doc",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    }
+  ],
+  "page_id": 853,
+  "revision_id": 1168,
+  "title": "Template:Country data United States Army"
+}

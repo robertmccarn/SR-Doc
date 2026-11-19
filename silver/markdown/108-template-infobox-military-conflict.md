@@ -1,0 +1,108 @@
+---
+page_id: 108
+revision_id: 123
+source_url: https://second-renaissance.fandom.com/wiki/Template%3AInfobox_Military_Conflict
+raw_sha256: 0fa6884fb48f52b8d8ed0be48016b7db55799b8f9890ae998931f0e254606a6e
+---
+
+# Template:Infobox Military Conflict
+
+## Preserved source
+
+```wikitext
+{| {{WPMILHIST Infobox style|main_box}}
+|- 
+! {{#if:{{{combatant3|}}} | colspan="3" | colspan="2" }} {{WPMILHIST Infobox style|header_bar}} | {{{conflict|{{PAGENAME}}}}}
+|-
+{{#if:{{{partof|}}} |
+{{!}} {{#if:{{{combatant3|}}} | colspan="3" | colspan="2" }} {{WPMILHIST Infobox style|header_bar}} {{!}} Part of {{{partof|}}}
+}}
+|-
+{{#if:{{{image|}}} |
+{{!}} {{#if:{{{combatant3|}}} | colspan="3" | colspan="2" }} {{WPMILHIST Infobox style|image_box}} {{!}} {{{image|}}}<br/>{{{caption|}}}
+}}
+|-
+| {{#if:{{{combatant3|}}} | colspan="3" | colspan="2" }} | 
+{| class="infobox" width="100%" style="margin: 0; cellpadding: 0; padding: 0; border: 0;"
+|-
+{{#if:{{{date|}}} |
+! style="padding-right: 1em;" {{!}} Date
+{{!}} {{{date|}}}
+}}
+|-
+! style="padding-right: 1em;" | Location
+| {{{place|}}}
+|-
+! style="padding-right: 1em;" | Causes
+| {{{causes|}}}
+|-
+! style="padding-right: 1em;" | {{#if:{{{status|}}}|Status|Result}}
+| {{#if:{{{status|}}}|{{{status|}}}|{{{result|}}}}}
+|-
+{{#if:{{{territory|}}} |
+! style="padding-right: 1em;" {{!}} Territorial<br>changes
+{{!}} {{{territory|}}}
+}}
+|}
+|-
+{{#if:{{{combatant1|}}}{{{combatant2|}}}{{{combatant3|}}} |
+! {{#if:{{{combatant3|}}} | colspan="3" | colspan="2" }} {{WPMILHIST Infobox style|header_bar}} {{!}} Belligerents
+}}
+|-
+{{#if:{{{combatant1|}}}{{{combatant2|}}}{{{combatant3|}}} |
+{{!}} {{#if:{{{combatant2|}}} | {{#if:{{{combatant3|}}} | width="33%" | width="50%" }}  style="border-right: {{WPMILHIST Infobox style|internal_border}}" | colspan="2" style="text-align: center;" }} {{!}} {{{combatant1|}}}
+{{#if:{{{combatant2|}}} | 
+{{!}} {{#if:{{{combatant3|}}} | width="33%" | width="50%" }} style="padding-left: 0.25em;" {{!}} {{{combatant2|}}}
+}}
+{{#if:{{{combatant3|}}} | 
+{{!}} width="33%" style="border-left: {{WPMILHIST Infobox style|internal_border}} padding-left: 0.25em;" {{!}} {{{combatant3|}}}
+}}}}
+|-
+{{#if:{{{commander1|}}}{{{commander2|}}}{{{commander3|}}} |
+! {{#if:{{{combatant3|}}} | colspan="3" |colspan="2" }} {{WPMILHIST Infobox style|header_bar}} {{!}} Commanders
+}}
+|-
+{{#if:{{{commander1|}}}{{{commander2|}}}{{{commander3|}}} |
+{{!}} {{#if:{{{combatant3|}}} | width="33%" | width="50%" }} style="border-right: {{WPMILHIST Infobox style|internal_border}}" {{!}} {{{commander1|}}}
+{{!}} {{#if:{{{combatant3|}}} | width="33%" | width="50%" }} style="padding-left: 0.25em;" {{!}} {{{commander2|}}}
+{{#if:{{{combatant3|}}} | 
+{{!}} width="33%" style="border-left: {{WPMILHIST Infobox style|internal_border}} padding-left: 0.25em;" {{!}} {{{commander3|}}}
+}}}}
+|-
+{{#if:{{{strength1|}}}{{{strength2|}}}{{{strength3|}}} |
+! {{#if:{{{combatant3|}}} | colspan="3" | colspan="2" }} {{WPMILHIST Infobox style|header_bar}} {{!}} Strength
+}}
+|-
+{{#if:{{{strength1|}}}{{{strength2|}}}{{{strength3|}}} |
+{{!}} {{#if:{{{combatant3|}}} | width="33%" | width="50%" }} style="border-right: {{WPMILHIST Infobox style|internal_border}}" {{!}} {{{strength1|}}}
+{{!}} {{#if:{{{combatant3|}}} | width="33%" | width="50%" }} style="padding-left: 0.25em;" {{!}} {{{strength2|}}}
+{{#if:{{{combatant3|}}} | 
+{{!}} width="33%" style="border-left: {{WPMILHIST Infobox style|internal_border}} padding-left: 0.25em;" {{!}} {{{strength3|}}}
+}}}}
+|-
+{{#if:{{{casualties1|}}}{{{casualties2|}}}{{{casualties3|}}} |
+! {{#if:{{{combatant3|}}} | colspan="3" | colspan="2" }} {{WPMILHIST Infobox style|header_bar}} {{!}} Casualties and losses
+}}
+|-
+{{#if:{{{casualties1|}}}{{{casualties2|}}}{{{casualties3|}}} |
+{{!}} {{#if:{{{combatant3|}}} | width="33%" | width="50%" }} style="border-right: {{WPMILHIST Infobox style|internal_border}}" {{!}} {{{casualties1|}}}
+{{!}} {{#if:{{{combatant3|}}} | width="33%" | width="50%" }} style="padding-left: 0.25em;" {{!}} {{{casualties2|}}}
+{{#if:{{{combatant3|}}} | 
+{{!}} width="33%" style="border-left: {{WPMILHIST Infobox style|internal_border}} padding-left: 0.25em;" {{!}} {{{casualties3|}}}
+}}}}
+|-
+{{#if:{{{combatant3|}}} | | {{#if:{{{casualties3|}}} |
+{{!}} colspan="2" style="text-align: center; {{#if:{{{casualties1|}}}{{{casualties2|}}} | border-top: {{WPMILHIST Infobox style|internal_border}}}}" {{!}} {{{casualties3|}}}
+}}}}
+|-
+{{#if:{{{notes|}}} |
+{{!}} {{#if:{{{combatant3|}}}|colspan="3"|colspan="2"}} style="font-size:90%; border-top: {{WPMILHIST Infobox style|section_border}}" {{!}} {{{notes|}}}
+}}
+|}
+
+<noinclude>[Category:Templates](8-category-templates.md)</noinclude>
+```
+
+## Provenance
+
+Raw source: `bronze/pages/108/123.wikitext` · revision `123` · [upstream](https://second-renaissance.fandom.com/wiki/Template%3AInfobox_Military_Conflict)

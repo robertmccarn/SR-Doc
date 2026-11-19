@@ -1,0 +1,41 @@
+{{Infobox country
+|image_flag = 
+|image_map = 
+|conventional_long_name = United States Congress
+|national_motto = 
+|national_anthem = 
+|capital = 
+|largest_city = 
+|languages = 
+|languages_type = 
+|government_type = 185th Congress (2159-2161)
+|upper_house = Senate
+|lower_house = House of Representatives
+|leader_title1 = President of the Senate & Vice President
+|leader_name1 = Horace Fitzgerald (NR)
+|leader_title2 = Speaker of the House 
+|leader_name2 = Cadance Ordin (NR)
+|leader_title3 = President pro tem
+|leader_name3 = Babeli Haigs (NR)
+|legislature = Bicameral
+|established_event1 = Formation 
+|sovereignty_type = Formation
+|established_date1 = March 4, 1789
+|area_rank = 
+|area_sq_mi = 
+|population_estimate = 
+|population_estimate_year = 
+|population_estimate_rank = 
+|currency = 
+|currency_code = 
+
+}}The '''United States Congress''' is the bicameral legislature of the federal government of the [[United States]] consisting of two chambers: the Senate and the House of Representatives.
+
+The Congress meets in the [[United States Capitol]] in [[Washington, D.C.]] Both senators and representatives are chosen through direct election, though vacancies in the Senate may be filled by a gubernatorial appointment. Congress has over 1016 voting members: About 1000 Representatives and 16 Senators. The number of members in Congress had once peaked to over 1500, but due to the establishment of the U.S. Planetary Commonwealths in 2133, the number of senators had been reduced to represent the Commonwealths rather than states. The current Congress is the 185th US Congress.
+
+The members of the [[House of Representatives]] serve two-year terms, with a maximum of 6, representing the people of a single constituency, known as a "district". Congressional districts are apportioned to states by population using the United States Census results, provided that each state has at least one congressional representative. Each state, regardless of population or size, has two senators. Currently, there are 16 senators representing the 8 Planetary Commonwealths. Each senator is elected at-large in their state for a six-year term at a maximum of 2, with terms staggered, so every two years approximately one-third of the Senate is up for election.
+
+To be eligible for election, a candidate must be aged at least 25 (House) or 30 (Senate), have been a citizen of the United States for seven (House) or nine (Senate) years, and be an inhabitant of the state which they represent.
+
+The Congress was created by the Constitution of the United States and first met in 1789, replacing in its legislative function the Congress of the Confederation. Although not legally mandated, in practice since the 19th century. The 172nd Congress (2133-2135) has passed reforms that led to the creation of the 4 Tiered Republic in 2133 with the 35th Amendment. It establishes Planetary Commonwealths as an intermediate level of government between states and the federal government and replaced states represented in congress with planetary commonwealths. Each planet has their own houses of Congress that act as an off Earth extension of the US Congress. In almost all cases, executive and legislative officials are elected by a plurality vote of citizens. There is no proportional representation at the federal level.
+[[Category:United States Congress]]

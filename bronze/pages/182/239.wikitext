@@ -1,0 +1,16 @@
+<span id="{{#ifeq:{{{catfd|}}}| |Template:|Category:}}{{ucfirst:{{{1|Example}}}}}" class="plainlinks nourlexpansion lx"><!--
+ -->[[:{{#ifeq:{{{catfd|}}}| |Template:|Category:}}{{ucfirst:{{{1|Example}}}}}]]&nbsp;<!--
+ Note: the &nbsp; immediately before this note ensures a subsequent parenthesis not linewrapped away from the intial template link
+ -->{{#if:{{{2|}}} |([[Wikipedia:Templates for discussion/Log/{{{2}}}#Template:{{{1|Example}}}|{{date|{{{2}}}|dmy}}]])&#32;}}<!--
+ -->{{Toolbar |separator=dot
+     |1=[{{fullurl:{{#ifeq:{{{catfd|}}}| |Template|Category}}:{{ucfirst:{{{1|Example}}}}}|action=edit}} edit]
+     |2=[[{{#ifeq:{{{catfd|}}}| |Template|Category}} talk:{{ucfirst:{{{1|Example}}}}}|talk]]
+     |3=[{{fullurl:{{#ifeq:{{{catfd|}}}| |Template|Category}}:{{ucfirst:{{{1|Example}}}}}|action=history}} history]
+     |4={{#ifeq:{{{catfd|}}}| |[{{fullurl:Special:Whatlinkshere/Template:{{ucfirst:{{{1|Example}}}}}|limit=999}} links]}}
+     |5=[{{fullurl:Special:Log|page={{urlencode:{{#ifeq:{{{catfd|}}}| |Template|Category}}:{{ucfirst:{{{1|Example}}}}}}}}} logs]
+     |6=[{{fullurl:Special:PrefixIndex/Template:{{ucfirst:{{{1|Example}}}}}/}} subpages]
+     |7=[{{fullurl:{{#ifeq:{{{catfd|}}}| |Template|Category}}:{{ucfirst:{{{1|Example}}}}}|action=delete&wpReason={{urlencode:[[{{#if:{{{2|}}} |Wikipedia:Templates for discussion/Log/{{{2}}}|{{FULLPAGENAME}}}}#Template:{{{1|Example}}}]]}}}} delete]
+    }}<!--
+--></span><noinclude>
+{{Documentation}}
+</noinclude>

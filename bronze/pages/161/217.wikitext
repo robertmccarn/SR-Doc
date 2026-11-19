@@ -1,0 +1,36 @@
+{{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+
+Inserts a brief header for the template data section. Adds the page to [[:Category:TemplateData documentation]].
+
+== Usage ==
+<pre>
+==TemplateData== or ==Parameters== or ==Usage==
+{{TemplateDataHeader}}
+<templatedata>{
+...
+}</templatedata>
+</pre>
+
+Use <code><nowiki>{{TemplateDataHeader|Template name}}</nowiki></code> if you want an alternative name for the template to be displayed.
+
+==Parameters==
+{{TemplateDataHeader}}
+<templatedata>{
+  "description": "Inserts a brief header for the template data section. Adds the page to [[Category:TemplateData documentation]]",
+  "params": {
+    "1": {
+      "label": "Template name",
+      "description": "The name of the template to display. Default is {{BASEPAGENAME}}.",
+      "type": "string",
+      "required": false
+    }
+  }
+}</templatedata>
+
+==See also==
+
+<includeonly>
+<!-- Categories go here, and interwikis go in Wikidata -->
+
+</includeonly>

@@ -1,0 +1,22 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p><b>How to manage this template's initial visibility</b><br />\nTo manage this template's visibility when it first appears, <a href=\"https://community.fandom.com/wiki/Help:Template\" title=\"Help:Template\">add the parameter</a>:\n</p>\n<dl><dd><code class=\"nowrap\">&#124;state&#61;collapsed</code> to show the template in its collapsed state, i.e. hidden apart from its titlebar&#160;– e.g. <code>{{BASEPAGENAME |state=collapsed}}</code></dd>\n<dd><code class=\"nowrap\">&#124;state&#61;expanded</code> to show the template in its expanded state, i.e. fully visible&#160;– e.g. <code>{{BASEPAGENAME |state=expanded}}</code></dd>\n<dd><code class=\"nowrap\">&#124;state&#61;autocollapse</code> to show the template in its collapsed state <i>but only if</i> there is another template of the same type on the page&#160;– e.g. <code>{{BASEPAGENAME |state=autocollapse}}</code></dd></dl>\n<p>Unless set otherwise (see the <code class=\"nowrap\">&#124;state&#61;</code> parameter in the template's code), the template's default state is <code>autocollapse</code>.\n</p>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:Collapsible option/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6Q29sbGFwc2libGVfb3B0aW9uL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:Collapsible_option/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:Collapsible option/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6Q29sbGFwc2libGVfb3B0aW9uL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:Collapsible option/doc</span></div>\n\n<!-- \nNewPP limit report\nCached time: 20261119205408\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.014 seconds\nReal time usage: 0.021 seconds\nPreprocessor visited node count: 106/1000000\nPost‐expand include size: 748/2097152 bytes\nTemplate argument size: 71/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 1/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 65/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    9.430      1 -total\n 46.23%    4.359      1 Template:Template_other\n 27.64%    2.607      1 Template:Documentation\n 20.28%    1.913      4 Template:Para\n 10.85%    1.023      1 Template:Collapsible_option/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:157-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205408 and revision id 213. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Collapsible option/doc",
+      "ns": 10
+    },
+    {
+      "*": "Help:Template",
+      "ns": 12
+    }
+  ],
+  "page_id": 157,
+  "revision_id": 213,
+  "title": "Template:Collapsible option"
+}

@@ -1,0 +1,18 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"plainlinks ombox ombox-notice\" style=\"\">\n<tbody><tr>\n<td class=\"mbox-image\">\n  <span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://static.wikia.nocookie.net/second-renaissance/images/3/31/Imbox_notice.png/revision/latest?cb=20150808172510\" decoding=\"async\" loading=\"lazy\" width=\"40\" height=\"40\" class=\"mw-file-element\" data-image-name=\"Imbox notice.png\" data-image-key=\"Imbox_notice.png\" data-relevant=\"0\" /></span></span></td>\n<td class=\"mbox-text\" style=\"\"> {{{1}}} </td>\n</tr>\n</tbody></table>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:Notice/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6Tm90aWNlL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:Notice/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:Notice/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6Tm90aWNlL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:Notice/doc</span></div>\n\n<!-- \nNewPP limit report\nCached time: 20261119205530\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.017 seconds\nReal time usage: 0.022 seconds\nPreprocessor visited node count: 188/1000000\nPost‐expand include size: 1434/2097152 bytes\nTemplate argument size: 26/2097152 bytes\nHighest expansion depth: 12/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   11.242      1 -total\n 76.86%    8.640      1 Template:Mbox\n 37.55%    4.221      1 Template:Ombox\n 22.77%    2.560      1 Template:Namespace_detect\n 22.49%    2.528      1 Template:Documentation\n 19.76%    2.222      1 Template:Ombox/core\n  8.10%    0.910      1 Template:Notice/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:833-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205530 and revision id 1146. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Notice/doc",
+      "ns": 10
+    }
+  ],
+  "page_id": 833,
+  "revision_id": 1146,
+  "title": "Template:Notice"
+}

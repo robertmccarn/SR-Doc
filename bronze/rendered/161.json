@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "*": "Template_documentation_pages",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    },
+    {
+      "*": "TemplateData_documentation",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><table class=\"plainlinks ombox ombox-notice\" style=\"margin-bottom:1.0em;\">\n<tbody><tr>\n<td class=\"mbox-image\">\n  <span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://static.wikia.nocookie.net/second-renaissance/images/1/15/Edit-copy_green.svg/revision/latest/scale-to-width-down/40?cb=20150808172902\" decoding=\"async\" loading=\"lazy\" width=\"40\" height=\"40\" class=\"mw-file-element\" data-image-name=\"Edit-copy green.svg\" data-image-key=\"Edit-copy_green.svg\" data-relevant=\"0\" /></span></span></td>\n<td class=\"mbox-text\" style=\"\"> <b>This is a <a href=\"https://en.wikipedia.org/wiki/Template_documentation\" class=\"extiw\" title=\"wikipedia:Template documentation\">documentation</a> <a href=\"https://en.wikipedia.org/wiki/Subpages\" class=\"extiw\" title=\"wikipedia:Subpages\">subpage</a> for <a href=\"/wiki/Template:TemplateDataHeader\" title=\"Template:TemplateDataHeader\">Template:TemplateDataHeader</a></b>.<br />It contains usage information, <a href=\"https://en.wikipedia.org/wiki/Categorization\" class=\"extiw\" title=\"wikipedia:Categorization\">categories</a> and other content that is not part of the original template page. </td>\n</tr>\n</tbody></table>\n<p>Inserts a brief header for the template data section. Adds the page to <a href=\"/wiki/Category:TemplateData_documentation\" class=\"newcategory\" title=\"Category:TemplateData documentation\">Category:TemplateData documentation</a>.\n</p>\n<h2><span class=\"mw-headline\" id=\"Usage\">Usage</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<pre>==TemplateData== or ==Parameters== or ==Usage==\n{{TemplateDataHeader}}\n&lt;templatedata&gt;{\n...\n}&lt;/templatedata&gt;\n</pre>\n<p>Use <code>{{TemplateDataHeader|Template name}}</code> if you want an alternative name for the template to be displayed.\n</p>\n<h2><span class=\"mw-headline\" id=\"Parameters\">Parameters</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<div class=\"templatedata-header\">This is the <a href=\"https://en.wikipedia.org/wiki/TemplateData\" class=\"extiw\" title=\"wikipedia:TemplateData\">TemplateData</a> documentation for this template used by <a href=\"https://en.wikipedia.org/wiki/VisualEditor\" class=\"extiw\" title=\"wikipedia:VisualEditor\">VisualEditor</a> and other tools.\n<p><b>TemplateDataHeader</b>\n</p>\n</div>\n<section class=\"mw-templatedata-doc-wrap\"><header><p class=\"mw-templatedata-doc-desc\">Inserts a brief header for the template data section. Adds the page to [[Category:TemplateData documentation]]</p></header><table class=\"wikitable mw-templatedata-doc-params\"><caption><p class=\"mw-templatedata-caption\">Template parameters<mw:edittemplatedata page=\"Template:TemplateDataHeader/doc\"></mw:edittemplatedata></p></caption><thead><tr><th colspan=\"2\">Parameter</th><th>Description</th><th>Type</th><th>Status</th></tr></thead><tbody><tr><th>Template name</th><td class=\"mw-templatedata-doc-param-name\"><code>1</code></td><td><p>The name of the template to display. Default is {{BASEPAGENAME}}.</p><dl></dl></td><td class=\"mw-templatedata-doc-param-type\">String</td><td class=\"mw-templatedata-doc-param-status-optional\" data-sort-value=\"0\">optional</td></tr></tbody></table></section>\n<h2><span class=\"mw-headline\" id=\"See_also\">See also</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<!-- \nNewPP limit report\nCached time: 20261119205409\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.018 seconds\nReal time usage: 0.050 seconds\nPreprocessor visited node count: 228/1000000\nPost‐expand include size: 4434/2097152 bytes\nTemplate argument size: 1140/2097152 bytes\nHighest expansion depth: 17/100\nExpensive parser function count: 1/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 1047/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   16.195      1 -total\n 89.33%   14.467      1 Template:Documentation_subpage\n 73.15%   11.847      1 Template:Mbox\n 43.40%    7.029      1 Template:Ombox\n 30.00%    4.859      1 Template:Ombox/core\n 17.09%    2.768      1 Template:Namespace_detect\n  8.42%    1.364      1 Template:TemplateDataHeader\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:161-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205409 and revision id 217. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:TemplateDataHeader",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Category:TemplateData documentation",
+      "ns": 14
+    }
+  ],
+  "page_id": 161,
+  "revision_id": 217,
+  "title": "Template:TemplateDataHeader/doc"
+}

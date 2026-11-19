@@ -1,0 +1,1 @@
+<span class="script-arabic script-Arab" dir="rtl" style="font-family:Scheherazade,Lateef,Arial,'Arabic Transparent','Droid Arabic Naskh',Amiri,'Microsoft Sans Serif','Segoe UI','Sakkal Majalla','Microsoft Uighur','Arabic Typesetting',sans-serif,serif;font-size:125%;font-weight:normal;{{{style|}}}" {{{attributes|}}}>{{{1}}}</span>&lrm;<noinclude>{{documentation}}</noinclude>

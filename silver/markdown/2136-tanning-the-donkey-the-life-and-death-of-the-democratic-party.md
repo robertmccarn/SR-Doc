@@ -1,0 +1,30 @@
+---
+page_id: 2136
+revision_id: 11203
+source_url: https://second-renaissance.fandom.com/wiki/Tanning_the_Donkey%3A_The_Life_and_Death_of_the_Democratic_Party
+raw_sha256: 7e986647ef072f631ede4311c4b5ba7565b3c3874d5c1ca30d4f7b9cf6ee6114
+---
+
+# Tanning the Donkey: The Life and Death of the Democratic Party
+
+## Preserved source
+
+```wikitext
+'''Tanning the Donkey: The Life and Death of the Democratic Party''' was a nonfiction book by Sasha Megumi created ten years in response to the successful and popular book ''[Skinning the Elephant](2135-skinning-the-elephant-the-life-and-death-of-the-republican-party.md)'', the book describes the series of circumstances that led to the rise of competing factions and the ultimate fracturing of the Democrat party after the fall of the Republican party. The book describes the election of Bill Clinton to the last pitch of Julian Castro in [2032 presidential election](1263-united-states-presidential-election-2032.md).
+
+Megumi noted that the Democrats continued to be torn apart due to infighting in the 1970s had contributed to Ronald Reagan winning the election. This began a soul search within the party and the political climate of post-cold war United States introduced a new line of thinking within the Democratic party today called the 'New Democrats', a term used by those who seek reconciliation between liberal and conservative elements in the United States. She claimed that President George H.W. Bush, the successor to Reagan, was just a mere shadow of Ronald Reagan. The Democratic party saw an opportunity and gave their support to Bill Clinton. This was proven successful as they won the 1992 presidential election. The New Democrats became the dominant "faction" within the Democratic party until the rise of progressives in the late 2010s.
+
+The book addresses the brief George W. Bush presidency following the Clinton Era and its elements that gave rise to another breed of New Democrats coalescing around Barack Obama whom narrowly defeated Hillary Clinton to the nomination in the 2008 presidential election running on a platform of "hope and change".  This was a sign of the first conflict within the Democratic party that would come into fruition in 2016. The more conservative elements within the Democratic party came to a head against the newly founded progressive anti-establishment coalition led by Senator Bernie Sanders. The failure of Bernie Sanders to attain nomination over Hillary Clinton was met with negative attention from the progressive coalition, which saw this as a betrayal by their party.
+
+Megumi claimed that the 2018 elections saw further split when more anti-establishment elements left over by the Sanders campaign claimed dominance over the party and responsibility for attaining seats within congressional seats, angering other factions within the Democratic party, especially the more reactionary elements. Joe Biden took advantage of this and convinced the conflicting sides to pool their support around him, in an anti-Trump coalition against current sitting president Donald Trump, in exchange for promises to push certain policies for every side in the 2020 election and won.
+
+However, President Biden mostly failed in his promises to find a common ground and appease the sides, causing the prominent progressives to gradually leave the party to formulate their own coalition by the 2024 election. This fracturing caused the Democratic party during the Biden era to slowly decline, fracture, and implode with many new (minor) parties being founded from this allowing the progressives to claim vengeance through victory in 2029. The book traced this same situation back to the 1970s. 
+
+Megumi concluded that the one last attempt to reconcile the party should have been made by Julian Castro, but ultimately failed against sitting president Dylan Price. She predicted the Democratic party would slowly fade out of existence at this point as it almost had been in the 1970s, with more loyal, yet desperate, members of the party reaching out to former Republicans to later form the a new coalition. Her conclusion came into fruition when more conservative elements of the Democrats and remnants of the Republican party formed the Conservative party.
+
+[Category:Literature](https://second-renaissance.fandom.com/wiki/Category:Literature)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/2136/11203.wikitext` · revision `11203` · [upstream](https://second-renaissance.fandom.com/wiki/Tanning_the_Donkey%3A_The_Life_and_Death_of_the_Democratic_Party)

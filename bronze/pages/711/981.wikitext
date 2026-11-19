@@ -1,0 +1,9 @@
+{{#ifexist:{{{1}}}
+ |<span class="plainlinks">[{{fullurl:{{{1}}}|redirect=no}} {{{2|{{{1}}}}}}]</span>
+ |{{#if:{{{2|}}}
+  |[[:{{{1}}}|{{{2}}}]]
+  |[[:{{{1}}}]]
+ }}
+}}<noinclude>
+{{documentation}}
+</noinclude>

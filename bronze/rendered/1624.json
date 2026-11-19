@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "*": "Template_implementation_details",
+      "known": "",
+      "missing": "",
+      "sortkey": "Fossil range/bar"
+    },
+    {
+      "*": "Wikipedia_pages_with_incorrect_protection_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": "Fossil range/bar"
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p><span class=\"new\" title=\"Ar:قالب:Fossil range/bar (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvQXI6JUQ5JTgyJUQ4JUE3JUQ5JTg0JUQ4JUE4OkZvc3NpbF9yYW5nZS9iYXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">ar:قالب:Fossil range/bar</span>\n<span class=\"new\" title=\"Bn:টেমপ্লেট:Fossil range/bar (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvQm46JUUwJUE2JTlGJUUwJUE3JTg3JUUwJUE2JUFFJUUwJUE2JUFBJUUwJUE3JThEJUUwJUE2JUIyJUUwJUE3JTg3JUUwJUE2JTlGOkZvc3NpbF9yYW5nZS9iYXI/YWN0aW9uPWVkaXQmcmVkbGluaz0x\">bn:টেমপ্লেট:Fossil range/bar</span>\n<span class=\"new\" title=\"Ko:틀:화석 시기/막대 (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvS286JUVEJThCJTgwOiVFRCU5OSU5NCVFQyU4NCU5RF8lRUMlOEIlOUMlRUElQjglQjAvJUVCJUE3JTg5JUVCJThDJTgwP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">ko:틀:화석 시기/막대</span>\n<span class=\"new\" title=\"Id:Templat:Rentang fosil/baris (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvSWQ6VGVtcGxhdDpSZW50YW5nX2Zvc2lsL2JhcmlzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">id:Templat:Rentang fosil/baris</span>\n<span class=\"new\" title=\"La:Formula:Fossil range/bar (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvTGE6Rm9ybXVsYTpGb3NzaWxfcmFuZ2UvYmFyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">la:Formula:Fossil range/bar</span>\n<span class=\"new\" title=\"Pl:Szablon:Okres istnienia grupy organizmów 2/wykres (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvUGw6U3phYmxvbjpPa3Jlc19pc3RuaWVuaWFfZ3J1cHlfb3JnYW5pem0lQzMlQjN3XzIvd3lrcmVzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">pl:Szablon:Okres istnienia grupy organizmów 2/wykres</span>\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119205703\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.029 seconds\nReal time usage: 0.041 seconds\nPreprocessor visited node count: 8/1000000\nPost‐expand include size: 178/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 3/100\nExpensive parser function count: 3/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nLua time usage: 0.010/7.000 seconds\nLua memory usage: 712877/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   29.078      1 Template:Pp-template\n100.00%   29.078      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:1624-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205703 and revision id 3876. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Ar:قالب:Fossil range/bar",
+      "ns": 0
+    },
+    {
+      "*": "Bn:টেমপ্লেট:Fossil range/bar",
+      "ns": 0
+    },
+    {
+      "*": "Ko:틀:화석 시기/막대",
+      "ns": 0
+    },
+    {
+      "*": "Id:Templat:Rentang fosil/baris",
+      "ns": 0
+    },
+    {
+      "*": "La:Formula:Fossil range/bar",
+      "ns": 0
+    },
+    {
+      "*": "Pl:Szablon:Okres istnienia grupy organizmów 2/wykres",
+      "ns": 0
+    }
+  ],
+  "page_id": 1624,
+  "revision_id": 3876,
+  "title": "Template:Fossil range/bar"
+}

@@ -1,0 +1,1577 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "2862": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 8342,
+        "length": 18,
+        "ns": 6,
+        "pageid": 2862,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8341,
+            "revid": 8342,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Maps]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-16T07:19:44Z"
+          }
+        ],
+        "title": "File:Europe 2044.png",
+        "touched": "2018-08-16T13:34:58Z"
+      },
+      "2863": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8344,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 2863,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8344,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-16T07:20:42Z"
+          }
+        ],
+        "title": "File:Asia 2044.png",
+        "touched": "2018-08-16T13:35:20Z"
+      },
+      "2864": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 8349,
+        "length": 18,
+        "ns": 6,
+        "pageid": 2864,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8346,
+            "revid": 8349,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Maps]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-16T07:33:12Z"
+          }
+        ],
+        "title": "File:Association of East Asia Map.png",
+        "touched": "2018-08-16T13:38:16Z"
+      },
+      "2865": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 8348,
+        "length": 18,
+        "ns": 6,
+        "pageid": 2865,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8347,
+            "revid": 8348,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Maps]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-16T07:33:03Z"
+          }
+        ],
+        "title": "File:European Association Map.png",
+        "touched": "2018-08-16T13:38:17Z"
+      },
+      "2866": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8351,
+        "length": 553,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2866,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8351,
+            "slots": {
+              "main": {
+                "*": "Just what I was looking for. I recently asked this on the 2160: Epilogue DeviantArt page. \n\nIf you are willing to, may you include an alternate version of this map which also outlines the borders of all countries completely independent of the American System? \n\nOne more thing, Serbia’s borders seem to change depending on which map you look at (2160: Epilogue and the European Association Maps) despite never losing any territory. Perhaps it could be depicted on the 2160: Epilogue Map similar to how it was shown on the European Association’s Map?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-17T09:51:06Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-36590909-20180815041618/@comment-30696685-20180817095106",
+        "touched": "2018-08-17T09:51:06Z"
+      },
+      "2867": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8354,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2867,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8354,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-17T12:56:17Z"
+          }
+        ],
+        "title": "Message Wall:Homesun",
+        "touched": "2018-08-17T12:56:18Z"
+      },
+      "2868": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8355,
+        "length": 574,
+        "links": [
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          },
+          {
+            "ns": 14,
+            "title": "Category:22nd-century conflicts"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2868,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8355,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Category:22nd-century conflicts]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-17T12:56:17Z"
+          }
+        ],
+        "title": "Thread:Homesun/@comment-32769624-20180817125617",
+        "touched": "2018-08-17T12:56:17Z"
+      },
+      "2869": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 8356,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2869,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8356,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-17T12:56:18Z"
+          }
+        ],
+        "title": "User:Homesun",
+        "touched": "2019-07-10T02:35:34Z"
+      },
+      "2870": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Conflicts"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 8357,
+        "length": 23,
+        "new": "",
+        "ns": 14,
+        "pageid": 2870,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8357,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Conflicts]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-17T13:09:07Z"
+          }
+        ],
+        "title": "Category:Extrasolar conflicts",
+        "touched": "2018-08-17T13:09:07Z"
+      },
+      "2871": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8359,
+        "length": 111,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2871,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8359,
+            "slots": {
+              "main": {
+                "*": "Your render of Atlantis and additions to Africa on Earth are great!<ac_metadata title=\"Renders\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-17T20:06:25Z"
+          }
+        ],
+        "title": "Thread:Slimysomething/@comment-899576-20180817200625",
+        "touched": "2018-08-17T20:06:25Z"
+      },
+      "2872": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8361,
+        "length": 216,
+        "ns": 1201,
+        "pageid": 2872,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8360,
+            "revid": 8361,
+            "slots": {
+              "main": {
+                "*": "Thanks! I thought those articles could use some pictures. I was going to just use a picture showing the Americas, but I decided to put my mediocre paint.net skills to the test instead, and got somewhat carried away.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-18T04:39:55Z"
+          }
+        ],
+        "title": "Thread:Slimysomething/@comment-899576-20180817200625/@comment-36590909-20180818035606",
+        "touched": "2018-08-18T04:39:55Z"
+      },
+      "2873": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8363,
+        "length": 107,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2873,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8363,
+            "slots": {
+              "main": {
+                "*": "I've updated the map with your requests. Although now Serbia's borders don't match the previous world maps.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-18T04:58:33Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-36590909-20180815041618/@comment-36590909-20180818045833",
+        "touched": "2018-08-18T04:58:33Z"
+      },
+      "2874": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8368,
+        "length": 56,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2874,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8368,
+            "slots": {
+              "main": {
+                "*": "Thank you. The map looks much more accurate than before.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-18T07:57:33Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-36590909-20180815041618/@comment-30696685-20180818075733",
+        "touched": "2018-08-18T07:57:33Z"
+      },
+      "2875": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8369,
+        "length": 9,
+        "new": "",
+        "ns": 1,
+        "pageid": 2875,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8369,
+            "slots": {
+              "main": {
+                "*": "Pew! Pew!",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-18T17:46:26Z"
+          }
+        ],
+        "title": "Talk:United States Space Force/@comment-24.224.66.196-20180818174626",
+        "touched": "2018-08-18T17:46:26Z"
+      },
+      "2876": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Planets"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 8974,
+        "length": 21,
+        "ns": 6,
+        "pageid": 2876,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8376,
+            "revid": 8974,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Planets]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2019-02-11T22:23:22Z"
+          }
+        ],
+        "title": "File:Sol system.jpg",
+        "touched": "2019-02-12T17:17:52Z"
+      },
+      "2877": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Planets"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 8383,
+        "length": 39,
+        "ns": 6,
+        "pageid": 2877,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8382,
+            "revid": 8383,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Mars]]\n[[Category:Planets]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-20T04:21:24Z"
+          }
+        ],
+        "title": "File:Mars and Tharsis 1999.jpg",
+        "touched": "2018-08-21T13:02:52Z"
+      },
+      "2878": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8396,
+        "length": 443,
+        "ns": 1,
+        "pageid": 2878,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8395,
+            "revid": 8396,
+            "slots": {
+              "main": {
+                "*": "I shouldn't post this here because I feel that I might be blocked but since Batran's here, it might not happen. Here's something that I want to point out but everyone knows this.\n\nIsn't the surname Weinstein also being used by a disgraced director? If she was related to him, then theres a little controversy that I have accidentally picked out. The surname also makes it questionable in recent events along with the ambiguity of this article.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-24T10:30:20Z"
+          }
+        ],
+        "title": "Talk:Miriam Weinstein/@comment-26044830-20180824102524",
+        "touched": "2018-08-24T10:30:21Z"
+      },
+      "2879": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8391,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2879,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8391,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-24T10:25:25Z"
+          }
+        ],
+        "title": "Message Wall:EthanKoenigsberg",
+        "touched": "2018-08-24T10:25:27Z"
+      },
+      "2880": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8392,
+        "length": 559,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Miriam Weinstein"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2880,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8392,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Miriam Weinstein]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-24T10:25:26Z"
+          }
+        ],
+        "title": "Thread:EthanKoenigsberg/@comment-32769624-20180824102526",
+        "touched": "2018-08-24T10:25:26Z"
+      },
+      "2881": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 8393,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2881,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8393,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-24T10:25:26Z"
+          }
+        ],
+        "title": "User:EthanKoenigsberg",
+        "touched": "2019-01-29T02:43:32Z"
+      },
+      "2882": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8399,
+        "length": 228,
+        "ns": 1,
+        "pageid": 2882,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8398,
+            "revid": 8399,
+            "slots": {
+              "main": {
+                "*": "The female south korean president(?) that was impeached had won an election despite being a daughter of a supposed dictator \n\n\n\n\nEven so, ppl share surnames and they arent related.\n\n\nThis is 100 years later, no one wouldd care",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-24T14:25:19Z"
+          }
+        ],
+        "title": "Talk:Miriam Weinstein/@comment-26044830-20180824102524/@comment-5590986-20180824142412",
+        "touched": "2018-08-24T14:25:19Z"
+      },
+      "2883": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Literature"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11891,
+        "length": 11055,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Guardiola Incident"
+          },
+          {
+            "ns": 0,
+            "title": "Interplanetary Trade Commission"
+          },
+          {
+            "ns": 0,
+            "title": "Lionel Halvidar"
+          },
+          {
+            "ns": 0,
+            "title": "Maisie Luong"
+          },
+          {
+            "ns": 0,
+            "title": "Second Martian Revolution"
+          },
+          {
+            "ns": 0,
+            "title": "Second Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "Union Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "United States of Aztlan"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2132"
+          },
+          {
+            "ns": 0,
+            "title": "Virtuals"
+          },
+          {
+            "ns": 0,
+            "title": "Zeus-class dreadnought"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2883,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11839,
+            "revid": 11891,
+            "slots": {
+              "main": {
+                "*": "'''Through a Dark Mirror''' is an American dystopian alternate history and future novel. The book describes an alternate timeline that diverged from the 2090s leading all the way towards the late 24th century, with the determining event being the [[Second Martian Revolution|Martians achieving independence]] from the US that would lead to Mexico and their allies winning the [[Third Mexican-American War]] and divided the United States, leaving the rest of the US slowly yet effectively disintegrating, giving rise to numerous yet powerful competing city-states that would eventually evolve into empires. Critical response to the book was overwhelmingly positive. The book was wildly popular among veterans of the war, and early plans have been made to adapt it into a film and [[virtuals|virtual]].\n\n== Synopsis ==\nIt is the early 24th Century. Technology has largely stagnated, though it is much more advanced than at present. Mexico is the most powerful nation on Earth and rules over an empire that spans from Antarctica to the Mississippi Basin. The United States of America is long dead, fractured into numerous states. The only rival to Mexico (aside from the Martian Empire) is the Manhattan Empire that directly rules over the Eastern Seaboard and has dominion as far west as the Great Lakes.\n\nIn Europe, the Turkish-Israeli Empire is the dominant force on the continent. Western Europe has been transformed into a jigsaw puzzle of once famous states in near constant war with one another, and Poland's once mighty Intermarium is disintegrating as its influence over Germany and Russia falls away. In Asia, Singapore has grown to be the region's most powerful nation-state, carving a new Srivajayan Empire out of trade ports across the entire length of the South Pacific. Singapore is an uneasy ally of Mexico against their common enemy in the Pacific: The Imperium of Mars. \n\nAfter the collapse of the United States, Mars was forced to rush in to seize the country's space elevators where it could. Its equatorial colonies on Earth are a continuous thorn in Mexico's side and may potentially serve as a major catalyst in a future world war...\n\n== '''Timeline''' ==\n\n=== '''Before History''' ===\nThe [[Guardiola Incident]]''' '''or the''' '''Colonial War was a conflict between the United States' Orbital and Lunar colonies and the Mediterranean Union based Guardiola Foundation. Though never formally recognized by any major power on Earth as an actual war, it remains a controversial incident in the minds of colonials. On May 1st, 2099, the Guardiolas staged a massive attack on Glen Station at L1 of the Earth-Luna system. Shortly after taking Glen station the Specialists launched a series of strikes on several Lagrangian and Lunar colonies, deploying armored infantrymen and support drones against civilian militias. When the colonial governments, resident commissioners and the [[Interplanetary Trade Commission]] all called on the Federal Government for help, they were met with deaf ears. As the Mediterraneans were an ally of Mexico, and while the Guardiolas were only a rogue faction, the US government on Earth refused to get involved directly as it would likely drive the United States and Mexico to another war after concluding [[Second Mexican-American War|one in South America only a few years earlier]].\n\nOn September 2, 2099, after months of fighting, Martian reinforcements arrived to put down the Guardiolas, who had so far killed over 100,000 people either through direct combat or from decompression. At the battle of Stanford Station, the first wave of Martian ships engaged the Guardiola fleet. The battle led to heavy losses on both sides, including the deaths of both Roma Guardiola along with the commander of the USPGS Scott Carpenter, [[Lionel Halvidar]]. The latter of whom was killed after the Carpenter was damaged sufficiently to undergo decompression. Although Halvidar escaped with most of the crew and entered combat in vacuum rated armor, they were subsequently decimated by a kamikaze wing of support drones launched from the Guardiola Fleet before the USPGS Gus Grissom could arrive in time and evacuate the survivors. One of the more prominent soldiers during the battle is a Master Sergeant in the Mars Planetary Guard named [[Maisie Luong]].\n\nBy January 20, 2100 the Earth orbit had been cleared of the Guardiola presence. The US government, in a desire to save face with its colonies, launched a coordinated strike on the Guardiola Foundation’s headquarters, and issued joint warrants with the MU and Mexico for the arrest of its surviving members. This got the colonies to stand down, but they would not forget the betrayal by their own government.\n\n=== '''Second Martian Revolution''' ===\nAs questions of the future of Mars grew with the public's discontent with Earth and the fear surrounding the possibility of a war on Earth spreading to Mars, the Mars Society for Independence and Freedom (MSIF) became an increasingly prominent force in the Martian political discourse. Under the leadership of Maisie Luong, the MSIF become a mainstream political movement due in no small part to Luong's commanding presence as a speaker. Although there were several political movements across the planet such as the pro-Earth [[Union Party (United States)|Union Party]], most were never able to consolidate into a formidable political entity and most lacked any figure resembling a charismatic leader who appeared strong enough to challenge Luong's fiery rhetoric on the public stage. In public rallies across Mars, the MSIF argued that only as an independent power could Mars and the rest of the colonies hope to defend themselves, and achieve the rights that the US on Earth had long denied them. Luong rallied her supporters across the planet through propaganda and marches on territory Capitols, often carrying out demonstrations that drew thousands. As the Dignidad Party on Earth continued their tirade against the colonies, and Mexico conducted more drills with their Orbitals, the MSIF got louder and more aggressive.\n\nOne of the main targets of the MSIF's rhetoric was the Interplanetary Trade Commission, which Luong and her followers saw as \"collaborators in a conspiracy with the government on Earth to deny the rights of freedom and self determination to all Martians\". After years of being ignored and seen with contempt by the government on Earth, and the ITC powerless to stop the rise of the MSIF across Mars, the situation finally came to a head in 2129 when Luong and her supporters stormed the Headquarters of the ITC in Bradbury. Flying red flags and brandishing old weapons and armor from the Guardiola Incident, Luong and approximately fifty thousand MSIF supporters gathered and declared Martian Independence from the United States of America. Declaring themselves the legitimate authority on Mars, a Governing Council was quickly established and the Mars Planetary Guard were mobilized in preparation for the inevitable military response from the government on Earth. Aware of discontent on some of the other planetary colonies, Luong quietly sent intermediaries to Jupiter and Saturn in an attempt to gain their support. Additionally, during the takeover, it is discovered that the ITC was in the process of developing [[Zeus-class dreadnought|a new&nbsp;class&nbsp;of&nbsp;space warship]] ordered by the various Colonial Planetary Guards back in 2126. Luong orders their continued development but that all information regarding their existence is classified.\n\nIn Washington, the Levin Administration was caught completely off guard by what they saw as an illegal rebellion carried out by an illegitimate separatist movement. At the insistence of Vice President David Castillo (a member of the Dignidad Party), President Levin ordered the United States Space Force to carry out an invasion of Mars in an attempt to restore the ITC to power and eliminate the threat from Luong and the MSIF. However, the invasion of the planet was carried out carelessly, the decision to bomb strategic targets before landing resulted in unnecessary and easily avoidable civilian deaths. These deaths were heavily propagated by revolutionaries as a personal attack on the colonies which helped drive a significant portion of the Martian population to take up arms against their mother country. US forces on Mars were harassed by guerrilla fighters and casualties were heavily reported on the news, leading to public opinion turning against the war. By 2132, US losses became so great in the short period of time that the US was forced to hold a ceasefire with the Martians. In the face of these losses, President Levin decided to not run for a second term in office. He would never be able to fulfill his dream of ending hostilities between Mexico and the United States before it was too late. David Castillo's support of the war on the US side was also heavily criticized and had resulted in greatly reduced popularity in the Dignidad Party, allowing US forces to quell any ideas of secession. [[United States of Aztlan|Aztlan]] ultimately doesn't exist.\n\n=== '''Third Mexican-American War''' ===\nWithout the founding of the Union Party by the late Lionel Halvidar, the liberal parties of the United States became more popular but were heavily divided between each other as they were constantly splitting public opinion in the polls, allowing the Conservative Union to maintain a significant lead over the parties by taking advantage of the discord. Following the contentious [[United States presidential election, 2132|2132 Presidential Election]] with the majority of the campaigning focused heavily on the issue of Martian Independence, Lydia Monroe of the Conservative Union was elected the 65th President of the United States with Harrison Reed as her Vice President. President Monroe was considered by many to be a great and aggressive speaker which has led to her election. Any hopes of reconciliation between the two sides were gone when President Monroe declared during her inaugural address that the United States would never recognize the MSIF as the legitimate authority on Mars.\n\nIn the aftermath of the Second Martian Revolution (also known as the \"Martian War\" in the US), a classified post-war assessment is presented to President Monroe by the Department of Defense. It highlighted \"reckless overspending\" and indicated that losses in both material and personnel on Mars had denigrated the US' ability to fight a conventional war on Earth. Furthermore, morale on the American Homefront was at an all time low. The assessment concluded that it would take several years, before the nation could return to pre-war military levels and that if it were to enter into a new conflict, the United States would struggle to win, or even lose a war; with \"...damage to American security and global influence could be devastating and beyond repair.\"\n\n=== '''Second American Revolution''' ===\n\n=== '''The''' '''Continental Wars''' ===\n\n=== '''Venusian War''' ===\n[[Category:Literature]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-08-16T15:42:04Z"
+          }
+        ],
+        "title": "Through a Dark Mirror",
+        "touched": "2025-08-16T15:42:04Z"
+      },
+      "2884": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8410,
+        "length": 2,
+        "new": "",
+        "ns": 2,
+        "pageid": 2884,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8410,
+            "slots": {
+              "main": {
+                "*": "hi",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-28T11:37:13Z"
+          }
+        ],
+        "title": "User:TheXiJinping",
+        "touched": "2019-07-01T04:57:05Z"
+      },
+      "2885": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8411,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2885,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8411,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-28T11:37:14Z"
+          }
+        ],
+        "title": "Message Wall:TheXiJinping",
+        "touched": "2018-12-17T09:08:50Z"
+      },
+      "2886": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8412,
+        "length": 560,
+        "links": [
+          {
+            "ns": 2,
+            "title": "User:TheXiJinping"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2886,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8412,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:User:TheXiJinping]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-08-28T11:37:15Z"
+          }
+        ],
+        "title": "Thread:TheXiJinping/@comment-32769624-20180828113715",
+        "touched": "2018-08-28T11:37:15Z"
+      },
+      "2887": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8423,
+        "length": 140,
+        "new": "",
+        "ns": 6,
+        "pageid": 2887,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8423,
+            "slots": {
+              "main": {
+                "*": "Electoral college map for the 2016 United States presidential election (note: Nebraska and Maine split their EVs by congressional district).",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-04T11:43:06Z"
+          }
+        ],
+        "title": "File:ElectoralCollege2020.svg",
+        "touched": "2018-09-04T11:43:27Z"
+      },
+      "2888": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8425,
+        "length": 70,
+        "new": "",
+        "ns": 1,
+        "pageid": 2888,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8425,
+            "slots": {
+              "main": {
+                "*": "how would you describe the appearence of the armor from WWIII to 2160?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-06T21:38:37Z"
+          }
+        ],
+        "title": "Talk:Armor/@comment-90.255.216.80-20180906213837",
+        "touched": "2018-09-06T21:38:37Z"
+      },
+      "2889": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8427,
+        "length": 272,
+        "new": "",
+        "ns": 1,
+        "pageid": 2889,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8427,
+            "slots": {
+              "main": {
+                "*": "I noticed that it says Japan was the ''third ''nation to land on Luna in 2029, but there's no mention of a ''second ''nation. Did I misread or does this need to be fixed?\n\nOf course, we're making an exception for the secret Nazi bases on the 'dark side' of Luna. Hehe.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-08T21:08:18Z"
+          }
+        ],
+        "title": "Talk:Timeline of space exploration/@comment-36859657-20180908210818",
+        "touched": "2018-09-08T21:08:18Z"
+      },
+      "2890": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8428,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2890,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8428,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-08T21:08:19Z"
+          }
+        ],
+        "title": "Message Wall:Entelechial",
+        "touched": "2018-09-08T21:08:20Z"
+      },
+      "2891": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8429,
+        "length": 572,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Timeline of space exploration"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2891,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8429,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Timeline of space exploration]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-08T21:08:19Z"
+          }
+        ],
+        "title": "Thread:Entelechial/@comment-32769624-20180908210819",
+        "touched": "2025-09-28T14:09:30Z"
+      },
+      "2892": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 8430,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2892,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8430,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-08T21:08:20Z"
+          }
+        ],
+        "title": "User:Entelechial",
+        "touched": "2018-09-08T21:09:05Z"
+      },
+      "2893": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8433,
+        "length": 14,
+        "ns": 1,
+        "pageid": 2893,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8432,
+            "revid": 8433,
+            "slots": {
+              "main": {
+                "*": "Russia? China?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-08T23:02:12Z"
+          }
+        ],
+        "title": "Talk:Timeline of space exploration/@comment-36859657-20180908210818/@comment-5590986-20180908230158",
+        "touched": "2018-09-08T23:02:12Z"
+      },
+      "2894": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8437,
+        "length": 218,
+        "ns": 1,
+        "pageid": 2894,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8435,
+            "revid": 8437,
+            "slots": {
+              "main": {
+                "*": "It could be, but the timeline doesn't specify. Given that Russia collapsed, I'd say probably China. \n\nThough Japan could just be edited to be the second one, if nothing else. In fact, I'll do that for the time being.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-09T00:27:23Z"
+          }
+        ],
+        "title": "Talk:Timeline of space exploration/@comment-36859657-20180908210818/@comment-36859657-20180908230520",
+        "touched": "2018-09-09T00:27:23Z"
+      },
+      "2895": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8440,
+        "length": 0,
+        "new": "",
+        "ns": 1200,
+        "pageid": 2895,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8440,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-10T02:28:06Z"
+          }
+        ],
+        "title": "Message Wall:EoGuy99",
+        "touched": "2018-09-10T02:28:07Z"
+      },
+      "2896": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8441,
+        "length": 557,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Kahi'Umknovola"
+          },
+          {
+            "ns": 12,
+            "title": "Help:Getting Started"
+          }
+        ],
+        "new": "",
+        "ns": 1201,
+        "pageid": 2896,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8441,
+            "slots": {
+              "main": {
+                "*": "Hi, I'm an admin for the {{SITENAME}} community. Welcome and thank you for your edit to [[:Kahi'Umknovola]]!\n\nIf you need help getting started, check out our [[Help:Getting Started|help pages]] or contact me or [[Special:Listusers/sysop|another admin]] here. For general help, you could also stop by [[w:c:community:main page|Community Central]] to explore the [[w:c:community:Special:Forum|forums]] and [[w:c:community:Blog:Wikia_Staff_Blog|blogs]].\n\nEnjoy your time at {{SITENAME}}!<ac_metadata title=\"Welcome to Second Renaissance Wikia!\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-10T02:28:06Z"
+          }
+        ],
+        "title": "Thread:EoGuy99/@comment-32769624-20180910022806",
+        "touched": "2018-09-10T02:28:06Z"
+      },
+      "2897": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Placeholder"
+          }
+        ],
+        "lastrevid": 8442,
+        "length": 232,
+        "new": "",
+        "ns": 2,
+        "pageid": 2897,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8442,
+            "slots": {
+              "main": {
+                "*": "[[File:Placeholder|thumb|220px]]\n\nThis is your user page. Please edit this page to tell the community about yourself!\n\n==My favorite pages==\n\n* Add links to your favorite pages on the wiki here!\n* Favorite page #2\n* Favorite page #3",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-10T02:28:07Z"
+          }
+        ],
+        "title": "User:EoGuy99",
+        "touched": "2018-09-10T02:28:07Z"
+      },
+      "2898": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8446,
+        "length": 2804,
+        "new": "",
+        "ns": 1,
+        "pageid": 2898,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8446,
+            "slots": {
+              "main": {
+                "*": "New rules regarding alien life-forms. We're going to be changing the dates of contact for intelligent speices, and capping the number disocvered by humans by 2160 that are considered intelligent (ask and ye shall receive the full reason).\n\nBut let's start with my calculations for the Drake equation for the Milkey Way Galaxy:\n\n\n:''R''<sub>∗</sub> = the average rate of [https://en.wikipedia.org/wiki/Star_formation star formation] in [https://en.wikipedia.org/wiki/Milky_Way our galaxy] ('''1 yr<sup>−1</sup> ''')\n:''f''<sub>p</sub> = the fraction of those stars that have [https://en.wikipedia.org/wiki/Planet planets] ('''0.75''')\n:''n''<sub>e</sub> = the average number of planets that can potentially support [https://en.wikipedia.org/wiki/Life life] per star that has planets ('''3''')\n:''f''<sub>l</sub> = the fraction of planets that could support life that actually develop life at some point ('''1''')\n:''f''<sub>i</sub> = the fraction of planets with life that actually go on to develop [https://en.wikipedia.org/wiki/Intelligence intelligent] life (civilizations) ('''0.33''')\n:''f''<sub>c</sub> = the fraction of civilizations that develop a technology that releases detectable signs of their existence into space ('''0.003''')\n:''L'' = the length of time for which such civilizations release detectable signals into space<span style=\"font-size:11px;\"> </span> ('''10000 years''')\n\nN = 22 civilizations capable of radio communications.\n\nN_stone-age+ = 7500\n\nN_bronze-age+ = 500\n:\n:N_iron-age+ = 150\n\nOf those 22 advanced civilizations, I'm gonna say that all of them exist in the outer spiral arms of the Milkey Way (I doubt), about half in the Perseus Arm of the Milkey way, and half of those in the Orion arm within the Perseus arm, meaning about 5 or 6 advanced technological civilizations over the 10,000 lightyear length of our backyard. So we need to make some changes:\n\n1. [https://second-renaissance.wikia.com/wiki/Argommi Argommi], [https://second-renaissance.wikia.com/wiki/Hivvir Hivvir], [https://second-renaissance.wikia.com/wiki/Hiilo Hiilo],  can still exist, but I'm now decreeing that they were some of the most distant missions humanity has ever undertaken. Pick some earthlike stars around 5000 LY from Sol, because that's where we're moving them.\n2. The Equoloii can remain in their current position, but we're scrapping their abillity to produce radio.\n:3. The Ckuteko can continue to exist, but they have to be 10000 LY from Earth, and I want them to be far less impressive, downright pitiful machines. Think of a planet with a few thousand next generation predator drones and roombas on it, not planet of the terminators.\n:4. No new advanced civilizations may be created beyond this point, but feel free to create a bunch of cavemen. ",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-10T06:13:08Z"
+          }
+        ],
+        "title": "Talk:NASA/@comment-899576-20180910061308",
+        "touched": "2018-09-10T06:13:08Z"
+      },
+      "2899": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8447,
+        "length": 56,
+        "new": "",
+        "ns": 1,
+        "pageid": 2899,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8447,
+            "slots": {
+              "main": {
+                "*": "We still haven't established how fast warp ships can go.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-10T12:42:14Z"
+          }
+        ],
+        "title": "Talk:NASA/@comment-899576-20180910061308/@comment-112.204.203.135-20180910124214",
+        "touched": "2018-09-10T12:42:15Z"
+      },
+      "2900": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8448,
+        "length": 43,
+        "new": "",
+        "ns": 1,
+        "pageid": 2900,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8448,
+            "slots": {
+              "main": {
+                "*": "I guess this species doesn't exist anymore.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-10T13:20:07Z"
+          }
+        ],
+        "title": "Talk:Kahi'Umknovola/@comment-31711431-20180910132007",
+        "touched": "2018-09-10T13:20:07Z"
+      },
+      "2901": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8449,
+        "length": 63,
+        "new": "",
+        "ns": 1,
+        "pageid": 2901,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8449,
+            "slots": {
+              "main": {
+                "*": "Traveling 5,000 LY seems like a bigger leap for this new change",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-10T13:41:59Z"
+          }
+        ],
+        "title": "Talk:NASA/@comment-899576-20180910061308/@comment-5590986-20180910134159",
+        "touched": "2018-09-10T13:42:00Z"
+      },
+      "2902": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8450,
+        "length": 25,
+        "new": "",
+        "ns": 1,
+        "pageid": 2902,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8450,
+            "slots": {
+              "main": {
+                "*": "They can still be cavemen",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-10T13:46:49Z"
+          }
+        ],
+        "title": "Talk:Kahi'Umknovola/@comment-31711431-20180910132007/@comment-5590986-20180910134649",
+        "touched": "2018-09-10T13:46:49Z"
+      },
+      "2903": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8452,
+        "length": 23,
+        "new": "",
+        "ns": 1,
+        "pageid": 2903,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8452,
+            "slots": {
+              "main": {
+                "*": "Human uplifted cavemen?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-11T11:57:10Z"
+          }
+        ],
+        "title": "Talk:Kahi'Umknovola/@comment-31711431-20180910132007/@comment-31711431-20180911115710",
+        "touched": "2018-09-11T11:57:10Z"
+      },
+      "2904": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8458,
+        "length": 449,
+        "ns": 1,
+        "pageid": 2904,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8457,
+            "revid": 8458,
+            "slots": {
+              "main": {
+                "*": "Guess since the furthest humans can travel is 5000 LY (a big leap), I guess we should push contact with Argommi, Hivvir, and Hiilo to 2150+\n\nspeaking of Moraks, I guess in order for them to exist we should knock them down a bit. For the sake of keeping Squirrel wars. Same with the Vols, Kahi's, Ir'ba, and Tel-bn, etc. to tribal levels\n\n\n\n\n\n\n\nWhat would happen to the Free Associations? Would they exist or not exist at all due to travel distance?",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-12T05:53:07Z"
+          }
+        ],
+        "title": "Talk:NASA/@comment-5590986-20180912054316",
+        "touched": "2018-09-12T05:53:07Z"
+      },
+      "2905": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Books"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 9831,
+        "length": 1758,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Malcolm Moreau"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2905,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 9555,
+            "revid": 9831,
+            "slots": {
+              "main": {
+                "*": "''Tropical Antarctica'' was a book by [[Malcolm Moreau]] that presents a hypothetical ecosystem of what Antarctica might have been like 150 million years ago in the Late Jurassic period, a time period where no fossils were found in Antarctica. It is arranged as a \"field guide\", containing profiles of numerous fictional species based on those known from surrounding parts of the world at contemporary times. The book's success established Moreau's career as an author of speculative-science books, and made him a household name.\n\nSpecies profiled in the book include the following:\n\n''Teratovenator ferox'': A 30-foot theropod related to the South American ''Piatnitzkysaurus, ''and the apex predator of Antarctica. It is capable of bringing down prey of virtually any size, from fish to other dinosaurs.\n\n''Antarctoposeidon jacksoni'': An 85-foot, 45-ton sauropod descended from the cetiosaur family. The only sauropod native to Anatrctica, and the continent's largest land animal by far.\n\n''Brevidactylus osteofragus'': A turkey-sized flightless pterosaur with atrophied wing-fingers whose closest relatives are basal dsungaripterids. It is an omnivore, but its heavy beak is capable of crushing bones.\n\n''Lagodon gregarium'': A basal ornithischian descended from dinosaurs such as ''Chilesaurus'', which has evolved into a four-legged deer-sized browser.\n\n''Nycterotherium nosferatus'': A volaticothere (a member of a lineage of Mesozoic mammals with gliding membranes) that has evolved powered flight, and feeds on blood much like a vampire bat.\n\n''Thalassotitan ahabi:'' A gigantic filter-feeding ichthyosaur, the largest animal in the world, that breeds along Antarctica's coasts. At 100 feet long, it rivals the blue whale in size.\n[[Category:Books]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-10-16T02:24:58Z"
+          }
+        ],
+        "title": "Tropical Antarctica",
+        "touched": "2020-10-16T02:24:58Z"
+      },
+      "2906": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:21st-century conflicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Under Construction"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:US flag 51stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Under contruction icon-red.png"
+          }
+        ],
+        "lastrevid": 10318,
+        "length": 1504,
+        "links": [
+          {
+            "ns": 0,
+            "title": "President of the United States (The Second Renaissance)"
+          },
+          {
+            "ns": 0,
+            "title": "United States of America"
+          },
+          {
+            "ns": 0,
+            "title": "White Tide"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2906,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10317,
+            "revid": 10318,
+            "slots": {
+              "main": {
+                "*": "{{WIP}}\n{{Infobox Military Conflict\n|conflict=American Troubles\n|partof=\n|image= \n|caption=Military situation in 2024\n|date=2021 - 2028\n|place=United States of America, (with spillovers into Mexico and Canada)\n|causes=\n|territory=\n|result=Inconclusive\n*Start of the [[White Tide]]\n|combatant1='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\"></span>'''\n[[File:US flag 51stars.png|20px]] '''[[United States of America|United States Federal Government:]]'''\n\n|combatant2='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\"></span>'''\n'''Far right militants:'''<br>\nPatriot front<br>\nLeague of the South<br>\nOath Keepers<br>\nProud Boys<br>\nAtomwaffen Division<br>\nRebel police units\n\n|commander1='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\"></span>'''\n[[File:US flag 51stars.png|20px]] [[President of the United States (The Second Renaissance)|Kamala Harris]]<br>\n\n|commander2='''<span title=\"{{{2|{{{1|}}}}}}\" class=\"fakelinks\" style=\"cursor: pointer; color: #002bb8;\"></span>'''\n\n<br>\n<br>\n\n|strength1= 1.7 million\n|strength2= unknown\n|casualties1= 5,400\n|casualties2= 197\n}}\n\n\n'''The American Troubles''' was a period of domestic terrorism and vigilantism during the 2020s. It is sometimes described as a \"guerrilla war\" or a \"low-level war\". The conflict began with the Trump Insurrection on the US Capitol on January 6th, 2021.\n\n \n[[Category:21st-century conflicts]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2021-03-13T21:09:51Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox Military Conflict"
+          },
+          {
+            "ns": 10,
+            "title": "Template:WIP"
+          },
+          {
+            "ns": 10,
+            "title": "Template:WPMILHIST Infobox style"
+          }
+        ],
+        "title": "The American Troubles",
+        "touched": "2021-03-13T21:09:51Z"
+      },
+      "2907": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8477,
+        "length": 68,
+        "ns": 6,
+        "pageid": 2907,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8476,
+            "revid": 8477,
+            "slots": {
+              "main": {
+                "*": "'''Source: [https://www.deviantart.com/captainmme45 CaptainMME45]'''",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-16T19:45:25Z"
+          }
+        ],
+        "title": "File:Map of Mexico by CaptainMME45.png",
+        "touched": "2018-09-16T19:45:25Z"
+      },
+      "2908": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8482,
+        "length": 20,
+        "new": "",
+        "ns": 1,
+        "pageid": 2908,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8482,
+            "slots": {
+              "main": {
+                "*": "Nasa is not military",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-18T00:33:48Z"
+          }
+        ],
+        "title": "Talk:United States Space Force/@comment-2605:A000:1417:2287:F440:959F:D588:3663-20180811203137/@comment-2601:285:500:2BAA:799F:B9D5:4CB5:8913-20180918003348",
+        "touched": "2018-09-18T00:33:48Z"
+      },
+      "2909": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8484,
+        "length": 213,
+        "new": "",
+        "ns": 1,
+        "pageid": 2909,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8484,
+            "slots": {
+              "main": {
+                "*": "I think that Supreme Court decision mentioned in Fabian’s second term is really important moving foreword for the fundamental structure of the republic, rendering the title “United States” truely inaccurate.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-22T09:03:10Z"
+          }
+        ],
+        "title": "Talk:Cora Fabian/@comment-29372813-20180922090310",
+        "touched": "2018-09-22T09:03:11Z"
+      },
+      "2910": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8492,
+        "length": 41,
+        "ns": 1,
+        "pageid": 2910,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 8491,
+            "revid": 8492,
+            "slots": {
+              "main": {
+                "*": "Is 'Stone Leviathan' canon?\nProbably not.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-25T22:20:36Z"
+          }
+        ],
+        "title": "Talk:Notable Literature/@comment-36859657-20180925222005",
+        "touched": "2018-09-25T22:20:36Z"
+      },
+      "2911": {
+        "contentmodel": "wikitext",
+        "lastrevid": 8493,
+        "length": 16,
+        "new": "",
+        "ns": 1,
+        "pageid": 2911,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 8493,
+            "slots": {
+              "main": {
+                "*": "Not sure either.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-09-26T00:11:42Z"
+          }
+        ],
+        "title": "Talk:Notable Literature/@comment-36859657-20180925222005/@comment-34843935-20180926001142",
+        "touched": "2018-09-26T00:11:42Z"
+      }
+    }
+  }
+}

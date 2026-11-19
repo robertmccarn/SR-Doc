@@ -1,0 +1,4 @@
+[[Template:{{{1}}}]] ([[Special:Whatlinkshere/Template:{{{1}}}|links]], [[Template talk:{{{1}}}|talk]])<noinclude>
+[[Category:Internal template-link templates]]
+[[Category:Pagelinks templates]]
+</noinclude>

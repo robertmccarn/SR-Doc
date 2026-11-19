@@ -1,0 +1,20 @@
+{{Political party color |Democratic-Republican}}<noinclude>
+
+== Examples ==
+{| class=wikitable
+| style="background:white; color:{{ {{PAGENAME}} }}" | '''This color on white'''
+| style="background:{{ {{PAGENAME}} }}; color:white" | '''White text on this color'''
+|-
+| style="background:black; color:{{ {{PAGENAME}} }}" | '''This color on black'''
+| style="background:{{ {{PAGENAME}} }}; color:black" | '''Black text on this color'''
+|}
+
+== Use ==
+<kbd>| <nowiki>style="background-color:{{</nowiki> {{PAGENAME}} <nowiki>}}</nowiki>;" |</kbd><noinclude>
+
+== See also ==
+* [[ {{ROOTPAGENAME}} ]]
+* [[Template:Party shading/Democratic-Republican]]
+
+[[Category:United States political party color templates|{{PAGENAME}}]]
+</noinclude>

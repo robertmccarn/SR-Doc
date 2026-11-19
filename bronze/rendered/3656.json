@@ -1,0 +1,67 @@
+{
+  "categories": [
+    {
+      "*": "Technology",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    },
+    {
+      "*": "Space_Age",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>The field of <b>gravitonics</b> is a branch of physics and gravity engineering that deals with the emission, behaviour and effects of gravitons using gravitonic devices. Gravitonics uses active devices to control graviton flow, be it through increasing or decreasing the gravitational field.\n</p>\n<h2><span class=\"mw-headline\" id=\"History\">History</span><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a title=\"Sign in to edit\" class=\"mw-editsection-visualeditor\" data-tracking-label=\"log-in-edit-section\" data-action=\"edit-section\" href=\"https://auth.fandom.com/signin?redirect=https%3A%2F%2Fsecond-renaissance.fandom.com%2Fwiki%2FGravitonics%3Fveaction%3Dedit%26section%3D1&amp;uselang=en&amp;metadata=article-registration-edit-article-section\" data-auth-modal=\"signin\" data-testid=\"log-in-edit-section\" aria-label=\"Sign in to edit\"><svg class=\"wds-icon wds-icon-tiny\" aria-hidden=\"true\" focusable=\"false\"><use xlink:href=\"#wds-icons-pencil-tiny\"></use></svg></a><span class=\"mw-editsection-bracket\">]</span></span></h2>\n<p>The Graviton was first manipulated in 2110 by Jovian physicists. For the next decade Gravitonics was limited to university and government research labs. In the 2120s, under a grant from the ITC, a concerted effort was made to scale up graviton generation and field control through a black project known as the Weak Force Project. The end result was the first practical artificial gravity field generator that would be the basis for the <a href=\"/wiki/Olympus-class_dreadnought\" title=\"Olympus-class dreadnought\">Olympus-class dreadnought</a>'s propulsion system and relativistic cannon. The Olympus GFGs produced 3 artificial gravity wells within the barrel of the dreadnought's main gun, which were used to accelerate matter to relativistic speeds. This made it possible for the creation of either a relativistic kill vehicle (Angelfire) or an extremely efficient form of propulsion.\n</p><p>Since the end of the <a href=\"/wiki/Third_Mexican-American_War\" title=\"Third Mexican-American War\">Third Mexican-American War</a>, gravity propulsion has become a more common across the solar system, entering the mass market at the end of the 2150s, spurred on by the completion of the Sol <a href=\"/wiki/Dyson_Sphere\" title=\"Dyson Sphere\">Dyson Sphere</a> which enabled greater <a href=\"/wiki/Quantum_Capacitor\" title=\"Quantum Capacitor\">wireless transmission of energy</a>. Where the Olympus relied on hydrogen as its propulsive gas, modern spacecraft rely on powdered heavy metals to reduce the volume needed for fuel storage. GFGs can produce gravity wells so dense, that matter can be accelerated near-infinitely and approach the speed of light. Under those conditions, very little propellant is required to achieve high delta-V. These new gravity drives are a defining feature of the late <a href=\"/wiki/Terran_diaspora\" title=\"Terran diaspora\">Terran diaspora</a>, enabling humans to travel between worlds in a matter of hours in extremely small spacecraft. A side effect of this is that O'Neil Ships are becoming increasingly obsolete as a form of crew transportation in-system. As of 2160, 90% of <a href=\"/wiki/O%27Neil_Ships\" title=\"O&#39;Neil Ships\">O'Neil Ships</a> have replaced their fusion and mass driver propulsion systems with gravity drives, and now serve primarily as cargo transportation or sub-light transportation to other star systems. \n</p><p>Gravity propulsion has enabled a number of ambitious projects, including the <a href=\"/wiki/Mars\" title=\"Mars\">orbital repositioning of Eris</a> and <a href=\"/wiki/Terminus\" title=\"Terminus\">Sabine</a> to serve as moons of Mars and Venus. The <a href=\"/wiki/Constellation-class_interstellar_vehicle\" class=\"mw-redirect\" title=\"Constellation-class interstellar vehicle\">Constellation-class interstellar vehicle</a> will also be the first generation of warp-capable spacecraft to use gravitonic initiate faster-than-light travel.\n</p>\n<!-- \nNewPP limit report\nCached time: 20261119081633\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.005 seconds\nReal time usage: 0.009 seconds\nPreprocessor visited node count: 3/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:3656-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119081633 and revision id 11150. Rendering was triggered because: page-view\n -->\n</div>",
+  "links": [
+    {
+      "*": "Constellation-class interstellar vehicle",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Dyson Sphere",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Mars",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "O'Neil Ships",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Olympus-class dreadnought",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Quantum Capacitor",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Terminus",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Terran diaspora",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Third Mexican-American War",
+      "exists": "",
+      "ns": 0
+    }
+  ],
+  "page_id": 3656,
+  "revision_id": 11150,
+  "title": "Gravitonics"
+}

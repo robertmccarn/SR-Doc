@@ -1,0 +1,65 @@
+{
+  "categories": [
+    {
+      "*": "Microformat_(uF)_message_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    },
+    {
+      "*": "Templates_generating_hCards",
+      "known": "",
+      "missing": "",
+      "sortkey": " "
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><p>The <span class=\"new\" title=\"Help:HTML in wikitext (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvSGVscDpIVE1MX2luX3dpa2l0ZXh0P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==\">HTML mark-up</span> produced by this template includes an <a href=\"/wiki/HCard_microformat\" class=\"mw-redirect\" title=\"HCard microformat\">hCard microformat</a> that makes an organization's details readily <a href=\"/wiki/Parsing\" class=\"mw-redirect\" title=\"Parsing\">parsable</a> by computer programs. This aids tasks such as the cataloguing of articles and maintenance of databases. For more information about the use of microformats on Wikipedia, please visit <a href=\"https://en.wikipedia.org/wiki/WikiProject_Microformats\" class=\"extiw\" title=\"wikipedia:WikiProject Microformats\">the Microformat WikiProject</a>.</p><div style=\"margin-top:0.5em;margin-bottom:0.65em;\">\n<dl><dt><span style=\"font-size: 120%;\">Subtemplates</span></dt></dl>\n<ul><li>Use <div style=\"clear:both\"> for the date on which an organisation was \"established\", \"founded\", \"opened\" or otherwise started, <a href=\"https://en.wikipedia.org/wiki/WikiProject_Microformats/dates\" class=\"extiw\" title=\"wikipedia:WikiProject Microformats/dates\">unless that date is before 1583&#160;CE</a>.</div></li>\n<li>Use <div style=\"clear:both\"> for an organisation's URL.</div></li>\n<li>Use <div style=\"clear:both\"> for <a href=\"/wiki/Geographic_coordinate_system\" class=\"mw-redirect\" title=\"Geographic coordinate system\">coordinates</a> associated with the organisation (e.g. the location of its headquarters). A <a href=\"/wiki/Geo_(microformat)\" class=\"mw-redirect\" title=\"Geo (microformat)\">Geo microformat</a> will then make these coordinates parsable, e.g. for use in online mapping, downloading to a <a href=\"/wiki/Global_Positioning_System\" class=\"mw-redirect\" title=\"Global Positioning System\">GPS</a> unit, etc.</div></li></ul>\n<p><i><b>Please do not remove instances of these subtemplates.</b></i>\n</p>\n</div><div style=\"margin-top:0.5em;margin-bottom:0.65em;\">\n<dl><dt><span style=\"font-size: 120%;\">Classes used</span></dt></dl>\n<p>The <a href=\"/wiki/HTML_attribute\" class=\"mw-redirect\" title=\"HTML attribute\">HTML classes</a> this microformat uses include:\n</p>\n<dl><dd><div class=\"hlist\"><ul><li style=\"font-size:110%;\">adr</li><li style=\"font-size:110%;\">agent</li><li style=\"font-size:110%;\">category</li><li style=\"font-size:110%;\">country-name</li><li style=\"font-size:110%;\">extended-address</li><li style=\"font-size:110%;\">fn</li><li style=\"font-size:110%;\">geo</li><li style=\"font-size:110%;\">label</li><li style=\"font-size:110%;\">latitude</li><li style=\"font-size:110%;\">locality</li><li style=\"font-size:110%;\">longitude</li><li style=\"font-size:110%;\">nickname</li><li style=\"font-size:110%;\">note</li><li style=\"font-size:110%;\">org</li><li style=\"font-size:110%;\">region</li><li style=\"font-size:110%;\">street-address</li><li style=\"font-size:110%;\">url</li><li style=\"font-size:110%;\">vcard</li></ul></div>  </dd></dl></div>\n<div style=\"padding:0.1em 0;line-height:1.2em;line-height:1.3em\"><i><b>Please do not rename or remove these classes<br />nor collapse nested elements which use them.</b></i></div>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <span class=\"new\" title=\"Template:UF-hcard-org/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VUYtaGNhcmQtb3JnL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:UF-hcard-org/doc</span> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<span class=\"new\" title=\"Template:UF-hcard-org/doc (page does not exist)\" data-uncrawlable-url=\"L3dpa2kvVGVtcGxhdGU6VUYtaGNhcmQtb3JnL2RvYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=\">Template:UF-hcard-org/doc</span></div>\n\n<!-- \nNewPP limit report\nCached time: 20261118171845\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.038 seconds\nReal time usage: 0.078 seconds\nPreprocessor visited node count: 154/1000000\nPost‐expand include size: 6679/2097152 bytes\nTemplate argument size: 1746/2097152 bytes\nHighest expansion depth: 8/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nLua time usage: 0.006/7.000 seconds\nLua memory usage: 640205/104857600 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   59.540      1 -total\n 91.26%   54.334      1 Template:Microformat_message\n 70.65%   42.067      1 Template:Hlist\n 10.68%    6.359      3 Template:Tl\n  8.62%    5.131      1 Template:Documentation\n  3.45%    2.053      1 Template:Longitem\n  2.37%    1.410      2 Template:Big\n  1.23%    0.733      1 Template:UF-hcard-org/doc\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:336-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261118171845 and revision id 527. Rendering was triggered because: page-view\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:UF-hcard-org/doc",
+      "ns": 10
+    },
+    {
+      "*": "Geo (microformat)",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Geographic coordinate system",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Global Positioning System",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "HCard microformat",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "HTML attribute",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Parsing",
+      "exists": "",
+      "ns": 0
+    },
+    {
+      "*": "Help:HTML in wikitext",
+      "ns": 12
+    }
+  ],
+  "page_id": 336,
+  "revision_id": 527,
+  "title": "Template:UF-hcard-org"
+}

@@ -1,0 +1,9 @@
+{{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+
+{{collapsible option|statename=optional}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||
+<!-- Categories go here, and interwikis go in Wikidata -->
+[[Category:Wikipedia progress templates| ]]
+}}</includeonly>

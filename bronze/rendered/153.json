@@ -1,0 +1,19 @@
+{
+  "categories": [],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><div style=\"border: 1px solid #c0c0c0; background-color: #f0f0f0; width: 100px; height: 1.5em;\"><div style=\"position: absolute; background-color: #CCCCCC; width: 50px; height: 1.5em;\"></div><div style=\"position: absolute; font-weight: bold; width: 100px; height: 1.5em; text-align: center; z-index: 5; color: #000;\">50&#160;/&#160;100</div></div>\n<table class=\"article-table\" style=\"width:100%;\">\n\n<tbody><tr style=\"font-size:18px;\">\n<th>Template documentation follows\n</th></tr>\n<tr>\n<td><i>Note: the template above may sometimes be partially or fully invisible.</i>\n</td></tr>\n<tr>\n<td>Visit <a href=\"/wiki/Template:Composition_bar/doc\" title=\"Template:Composition bar/doc\">Template:Composition_bar/doc</a> to edit this documentation. (<a href=\"/wiki/Template:Documentation\" title=\"Template:Documentation\">How does this work?</a>)\n</td></tr></tbody></table>\n<div style=\"margin:0 1em;\">\n<table>\n\n<tbody><tr>\n<th>Code</th>\n<th>Result\n</th></tr>\n<tr>\n<td style=\"font-size: 95%\"><code>{{Composition bar|50|100|red}}</code>\n</td>\n<td><div style=\"border: 1px solid #c0c0c0; background-color: #f0f0f0; width: 100px; height: 1.5em;\"><div style=\"position: absolute; background-color:red; width: 50px; height: 1.5em;\"></div><div style=\"position: absolute; font-weight: bold; width: 100px; height: 1.5em; text-align: center; z-index: 5; color: #000;\">50&#160;/&#160;100</div></div>\n</td></tr>\n<tr>\n<td style=\"font-size: 95%\"><code>{{Composition bar|50|100|red|color=#FFFFFF}}</code>\n</td>\n<td><div style=\"border: 1px solid #c0c0c0; background-color: #f0f0f0; width: 100px; height: 1.5em;\"><div style=\"position: absolute; background-color:red; width: 50px; height: 1.5em;\"></div><div style=\"position: absolute; font-weight: bold; width: 100px; height: 1.5em; text-align: center; z-index: 5; color: #FFFFFF;\">50&#160;/&#160;100</div></div>\n</td></tr>\n<tr>\n<td style=\"font-size: 95%\"><code>{{Composition bar|50|100|red|color=#FFFFFF|background-color=#000000}}</code>\n</td>\n<td><div style=\"border: 1px solid #c0c0c0; background-color: #000000; width: 100px; height: 1.5em;\"><div style=\"position: absolute; background-color:red; width: 50px; height: 1.5em;\"></div><div style=\"position: absolute; font-weight: bold; width: 100px; height: 1.5em; text-align: center; z-index: 5; color: #FFFFFF;\">50&#160;/&#160;100</div></div>\n</td></tr></tbody></table></div>\n\n<!-- \nNewPP limit report\nCached time: 20261119205408\nCache expiry: 2592000\nReduced expiry: false\nComplications: [vary‐revision‐sha1]\nCPU time usage: 0.012 seconds\nReal time usage: 0.016 seconds\nPreprocessor visited node count: 157/1000000\nPost‐expand include size: 4040/2097152 bytes\nTemplate argument size: 60/2097152 bytes\nHighest expansion depth: 9/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 143/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    8.436      1 -total\n 76.05%    6.416      1 Template:Documentation\n 59.22%    4.996      1 Template:Composition_bar/doc\n 21.53%    1.816      3 Template:Composition_bar\n 18.97%    1.600      4 Template:Both\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:153-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205408 and revision id 208. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:Composition bar/doc",
+      "exists": "",
+      "ns": 10
+    },
+    {
+      "*": "Template:Documentation",
+      "exists": "",
+      "ns": 10
+    }
+  ],
+  "page_id": 153,
+  "revision_id": 208,
+  "title": "Template:Composition bar"
+}

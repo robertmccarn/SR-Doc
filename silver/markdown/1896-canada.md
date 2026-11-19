@@ -1,0 +1,89 @@
+---
+page_id: 1896
+revision_id: 12005
+source_url: https://second-renaissance.fandom.com/wiki/Canada
+raw_sha256: 026126f8e0a72089fa92c2bc4dd7128aeee45f3fa0e874ef9dd5ed5383c53211
+---
+
+# Canada
+
+## Preserved source
+
+```wikitext
+{{Infobox country
+|conventional_long_name = Canada
+|national_motto = 
+|national_anthem = ''O Canada''
+|capital = Ottawa
+|largest_city = Toronto
+|languages = Canadian English|languages_type = Official language
+|government_type = Federal parliamentary republic
+|leader_title1 = [Prime Minister of Canada](3622-prime-minister-of-canada.md)
+|leader_name1 = John Edwick
+|legislature = Parliament
+|upper_house = Senate
+|lower_house = House of Commons
+|established_event1 = Confederation
+|sovereignty_type = Independence from the United Kingdom
+|established_event2 = Statute of Westminister
+|established_date1 = July 1, 1867
+|established_event3 =  Patriation
+|established_date2 = December 11, 1931
+|established_event4 = Republic
+|established_date3 = April 17, 1982
+|established_date4 = 2 October, 2047
+|area_rank = 
+|area_sq_mi = 
+|population_estimate = >40 Million
+|population_estimate_year = 2070
+|population_estimate_rank = 
+|currency = Canadian Dollar
+|currency_code = CAD
+|image_flag = Flag of Canada.png
+|leader_title2 = Governor-General
+|leader_name2 = Sara Reed |latm=|latNS=|longd=|longm=|longEW=|languages2_type=|leader_name3=|leader_name4=|leader_name5=|leader_name6=|leader_name7=|leader_name8=|leader_name9=|FR_total_population_estimate_year=|FR_foot=|FR_total_population_estimate=|FR_total_population_estimate_rank=|FR_metropole_population_estimate_rank=|established_event5=[Union Act of 2073](1308-union-act-of-2073.md)|established_date5=January 10, 2073}}
+
+'''Canada''' was a sovereign country in North America that existed from July 1, 1867, to January 10, 2073. Canada was bordered by the [United States](806-united-states.md) to the south, [Quebec](1551-quebec.md) to the east, and the [First Nations](911-first-nations-war.md) to the North. The citizens of Canada were known as Canadians.
+
+# History
+Unlike many other nations, Canada suffered minimal loss of usable land from [rising sea levels](https://second-renaissance.fandom.com/wiki/the_Flood), and while the more extreme Polar Vortexes of the mid-21st Century did pose a risk to the population, Canada's pre-Flood climate had been harsh enough for most of the country's buildings to be sufficiently hardened against the cold. The greatest strain on the country during this era was economic, due to droves of refugees seeking new homes during the instability of the early Flood. The resurgent nationalism which gripped the world at the time would lead to a series of secession crises that would detach Quebec and the First Nations from Canada, and an increased devolution of power from the national government. This left the country vulnerable to foreign exploitation, most notably from the United States and Japan.
+
+## Divestment from the United States
+The chaos and sense of betrayal felt by many Canadians during the Trump-era drove the country to diversify its economic and defensive partnerships prior to [World War III](107-world-war-iii.md). In spite of Washington's attempts to repair relations, Canada increasingly looked abroad for investment and military aid. Initially, this divestment was primarily focused on China and especially Europe, with the country becoming an “associate” of the [European Union](1255-european-union.md) by the end of the 2020s. However, as both regions faced deepening demographic and economic crises, this strategy quickly fell apart. Japan, perusing a policy of industrial exportation to address its own labor shortage, established a major stake in the Canadian economy through a bilateral free trade deal. While the United States did not initially oppose the establishment of a Japanese-Canadian trade relationship, as Japanese military adventurism grew, US-Canadian relations strained as well.
+
+By 2042, Japan had supplanted the United States as Canada's largest foreign arms supplier, and the Japanese frequently sent advisors to Canada to train Canadian military personnel on their equipment. The 2040s would see the US swell its military presence in Alaska, and Washington state, while providing greater aid to Quebec. Defense Department reports declassified in 2140, revealed that after 2042 the US had deployed clandestine assets to the Canadian Maratimes and the First Nations to fuel their growing secession movements. Divestment reached its zenith with the establishment of the first Special Economic Zones (SEZs) outside of Asia, based primarily in British Columbia and the Yukon. These zones were primarily for civilian activity, however Japan's reputation of funneling military manufacturing through the SEZs only furthered the decline in US-Canadian relations. Ottawa's efforts to placate the United States prevented a formal severing of diplomatic ties.
+
+## Republic and Constitutional Crisis
+Canadian identity during this period faced new challenges, both as Canadian territory faced threat secessionist movements, and from the collapse of the British Monarchy in 2047. While the [British](1913-british-republic.md) public's sense of betrayal was quite strong, Canadians by this period had more mixed feelings. Many saw their status as a Commonwealth country as a key feature of their identity, and called on Canada to invite the displaced House of Windsor to make Ottawa their official seat. An opposition, a coalition of Canadian conservatives and leftists, called for Canada to become a Republic, leading to a referendum in October of 2047. The result was a 50.9% majority in favor of Republic, followed by a constitutional convention.
+
+The Canadian constitutional convention invited not only all parties from within Canada, but offered representation to Quebec and several other former Commonwealth countries like Jamaica, and the Falkland Islands, both of which had been under US occupation since the Flood. The hope was to establish a Federal Republic that would reduce the risk of secession and strengthen Canada from outside influence. The convention was almost immediately infiltrated by American and Japanese-backed lobbyists who sought to keep Canada out of their enemy's sphere of influence. To make matters worse, the secessionists were given representation as well, which only allowed them to hijack most proceedings. The convention went on for three years, eventually resulting in the Arctic Nations and Maritimes leaving to form their own governments. During the lead up to Canadian election in 2049, the convention leaders insisted that the main issue would be ratification of the constitution, and election of the new heads of state and government. The delegates failed to come to an agreement, and the Canadian Parliament had to hastily issue ballots to a country that was growing ever more frustrated with the constitutional process.
+
+By 2050, the constitution had been sent to the remaining provinces for ratification. Where there had been hopes for a Federal Republic, the new constitution was essentially a copy of the old one, with the Governor-General becoming an elected, though largely ceremonial, head of state. Constitutional ratification would be completed shortly after the start of the Third World War.
+
+## World War III
+''Main article: [World War III](107-world-war-iii.md)''
+
+During the Third World War, Canada's government adopted a policy of neutrality, and revisited the idea of non-aggression pacts with the major belligerents. While Canada was still a member of NATO, and the United States had invoked Article V after the Thanksgiving Attacks, the Jacobi administration did not pressure Canada for immediate military involvement. To Ottawa's relief, the US government had approached them to mediate secret peace talks with the Japanese. In truth, this was a stalling tactic while the US attempted to recover lost aircraft and organize a counterattack against Japan. When the attack finally came, the United States demanded Canada expel the Japanese from their SEZs, and join the war effort.
+
+Literally during the phone call between the Canadian Prime Minister and the President of the United States, Japanese agents in British Columbia and the Yukon Territory executed a cyberattack on local air defense systems and port controls. At the same time, other infiltrators executed a secondary strikes on targets in Washington State, and deposed the provincial government in favor of Japanese puppet regime. The "Canadian Provisional Government," as it was called invited Japan to deploy troops and called Ottawa's government an American puppet regime. With few options, Ottawa was forced to join the war, although they freely admitted to the United States that after these attacks, there was little they could do to deploy troops.
+
+Japan's strategy in North America was not an invasion of the United States, but to bring the US back to the negotiating table. The US responded with an invasion of British Columbia with units from National Guard Training Station Biak in Oregon. While not capable of defeating the JSDF in open battle, these troops were enough to stop any further attacks from infiltrators and restore limited air defenses before Japan was able to deploy a few squads of JSDF armored units to the Yukon. The fighting in Canada would be limited primarily to the Interior Plateau of British Columbia, and Whitehorse, with the Japanese occupying the Queen Charlotte Islands for much of 2052. Canadian forces in BC fell under US command, and Vancouver remained under U.S. military administration, with relatively little pushback from Ottawa.
+
+After the war, the United States would occupy British Columbia and the Yukon. An informal agreement between the US and Canada was that occupation would only last 2 years, after which point the provinces would return to Canadian civil administration. However, during the drafting of the new provincial constitution, a secession movement successful organized BC's separation from Canada, establishing the Republic of Cascadia before requesting to become a Free Association of the US. Ottawa accused the US of going back on their deal, and while rumors persisted for years that the Jacobi administration had orchestrated the whole thing before leaving office, by all accounts this was a genuine, populist uprising. Polling during the war, and after, indicated that a majority of residents of the region felt that Ottawa was weak and did not value their concerns. Polling in 2058 held that only 38% of Cascadians desired to join the US as a state.
+
+## Refreeze and First Nations War
+''Main article: [First Nations War](911-first-nations-war.md)''
+
+Tensions would rise between Canada, Quebec, and the First Nations after the [Earth Working Group](1106-earth-working-group.md) positioned Mars Solar Reflectors in Earth Polar Orbit in a geoengineering projects to return global temperatures, and by extent sea levels to pre-Anthropocene levels. The project was widely supported by most of the planet which had been adversely effected by the environmental devastation of the Flood, however the Arctic Nations stood in vehement opposition to the project. The solar reflectors would functionally black out the skies over the First Nations, killing crops and reducing temperatures to inhospitable levels; additionally the return of the polar caps would close the Northwest Passage which the first nations depended on as both a major trade rout and access for arctic fishing and hydrocarbons. After several loud protests at the Organization of American States and the Global Environmental Council, the First Nations outrage was ultimately ignored and the project proceeded.
+
+In order to survive, the First Nations invaded Canada and Quebec. Uncomfortable with a hostile power potentially threatening their security, the US intervened. Fighting in Alberta calmed, but as Tlicho began to take control of northern Canada's prairies and by extension the majority of Canadian farmlands, the government in Ottawa fell to internal fighting in Manitoba and Ontario. To secure American interests on a larger scale, the US sent peace keeping forces to restore order and installed a military government in Ottawa. By 2067 the US had deployed Space and Naval forces into the Arctic nations, and forced a ceasefire.
+
+For the next five years, the US tried to directly administer the reconstruction effort in Canada, while also attempting to resettle the citizens of the Arctic nations, many of whom weren't even natives. With the military's constant complaints about being spread thin administering civilians the United States began looking into an idea that had floated in geopolitics for the better part of a generation: annexing the Anglosphere. The US had been administering resettlement in Australia, New Zealand and Britain since the end of the Flood, and was paying for most of the efforts to restore these nations farmland and greatest cities. For all practical purposes, the US already had administrative control over these countries.
+
+On January 10, 2073, after heated debate in Congress, US President [Carla Anderson](902-carla-anderson.md) signed the [Union Act of 2073](1308-union-act-of-2073.md), officially annexing Canada and the rest of the Anglosphere into the Union.
+[Category:Former countries in North America](https://second-renaissance.fandom.com/wiki/Category:Former_countries_in_North_America)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1896/12005.wikitext` · revision `12005` · [upstream](https://second-renaissance.fandom.com/wiki/Canada)

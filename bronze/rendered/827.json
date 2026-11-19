@@ -1,0 +1,27 @@
+{
+  "categories": [
+    {
+      "*": "If-then-else_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    },
+    {
+      "*": "Sandbox_templates",
+      "known": "",
+      "missing": "",
+      "sortkey": ""
+    }
+  ],
+  "html": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"en\" dir=\"ltr\"><div class=\"redirectMsg\"><p>Redirect to:</p><ul class=\"redirectText\"><li><a href=\"/wiki/Template:When_in_sandbox\" title=\"Template:When in sandbox\">Template:When in sandbox</a></li></ul></div><pre>(...because {{When in sandbox}} returns \"/sandbox\" when transcluded on a sandbox page)</pre>\n<!-- \nNewPP limit report\nCached time: 20261119205530\nCache expiry: 2592000\nReduced expiry: false\nComplications: []\nCPU time usage: 0.003 seconds\nReal time usage: 0.003 seconds\nPreprocessor visited node count: 5/1000000\nPost‐expand include size: 0/2097152 bytes\nTemplate argument size: 0/2097152 bytes\nHighest expansion depth: 2/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 97/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    0.000      1 -total\n-->\n\n<!-- Saved in parser cache with key 1.43.10_prod_secondrenaissance:pcache:idhash:827-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20261119205530 and revision id 1140. Rendering was triggered because: api-parse\n -->\n</div>",
+  "links": [
+    {
+      "*": "Template:When in sandbox",
+      "exists": "",
+      "ns": 10
+    }
+  ],
+  "page_id": 827,
+  "revision_id": 1140,
+  "title": "Template:/sandbox"
+}

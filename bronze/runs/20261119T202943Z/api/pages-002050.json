@@ -1,0 +1,2383 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "2130": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5743,
+        "length": 109,
+        "new": "",
+        "ns": 1,
+        "pageid": 2130,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5743,
+            "slots": {
+              "main": {
+                "*": "Oh man I hope a whole map of mars would be released eventually like Earth. But that'll take a lot of work tho",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-20T05:30:48Z"
+          }
+        ],
+        "title": "Talk:New Virginia/@comment-5590986-20170920053048",
+        "touched": "2017-09-20T05:30:48Z"
+      },
+      "2131": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5752,
+        "length": 39,
+        "new": "",
+        "ns": 1,
+        "pageid": 2131,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5752,
+            "slots": {
+              "main": {
+                "*": "I did not expect a state to get a page.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-21T04:17:17Z"
+          }
+        ],
+        "title": "Talk:New Virginia/@comment-27084453-20170921041717",
+        "touched": "2017-09-21T04:17:17Z"
+      },
+      "2132": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5755,
+        "length": 164,
+        "ns": 1,
+        "pageid": 2132,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5754,
+            "revid": 5755,
+            "slots": {
+              "main": {
+                "*": "Imagine 850+ pages of US states, having to be continuously updated the more we expand this world.\n\n\n\nalthough i'd expect only the major states would only get pages.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-21T04:20:09Z"
+          }
+        ],
+        "title": "Talk:New Virginia/@comment-27084453-20170921041717/@comment-5590986-20170921041914",
+        "touched": "2017-09-21T04:20:09Z"
+      },
+      "2133": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5757,
+        "length": 166,
+        "ns": 1,
+        "pageid": 2133,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5756,
+            "revid": 5757,
+            "slots": {
+              "main": {
+                "*": "There should be a category for pages that would've undergo continuous updates (ex: Timelines, Presidents, etc.). and pages already set (ex: Wars, famous people, etc.)",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-21T04:21:27Z"
+          }
+        ],
+        "title": "Talk:New Virginia/@comment-27084453-20170921041717/@comment-5590986-20170921042100",
+        "touched": "2017-09-21T04:21:27Z"
+      },
+      "2134": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5758,
+        "length": 112,
+        "new": "",
+        "ns": 1,
+        "pageid": 2134,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5758,
+            "slots": {
+              "main": {
+                "*": "I'm not going to do them all, just the ones that play a significant role in the story of the Second Renaissance.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-21T15:05:57Z"
+          }
+        ],
+        "title": "Talk:New Virginia/@comment-27084453-20170921041717/@comment-899576-20170921150557",
+        "touched": "2017-09-21T15:05:57Z"
+      },
+      "2135": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Literature"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 9830,
+        "length": 1643,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Conservative Party (United States)"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2135,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6723,
+            "revid": 9830,
+            "slots": {
+              "main": {
+                "*": "'''Skinning the Elephant: The Life and Death of the Republican Party''', by Susan Tuttle, was a nonfiction book that dealt with factors that led to the demise of the Republican Party. The books covers the sequence of events running from the commencement of the Sixth Party System with the election of Ronald Reagan to the presidency, to Donald Trump's historic defeat in the 2020 Presidential election due to the COVID-19 pandemic. The book was published in 2024, four years after Trump left the Presidency, and came to be seen by many as a definitive text on the downfall of the Republican party and the rise of a new form of conservatism in America. \n\nIn particular, the book noted how the \"free-for-all\" culture provided by the internet allowed the implicit racism historically favored by conservatives to become explicit for the first time in decades, and how this had the double effect of alienating the more moderate among them while building up a fanatical base of loyal radicals. According to Tuttle, this reliance on a fringe demographic was ultimately the cause of the party's downfall, as it was faced with mounting scandals and criticism (primarily regarding Donald Trump's relationship with Russia) that Democrats were able to properly take advantage of in 2020 and use to court a wider base. \n\nTuttle's final argument was that conservatism in America would not go extinct with the demise of the Republican party, but would simply revive itself on in the form of a new party. This turned out to be true, as the [[Conservative Party (United States)|Conservative Party ]]was founded less than a decade later.\n[[Category:Literature]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2020-10-16T02:22:04Z"
+          }
+        ],
+        "title": "Skinning the Elephant: The Life and Death of the Republican Party",
+        "touched": "2020-10-16T02:22:04Z"
+      },
+      "2136": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Literature"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11203,
+        "length": 3912,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Skinning the Elephant: The Life and Death of the Republican Party"
+          },
+          {
+            "ns": 0,
+            "title": "United States presidential election, 2032"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2136,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 7136,
+            "revid": 11203,
+            "slots": {
+              "main": {
+                "*": "'''Tanning the Donkey: The Life and Death of the Democratic Party''' was a nonfiction book by Sasha Megumi created ten years in response to the successful and popular book ''[[Skinning the Elephant: The Life and Death of the Republican Party|Skinning the Elephant]]'', the book describes the series of circumstances that led to the rise of competing factions and the ultimate fracturing of the Democrat party after the fall of the Republican party. The book describes the election of Bill Clinton to the last pitch of Julian Castro in [[United States presidential election, 2032|2032 presidential election]].\n\nMegumi noted that the Democrats continued to be torn apart due to infighting in the 1970s had contributed to Ronald Reagan winning the election. This began a soul search within the party and the political climate of post-cold war United States introduced a new line of thinking within the Democratic party today called the 'New Democrats', a term used by those who seek reconciliation between liberal and conservative elements in the United States. She claimed that President George H.W. Bush, the successor to Reagan, was just a mere shadow of Ronald Reagan. The Democratic party saw an opportunity and gave their support to Bill Clinton. This was proven successful as they won the 1992 presidential election. The New Democrats became the dominant \"faction\" within the Democratic party until the rise of progressives in the late 2010s.\n\nThe book addresses the brief George W. Bush presidency following the Clinton Era and its elements that gave rise to another breed of New Democrats coalescing around Barack Obama whom narrowly defeated Hillary Clinton to the nomination in the 2008 presidential election running on a platform of \"hope and change\".  This was a sign of the first conflict within the Democratic party that would come into fruition in 2016. The more conservative elements within the Democratic party came to a head against the newly founded progressive anti-establishment coalition led by Senator Bernie Sanders. The failure of Bernie Sanders to attain nomination over Hillary Clinton was met with negative attention from the progressive coalition, which saw this as a betrayal by their party.\n\nMegumi claimed that the 2018 elections saw further split when more anti-establishment elements left over by the Sanders campaign claimed dominance over the party and responsibility for attaining seats within congressional seats, angering other factions within the Democratic party, especially the more reactionary elements. Joe Biden took advantage of this and convinced the conflicting sides to pool their support around him, in an anti-Trump coalition against current sitting president Donald Trump, in exchange for promises to push certain policies for every side in the 2020 election and won.\n\nHowever, President Biden mostly failed in his promises to find a common ground and appease the sides, causing the prominent progressives to gradually leave the party to formulate their own coalition by the 2024 election. This fracturing caused the Democratic party during the Biden era to slowly decline, fracture, and implode with many new (minor) parties being founded from this allowing the progressives to claim vengeance through victory in 2029. The book traced this same situation back to the 1970s. \n\nMegumi concluded that the one last attempt to reconcile the party should have been made by Julian Castro, but ultimately failed against sitting president Dylan Price. She predicted the Democratic party would slowly fade out of existence at this point as it almost had been in the 1970s, with more loyal, yet desperate, members of the party reaching out to former Republicans to later form the a new coalition. Her conclusion came into fruition when more conservative elements of the Democrats and remnants of the Republican party formed the Conservative party.\n\n[[Category:Literature]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-04-04T17:20:39Z"
+          }
+        ],
+        "title": "Tanning the Donkey: The Life and Death of the Democratic Party",
+        "touched": "2023-04-04T17:20:39Z"
+      },
+      "2137": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Literature"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Under Construction"
+          },
+          {
+            "ns": 14,
+            "title": "Category:United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Under contruction icon-red.png"
+          }
+        ],
+        "lastrevid": 11825,
+        "length": 7943,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Abolitionism"
+          },
+          {
+            "ns": 0,
+            "title": "American Civil War"
+          },
+          {
+            "ns": 0,
+            "title": "Aztlan War"
+          },
+          {
+            "ns": 0,
+            "title": "Counterculture of the 1960s"
+          },
+          {
+            "ns": 0,
+            "title": "Culture War"
+          },
+          {
+            "ns": 0,
+            "title": "Dust Bowl"
+          },
+          {
+            "ns": 0,
+            "title": "Fourth Great Awakening"
+          },
+          {
+            "ns": 0,
+            "title": "French and Indian War"
+          },
+          {
+            "ns": 0,
+            "title": "G.I. Generation"
+          },
+          {
+            "ns": 0,
+            "title": "Generation"
+          },
+          {
+            "ns": 0,
+            "title": "Gilded Age"
+          },
+          {
+            "ns": 0,
+            "title": "Gold Rush"
+          },
+          {
+            "ns": 0,
+            "title": "Golden Age of Capitalism"
+          },
+          {
+            "ns": 0,
+            "title": "Great Recession"
+          },
+          {
+            "ns": 0,
+            "title": "Great Regression"
+          },
+          {
+            "ns": 0,
+            "title": "Gulf War"
+          },
+          {
+            "ns": 0,
+            "title": "Liberty Generation"
+          },
+          {
+            "ns": 0,
+            "title": "Lost Generation"
+          },
+          {
+            "ns": 0,
+            "title": "Mexican-American Cold War"
+          },
+          {
+            "ns": 0,
+            "title": "Missionary Generation"
+          },
+          {
+            "ns": 0,
+            "title": "Neoliberalism"
+          },
+          {
+            "ns": 0,
+            "title": "Pax Americana"
+          },
+          {
+            "ns": 0,
+            "title": "Postmodernism"
+          },
+          {
+            "ns": 0,
+            "title": "Progressive era"
+          },
+          {
+            "ns": 0,
+            "title": "Roaring Twenties"
+          },
+          {
+            "ns": 0,
+            "title": "Romanticism"
+          },
+          {
+            "ns": 0,
+            "title": "Second Depression"
+          },
+          {
+            "ns": 0,
+            "title": "Seventh Party System"
+          },
+          {
+            "ns": 0,
+            "title": "Silent Generation"
+          },
+          {
+            "ns": 0,
+            "title": "The Flood"
+          },
+          {
+            "ns": 0,
+            "title": "The Great Reset"
+          },
+          {
+            "ns": 0,
+            "title": "The Refreeze"
+          },
+          {
+            "ns": 0,
+            "title": "Third Mexican-American War"
+          },
+          {
+            "ns": 0,
+            "title": "War on Terror"
+          },
+          {
+            "ns": 0,
+            "title": "Wild West"
+          },
+          {
+            "ns": 0,
+            "title": "World War I"
+          },
+          {
+            "ns": 0,
+            "title": "World War II"
+          },
+          {
+            "ns": 0,
+            "title": "World War III"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2137,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11293,
+            "revid": 11825,
+            "slots": {
+              "main": {
+                "*": "{{WIP}}'''Generational Chaos: The Cyclical Phenomena of American History''' is a 2071 book by Dr. Yazmin Bhattaru, expanding on her 2066 essay \"The Next American Crisis.\" In the book, Bhattaru argues that American history tends to follow cycles of economic and social-political development punctuated by crisis moments coinciding with the development of each generation.\n\nBhattaru offered several deviations from the Strauss–Howe generational theory and the Friedman generational theory, but most significantly was her thesis on how institutional cycles would last much longer as a result in the increase in human lifespans. Claiming the current cycle that began around 2020 would last 100 years, not the usual 80. And the next cycle would most likely last closer to 200 years.\n\n==Highlights==\n==='''Economic Cycles'''===\nBhattaru held that the United States experiences an economic cycle beginning with the emergence of one generation during the height of their economic independence after establishing themselves in the workforce, usually in their 30s and 40s.\n\n==='''National Cycles'''===\nThe book's most significant contribution to sociology lied in its deviation from contemporary analysis of institutional, cultural, or as she called it, \"National cycles.\" Bhattaru concurred with previous analyses from the likes of Strauss and Friedman that historically National cycles last about 80 years beginning and ending with a generation that left their adolescence during the start of the crisis and largely died by the end. Bhattaru argued that paradigm is no longer in effect, as the average lifespan as of 2077 had been extended to 105 years. She argued that this would extend the next National Cycle at least 20 years beyond where it would normally start, and would end less as a result of the death of the Millenials, and more as a result of them being replaced as the largest generation by simple population growth.\n\n==='''Predictions'''===\nBhattaru famously predicted with startling accuracy the coming [[Second Depression]], identifying the year it would occur, the depth of its impact on the job market, and ultimately how it would be resolved.\n\nShe also predicted the inevitability of the United States relationship with Mexico, however in this regard she made some notable errors, such as her claim that the US-Mexican Cold War would be punctuated by only one direct conflict between both powers, and while she correctly assessed that it would be the most destructive war in living memory, she believed the United States would loose the war after the American space colonies become independent.\n\n==Timing of generations and cycles==\n{| class=\"wikitable\" style=\"margin-left:10ex\"\n! Generation !! Generation Archetype !! Generation Birth Year Span !! Entered childhood in a !! Turning Year Span\n|-\n! colspan=5 | Revolutionary Saeculum (90 years)\n|-\n| Awakening Generation || Prophet (Idealist) || align=center|1701–1723 (23) || 1st Turning: High: [[Wikipedia: Augustan literature|Augustan Age of Empire]] || align=center|1704–1727 (23)\n|-\n| [[Liberty Generation]] || Nomad (Reactive) || align=center|1724–1741 (18) || 2nd Turning: Awakening: [[Wikipedia: First Great Awakening|Great Awakening]], [[Wikipedia:Age of Enlightenment|Age of Enlightenment]] || align=center|1727–1746 (19)\n|-\n| [[Wikipedia:Republican Generation|Republican Generation]] || Hero (Civic) || align=center|1742–1766 (25)|| 3rd Turning: Unraveling: [[French and Indian War]], [[Wikipedia: Colonialism|British Imperialism]]|| align=\"center\" | 1746–1773 (27)\n|-\n! colspan=5 | Pioneer Economy 1776-1828 (52 years)\n|-\n| Compromise Generation || Artist (Adaptive) || align=center|1767–1791 (23)|| 4th Turning: Crisis: [[Wikipedia:American Revolution|American Revolution]], [[Wikipedia:Age of Revolution|Age of Revolution]] || align=center|1773–1794 (21)\n|-\n! colspan=5 | Slavery Saeculum (71 years)\n|-\n| Transcendental Generation || Prophet (Idealist) ||align=center|1792–1821 (28)|| 1st Turning: High: [[Wikipedia:Era of Good Feelings|Era of Good Feelings]] || align=center|1794–1822 (28)\n|-\n! colspan=5 | Yeoman Economy 1828-1876 (48 years)\n|-\n| [[Wikipedia: Gilded Generation (Strauss–Howe theory)|Gilded Generation]] || Nomad (Reactive)   || align=center|1822–1842 (21)|| 2nd Turning: Awakening: [[Wikipedia: Second Great Awakening|Transcendental Awakening]], [[Romanticism]], [[Abolitionism]] || align=center|1822–1844 (22)\n|-\n| Civil War Generation || Hero (Civic) || || 3rd Turning: Unraveling: [[Wikipedia: Mexican–American War|Mexican War and Sectionalism]], [[Gold Rush]], [[Wild West]] || align=center|1844–1860 (16)\n|-\n| [[Wikipedia: Progressive Era|Progressive Generation]] || Artist (Adaptive)  ||align=center|1843–1859 (17)||4th Turning: Crisis: [[American Civil War]] || align=center|1860–1865 (5)\n|-\n! colspan=5 | Nationalism Saeculum (81 years)\n|-\n! colspan=5 | Industrialization 1876-1932 (56 years)\n|-\n| [[Missionary Generation]] || Prophet (Idealist) ||align=center|1860–1882 (23)|| 1st Turning: High: [[Wikipedia: Reconstruction era of the United States|Reconstruction]], [[Gilded Age]] || align=center|1865–1886 (21)\n|-\n| [[Lost Generation]] || Nomad (Reactive)   || align=center|1883–1900 (18)|| 2nd Turning: Awakening: [[Wikipedia: Third Great Awakening|Missionary Awakening]], [[Progressive era]] || align=center|1886–1908 (22)\n|-\n| [[G.I. Generation]] || Hero (Civic) || align=center|1901–1924 (24)|| 3rd Turning: Unraveling: [[World War I]], [[Wikipedia: Prohibition in the United States|Prohibition]], [[Roaring Twenties]] || align=center|1908–1929 (21)\n|-\n! colspan=5 | Industrial Economy 1932-1980 (48 years)\n|-\n| [[Silent Generation]] || Artist (Adaptive)  ||align=center|1925–1942 (18)|| 4th Turning: Crisis: [[Wikipedia: Great Depression in the United States|Great Depression]], [[World War II]], [[Dust Bowl]] || align=center|1929–1946 (17)\n|-\n! colspan=5 | Bretton Woods Saeculum (83 years)\n|-\n| [[Wikipedia:Baby boomers|Baby Boom Generation]] || Prophet (Idealist) || align=center|1943–1960 (18) || 1st Turning: High: [[Pax Americana|Superpower America]], [[Golden Age of Capitalism]] || align=center|1946–1963 (17)\n|-\n! colspan=5 | Service Economy 1980-2028 (48 years)\n|-\n| [[Wikipedia:Generation X|Generation X]] || Nomad (Reactive) ||align=center|1961–1981 (21)|| 2nd Turning: Awakening: [[Counterculture of the 1960s|Consciousness Revolution]], [[Fourth Great Awakening]] || align=center|1963–1983 (20)\n|-\n| [[Wikipedia:Millennials|Millennial Generation]] ||Hero (Civic) || align=center|1982–2000 (19) || 3rd Turning: Unraveling: [[Culture War]]s, [[Postmodernism]], [[Neoliberalism]], [[Great Regression]], [[Gulf War]] || align=center|1984–2008 (24)\n|-\n| [[Wikipedia:Generation Z|Generation Z]] || Artist (Adaptive) ||align=center|2001–2023 (22) || 4th Turning: Crisis: [[Great Recession]], [[War on Terror]], [[The Great Reset]] [[The Flood]] || align=\"center\" |2008-2033 (25)\n|-\n! colspan=5 | Great Reset Saeculum (~100 years)\n|-\n! colspan=5 | Gig Economy 2028-2080 (52 years)\n|-\n| [[Generation|Flood Generation]] || Prophet (Idealist) ||align=center|2024-2047 (23)|| 1st Turning: High: [[Seventh Party System|Renewal]] || align=center|2033–2051 (18)\n|-\n| [[Generation|Missing Generation]] || Nomad (Reactive) || align=center|2048-2074 (26)|| 2nd Turning: Awakening: [[World War III]], [[The Refreeze]] || align=center|2051–2077 (26)\n|-\n! colspan=5 | Neo-feudal Economy 2080-2128 (48 years)\n|-\n| [[Generation|Colonial Generation]] || Hero (Civic) || align=center|2075-2097 (22)|| 3rd Turning: Unraveling: [[Mexican-American Cold War]], [[Second Depression]] || align=center|2077-2101 (24)\n|-\n| [[Generation|Nomad Generation]] || Artist (Adaptive)  ||align=center|2098-2125 (27)|| 4th Turning: Crisis: [[Aztlan War]] [[Third Mexican-American War|\"Second Border War\"]] || align=center|2101–2133 (32)\n|}\n[[Category:Literature]]\n[[Category:United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2025-07-29T14:58:33Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:WIP"
+          }
+        ],
+        "title": "Generational Chaos",
+        "touched": "2025-07-29T14:58:33Z"
+      },
+      "2138": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5892,
+        "length": 50,
+        "ns": 6,
+        "pageid": 2138,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5834,
+            "revid": 5892,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-25T18:39:29Z"
+          }
+        ],
+        "title": "File:Flag of Jacinto.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2139": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5835,
+        "length": 286,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Jacinto/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2139,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5835,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Jacinto\n| flag alias = Flag_of_Jacinto.png\n| alt attribute = Flag of Jacinto\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-22T23:01:49Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Jacinto/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Jacinto",
+        "touched": "2017-09-22T23:01:50Z"
+      },
+      "2140": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6071,
+        "length": 96,
+        "ns": 6,
+        "pageid": 2140,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5836,
+            "revid": 6071,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Mexican flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:36:54Z"
+          }
+        ],
+        "title": "File:Flag of Rio Grande.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2141": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5837,
+        "length": 299,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Rio Grande/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2141,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5837,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Rio Grande\n| flag alias = Flag_of_Rio_Grande.png\n| alt attribute = Flag of the Rio Grande\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-23T01:15:16Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Rio Grande/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Rio Grande",
+        "touched": "2017-09-23T01:15:16Z"
+      },
+      "2142": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6062,
+        "length": 69,
+        "ns": 6,
+        "pageid": 2142,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5838,
+            "revid": 6062,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:34:09Z"
+          }
+        ],
+        "title": "File:Flag of Mapuche.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2143": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5839,
+        "length": 286,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Machupe/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2143,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5839,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Machupe\n| flag alias = Flag_of_Mapuche.png\n| alt attribute = Flag of Machupe\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-23T01:22:15Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Machupe/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Machupe",
+        "touched": "2017-09-23T01:22:15Z"
+      },
+      "2144": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5853,
+        "length": 286,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Ecuador/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "ns": 10,
+        "pageid": 2144,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5841,
+            "revid": 5853,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Flag of Ecuador\n| flag alias = Ecuador.png\n| alt attribute = Flag of Ecuador\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-23T15:59:25Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Ecuador/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Ecuador",
+        "touched": "2017-09-23T15:59:25Z"
+      },
+      "2145": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6048,
+        "length": 96,
+        "ns": 6,
+        "pageid": 2145,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5842,
+            "revid": 6048,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags of states of the United States]]\n[[Category:Mexican flags]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:31:05Z"
+          }
+        ],
+        "title": "File:Flag of Chihuahua.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2146": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5843,
+        "length": 292,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Chihuahua/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2146,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5843,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Chihuahua\n| flag alias = Flag_of_Chihuahua.png\n| alt attribute = Flag of Chihuahua\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-23T01:25:38Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Chihuahua/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Chihuahua",
+        "touched": "2017-09-23T01:25:38Z"
+      },
+      "2147": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5846,
+        "length": 107,
+        "new": "",
+        "ns": 1,
+        "pageid": 2147,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5846,
+            "slots": {
+              "main": {
+                "*": "I find it strange that a war on this scale supports much fewer military units than previous wars this size.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-23T04:48:09Z"
+          }
+        ],
+        "title": "Talk:Third Mexican-American War/@comment-5590986-20170923044808",
+        "touched": "2017-09-23T04:48:09Z"
+      },
+      "2148": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6133,
+        "length": 69,
+        "ns": 6,
+        "pageid": 2148,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5851,
+            "revid": 6133,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:53:24Z"
+          }
+        ],
+        "title": "File:Mojave Flag.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2149": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5854,
+        "length": 280,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Mojave/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "ns": 10,
+        "pageid": 2149,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5852,
+            "revid": 5854,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Mojave\n| flag alias = Mojave_Flag.png\n| alt attribute = Flag of Mojave\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-23T15:59:36Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Mojave/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Mojave",
+        "touched": "2017-09-23T15:59:36Z"
+      },
+      "2150": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Mars"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Bradbury COA.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bradbury Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Bradbury Map.png"
+          }
+        ],
+        "lastrevid": 11639,
+        "length": 10305,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Adrian Hayer"
+          },
+          {
+            "ns": 0,
+            "title": "Bradburian people"
+          },
+          {
+            "ns": 0,
+            "title": "Chamba"
+          },
+          {
+            "ns": 0,
+            "title": "Chrysaor"
+          },
+          {
+            "ns": 0,
+            "title": "Coat of arms of Bradbury"
+          },
+          {
+            "ns": 0,
+            "title": "Demographics of Bradbury"
+          },
+          {
+            "ns": 0,
+            "title": "Earth"
+          },
+          {
+            "ns": 0,
+            "title": "First Martian Revolution"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Bradbury"
+          },
+          {
+            "ns": 0,
+            "title": "Flora and Fauna of Mars"
+          },
+          {
+            "ns": 0,
+            "title": "ISO 4217"
+          },
+          {
+            "ns": 0,
+            "title": "Interplanetary Trade Commission"
+          },
+          {
+            "ns": 0,
+            "title": "List of countries by population"
+          },
+          {
+            "ns": 0,
+            "title": "Lucus City"
+          },
+          {
+            "ns": 0,
+            "title": "Mars"
+          },
+          {
+            "ns": 0,
+            "title": "Mars Corporation"
+          },
+          {
+            "ns": 0,
+            "title": "New Babylon"
+          },
+          {
+            "ns": 0,
+            "title": "New Richmond"
+          },
+          {
+            "ns": 0,
+            "title": "New Virginia"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2150,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 10830,
+            "revid": 11639,
+            "slots": {
+              "main": {
+                "*": "{{Infobox country\n|conventional_long_name = State of Bradbury\n|national_motto = \"De Profundis Ad Astra\"\n|national_anthem = \n|capital = Bradbury\n|largest_city = Bradbury\n|languages = English (de facto)\n|demonym = Bradburian\n|languages_type = \n|lang_others= Chinese, Tamil, Bengal, Japanese, French, Spanish, etc.\n|government_type =\n|leader_title1 = Governor\n|leader_name1 = Nikko Modi\n|legislature = Bradbury State Legislature\n|upper_house = Senate\n|lower_house = State Assembly\n|established_event1 = Formation \n|sovereignty_type = Admitted to the Union\n|established_date1 = December 1, 2134\n|area_rank =\n|area_sq_mi = \n|population_estimate = 19,104,321\n|population_estimate_year = 2160\n|population_estimate_rank = 4th\n|currency = United States dollar ($)\n|currency_code = USD\n|image_flag = Bradbury_Flag.png\n|image_coat = Bradbury_COA.png\n|image_map = Bradbury_Map.png\n|leader_title2 = Lieutenant Governor\n|leader_name2 = Signe Lanzhou \n}}\n\n'''Bradbury''' is a state on the Northern cliffs of Mariner Valley on [[Mars]]. Bradbury is nicknamed the \"Heart of Mars\" because of its history as the power center for Martian and inter-system politics. The geography and climate of the State are shaped by rolling lowlands of the Capri peninsula and the steep cliffs and plateaus framing the Mariner Valley, which provide habitat for its diverse array of [[Flora and Fauna of Mars|flora and fauna]]. The capital and largest city of the State is Bradbury, which shares a place with the Martian Capital District. The State's estimated population as of 2160 is over 19.1 Million.\n\n== Overview ==\nWhere [[New Virginia]] is the gateway to Mars, Bradbury is its beating heart. The first settlement to be fully sustainable, the birthplace of Quantum Economics, and home to the seat of power of the [[Interplanetary Trade Commission]]. First settled in 2027, Bradbury as a settlement is second only to Meridian Landing in terms of age. The city that would come to be the namesake for the state was a stark rejection of the notions of colonization first tried at Meridian. Where the colonists of Meridian hid beneath the dirt, Bradbury vaulted out of a crater with one of the planet's first domes. Where Meridian's colonists subsisted on low calorie greens and fish, Bradbury had wheat, beef, milk, cheese and honey. Where Meridian's colonists were disorganized scientists with no clear leadership, Bradbury was a settlement of adventurers, of pioneers, with a clearly defined authority system. Bradbury's settlers were mocked and maligned at first, their population was much lower than Meridian Landing's or even Sagan the younger colony, but after a  year of subsisting on a diet devoid of sugar of carbohydrates, of any real calories, the other colonies began to be less concerned mocking the first farm town on Mars and began turning inward. Fights between the colonists became more frequent, work orders weren't being filled, and those who were in charge didn't believe anyone should be in charge. On July 7, 2030 there was a knock at the main airlock of Meridian Base, and in entered three Bradbury colonists with an air-tight crate. They had arrived in the middle of a squabble between two of the Base's larger factions, but upon opening their container the din of the colony fell to silence. Cheese, Honey, Milk, Bread, Butter, and Beef. Not in large quantities but enough for the whole colony to start offering anything for the treasure trove. The Bradbury colonists agreed to give their wares to any colonist who could fill the duties of some of the jobs they had that their own population could not meet. By the end of the day 15 members of Meridian Landing left for Bradbury, including most of their Genetic researchers.<br><br>From then on word spread quickly throughout Mars and to those still on [[Earth]], that Bradbury was the place to settle, and those who didn't should try to emulate their example. Bradbury was able to set up new colonies from the surface, not just producing Ag-products, but steel mills, and cement factories, and mining facilities. Bradbury agreed to lease these colonies to companies and people coming in, in exchange for labor when they needed it and a greater position on the [[Mars Corporation]]'s Terraforming Council. Where terraforming was once a tabou subject for Mars Corp, Bradbury made it official policy. Bradbury use its position to leverage Mars Corp to reorganize itself in the 2030s to give the colonists greater say in internal affairs, and even got them to set up their Headquarters at Viking City, one of Bradbury's outposts. As the colonies grew in population and new settlements outside of their own were set up, Bradbury turned from agricultural hub to one of Mars's greatest trade-ports. The first ship-yards were built at Bradbury, the first line of the Mars Transit Network started at Bradbury. While Bradbury wasn't the first capital of Mars, it was its seat of power, and the place where decisions pertaining to the planet's future were made. <br><br>When the [[First Martian Revolution|First Mars Revolution]] Started, it was Bradbury that acted as the main power broker between the Martians and [[Adrian Hayer]]'s loose confederacy of colonies that would become the ITC. As a show of good faith, the ITC set its headquarters in Bradbury. As the billions of new colonists flooded in through the towers at [[New Richmond]], [[Chamba]], [[New Babylon]], [[Chrysaor]], [[Lucus City]], Heavensgate or Midgard, Bradbury's population eventually topped out at 10 million people. A respectably large city, but the state no longer could compete with the sheer size of fertile land in Araby and Magartifer, Tharsis was simply too rocky, too tall, and too arid to support those kinds of projects. But the city remained a crucial trade port, and a center for business and culture. When the MSIF and Maise Luong wanted to start another revolution, they directed their fury at Bradbury, when Earth needed a President to unite the system, they got one from Bradbury.\n==History==\nHome of the first settlement to be fully sustainable, the birthplace of Quantum Economics, and home to the seat of power of the Interplanetary Trade Commission. First settled in 2024, Bradbury as a settlement is second only to Meridian Landing in terms of age. The city that would come to be the namesake for the state was a stark rejection of the notions of colonization first tried at Meridian. Where the colonists of Meridian hid beneath the dirt, Bradbury vaulted out of a crater with one of the planet's first domes. Where Meridian's colonists subsisted on low calorie greens and fish, Bradbury had wheat, beef, milk, cheese and honey. Where Meridian's colonists were disorganized scientists with no clear leadership, Bradbury was a settlement of adventurers, of pioneers, with a clearly defined authority system. Bradbury's settlers were mocked and maligned at first, their population was much lower than Meridian Landing's or even Sagan the younger colony, but after a year of subsisting on a diet devoid of sugar of carbohydrates, of any real calories, the other colonies began to be less concerned mocking the first farm town on Mars and began turning inward. Fights between the colonists became more frequent, work orders weren't being filled, and those who were in charge didn't believe anyone should be in charge. On July 7, 2028 there was a knock at the main airlock of Meridian Base, and in entered three Bradbury colonists with an air-tight crate. They had arrived in the middle of a squabble between two of the Base's larger factions, but upon opening their container the din of the colony fell to silence. Cheese, Honey, Milk, Bread, Butter, and Beef. Not in large quantities but enough for the whole colony to start offering anything for the treasure trove. The Bradbury colonists agreed to give their wares to any colonist who could fill the duties of some of the jobs they had that their own population could not meet. By the end of the day 15 members of Meridian Landing left for Bradbury, including most of their Genetic researchers.\n\nFrom then on word spread quickly throughout Mars and to those still on Earth, that Bradbury was the place to settle, and those who didn't should try to emulate their example. Bradbury was able to set up new colonies from the surface, not just producing Ag-products, but steel mills, and cement factories, and mining facilities. Bradbury agreed to lease these colonies to companies and people coming in, in exchange for labor when they needed it and a greater position on the Mars Corporation's Terraforming Council. Where terraforming was once a tabou subject for Mars Corp, Bradbury made it official policy. Bradbury use its position to leverage Mars Corp to reorganize itself in the 2030s to give the colonists greater say in internal affairs, and even got them to set up their Headquarters at Viking City, one of Bradbury's outposts. As the colonies grew in population and new settlements outside of their own were set up, Bradbury turned from agricultural hub to one of Mars's greatest trade-ports. The first ship-yards were built at Bradbury, the first line of the Mars Transit Network started at Bradbury. While Bradbury wasn't the first capital of Mars, it was its seat of power, and the place where decisions pertaining to the planet's future were made.\n\nWhen the First Mars Revolution Started, it was Bradbury that acted as the main power broker between the Martians and Adrian Hayer's loose confederacy of colonies that would become the ITC. As a show of good faith, the ITC set its headquarters in Bradbury. As the billions of new colonists flooded in through the towers at New Richmond, Chamba, New Babylon, Chrysaor, Lucus City, Heavensgate or Midgard, Bradbury's population eventually topped out at 10 million people. A respectably large city, but the state no longer could compete with the sheer size of fertile land in Araby and Magartifer, Tharsis was simply too rocky, too tall, and too arid to support those kinds of projects. But the city remained a crucial trade port, and a center for business and culture. When the MSIF and Maise Luong wanted to start another revolution, they directed their fury at Bradbury, when Earth needed a President to unite the system, they got one from Bradbury.\n[[Category:Mars]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-09-16T05:10:35Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          }
+        ],
+        "title": "Bradbury",
+        "touched": "2024-09-16T05:10:35Z"
+      },
+      "2151": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Coats of arms"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5891,
+        "length": 27,
+        "ns": 6,
+        "pageid": 2151,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5859,
+            "revid": 5891,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Coats of arms]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-25T18:39:21Z"
+          }
+        ],
+        "title": "File:Bradbury COA.png",
+        "touched": "2017-11-08T00:10:06Z"
+      },
+      "2152": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mars"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 7502,
+        "length": 36,
+        "ns": 6,
+        "pageid": 2152,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6022,
+            "revid": 7502,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Maps]]\n[[Category:Mars]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2018-03-03T06:43:23Z"
+          }
+        ],
+        "title": "File:Bradbury Map.png",
+        "touched": "2018-03-03T06:43:23Z"
+      },
+      "2153": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Maps"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6043,
+        "length": 18,
+        "ns": 6,
+        "pageid": 2153,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5870,
+            "revid": 6043,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Maps]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:29:07Z"
+          }
+        ],
+        "title": "File:Europe.png",
+        "touched": "2017-11-08T00:10:06Z"
+      },
+      "2154": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6068,
+        "length": 69,
+        "ns": 6,
+        "pageid": 2154,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5874,
+            "revid": 6068,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags of states of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:36:16Z"
+          }
+        ],
+        "title": "File:Flag of Patagonia.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2155": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5875,
+        "length": 292,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Patagonia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2155,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5875,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Patagonia\n| flag alias = Flag_of_Patagonia.png\n| alt attribute = Flag of Patagonia\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-25T18:24:33Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Patagonia/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Patagonia",
+        "touched": "2017-09-25T18:24:34Z"
+      },
+      "2156": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6152,
+        "length": 96,
+        "ns": 6,
+        "pageid": 2156,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5876,
+            "revid": 6152,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Mexican flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:58:48Z"
+          }
+        ],
+        "title": "File:Sonora Flag.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2157": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5878,
+        "length": 280,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Sonora/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "ns": 10,
+        "pageid": 2157,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5877,
+            "revid": 5878,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Sonora\n| flag alias = Sonora_Flag.png\n| alt attribute = Flag of Sonora\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-25T18:28:19Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Sonora/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Sonora",
+        "touched": "2017-09-25T18:28:19Z"
+      },
+      "2158": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6016,
+        "length": 69,
+        "ns": 6,
+        "pageid": 2158,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5879,
+            "revid": 6016,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:23:29Z"
+          }
+        ],
+        "title": "File:Baja Flag.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2159": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5880,
+        "length": 274,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Baja/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2159,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5880,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Baja\n| flag alias = Baja_Flag.png\n| alt attribute = Flag of Baja\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-25T18:29:33Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Baja/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Baja",
+        "touched": "2017-09-25T18:29:33Z"
+      },
+      "2160": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6030,
+        "length": 96,
+        "ns": 6,
+        "pageid": 2160,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 6029,
+            "revid": 6030,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]\n[[Category:Mexican flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:26:33Z"
+          }
+        ],
+        "title": "File:Durango Flag.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2161": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5882,
+        "length": 283,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Durango/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2161,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5882,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Durango\n| flag alias = Durango_Flag.png\n| alt attribute = Flag of Durango\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-25T18:31:59Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Durango/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Durango",
+        "touched": "2017-09-25T18:31:59Z"
+      },
+      "2162": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mexican flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6075,
+        "length": 96,
+        "ns": 6,
+        "pageid": 2162,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5883,
+            "revid": 6075,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Mexican flags]]\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:38:41Z"
+          }
+        ],
+        "title": "File:Flag of Sinaloa.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2163": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5884,
+        "length": 286,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Sinaloa/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2163,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5884,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Sinaloa\n| flag alias = Flag_of_Sinaloa.png\n| alt attribute = Flag of Sinaloa\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-25T18:32:54Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Sinaloa/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Sinaloa",
+        "touched": "2017-09-25T18:32:54Z"
+      },
+      "2164": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6053,
+        "length": 69,
+        "ns": 6,
+        "pageid": 2164,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5885,
+            "revid": 6053,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags of states of the United States]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:32:24Z"
+          }
+        ],
+        "title": "File:Flag of Guadalajara.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2165": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5886,
+        "length": 298,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Guadalajara/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2165,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5886,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Guadalajara\n| flag alias = Flag_of_Guadalajara.png\n| alt attribute = Flag of Guadalajara\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-25T18:34:40Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Guadalajara/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Guadalajara",
+        "touched": "2017-09-25T18:34:40Z"
+      },
+      "2166": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6134,
+        "length": 69,
+        "ns": 6,
+        "pageid": 2166,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5887,
+            "revid": 6134,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:53:45Z"
+          }
+        ],
+        "title": "File:North Amazon.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2167": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5888,
+        "length": 293,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data North Amazon/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2167,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5888,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = North Amazon\n| flag alias = North_Amazon.png\n| alt attribute = Flag of North Amazon\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-25T18:37:41Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data North Amazon/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data North Amazon",
+        "touched": "2017-09-25T18:37:41Z"
+      },
+      "2168": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6153,
+        "length": 69,
+        "ns": 6,
+        "pageid": 2168,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5889,
+            "revid": 6153,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:58:59Z"
+          }
+        ],
+        "title": "File:South Amazon.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2169": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5890,
+        "length": 293,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data South Amazon/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2169,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5890,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = South Amazon\n| flag alias = South_Amazon.png\n| alt attribute = Flag of South Amazon\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-25T18:38:13Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data South Amazon/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data South Amazon",
+        "touched": "2017-09-25T18:38:13Z"
+      },
+      "2170": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Alien species"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Species"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11178,
+        "length": 7295,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Toak"
+          }
+        ],
+        "ns": 0,
+        "pageid": 2170,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11177,
+            "revid": 11178,
+            "slots": {
+              "main": {
+                "*": "The '''Ckuteko''' also known as the '''Toak''' or '''Teko Droids''', are a collection of semi-sentient robots controlled by several supercomputers that inhabit the planet [[Toak]] in the Kepler-7 star system. The Ckuteko appear to be the only surviving relic of an extinct, vaguely reptilian species that once inhabited the planet. They seem to operate with a primitive hive-mind, networking together whenever two or more are in range of radio transmission.\n\nDespite having advanced technology compared to other extraterrestrial species (but somewhat more primitive compared to human counterparts), they have been largely confined to their home world and have made no independent effort to colonize their star system. However, they do continue to operate and service dozens of small satellites. Their homeworld is undergoing desertification due to a gradual rise heavy pollution across hundreds of thousands of years, which leads to the slow destruction of natural habitats that recovered from catastrophe nearly 2 million years ago. \n\n== Description ==\nA Ckuteko largely varies in size, thus each Ckuteko droids have different appearances based on their function and region. A standard Ckuteko, however, averages about 0.95 meters tall. The terrestrial units are almost always bipedal and feature two simple mechanical arms for manipulation. \n\nDespite operating at a hive-mind behavior, most are capable of semi-independent thought. On Earth, their behavior is often compared to ant colonies. They demonstrated capablity of solving problems or suggesting solutions to their controller.  In one instance, researchers observed a tunnel often taken by the Ckuteko was blocked by a cave-in. An alternate path was then sought out and a new optimal route was chosen (out of several options) after about 2 hours based on travel time and rate of survivability. They are controlled by a network of conflicting supercomputers across the ruined planet. Therefore, every droid appear to have a color coded glow that belonged to a network they are controlled by or derived from.\n\n=== Networks ===\nEach physical description of a supercomputer varies, but all of which are based underground.  Their position underground has likely helped their survival against the elements and erosion over the rest. There are eight major networks that dominated the planet before first contact: 8, 11, 19, 22, 38, 46, 60, and 74. At the center of these networks are supercomputers that transmits new data to each droid under its influence. Considering that each network hivemind has been compared to an ant colony on Earth, each supercomputers are described to be \"pseudo-queens\", of their respective hivemind. Based on observations, each global network has a large yet limited range. If a droid wanders outside of their data transmission, they would likely continue to function under old commands until a new one has been given by another supercomputer or destroyed. A number of small satallites has been maintained seemingly to both help transmit data at a further range and to prevent this from happening too often.\n\nOut of the eight known supercomputers across the planet, researchers has traveled to and only directly made physical contact with two: Networks 8 and 22. Researchers had deduced these numbers through limited communication and mathematics. \"8\" seems to be interested in contact, and has attempted communication through a 'communication box' that emits piercing static that changes in pitch and tone, likely attempts to transmit encoded messages through sound. Researchers makes a rough guess of its response using AI tools through the number of change in tones and pitches it makes.  \"22\" on the other hand, has no communication box, likely removed thousands of years ago and communication proved difficult.  \n\n== History ==\n=== '''Early History''' ===\nThe Ckuteko were first built from an extinct small gecko-like species almost 2 million years ago. Based on fossile evidence, this species had proliferated across the planet and was native to it. At some point a natural disaster wiped out nearly all multi-cellular life on Toak. Archeological investigation has ruled out most native causes, and there is as of yet no consensus if the cause was an asteroid impact or some kind of high energy event from deep space or from Kepler-7 itself. The latter theory has gained ground in recent years as ice core sample from the planet's poles have suggested that the atmosphere experienced a sudden and dramatic reduction in density around the time the native species was wiped out.\n\nLittle is known about the society or culture of the native biological lifeforms of Toak, and it is not even known if the characters and words used in the programming language of the Ckuteko droids are representative of a common written language by the native species. The name of the planet and its machines is only taken from designations within the code of the machines themselves. What is known is that these machines were apparently built originally to serve as industrial manufacturing and mining tools, and the machines have continued to operate purely to maintain themselves for all this time. upper lithosphere of Toak contains a remarkably consistent layer of oxidizing metals, oxidizing refined silicon, and broken down parts, that eventually culminate in a layer of scrap that by all accounts has been recycled and repaired until it was no longer mechanically possible to maintain the components.\n\n=== '''Pre-Contact''' ===\nThe Ckuteko are the last surviving legacy of their creators, with the few surviving yet isolated supercomputers maintaining the network of drones, manufactories, mines, and indeed themselves for all this time. Interestingly, attempts by the different supercomputers to maintain themselves and the infrastructure of the planet has conflicted with other supercomputers' networks to gather resources and maintain their own regional infrastructure, leading to the first and only known examples of independent robotic conflict. These conflicts are fairly benign as the machines fumble against eachother and attempt to disable competing droids with their simple manipulators.\n\nThere were more than 8 global supercomputers that survived the global catastrophe, and 8 major networks that dominated the planet before first contact. Each major network were translated into Terran numerical system as: Networks 8, 11, 19, 22, 38, 46, 60, and 74.\n\n=== '''Post-Contact.''' ===\nSince the arrival of human science teams, the Ckuteko have made no attempt to harm the organic intelligences that now occupy their planet. Interestingly, conflicts between rival droid networks ceases whenever a human or other alien visitor arrives on the scene, it apparently being a root command that the machines never harm organic life.\n\nThere is currently an ongoing debate among the scientific community of what, if anything should be done about Toak. As of yet, it is NASA policy to leave the Ckuteko droids alone and to treat the artificial ecosystem as they would any natural ecosystem. However, there are calls among some to disable the entire Ckuteko network and attempt to restore what little organic life remains on Toak into a larger self sustaining organic ecosystem.\n\n[[Category:Species]]\n[[Category:Alien species]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-03-24T20:22:56Z"
+          }
+        ],
+        "title": "Ckuteko",
+        "touched": "2023-03-24T20:22:56Z"
+      },
+      "2171": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5898,
+        "length": 144,
+        "new": "",
+        "ns": 1,
+        "pageid": 2171,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5898,
+            "slots": {
+              "main": {
+                "*": "I imagine them to be more like this except slightly different.\n\n\n\nhttp://www.stellariswiki.com/images/c/c4/Synthetic_dawn_portrait_mammalian.png",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-25T21:36:05Z"
+          }
+        ],
+        "title": "Talk:Ckuteko/@comment-5590986-20170925213605",
+        "touched": "2017-09-25T21:36:06Z"
+      },
+      "2172": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Mars state flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6123,
+        "length": 49,
+        "ns": 6,
+        "pageid": 2172,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5904,
+            "revid": 6123,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Mars state flags]]\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:50:42Z"
+          }
+        ],
+        "title": "File:Loire Flag.png",
+        "touched": "2017-12-05T03:59:05Z"
+      },
+      "2173": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5905,
+        "length": 277,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Loire/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2173,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5905,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Loire\n| flag alias = Loire_Flag.png\n| alt attribute = Flag of Loire\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-26T01:37:00Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Loire/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Loire",
+        "touched": "2017-09-26T01:37:00Z"
+      },
+      "2174": {
+        "contentmodel": "wikitext",
+        "lastrevid": 5908,
+        "length": 491,
+        "new": "",
+        "ns": 1201,
+        "pageid": 2174,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5908,
+            "slots": {
+              "main": {
+                "*": "Would there be any milita-type organizations in Mexican-dominant settlements on Venus? Likely lead by still-radicalized former soldiers of the Mexican armed forces, but pehaps occasionally attending protests and demonstrations for Mexican cultural protection and a return of Mexican soverignty. Of course over time it would fade but certainly there's still resistance in the pockets of former Mexicans in different areas.<ac_metadata title=\"Mexican militia activity on Venus\"> </ac_metadata>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-26T15:52:43Z"
+          }
+        ],
+        "title": "Thread:YNot1989/@comment-29372813-20170926155243",
+        "touched": "2017-09-26T17:22:14Z"
+      },
+      "2175": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6156,
+        "length": 69,
+        "ns": 6,
+        "pageid": 2175,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5909,
+            "revid": 6156,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T21:00:28Z"
+          }
+        ],
+        "title": "File:São Paulo Flag.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2176": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5910,
+        "length": 292,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data São Paulo/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2176,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5910,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = São Paulo\n| flag alias = São_Paulo_Flag.png\n| alt attribute = Flag of São Paulo\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-26T15:56:10Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data São Paulo/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data São Paulo",
+        "touched": "2017-09-26T15:56:10Z"
+      },
+      "2177": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6149,
+        "length": 69,
+        "ns": 6,
+        "pageid": 2177,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5911,
+            "revid": 6149,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:58:11Z"
+          }
+        ],
+        "title": "File:Rio de Janeiro Flag.png",
+        "touched": "2022-02-23T09:26:28Z"
+      },
+      "2178": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Templates"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 5912,
+        "length": 290,
+        "links": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Janeiro/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "new": "",
+        "ns": 10,
+        "pageid": 2178,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 5912,
+            "slots": {
+              "main": {
+                "*": "{{ {{{1<noinclude>|country showdata</noinclude>}}}\n| alias = Janeiro\n| flag alias = Rio_de_Janeiro_Flag.png\n| alt attribute = Flag of Janeiro\n| size = {{{size|}}}\n| name = {{{name|}}}\n| altlink = {{{altlink|}}}\n| altvar = {{{altvar|}}}\n| variant = {{{variant|}}}\n}}\n\n[[Category: Templates]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-26T15:56:52Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Country data Janeiro/doc"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Country showdata"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Documentation"
+          }
+        ],
+        "title": "Template:Country data Janeiro",
+        "touched": "2017-09-26T15:56:52Z"
+      },
+      "2179": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flags of states of the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 6080,
+        "length": 69,
+        "ns": 6,
+        "pageid": 2179,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 5913,
+            "revid": 6080,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]\n[[Category:Flags of states of the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2017-09-30T20:39:25Z"
+          }
+        ],
+        "title": "File:Flag of Uruguay.png",
+        "touched": "2022-02-23T09:26:28Z"
+      }
+    }
+  }
+}

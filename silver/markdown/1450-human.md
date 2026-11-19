@@ -1,0 +1,60 @@
+---
+page_id: 1450
+revision_id: 11773
+source_url: https://second-renaissance.fandom.com/wiki/Human
+raw_sha256: 870397dbde5cdf2fbc6e9b82de2a0c8e5490d097ea761f5f5ce63040d84afdbb
+---
+
+# Human
+
+## Preserved source
+
+```wikitext
+'''Humans''' are a clade of sophonts originating from [Earth](272-earth.md). Homo is the human genus, which also includes Neanderthals and many other extinct species of hominid; H. sapiens is the common ancestor to all members of this clade.
+
+Natural humans are the subclade Homo sapiens sapiens, which differentiates them from what has been argued to be their direct ancestor, Homo sapiens idaltu.
+
+# Evolution
+## subclade
+There are 27 recognized human subclades, however due to the prevalence of genetic engineering, each subclade has significant genetic variations.
+
+The modern subclades include:
+
+{| class="wikitable"
+|+Surviving subclades of human
+|-
+! Subclade!! Description !! Image
+|-
+|'''Naturals''' (''Homo sapiens sapiens'') || The original, unmodified strain of humanity. As of 2156 their population has dwindled to an estimated 700 million adults, and are primarily made up of members of fundamentalist religions who oppose modification of any kind.
+|[100px](1662-file-terram-png.md)
+|-
+|'''Rainbows''' (''Homo sapiens magnificus'') || Rainbows were some of the first humans to be classified as a subclade. Genetically identical to most other humans save for a much wider range of pigments to hair, eyes, and skin, largely imported from various species of Bird of Paradise. The adult population is estimated to exceed 2.3 billion individuals, however, the modifications are so common that there's no way to have an accurate census of the population. There are varying extremes, the most common modifications are to hair and eye color, however there are those who change their skin pigmentation as well.
+|[100px](1662-file-terram-png.md)
+|-
+|'''Terrans''' (''Homo sapiens terrestris'') || The most common human subclade, native to Earth, but common across the solar system, particularly Venus. In 2155, the total adult population was estimated at 7.2 Billion. Terrans ( also known as Earthlings or Earthers) are physically similar in appearance to Natural humans, with a standard pigment range, and an average adult height of {{convert|185|to|195|cm|in|abbr=on}}. The main difference between Terrans and Naturals is that Terrans contain some form of genetic engineering, genetic modification, or cybernetics. This makes Terrans 'naturally' hyperimmune to nearly all known diseases and viruses as well as having a higher physical strength, intelligence, and more attractive by beauty standards.
+|[100px](1662-file-terram-png.md)
+|-
+|'''Martians''' (''Homo sapiens arensis'') || Lives on [Mars](318-mars.md), is the most common subclade beyond Earth. In 2155, the total adult population was estimated at 2.3 Billion. Martians are the second-tallest of the categorized subclade, with individuals attaining an adult height of {{convert|195|to|215|cm|in|abbr=on}}. Martians have a similar pigment range as humans living on Earth, however are on average 10% paler than their Terran counterparts.
+|[100px](1663-file-martian-png.md)
+|-
+|'''Lunarians''' (''Homo sapiens lunensis'') || Originating on Earth's moon, Lunarians are common across the myriad of small, low-gravity bodies across the solar system. As of 2156 the total adult population was estimated at 500 million. Lunarians are the tallest of the categorized subclade, with individuals attaining an adult height of {{convert|200|to|250|cm|in|abbr=on}}. Most lunarians produce virtually no melanin due to spending the majority of their lives below ground and seldom exposed to natural sunlight and UVB rays, as a result, they are extremely pale with a vary narrow pigment range. There are however, small populations who live in habitats on the surfaces of their worlds who adopt genes to produce extreme amounts of melanin, resulting in pitch black skin.
+|[100px](1664-file-lunarian-png.md)
+|-
+|'''Furries''' (''Homo sapiens theriformis'') || Often treated as a subclade, "Furries" are humans who have been genetically modified to appear like anthropomorphized animals (usually quadrupedal mammals, but occasionally reptiles or birds). The adult population is quite low, but prolific across the solar system with an estimated 60.5 million individuals as of 2156.
+|-
+|'''Avians''' (''Homo sapiens chieropteryx'') || Avians are humans who have been genetically modified to posses the ability to fly, extending the pinky into a Carpometacarpus, which supports a wing membrane (with a wingspan of about 20 feet) that attaches to the legs, much like the wings of the extinct pterosaurs. The adult population of 28.1 million predominantly reside on low-gravity worlds where flight is more practical, but the largest demonination (4.2 million) reside on Mars where the subclade emerged from a sect of the Avists faith.
+|-
+|'''Mermaids''' (''Homo sapiens ichthyoformis'') || Mermaids are humans who have been genetically modified to live exclusively underwater, through a series of enhancements to their lungs, as well as the addition of functioning gills, the creation of webbed limbs or a single fully fused tail, and counter-shaded pigmentation of the skin. The adult population of 21.5 million first emerged on Mars, but have become just as common on Earth and Venus. [A small population of 40,000 reside on Europa.](2801-europans.md) However, the extreme cold and pressure necessitates modifications so extreme, they are often considered a separate species all together.
+|-
+|'''Alphas''' (''Homo sapiens alpha'') || There is much debate surrounding the categorization of Alphas as a human subclade, because these are humans whose brains have been implanted in a vat-grown, biorobotic body that cannot be reproduced outside of the very specific conditions of a nano-compiling amino tank. Alphas are the pinnacle of what can be achieved with a humanoid body type, and due to the cost and risk involved with body transplants, there are only 2.2 million individuals recorded, most being members of the armed forces and astronauts.
+|-
+|'''Dryads '''(''Homo sapiens simiomorpha'')
+|With their prehensile tails, grasping feet, and elongated limbs, Dryads are humans genetically bred for an arboreal lifestyle.  As such, they never grow taller than 4' 9" in height and weigh no more than a (natural) human child.  Their skin color ranges from light brown to ashen grey, while their hair is almost always muddy brown, and covers a large portion of their bodies.  The adult population of 2 million adults are native to Venus, but a small population of 25,000 have made their residence in the steaming jungles of Brazil on Earth.  
+|}
+[Category:Species](https://second-renaissance.fandom.com/wiki/Category:Species)
+[Category:Technology](https://second-renaissance.fandom.com/wiki/Category:Technology)
+```
+
+## Provenance
+
+Raw source: `bronze/pages/1450/11773.wikitext` · revision `11773` · [upstream](https://second-renaissance.fandom.com/wiki/Human)

@@ -1,0 +1,1852 @@
+{
+  "batchcomplete": "",
+  "limits": {
+    "categories": 500,
+    "images": 500,
+    "links": 500,
+    "templates": 500
+  },
+  "query": {
+    "pages": {
+      "3677": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11218,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3677,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11218,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-04-19T16:54:29Z"
+          }
+        ],
+        "title": "File:Flag of the Congolese Federation.png",
+        "touched": "2023-04-21T10:11:42Z"
+      },
+      "3678": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Flag of the Congolese Federation.png"
+          }
+        ],
+        "lastrevid": 11222,
+        "length": 1180,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Congolese people"
+          },
+          {
+            "ns": 0,
+            "title": "Flag of Congo"
+          },
+          {
+            "ns": 0,
+            "title": "ISO 4217"
+          },
+          {
+            "ns": 0,
+            "title": "Tuareg Federation"
+          }
+        ],
+        "ns": 0,
+        "pageid": 3678,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11221,
+            "revid": 11222,
+            "slots": {
+              "main": {
+                "*": "{{Infobox country\n|conventional_long_name = United Congo Republic\n|national_motto = \n|national_anthem = \n|capital = Nkana-Kinshasa\n|largest_city = Nkana-Kinshasa\n|official_languages = French, Kongo\n|national_languages = Mongo, Teke, Ngala, Budu, Mibochi\n|demonym = Congolese\n|languages_type = \n|lang_others= \n|government_type = \n|leader_title1 = \n|leader_name1 = \n|legislature = \n|upper_house = \n|lower_house = \n|established_event1 = \n|sovereignty_type = \n|established_date1 = \n|area_rank =\n|area_sq_mi = \n|population_estimate = \n|population_estimate_year = \n|population_estimate_rank = \n|currency = Congolese franc ($)\n|currency_code = CDF\n|image_flag = Flag of the Congolese Federation.png\n|image_coat = \n|image_map = \n|leader_title2 = \n|leader_name2 = \n}}The '''United Congo Republic''', more commonly known as '''Congo''', is a country in Central Africa which borders the Atlantic Ocean to the west. By land area, Congo is the second-largest in Africa after the [[Tuareg Federation]]. The United Congo Republic is the most populous officially Francophone country in the world, and the national capital and largest city is Nkuna-Kinshasa, which is the nation's economic center.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-04-19T16:56:20Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Infobox country"
+          },
+          {
+            "ns": 10,
+            "title": "Template:Yesno"
+          }
+        ],
+        "title": "Congo",
+        "touched": "2023-04-19T16:56:20Z"
+      },
+      "3679": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11296,
+        "length": 24,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Aztlan War"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 3679,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11296,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Aztlan War]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-06-13T20:59:43Z"
+          }
+        ],
+        "title": "Second American Civil War",
+        "touched": "2023-06-13T20:59:43Z"
+      },
+      "3680": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11302,
+        "length": 54,
+        "links": [
+          {
+            "ns": 0,
+            "title": "United Progressive Party (United States)"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 3680,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11302,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[United Progressive Party (United States)]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-06-14T19:51:37Z"
+          }
+        ],
+        "title": "United Republican Party (United States)",
+        "touched": "2023-06-16T03:09:06Z"
+      },
+      "3681": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11317,
+        "length": 57,
+        "new": "",
+        "ns": 6,
+        "pageid": 3681,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11317,
+            "slots": {
+              "main": {
+                "*": "Cooperation Council of Masenkan States or the CCMS on Alo",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-06-19T17:26:27Z"
+          }
+        ],
+        "title": "File:Cooperation Council of Masenkan States.png",
+        "touched": "2023-06-22T06:10:11Z"
+      },
+      "3682": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11320,
+        "length": 49,
+        "new": "",
+        "ns": 6,
+        "pageid": 3682,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11320,
+            "slots": {
+              "main": {
+                "*": "North Hakloan Security Organization on Planet Alo",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-06-20T16:29:31Z"
+          }
+        ],
+        "title": "File:North Hakloan Security Organization.png",
+        "touched": "2023-06-23T04:55:15Z"
+      },
+      "3683": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11321,
+        "length": 25,
+        "new": "",
+        "ns": 6,
+        "pageid": 3683,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11321,
+            "slots": {
+              "main": {
+                "*": "Tilio'ramna Pact of Haklo",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-06-20T16:34:49Z"
+          }
+        ],
+        "title": "File:Tilio'ramna Pact.png",
+        "touched": "2023-06-23T04:57:00Z"
+      },
+      "3684": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11325,
+        "length": 20,
+        "new": "",
+        "ns": 6,
+        "pageid": 3684,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11325,
+            "slots": {
+              "main": {
+                "*": "Canavin Union on Alo",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-06-20T20:26:44Z"
+          }
+        ],
+        "title": "File:Canavin Union.png",
+        "touched": "2023-06-23T08:38:46Z"
+      },
+      "3685": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11328,
+        "length": 23,
+        "new": "",
+        "ns": 6,
+        "pageid": 3685,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11328,
+            "slots": {
+              "main": {
+                "*": "Osomi CoDominium on Alo",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-06-22T21:49:01Z"
+          }
+        ],
+        "title": "File:Osomi CoDominium.png",
+        "touched": "2023-06-26T02:04:32Z"
+      },
+      "3686": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11330,
+        "length": 24,
+        "new": "",
+        "ns": 6,
+        "pageid": 3686,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11330,
+            "slots": {
+              "main": {
+                "*": "Planet Alo aka YBP1194 c",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-06-23T20:23:01Z"
+          }
+        ],
+        "title": "File:Alo YBP1194 c.png",
+        "touched": "2023-06-26T16:57:59Z"
+      },
+      "3687": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11332,
+        "length": 42,
+        "new": "",
+        "ns": 6,
+        "pageid": 3687,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11332,
+            "slots": {
+              "main": {
+                "*": "Commission provided by rajavlitra@cara.app",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-06-23T20:26:45Z"
+          }
+        ],
+        "title": "File:Argommi.jpg",
+        "touched": "2023-06-26T16:59:59Z"
+      },
+      "3688": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11335,
+        "length": 89,
+        "ns": 10,
+        "pageid": 3688,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11334,
+            "revid": 11335,
+            "slots": {
+              "main": {
+                "*": "{{<includeonly>safesubst:</includeonly>#invoke:String|match|s={{{1}}}|^[^{{{sep|%s}}}]*}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-06-23T20:30:38Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 828,
+            "title": "Module:String"
+          }
+        ],
+        "title": "Template:First word",
+        "touched": "2023-06-23T20:30:38Z"
+      },
+      "3689": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Political parties in the United States"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11352,
+        "length": 384,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Conservative Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Liberal Party (United States)"
+          },
+          {
+            "ns": 0,
+            "title": "Neo-Jeffersonianism"
+          },
+          {
+            "ns": 0,
+            "title": "Postnaturalism"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 3689,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11352,
+            "slots": {
+              "main": {
+                "*": "The '''Horizon Party''' commonly known as '''Horizon''' is an American political party founded to unite the ideologies of [[Neo-Jeffersonianism|Neo-Jeffersonian]] and [[Postnaturalism]]. The party was a merger of the [[Liberal Party (United States)|Liberal party]] and the [[Conservative Party (United States)|Conservative party]].\n\n[[Category:Political parties in the United States]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-07-10T06:05:59Z"
+          }
+        ],
+        "title": "Horizon Party (United States)",
+        "touched": "2023-07-10T06:05:59Z"
+      },
+      "3692": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Space Age"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11381,
+        "length": 1260,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Chronoscope"
+          },
+          {
+            "ns": 0,
+            "title": "Enterprise-class interstellar vehicle"
+          }
+        ],
+        "ns": 0,
+        "pageid": 3692,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11380,
+            "revid": 11381,
+            "slots": {
+              "main": {
+                "*": "'''Prometheus 1''' was an American space probe, the first to utilize a White-Alcubierre Drive or Warp Drive, which was launched to the Alpha Centauri System  11 October 2059. It was used to chart a safe course to the system and then conduct scientific surveys of the system and its planets prior to any human mission. The flight out took 18 months in which the warp drive was active for 5 jumps.\n\nPrometheus 1 would be the progenitor to not only all [[Enterprise-class interstellar vehicle|crewed warp capable spacecraft]], but also the 18 successive probes of the Prometheus program which were used extensively by NASA to chart safe courses through interstellar space and conduct missions of exploration and scientific observation prior to human contact. As of 2160, only the Prometheus 1, 9, and 14 have survived the program, with Prometheus 1 being featured in the Smithsonian Space Museum. Prometheus 9 and 14 are still in use, orbiting the neutron stars RX J1856.5−3754 and PSR J0108−1431.\n\n==Design==\nThe Prometheus project was unique among interstellar space probes in that they predate [[Chronoscope|chronoscopes]] and thus had to conduct far more warp jumps to provide an even semi-accurate simulation of interstellar space.\n[[Category:Space Age]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-10-06T21:00:20Z"
+          }
+        ],
+        "title": "Prometheus 1",
+        "touched": "2024-07-19T21:45:29Z"
+      },
+      "3693": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11396,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3693,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11396,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-11-14T02:10:19Z"
+          }
+        ],
+        "title": "File:US flag with 85 stars by BF1395.png",
+        "touched": "2023-11-14T02:11:18Z"
+      },
+      "3694": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11397,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3694,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11397,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-11-14T02:12:31Z"
+          }
+        ],
+        "title": "File:US flag with 80 stars by BF1395.png",
+        "touched": "2023-11-14T02:12:54Z"
+      },
+      "3695": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11402,
+        "length": 22,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Vactrain"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 3695,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11402,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Vactrain]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2023-12-22T19:02:15Z"
+          }
+        ],
+        "title": "Hyperloop",
+        "touched": "2023-12-22T19:55:12Z"
+      },
+      "3696": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Example.jpg"
+          }
+        ],
+        "lastrevid": 11429,
+        "length": 1733,
+        "new": "",
+        "ns": 10,
+        "pageid": 3696,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11429,
+            "slots": {
+              "main": {
+                "*": "<includeonly>\n<infobox>\n  <title source=\"Group\"/>\n  <image source=\"image1\">\n    <caption source=\"caption-image1\"/>\n  </image>\n  <group>\n    <header source=\"header1\">Section Header</header>\n    <data source=\"organization\">\n      <label>Organization</label>\n    </data>\n    <data source=\"founded\">\n      <label>Founded</label>\n    </data>\n    <data source=\"dissolved\">\n      <label>Dissolved</label>\n    </data>\n    <data source=\"row1\"/>\n    <data source=\"founders\">\n      <label>Founders</label>\n    </data>\n    <data source=\"Status\"/>\n  </group>\n  <title source=\"title2\"/>\n  <title source=\"title3\"/>\n  <title source=\"title4\"/>\n  <title source=\"title5\"/>\n</infobox>\n</includeonly>\n<noinclude>\nExample usage:\n{{Group\n  | Group=Example\n  | image1=Example.jpg\n  | caption-image1=Example\n  | organization=Example\n  | founded=Example\n  | dissolved=Example\n  | row1=Example\n  | founders=Example\n  | Status=Example\n  | title2=Example\n  | title3=Example\n  | title4=Example\n  | title5=Example}}\n<pre>\n{{Group\n  | Group=Example\n  | image1=Example.jpg\n  | caption-image1=Example\n  | organization=Example\n  | founded=Example\n  | dissolved=Example\n  | row1=Example\n  | founders=Example\n  | Status=Example\n  | title2=Example\n  | title3=Example\n  | title4=Example\n  | title5=Example}}\n</pre>\n<templatedata>\n{\"params\":{\"Group\":{\"suggested\":true},\"image1\":{\"suggested\":true},\"caption-image1\":{\"suggested\":true},\"organization\":{\"suggested\":true},\"founded\":{\"suggested\":true},\"dissolved\":{\"suggested\":true},\"row1\":{\"suggested\":true},\"founders\":{\"suggested\":true},\"Status\":{\"suggested\":true},\"title2\":{\"suggested\":true},\"title3\":{\"suggested\":true},\"title4\":{\"suggested\":true},\"title5\":{\"suggested\":true}},\"sets\":[],\"maps\":{}}\n</templatedata>\n</noinclude>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T14:11:31Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Group"
+          }
+        ],
+        "title": "Template:Group",
+        "touched": "2024-02-13T14:11:31Z"
+      },
+      "3697": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11430,
+        "length": 284,
+        "new": "",
+        "ns": 0,
+        "pageid": 3697,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11430,
+            "slots": {
+              "main": {
+                "*": "{{Group|Group=Autism Speaks|image1=<br>|caption-image1=Autism Speaks logonused from 2021 until 2037.<br>|organization=Autism Speaks|founded=February 11, 2005|dissolved=June 16, 2037|founders=Bob Wright\nSussanne Wright|Status=Judicial dissolution due to it’s role in the White Tide}}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T14:15:23Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:Group"
+          }
+        ],
+        "title": "Autism Speaks",
+        "touched": "2024-02-13T14:15:23Z"
+      },
+      "3698": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11431,
+        "length": 0,
+        "new": "",
+        "ns": 0,
+        "pageid": 3698,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11431,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T14:25:02Z"
+          }
+        ],
+        "title": "Lakota Republic",
+        "touched": "2024-02-13T14:25:02Z"
+      },
+      "3699": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11447,
+        "length": 44,
+        "ns": 6,
+        "pageid": 3699,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11432,
+            "revid": 11447,
+            "slots": {
+              "main": {
+                "*": "== Summary ==\nTopper Flag\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T15:01:30Z"
+          }
+        ],
+        "title": "File:Yooper Flag.gif",
+        "touched": "2024-02-13T15:01:30Z"
+      },
+      "3700": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11452,
+        "length": 19,
+        "ns": 6,
+        "pageid": 3700,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11433,
+            "revid": 11452,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T15:04:15Z"
+          }
+        ],
+        "title": "File:American Hispanic Flag.jpeg",
+        "touched": "2024-02-13T15:04:15Z"
+      },
+      "3701": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11450,
+        "length": 19,
+        "ns": 6,
+        "pageid": 3701,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11434,
+            "revid": 11450,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T15:02:41Z"
+          }
+        ],
+        "title": "File:Autism Pride Flag.png",
+        "touched": "2024-02-13T15:02:41Z"
+      },
+      "3702": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11451,
+        "length": 19,
+        "ns": 6,
+        "pageid": 3702,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11435,
+            "revid": 11451,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T15:03:29Z"
+          }
+        ],
+        "title": "File:Autism Speaks.png",
+        "touched": "2024-02-13T15:03:29Z"
+      },
+      "3703": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11455,
+        "length": 19,
+        "ns": 6,
+        "pageid": 3703,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11436,
+            "revid": 11455,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T15:06:55Z"
+          }
+        ],
+        "title": "File:Native American Flag.gif",
+        "touched": "2024-02-13T15:06:55Z"
+      },
+      "3704": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11454,
+        "length": 19,
+        "ns": 6,
+        "pageid": 3704,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11437,
+            "revid": 11454,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T15:05:40Z"
+          }
+        ],
+        "title": "File:New Africa Flag 2.png",
+        "touched": "2024-02-13T15:05:40Z"
+      },
+      "3705": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11448,
+        "length": 19,
+        "ns": 6,
+        "pageid": 3705,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11438,
+            "revid": 11448,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T15:01:55Z"
+          }
+        ],
+        "title": "File:American Muslim Flag.png",
+        "touched": "2024-02-13T15:01:55Z"
+      },
+      "3706": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11439,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3706,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11439,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T14:35:11Z"
+          }
+        ],
+        "title": "File:New England Flag.png",
+        "touched": "2024-02-13T14:35:11Z"
+      },
+      "3707": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11453,
+        "length": 19,
+        "ns": 6,
+        "pageid": 3707,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11440,
+            "revid": 11453,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T15:04:50Z"
+          }
+        ],
+        "title": "File:Lakota.png",
+        "touched": "2024-02-13T15:04:50Z"
+      },
+      "3708": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11456,
+        "length": 19,
+        "ns": 6,
+        "pageid": 3708,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11441,
+            "revid": 11456,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T15:07:26Z"
+          }
+        ],
+        "title": "File:Cascadia Flag.png",
+        "touched": "2024-02-13T15:07:26Z"
+      },
+      "3709": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11457,
+        "length": 19,
+        "ns": 6,
+        "pageid": 3709,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11442,
+            "revid": 11457,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T15:09:15Z"
+          }
+        ],
+        "title": "File:Islam flag.png",
+        "touched": "2024-02-13T15:09:15Z"
+      },
+      "3710": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11443,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3710,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11443,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T14:37:50Z"
+          }
+        ],
+        "title": "File:Iroquois Flag.png",
+        "touched": "2024-02-13T14:37:50Z"
+      },
+      "3711": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11444,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3711,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11444,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T14:43:36Z"
+          }
+        ],
+        "title": "File:Rainbow Progress.webp",
+        "touched": "2024-02-13T14:43:36Z"
+      },
+      "3712": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11449,
+        "length": 19,
+        "ns": 6,
+        "pageid": 3712,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11445,
+            "revid": 11449,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T15:02:17Z"
+          }
+        ],
+        "title": "File:Canadian Muslim Rainbow Pride Flag.jpeg",
+        "touched": "2024-02-13T15:02:17Z"
+      },
+      "3713": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11446,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3713,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11446,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T14:55:04Z"
+          }
+        ],
+        "title": "File:IMG 2233.png",
+        "touched": "2024-02-13T14:55:04Z"
+      },
+      "3714": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11461,
+        "length": 19,
+        "ns": 6,
+        "pageid": 3714,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11458,
+            "revid": 11461,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T15:17:00Z"
+          }
+        ],
+        "title": "File:Blackfoot flag.jpeg",
+        "touched": "2024-02-13T15:17:00Z"
+      },
+      "3715": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11460,
+        "length": 19,
+        "ns": 6,
+        "pageid": 3715,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11459,
+            "revid": 11460,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T15:15:03Z"
+          }
+        ],
+        "title": "File:Palestine flag.png",
+        "touched": "2024-02-13T15:15:03Z"
+      },
+      "3716": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11463,
+        "length": 19,
+        "ns": 6,
+        "pageid": 3716,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11462,
+            "revid": 11463,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T15:46:51Z"
+          }
+        ],
+        "title": "File:California Seperatist Flag.jpeg",
+        "touched": "2024-02-13T15:46:51Z"
+      },
+      "3717": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11465,
+        "length": 19,
+        "ns": 6,
+        "pageid": 3717,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11464,
+            "revid": 11465,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T16:19:14Z"
+          }
+        ],
+        "title": "File:IMG 2240.jpeg",
+        "touched": "2024-02-13T16:19:14Z"
+      },
+      "3718": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11466,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3718,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11466,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T16:21:18Z"
+          }
+        ],
+        "title": "File:Free Texas Militia.jpeg",
+        "touched": "2024-02-13T16:21:18Z"
+      },
+      "3719": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Flags"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11468,
+        "length": 19,
+        "ns": 6,
+        "pageid": 3719,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11467,
+            "revid": 11468,
+            "slots": {
+              "main": {
+                "*": "\n[[Category:Flags]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T16:25:16Z"
+          }
+        ],
+        "title": "File:Socialist Red Star.png",
+        "touched": "2024-02-13T16:25:16Z"
+      },
+      "3720": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11469,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3720,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11469,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T16:25:52Z"
+          }
+        ],
+        "title": "File:Free Vermont.png",
+        "touched": "2024-02-13T16:25:52Z"
+      },
+      "3721": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11472,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3721,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11472,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-02-13T17:21:43Z"
+          }
+        ],
+        "title": "File:IMG 2244.png",
+        "touched": "2024-02-13T17:21:43Z"
+      },
+      "3722": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11498,
+        "length": 0,
+        "new": "",
+        "ns": 6,
+        "pageid": 3722,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11498,
+            "slots": {
+              "main": {
+                "*": "",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-05-16T05:13:42Z"
+          }
+        ],
+        "title": "File:Nikki Haley Official portrait.jpg",
+        "touched": "2024-05-16T05:13:42Z"
+      },
+      "3723": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Under Construction"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:Under contruction icon-red.png"
+          }
+        ],
+        "lastrevid": 11996,
+        "length": 8476,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Alo"
+          },
+          {
+            "ns": 0,
+            "title": "Argommi"
+          },
+          {
+            "ns": 0,
+            "title": "Ckuteko"
+          },
+          {
+            "ns": 0,
+            "title": "Clark"
+          },
+          {
+            "ns": 0,
+            "title": "Equoloa"
+          },
+          {
+            "ns": 0,
+            "title": "Equoloii"
+          },
+          {
+            "ns": 0,
+            "title": "Hiilo"
+          },
+          {
+            "ns": 0,
+            "title": "Hivvir"
+          },
+          {
+            "ns": 0,
+            "title": "Ir'ba"
+          },
+          {
+            "ns": 0,
+            "title": "Ivrilu"
+          },
+          {
+            "ns": 0,
+            "title": "K'lerin"
+          },
+          {
+            "ns": 0,
+            "title": "Kahi'Umknovola"
+          },
+          {
+            "ns": 0,
+            "title": "Le'ma"
+          },
+          {
+            "ns": 0,
+            "title": "Lewis"
+          },
+          {
+            "ns": 0,
+            "title": "Moraks"
+          },
+          {
+            "ns": 0,
+            "title": "Q'jo"
+          },
+          {
+            "ns": 0,
+            "title": "Seikarte"
+          },
+          {
+            "ns": 0,
+            "title": "Tel-bn"
+          },
+          {
+            "ns": 0,
+            "title": "Tel-ma"
+          },
+          {
+            "ns": 0,
+            "title": "Toak"
+          },
+          {
+            "ns": 0,
+            "title": "Tu"
+          },
+          {
+            "ns": 0,
+            "title": "Umknovola"
+          },
+          {
+            "ns": 0,
+            "title": "Volmarro"
+          },
+          {
+            "ns": 0,
+            "title": "Volorum"
+          }
+        ],
+        "ns": 0,
+        "pageid": 3723,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11532,
+            "revid": 11996,
+            "slots": {
+              "main": {
+                "*": "{{WIP}}\nSophonts are intelligent beings with a base reasoning capacity roughly equivalent to that of humans, often known as Sapient or incorrectly as Sentient/Self-Aware life, as almost all complex organisms have a degree of self-awareness. A species does not need to have had produced a complex agrarian society or \"civilization\" in order to be considered a Sophont.\n\nThe following is a list of planets with intelligent lifeforms contacted by humanity who are generally accepted by the scientific community to be Sophonts.\n\n\n{| class=\"wikitable sortable\" style=\"width: 100%\"\n|-\n! style=\"width:100px;\" class=\"unsortable\" |Planet\n! style=\"width:100px;\" | Local Name\n! width=\"75\" |Native Intelligence\n! width=\"75\" |First Contact Date\n! width=\"25\" |Distance (ly)\n! class=\"unsortable\" |Characteristics\n|-\n| style=\"text-align:center;\" | Tau Ceti f\n| style=\"text-align:center;\" | [[Le'ma]]\n| style=\"text-align:center;\" | [[K'lerin]]\n| style=\"text-align:center;\" | 2065\n| 12\n| Small planet with 55% of its surface covered with liquid water. Atmospheric pressure 109% that of Earth.\n|-\n| style=\"text-align:center;\" | Epislon Eridani b\n| style=\"text-align:center;\" | Avalon\n| style=\"text-align:center;\" | ''Unknown'' (Extinct)\n| style=\"text-align:center;\" | 2065\n| 10\n| 131% Earth mass, with 43% of its surface covered in water. Trace amounts of radioactive fallout in its lithosphere.\n|-\n| style=\"text-align:center;\" | Beta Hydri d\n| style=\"text-align:center;\" | [[Tu]]\n| style=\"text-align:center;\" | [[Moraks]]\n| style=\"text-align:center;\" | 2067\n| 24\n| 115% Earth Mass, with 55% of its surface covered by water. Atmospheric pressure 90% that of Earth.\n|-\n| style=\"text-align:center;\" | HD 104304 a\n| style=\"text-align:center;\" | Seika\n| style=\"text-align:center;\" | [[Seikarte]]\n| style=\"text-align:center;\" | 2071\n|41\n| 79% Earth Mass, with 88% of its surface covered by water. Atmospheric pressure 71% that of Earth.\n|-\n| style=\"text-align:center;\" | Groombridge 1618\n| style=\"text-align:center;\" | Rhea\n| style=\"text-align:center;\" | ''Unknown''\n<span style=\"font-weight:normal;\"> (Extinct)</span>\n| style=\"text-align:center;\" | 2069\n| 15.9\n| 131% Earth mass, with 43% of its surface covered in water. Trace amounts of radioactive fallout in atmosphere and on the surface.\n|-\n| style=\"text-align:center;\" | Mu Cassiopeiae\n| style=\"text-align:center;\" | Griffin\n| style=\"text-align:center;\" | ''Unknown''\n<span style=\"font-weight:normal;\"> (Extinct)</span>\n| style=\"text-align:center;\" | 2070\n| 25.05 \n| 131% Earth mass, with 43% of its surface covered in water. Trace amounts of radioactive fallout in atmosphere and on the surface.\n|-\n| style=\"text-align:center;\" | 40 Eridani\n| style=\"text-align:center;\" | [[Lewis]], [[Clark]]\n| style=\"text-align:center;\" | ''Unknown'' (Extinct)\n| style=\"text-align:center;\" | 2075\n| 16\n| Twin planets with 61% Earth mass, with 80% of its surface covered in water. Trace amounts of radioactive fallout in atmosphere and on the surface.\n|-\n| style=\"text-align:center;\" | 109 Piscium be\n| style=\"text-align:center;\" | [[Umknovola]]\n| style=\"text-align:center;\" | [[Kahi'Umknovola]]\n| style=\"text-align:center;\" | 2110\n| 109\n| A moon orbiting a gas giant/brown dwarf. 105% Earth mass with 54% of its surface is covered in water. Atmospheric pressure 87% that of Earth.\n|-\n| style=\"text-align:center;\" | Kepler 22a\n| style=\"text-align:center;\" | [[Tel-ma]]\n| style=\"text-align:center;\" | [[Tel-bn]]\n| style=\"text-align:center;\" | 2091\n| 635\n| 59% Earth mass, with 86% of its surface covered by water. Atmospheric pressure 121% that of Earth.\n|-\n| style=\"text-align:center;\" | Pi3 Orionis\n| style=\"text-align:center;\" | Plymouth\n| style=\"text-align:center;\" | ''Unknown'' (Extinct)\n| style=\"text-align:center;\" | 2098\n| 26\n| 57% Earth mass, with 61% of its surface covered in water. Evidence of late period bombardment.\n|-\n| style=\"text-align:center;\" | Delta Pavonis b\n| style=\"text-align:center;\" | Omaha\n| style=\"text-align:center;\" | ''Unknown'' (Extinct)\n| style=\"text-align:center;\" | 2110\n| 20\n| 94% Earth mass, with 29% of its surface covered in water. Trace amounts of radioactive fallout in atmosphere and on the surface.\n|-\n| style=\"text-align:center;\" | YBP 1194 c\n| style=\"text-align:center;\" | [[Alo]]\n| style=\"text-align:center;\" | [[Argommi]]\n| style=\"text-align:center;\" | 2113\n| 2920\n| 71% Earth mass, 82% surface is covered with water, with three landmasses inhabited by industrial civilizations. Evidence suggests the planet once had considerably more land prior to climate shift. Atmospheric pressure 102% that of Earth.\n|-\n| style=\"text-align:center;\" | 82 Eridani g\n| style=\"text-align:center;\" | Lincoln\n| style=\"text-align:center;\" | N/A\n| style=\"text-align:center;\" | 2119\n| 19.8\n| 150% Earth-Mass\n|-\n| style=\"text-align:center;\" | HD20794 e\n| style=\"text-align:center;\" | Arcadia\n| style=\"text-align:center;\" | ''Unknown''\n<span style=\"font-weight:normal;\"> (Extinct)</span>\n| style=\"text-align:center;\" | 2121\n| 19.8 \n| 131% Earth mass, with 43% of its surface covered in water. Trace amounts of radioactive fallout in atmosphere and on the surface.\n|-\n| style=\"text-align:center;\" | HD 197027 c\n| style=\"text-align:center;\" | [[Volorum]]\n| style=\"text-align:center;\" | [[Volmarro]]\n| style=\"text-align:center;\" | 2125\n| 255\n| Moon orbiting a supermassive planet in the habitable zone. Only 22% of its surface is covered with liquid water, while another 24% is covered in ice. Atmospheric pressure 77% that of Earth.\n|-\n| style=\"text-align:center;\" | Xi Ursae Majoris\n| style=\"text-align:center;\" | Kimura\n| style=\"text-align:center;\" | N/A\n| style=\"text-align:center;\" | 2132\n|\n| 131% Earth mass, with 43% of its surface covered in water.\n|-\n| style=\"text-align:center;\" | Kepler-18 \n| style=\"text-align:center;\" | [[Equoloa]]\n| style=\"text-align:center;\" | [[Equoloii]]\n| style=\"text-align:center;\" | 2135\n| 1,430\n| 95% Earth mass, with 68% of its surface covered in water. Trace amounts of no-ionizing radiation in atmosphere and on the surface. Atmospheric pressure 101% that of Earth\n|-\n| style=\"text-align:center;\" | Mu Herculis\n| style=\"text-align:center;\" | Meath\n| style=\"text-align:center;\" | ''Unknown'' (Extinct)\n| style=\"text-align:center;\" | 2136\n| 27.1\n| 131% Earth mass, with 43% of its surface covered in water. Trace amounts of radioactive fallout in atmosphere and on the surface.\n|-\n| style=\"text-align:center;\" | 61 Virginis\n| style=\"text-align:center;\" | Reth\n| style=\"text-align:center;\" | ''Unknown'' (Extinct)\n| style=\"text-align:center;\" | 2139\n| 27.8\n| 131% Earth mass, with 43% of its surface covered in water. Trace amounts of radioactive fallout in atmosphere and on the surface.\n|-\n| style=\"text-align:center;\" | Chi1 Orionis\n| style=\"text-align:center;\" | Kavelin\n| style=\"text-align:center;\" | ''Unknown'' (Extinct)\n| style=\"text-align:center;\" | 2143\n| 28.3\n| 131% Earth mass, with 43% of its surface covered in water. Trace amounts of radioactive fallout in atmosphere and on the surface.\n|-\n| style=\"text-align:center;\" | Kepler-452b\n| style=\"text-align:center;\" | [[Ivrilu]]\n| style=\"text-align:center;\" | [[Hivvir]], [[Hiilo]]\n| style=\"text-align:center;\" | 2147\n| 1,830\n| 56% Earth mass, with 62% of its surface covered in water. Atmospheric pressure 105% that of Earth.\n|-\n| style=\"text-align:center;\" | HD 71334d\n| style=\"text-align:center;\" | [[Q'jo]]\n| style=\"text-align:center;\" | [[Ir'ba]]\n| style=\"text-align:center;\" | 2149\n| 124\n| 62% Earth mass, with 86% of its surface covered in water. Atmospheric pressure 93% that of Earth.\n|-\n| style=\"text-align:center;\" | V538 Aurigae d\n| style=\"text-align:center;\" | Archer\n| style=\"text-align:center;\" | ''Unknown'' (Extinct)\n| style=\"text-align:center;\" | 2153\n| 40.1\n| 131% Earth mass, with 43% of its surface covered in water. Trace amounts of radioactive fallout in atmosphere and on the surface.\n|-\n| style=\"text-align:center;\" |Kepler-7\n| style=\"text-align:center;\" | [[Toak]]\n| style=\"text-align:center;\" | [[Ckuteko]]\n| style=\"text-align:center;\" | 2155\n| 3,090\n| 131% Earth mass, with 43% of its surface covered in water. Trace amounts of radioactive fallout in atmosphere and on the surface.\n|-\n| style=\"text-align:center;\" | Upsilon Andromedae db\n| style=\"text-align:center;\" | Valhalla\n| style=\"text-align:center;\" | Constructors\n(Extinct'')''\n| style=\"text-align:center;\" | 2158\n| 44\n|A moon of a Jupiter-sized planet, with a large ice cap. 64% Earth mass, with 35% of its surface covered in liquid water.  \n|}",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2026-04-29T12:10:54Z"
+          }
+        ],
+        "templates": [
+          {
+            "ns": 10,
+            "title": "Template:WIP"
+          }
+        ],
+        "title": "List of Sophonts",
+        "touched": "2026-04-29T12:10:54Z"
+      },
+      "3724": {
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:Alien species"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "lastrevid": 11519,
+        "length": 611,
+        "links": [
+          {
+            "ns": 0,
+            "title": "List of Sophonts"
+          }
+        ],
+        "ns": 0,
+        "pageid": 3724,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 11518,
+            "revid": 11519,
+            "slots": {
+              "main": {
+                "*": "The '''Seikarte''' are the only [[List of Sophonts|intelligent lifeforms]] native to the planet Seika. At time of First Contact in 2071, the most advanced societies on the planet were organized into soilworks building heading communities, with a limited form of agriculture used to cultivate fodder for livestock and a type of highly fibrous or \"wood\" grass-like reed used in both construction and fabric. The Seikarte are one of the first Sophonts to be popularly labeled a \"Wood Age\" civilization, a term used to describe the bulk of post-paleolithic societies observed by humanity.\n[[Category:Alien species]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-06-20T15:06:57Z"
+          }
+        ],
+        "title": "Seikarte",
+        "touched": "2024-06-20T15:06:57Z"
+      },
+      "3725": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11522,
+        "length": 286,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Brazilian Armed Forces"
+          },
+          {
+            "ns": 0,
+            "title": "Federal government of Brazil"
+          },
+          {
+            "ns": 0,
+            "title": "President of Brazil"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 3725,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11522,
+            "slots": {
+              "main": {
+                "*": "The [[President of Brazil|president of the Federative Republic of Brazil]] is the chief executive of the [[Federal government of Brazil|government of Brazil]] and commander in chief of the country's [[Brazilian Armed Forces|Armed Forces]]. Below is a '''list of presidents of Brazil'''.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-06-22T23:58:43Z"
+          }
+        ],
+        "title": "List of presidents of Brazil",
+        "touched": "2024-06-22T23:58:43Z"
+      },
+      "3726": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11523,
+        "length": 109,
+        "new": "",
+        "ns": 0,
+        "pageid": 3726,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11523,
+            "slots": {
+              "main": {
+                "*": "The Scientist Continent is a project environmental science continent at headquarters in Salt Lake City, Utah.",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-06-23T00:02:10Z"
+          }
+        ],
+        "title": "Scientist Continent",
+        "touched": "2024-06-23T00:02:10Z"
+      },
+      "3727": {
+        "contentmodel": "wikitext",
+        "images": [
+          {
+            "ns": 6,
+            "title": "File:2000px-Flag of Korea 1882.svg.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:China Flag(2132).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of China (2058-2108).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of France.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Germany.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Japan.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Mexico (2074).png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of North Korea.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of Russia.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of South Africa.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of South Korea.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Khmer Republic.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the People's Republic of China.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Republic of China.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the Soviet Union (1955-1980).svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United Kingdom.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United Nations.svg.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United States.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United States Army.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United States Coast Guard.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United States Marine Corps.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Flag of the United States Navy.svg"
+          },
+          {
+            "ns": 6,
+            "title": "File:Hong Kong China Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Provisional Government of China.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Russian Republic.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:Second Renaissance United States Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US 36 Star Wagon Wheel Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US 37 Star Medallion Centennial Flag.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US 38 Star Flag concentric circles.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 51stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 52stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 56stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 78 stars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag 81smallstars.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag with 80 stars by BF1395.png"
+          },
+          {
+            "ns": 6,
+            "title": "File:US flag with 85 stars by BF1395.png"
+          }
+        ],
+        "lastrevid": 11529,
+        "length": 1284,
+        "new": "",
+        "ns": 2,
+        "pageid": 3727,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11529,
+            "slots": {
+              "main": {
+                "*": "==Flags==\n<gallery>\nFile:Second Renaissance United States Flag.png\nFile:Flag of the United States.png\nFile:Flag of the United States Coast Guard.svg\nFile:Flag of the United States Marine Corps.svg\nFile:Flag of the United States Navy.svg\nFile:Flag of the United States Army.svg\nFile:US flag 51stars.png\nFile:US flag 81smallstars.png\nFile:US flag 78 stars.png\nFile:US flag 52stars.png\nFile:US flag 56stars.png\nFile:US flag with 85 stars by BF1395.png\nFile:US flag with 80 stars by BF1395.png\nFile:US 38 Star Flag concentric circles.png\nFile:US 37 Star Medallion Centennial Flag.png\nFile:US 36 Star Wagon Wheel Flag.png\nFile:Russian Republic.png\nFile:Flag of Russia.png\nFile:Flag of North Korea.png\nFile:Flag of South Korea.png\nFile:2000px-Flag of Korea 1882.svg.png\nFile:Provisional Government of China.png\nFile:Flag of China (2058-2108).png\nFile:China Flag(2132).png\nFile:Hong Kong China Flag.png\nFile:Flag of the People's Republic of China.png\nFile:Flag of the Republic of China.png\nFile:Flag of Japan.png\nFile:Flag of France.png\nFile:Flag of Germany.png\nFile:Flag of Mexico (2074).png\nFile:Flag of the Soviet Union (1955-1980).svg\nFile:Flag of the United Nations.svg.png\nFile:Flag of the Khmer Republic.png\nFile:Flag of South Africa.png\nFile:Flag of the United Kingdom.png\n</gallery>",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-06-26T23:44:30Z"
+          }
+        ],
+        "title": "User:Sonicmus895",
+        "touched": "2024-06-26T23:44:30Z"
+      },
+      "3728": {
+        "contentmodel": "wikitext",
+        "lastrevid": 11562,
+        "length": 45,
+        "links": [
+          {
+            "ns": 0,
+            "title": "Hyperion (interstellar vehicle)"
+          }
+        ],
+        "new": "",
+        "ns": 0,
+        "pageid": 3728,
+        "pagelanguage": "en",
+        "pagelanguagedir": "ltr",
+        "pagelanguagehtmlcode": "en",
+        "redirect": "",
+        "revisions": [
+          {
+            "parentid": 0,
+            "revid": 11562,
+            "slots": {
+              "main": {
+                "*": "#REDIRECT [[Hyperion (interstellar vehicle)]]",
+                "contentformat": "text/x-wiki",
+                "contentmodel": "wikitext"
+              }
+            },
+            "timestamp": "2024-07-19T21:45:29Z"
+          }
+        ],
+        "title": "Enterprise-class interstellar vehicle",
+        "touched": "2026-03-14T18:56:28Z"
+      }
+    }
+  }
+}
