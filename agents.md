@@ -431,3 +431,80 @@ Before presenting another content tranche, do the following in order:
 - User requested an addendum to the existing root `agents.md` containing the full, unabridged continuity notes for future assistant sessions.
 - Existing file was fetched from `audit/continuity-research` before editing; its original contents are to be preserved and this addendum appended.
 - Addendum records the full requested audit scope, repository architecture, selected code-review observations, archive-count discrepancies, previous page/media tranche claims and their unverified status, thematic navigation leads, explicit user instructions, and Git handoff facts.
+
+
+# Addendum B — First verified source tranche
+## Appended 2026-11-19
+
+This section supersedes any interpretation of Section 4 as describing current progress. It does not retroactively validate the prior 180-page claim.
+
+### B1. Inventory rebuilt from the supplied archive
+
+The supplied ZIP was read directly. The page manifest contains 3,579 records, and all 3,579 manifest raw_path files were found in the ZIP. The recalculated namespace counts are:
+
+| Namespace | Count |
+|---|---:|
+| Main | 507 |
+| Talk | 625 |
+| User | 104 |
+| File | 906 |
+| MediaWiki | 3 |
+| Template | 744 |
+| Template talk | 1 |
+| Category | 32 |
+| Blog | 1 |
+| Module | 102 |
+| Message Wall | 121 |
+| Thread | 426 |
+| Board | 5 |
+| Board Thread | 2 |
+| **Total** | **3,579** |
+
+The all-namespace scope remains the user's requested scope. Main-namespace alphabetical order is being tracked as a sub-sequence; it must not be mistaken for the whole corpus.
+
+The archive contains 8,076 files, including 3,579 Wikitext files and 3,583 Markdown files. The media manifest has 900 records: 728 `existing_verified`, 171 `downloaded_checksum_mismatch`, and one `failed` record (HTTP 404). The ZIP contains 899 physical files under `bronze/assets`: 682 PNG, 160 JPG, 13 JPEG, 34 SVG, 6 GIF, 2 ICO, 1 WebP, and 1 file without an extension. The 899 physical files equal the 899 non-failed manifest rows by count; exact path-to-record mapping still needs verification. No assets have yet been marked visually inspected in the reconstructed media ledger.
+
+### B2. Page-ledger status after tranche 5
+
+Created:
+- `research/README.md`
+- `research/page-ledger.csv` — one row for each of the 3,579 captured pages
+- `research/media-ledger.csv` — one row for each of the 900 media manifest records
+- `research/page-notes/main-181-210.md`
+- `research/session-log.md`
+
+Ledger status:
+- 31 pages directly read: positions 181–210 (30 pages) plus Vactrain (page ID 2693), opened as the target of Hyperloop.
+- 180 main-namespace entries flagged `unverified_prior_claim`; not counted as read.
+- 3,368 remaining records are `not_started`.
+- Verified total: 31 / 3,579 captured source pages (0.87%).
+- Verified main-namespace source reads: 31 / 507 (this includes the out-of-order contextual Vactrain read); the contiguous requested tranche was positions 181–210.
+- Media visually inspected: 0 / 900 manifest records.
+
+### B3. Tranche 5 details
+
+- Ordering: main-namespace titles sorted case-insensitively.
+- Exact range: positions 181–210, Hivvir through Joaquín Andrade.
+- All 30 original Bronze Wikitext files in this range were opened and read.
+- Vactrain (ID 2693) was additionally opened as the redirect target for Hyperloop (ID 3695).
+- Redirects reviewed in-range: Honda Hippies (movement) → Honda Hippies (target absent from archive manifest); HTML attribute, Human Development Index, ISO 4217, and IUCN Red List → Wikipedia interwiki targets; Hyperloop → Vactrain; Hypersonic weapon → Hypersonic Weapons; Indian War of 2126 → India Crisis.
+- No media were visually inspected.
+
+### B4. Main source leads recorded
+
+The detailed notes are in `research/page-notes/main-181-210.md`. Highest-priority leads include:
+1. Hypersonic Weapons says the Mexican Vacuum Command emerged in 2113, then says Mexico deployed its own OKW platforms “by 2028.” Keep the exact 2028 date; do not silently amend it.
+2. India Crisis infobox dates the conflict 2119–2126, while the cyberattack, cabinet deaths, provisional government, elections, and referendum are dated in the body to 2118.
+3. Hong Kong's infobox lists USD, while prose refers to the Hong Kong dollar.
+4. Intermarium's infobox says “The Americas” as its continent, while the prose and member list describe Eastern Europe.
+5. Human says 27 recognized subclades but the displayed table lists ten.
+6. The ITC and Horace Fadel articles have election-year wording that should be cross-checked against the 2080 election and presidential chronology pages.
+7. Hong Kong's Association of East Asia accession is dated 2140; Japan's dissolution/succession is dated 2141.
+8. Hivvir and Hyperion both touch first-contact material, but do not assume the K'lerin contact and Ivrilu contact are the same event.
+
+### B5. Next ordered main-namespace tranche
+
+The next 30 main-namespace entries are positions 211–240:
+Joseph Loveridge; Jupiter; K'lerin; Kahi'Umknovola; Khuzestan War; Korea; Korean reunification; Korean War (2017–2019); Korean War (2017–2021); Korean War (2018–2021); Lakota Republic; Late 2010s Recession; Latin American Union; Latvia; Latvian lats; Le'ma; League of Nations; Least Concern; Legislature of the European Union; Liberaccion Party (United States); Liberacion Party (United States); Liberal Party (United States); Lieutenant Governor of Maryland; Lionel Halvidar; Lise Duchesne; List of countries by population; List of countries by population, 2160; List of heads of state of Cameroon; List of heads of state of Mexico; List of Minyan Fauna.
+
+Continue to keep the unverified earlier pages and all non-main-namespace pages in the ledger. The next ordered tranche must not cause the remaining all-namespace work to be forgotten.
