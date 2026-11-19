@@ -19,7 +19,8 @@ This folder contains audit ledgers and source-grounded notes. It does not change
 - media-ledger.csv — one row per media manifest record; source URL, SHA-1, size, manifest status, and visual-inspection status.
 - page-notes/main-181-210.md — source-grounded main-namespace tranche notes.
 - page-notes/main-211-240.md — source-grounded main-namespace tranche notes.
-- page-notes/manifest-001-300.md — all-namespace manifest tranche notes and cross-source leads.\n- page-notes/manifest-301-600.md — all-namespace manifest tranche notes and cross-source leads.
+- page-notes/manifest-001-300.md — all-namespace manifest tranche notes and cross-source leads.
+- page-notes/manifest-301-600.md — all-namespace manifest tranche notes and cross-source leads.
 - page-notes/manifest-601-900.md — all-namespace manifest tranche notes and cross-source leads.
 - session-log.md — append-only record of work actually completed.
 
