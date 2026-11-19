@@ -1,0 +1,14 @@
+[project]
+name = "sr-doc"
+version = "0.1.0"
+description = "Provenance-preserving narrative wiki archive"
+requires-python = ">=3.11"
+
+[project.scripts]
+sr-archive = "sr_doc.archive:main"
+sr-transform = "sr_doc.transform:main"
+sr-validate = "sr_doc.validate:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
