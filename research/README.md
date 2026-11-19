@@ -33,3 +33,13 @@ This folder contains audit ledgers and source-grounded notes. It does not change
 - unavailable_missing_source_asset — manifest record is failed and has no visual asset to inspect at this time.
 
 A page redirect is still a reviewed source page. Its target is recorded separately; a target only counts as read if its own source file was opened.
+
+
+## Current audit progress — 2026-11-19
+
+- Directly read 1538 / 3,579 captured source pages (42.97%).
+- Main namespace: 269 / 507 pages read.
+- Ledger status: 1538 read; 92 unverified prior claims; 1949 not started.
+- Latest all-namespace tranche: manifest entries 1201–1500; 300/300 source hashes matched; 290 new unique verified reads.
+- Media: 0 / 900 visually inspected. File-description pages do not count as visual inspection.
+- Latest notes: [manifest-1201-1500.md](page-notes/manifest-1201-1500.md). Next tranche: 1501–1800.
