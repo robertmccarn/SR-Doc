@@ -35,3 +35,16 @@
 - The 75 File-namespace records are description pages only; no underlying media were visually inspected. Media visual inspection remains 0/900.
 - Empty Wikitext: 14 records (12 File descriptions, 2 Message Walls). Redirects: 5 records.
 - Corrected prior Addendum C arithmetic: immediately before this tranche, the ledger had 63 unique `read` records (not 64). The cumulative count after this tranche is 361.
+
+
+## 2026-11-19 — All-namespace manifest tranche 301–600
+
+- Opened and read all 300 original Bronze Wikitext sources for manifest entries 301–600. Recomputed SHA-256 for every extracted UTF-8 file; all 300 matched the manifest's `raw_sha256` value.
+- Namespace composition: File descriptions 143; Templates 125; Modules 23; Main 4; User 3; Message Wall 1; Thread 1.
+- The four main-namespace pages were Conservative Party (United States), Evalyn Jacobi, Mars, and U.S. planetary commonwealth. The two prior unverified leads (Conservative Party and Evalyn Jacobi) were reopened and verified; all 300 entries now have direct-read status.
+- Created detailed notes at `research/page-notes/manifest-301-600.md` and updated all 300 ledger rows.
+- Main cross-source leads: Mars calls itself the second commonwealth while the commonwealth list numbers it third; Mars says ITC absorbed early 2133 while the ITC page gives dissolution 1 June 2134; Earth page says 145 states while commonwealth table says 146; Mars population and water figures vary by section; Mars executive officers are described as independently elected and appointed/confirmed; Conservative Party's 2033 founding date vs 2073 Conservative Union naming event requires event distinction.
+- Template review identified Commonwealth infobox parameter-name mismatches (`StateAnthem` vs `PlanetaryAnthem`, and spaced vs unspaced Lieutenant Governor parameters), empty Luna/Mars flag-documentation sections, and an incorrect alt attribute on the European Association country-data template.
+- Four File descriptions and one Message Wall page are empty. One template redirect: Template:Nts → Template:Number table sorting.
+- No actual media were visually inspected; media visual-inspection remains 0/900.
+- Cumulative ledger: 661 read, 174 unverified_prior_claim, 2,744 not_started (3,579 total).
