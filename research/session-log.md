@@ -23,3 +23,15 @@
 - Page ledger updated to 63 unique direct source reads, 180 unverified prior claims, and 3,336 not started.
 - Notable source leads: Jupiter population arithmetic; Kahi'Umknovola first-contact ship-name mismatch; Korea's 1950–53 war vs 2017–2021 redirect chain and 2026–2031 reunification chronology; Halvidar's February/April 2133 Camp Navajo sequence; Liberal Party 2029 vs 2052 founding dates; incomplete/empty Lakota Republic and fauna-list pages.
 - No media were visually inspected.
+
+
+## 2026-11-19 — All-namespace manifest tranche 1–300
+
+- Opened the supplied ZIP's `bronze/manifests/pages.json` and directly opened/read the original Bronze Wikitext for manifest entries 1–300.
+- Reviewed all 300 records across namespaces: 163 Template, 75 File description, 17 Main, 16 User, 13 Category, 5 Board, 3 MediaWiki, 3 Message Wall, 3 Thread, 1 Template talk, and 1 Blog.
+- Two entries were already verified in earlier tranches (Lionel Halvidar, page 212; Interplanetary Trade Commission, page 216). The other 298 are new unique reads, including 4 formerly unverified pages: 21st Century, 22nd Century, Dylan J. Price, and Earth.
+- Created detailed notes at `research/page-notes/manifest-001-300.md`; updated the page ledger for all 300 manifest records.
+- Verified continuity leads: India Crisis date range differs between timeline and 22nd Century overview; Third Mexican War start date differs between war infobox and century/timeline overviews; Progress Party founding date differs between infobox and prose; WWIII end date has multiple source-stated conventions; Dylan J. Price birth date differs between infobox and prose; Earth Commonwealth establishment date differs between prose and infobox.
+- The 75 File-namespace records are description pages only; no underlying media were visually inspected. Media visual inspection remains 0/900.
+- Empty Wikitext: 14 records (12 File descriptions, 2 Message Walls). Redirects: 5 records.
+- Corrected prior Addendum C arithmetic: immediately before this tranche, the ledger had 63 unique `read` records (not 64). The cumulative count after this tranche is 361.
