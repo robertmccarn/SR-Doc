@@ -75,3 +75,17 @@
 - Detailed notes: `research/page-notes/manifest-901-1200.md`.
 - Updated cumulative ledger after this tranche: 1,248 read; 117 unverified_prior_claim; 2,214 not_started (3,579 total). Main namespace: 203/507 read (40.04%).
 
+
+
+## 2026-11-19 — All-namespace manifest tranche 1201–1500
+
+- Opened the user-supplied archive's original Bronze Wikitext for all 300 manifest entries 1201–1500, preserving manifest order and all namespaces.
+- Recomputed SHA-256 for each decoded UTF-8 source file and compared it with the manifest: 300/300 matched; zero mismatches.
+- Namespace distribution: Main 76; Talk 58; User 5; File descriptions 39; Templates 13; Categories 3; Message Wall 25; Thread 81.
+- Main namespace comprised 66 substantive pages and 10 redirects. All 300 Wikitext files were opened; 10 records were already read, 25 were unverified prior claims now reopened, and 265 were not started. This tranche adds 290 unique verified reads.
+- Detailed notes created at research/page-notes/manifest-1201-1500.md. The 66 substantive Main pages cover AIOS, EU/UN, presidential biographies/elections, Martian and Chinese conflicts, the Union Act, androids/de-extinction/QEM, party systems, Mexico and its presidents, planetary commonwealths, human subclades, India, orbitals, and Quebec.
+- Notable source-grounded leads: 2048 election infobox/prose conflict; India Crisis 2118 trigger chronology vs 2119–2126 infobox; Human claims 27 recognized subclades but lists 10; Squirrel Wars names the Constitution as IV-103 in one passage and ISV-03 in another; Luis Zepeda's multi-term chronology; New Revolution Party color-template example mismatch.
+- 41 source Wikitext pages are empty: 13 File descriptions, 25 Message Walls, and 3 Talk comments. These still count as opened/read source records; their emptiness is recorded.
+- Reviewed 58 Talk comments and 81 Thread records. These provide authorial/editorial context (2160 cutoff, population scope, map geography, presidential succession, natural-born-citizen question, etc.) and are not automatically canon.
+- No actual media binaries were visually inspected. Visual inspection remains 0/900.
+- Ledger after tranche: 1538 read; 92 unverified_prior_claim; 1949 not_started; 269/507 Main pages read.
