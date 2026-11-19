@@ -508,3 +508,32 @@ The next 30 main-namespace entries are positions 211–240:
 Joseph Loveridge; Jupiter; K'lerin; Kahi'Umknovola; Khuzestan War; Korea; Korean reunification; Korean War (2017–2019); Korean War (2017–2021); Korean War (2018–2021); Lakota Republic; Late 2010s Recession; Latin American Union; Latvia; Latvian lats; Le'ma; League of Nations; Least Concern; Legislature of the European Union; Liberaccion Party (United States); Liberacion Party (United States); Liberal Party (United States); Lieutenant Governor of Maryland; Lionel Halvidar; Lise Duchesne; List of countries by population; List of countries by population, 2160; List of heads of state of Cameroon; List of heads of state of Mexico; List of Minyan Fauna.
 
 Continue to keep the unverified earlier pages and all non-main-namespace pages in the ledger. The next ordered tranche must not cause the remaining all-namespace work to be forgotten.
+
+
+# Addendum C — Main-namespace tranche 6
+## Appended 2026-11-19
+
+### C1. Verified work
+- Reopened the supplied `SR-Doc-Audit.zip` and re-derived main-namespace alphabetical positions 211–240 from the page manifest.
+- Directly opened and read all 30 original Bronze Wikitext files in that range, Joseph Loveridge through List of Minyan Fauna.
+- Also opened Population growth (page ID 2446) and Minya (page ID 2626) as contextual redirect targets.
+- No media were visually inspected.
+- Detailed notes: `research/page-notes/main-211-240.md`.
+
+### C2. Updated verified progress
+- 64 / 3,579 captured pages directly read (1.79%): 31 prior unique reads + 30 tranche pages + 2 new contextual targets + Vactrain was already included in the prior 31. The ledger records 64 unique read pages in total.
+- 180 earlier main-namespace entries remain `unverified_prior_claim`; do not count them.
+- 3,335 page records remain `not_started`.
+- Media visual inspection remains 0 / 900.
+- The page ledger is authoritative for per-record status: 64 `read`, 180 `unverified_prior_claim`, and 3,335 `not_started`.
+
+### C3. Important continuity leads
+- Korea chronology spans several distinct-looking conflicts: a 1950–1953 war, redirect titles from 2017–2021, and a reunification crisis beginning in 2026 and culminating in 2031.
+- Kahi'Umknovola's First Contact passage names IV-403 Endurance, then refers to Discovery's captain.
+- Jupiter's stated moon populations (300m combined), total population (340m), and 76% moon-resident share do not reconcile.
+- Lionel Halvidar's article dates Camp Navajo's triggering attack to 2 February 2133 but describes 15 April mobilization before giving that date later in the narrative.
+- Liberal Party founding date differs between infobox (2052) and prose (2029).
+- See the tranche note for detailed source wording and all additional issues.
+ 
+### C4. Next main-namespace tranche
+Positions 241–270: List of presidents of Brazil; List of recessions in the United States; List of Sophonts; List of states and territories of the United States; List of Third Mexican War weapons; List of World War III weapons; Lithuania; Little Cold War; Little Wall Street Affair; Liza Maheswaran; London; Lost Decade (China); Lower house; Luis Zepeda; Luna; Maastricht Treaty; Main Page; Maisie Luong; Malcolm Moreau; Mall; Market Crash of 2027; Mars; Mars Corporation; Martin O'Malley; Martin O'Malley (The Second Renaissance); Maya Garcia; Mediterranean Union; Member state of the European Union; Mercury; Mex-American Cold War.
