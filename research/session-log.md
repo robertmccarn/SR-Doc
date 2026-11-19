@@ -89,3 +89,18 @@
 - Reviewed 58 Talk comments and 81 Thread records. These provide authorial/editorial context (2160 cutoff, population scope, map geography, presidential succession, natural-born-citizen question, etc.) and are not automatically canon.
 - No actual media binaries were visually inspected. Visual inspection remains 0/900.
 - Ledger after tranche: 1538 read; 92 unverified_prior_claim; 1949 not_started; 269/507 Main pages read.
+
+
+## 2026-11-19 — All-namespace manifest tranche 1501–1800
+
+- Opened and read all 300 original Bronze Wikitext files at manifest entries 1501–1800, across all namespaces and in original manifest order.
+- Recomputed SHA-256 for every decoded UTF-8 source and compared it with the manifest: 300/300 matched; zero mismatches.
+- Namespace distribution: Main 80; Talk 47; File descriptions 50; Templates 72; Message Walls 12; Threads 39.
+- Main namespace contained 57 substantive pages and 23 redirects. Eight tranche entries were already read, 27 were unverified prior claims, and 265 were not started. The tranche adds 292 new unique verified reads.
+- Created detailed notes at research/page-notes/manifest-1501-1800.md and updated all 300 ledger rows.
+- Main coverage includes Deandre Garcia, Belt Pirate Wars, the US recession chronology, Sol system, Adrian Hayer, NASA, Mexican-American Cold War, Refreeze, Korean reunification, Second Renaissance, alien homeworlds, Great Reset, First Martian Revolution, Aztlan War, Russia, space elevators, Crisis of 2130, Balkan Crisis, Battle of Brazil, Sahara War, Korea, weapons inventories, O'Neil Ships, Argommi, presidential elections, and Arctic states.
+- Important continuity leads: Russia infobox 2139 vs prose 2138; 2130 collapse duration 2y3m vs Sep 2130–Dec 2134 dates and 52-month Crisis page; hidden sortable dates copied as 2018 in later recession rows; space-elevator count 13 by late 2140s vs more than 30 by the dawn of the 22nd century; 2060 election page retains 2056 infobox result fields while prose names Reed Chen; 2148 and 2152 election infobox issues; Argommi speciesbox taxon differs from the scientific name in the lead; and O'Neil ship fleet counts differ from the earlier Mars-colonization page.
+- 28 source Wikitext pages are empty: 16 File descriptions and 12 Message Walls. All are still marked read as empty source records.
+- Reviewed 47 Talk comments and 39 Thread records. Discussions preserve authorial explanations about page creation, real-world names, portraits, political party definitions, election population scaling, and the 2160 cutoff; they are editorial context, not automatically canon.
+- Reviewed 72 templates, including country-data, taxonomy, and organization-infobox code. All country-data flag aliases resolve to a File namespace title in the full manifest. No underlying media files were visually inspected.
+- Ledger after tranche: 1830 read; 65 unverified prior claims; 1684 not started; 341/507 Main pages read. Media remains 0/900 visually inspected.
