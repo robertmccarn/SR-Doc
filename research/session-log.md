@@ -48,3 +48,15 @@
 - Four File descriptions and one Message Wall page are empty. One template redirect: Template:Nts → Template:Number table sorting.
 - No actual media were visually inspected; media visual-inspection remains 0/900.
 - Cumulative ledger: 661 read, 174 unverified_prior_claim, 2,744 not_started (3,579 total).
+
+
+## 2026-11-19 — All-namespace manifest tranche 601–900
+
+- Opened the uploaded archive's original `bronze/manifests/pages.json` and directly opened/read all 300 Bronze Wikitext files at manifest entries 601–900, across every namespace.
+- Recomputed SHA-256 from each decoded source text and compared it to the corresponding manifest `raw_sha256`: 300/300 matched; zero mismatches.
+- Namespace composition: Template 161; Module 54; File descriptions 36; Main 20; Talk 15; User 2; Message Wall 6; Thread 6.
+- Before this tranche, the 300 ledger rows comprised 294 `not_started` and six `unverified_prior_claim`; none were already `read`. All 300 now have direct-read status. Detailed notes: `research/page-notes/manifest-601-900.md`.
+- Main-namespace source pages: United States presidential election, 2132; The Flood; Mars Corporation; Market Crash of 2027; Federal Republic of China; United Federation of China; Washington, D.C.; Revolutions of 2027; Second Mexican-American War; Guardiola Incident; Guardiola Foundation; Oscar Lachman; Carla Anderson; Thang Levin; First Nations War; Union Party (United States), plus four Main redirects.
+- Key leads: 2132 election infobox candidate shares total 94.3% and omit slot 3 despite prose describing six major candidates; Flood chronology sequences the 2039 Antarctic loss and 2041 peak inconsistently; Market Crash article's October 2027 opening date conflicts with its January 2027 crash narrative; MarsCorp page says first planetfall in 2023 while Mars page ID318 says crewed mission in 2026; Federal Republic of China page is largely TBA with historical infobox residue; Guardiola Foundation opening has an anomalous “early 2022” origin sentence; Oscar Lachman's displayed age 115 does not match 2021–2136 dates; First Nations War/Carla Anderson pages share the 2064–2067 war and 2073 Union Act account.
+- Seven File-description pages are empty, and all six Message Wall pages are empty. No underlying media were visually inspected.
+- Ledger after tranche: 961 `read`, 168 `unverified_prior_claim`, 2,450 `not_started` (3,579 total). Main namespace: 102/507 read. Media: 0/900 visually inspected.
