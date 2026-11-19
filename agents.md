@@ -623,3 +623,34 @@ Manifest entries 601–900. Continue all-namespace manifest order in 300-page ba
 
 ### F4. Next batch
 Continue with manifest entries 901–1200, in original manifest order, all namespaces.
+
+
+# Addendum G — All-namespace manifest tranche 901–1200
+## Appended 2026-11-19
+
+### G1. Verified work
+- Directly opened/read all 300 original Bronze Wikitext files at manifest entries 901–1200, all namespaces.
+- Recomputed SHA-256 for all 300 decoded source texts: 300/300 matched the manifest; zero mismatches.
+- Prior ledger status in the batch: 13 read, 51 unverified_prior_claim, 236 not_started. After this review, all 300 are read; this adds 287 unique verified reads.
+- Namespace composition: Main 114; Talk 74; File 46; Template 30; Module 21; Category 3; User 1; Message Wall 4; Thread 5; Board Thread 2.
+- Detailed notes: `research/page-notes/manifest-901-1200.md`.
+
+### G2. Progress
+- 1,248 / 3,579 read (34.87%); 117 unverified_prior_claim; 2,214 not_started.
+- Main namespace: 203 / 507 read (40.04%).
+- Media visual inspection remains 0 / 900. This tranche's 46 File descriptions are not visual inspections.
+- 82 redirects were reviewed (80 Main, one Template, one File); 17 source pages are empty (13 File descriptions, four Message Walls).
+
+### G3. Continuity leads
+- Intermarium's infobox geography says Americas while its prose describes Eastern Europe; the Allies of WWIII page lists it in a 2051–55 alliance although Intermarium's formal founding date is 2102.
+- Poland federation start date 2076 vs 2077.
+- Aztlan secession timeline/count wording; 2136 election infobox field says Vice President.
+- Liberal Party founding 2029 in prose vs 7 December 2052 in infobox.
+- Fifth Great Awakening's time span differs within the article.
+- Mars colonization anchors 2023 and 2026 conflict across Mars Corporation, Space Age, Mars, and colonization pages.
+- Venus commonwealth date 2137 precedes stated human-rated habitability 2140.
+- Olympus-class relativistic gun speed and firing/recovery figures conflict internally.
+- Further detail and article summaries are in the tranche note.
+
+### G4. Next batch
+Continue with manifest entries 1201–1500 in original manifest order, all namespaces.
