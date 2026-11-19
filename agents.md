@@ -564,3 +564,31 @@ Positions 241–270: List of presidents of Brazil; List of recessions in the Uni
 
 ### D4. Next ordered batch
 Manifest entries 301–600. Continue from the next 300 rows in the page ledger/manifest, not the main-namespace alphabetical list. Read every source directly and retain the all-namespace scope.
+
+
+# Addendum E — All-namespace manifest tranche 301–600
+## Appended 2026-11-19
+
+### E1. Verified work
+- Directly opened/read manifest entries 301–600 from their original Bronze Wikitext paths.
+- Independently recomputed SHA-256 for all 300 UTF-8 source texts; all matched the manifest raw_sha256 values.
+- Namespace composition: File descriptions 143; Templates 125; Modules 23; Main 4; User 3; Message Wall 1; Thread 1.
+- Two prior unverified claims (Conservative Party (United States), page 310; Evalyn Jacobi, page 317) were reopened and verified. No page in this tranche had already been credited as read. This tranche adds 300 unique verified reads.
+- Detailed notes: `research/page-notes/manifest-301-600.md`.
+
+### E2. Verified progress
+- Page ledger after this tranche: 661 read, 174 unverified_prior_claim, 2744 not_started (3579 total). This is 661 / 3,579 (18.47%) directly read.
+- Main namespace: 82 / 507 directly read (16.17%).
+- Media visual inspection remains 0 / 900. Reading File-namespace descriptions does not count as viewing the underlying media.
+
+### E3. Continuity and structural leads
+- Mars is called the second planetary commonwealth in its article, but the commonwealth list orders Earth, Luna, Mars (third).
+- Mars article says ITC was absorbed into the federal government in early 2133; ITC article page 216 gives dissolution 1 June 2134.
+- Earth page 272 says 145 states, while the commonwealth table lists 146.
+- Mars population 3,003,102,000 vs 3bn rounded; water coverage half vs 53%; executive constitutional officers described as independently elected and appointed/confirmed.
+- Mars admission date 4 July 2137 vs integration/statehood events in 2136; its page also describes 50 territories receiving statehood by 2134 and 500 states in 2160.
+- Commonwealth infobox template documentation and implementation disagree on StateAnthem/PlanetaryAnthem and Lieutenant Governor parameter names. European Association flag template alt text names South Australia.
+- See tranche note for details and exact source references.
+
+### E4. Next batch
+Manifest entries 601–900. Continue all-namespace manifest order in 300-page batches.
