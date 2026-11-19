@@ -60,3 +60,18 @@
 - Key leads: 2132 election infobox candidate shares total 94.3% and omit slot 3 despite prose describing six major candidates; Flood chronology sequences the 2039 Antarctic loss and 2041 peak inconsistently; Market Crash article's October 2027 opening date conflicts with its January 2027 crash narrative; MarsCorp page says first planetfall in 2023 while Mars page ID318 says crewed mission in 2026; Federal Republic of China page is largely TBA with historical infobox residue; Guardiola Foundation opening has an anomalous “early 2022” origin sentence; Oscar Lachman's displayed age 115 does not match 2021–2136 dates; First Nations War/Carla Anderson pages share the 2064–2067 war and 2073 Union Act account.
 - Seven File-description pages are empty, and all six Message Wall pages are empty. No underlying media were visually inspected.
 - Ledger after tranche: 961 `read`, 168 `unverified_prior_claim`, 2,450 `not_started` (3,579 total). Main namespace: 102/507 read. Media: 0/900 visually inspected.
+
+
+## 2026-11-19 — All-namespace manifest tranche 901–1200
+
+- Opened and read all 300 original Bronze Wikitext files in original manifest order 901–1200, across every namespace. Recomputed SHA-256 for each decoded source: 300/300 matched; zero mismatches.
+- Baseline ledger statuses for the tranche: 13 already read, 51 unverified_prior_claim, 236 not_started. All 300 rows are now marked read; this adds 287 new unique verified reads.
+- Namespace composition: Main 114; Talk 74; File descriptions 46; Templates 30; Modules 21; Category 3; User 1; Message Wall 4; Thread 5; Board Thread 2.
+- Main namespace: 34 substantive articles and 80 redirects. Main substantive pages include Poland, Intermarium, United States of Aztlan, Japan, 2136 election, David Castillo, Virtuals, Fifth Great Awakening, Augment Rights, Genetic Engineering, Earth Working Group, Armor, Non-Human Civil Rights, K'lerin, Mars colonization, Luna, Tel-bn, Venus, Israel, African Commonwealth, Moraks, European Association, Postnaturalism, Atlantis, Eternal Spring Revolt, USSF, Olympus-class dreadnought, Space Age, and Hypersonic Weapons, plus other short pages.
+- Important cross-source issues: Intermarium is listed as a WWIII affiliated grouping (2051–55) despite formal establishment in 2102; Poland federation start 2076 vs 2077; Aztlan secession chronology and state-count wording; Liberal Party 2029 vs 2052 founding; Fifth Great Awakening period alternatives; Mars 2023 vs 2026 mission chronology; Venus commonwealth admission 2137 before habitability 2140; Olympus relativistic projectile speed 275,359,373 m/s vs approx. 0.7c and six shots/minute vs >1-hour recovery.
+- 13 File-description pages and four Message Wall pages are empty. 82 redirects total (80 Main, one Template, one File). The Prime Minister of Cameroon redirect contains an appended editorial deletion comment.
+- Reviewed 74 Talk pages; notable editorial context includes timeline set at 2160, a distinction between brain transfer and mind-copying, Israel article divergence from another Wikia, and questions about Japanese media during wartime.
+- No actual media were visually inspected; visual inspection remains 0/900.
+- Detailed notes: `research/page-notes/manifest-901-1200.md`.
+- Updated cumulative ledger after this tranche: 1,248 read; 117 unverified_prior_claim; 2,214 not_started (3,579 total). Main namespace: 203/507 read (40.04%).
+
