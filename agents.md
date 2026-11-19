@@ -592,3 +592,34 @@ Manifest entries 301–600. Continue from the next 300 rows in the page ledger/m
 
 ### E4. Next batch
 Manifest entries 601–900. Continue all-namespace manifest order in 300-page batches.
+
+
+# Addendum F — All-namespace manifest tranche 601–900
+## Appended 2026-11-19
+
+### F1. Verified work and progress
+- Directly opened/read all 300 original Bronze Wikitext sources in manifest order 601–900, across all namespaces.
+- Recomputed SHA-256 for all 300 decoded texts: 300 matched manifest hashes; zero mismatches.
+- Before the tranche, the 300 rows were 294 `not_started` and six `unverified_prior_claim`; none were already credited as read. All 300 are now direct reads.
+- Namespace composition: Template 161; Module 54; File description 36; Main 20; Talk 15; User 2; Message Wall 6; Thread 6.
+- Detailed source notes: `research/page-notes/manifest-601-900.md`.
+
+### F2. Verified page progress
+- 961 / 3,579 pages read (26.85%); 168 unverified_prior_claim; 2,450 not_started.
+- Main namespace: 102 / 507 read (20.12%).
+- Media visual inspection: 0 / 900. The 36 File-description pages in this tranche do not count as viewing the corresponding assets.
+- Seven File-description Wikitext files are empty; all six Message Wall Wikitext files are empty.
+
+### F3. Main source leads
+- 2132 presidential election (ID 636): displayed candidate percentages total 94.3%; candidate slot 3 is absent although the prose says six major candidates; Halvidar's listed share is 37.5%.
+- The Flood (ID 637): chronology gives 2026 South Greenland event, 2039 Antarctic loss, and 2041 peak in an internally awkward sequence.
+- Market Crash of 2027 (ID 642): article says crash began 24 October 2027, but timeline narrates the market break on 4 January 2027.
+- Mars Corporation (ID 638): first planetfall 26 April 2023; previously read Mars article ID 318 gives a crewed mission in 2026.
+- Federal Republic of China (ID 649): 2108–2139 infobox but Foundation section is TBA and historic Republic of China infobox material remains.
+- Guardiola Foundation (ID 823): anomalous “In early 2022, a war with a show...” origin sentence.
+- Oscar Lachman (ID 896): birth 21 October 2021 and death 18 April 2136; infobox says age 115.
+- Carla Anderson (ID 902) and First Nations War (ID 911): shared 2064–2067 war narrative and 2073 Union Act annexation.
+- See tranche notes for full source summaries, vote arithmetic, conflict details, namespace inventory, and editorial talk-page leads.
+
+### F4. Next batch
+Continue with manifest entries 901–1200, in original manifest order, all namespaces.
