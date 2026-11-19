@@ -537,3 +537,30 @@ Continue to keep the unverified earlier pages and all non-main-namespace pages i
  
 ### C4. Next main-namespace tranche
 Positions 241–270: List of presidents of Brazil; List of recessions in the United States; List of Sophonts; List of states and territories of the United States; List of Third Mexican War weapons; List of World War III weapons; Lithuania; Little Cold War; Little Wall Street Affair; Liza Maheswaran; London; Lost Decade (China); Lower house; Luis Zepeda; Luna; Maastricht Treaty; Main Page; Maisie Luong; Malcolm Moreau; Mall; Market Crash of 2027; Mars; Mars Corporation; Martin O'Malley; Martin O'Malley (The Second Renaissance); Maya Garcia; Mediterranean Union; Member state of the European Union; Mercury; Mex-American Cold War.
+
+
+# Addendum D — All-namespace manifest tranche 1–300
+## Appended 2026-11-19
+
+### D1. Verified work
+- The next batch size is 300 captured source pages, in original manifest order, across all namespaces. Do not return to 30-page main-namespace-only tranches unless the user changes the instruction.
+- Directly opened/read manifest entries 1–300 from their original Bronze Wikitext paths.
+- Namespace composition: Template 163; File description 75; Main 17; User 16; Category 13; Board 5; MediaWiki 3; Message Wall 3; Thread 3; Template talk 1; Blog 1.
+- Two records were already directly reviewed (Lionel Halvidar, page 212; Interplanetary Trade Commission, page 216). This tranche therefore adds 298 unique page reads.
+- Detailed notes: `research/page-notes/manifest-001-300.md`.
+
+### D2. Corrected progress baseline
+- The page ledger immediately before this tranche contained 63 unique `read` records, 180 `unverified_prior_claim` records, and 3,336 `not_started` records. An arithmetic sentence in Addendum C saying 64 unique reads was incorrect; use the ledger as the source of truth.
+- After marking manifest entries 1–300 as read, the ledger contains 361 `read`, 176 `unverified_prior_claim`, and 3042 `not_started` records (3579 total).
+- Media visual inspection remains 0 / 900. File-description pages do not count as viewing media.
+
+### D3. Continuity leads
+- India Crisis: timeline 2119–26 vs 22nd Century politics list 2126.
+- Third Mexican War: infobox 2 February 2133 vs timeline/22nd Century invasion phase in 2134.
+- Progress Party: infobox 17 October 2023 vs prose 2060; merger successor UPP in 2155.
+- WWIII end date has multiple source-stated conventions (ceasefire, surrender, treaty).
+- Dylan J. Price birth date: 13 April 1985 in infobox vs 9 November 1985 in prose.
+- Earth Commonwealth establishment: prose 2136 vs infobox 4 July 2137.
+
+### D4. Next ordered batch
+Manifest entries 301–600. Continue from the next 300 rows in the page ledger/manifest, not the main-namespace alphabetical list. Read every source directly and retain the all-namespace scope.
