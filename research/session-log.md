@@ -12,3 +12,14 @@
 - Created the full page and media ledgers and source notes for this tranche.
 - Key leads captured: India Crisis 2118 opening events vs 2119–2126 infobox dates; Hong Kong currency mismatch; Intermarium geography mismatch; Hypersonic Weapons 2028 date after the 2113 Mexican Vacuum Command reference; 27 human subclades claimed vs ten table rows; Fadel/ITC election-year wording to cross-check.
 - No media were visually inspected in this tranche.
+
+
+## 2026-11-19 — Tranche 6 and continued source review
+
+- Reopened the uploaded archive and independently derived main-namespace alphabetical positions 211–240 from the page manifest.
+- Directly opened/read all 30 source pages: Joseph Loveridge; Jupiter; K'lerin; Kahi'Umknovola; Khuzestan War; Korea; Korean reunification; Korean War (2017–2019); Korean War (2017–2021); Korean War (2018–2021); Lakota Republic; Late 2010s Recession; Latin American Union; Latvia; Latvian lats; Le'ma; League of Nations; Least Concern; Legislature of the European Union; Liberaccion Party (United States); Liberacion Party (United States); Liberal Party (United States); Lieutenant Governor of Maryland; Lionel Halvidar; Lise Duchesne; List of countries by population; List of countries by population, 2160; List of heads of state of Cameroon; List of heads of state of Mexico; List of Minyan Fauna.
+- Opened two additional redirect targets outside the tranche: Population growth (page ID 2446) and Minya (page ID 2626).
+- Recorded redirects to absent archive targets (Korean Crisis, Early 2020s Recession, President of Mexico) and external Wikipedia targets without treating those targets as read.
+- Page ledger updated to 64 unique direct source reads, 180 unverified prior claims, and 3,335 not started.
+- Notable source leads: Jupiter population arithmetic; Kahi'Umknovola first-contact ship-name mismatch; Korea's 1950–53 war vs 2017–2021 redirect chain and 2026–2031 reunification chronology; Halvidar's February/April 2133 Camp Navajo sequence; Liberal Party 2029 vs 2052 founding dates; incomplete/empty Lakota Republic and fauna-list pages.
+- No media were visually inspected.
