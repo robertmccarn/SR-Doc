@@ -9,7 +9,7 @@ This folder contains audit ledgers and source-grounded notes. It does not change
 - The main-namespace review order is case-insensitive alphabetical title order. This is a sub-scope within the all-namespace audit, not a replacement for it.
 - Main-namespace positions 181–210 (Hivvir through Joaquín Andrade) have now been directly read. The target Vactrain (ID 2693) was also opened because Hyperloop redirects to it.
 - The earlier claim of 180/507 main-namespace pages reviewed remains unverified. It is not counted as verified progress.
-- The page ledger currently has 361 / 3,579 unique pages marked read (10.09%), 176 rows flagged as unverified prior claims, and 3,042 not started. The latest completed batch directly reviewed manifest entries 1–300 across all namespaces; two pages in that batch had already been read and were counted only once.
+- The page ledger currently has 661 / 3,579 unique pages marked read (18.47%), 174 rows flagged as unverified prior claims, and 2,744 not started. The latest completed batches directly reviewed manifest entries 1–300 and 301–600 across all namespaces.
 - The asset manifest has 900 records: 728 existing_verified, 171 downloaded_checksum_mismatch, and one failed record. The ZIP contains 899 physical files under bronze/assets (682 PNG, 160 JPG, 13 JPEG, 34 SVG, 6 GIF, 2 ICO, 1 WebP, and 1 file without an extension). One failed manifest record is consistent with the 899 non-failed records, but exact manifest-to-filename mapping still needs to be built.
 - No asset has been marked visually inspected in the reconstructed ledger. Checksum status and visual inspection are separate. Current visual-inspection progress: 0 / 900.
 
