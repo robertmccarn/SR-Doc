@@ -393,3 +393,13 @@ Matched first 300 media records against extracted image references in all 3,579 
 - The local Python process emitted an unrelated spreadsheet-runtime warmup traceback on stderr at startup, but the test process returned exit code 0 and all four assertions passed. This environmental warning is not treated as a retrieval test failure or success signal.
 - Updated RAG README, master register, and research README. No source archive bytes, Bronze/Silver data, canon pages, or SQLite binary committed. No merge, PR, or branch promotion.
 - Remaining: finish source-reviewed expected passages for the 20-question benchmark; assess contrast candidate recall/precision and reduce lexical noise; parse claim labels/infobox fields before attempting stronger contradiction classification.
+
+
+## 2026-11-20 — Repo-backed AI swap memory system established
+
+- Inspected the current branch root and confirmed there was no existing `.ai/` directory or competing swap file. Selected `.ai/swap.md` as the stable, compact handoff path.
+- Created `.ai/swap.md` with the active RAG workstream, verified baseline state, key files, durable working decisions, open questions, immediate next steps, and closeout checklist. It is explicitly a mutable handoff snapshot, not canon, source evidence, or a session diary.
+- Added section 12 to `research/continuity/DOCUMENTATION-GOVERNANCE.md`, defining memory boundaries, mandatory session-start reads, milestone/closeout updates, 150–300 line / under-20-KB target, freshness and conflict hierarchy, pruning, secrets prohibition, ownership, and the self-contained handoff contract.
+- Updated `agents.md` to require branch/HEAD verification and swap-file reading at session start. Linked the swap and standards from `research/README.md`; registered the system in the master research register.
+- Authority rule: actual Git state and immutable source evidence outrank the swap; permanent docs/code/tests outrank summaries; chat history and model memory are historical clues only.
+- No credentials or secrets were added. No Bronze/Silver data or canon changed. No merge, PR, or branch promotion.
