@@ -35,7 +35,7 @@ See the master register for definitions and interpretation limits. In particular
 - `lore-index/AGENT_NAVIGATION_GUIDE.md` — graph-first retrieval protocol.
 - `lore-index/RELATIONSHIP_MATRIX.md` — directional predicate definitions and temporal/contradiction rules.
 - `lore-index/schema.json` — machine-readable node/edge contract.
-- The graph completion script and validation report are committed. The corrected full graph/entity index are distributed as a ZIP artifact; see the lore-index README for counts and limitations.
+- The graph completion script, semantic infobox extractor, and validation reports are committed. The latest semantic graph/entity index are distributed as a ZIP artifact; see the lore-index README for counts and limitations.
 
 ## Corpus inventory and ledgers
 
