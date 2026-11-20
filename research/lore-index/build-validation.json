@@ -1,0 +1,34 @@
+{
+  "source_counts": {
+    "pages": 3579,
+    "parsed_links": 11462,
+    "year_mentions": 4447
+  },
+  "graph_counts": {
+    "nodes": 7073,
+    "edges": 15967,
+    "year_nodes": 456,
+    "predicates": {
+      "SUCCEEDED": 23,
+      "PRECEDED_BY": 23,
+      "HAS_COMBATANT": 6,
+      "PART_OF_CONFLICT": 5,
+      "TAKES_PLACE_IN": 1,
+      "WIKI_LINKS_TO": 11462,
+      "MENTIONS_YEAR": 4447
+    }
+  },
+  "validation": {
+    "duplicate_node_ids": 0,
+    "duplicate_edge_ids": 0,
+    "edges_with_missing_endpoints": 0,
+    "all_relation_records_preserved": true,
+    "all_timeline_records_preserved": true
+  },
+  "limitations": [
+    "Year mentions are not event dates.",
+    "One empty link target is preserved as unresolved.",
+    "58 infobox-derived edges are structured source claims, not adjudicated truth.",
+    "No transitive semantic edges are generated."
+  ]
+}
