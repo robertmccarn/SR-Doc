@@ -24,3 +24,12 @@ The supplied archive contains 3,579 Bronze Wikitext page records and a Silver ex
 - Every claim-bearing edge must preserve source page ID/title/path, revision, and a locator. `build-validation.json` records zero duplicate IDs and zero missing edge endpoints.
 
 The generated graph is a retrieval aid, not a canon rewrite or substitute for source verification.
+
+
+## Semantic extraction status — pass 001
+
+- `extract_infobox_edges.py` extracts conservative, source-grounded relationships from five recognized infobox templates.
+- `semantic-extraction-001.json` records the pass counts and limitations.
+- `RELATIONSHIP-MATRIX-SEMANTIC-001.md` documents the 58 added edges.
+- The graph package `SR-Doc-Lore-Graph-Semantic-001.zip` contains the expanded graph with 7,073 nodes and 16,025 edges (116 structured infobox edges).
+- Only exact linked field values resolving to main-namespace entity nodes are emitted; no plain-text alias resolution or transitive inference is performed.
