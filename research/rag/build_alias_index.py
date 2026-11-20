@@ -4,10 +4,10 @@ import argparse, json, re, sqlite3, zipfile
 from pathlib import PurePosixPath
 
 def title_key(value):
-    return re.sub(r"\\s+", " ", value.replace("_", " ").strip()).casefold()
+    return re.sub(r"\s+", " ", value.replace("_", " ").strip()).casefold()
 
 def archive_key(value):
-    return str(PurePosixPath(str(value).replace("\\\\", "/"))).lstrip("./")
+    return str(PurePosixPath(str(value).replace("\\", "/"))).lstrip("./")
 
 def main():
     ap=argparse.ArgumentParser()
@@ -20,7 +20,7 @@ def main():
             raise SystemExit("Index has no pages table; build the base FTS5 index first.")
         pages={r["page_id"]:dict(r) for r in db.execute("SELECT * FROM pages")}
         with zipfile.ZipFile(a.archive) as z:
-            manifest=json.loads(z.read("bronze\\\\manifests\\\\pages.json"))
+            manifest=json.loads(z.read("bronze\\manifests\\pages.json"))
             raw_by_id={str(x["page_id"]):x for x in manifest}
             infos={archive_key(i.filename):i.filename for i in z.infolist()}
             title_to_ids={}
@@ -36,7 +36,7 @@ def main():
                         source=infos.get(archive_key(record["raw_path"]))
                         if source:
                             raw=z.read(source).decode("utf-8","replace")
-                            hit=re.search(r"^\\s*#redirect\\s*\\[\\[([^]|]+)(?:\\|[^]]*)?\\]\\]",raw,re.I|re.M)
+                            hit=re.search(r"^\s*#redirect\s*\[\[([^]|]+)(?:\|[^]]*)?\]\]",raw,re.I|re.M)
                             if hit:
                                 target_title=hit.group(1).strip()
                                 ids=title_to_ids.get(title_key(target_title),[])
