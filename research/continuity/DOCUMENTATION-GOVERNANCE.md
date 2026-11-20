@@ -176,3 +176,77 @@ Before reporting a documentation task complete, confirm:
 ## 11. Change history
 
 - 2026-11-20 — Initial protocol established after consolidation of the research documentation system. It formalizes the stable roles of `agents.md`, README, master register, session log, detailed notes, ledgers, and historical archives.
+
+
+## 12. Repo-backed AI swap memory
+
+`.ai/swap.md` is the repository's compact, replaceable session handoff. It exists so a fresh AI window can resume without relying on chat history. It is not a second master register, a source of canon, or a substitute for code, tests, detailed research notes, or the append-only session log.
+
+### 12.1 Responsibility boundaries
+
+| Destination | Put here | Do not put here |
+|---|---|---|
+| `.ai/swap.md` | Active goal, verified branch/HEAD, current implementation state, recent milestone, durable working decisions, open questions/blockers, immediate next steps, key file pointers | Full findings, long excerpts, complete chronology, duplicate documentation, speculative facts presented as verified |
+| Permanent code/tests | Executable behavior, schemas, fixtures, automated regression tests, reproducible build logic | Temporary chat experiments or unreviewed scratch code |
+| Permanent research docs / ADRs | Durable architecture decisions, rationale, evidence, limitations, stable procedures, reviewed findings | Rapidly changing task queue or repeated session status |
+| Ledgers / machine-readable artifacts | Row-level source inventory, provenance, measurements, evaluation results | Narrative-only interpretation without schema |
+| `research/session-log.md` | Concise dated record of completed milestones and material corrections | Current task queue or full research notes |
+| Chat only / local scratch | Ephemeral brainstorming, throwaway calculations, uncommitted experiments, sensitive user-provided material that must not enter Git | Anything required for the next window to resume |
+
+If a decision is durable, promote it from swap memory into the relevant permanent document or an ADR. The swap should link to that durable record and retain only the concise current consequence.
+
+### 12.2 Read/update cadence
+
+**Session start (mandatory):**
+1. Verify repository, branch, and current HEAD from GitHub.
+2. Read `.ai/swap.md`.
+3. Read `agents.md` and this governance file; then read the master register, README, relevant permanent docs, and recent session-log entries.
+4. Treat swap statements as leads to verify, not unquestioned facts. Fetch relevant code/docs and inspect Git state before acting.
+
+**During work:**
+- Update swap after a major design decision, completed milestone, changed priority, newly discovered blocker, or significant branch/HEAD transition.
+- Update it before a long investigation likely to span context windows.
+- Keep the current next step actionable and bounded.
+
+**Session close / context handoff:**
+1. Verify current branch and HEAD.
+2. Record only the current state and decisions that a successor needs.
+3. Remove completed tasks from active steps; move durable outcomes to permanent docs/tests and session log as appropriate.
+4. Record test commands/results only when actually run, with environment and limitations where material.
+5. Re-fetch and verify all changed files.
+
+### 12.3 Format, size, and freshness
+
+- Keep `.ai/swap.md` concise: target 150–300 lines and preferably under 20 KB. Exceed only when necessary for a concrete handoff.
+- Use stable headings: mission/constraints, active workstream, current state, decisions, open questions/blockers, immediate next steps, recent repo state, closeout checklist.
+- Put a date and verified branch/HEAD at the top. A timestamp is a verification time, not an assertion that all listed facts were freshly retested.
+- Separate verified facts from hypotheses and unresolved questions.
+- Keep no more than one active primary workstream and a short ordered next-step list. Remove completed checklist items rather than retaining a growing diary.
+- Do not copy long outputs, source passages, or complete logs into swap memory. Link to permanent files.
+- Review freshness at every session start. If the file is stale, update it only after checking current repository state.
+
+### 12.4 Conflict resolution and authority
+
+When chat, swap, documentation, code, or Git disagree, use this order:
+1. Current Git branch/commit and actual repository contents for what is present now.
+2. Immutable Bronze captures/manifests for captured source facts.
+3. Reproducible tests/builds and derived artifacts for computed behavior.
+4. Current permanent protocols, schemas, ADRs, and detailed evidence docs for documented decisions/findings.
+5. Master register and README for reconciled summaries.
+6. `.ai/swap.md` for handoff hints and active task orientation.
+7. Chat history, model memory, and archived summaries for historical clues only.
+
+Never silently overwrite a discrepancy. Verify it, correct the appropriate authoritative artifact, and record a correction in the session log if material. Do not let a stale swap file override code or a fresh commit.
+
+### 12.5 Security and ownership
+
+- Never store API keys, passwords, access tokens, private keys, cookies, personal secrets, or confidential third-party data.
+- Store only repository-relevant operational context. Do not place personal profile details in swap memory.
+- The user owns scope, priorities, and approval of consequential actions. AI agents may update the swap and documentation within the user's standing repository instructions, but may not merge, open PRs, promote branches, or edit canon without explicit approval.
+- Before editing the swap, fetch its current version and SHA from the active branch. Do not make concurrent updates to the same file. After editing, fetch it again and verify the expected content.
+- If sensitive material is accidentally committed, do not merely erase it from the latest version; notify the user and follow the repository's incident/remediation process.
+
+### 12.6 Handoff prompt contract
+
+A new session must be able to resume from repository state alone. The prompt should direct the new agent to verify repository and branch, read `.ai/swap.md` and required governance documents, inspect current code and tests, reconcile stale status, then continue the next actionable task. It must not rely on pasted chat summaries as authority.
+
