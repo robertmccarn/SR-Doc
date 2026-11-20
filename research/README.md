@@ -36,7 +36,7 @@ See the master register for definitions and interpretation limits. In particular
 
 ## Research assistant / RAG
 
-The RAG workstream now includes a source-grounded answer protocol, evidence packet schema, 20-question evaluation seed, archive validator, section-aware chunk builder, SQLite FTS5 index builder, and evidence-packet search CLI. The initial build produced 7,598 unique chunks across 3,092 text-bearing pages, with metadata for all 3,579 page records. 487 records have no non-whitespace text, including three empty main-namespace pages. Default search is main namespace only; context namespaces require explicit inclusion. The packaged index is `SR-Doc-RAG-Index-001.zip`; detailed results are in `rag/chunk-build-report-001.json`. Retrieval smoke tests passed, but formal evaluation and alias resolution remain outstanding.
+The RAG workstream now includes a source-grounded answer protocol, evidence packet schema, 20-question evaluation seed, archive validator, section-aware chunk builder, SQLite FTS5 index builder, and evidence-packet search CLI. The initial build produced 7,598 unique chunks across 3,092 text-bearing pages, with metadata for all 3,579 page records. 487 records have no non-whitespace text, including three empty main-namespace pages. Default search is main namespace only; context namespaces require explicit inclusion. The packaged index is `SR-Doc-RAG-Index-001.zip`; detailed results are in `rag/chunk-build-report-001.json`, with smoke tests in `rag/retrieval-smoke-tests-001.json`. Formal evaluation and alias resolution remain outstanding.
 
 ## Lore graph/index
 
