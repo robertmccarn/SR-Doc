@@ -796,3 +796,13 @@ Cumulative: 600/900 visually reviewed; 600/899 mapped; 531 exact matches; 69 mis
 Reviewed manifest entries 601–900 in original order. Mapped 299/300 physical assets; entry 815 (page ID 3525, File:K8ch1z55ucnz.png) is the sole failed/missing source asset. Recomputed SHA-1 and byte size: 197 exact matches and 102 mismatches. All 299 available assets decoded/parsed (183 PNG, 94 JPG, 11 JPEG, 7 SVG, 2 GIF, one ICO, one WEBP); zero decode failures. All 299 were visually reviewed across 12 contact sheets. No obvious corruption at thumbnail scale. Entry 833 appears as a very thin horizontal strip and needs full-resolution inspection. See research/media-notes/manifest-601-900.md and research/media-ledger.csv.
 
 Cumulative media reconciliation: 900 manifest records; 899 physical files found and visually reviewed; 728 exact matches; 171 mismatches; one failed/missing asset. Do not claim 900/900 visual review. Do not alter Bronze bytes or manifest values. Page corpus remains 3,579/3,579 read and SHA-256 verified. Next phase: cross-reference media against Wikitext, investigate discrepancies and entry 833, and synthesize cross-corpus continuity findings. Continue on audit/continuity-research; do not merge or open a PR without approval.
+
+
+# Addendum S — Cross-corpus media reconciliation tranche 1 (assets 1–300)
+## Appended 2026-11-20
+
+Compared media manifest entries 1–300 against extracted `images` references in the full 3,579-page manifest and searched raw Bronze Wikitext for exact/underscore-normalized filename mentions for assets without extracted references. 268/300 assets (89.3%) have exact extracted page references. Of the 32 without extracted references, six have raw filename mentions (including country-data template aliases/module data) and 26 have no discovered literal mention. A literal template parameter is not proof of rendered use; extracted metadata is not a fully expanded dependency graph.
+
+The global first-pass index has 933 distinct extracted image titles: 792 exact asset-title matches, 108 assets without an exact extracted reference, and 141 extracted image titles without an exact counterpart in the media manifest. These are investigation leads, not confirmed missing/orphaned assets. Notable alias leads: Flag of Taiwan.png vs New_Flag_of_Taiwan.png; Vietnam.png vs Flag_of_Vietnam.png; simplified Sudan/Chile/Bolivia files vs underscored country-data flag aliases; Xanthe Flag.png referenced as a template alias. Details and multiplicity counts are in research/media-notes/crossref-001-300.md.
+
+Next: cross-reference manifest entries 301–600 with the same distinction between extracted page references, raw/template mentions, and no discovered reference. Preserve Bronze sources; do not merge/open a PR without approval.
