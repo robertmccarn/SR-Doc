@@ -5,12 +5,12 @@ This folder contains source-grounded audit ledgers and notes. It does not alter 
 ## Current audit status — 2026-11-20
 
 - Page corpus: 3,579 manifest records; all 3,579 raw Wikitext paths are present in the supplied ZIP archive.
-- **Pages directly read and SHA-256 verified: 3,309 / 3,579 (92.46%).**
-- Ledger: **3,309 read; 25 unverified_prior_claim; 245 not_started.**
-- Main namespace: **446 / 507 read (87.97%).**
-- Latest completed tranche: manifest entries **3001–3300**, all namespaces; 300/300 SHA-256 matches; 299 new unique verified reads.
-- Latest detailed notes: [manifest-3001-3300.md](page-notes/manifest-3001-3300.md).
-- Next tranche: manifest entries **3301–3579** (final tranche; 279 records), preserving original manifest order.
+- **Pages directly read and SHA-256 verified: 3,579 / 3,579 (100.00%).**
+- Ledger: **3,579 read; 0 unverified_prior_claim; 0 not_started.**
+- Main namespace: **507 / 507 read (100.00%).**
+- Latest completed tranche: manifest entries **3301–3579**, all namespaces; 300/300 SHA-256 matches; 270 new unique verified reads.
+- Latest detailed notes: [manifest-3301-3579.md](page-notes/manifest-3001-3300.md).
+- All 3,579 page records are now complete. Next phase: media manifest reconciliation and binary asset inspection.
 - Media manifest: 900 records. The ZIP contains 899 physical files under `bronze/assets`; exact manifest-to-physical-filename reconciliation remains incomplete.
 - Binary media visual inspection: **0 / 900**. File-description Wikitext review and checksum verification are not visual inspection.
 
