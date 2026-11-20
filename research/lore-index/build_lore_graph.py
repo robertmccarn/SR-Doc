@@ -38,6 +38,8 @@ def main():
     # Preserve all parsed wiki-link records. The sole empty target is represented
     # by a stable unresolved placeholder, not silently discarded.
     for rel in relations:
+        if rel["id"] in edges:
+            continue
         pid = rel["from_page_id"]
         page = page_by_id[pid]
         target_title = rel.get("to_title") or ""
