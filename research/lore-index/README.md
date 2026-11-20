@@ -7,11 +7,11 @@ Version 1.0.0 design and navigation contract.
 - [AGENT_NAVIGATION_GUIDE.md](AGENT_NAVIGATION_GUIDE.md) — graph-first retrieval instructions.
 - [RELATIONSHIP_MATRIX.md](RELATIONSHIP_MATRIX.md) — predicate semantics, hub/matrix policy, and audit caveats.
 - [schema.json](schema.json) — machine-readable node/edge contract.
-- Generated datasets to be added after the build is validated: `ENTITY_INDEX.md`, `entity_index.json`, `relationship_graph.json`, and `diagnostics.json`.
+- The validated prototype package includes `ENTITY_INDEX.md`, `entity_index.json`, `relationship_graph.json`, `build_validation.json`, and `build_lore_graph.py`. The large graph JSON is currently distributed as a package artifact; the repository stores the reproducible completion script and validation report.
 
 ## Source inventory
 
-The supplied archive contains 3,579 Bronze Wikitext page records and a Silver extraction layer (`pages.jsonl`, `relations.jsonl`, `timeline.jsonl`). The Silver relation inventory contains 11,462 parsed link records; the year timeline contains 4,447 year mentions. These are extraction-layer counts, not counts of semantic in-world relationships.
+The supplied archive contains 3,579 Bronze Wikitext page records and a Silver extraction layer (`pages.jsonl`, `relations.jsonl`, `timeline.jsonl`). The Silver relation inventory contains 11,462 parsed link records; the year timeline contains 4,447 year mentions. The corrected graph preserves all 11,462 links and all 4,447 year mentions, including non-main namespaces. It contains 7,073 nodes and 15,967 edges, including 456 explicit year-token nodes. These are extraction-layer counts, not counts of semantic in-world relationships.
 
 ## Evidence safeguards
 
@@ -21,6 +21,6 @@ The supplied archive contains 3,579 Bronze Wikitext page records and a Silver ex
 - Year mentions are not event dates or temporal validity intervals.
 - Preserve source contradictions. Do not resolve aliases or merge entities unless evidence supports the identity match.
 - Do not generate transitive semantic edges without validating every hop.
-- Every claim-bearing edge must preserve source page ID/title/path, revision, and a locator.
+- Every claim-bearing edge must preserve source page ID/title/path, revision, and a locator. `build-validation.json` records zero duplicate IDs and zero missing edge endpoints.
 
 The generated graph is a retrieval aid, not a canon rewrite or substitute for source verification.
