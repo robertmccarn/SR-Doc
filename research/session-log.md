@@ -140,3 +140,21 @@
 - Media visual inspection remains 0/900. The ZIP has 899 physical asset files and the asset manifest has 900 records; file-description review does not count as visual inspection.
 - Next tranche: manifest entries 2401–2700.
 
+
+
+## 2026-11-20 — All-namespace manifest tranche 2401–2700
+
+- Used the user-provided SR-Doc-Audit.zip from the project Library as the authoritative Bronze archive.
+- Read all 300 raw Wikitext files at manifest entries 2401–2700 in original manifest order.
+- Recomputed SHA-256 for each raw UTF-8 source and compared it with pages.json: 300/300 matched; zero mismatches. Combined raw Wikitext size was 103,148 bytes.
+- Baseline ledger statuses: 3 read, 7 unverified_prior_claim, 290 not_started. All 300 are now marked read; 297 new unique verified reads.
+- Namespace distribution: Talk 80; File 79; Template 63; Thread 39; Main 21; Message Wall 9; User 9.
+- Main namespace includes United States Congress, Constructors, Biotech bubble, Biorobotics boom, Velminyak, Minya, Equoloa, Umknovola, Alexander Moreau (redirect), List of Minyan Fauna (redirect with residual blank taxonomy list), Malcolm Moreau, Vactrain, Sovereign Citizen's Alliance, Tuareg Union, Planetary Guard, Project Rebirth, Brazil, Sushi and Apple Pie, Second Biotech Boom (redirect), Europans, and The Microcontinents: A Natural History.
+- All 21 Main pages were read; three were already read, adding 18 newly verified Main pages. Main namespace is now 431/507.
+- Eight redirects reviewed: three Main and five country-data Template redirects. All 54 country-data flag aliases in the tranche resolve to File-page titles in the full manifest after underscore/space normalization.
+- File namespace: 76/79 descriptions are zero-byte; three nonempty descriptions are Tenere Flag, Brazos Flag 1, and RandPaulAgedByPhojoedotcom. Nine Message Walls are empty. Nine User pages are generic profile placeholders.
+- Talk/Thread records preserve discussions about Minya's Gliese 581 identity and climate, the Luna/Outer Space Treaty, de-extinction, biological plausibility of the Nemo Station Incident, the Hivvir Earth/Ivrilu correction, US political institutions, Space Force, community disputes, and limits on Mexican/Japanese extrasolar colonization. Editorial context is not automatically canon.
+- Significant continuity issues: SCA 2029 defeat vs 2031 end date; Palm Beach/Palm Springs and Michael/Mike Wallace variants; Tuareg Union infobox's Mexican coat of arms; US Congress state vs planetary-commonwealth Senate terminology; Biotech Bubble 2042–2045 vs Biorobotics Boom 2061–2065; Minya size ambiguity and Gliese 581 decision; Brazil's US border statement; Malcolm Moreau birth/name/book-list discrepancies; Project Rebirth's bionic/genetic chronology; Europan taxonomy/personhood; and the thread constraint that Mexico had not reached Dorado.
+- Detailed notes: research/page-notes/manifest-2401-2700.md.
+- Cumulative page ledger: 2713 read; 29 unverified prior claims; 837 not started (3,579 total). Main namespace: 431/507. Media visual inspection remains 0/900; no binary media was visually inspected.
+- Next tranche: manifest entries 2701–3000.

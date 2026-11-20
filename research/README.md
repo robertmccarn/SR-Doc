@@ -6,11 +6,11 @@ This folder contains source-grounded audit ledgers and notes. It does not alter 
 
 - Page corpus: 3,579 manifest records; all 3,579 raw Wikitext paths are present in the supplied ZIP archive.
 - **Pages directly read and SHA-256 verified: 2,416 / 3,579 (67.50%).**
-- Ledger: **2,416 read; 36 unverified_prior_claim; 1,127 not_started.**
-- Main namespace: **413 / 507 read (81.46%).**
-- Latest completed tranche: manifest entries **2101–2400**, all namespaces; 300/300 SHA-256 matches; 290 new unique verified reads.
-- Latest detailed notes: [manifest-2101-2400.md](page-notes/manifest-2101-2400.md).
-- Next tranche: manifest entries **2401–2700**, preserving original manifest order.
+- Ledger: **2,713 read; 29 unverified_prior_claim; 837 not_started.**
+- Main namespace: **431 / 507 read (85.01%).**
+- Latest completed tranche: manifest entries **2401–2700**, all namespaces; 300/300 SHA-256 matches; 297 new unique verified reads.
+- Latest detailed notes: [manifest-2401-2700.md](page-notes/manifest-2401-2700.md).
+- Next tranche: manifest entries **2701–3000**, preserving original manifest order.
 - Media manifest: 900 records. The ZIP contains 899 physical files under `bronze/assets`; exact manifest-to-physical-filename reconciliation remains incomplete.
 - Binary media visual inspection: **0 / 900**. File-description Wikitext review and checksum verification are not visual inspection.
 
@@ -50,6 +50,7 @@ The main-namespace alphabetical review is a useful sub-scope, not a substitute f
 - `page-notes/manifest-1501-1800.md`
 - `page-notes/manifest-1801-2100.md`
 - `page-notes/manifest-2101-2400.md`
+- `page-notes/manifest-2401-2700.md`
 
 ## Status definitions
 

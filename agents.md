@@ -703,3 +703,21 @@ This tranche was retrieved from the repository's exact Bronze source paths liste
 - Editorial context includes Venus colonial population dispersal, O'Neil ships/counterweight asteroids as city-like rather than state-like, alternate-history Mexican victory scenario, creator preferences for insect scale and portraits, US federal hierarchy, alien settlement patterns, translation/copying restrictions, and an unresolved question about Turkish operations in neutral Iran. Treat Talk/Thread content as context, not automatically canon.
 - Cumulative ledger: 2,416 read; 36 unverified prior claims; 1,127 not started. Main namespace: 413/507 read. Next tranche: 2401–2700.
 - Continue on `audit/continuity-research`. Preserve Bronze source wording and all contradictions; do not edit Bronze captures, merge, or open a PR without user approval.
+
+
+# Addendum L — Manifest tranche 2401–2700
+## Appended 2026-11-20
+
+- Source: user-provided SR-Doc-Audit.zip in the project Library; used the archive's pages.json and exact raw Wikitext paths.
+- Read all 300 Bronze Wikitext records at manifest entries 2401–2700 in original manifest order, across all namespaces.
+- Recomputed SHA-256 for every raw UTF-8 source: 300/300 matched the manifest; zero mismatches. Combined source bytes: 103,148.
+- Baseline tranche ledger state: 3 read, 7 unverified_prior_claim, 290 not_started. All 300 now read; 297 newly source-verified.
+- Namespace distribution: Talk 80; File 79; Template 63; Thread 39; Main 21; Message Wall 9; User 9.
+- Main namespace: all 21 read; 18 newly verified. Main progress 431/507. The three already-read entries were Minya, List of Minyan Fauna, and Vactrain.
+- Eight redirects: three Main and five Template country-data aliases. All 54 country-data flag aliases found in this tranche match a File-namespace title in the full manifest after underscore-to-space normalization.
+- File descriptions: 76 empty and three nonempty. Nine Message Walls are empty; nine User pages are generic profile placeholders. No binary asset was visually inspected; media visual review remains 0/900.
+- Detailed notes: research/page-notes/manifest-2401-2700.md.
+- Major continuity leads: SCA 2029 defeat vs 2031 end date, Palm Beach/Palm Springs, Michael/Mike Wallace, 2029 flag adoption vs 2030–2031 filename; Tuareg Union Mexican coat-of-arms placeholder; Congress state/commonwealth representation; Biotech Bubble 2042–2045 vs Biorobotics Boom 2061–2065; Minya size ambiguity and Gliese 581 decision; Malcolm Moreau birth/name/book-list discrepancies; Vactrain performance and nationalization; Planetary Guard 2134 dissolution; Project Rebirth chronology; Brazil border/Cerrado claims; Europan taxonomy/personhood; and the Thread constraint that Mexico had not reached Dorado.
+- Talk and Thread are editorial/community context, not automatically canon. Preserve source contradictions and attribute proposals or corrections to their authors.
+- Cumulative ledger: 2713 read; 29 unverified_prior_claim; 837 not_started (3,579 total). Media visual inspection remains 0/900.
+- Next tranche: manifest entries 2701–3000. Continue on audit/continuity-research; do not alter Bronze captures, merge, or open a PR without user approval.
