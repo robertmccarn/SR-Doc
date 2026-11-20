@@ -28,7 +28,7 @@ Archive SHA-1 and byte size:
 | 303 | 1258 | Arch of Reunification.jpg | 315158 | 305779 | `0d260f151a46fc6e97613ad3a7b7a6f72752a185` |
 | 304 | 1259 | DMZ.jpg | 442870 | 415643 | `4352dc8a1c566eb50c032dd9fca93003524d51a2` |
 | 307 | 1313 | Cory Booker.jpg | 108627 | 108609 | `5463c3d07743bc7a5085b26e159c240c907b416f` |
-| 308 | 1338 | Atlas from boston dynamics.jpg | 50391 | 50373 | `114284ab0a1ab5b69216395fb952779993ae78` |
+| 308 | 1338 | Atlas from boston dynamics.jpg | 50391 | 50373 | `114284ab0a1ab5b69216395fb95277999383ae78` |
 | 331 | 1517 | Mindanao state flag.jpeg | 8368 | 8226 | `a2aa12667e0e60862786b3e3f61d37c673a8e6ba` |
 | 379 | 1840 | Assyrian Flag.jpg | 32602 | 32584 | `3401e557e6fdd5af2ff0602149a0f5bb8498f2a9` |
 | 549 | 2374 | Kirsten Gillibrand, official portrait.jpg | 31410 | 31392 | `241361214ae1bc40f68ee82eed4d1d6254186485` |
