@@ -220,3 +220,8 @@
 - Detailed notes: research/media-notes/manifest-301-600.md.
 - Cumulative media progress: 600/900 visual reviews; 600/899 physical files mapped; 531 exact matches; 69 mismatches; zero missing in the two reviewed tranches. The known failed manifest row (page ID 3525) remains outside the reviewed range.
 - Next: manifest entries 601–900.
+
+
+## 2026-11-20 — Media audit tranche 601–900
+
+Completed the final 300-record media tranche. Mapped 299 physical files; one failed/missing record at entry 815 (page ID 3525). 197 exact SHA-1/size matches and 102 mismatches. All 299 available assets decoded/parsed and reviewed in 12 contact sheets; no obvious corruption at thumbnail scale. Entry 833 is flagged for full-resolution inspection. Cumulative media audit: 899/900 available assets reviewed; 728 exact matches; 171 mismatches; one missing failed asset. Notes: research/media-notes/manifest-601-900.md. Next phase is cross-corpus asset-to-page reconciliation and continuity synthesis.
