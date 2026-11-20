@@ -365,3 +365,13 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Updated the evidence packet schema to permit `context` source classification. The search CLI defaults to main namespace to avoid treating community/editorial material as lore evidence.
 - Remaining work: exact title alias/redirect resolution, benchmark answer keys, retrieval recall/citation evaluation, and contradiction-focused search. Embeddings remain deferred.
 - No Bronze/Silver source bytes, manifests, canon pages, or audit ledgers were modified. No merge, PR, or branch promotion.
+
+
+## 2026-11-20 — RAG exact title and redirect resolution pass 001
+
+- Added `research/rag/build_alias_index.py` to derive exact title keys and direct redirect mappings from the captured Silver page inventory plus immutable Bronze Wikitext. Matching normalizes underscores/whitespace and case only; target IDs are assigned only when the exact normalized title is unique.
+- Extended `research/rag/search.py` with `--title`. A redirect query returns target-page evidence and retains source redirect page ID/title as `via_page_id`/`via_title`; ambiguous, unresolved, and unknown titles do not trigger fuzzy identity selection.
+- Built locally against the pinned archive: 3,764 title-key rows, 3,575 distinct normalized titles; 83 uniquely resolved redirects, 101 unresolved redirects, and one ambiguous redirect. Smoke tests: Main Page → Second Renaissance Wikia (84 → 2); File:180px-Gerald Ford.jpg → File:Gerald Ford.jpg (288 → 285); exact Third Chinese Civil War → page 1408; unknown title abstains.
+- Non-main-namespace title lookup is explicitly labelled as context/metadata. Ordinary lexical search remains main-namespace-only unless `--include-context` is supplied.
+- Limitations: direct `#REDIRECT [[target]]` parsing only; no redirect chains, fragments, namespace aliasing, interwiki resolution, fuzzy aliases, or automatic entity merging. The local index artifact was extended for testing; no SQLite binary was committed.
+- No Bronze/Silver bytes, manifests, or canon pages changed. No merge, PR, or branch promotion.
