@@ -229,3 +229,13 @@ The append-only session log deliberately retains chronology. It should not be re
 - Smoke-tested Main Page → Second Renaissance Wikia (page 84 → page 2), File:180px-Gerald Ford.jpg → File:Gerald Ford.jpg (page 288 → page 285), exact page title Third Chinese Civil War → page 1408, and an unknown title (abstains). Non-main namespace title results carry an explicit context warning.
 - Redirect targets are candidate navigation mappings, not merged entities. Unresolved/ambiguous redirects retain source identity; no fuzzy aliases or redirect-chain traversal is performed.
 - The base FTS5 index remains locally generated; the alias table is populated by running `build_alias_index.py` after `build_index.py`. No binary DB committed.
+
+
+## RAG — date-bearing contrast retrieval pass 001
+
+- Extended `research/rag/search.py` with lexical `--contrast` retrieval. It diversifies candidate passages across page IDs, adds further date-bearing passages, and returns heuristic date signals plus `contradiction_candidates` for review.
+- Candidate status is deliberately non-adjudicative. Multiple year ranges in one passage and differing dates across chunks are surfaced for source review; they are not automatically declared contradictions. The retrieval warning explicitly states that the feature does not determine semantic incompatibility or source correctness.
+- Added `research/rag/test_search.py`; four local regression checks passed against the uploaded version-002 SQLite index: exact title/page identity; the Second Chinese Civil War lead's 2027–2048 and 2105–2111 ranges; main-namespace default; explicit community-context opt-in.
+- Known example: page 1413, `Second Chinese Civil War`, contains infobox date 2027–2048 and a combatant block marked 2105–2111. The contrast query surfaces this same-passage multi-range candidate. The Third Chinese Civil War page 1408 is also returned for cross-page comparison.
+- Limitations: this is lexical candidate retrieval with heuristic date extraction, not a semantic claim parser or contradiction adjudicator. The 20-question benchmark still lacks fully reviewed evidence keys; no recall/precision score or reliability percentage is claimed.
+- Changed files: `research/rag/search.py`, `research/rag/test_search.py`, and this RAG documentation. No Bronze/Silver source data, canon, or binary database changed. No merge, PR, or branch promotion.
