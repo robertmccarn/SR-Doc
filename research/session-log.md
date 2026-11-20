@@ -210,3 +210,13 @@
 - Detailed mismatch register and visual notes: research/media-notes/manifest-001-300.md.
 - Media progress: 300/900 visual reviews; 300/899 physical files mapped; 243 exact, 57 mismatch, 0 missing in this tranche. One known failed manifest asset (page ID 3525) remains outside this tranche.
 - Next tranche: manifest entries 301–600.
+
+
+## Media audit tranche 2 — manifest entries 301–600 (2026-11-20)
+- Mapped all 300 records to physical files in original manifest order; 300/300 present.
+- Independently recomputed SHA-1 and byte size: 288 exact matches, 12 discrepancies; zero decode/parse failures.
+- Reviewed all 300 assets on 12 contact sheets (25 per sheet). Format distribution: 269 PNG, 14 SVG, 12 JPG, 3 GIF, 1 JPEG, 1 extensionless raster. No obvious blank/truncated/corrupt image at thumbnail scale.
+- Mismatches: indices 303, 304, 307, 308, 331, 379, 549–552, 556, 567. Full archive hashes and byte sizes recorded in the tranche note and media ledger. Larger size differences on Arch of Reunification, DMZ, Guadalupe Victoria, and Mars 2050 deserve provenance follow-up; several others are 18-byte deltas.
+- Detailed notes: research/media-notes/manifest-301-600.md.
+- Cumulative media progress: 600/900 visual reviews; 600/899 physical files mapped; 531 exact matches; 69 mismatches; zero missing in the two reviewed tranches. The known failed manifest row (page ID 3525) remains outside the reviewed range.
+- Next: manifest entries 601–900.
