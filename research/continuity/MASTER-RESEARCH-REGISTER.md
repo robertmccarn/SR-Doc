@@ -179,6 +179,14 @@ The append-only session log deliberately retains chronology. It should not be re
 - Added `research/lore-index/build_lore_graph.py` and `build-validation.json`. The full corrected graph and entity index are distributed in the corrected prototype ZIP; the large graph JSON has not yet been committed as a repository file.
 - This is still a graph completion pass over the first prototype, not a full rebuild of entity resolution or semantic extraction. Year mentions are not event dates; infobox edges remain source claims, not adjudicated truth.
 
+## Lore graph/index — semantic infobox expansion pass 001
+
+- Scanned all 507 main-namespace pages and identified 119 calls across five recognized templates: officeholder (29), military conflict (18), country (34), former country (33), and political party (5).
+- Extracted 113 exact wikilinked field candidates. Fifty-five equivalent claims were already present; 58 new edges were added: 29 `MEMBER_OF`, 11 `HAS_COMMANDER`, 10 `HAS_COMBATANT`, five `HOLDS_OFFICE_IN`, and three `HAS_STATED_RESULT`.
+- Expanded graph: **7,073 nodes; 16,025 edges; 116 structured infobox edges**. Validation: unique edge IDs and all endpoints resolve.
+- Added `research/lore-index/extract_infobox_edges.py`, `semantic-extraction-001.json`, and `RELATIONSHIP-MATRIX-SEMANTIC-001.md`.
+- Scope limitations: five of ten observed infobox template families modeled; 23 calls across election, government agency, company, military unit, and international-organization templates remain unmodeled. Only exact wikilinks are resolved; plain-text values are not guessed. Raw Wikitext parameters are inspected, not MediaWiki-rendered. Edges are source claims, not adjudicated canon.
+
 ## Next recommended work
 
 1. Review relevant Talk/Thread editorial discussions for the Chinese succession and civil-war chronology, distinguishing creator intent from canon text.
