@@ -87,7 +87,7 @@ def main():
     db.executemany('INSERT INTO chunk_fts(chunk_id,title,section_path,text) VALUES (?,?,?,?)',[(c['chunk_id'],c['title'],c['section_path'],c['text']) for c in chunks])
     db.commit(); db.close()
     page_ids={c['page_id'] for c in chunks}
-    report={'status':'PASS','archive_sha256':archive_hash,'page_records':len(pages),'silver_page_records':len(silver),'chunks':len(chunks),'unique_chunk_ids':len(seen),'pages_in_metadata_table':len(pages),'pages_with_text_chunks':len(page_ids),'pages_without_text_chunks':[{'page_id':str(p['page_id']),'title':p['title'],'namespace':p.get('namespace')} for p in pages if str(p['page_id']) not in page_ids],'namespace_counts':{},'fts5':'built','errors':[],'chunk_target_chars':CHUNK_TARGET,'chunk_overlap_chars':CHUNK_OVERLAP}
+    report={'status':'PASS','archive_sha256':archive_hash,'page_records':len(pages),'silver_page_records':len(silver),'chunks':len(chunks),'unique_chunk_ids':len(seen),'pages_in_metadata_table':len(pages),'pages_with_text_chunks':len(page_ids),'pages_without_text_chunks_count':sum(str(p['page_id']) not in page_ids for p in pages),'main_namespace_pages_without_text_chunks':[{'page_id':str(p['page_id']),'title':p['title']} for p in pages if p.get('namespace')==0 and str(p['page_id']) not in page_ids],'namespace_counts':{},'fts5':'built','errors':[],'chunk_target_chars':CHUNK_TARGET,'chunk_overlap_chars':CHUNK_OVERLAP}
     for c in chunks: report['namespace_counts'][str(c['namespace'])]=report['namespace_counts'].get(str(c['namespace']),0)+1
     Path(a.report).write_text(json.dumps(report,indent=2)+'\n',encoding='utf-8')
     print(json.dumps(report,indent=2))
