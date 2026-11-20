@@ -200,3 +200,13 @@
 - No binary assets visually inspected. This tranche includes 90 File namespace records; 46 descriptions empty, 44 nonempty.
 - Detailed notes: research/page-notes/manifest-3301-3579.md.
 - **Page corpus complete: 3,579 read; 0 unverified_prior_claim; 0 not_started. Main namespace 507/507.** Media visual inspection remains 0/900; next phase is media reconciliation/inspection and corpus-wide synthesis.
+
+
+## Media audit tranche 1 — manifest entries 1–300 (2026-11-20)
+- Mapped all 300 records to physical archive files in original manifest order; no missing files in this tranche.
+- Independently recomputed SHA-1 and byte size: 243 exact matches; 57 mismatches. All 300 decoded/parsed (230 PNG, 55 JPEG, 13 SVG/XML, one ICO, one GIF), with zero failures.
+- Visually reviewed all 300 at contact-sheet thumbnail scale (12 sheets, 25 per sheet). No obvious corrupt/truncated/blank asset. Potential follow-ups: Flag of Dubai appears plain red; Flag of Patagonia plain red/green; Hispaniola image is four plain color quadrants. These are unconfirmed design concerns, not declared errors.
+- 37 of the 57 mismatches are exactly 18 bytes smaller than manifest size, likely a metadata/comment difference; larger deltas need later provenance investigation. Do not alter Bronze bytes or manifest values.
+- Detailed mismatch register and visual notes: research/media-notes/manifest-001-300.md.
+- Media progress: 300/900 visual reviews; 300/899 physical files mapped; 243 exact, 57 mismatch, 0 missing in this tranche. One known failed manifest asset (page ID 3525) remains outside this tranche.
+- Next tranche: manifest entries 301–600.
