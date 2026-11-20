@@ -382,3 +382,14 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Corrected the preceding title/redirect resolver report: the builder's in-memory candidate list had 3,764 rows because it briefly staged an exact-title row plus a redirect-status row for redirect pages. The SQLite table has a `(title_key, page_id)` primary key and stores one final row per captured page. Verified database count is therefore **3,579 stored title-key rows**, across **3,575 distinct normalized titles**.
 - Redirect status counts remain unchanged: 83 uniquely resolved, 101 unresolved, and one ambiguous; 3,394 non-redirect exact-title records. The index package was regenerated with the corrected report.
 - This corrects the row-count statement in the immediately preceding session entry and RAG notes; no underlying source or mapping changed.
+
+
+## 2026-11-20 — RAG date-bearing contrast retrieval pass 001
+
+- Extended `research/rag/search.py` with `--contrast`: a lexical OR retrieval mode that expands the candidate pool, diversifies results across page IDs, then includes additional date-bearing chunks within the requested limit.
+- Evidence packets now include heuristic `date_signals` on returned passages and `contradiction_candidates` for passages with multiple distinct year ranges or multiple date-bearing chunks from one page. Candidate reasons and statuses explicitly require source review; no semantic contradiction or correct chronology is automatically asserted.
+- Confirmed example: page 1413 (`Second Chinese Civil War`) lead passage includes both 2027–2048 and 2105–2111. A contrast query surfaces it and also returns page 1408 (`Third Chinese Civil War`) for cross-page review.
+- Added `research/rag/test_search.py`. Four local regression checks passed against the uploaded version-002 SQLite index: exact title/page identity; same-passage multi-range candidate; main-namespace default; explicit context opt-in.
+- The local Python process emitted an unrelated spreadsheet-runtime warmup traceback on stderr at startup, but the test process returned exit code 0 and all four assertions passed. This environmental warning is not treated as a retrieval test failure or success signal.
+- Updated RAG README, master register, and research README. No source archive bytes, Bronze/Silver data, canon pages, or SQLite binary committed. No merge, PR, or branch promotion.
+- Remaining: finish source-reviewed expected passages for the 20-question benchmark; assess contrast candidate recall/precision and reduce lexical noise; parse claim labels/infobox fields before attempting stronger contradiction classification.
