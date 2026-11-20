@@ -1,6 +1,6 @@
 # RAG readiness and implementation plan
 
-**Status:** Read-only lexical retrieval prototype implemented; exact-title and captured-redirect resolution added (2026-11-20). No hosted retrieval service is claimed.
+**Status:** Read-only lexical retrieval prototype implemented; exact-title/redirect lookup and date-bearing contrast retrieval are available (2026-11-20). No hosted retrieval service is claimed.
 **Working branch:** `audit/continuity-research`
 **Goal:** Make SR-Doc usable as a portable, source-grounded retrieval corpus for ChatGPT and later applications.
 
@@ -190,7 +190,7 @@ Do not report a reliability percentage until the test set is fixed and answers a
 - [ ] Load the versioned graph package as optional sidecar.
 - [ ] Implement entity resolution and bounded graph expansion.
 - [ ] Add embeddings only if evaluation shows lexical retrieval gaps.
-- [ ] Retrieve competing evidence for contradictions and date conflicts.
+- [x] Add a first-pass date-bearing contrast mode that diversifies lexical results across pages and flags multiple year ranges in one passage as review candidates. This is retrieval support, not semantic contradiction adjudication.
 - [ ] Preserve predicate direction and edge provenance.
 
 ### Phase 4 — ChatGPT workflow
@@ -200,7 +200,7 @@ Do not report a reliability percentage until the test set is fixed and answers a
 - [ ] Validate citations and abstention behavior manually.
 
 ### Phase 5 — Evaluation and iteration
-- [ ] Author and review the 20-question benchmark.
+- [ ] Complete source-reviewed expected evidence and answer keys for all 20 benchmark cases.
 - [ ] Score retrieval and answer quality separately.
 - [ ] Fix corpus/chunk/retrieval failures before tuning prompts.
 - [ ] Record failure examples and regression tests.
@@ -276,3 +276,14 @@ This plan describes intended work. A checked box means the artifact or decision 
 - Build after base index: `python research/rag/build_alias_index.py SR-Doc-Audit.zip --db srdoc_fts5.sqlite`. Example: `python research/rag/search.py --title "Main Page" --db srdoc_fts5.sqlite --json`.
 - Local archive test: 3,579 title-key rows and 3,575 distinct normalized titles; 83 redirects uniquely resolved, 101 unresolved, one ambiguous. Smoke tests: Main Page → Second Renaissance Wikia (84→2); File:180px-Gerald Ford.jpg → File:Gerald Ford.jpg (288→285); exact Third Chinese Civil War → page 1408; unknown title abstains.
 - Limitations: first direct `#REDIRECT [[target]]` only. No redirect chains, fragments, namespace aliases, interwiki redirects, malformed syntax recovery, fuzzy matching, or automatic entity merging. Non-main namespace results are labelled context. No Bronze/Silver source bytes changed; SQLite remains a generated artifact.
+
+
+## 13. Contrast retrieval — pass 001
+
+- Extended `search.py` with `--contrast`. It retrieves a larger lexical candidate pool, first diversifies by page, then includes additional date-bearing passages within the result limit. Each evidence record carries heuristic `date_signals` extracted from the returned passage.
+- The first candidate detector flags passages containing multiple distinct year ranges and groups multiple date-bearing chunks from the same page. These are explicitly marked `requires_source_review`, `multiple_date_ranges_single_passage`, or `intra_page_date_variance`; the detector does not claim that differing dates are semantically incompatible and never adjudicates which source is correct.
+- Test case: `Second Chinese Civil War 2027 2048 2105 2111` retrieves page 1413 and its lead passage containing both `2027-2048` and `2105-2111`. This exposes the already-audited infobox inconsistency for review.
+- Added `test_search.py`; four regression checks passed locally against the uploaded version-002 SQLite index: exact title/page identity; same-passage competing year-range candidate; default main-namespace restriction; explicit context opt-in.
+- Limitations: lexical OR retrieval can return loosely related pages; date regex is heuristic and does not parse infobox field labels or distinguish event dates from publication dates. Candidate recall/precision has not been benchmarked. No reliability percentage is claimed.
+- Example: `python research/rag/search.py "Second Chinese Civil War 2027 2048 2105 2111" --contrast --db srdoc_fts5.sqlite -k 16 --json`.
+- No Bronze/Silver source bytes or canon pages changed. The local SQLite database remains a generated artifact; no binary DB is committed.
