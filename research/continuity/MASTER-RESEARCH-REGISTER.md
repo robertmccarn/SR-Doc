@@ -170,6 +170,15 @@ The append-only session log deliberately retains chronology. It should not be re
 - Full graph/index generation and validation remain pending repository integration. Do not describe the graph JSON or entity index as committed until the generated artifacts are present and fetched back from GitHub.
 - This initiative is an indexing layer only; it does not modify canon or resolve existing continuity conflicts.
 
+## Lore graph/index initiative — corrected extraction coverage
+
+- Initial graph prototype was audited against the exact Silver JSONL source records. The earlier displayed count of 117 category nodes was incorrect; the prototype contains 116.
+- The prototype omitted one parsed wiki-link record because its target title was empty. It also emitted only main-namespace year mentions (3,665 of 4,447), and lacked explicit year-token nodes, leaving all 3,665 year edges with unresolved endpoints.
+- Corrected build restores all 11,462 parsed link records, retaining the empty target as an unresolved placeholder; replaces aggregated year edges with all 4,447 source timeline records across namespaces; and adds 456 year-token nodes.
+- Corrected graph totals: **7,073 nodes; 15,967 edges** (11,462 wiki links, 4,447 year mentions, 58 infobox-derived edges). Validation: zero duplicate node IDs, zero duplicate edge IDs, zero missing edge endpoints.
+- Added `research/lore-index/build_lore_graph.py` and `build-validation.json`. The full corrected graph and entity index are distributed in the corrected prototype ZIP; the large graph JSON has not yet been committed as a repository file.
+- This is still a graph completion pass over the first prototype, not a full rebuild of entity resolution or semantic extraction. Year mentions are not event dates; infobox edges remain source claims, not adjudicated truth.
+
 ## Next recommended work
 
 1. Review relevant Talk/Thread editorial discussions for the Chinese succession and civil-war chronology, distinguishing creator intent from canon text.
