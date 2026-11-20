@@ -8,8 +8,8 @@ This folder contains source-grounded audit ledgers and notes. It does not alter 
 - **Pages directly read and SHA-256 verified: 3,309 / 3,579 (92.46%).**
 - Ledger: **3,309 read; 25 unverified_prior_claim; 245 not_started.**
 - Main namespace: **446 / 507 read (87.97%).**
-- Latest completed tranche: manifest entries **3001–3300**, all namespaces; 300/300 SHA-256 matches; 297 new unique verified reads.
-- Latest detailed notes: [manifest-3001-3300.md](page-notes/manifest-2701-3000.md).
+- Latest completed tranche: manifest entries **3001–3300**, all namespaces; 300/300 SHA-256 matches; 299 new unique verified reads.
+- Latest detailed notes: [manifest-3001-3300.md](page-notes/manifest-3001-3300.md).
 - Next tranche: manifest entries **3301–3579** (final tranche; 279 records), preserving original manifest order.
 - Media manifest: 900 records. The ZIP contains 899 physical files under `bronze/assets`; exact manifest-to-physical-filename reconciliation remains incomplete.
 - Binary media visual inspection: **0 / 900**. File-description Wikitext review and checksum verification are not visual inspection.
