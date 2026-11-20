@@ -9,12 +9,12 @@ ARCHIVE_HASH = 'd1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8
 CHUNK_TARGET = 1800
 CHUNK_OVERLAP = 180
 
-def norm(p): return str(PurePosixPath(str(p).replace('\\\\','/'))).lstrip('./')
+def norm(p): return str(PurePosixPath(str(p).replace('\\','/'))).lstrip('./')
 def sha(b): return hashlib.sha256(b).hexdigest()
 def load_jsonl(z, path):
-    return [json.loads(x) for x in z.read(path.replace('/','\\\\')).splitlines() if x.strip()]
+    return [json.loads(x) for x in z.read(path.replace('/','\\')).splitlines() if x.strip()]
 def heading_text(s):
-    return re.sub(r"'{2,5}", '', re.sub(r'\\[\\[([^]|]+)(?:\\|([^]]+))?\\]\\]', lambda m:m.group(2) or m.group(1), s)).strip()
+    return re.sub(r"'{2,5}", '', re.sub(r'\[\[([^]|]+)(?:\|([^]]+))?\]\]', lambda m:m.group(2) or m.group(1), s)).strip()
 def split_section(text, start, end, heading, base_meta):
     raw=text[start:end]
     if not raw.strip(): return []
@@ -22,8 +22,8 @@ def split_section(text, start, end, heading, base_meta):
     while cursor < len(raw):
         hard=min(len(raw), cursor+CHUNK_TARGET)
         if hard < len(raw):
-            cut=raw.rfind('\\n\\n', cursor+CHUNK_TARGET//2, hard)
-            if cut <= cursor: cut=raw.rfind('\\n', cursor+CHUNK_TARGET//2, hard)
+            cut=raw.rfind('\n\n', cursor+CHUNK_TARGET//2, hard)
+            if cut <= cursor: cut=raw.rfind('\n', cursor+CHUNK_TARGET//2, hard)
             if cut <= cursor: cut=hard
         else: cut=len(raw)
         piece=raw[cursor:cut]
@@ -40,7 +40,7 @@ def main():
     a=ap.parse_args(); archive=Path(a.archive); archive_hash=sha(archive.read_bytes())
     if archive_hash != ARCHIVE_HASH and not a.allow_unpinned_archive: raise SystemExit(f'Archive hash mismatch: {archive_hash}')
     with zipfile.ZipFile(archive) as z:
-        pages=json.loads(z.read('bronze\\\\manifests\\\\pages.json'))
+        pages=json.loads(z.read('bronze\\manifests\\pages.json'))
         silver={str(x['page_id']):x for x in load_jsonl(z,'silver/pages.jsonl')}
         infos={norm(i.filename):i.filename for i in z.infolist()}
         chunks=[]; seen=set(); errors=[]
@@ -72,9 +72,9 @@ def main():
                     part['chunk_id']=hashlib.sha256(identity.encode()).hexdigest()[:24]
                     if part['chunk_id'] in seen: errors.append(f'duplicate chunk id {part["chunk_id"]}')
                     seen.add(part['chunk_id']); chunks.append(part)
-        if errors: raise SystemExit('Build failed:\\n'+'\\n'.join(errors[:30]))
-    with open(a.chunks,'w',encoding='utf-8',newline='\\n') as f:
-        for row in chunks: f.write(json.dumps(row,ensure_ascii=False)+'\\n')
+        if errors: raise SystemExit('Build failed:\n'+'\n'.join(errors[:30]))
+    with open(a.chunks,'w',encoding='utf-8',newline='\n') as f:
+        for row in chunks: f.write(json.dumps(row,ensure_ascii=False)+'\n')
     db=sqlite3.connect(a.db); db.execute('PRAGMA journal_mode=DELETE')
     db.executescript('DROP TABLE IF EXISTS pages; DROP TABLE IF EXISTS chunks; DROP TABLE IF EXISTS chunk_fts; CREATE TABLE pages(page_id TEXT PRIMARY KEY,title TEXT,namespace INTEGER,revision_id TEXT,parent_revision_id TEXT,timestamp TEXT,source_path TEXT,source_sha256 TEXT,source_url TEXT,redirect INTEGER,source_class TEXT); CREATE TABLE chunks(chunk_id TEXT PRIMARY KEY,page_id TEXT,title TEXT,namespace INTEGER,revision_id TEXT,timestamp TEXT,source_path TEXT,source_sha256 TEXT,source_url TEXT,source_class TEXT,capture_id TEXT,section_path TEXT,char_start INTEGER,char_end INTEGER,text TEXT); CREATE VIRTUAL TABLE chunk_fts USING fts5(chunk_id UNINDEXED,title,section_path,text, tokenize="unicode61 remove_diacritics 2");')
     page_rows=[]
@@ -89,6 +89,6 @@ def main():
     page_ids={c['page_id'] for c in chunks}
     report={'status':'PASS','archive_sha256':archive_hash,'page_records':len(pages),'silver_page_records':len(silver),'chunks':len(chunks),'unique_chunk_ids':len(seen),'pages_in_metadata_table':len(pages),'pages_with_text_chunks':len(page_ids),'pages_without_text_chunks':[{'page_id':str(p['page_id']),'title':p['title'],'namespace':p.get('namespace')} for p in pages if str(p['page_id']) not in page_ids],'namespace_counts':{},'fts5':'built','errors':[],'chunk_target_chars':CHUNK_TARGET,'chunk_overlap_chars':CHUNK_OVERLAP}
     for c in chunks: report['namespace_counts'][str(c['namespace'])]=report['namespace_counts'].get(str(c['namespace']),0)+1
-    Path(a.report).write_text(json.dumps(report,indent=2)+'\\n',encoding='utf-8')
+    Path(a.report).write_text(json.dumps(report,indent=2)+'\n',encoding='utf-8')
     print(json.dumps(report,indent=2))
 if __name__=='__main__': main()
