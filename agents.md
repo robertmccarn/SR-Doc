@@ -768,3 +768,13 @@ Detailed notes: research/page-notes/manifest-3301-3579.md. Major continuity/QA i
 Talk/Thread sources are historical editorial context, not automatically canon. The 2020 discussions reveal point-of-divergence and COVID revision debates, candidate speculation, creator approval constraints, and community moderation around the 2160 cutoff.
 
 Next phase: reconcile the 900-record media manifest against physical archive files, investigate checksum/name mismatches, and visually inspect assets. Do not claim visual inspection until actually performed. Then synthesize cross-corpus continuity findings. Continue on audit/continuity-research; do not alter Bronze captures, merge, or open a PR without user approval.
+
+
+# Addendum P — Media audit tranche 1 (manifest 1–300)
+## Appended 2026-11-20
+
+Reviewed media manifest entries 1–300 in original order. Mapped every record to `bronze/assets/{page_id}-{filename}`; 300/300 physical files found. Recomputed SHA-1 and byte size independently: 243 exact matches and 57 mismatches. All 300 assets decoded/parsed: 230 PNG, 55 JPEG, 13 SVG/XML, one ICO, one GIF; zero failures. Contact-sheet visual triage covered all 300 (12 sheets, 25 each). No obvious corrupt/truncated/blank asset at thumbnail scale.
+
+37 mismatches are exactly 18 bytes smaller than the manifest, likely metadata/comment differences; remaining mismatches have larger deltas. Do not treat a checksum mismatch as proof of visual corruption. Do not modify Bronze bytes or manifest values. Potential unconfirmed design-review leads: Flag of Dubai appears plain red; Flag of Patagonia appears red/green bicolor; Hispaniola asset appears as four plain color quadrants. See `research/media-notes/manifest-001-300.md` for full mismatch SHA-1 register and notes.
+
+Progress: 300/900 visually reviewed; 300/899 physical files mapped; 243 exact; 57 hash/size mismatches; zero missing within this batch. One known failed manifest record remains: page ID 3525, `File:K8ch1z55ucnz.png`. Next batch is manifest entries 301–600. Keep visual inspection separate from Wikitext review, preserve manifest order, and do not merge/open a PR without user approval.
