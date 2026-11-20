@@ -10,7 +10,7 @@
 - Implementation plan: `research/rag/README.md` — staged architecture, corpus contract, retrieval design, evaluation criteria, risks, and next coding task.
 - Evidence transport: `research/rag/evidence-packet.schema.json` — JSON Schema 1.0 for portable retrieved evidence packets.
 - Evaluation seed: `research/rag/evaluation-set-001.md` — 20 candidate questions across direct facts, entity resolution, timelines, relationships, contradictions, and abstention. Not yet scored or fully source-keyed.
-- **Current status:** protocol/schema/evaluation seed and a read-only archive validator are committed. The supplied archive passed validation: SHA-256 `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`; 8,076 ZIP entries; 3,579/3,579 page source files present and hash-matched; 3,579 Silver pages, 11,462 relations, 4,447 timeline rows valid; 900 asset manifest records and 899 physical asset files. No lexical index or query service exists yet. Next: section-aware chunks and SQLite FTS5.
+- **Current status:** protocol/schema/evaluation seed, read-only archive validator, section-aware chunker, SQLite FTS5 index builder, and evidence-packet search CLI are committed. Archive SHA-256: `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`. Corpus: 3,579 page metadata rows, 7,598 unique chunks, 7,598 FTS rows; 3,092 pages have text chunks. 487 captured records have no non-whitespace text, including three empty main-namespace pages. Default search is main namespace only; context namespaces require explicit inclusion. Smoke tests passed; no benchmark score yet.
 
 ## Documentation governance
 
@@ -86,7 +86,7 @@ Independent raw-Wikitext scan found 441 distinct media-manifest titles in explic
 
 ### Research assistant / RAG
 - `research/rag/validate_archive.py` — read-only archive structure, page SHA-256, manifest count, and Silver JSONL validator.
-- `research/rag/archive-validation-001.json` — passing report for the supplied `SR-Doc-Audit.zip` snapshot.
+- `research/rag/archive-validation-001.json` — passing report for the supplied `SR-Doc-Audit.zip` snapshot.\n- `research/rag/build_index.py` — section-aware, provenance-preserving chunk and SQLite FTS5 builder.\n- `research/rag/search.py` — lexical search and schema-shaped evidence packet CLI.\n- `research/rag/chunk-build-report-001.json` — chunk coverage and index build results.
 - `research/continuity/RESEARCH-ASSISTANT-PROTOCOL.md` — normative answer and evidence-handling contract.
 - `research/rag/README.md` — architecture and staged implementation plan.
 - `research/rag/evidence-packet.schema.json` — machine-readable evidence packet schema.
