@@ -87,6 +87,7 @@ Independent raw-Wikitext scan found 441 distinct media-manifest titles in explic
 ### Research assistant / RAG
 - `research/rag/validate_archive.py` — read-only archive structure, page SHA-256, manifest count, and Silver JSONL validator.
 - `research/rag/archive-validation-001.json` — passing report for the supplied `SR-Doc-Audit.zip` snapshot.\n- `research/rag/build_index.py` — section-aware, provenance-preserving chunk and SQLite FTS5 builder.\n- `research/rag/search.py` — lexical search and schema-shaped evidence packet CLI.\n- `research/rag/chunk-build-report-001.json` — chunk coverage and index build results.
+- `research/rag/retrieval-smoke-tests-001.json` — initial lexical, page-ID, and namespace-safety smoke tests.
 - `research/continuity/RESEARCH-ASSISTANT-PROTOCOL.md` — normative answer and evidence-handling contract.
 - `research/rag/README.md` — architecture and staged implementation plan.
 - `research/rag/evidence-packet.schema.json` — machine-readable evidence packet schema.
