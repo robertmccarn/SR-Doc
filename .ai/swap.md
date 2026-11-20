@@ -1,7 +1,7 @@
 # SR-Doc — AI session swap memory
 
 > **Role:** Compact, repo-backed handoff snapshot for AI work. This file is mutable working memory, not canon, source evidence, or a chronological log.
- > **Last verified against GitHub:** 2026-11-20 (immediately before this swap refresh commit)
+> **Last verified against GitHub:** 2026-11-20 (immediately before this swap refresh commit)
 > **Branch:** `audit/continuity-research`
 > **Branch HEAD at last verification:** `ef0426be4e495d1579301b1ebfb38b0c622ef982`
 > **Maintainer:** User-directed SR-Doc workflow; agents may update this file under `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
