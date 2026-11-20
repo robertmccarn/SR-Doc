@@ -152,9 +152,9 @@ def main() -> int:
         report["errors"].append(f"Fatal validation error: {type(exc).__name__}: {exc}")
 
     report["status"] = "PASS" if not report["errors"] else "FAIL"
-    output = json.dumps(report, indent=2, ensure_ascii=False) + "\\n"
+    output = json.dumps(report, indent=2, ensure_ascii=False) + "\n"
     if args.report:
-        with open(args.report, "w", encoding="utf-8", newline="\\n") as f:
+        with open(args.report, "w", encoding="utf-8", newline="\n") as f:
             f.write(output)
     else:
         sys.stdout.write(output)
