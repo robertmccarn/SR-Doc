@@ -277,3 +277,15 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Both Chinese state infoboxes carry historical Republic of China event dates (1911–1949); UFC also says era=20th century; Federal Republic leaders are BLANK with 1912/1949 years and statistics are labelled 1912.
 - Association of East Asia is asserted as successor/integrator in Lost Decade and Federal Republic, but no substantive page under exact title was located in the reviewed corpus.
 - Full timeline and issue register: research/continuity/china-political-history-pass-001.md. Audit only; no edits to source pages or Bronze.
+
+
+## 2026-11-20 — Research documentation audit, consolidation, and refactor
+
+- Audited the current branch's principal agent-generated continuity documents: former 851-line `agents.md`, research README, session log, page/media ledgers, all tranche-note paths enumerated in the master register, three media cross-reference notes, dependency notes, and Chinese political-history note. Detailed tranche/evidence notes were retained rather than deleted or compressed.
+- Identified stale checkpoint statements in the former README and handoff (for example earlier 0/900, 300/900, 600/900 media progress and incomplete page/media status). Current reconciled status is now centralized: 3,579/3,579 page records read/hash-verified; 900 media records, 899 physical files; 728 exact SHA-1/size matches, 171 mismatches, one missing asset; 792 exact extracted media references, 11 literal-only mentions, 97 no discovered mention, 1,696 exact-reference edges.
+- Preserved the entire former `agents.md` verbatim at `research/continuity/agents-md-history-2026-11-20.md` before replacing `agents.md` with a concise operating guide. The archive is explicitly historical and non-authoritative where superseded.
+- Created `research/continuity/MASTER-RESEARCH-REGISTER.md` as the canonical evidence hierarchy, current status, definitions, note inventory, reconciled findings, caveats, and next-work register.
+- Rewrote `research/README.md` to remove contradictory checkpoint status and provide current navigation and definitions. Older `session-log.md` entries were not rewritten because the log is append-only; this dated entry explains which prior checkpoint claims are superseded.
+- Preserved all detailed tranche notes, ledgers, and thematic notes. No Bronze files, manifests, page ledgers, or media ledgers were modified in this documentation refactor.
+- Remaining limitation: this pass reviewed the principal research documentation and the named note inventory; it did not independently re-open all 3,579 Wikitext sources or re-run all 900 media computations. The canonical register records the existing audit results and preserves their original evidence notes.
+- No merge, PR, branch promotion, or canon edits. Branch remains `audit/continuity-research`.
