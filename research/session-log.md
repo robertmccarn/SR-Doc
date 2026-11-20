@@ -343,3 +343,13 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Updated the master register, research README, and agent guide to make the RAG workstream discoverable and set the next implementation priority to a read-only archive inventory/ingestion validator.
 - This is specification/governance implementation only. No runnable RAG ingestion, SQLite index, query service, embedding index, or answer verifier was built or tested. No reliability result is claimed.
 - No Bronze/Silver source data, manifests, canon pages, or audit ledgers were modified. No merge, PR, or branch promotion.
+
+
+## 2026-11-20 — RAG archive validator implemented and executed
+
+- Added `research/rag/validate_archive.py`, a read-only Python validator for the supplied archive. It checks required Bronze/Silver members, normalized ZIP path collisions, unique page IDs, all manifest-referenced page source paths, SHA-256 for each page source, JSONL parseability, expected record counts, and physical asset count.
+- Executed the validator against `/mnt/data/SR-Doc-Audit.zip`. Result: PASS; archive SHA-256 `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`; 8,076 ZIP entries; 3,579/3,579 page source files present and hash-matched; 3,579 Silver page rows, 11,462 relation rows, 4,447 timeline rows; 900 asset manifest rows; 899 physical asset files; zero errors or warnings.
+- Added `research/rag/archive-validation-001.json` as the machine-readable result for this exact archive snapshot.
+- Updated the RAG plan, master register, and research README: archive validation is complete; next is section-aware chunk extraction with provenance, followed by SQLite FTS5 lexical retrieval. Embeddings remain deferred until lexical retrieval is evaluated.
+- The validator is read-only and does not modify Bronze/Silver source files. The archive hash identifies this exact ZIP; a different ZIP must be validated and will produce its own report.
+- No canon edits, merge, PR, or branch promotion.
