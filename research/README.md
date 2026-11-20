@@ -7,9 +7,10 @@ This directory contains source-grounded audit ledgers, tranche evidence, depende
 
 ## Start here
 
-1. **[Master research register](continuity/MASTER-RESEARCH-REGISTER.md)** — canonical status, evidence hierarchy, reconciled counts, findings, full note inventory, and next work.
-2. **[Agent operating guide](../agents.md)** — concise instructions for future sessions.
-3. **[Session log](session-log.md)** — append-only chronology. Earlier entries are historical and may contain checkpoint counts superseded by later work.
+1. **[Documentation governance](continuity/DOCUMENTATION-GOVERNANCE.md)** — required protocol for all agent documentation changes.
+2. **[Master research register](continuity/MASTER-RESEARCH-REGISTER.md)** — canonical status, evidence hierarchy, reconciled counts, findings, full note inventory, and next work.
+3. **[Agent operating guide](../agents.md)** — concise instructions for future sessions.
+4. **[Session log](session-log.md)** — append-only chronology. Earlier entries are historical and may contain checkpoint counts superseded by later work.
 4. Detailed evidence is retained in the tranche and thematic notes listed below.
 
 ## Current verified status
@@ -68,6 +69,7 @@ See the master register for definitions and interpretation limits. In particular
 ### Continuity research
 
 - `continuity/china-political-history-pass-001.md` — Chinese civil-war/state-succession timeline and source-level contradictions.
+- `continuity/DOCUMENTATION-GOVERNANCE.md` — normative, self-referencing documentation maintenance protocol.
 - `continuity/MASTER-RESEARCH-REGISTER.md` — canonical synthesis and complete note inventory.
 - `continuity/agents-md-history-2026-11-20.md` — verbatim preservation of the former long `agents.md`; archival only, not current guidance.
 
