@@ -4,11 +4,14 @@ This file is the concise, current handoff for AI agents working on the research 
 
 ## Start here
 
-1. Read `research/continuity/DOCUMENTATION-GOVERNANCE.md` and follow it for every documentation change.
-2. Read `research/continuity/MASTER-RESEARCH-REGISTER.md` for canonical status, evidence hierarchy, inventories, reconciled counts, findings, and next steps.
-3. Read `research/README.md` for navigation and `research/session-log.md` for chronology.
-4. Read the relevant detailed tranche/continuity notes before extending an investigation.
-5. Verify current branch and latest file versions before writing. Do not rely on commit SHAs from old conversations.
+0. For lore-answer behavior, read `research/continuity/RESEARCH-ASSISTANT-PROTOCOL.md`.
+1. For RAG implementation status and next tasks, read `research/rag/README.md`.
+
+2. Read `research/continuity/DOCUMENTATION-GOVERNANCE.md` and follow it for every documentation change.
+3. Read `research/continuity/MASTER-RESEARCH-REGISTER.md` for canonical status, evidence hierarchy, inventories, reconciled counts, findings, and next steps.
+4. Read `research/README.md` for navigation and `research/session-log.md` for chronology.
+5. Read the relevant detailed tranche/continuity notes before extending an investigation.
+6. Verify current branch and latest file versions before writing. Do not rely on commit SHAs from old conversations.
 
 ## Mission
 
@@ -71,7 +74,7 @@ These counts and definitions are maintained in the master register. If new verif
 
 ## Current next work
 
-Follow the ordered recommendations in the master register. The immediate priority is Chinese political-history Talk/Thread context, canonical Association of East Asia title resolution, and a claim/evidence matrix for the Chinese succession. Do not jump to corrections before completing that evidence pass.
+Follow the ordered recommendations in the master register. The active implementation priority is the SR-Doc RAG readiness workstream: build a read-only archive inventory/ingestion validator, then section-aware source chunks and SQLite FTS5 lexical retrieval. The Chinese political-history Talk/Thread context and succession claim matrix remain outstanding research tasks; do not silently discard them.
 
 ## Reporting standard
 
