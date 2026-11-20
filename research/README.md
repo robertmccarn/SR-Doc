@@ -7,6 +7,9 @@ This directory contains source-grounded audit ledgers, tranche evidence, depende
 
 ## Start here
 
+- **[AI session swap memory](../.ai/swap.md)** — compact current-state handoff for fresh ChatGPT windows; verify its claims against Git.
+- **[Swap memory standards](continuity/DOCUMENTATION-GOVERNANCE.md#12-repo-backed-ai-swap-memory)** — required memory boundaries, update cadence, authority, and security rules.
+
 0. **[Research assistant protocol](continuity/RESEARCH-ASSISTANT-PROTOCOL.md)** — mandatory evidence, citation, contradiction, and abstention contract for lore answers.
 1. **[RAG implementation plan](rag/README.md)** — architecture and next build steps. A local read-only lexical retrieval prototype is implemented; exact-title/redirect lookup and date-bearing contrast retrieval are available.
 2. **[Evidence packet schema](rag/evidence-packet.schema.json)** — machine-readable handoff format.
