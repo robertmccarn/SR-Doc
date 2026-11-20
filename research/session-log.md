@@ -173,3 +173,17 @@
 - File descriptions only; no binary media visually inspected. Media review remains 0/900.
 - Detailed notes: research/page-notes/manifest-2701-3000.md.
 - Cumulative ledger: 3,010 read; 28 unverified_prior_claim; 541 not_started. Main namespace: 440/507. Next tranche: 3001–3300.
+
+
+## 2026-11-20 — All-namespace manifest tranche 3001–3300
+
+- Opened all 300 original Bronze Wikitext files at manifest entries 3001–3300 in original manifest order from SR-Doc-Audit.zip.
+- Recomputed SHA-256 for all 300 extracted byte sequences: 300/300 matched pages.json; zero missing files; zero mismatches. Combined raw Wikitext: 134,906 bytes.
+- Baseline ledger: 1 read, 3 unverified_prior_claim, 296 not_started. All now marked read; 299 newly source-verified unique reads.
+- Namespace distribution: Talk 143; Thread 58; File 46; User 18; Message Wall 17; Template 11; Main 7.
+- Empty Wikitext: 43 File descriptions and 17 Message Walls. Two Main redirects: Late 2010s Recession -> Early 2020s Recession; China -> United Federation of China.
+- Main sources reviewed: Vice President of the United States (62.7 KB; historical table with malformed/incomplete 2025–2037 tail); Planetary-Governor of Jupiter (five officeholders/terms from 2139 onward); Romania (stub); Eternal Spring Empire (20-day secession 4–24 Dec 2149); Hawthorne (Mars US state, 2160 population 15,242,901, rank 1st; incomplete metadata and apparent flag filename typo). Three prior claims were source-verified; Late 2010s Recession was already read.
+- Talk review leads: 2027 Revolutions leader fates; Korean reunification timing; Halvidar family deaths in Third Mexican-American War; timeline revision due COVID-19; competing Space Force rank proposals; Terran/Natural distinction; nine US commonwealths (eight planetary, one national); US geography table errors; MagRifle image lead; Mexican-American Cold War described as economic/strategic. Treat all Talk/Thread as historical editorial context, not automatically canon.
+- Media visual review remains 0/900. File descriptions are not visual inspection.
+- Detailed notes: research/page-notes/manifest-3001-3300.md.
+- Cumulative ledger: 3,309 read; 25 unverified_prior_claim; 245 not_started. Main namespace: 446/507. Next tranche: 3301–3579 (279 records; final tranche).
