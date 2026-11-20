@@ -8,7 +8,7 @@ This directory contains source-grounded audit ledgers, tranche evidence, depende
 ## Start here
 
 0. **[Research assistant protocol](continuity/RESEARCH-ASSISTANT-PROTOCOL.md)** — mandatory evidence, citation, contradiction, and abstention contract for lore answers.
-1. **[RAG implementation plan](rag/README.md)** — architecture and next build steps. The RAG service is not implemented yet.
+1. **[RAG implementation plan](rag/README.md)** — architecture and next build steps. A local read-only lexical retrieval prototype is implemented; exact-title and captured-redirect lookup are now available.
 2. **[Evidence packet schema](rag/evidence-packet.schema.json)** — machine-readable handoff format.
 3. **[Initial evaluation set](rag/evaluation-set-001.md)** — 20 candidate questions; not yet scored.
 
@@ -110,3 +110,8 @@ Talk, Thread, User, and other community namespaces are editorial/contextual evid
 6. Preserve detailed tranche notes; consolidate through indexing and cross-linking, not deletion.
 7. Update the master register and this README when status materially changes; append to the session log.
 8. No merge, PR, branch promotion, or canon edits without explicit user approval.
+
+
+### RAG retrieval update — 2026-11-20
+
+The local SQLite FTS5 prototype now supports exact page IDs, lexical main-namespace search, exact captured titles, and direct Wikitext redirect resolution. Run `build_alias_index.py` after the base index build to populate title/redirect keys. Redirect aliases preserve original page ID and target provenance; unresolved and ambiguous targets are not guessed. See [RAG implementation details](rag/README.md).
