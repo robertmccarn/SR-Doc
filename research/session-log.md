@@ -332,3 +332,14 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Packaged the expanded graph and entity index as `SR-Doc-Lore-Graph-Semantic-001.zip`.
 - Limitations retained: exact wikilinks only, five infobox families modeled, no template rendering, no plain-text alias resolution, no transitive edges, and no canon adjudication.
 - No Bronze/Silver source modifications, canon edits, PR, merge, or branch promotion.
+
+
+## 2026-11-20 — Research assistant protocol and RAG readiness specification
+
+- Added `research/continuity/RESEARCH-ASSISTANT-PROTOCOL.md` defining source classes, claim classifications, retrieval procedure, claim-level provenance, contradiction/time handling, abstention, answer verification, and prohibited behavior.
+- Added `research/rag/README.md` with a staged implementation plan, current asset/readiness inventory, source/chunk metadata contract, lexical-first retrieval architecture, evidence packet shape, 20-case evaluation categories, metrics, risks, and definition of done.
+- Added `research/rag/evidence-packet.schema.json` as a portable JSON Schema 1.0 contract for retrieval results.
+- Added `research/rag/evaluation-set-001.md` with 20 candidate questions spanning direct facts, entity resolution, chronology, relationships, contradictions, and abstention. It is an authoring seed, not a scored benchmark; expected source passages and page IDs still require review.
+- Updated the master register, research README, and agent guide to make the RAG workstream discoverable and set the next implementation priority to a read-only archive inventory/ingestion validator.
+- This is specification/governance implementation only. No runnable RAG ingestion, SQLite index, query service, embedding index, or answer verifier was built or tested. No reliability result is claimed.
+- No Bronze/Silver source data, manifests, canon pages, or audit ledgers were modified. No merge, PR, or branch promotion.
