@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "corpus_snapshot": "d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8",
+  "tests": [
+    {
+      "id": "SMOKE-001",
+      "mode": "lexical-main-namespace",
+      "query": "Third Chinese Civil War 2105",
+      "top_k": 5,
+      "expected_page_id": "1408",
+      "observed_top_result": {
+        "page_id": "1408",
+        "title": "Third Chinese Civil War",
+        "section": "First period of war (2105-2111)"
+      },
+      "result": "PASS"
+    },
+    {
+      "id": "SMOKE-002",
+      "mode": "exact-page-id",
+      "page_id": "1408",
+      "top_k": 5,
+      "observed_entity": {
+        "page_id": "1408",
+        "title": "Third Chinese Civil War",
+        "resolution_status": "exact"
+      },
+      "result": "PASS"
+    },
+    {
+      "id": "SMOKE-003",
+      "mode": "namespace-safety",
+      "query": "Third Chinese Civil War 2105",
+      "default_scope": "namespace 0 only",
+      "context_opt_in": "--include-context",
+      "result": "PASS"
+    }
+  ],
+  "limitations": [
+    "Smoke tests are not a formal retrieval benchmark.",
+    "Alias and redirect resolution are not implemented.",
+    "Contradiction recall and answer citation precision are not yet measured.",
+    "Search uses OR token matching; ranking and query expansion require evaluation."
+  ]
+}
