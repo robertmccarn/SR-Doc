@@ -225,3 +225,8 @@
 ## 2026-11-20 — Media audit tranche 601–900
 
 Completed the final 300-record media tranche. Mapped 299 physical files; one failed/missing record at entry 815 (page ID 3525). 197 exact SHA-1/size matches and 102 mismatches. All 299 available assets decoded/parsed and reviewed in 12 contact sheets; no obvious corruption at thumbnail scale. Entry 833 is flagged for full-resolution inspection. Cumulative media audit: 899/900 available assets reviewed; 728 exact matches; 171 mismatches; one missing failed asset. Notes: research/media-notes/manifest-601-900.md. Next phase is cross-corpus asset-to-page reconciliation and continuity synthesis.
+
+
+## 2026-11-20 — Cross-corpus reconciliation tranche 1 (assets 1–300)
+
+Matched first 300 media records against extracted image references in all 3,579 page-manifest records and searched raw Wikitext for filename literals where no extracted reference existed. 268 exact extracted references; 32 without, six of which have raw/template mentions and 26 with no discovered literal mention. Corpus-wide exact-title baseline: 792/900 assets referenced; 108 without extracted refs; 141 distinct page image titles without exact asset-manifest counterparts. These are leads, not confirmed orphan/missing records. Notes: research/media-notes/crossref-001-300.md. Next tranche: assets 301–600.
