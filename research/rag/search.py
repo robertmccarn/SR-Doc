@@ -32,7 +32,7 @@ def main():
     else:
         print(f"{len(evidence)} passages retrieved")
         for e in evidence:
-            print(f"\\n[{e['evidence_id']}] {e['title']} (page_id={e['page_id']}, ns={e['namespace']}, rev={e['revision_id']})")
+            print(f"\n[{e['evidence_id']}] {e['title']} (page_id={e['page_id']}, ns={e['namespace']}, rev={e['revision_id']})")
             print(f"Section: {e['section_path'][0]} | {e['locator']} | {e['source_path']}")
             print(e['text'][:1200])
     db.close()
