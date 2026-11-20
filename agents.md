@@ -4,14 +4,15 @@ This file is the concise, current handoff for AI agents working on the research 
 
 ## Start here
 
-0. For lore-answer behavior, read `research/continuity/RESEARCH-ASSISTANT-PROTOCOL.md`.
-1. For RAG implementation status and next tasks, read `research/rag/README.md`.
+0. Verify the active branch and HEAD, then read `.ai/swap.md` for the current cross-window handoff. Treat it as orientation, not authority; verify its claims against Git and source files.
+1. For lore-answer behavior, read `research/continuity/RESEARCH-ASSISTANT-PROTOCOL.md`.
+2. For RAG implementation status and next tasks, read `research/rag/README.md`.
 
-2. Read `research/continuity/DOCUMENTATION-GOVERNANCE.md` and follow it for every documentation change.
-3. Read `research/continuity/MASTER-RESEARCH-REGISTER.md` for canonical status, evidence hierarchy, inventories, reconciled counts, findings, and next steps.
-4. Read `research/README.md` for navigation and `research/session-log.md` for chronology.
-5. Read the relevant detailed tranche/continuity notes before extending an investigation.
-6. Verify current branch and latest file versions before writing. Do not rely on commit SHAs from old conversations.
+3. Read `research/continuity/DOCUMENTATION-GOVERNANCE.md` and follow it for every documentation change.
+4. Read `research/continuity/MASTER-RESEARCH-REGISTER.md` for canonical status, evidence hierarchy, inventories, reconciled counts, findings, and next steps.
+5. Read `research/README.md` for navigation and `research/session-log.md` for chronology.
+6. Read the relevant detailed tranche/continuity notes before extending an investigation.
+7. Verify current branch and latest file versions before writing. Do not rely on commit SHAs from old conversations.
 
 ## Mission
 
@@ -62,7 +63,8 @@ These counts and definitions are maintained in the master register. If new verif
 
 ## Repository notes and structure
 
-- `research/continuity/DOCUMENTATION-GOVERNANCE.md` — normative documentation maintenance protocol; read before editing any research documentation.
+- `.ai/swap.md` — compact cross-window session handoff; verify against actual Git state.
+- `research/continuity/DOCUMENTATION-GOVERNANCE.md` — normative documentation and swap-memory maintenance protocol; read before editing research documentation.
 - `research/continuity/MASTER-RESEARCH-REGISTER.md` — canonical master register; read first for current factual status.
 - `research/continuity/agents-md-history-2026-11-20.md` — verbatim archival copy of the old long handoff.
 - `research/README.md` — concise status/navigation.
