@@ -82,3 +82,10 @@ The 900-record asset manifest is being audited separately from page Wikitext. Ea
 - Detailed notes: `media-notes/manifest-001-300.md`.
 - Media visual review progress: 300/900 (33.33%). Physical assets mapped: 300/899. The failed manifest record for page ID 3525 is still unresolved.
 - Next: manifest entries 301–600, then 601–900. Preserve Bronze files and manifest values; investigate mismatches rather than silently replacing sources.
+
+
+### Tranche 2 — media manifest 301–600
+- 300/300 physical files mapped and visually reviewed; 288 exact SHA-1/size matches, 12 discrepancies, zero missing files and zero decode/parse failures.
+- Detailed notes and mismatch register: `media-notes/manifest-301-600.md`.
+- Cumulative visual review: 600/900 (66.67%); 600/899 physical assets mapped; 531 exact matches and 69 discrepancies. The failed asset at page ID 3525 remains unresolved.
+- Next: manifest entries 601–900.
