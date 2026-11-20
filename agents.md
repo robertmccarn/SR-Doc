@@ -721,3 +721,18 @@ This tranche was retrieved from the repository's exact Bronze source paths liste
 - Talk and Thread are editorial/community context, not automatically canon. Preserve source contradictions and attribute proposals or corrections to their authors.
 - Cumulative ledger: 2713 read; 29 unverified_prior_claim; 837 not_started (3,579 total). Media visual inspection remains 0/900.
 - Next tranche: manifest entries 2701–3000. Continue on audit/continuity-research; do not alter Bronze captures, merge, or open a PR without user approval.
+
+
+
+# Addendum M — Manifest tranche 2701–3000
+## Appended 2026-11-20
+
+All 300 Bronze Wikitext sources at manifest entries 2701–3000 were opened and read in original manifest order, across all namespaces. SHA-256 matched the archive manifest for all 300; zero missing sources and zero mismatches. Combined raw Wikitext size: 233,928 bytes. Baseline tranche status: 3 read, 1 unverified prior claim, 296 not started. This tranche adds 297 unique verified reads.
+
+Namespace distribution: File 105; Talk 91; Thread 47; Message Wall 16; User 16; Main 12; Template 12; Category 1. Empty Wikitext: 72 File descriptions and 16 Message Walls. Three redirects: List of countries by population -> Population growth; Zeus-class dreadnought -> Olympus-class dreadnought; Template:Progressive Democrat/meta/color -> Template:Progressive Democrat (United States)/meta/color.
+
+Main namespace progress: 440/507. Detailed notes are in research/page-notes/manifest-2701-3000.md. Major continuity work: The Great Experiment (London Conference 2138, Mexican absorption bill 2140, Fabian inauguration 2141), constitutional chronology, four-tier government, population-scope discrepancies, occupation/protectorate/free-association/annexation distinctions, Lachman-era political transformation, alternate-history isolation for Through a Dark Mirror, and incomplete Venezuela history.
+
+Talk/Thread is editorial context, not automatically canon. File descriptions are not binary media inspection. Media visual inspection remains 0/900.
+
+Cumulative ledger: 3,010 read; 28 unverified_prior_claim; 541 not_started (3,579 total). Next tranche: manifest entries 3001–3300. Continue on audit/continuity-research; do not alter Bronze captures, merge, or open a PR without user approval.
