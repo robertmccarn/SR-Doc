@@ -4,10 +4,11 @@ This file is the concise, current handoff for AI agents working on the research 
 
 ## Start here
 
-1. Read `research/continuity/MASTER-RESEARCH-REGISTER.md` for canonical status, evidence hierarchy, inventories, reconciled counts, findings, and next steps.
-2. Read `research/README.md` for navigation and `research/session-log.md` for chronology.
-3. Read the relevant detailed tranche/continuity notes before extending an investigation.
-4. Verify current branch and latest file versions before writing. Do not rely on commit SHAs from old conversations.
+1. Read `research/continuity/DOCUMENTATION-GOVERNANCE.md` and follow it for every documentation change.
+2. Read `research/continuity/MASTER-RESEARCH-REGISTER.md` for canonical status, evidence hierarchy, inventories, reconciled counts, findings, and next steps.
+3. Read `research/README.md` for navigation and `research/session-log.md` for chronology.
+4. Read the relevant detailed tranche/continuity notes before extending an investigation.
+5. Verify current branch and latest file versions before writing. Do not rely on commit SHAs from old conversations.
 
 ## Mission
 
@@ -23,6 +24,7 @@ Conduct a careful, source-grounded audit of SR-Doc's captured wiki corpus and re
 - Treat Talk, Thread, User, and other community namespaces as editorial/contextual evidence, not automatically canon.
 - A raw filename mention is not proof of rendered use. An extracted image reference is not a complete rendered dependency graph. No discovered reference is not proof of an orphan.
 - Keep page reads/hash verification, media checksum checks, visual triage, semantic review, and continuity validation as separate statuses.
+- Follow `research/continuity/DOCUMENTATION-GOVERNANCE.md`: do not append findings to this file; preserve detailed notes; synchronize master register, README, and session log according to the change protocol.
 - Never claim a file was read, verified, visually reviewed, or committed unless the corresponding operation actually succeeded.
 
 ## Canonical status snapshot
@@ -57,7 +59,8 @@ These counts and definitions are maintained in the master register. If new verif
 
 ## Repository notes and structure
 
-- `research/continuity/MASTER-RESEARCH-REGISTER.md` — canonical master register; read first.
+- `research/continuity/DOCUMENTATION-GOVERNANCE.md` — normative documentation maintenance protocol; read before editing any research documentation.
+- `research/continuity/MASTER-RESEARCH-REGISTER.md` — canonical master register; read first for current factual status.
 - `research/continuity/agents-md-history-2026-11-20.md` — verbatim archival copy of the old long handoff.
 - `research/README.md` — concise status/navigation.
 - `research/session-log.md` — append-only chronology; older status claims may be superseded.
