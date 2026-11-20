@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "archive_sha256": "d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8",
+  "page_records": 3579,
+  "silver_page_records": 3579,
+  "chunks": 7598,
+  "unique_chunk_ids": 7598,
+  "pages_in_metadata_table": 3579,
+  "pages_with_text_chunks": 3092,
+  "pages_without_text_chunks_count": 487,
+  "main_namespace_pages_without_text_chunks": [
+    {"page_id": "3616", "title": "New Lion City"},
+    {"page_id": "3698", "title": "Lakota Republic"},
+    {"page_id": "3744", "title": "Vietnam"}
+  ],
+  "namespace_counts": {
+    "14": 32, "0": 2923, "10": 2011, "2": 188, "502": 1, "6": 545,
+    "8": 3, "1201": 433, "2000": 5, "11": 5, "828": 809, "1": 637,
+    "2001": 2, "1200": 4
+  },
+  "fts5": "built",
+  "errors": [],
+  "chunk_target_chars": 1800,
+  "chunk_overlap_chars": 180
+}
