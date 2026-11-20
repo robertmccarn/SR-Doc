@@ -248,3 +248,13 @@ Matched first 300 media records against extracted image references in all 3,579 
 - The 240 exact matches represent 295 asset-to-page edges. Full no-reference list, raw-mention locations, and multiplicities are in `research/media-notes/crossref-601-900.md`.
 - Cumulative all-manifest results: 792 exact extracted references, 11 raw/template/thread-only mentions, 97 with no discovered reference, and 1,696 exact-reference edges. This reconciles the initial corpus-wide exact-title count of 792. These are extracted-index and raw-string results, not proof of rendered dependencies or orphan status.
 - The initial 900-asset cross-reference pass is complete. Next: reconcile filename aliases and redirects, expand template/module dependencies where feasible, and validate important assets against page context.
+
+
+## 2026-11-20 — Dependency reconciliation pass 1
+
+- Reconciled the 900 media records with all 906 File-namespace page records. Every media record's page ID resolves; six File pages are outside the media manifest: Example.jpg, Communitylogo.png, Wiki.png, and redirects 180px-Gerald Ford.jpg → Gerald Ford.jpg, 465px-William McKinley 1.png → William McKinley 1.png, and Eagle 7 Booster.png → Eagle 9 Booster.png.
+- Identified 141 distinct extracted image titles without exact media-manifest counterparts. Their source namespace distribution is heavily template-driven: 128 only Template, five only Module, three only main namespace, two Template+Module, and one each User, Thread, File. This is not evidence of 141 missing article images.
+- Independent raw-Wikitext scan found 441 distinct manifest filenames in explicit File/Image wikilinks (749 occurrences). None of the 108 assets lacking exact extracted references had an exact normalized explicit File/Image wikilink.
+- Revisited all 11 literal-only asset mentions. Most are obsolete flag aliases, non-dependency prose/Thread links, or filename near-matches. Xanthe Flag.png is a direct country-data flag-alias lead; rendered use is not established.
+- Detailed note: research/media-notes/dependency-reconciliation-pass-001.md. Bronze files remain unchanged.
+- Next: resolve template alias chains and prioritize article-level dependency validation. Preserve uncertainty; do not infer orphan status.
