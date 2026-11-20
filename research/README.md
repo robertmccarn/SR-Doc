@@ -107,3 +107,11 @@ Initial asset-to-page reconciliation for media manifest entries 1–300 is docum
 - The 284 exact matches account for 525 asset-to-page references. Combined with tranche 1, entries 1–600 have 552 exact matches, seven raw/template-only mentions, and 41 with no discovered reference.
 - Detailed note: `media-notes/crossref-301-600.md`. A raw/template mention is not proof of rendered use; absence from the extracted index is not proof of an orphan.
 - Next: manifest entries 601–900.
+
+
+### Cross-corpus reconciliation — tranche 601–900
+
+- Manifest entries 601–900: 240/300 exact extracted page-image references; 60 absent from extracted metadata, of which four have raw filename mentions and 56 have no discovered literal mention.
+- The 240 exact matches account for 295 asset-to-page references. Across all 900 records: 792 exact references, 11 raw/template/thread-only mentions, 97 with no discovered reference, and 1,696 exact-reference edges.
+- Detailed note: `media-notes/crossref-601-900.md`. Raw mentions and absent references are not proof of rendered use or orphan status.
+- Initial media-to-page reference pass is complete. Next: aliases, redirects, template/module expansion, and context validation.
