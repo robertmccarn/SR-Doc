@@ -134,3 +134,12 @@ Initial asset-to-page reconciliation for media manifest entries 1–300 is docum
 - `Republic of China (orthographic projection historical).svg` is explicitly assigned as `image_map` on both Chinese state pages. It is a genuine intended dependency, but its binary and File page are absent from the supplied archive. Its visual content and territorial accuracy remain unverified.
 - `Slider` is a bare token within `<gallery type="slider">`, not a normal File link; do not count it as a missing image without renderer evidence.
 - Detailed source excerpts, assessments, and limitations: `media-notes/targeted-unmatched-dependencies-001.md`.
+
+
+## Chinese political-history continuity audit — pass 1
+
+- Reviewed raw Wikitext for the People's Republic, Second Chinese Civil War, United Federation, Third Chinese Civil War, Federal Republic, Lost Decade, Flood, World War III, and Third Mexican-American War.
+- Major issue: Second Chinese Civil War infobox dates 2027–2048, but its combatant block includes 2105–2111, overlapping the separately documented Third Chinese Civil War. The latter begins 2105 and continues to 2126 while the UFC ends in 2108 and Federal Republic is said to begin in 2108.
+- UFC and Federal Republic infoboxes retain historical Republic of China data (1911–1949), wrong era/years, blank leaders, and incomplete or stale event fields. Federal Republic prose is only a stub.
+- The Third Civil War's post-2108 government/succession structure is not explained. Association of East Asia is cited as successor, but no substantive article under the exact queried title was found in the page corpus.
+- Detailed timeline, issue analysis, confidence levels, and editorial questions: `continuity/china-political-history-pass-001.md`. No source corrections made.
