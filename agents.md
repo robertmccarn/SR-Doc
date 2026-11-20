@@ -806,3 +806,11 @@ Compared media manifest entries 1–300 against extracted `images` references in
 The global first-pass index has 933 distinct extracted image titles: 792 exact asset-title matches, 108 assets without an exact extracted reference, and 141 extracted image titles without an exact counterpart in the media manifest. These are investigation leads, not confirmed missing/orphaned assets. Notable alias leads: Flag of Taiwan.png vs New_Flag_of_Taiwan.png; Vietnam.png vs Flag_of_Vietnam.png; simplified Sudan/Chile/Bolivia files vs underscored country-data flag aliases; Xanthe Flag.png referenced as a template alias. Details and multiplicity counts are in research/media-notes/crossref-001-300.md.
 
 Next: cross-reference manifest entries 301–600 with the same distinction between extracted page references, raw/template mentions, and no discovered reference. Preserve Bronze sources; do not merge/open a PR without approval.
+
+
+# Addendum T — Cross-corpus media reconciliation tranche 301–600
+## Appended 2026-11-20
+
+Compared manifest entries 301–600 against the extracted `images` arrays across all 3,579 page records, then searched every captured raw Wikitext source for exact filename and space/underscore variants where no exact extracted reference existed. Results: 284/300 exact extracted references; 16 absent from extracted metadata. One of the 16 has a literal/template mention (Flag of Russia.svg in Module:Portal/images/r); 15 have no discovered literal mention. The 284 exact assets produce 525 asset-to-page edges. Multiplicity, all 16 assets, and high-reference examples are documented in research/media-notes/crossref-301-600.md.
+
+Cumulative cross-reference progress for entries 1–600: 552 exact extracted references, seven raw/template-only mentions, 41 with no discovered reference, and 1,401 exact-reference edges. Extracted image metadata is not a rendered dependency graph; template/module mentions do not prove visible use; no-reference assets are not confirmed orphans. Next tranche: 601–900. Preserve Bronze captures and continue on audit/continuity-research; do not merge or open a PR without approval.
