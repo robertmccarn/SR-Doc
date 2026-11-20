@@ -258,3 +258,12 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Revisited all 11 literal-only asset mentions. Most are obsolete flag aliases, non-dependency prose/Thread links, or filename near-matches. Xanthe Flag.png is a direct country-data flag-alias lead; rendered use is not established.
 - Detailed note: research/media-notes/dependency-reconciliation-pass-001.md. Bronze files remain unchanged.
 - Next: resolve template alias chains and prioritize article-level dependency validation. Preserve uncertainty; do not infer orphan status.
+
+
+## 2026-11-20 — Targeted unmatched dependency review
+
+- Inspected raw Wikitext for Al-Hasa, Federal Republic of China, United Federation of China, and Second Renaissance Wikia.
+- Al-Hasa's extracted `File:Blank.png` entry is not directly assigned: its `image_map` parameter is empty. Treat as likely placeholder/parser artifact, not confirmed missing map.
+- Both Chinese state pages explicitly set `image_map = Republic of China (orthographic projection historical).svg`; the same intended map is reused for the 2058–2108 United Federation and 2108–2139 Federal Republic. The asset and File page are absent from the archive. This is a high-priority missing source dependency; actual visual content and territorial accuracy cannot yet be assessed.
+- The main page's bare `Slider` token occurs inside `<gallery type="slider">`; treat as gallery syntax/configuration, not a missing image.
+- Detailed note: research/media-notes/targeted-unmatched-dependencies-001.md. No Bronze changes.
