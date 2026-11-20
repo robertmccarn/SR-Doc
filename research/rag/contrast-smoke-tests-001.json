@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "test_count": 4,
+  "test_scope": [
+    "exact title/page identity",
+    "same-passage multiple-year-range candidate",
+    "main namespace default",
+    "explicit context opt-in"
+  ],
+  "executed_against": "uploaded SR-Doc-RAG-Index-002.zip SQLite database",
+  "query": "Second Chinese Civil War 2027 2048 2105 2111",
+  "result_limit": 16,
+  "relevant_evidence": [
+    {
+      "evidence_id": "E01",
+      "page_id": "1413",
+      "title": "Second Chinese Civil War",
+      "date_signals": [
+        "2027-2048",
+        "2105-2111"
+      ],
+      "section": "(lead)"
+    },
+    {
+      "evidence_id": "E02",
+      "page_id": "1408",
+      "title": "Third Chinese Civil War",
+      "date_signals": [
+        "2105-2111",
+        "2108"
+      ],
+      "section": "First period of war (2105-2111)"
+    }
+  ],
+  "candidate": {
+    "page_id": "1413",
+    "comparison_status": "multiple_date_ranges_single_passage",
+    "date_signals": [
+      "2027-2048",
+      "2105-2111"
+    ],
+    "interpretation": "review candidate only; source passage includes two different year ranges and labels/contexts require manual interpretation"
+  },
+  "limitations": [
+    "Date extraction is heuristic and does not parse infobox parameter labels.",
+    "Multiple year ranges in one passage are not necessarily contradictory.",
+    "Lexical OR retrieval can return loosely related pages.",
+    "No benchmark recall, precision, or answer reliability score has been established."
+  ]
+}
