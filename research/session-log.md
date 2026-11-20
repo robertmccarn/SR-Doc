@@ -267,3 +267,13 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Both Chinese state pages explicitly set `image_map = Republic of China (orthographic projection historical).svg`; the same intended map is reused for the 2058–2108 United Federation and 2108–2139 Federal Republic. The asset and File page are absent from the archive. This is a high-priority missing source dependency; actual visual content and territorial accuracy cannot yet be assessed.
 - The main page's bare `Slider` token occurs inside `<gallery type="slider">`; treat as gallery syntax/configuration, not a missing image.
 - Detailed note: research/media-notes/targeted-unmatched-dependencies-001.md. No Bronze changes.
+
+
+## 2026-11-20 — Chinese political-history continuity audit pass 1
+
+- Read raw Wikitext for People's Republic of China, Second Chinese Civil War, United Federation of China, Third Chinese Civil War, Federal Republic of China, Lost Decade (China), The Flood, World War III, and Third Mexican-American War.
+- Confirmed internal Second Civil War inconsistency: infobox dates 2027–2048, while combatant section includes 2105–2111; the separate Third Chinese Civil War begins in 2105.
+- UFC is dated 2058–2108, but Third Civil War continues in two phases through 2126. Federal Republic is listed 2108–2139, yet its post-2108 role and transition are unexplained; its own history is TBA.
+- Both Chinese state infoboxes carry historical Republic of China event dates (1911–1949); UFC also says era=20th century; Federal Republic leaders are BLANK with 1912/1949 years and statistics are labelled 1912.
+- Association of East Asia is asserted as successor/integrator in Lost Decade and Federal Republic, but no substantive page under exact title was located in the reviewed corpus.
+- Full timeline and issue register: research/continuity/china-political-history-pass-001.md. Audit only; no edits to source pages or Bronze.
