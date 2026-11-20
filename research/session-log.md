@@ -309,3 +309,15 @@ Matched first 300 media records against extracted image references in all 3,579 
 - The schema explicitly prevents wiki links, category assignments, and year mentions from being mistaken for in-world semantic claims. It requires edge-level provenance and prohibits unverified transitive inference.
 - A local prototype graph was generated for validation, but the generated JSON/Markdown datasets have not yet been committed to the repository. Repository integration and artifact verification remain outstanding.
 - No Bronze captures, manifests, Silver source files, canon pages, or existing audit ledgers were modified. No merge, PR, or branch promotion.
+
+
+## 2026-11-20 — Lore graph prototype audit and extraction coverage correction
+
+- Re-opened the supplied archive's Silver `pages.jsonl`, `relations.jsonl`, and `timeline.jsonl` and compared record IDs against the first graph prototype.
+- Reconciled source counts: 3,579 page records, 11,462 parsed links, and 4,447 year mentions. Corrected a previous report's category-node count (116, not 117).
+- Found one omitted parsed-link row (`wiki-link:785:8197`) with an empty target title. Preserved it as an unresolved placeholder rather than dropping it.
+- Found the first prototype's 3,665 year edges represented only main-namespace year mentions; the 782 non-main mentions were omitted. Also, the prototype had no year-token nodes, leaving its year-edge endpoints unresolved.
+- Rebuilt the graph completion layer: all 11,462 parsed-link rows and all 4,447 timeline rows now have one edge each; 456 year-token nodes were added. Corrected graph totals: 7,073 nodes and 15,967 edges, including 58 infobox-derived source-claim edges.
+- Validation: zero duplicate node IDs, zero duplicate edge IDs, zero edges with missing endpoints, all source relation IDs preserved, all source timeline IDs preserved.
+- Added `research/lore-index/build_lore_graph.py` and `build-validation.json`. The corrected graph and entity index are packaged as `SR-Doc-Lore-Graph-Corrected.zip`; the large graph JSON is not yet committed to GitHub.
+- No Bronze or Silver source files were modified; no canon edits, PR, merge, or branch promotion.
