@@ -375,3 +375,10 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Non-main-namespace title lookup is explicitly labelled as context/metadata. Ordinary lexical search remains main-namespace-only unless `--include-context` is supplied.
 - Limitations: direct `#REDIRECT [[target]]` parsing only; no redirect chains, fragments, namespace aliasing, interwiki resolution, fuzzy aliases, or automatic entity merging. The local index artifact was extended for testing; no SQLite binary was committed.
 - No Bronze/Silver bytes, manifests, or canon pages changed. No merge, PR, or branch promotion.
+
+
+## 2026-11-20 — Correction: RAG title-key row count
+
+- Corrected the preceding title/redirect resolver report: the builder's in-memory candidate list had 3,764 rows because it briefly staged an exact-title row plus a redirect-status row for redirect pages. The SQLite table has a `(title_key, page_id)` primary key and stores one final row per captured page. Verified database count is therefore **3,579 stored title-key rows**, across **3,575 distinct normalized titles**.
+- Redirect status counts remain unchanged: 83 uniquely resolved, 101 unresolved, and one ambiguous; 3,394 non-redirect exact-title records. The index package was regenerated with the corrected report.
+- This corrects the row-count statement in the immediately preceding session entry and RAG notes; no underlying source or mapping changed.
