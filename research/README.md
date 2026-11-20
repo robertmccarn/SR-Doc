@@ -125,3 +125,12 @@ Initial asset-to-page reconciliation for media manifest entries 1–300 is docum
 - Re-examined the 11 literal-only cases; most are obsolete flag aliases, prose/Thread links, or near-name matches. `Xanthe Flag.png` is a direct country-data flag-alias lead; rendered use remains unverified.
 - Detailed method, all six extra File pages, namespace distribution, literal-only contexts, and limitations: `media-notes/dependency-reconciliation-pass-001.md`.
 - Next: resolve template alias chains and prioritize article-level dependencies; do not classify no-reference assets as orphans without further evidence.
+
+
+### Targeted unmatched dependency review — China, Al-Hasa, main page
+
+- Inspected Al-Hasa, Federal Republic of China, United Federation of China, and Second Renaissance Wikia raw Wikitext.
+- `Blank.png` is listed in Al-Hasa extracted image metadata, but the article's `image_map` field is empty; likely placeholder/parser artifact, not a demonstrated map dependency.
+- `Republic of China (orthographic projection historical).svg` is explicitly assigned as `image_map` on both Chinese state pages. It is a genuine intended dependency, but its binary and File page are absent from the supplied archive. Its visual content and territorial accuracy remain unverified.
+- `Slider` is a bare token within `<gallery type="slider">`, not a normal File link; do not count it as a missing image without renderer evidence.
+- Detailed source excerpts, assessments, and limitations: `media-notes/targeted-unmatched-dependencies-001.md`.
