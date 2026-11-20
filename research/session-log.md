@@ -289,3 +289,13 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Preserved all detailed tranche notes, ledgers, and thematic notes. No Bronze files, manifests, page ledgers, or media ledgers were modified in this documentation refactor.
 - Remaining limitation: this pass reviewed the principal research documentation and the named note inventory; it did not independently re-open all 3,579 Wikitext sources or re-run all 900 media computations. The canonical register records the existing audit results and preserves their original evidence notes.
 - No merge, PR, branch promotion, or canon edits. Branch remains `audit/continuity-research`.
+
+
+## 2026-11-20 — Self-referencing documentation governance established
+
+- Created `research/continuity/DOCUMENTATION-GOVERNANCE.md` as the normative protocol for maintaining the research documentation system. It defines required reading order, stable document responsibilities, evidence precedence, pre/post-edit procedures, synchronization rules, preservation/refactoring rules, self-maintenance rules, Git safety, and a completion checklist.
+- Updated `agents.md` to require the governance protocol before any documentation edit and to prohibit using the agent guide as an append-only findings log.
+- Updated `research/README.md` and `research/continuity/MASTER-RESEARCH-REGISTER.md` to link and describe the governance protocol. Responsibilities remain distinct: agent guide = entry point; governance = process; master register = current factual status; README = concise navigation/status; session log = chronology; detailed notes/ledgers = evidence.
+- The governance document explicitly governs its own future changes and prohibits creating competing governance documents. Its path is intended to remain stable.
+- No evidence, ledger, Bronze source, manifest, or canon was modified.
+- All changed files were fetched and verified after the updates. No merge, PR, or branch promotion.
