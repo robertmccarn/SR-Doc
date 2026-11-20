@@ -10,7 +10,7 @@
 - Implementation plan: `research/rag/README.md` — staged architecture, corpus contract, retrieval design, evaluation criteria, risks, and next coding task.
 - Evidence transport: `research/rag/evidence-packet.schema.json` — JSON Schema 1.0 for portable retrieved evidence packets.
 - Evaluation seed: `research/rag/evaluation-set-001.md` — 20 candidate questions across direct facts, entity resolution, timelines, relationships, contradictions, and abstention. Not yet scored or fully source-keyed.
-- **Current status:** protocol/schema/evaluation seed, read-only archive validator, section-aware chunker, SQLite FTS5 index builder, and evidence-packet search CLI are committed. Archive SHA-256: `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`. Corpus: 3,579 page metadata rows, 7,598 unique chunks, 7,598 FTS rows; 3,092 pages have text chunks. 487 captured records have no non-whitespace text, including three empty main-namespace pages. Default search is main namespace only; context namespaces require explicit inclusion. Smoke tests passed; no benchmark score yet.
+- **Current status:** protocol/schema/evaluation seed, read-only archive validator, section-aware chunker, SQLite FTS5 index builder, exact-title/redirect index builder, and evidence-packet search CLI are committed. Archive SHA-256: `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`. Corpus: 3,579 page metadata rows, 7,598 unique chunks, 7,598 FTS rows; 3,092 pages have text chunks. 487 captured records have no non-whitespace text, including three empty main-namespace pages. Default lexical search is main namespace only; context namespaces require explicit inclusion. Exact title/redirect lookup is opt-in via `--title` and preserves redirect provenance. Smoke tests passed; no benchmark score yet.
 
 ## Documentation governance
 
@@ -86,7 +86,8 @@ Independent raw-Wikitext scan found 441 distinct media-manifest titles in explic
 
 ### Research assistant / RAG
 - `research/rag/validate_archive.py` — read-only archive structure, page SHA-256, manifest count, and Silver JSONL validator.
-- `research/rag/archive-validation-001.json` — passing report for the supplied `SR-Doc-Audit.zip` snapshot.\n- `research/rag/build_index.py` — section-aware, provenance-preserving chunk and SQLite FTS5 builder.\n- `research/rag/search.py` — lexical search and schema-shaped evidence packet CLI.\n- `research/rag/chunk-build-report-001.json` — chunk coverage and index build results.
+- `research/rag/archive-validation-001.json` — passing report for the supplied `SR-Doc-Audit.zip` snapshot.\n- `research/rag/build_index.py` — section-aware, provenance-preserving chunk and SQLite FTS5 builder.\n- `research/rag/search.py` — lexical search, exact-title/redirect resolution, and schema-shaped evidence packet CLI.
+- `research/rag/build_alias_index.py` — post-build exact-title and captured redirect index builder.\n- `research/rag/chunk-build-report-001.json` — chunk coverage and index build results.
 - `research/rag/retrieval-smoke-tests-001.json` — initial lexical, page-ID, and namespace-safety smoke tests.
 - `research/continuity/RESEARCH-ASSISTANT-PROTOCOL.md` — normative answer and evidence-handling contract.
 - `research/rag/README.md` — architecture and staged implementation plan.
@@ -219,3 +220,12 @@ The append-only session log deliberately retains chronology. It should not be re
 - No merge, PR, branch promotion, or canon edits without explicit user approval.
 - Bronze source data is immutable.
 - Report only work actually performed and distinguish confirmed source facts from hypotheses.
+
+
+## RAG — exact title and redirect resolution pass 001
+
+- Added `research/rag/build_alias_index.py` and extended `research/rag/search.py` with exact title lookup (`--title`) and direct captured Wikitext redirect resolution.
+- Local build against the pinned archive: 3,764 title-key rows, 3,575 distinct normalized titles; 83 redirects resolved uniquely, 101 unresolved, one ambiguous. Exact title keys normalize underscores/whitespace and case only.
+- Smoke-tested Main Page → Second Renaissance Wikia (page 84 → page 2), File:180px-Gerald Ford.jpg → File:Gerald Ford.jpg (page 288 → page 285), exact page title Third Chinese Civil War → page 1408, and an unknown title (abstains). Non-main namespace title results carry an explicit context warning.
+- Redirect targets are candidate navigation mappings, not merged entities. Unresolved/ambiguous redirects retain source identity; no fuzzy aliases or redirect-chain traversal is performed.
+- The base FTS5 index remains locally generated; the alias table is populated by running `build_alias_index.py` after `build_index.py`. No binary DB committed.
