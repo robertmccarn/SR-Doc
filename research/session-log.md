@@ -230,3 +230,12 @@ Completed the final 300-record media tranche. Mapped 299 physical files; one fai
 ## 2026-11-20 — Cross-corpus reconciliation tranche 1 (assets 1–300)
 
 Matched first 300 media records against extracted image references in all 3,579 page-manifest records and searched raw Wikitext for filename literals where no extracted reference existed. 268 exact extracted references; 32 without, six of which have raw/template mentions and 26 with no discovered literal mention. Corpus-wide exact-title baseline: 792/900 assets referenced; 108 without extracted refs; 141 distinct page image titles without exact asset-manifest counterparts. These are leads, not confirmed orphan/missing records. Notes: research/media-notes/crossref-001-300.md. Next tranche: assets 301–600.
+
+
+## 2026-11-20 — Cross-corpus media reconciliation tranche 301–600
+
+- Compared media manifest entries 301–600 against extracted page `images` metadata for all 3,579 page records and searched all captured raw Wikitext for exact/space-underscore filename mentions when no extracted reference existed.
+- Exact extracted references: 284/300 (94.7%); 16 absent from extracted metadata. One of those has a literal/template mention (`Flag of Russia.svg` in `Module:Portal/images/r`); 15 have no discovered filename mention.
+- The 284 exact matches represent 525 asset-to-page edges. Multiplicity and all 16 no-exact-reference assets are recorded in `research/media-notes/crossref-301-600.md`.
+- Cumulative entries 1–600: 552 exact references, seven raw/template-only mentions, 41 with no discovered reference, and 1,401 exact-reference edges. These are extracted-index findings, not rendered-use or orphan determinations.
+- Next: entries 601–900. Preserve source material and distinguish template/module aliases from direct page references.
