@@ -162,6 +162,14 @@ The append-only session log deliberately retains chronology. It should not be re
 9. Keep detailed tranche notes intact; summarize them here without dropping information from the repository.
 10. When adding work, update this register, README, and session log only when status meaningfully changes. Keep `agents.md` operational and concise.
 
+## Lore graph/index initiative — initial schema and navigation layer
+
+- Added `research/lore-index/README.md`, `AGENT_NAVIGATION_GUIDE.md`, `RELATIONSHIP_MATRIX.md`, and `schema.json` on 2026-11-20.
+- The supplied archive includes 3,579 Bronze page records and a Silver extraction layer with 11,462 parsed-link records and 4,447 year mentions. These are source/extraction counts, not semantic relationship counts.
+- The committed schema deliberately separates navigational links, category taxonomy, year mentions, and structured infobox claims. It requires directional edges, inverse predicates, temporal scope, certainty, evidence strength, and source locators.
+- Full graph/index generation and validation remain pending repository integration. Do not describe the graph JSON or entity index as committed until the generated artifacts are present and fetched back from GitHub.
+- This initiative is an indexing layer only; it does not modify canon or resolve existing continuity conflicts.
+
 ## Next recommended work
 
 1. Review relevant Talk/Thread editorial discussions for the Chinese succession and civil-war chronology, distinguishing creator intent from canon text.
