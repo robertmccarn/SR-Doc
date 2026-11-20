@@ -4,6 +4,12 @@
 **Working branch:** `audit/continuity-research`  
 **Purpose:** Canonical navigation, status, definitions, findings, and handoff for the research notes. This register supersedes stale progress summaries in older append-only notes, but does not replace their detailed evidence.
 
+## Documentation governance
+
+- Normative maintenance protocol: `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
+- Every agent must read it before editing research documentation.
+- `agents.md` is the concise entry point; this register is canonical current factual status; README is the concise mirror; session log is append-only; detailed notes preserve evidence.
+
 ## Authority and precedence
 
 When notes conflict, use this order:
@@ -76,6 +82,7 @@ Independent raw-Wikitext scan found 441 distinct media-manifest titles in explic
 - `research/page-ledger.csv` — page-level read/hash/review ledger.
 - `research/media-ledger.csv` — all 900 media records and audit results.
 - `agents.md` — current operating instructions and short handoff only.
+- `research/continuity/DOCUMENTATION-GOVERNANCE.md` — normative rules for maintaining this documentation system.
 - `research/continuity/MASTER-RESEARCH-REGISTER.md` — this canonical register.
 - `research/continuity/agents-md-history-2026-11-20.md` — verbatim archival copy of former long agents.md.
 
