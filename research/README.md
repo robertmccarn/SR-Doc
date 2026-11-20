@@ -7,11 +7,16 @@ This directory contains source-grounded audit ledgers, tranche evidence, depende
 
 ## Start here
 
-1. **[Documentation governance](continuity/DOCUMENTATION-GOVERNANCE.md)** — required protocol for all agent documentation changes.
-2. **[Master research register](continuity/MASTER-RESEARCH-REGISTER.md)** — canonical status, evidence hierarchy, reconciled counts, findings, full note inventory, and next work.
-3. **[Agent operating guide](../agents.md)** — concise instructions for future sessions.
-4. **[Session log](session-log.md)** — append-only chronology. Earlier entries are historical and may contain checkpoint counts superseded by later work.
-4. Detailed evidence is retained in the tranche and thematic notes listed below.
+0. **[Research assistant protocol](continuity/RESEARCH-ASSISTANT-PROTOCOL.md)** — mandatory evidence, citation, contradiction, and abstention contract for lore answers.
+1. **[RAG implementation plan](rag/README.md)** — architecture and next build steps. The RAG service is not implemented yet.
+2. **[Evidence packet schema](rag/evidence-packet.schema.json)** — machine-readable handoff format.
+3. **[Initial evaluation set](rag/evaluation-set-001.md)** — 20 candidate questions; not yet scored.
+
+5. **[Documentation governance](continuity/DOCUMENTATION-GOVERNANCE.md)** — required protocol for all agent documentation changes.
+6. **[Master research register](continuity/MASTER-RESEARCH-REGISTER.md)** — canonical status, evidence hierarchy, reconciled counts, findings, full note inventory, and next work.
+7. **[Agent operating guide](../agents.md)** — concise instructions for future sessions.
+8. **[Session log](session-log.md)** — append-only chronology. Earlier entries are historical and may contain checkpoint counts superseded by later work.
+9. Detailed evidence is retained in the tranche and thematic notes listed below.
 
 ## Current verified status
 
@@ -28,6 +33,10 @@ This directory contains source-grounded audit ledgers, tranche evidence, depende
 | Extracted image titles | 933 distinct titles; 141 have no exact counterpart in the 900-record media manifest |
 
 See the master register for definitions and interpretation limits. In particular, raw mentions do not prove rendered use, extracted metadata is not a complete rendered dependency graph, and no discovered reference does not prove orphan status.
+
+## Research assistant / RAG
+
+The RAG workstream is in specification/readiness stage. The answer protocol, staged implementation plan, evidence packet schema, and 20-question evaluation seed are committed. No runnable retrieval service or indexed corpus is claimed yet. The next coding task is a read-only archive inventory/ingestion validator, followed by section-aware chunks and SQLite FTS5 lexical retrieval.
 
 ## Lore graph/index
 
