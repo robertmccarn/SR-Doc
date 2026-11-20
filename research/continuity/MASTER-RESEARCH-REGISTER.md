@@ -225,7 +225,7 @@ The append-only session log deliberately retains chronology. It should not be re
 ## RAG — exact title and redirect resolution pass 001
 
 - Added `research/rag/build_alias_index.py` and extended `research/rag/search.py` with exact title lookup (`--title`) and direct captured Wikitext redirect resolution.
-- Local build against the pinned archive: 3,764 title-key rows, 3,575 distinct normalized titles; 83 redirects resolved uniquely, 101 unresolved, one ambiguous. Exact title keys normalize underscores/whitespace and case only.
+- Local build against the pinned archive: 3,579 title-key rows, 3,575 distinct normalized titles; 83 redirects resolved uniquely, 101 unresolved, one ambiguous. Exact title keys normalize underscores/whitespace and case only.
 - Smoke-tested Main Page → Second Renaissance Wikia (page 84 → page 2), File:180px-Gerald Ford.jpg → File:Gerald Ford.jpg (page 288 → page 285), exact page title Third Chinese Civil War → page 1408, and an unknown title (abstains). Non-main namespace title results carry an explicit context warning.
 - Redirect targets are candidate navigation mappings, not merged entities. Unresolved/ambiguous redirects retain source identity; no fuzzy aliases or redirect-chain traversal is performed.
 - The base FTS5 index remains locally generated; the alias table is populated by running `build_alias_index.py` after `build_index.py`. No binary DB committed.
