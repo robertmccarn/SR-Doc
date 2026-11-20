@@ -736,3 +736,18 @@ Main namespace progress: 440/507. Detailed notes are in research/page-notes/mani
 Talk/Thread is editorial context, not automatically canon. File descriptions are not binary media inspection. Media visual inspection remains 0/900.
 
 Cumulative ledger: 3,010 read; 28 unverified_prior_claim; 541 not_started (3,579 total). Next tranche: manifest entries 3001–3300. Continue on audit/continuity-research; do not alter Bronze captures, merge, or open a PR without user approval.
+
+
+
+# Addendum N — Manifest tranche 3001–3300
+## Appended 2026-11-20
+
+All 300 Bronze Wikitext sources at manifest entries 3001–3300 were opened in original manifest order. SHA-256 matched for all 300; zero missing files and zero mismatches. Combined Wikitext size: 134,906 bytes. Baseline tranche status: 1 read, 3 unverified prior claims, 296 not started; this tranche adds 299 unique verified reads.
+
+Namespace distribution: Talk 143; Thread 58; File 46; User 18; Message Wall 17; Template 11; Main 7. Empty sources: 43 File descriptions and 17 Message Walls. Two Main redirects: Late 2010s Recession -> Early 2020s Recession; China -> United Federation of China.
+
+Main namespace progress: 446/507. Detailed source notes: research/page-notes/manifest-3001-3300.md. Key issues: malformed/incomplete Vice President of the United States table tail (2025–2037); Jupiter planetary-governor terms/party naming; Romania stub; Eternal Spring Empire secession duration/outcome; Hawthorne population rank, boundaries, missing leadership, and flag filename typo.
+
+Talk/Thread records provide historical editorial context only. Key leads include 2027 leader fates, Korean reunification dates, Halvidar family casualties, COVID-era timeline revisions, competing Space Force rank proposals, Terran/Natural distinction, US commonwealth count, and geographic/table errors. No binary media visually inspected; media review remains 0/900.
+
+Cumulative ledger: 3,309 read; 25 unverified_prior_claim; 245 not_started (3,579 total). Next tranche: 3301–3579 (279 records, final tranche). Continue on audit/continuity-research; do not alter Bronze captures, merge, or open a PR without user approval.
