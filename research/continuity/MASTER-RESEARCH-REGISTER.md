@@ -239,3 +239,12 @@ The append-only session log deliberately retains chronology. It should not be re
 - Known example: page 1413, `Second Chinese Civil War`, contains infobox date 2027–2048 and a combatant block marked 2105–2111. The contrast query surfaces this same-passage multi-range candidate. The Third Chinese Civil War page 1408 is also returned for cross-page comparison.
 - Limitations: this is lexical candidate retrieval with heuristic date extraction, not a semantic claim parser or contradiction adjudicator. The 20-question benchmark still lacks fully reviewed evidence keys; no recall/precision score or reliability percentage is claimed.
 - Changed files: `research/rag/search.py`, `research/rag/test_search.py`, and this RAG documentation. No Bronze/Silver source data, canon, or binary database changed. No merge, PR, or branch promotion.
+
+
+## AI session swap memory
+
+- `.ai/swap.md` is the compact, mutable, cross-window handoff snapshot. It records active work, verified branch/HEAD, durable working decisions, blockers, and immediate next steps. It is not a source of canon, detailed findings, or chronological history.
+- `research/continuity/DOCUMENTATION-GOVERNANCE.md` section 12 now defines the memory boundaries, read/update cadence, size/freshness hygiene, authority/conflict order, security rules, and handoff contract.
+- `agents.md` requires new sessions to verify Git state and read the swap first, then follow the existing documentation governance and source hierarchy.
+- Initial swap established on `audit/continuity-research` at 2026-11-20. It identifies source-aware infobox claim extraction and reviewed benchmark evidence as the next RAG work.
+- The swap is deliberately concise and replaceable; durable decisions must be promoted to permanent docs/ADRs and completed milestones to the append-only session log.
