@@ -104,3 +104,19 @@
 - Reviewed 47 Talk comments and 39 Thread records. Discussions preserve authorial explanations about page creation, real-world names, portraits, political party definitions, election population scaling, and the 2160 cutoff; they are editorial context, not automatically canon.
 - Reviewed 72 templates, including country-data, taxonomy, and organization-infobox code. All country-data flag aliases resolve to a File namespace title in the full manifest. No underlying media files were visually inspected.
 - Ledger after tranche: 1830 read; 65 unverified prior claims; 1684 not started; 341/507 Main pages read. Media remains 0/900 visually inspected.
+
+
+## 2026-11-20 — All-namespace manifest tranche 1801–2100
+
+- Reopened the committed page ledger and selected exact manifest entries 1801–2100 in original order.
+- Directly opened and read all 300 original Bronze Wikitext files at their exact `bronze/pages/<page_id>/<revision_id>.wikitext` paths.
+- Recomputed SHA-256 over each UTF-8 source and compared against the ledger manifest: 300/300 matched; zero mismatches.
+- Namespace distribution: Thread 54; Talk 37; Main 48; File descriptions 117; Templates 36; Message Walls 7; User 1.
+- Baseline tranche statuses: four already read, 18 unverified prior claims, 278 not started. All 300 rows are now marked read, adding 296 unique verified reads.
+- Main namespace includes 16 US presidential election pages, Canada, British Republic, Republic of Sahtu, First Contact, Association of East-Asia, Arabian Association, Flags of the United States, Australia, Uranus, Central Eurasian Union, Associated state, Great Famine, Kahi'Umknovola, Winter Recession, Flora and Fauna of Mars, Equoloii, Volmarro, Hivvir, Hiilo, Abram Kaplan, Iran, Indonesia, Notable Literature, New Virginia, Skinning the Elephant, Tanning the Donkey, Generational Chaos, Bradbury, and Ckuteko, plus three redirects.
+- Eight zero-byte Wikitext files: seven Message Walls and File:Official New United States of America Flag 2.png.
+- Key continuity leads: Canada/British Republic Union Act 2073 vs England 2079 accession; Arabian Association 2139 vs 2140; AEA leadership name variants; US flag table duration mismatches; Bradbury settlement 2024/2027 and 2028/2030 conflicts; Volmarro star-system naming conflict; Kahi Endurance/Discovery first-contact mismatch; Ironwood maximum height expressed as 300 tons; and 2068 election infobox residue.
+- Reviewed 37 Talk comments and 54 Thread records. Editorial context includes US flag redesign, associated-state citizenship/currency/mobility, the 2160 cutoff, alien body-plan diversity, creator guidance against magic/fan-fiction intrusions, and a proposed later/post-2160 Hakari-Hakari civilization. These are not automatically canon.
+- Reviewed 36 country-data templates and 117 File-description pages. No binary media was visually inspected. Media review remains 0/900.
+- Detailed notes: `research/page-notes/manifest-1801-2100.md`.
+- Cumulative ledger: 2,126 read; 47 unverified prior claims; 1,406 not started (3,579 total). Main namespace: 385/507 read. Next tranche: 2101–2400.

@@ -668,3 +668,22 @@ Cumulative page-ledger status after this tranche: 1538 read; 92 unverified prior
 Updated 2026-11-19. All 300 original Bronze Wikitext files at manifest entries 1501–1800 were opened and read in original manifest order across all namespaces. SHA-256 matched the manifest for all 300 files. This adds 292 unique verified reads (8 already read; 27 prior unverified claims and 265 not-started records were newly verified). The ledger now marks all 300 rows read; detailed notes are in research/page-notes/manifest-1501-1800.md.
 
 Cumulative page-ledger status: 1830 read; 65 unverified prior claims; 1684 not started, out of 3,579. Main namespace: 341/507 read. Manifest entries 1801–2100 are next. Media visual inspection remains 0/900; no binary asset was viewed in this tranche. Continue on audit/continuity-research; do not merge or open a PR without user approval.
+
+
+# Addendum — All-namespace tranche 1801–2100
+## Appended 2026-11-20
+
+- Directly opened all 300 original Bronze Wikitext files for manifest entries 1801–2100, in manifest order and across all namespaces.
+- Recomputed SHA-256 for every fetched UTF-8 source and compared against the page ledger manifest value: 300/300 matched; zero mismatches.
+- Namespace distribution: Thread 54; Talk 37; Main 48; File descriptions 117; Templates 36; Message Walls 7; User 1.
+- Baseline tranche ledger status: 4 already read, 18 unverified prior claims, 278 not started. All 300 rows now marked read; 296 new unique verified reads.
+- Eight zero-byte Wikitext sources: seven Message Walls and File:Official New United States of America Flag 2.png. Three Main redirects: Colonial Era → Space Age; Thirty-first Amendment → Thirty-First Amendment; Notable Books → Notable Literature.
+- Detailed source notes: research/page-notes/manifest-1801-2100.md.
+- New continuity leads: Canada/British Republic 2073 vs England 2079 accession distinction; Arabian Association 2139 vs 2140 association date; AEA president spelling variants; US flag duration arithmetic (85-star and seven-star periods); Bradbury 2024/2027 settlement and 2028/2030 food-delivery date conflicts; Volmarro HD 197027 vs 61 Cygni system naming; Kahi Endurance/Discovery ship mismatch; Ironwood height given in tons; 2068 election infobox retains 2052; and Ckuteko personhood questions.
+- Main namespace progress: 385/507 directly read. Overall page progress: 2,126/3,579. Ledger: 2,126 read, 47 unverified prior claims, 1,406 not started.
+- Media visual inspection remains 0/900. No binary asset was visually inspected.
+- Next work: manifest entries 2101–2400, preserving original manifest order and repeating the SHA-256 verification process.
+
+## Process note
+
+This tranche was retrieved from the repository's exact Bronze source paths listed in the committed page ledger. A full 300-file SHA-256 check was performed. For future large batches, keep per-page review type-sensitive: substantive Main articles need thematic notes; Talk/Thread material needs editorial-context notes; templates need parameter/alias review; File descriptions must not be confused with visual inspection of binary media.
