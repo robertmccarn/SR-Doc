@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sr-doc.local/schemas/evidence-packet-1.0.json",
+  "title": "SR-Doc RAG evidence packet",
+  "description": "Portable transport format for retrieved source evidence. It does not adjudicate canon.",
+  "type": "object",
+  "required": ["schema_version", "question", "retrieval", "evidence"],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "question": {"type": "string", "minLength": 1},
+    "resolved_entities": {"type": "array", "items": {"type": "object", "required": ["resolution_status"], "properties": {
+      "entity_id": {"type": ["string", "null"]},
+      "title": {"type": ["string", "null"]},
+      "page_id": {"type": ["string", "null"]},
+      "candidate_titles": {"type": "array", "items": {"type": "string"}},
+      "resolution_status": {"enum": ["exact", "alias", "ambiguous", "unresolved"]}
+    }, "additionalProperties": true}},
+    "retrieval": {"type": "object", "required": ["indexes_searched", "warnings"], "properties": {
+      "indexes_searched": {"type": "array", "items": {"type": "string"}},
+      "corpus_snapshot": {"type": ["string", "null"]},
+      "warnings": {"type": "array", "items": {"type": "string"}}
+    }, "additionalProperties": true},
+    "evidence": {"type": "array", "items": {"type": "object", "required": ["evidence_id", "source_class", "title", "text"], "properties": {
+      "evidence_id": {"type": "string"},
+      "source_class": {"enum": ["primary", "structured_extraction", "audit", "synthesis", "community", "external"]},
+      "page_id": {"type": ["string", "null"]},
+      "title": {"type": "string"},
+      "namespace": {"type": ["string", "integer", "null"]},
+      "revision_id": {"type": ["string", "null"]},
+      "source_path": {"type": ["string", "null"]},
+      "capture_id": {"type": ["string", "null"]},
+      "content_sha256": {"type": ["string", "null"], "pattern": "^[a-fA-F0-9]{64}$"},
+      "section_path": {"type": "array", "items": {"type": "string"}},
+      "text": {"type": "string"},
+      "locator": {"type": ["string", "null"]},
+      "chunk_id": {"type": ["string", "null"]}
+    }, "additionalProperties": true}},
+    "candidate_relationships": {"type": "array", "items": {"type": "object"}},
+    "contradiction_candidates": {"type": "array", "items": {"type": "object"}},
+    "unresolved_questions": {"type": "array", "items": {"type": "string"}}
+  },
+  "additionalProperties": false
+}
