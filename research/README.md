@@ -72,3 +72,13 @@ A redirect is a reviewed source page. Its target is recorded separately; a targe
 6. Preserve contradictory dates, spellings, figures, and claims; do not silently correct source content.
 7. Keep page-description review, checksum verification, and binary visual inspection as separate statuses.
 8. Update the ledger, tranche notes, session log, this README, and `agents.md` after each completed tranche.
+
+
+## Binary media audit
+
+The 900-record asset manifest is being audited separately from page Wikitext. Each batch maps records to physical archive paths, recomputes SHA-1 and byte size, and receives contact-sheet visual triage. Visual review does not establish source authenticity or semantic correctness.
+
+- Tranche 1 (manifest 1–300): 300/300 physically mapped and visually reviewed; 243 exact SHA-1/size matches, 57 mismatches, zero missing files and zero decode/parse failures.
+- Detailed notes: `media-notes/manifest-001-300.md`.
+- Media visual review progress: 300/900 (33.33%). Physical assets mapped: 300/899. The failed manifest record for page ID 3525 is still unresolved.
+- Next: manifest entries 301–600, then 601–900. Preserve Bronze files and manifest values; investigate mismatches rather than silently replacing sources.
