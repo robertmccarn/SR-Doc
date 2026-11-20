@@ -174,16 +174,17 @@ Do not report a reliability percentage until the test set is fixed and answers a
 - [x] Verify supplied archive SHA-256, manifest counts, page source paths/hashes, and Silver JSONL structure; result: `archive-validation-001.json`.
 - [ ] Verify and document any additional source snapshot inputs (for example, separately distributed graph package) before indexing.
 - [ ] Verify archive hash and source counts at ingestion time.
-- [ ] Produce stable page and section/chunk JSONL with provenance.
-- [ ] Preserve original source bytes and hash linkage.
-- [ ] Validate chunk coverage, uniqueness, and source mapping.
+- [x] Produce stable section-aware chunk JSONL with page/revision/source hash/namespace/section/character-offset provenance.
+- [x] Preserve original source bytes and hash linkage; source archive remains unchanged.
+- [x] Validate chunk ID uniqueness, full page metadata coverage, FTS row parity, and source mapping. 3,092 pages have text chunks; 487 captured records have no non-whitespace text, including three empty main-namespace pages.
 
 ### Phase 2 — Lexical retrieval baseline
-- [ ] Build SQLite FTS5 database from prepared chunks.
-- [ ] Implement exact title/page ID/alias lookup.
-- [ ] Return source passages with stable citations.
-- [ ] Add CLI question/search command that emits evidence packets.
-- [ ] Test exact-name and phrase retrieval.
+- [x] Build SQLite FTS5 database from prepared chunks.
+- [x] Implement exact page-ID lookup and title/section/body lexical search. Alias resolution remains outstanding.
+- [x] Return source passages with stable page/revision/hash/path/section/character-offset citations.
+- [x] Add CLI search command that emits evidence packets conforming to schema 1.0.
+- [x] Test exact-name/phrase retrieval and page-ID lookup against known corpus passages.
+- [ ] Add explicit title alias/redirect resolution and retrieval evaluation.
 
 ### Phase 3 — Graph-assisted and semantic retrieval
 - [ ] Load the versioned graph package as optional sidecar.
@@ -229,11 +230,11 @@ The first coding unit is implemented as `validate_archive.py`; it accepts an exp
 4. Emits a machine-readable inventory report without modifying the archive.
 5. Exits nonzero on missing members, malformed records, duplicate IDs/paths, source hash mismatches, or count mismatches.
 
-The current validator does not yet validate the separate graph package, compare the archive hash to a pinned expected value, or deeply validate every Silver field schema; those remain follow-up hardening tasks.
+The archive validator does not yet validate the separate graph package or deeply validate every Silver field schema. The chunk builder pins the expected archive SHA-256 and fails on mismatch unless explicitly overridden.
 
-Next implement section-aware extraction and FTS5 indexing. Do not build embeddings before the lexical baseline is measured.
+The section-aware chunker and FTS5 lexical baseline are now implemented. Next: alias/redirect resolution, retrieval evaluation, and contradiction-oriented retrieval. Do not build embeddings before the lexical baseline is measured.
 
-## 11. Definition of done for the initial prototype
+## 11. Initial corpus and lexical baseline results\n\n- Archive SHA-256: `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`.\n- Page metadata rows: 3,579; text chunks: 7,598; unique chunk IDs: 7,598; FTS rows: 7,598.\n- Pages with non-whitespace source text: 3,092. Captured records without text chunks: 487; three are main-namespace pages with zero-byte Wikitext (`New Lion City`, `Lakota Republic`, `Vietnam`). Other zero-text records are largely File and Message Wall pages. Their page metadata remains searchable by page ID in the index.\n- Default lexical search is restricted to namespace 0. `--include-context` is required to search all namespaces; explicit page-ID retrieval can retrieve any namespace. This prevents Talk/Thread/User material from silently entering ordinary lore answers.\n- Test query `Third Chinese Civil War 2105` returned the source page and section passages, including `First period of war (2105-2111)`; page-ID lookup for 1408 returned its ordered passages. This is a smoke test, not a benchmark score.\n- Build output is packaged as `SR-Doc-RAG-Index-001.zip`; detailed counts are in `chunk-build-report-001.json`.\n\n## 12. Definition of done for the initial prototype
 
 The prototype is ready for informal use only when:
 - the source archive and snapshot are identified reproducibly;
