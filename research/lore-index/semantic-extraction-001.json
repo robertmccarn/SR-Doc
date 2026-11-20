@@ -1,0 +1,32 @@
+{
+  "scope_pages_scanned": 507,
+  "recognized_infobox_calls": 119,
+  "resolved_linked_field_candidates": 113,
+  "already_present_equivalent_claims": 55,
+  "new_edges_added": 58,
+  "new_edges_by_predicate": {
+    "MEMBER_OF": 29,
+    "HAS_COMBATANT": 10,
+    "HAS_COMMANDER": 11,
+    "HAS_STATED_RESULT": 3,
+    "HOLDS_OFFICE_IN": 5
+  },
+  "excluded": {
+    "non_entity_namespace": 38,
+    "unresolved_title": 16
+  },
+  "total_nodes": 7073,
+  "total_edges": 16025,
+  "semantic_infobox_edges": 116,
+  "validation": {
+    "unique_edge_ids": true,
+    "all_endpoints_resolve": true
+  },
+  "limitations": [
+    "Exact wikilinks only; plain-text values are not resolved.",
+    "Five infobox templates modeled; election, government agency, company, military unit and international-organization templates remain unmodeled.",
+    "Raw Wikitext parameter extraction, not MediaWiki template rendering.",
+    "Infobox claims are source claims, not adjudicated canon.",
+    "No transitive edges or automatic temporal validity inferred."
+  ]
+}
