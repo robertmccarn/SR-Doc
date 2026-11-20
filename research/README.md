@@ -29,6 +29,14 @@ This directory contains source-grounded audit ledgers, tranche evidence, depende
 
 See the master register for definitions and interpretation limits. In particular, raw mentions do not prove rendered use, extracted metadata is not a complete rendered dependency graph, and no discovered reference does not prove orphan status.
 
+## Lore graph/index
+
+- `lore-index/README.md` — graph/index scope and evidence safeguards.
+- `lore-index/AGENT_NAVIGATION_GUIDE.md` — graph-first retrieval protocol.
+- `lore-index/RELATIONSHIP_MATRIX.md` — directional predicate definitions and temporal/contradiction rules.
+- `lore-index/schema.json` — machine-readable node/edge contract.
+- Generated entity and graph datasets are not yet committed; see the lore-index README for status.
+
 ## Corpus inventory and ledgers
 
 - `page-ledger.csv` — 3,579 page records, source identifiers, SHA-256, review status, and notes.
