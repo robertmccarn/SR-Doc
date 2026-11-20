@@ -187,3 +187,16 @@
 - Media visual review remains 0/900. File descriptions are not visual inspection.
 - Detailed notes: research/page-notes/manifest-3001-3300.md.
 - Cumulative ledger: 3,309 read; 25 unverified_prior_claim; 245 not_started. Main namespace: 446/507. Next tranche: 3301–3579 (279 records; final tranche).
+
+
+## 2026-11-20 — Final page tranche 3301–3579
+
+- Opened all 279 original Bronze Wikitext files at manifest entries 3301–3579 in original manifest order from SR-Doc-Audit.zip.
+- Independently recomputed SHA-256 for every extracted source: 279/279 matched pages.json; zero missing files; zero mismatches. Combined Wikitext: 246,970 bytes.
+- Baseline tranche status: 9 read, 25 unverified_prior_claim, 245 not_started. All 279 now marked read; 270 newly source-verified unique reads.
+- Namespace distribution: File 90; Main 70; Talk 49; Thread 27; User 20; Message Wall 15; Template 7; Category 1. Empty Wikitext: 46 File descriptions, 12 Message Walls, 3 Main pages. Seventeen redirects across Main/User/Message Wall.
+- Main namespace: 70 records, including 11 redirects/stubs/placeholders and substantive entries on White Tide, AOC, NDF, AGWEST/AGEAST, Battle of Washington, Project Ahuiateteo, Alo/Argommi, Dyson Sphere, gravitonics, interstellar craft, religious schism, and national/planetary polities. Important issues include Second American Civil War redirecting to Aztlan War (possible conflation with 2028–2035 White Tide), malformed future political data, class naming inconsistencies, population/pressure discrepancies, and non-canon post-2160 material.
+- Talk/Thread review: 2020 point-of-divergence/COVID discussions; candidate speculation (Booker/Harris/AOC); Japan monarchy question; editor moderation/cutoff reminders; ideological arguments. These remain editorial context, not canon.
+- No binary assets visually inspected. This tranche includes 90 File namespace records; 46 descriptions empty, 44 nonempty.
+- Detailed notes: research/page-notes/manifest-3301-3579.md.
+- **Page corpus complete: 3,579 read; 0 unverified_prior_claim; 0 not_started. Main namespace 507/507.** Media visual inspection remains 0/900; next phase is media reconciliation/inspection and corpus-wide synthesis.
