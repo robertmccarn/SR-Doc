@@ -321,3 +321,14 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Validation: zero duplicate node IDs, zero duplicate edge IDs, zero edges with missing endpoints, all source relation IDs preserved, all source timeline IDs preserved.
 - Added `research/lore-index/build_lore_graph.py` and `build-validation.json`. The corrected graph and entity index are packaged as `SR-Doc-Lore-Graph-Corrected.zip`; the large graph JSON is not yet committed to GitHub.
 - No Bronze or Silver source files were modified; no canon edits, PR, merge, or branch promotion.
+
+
+## 2026-11-20 — Semantic infobox expansion pass 001
+
+- Scanned all 507 main-namespace pages and identified 119 invocations across five infobox template families.
+- Extracted 113 exact linked-field candidates. Fifty-five equivalent claims were already represented; 58 new edges were added: 29 membership, 11 commander, 10 combatant, five office-holding, and three stated-result edges.
+- Expanded graph totals: 7,073 nodes and 16,025 edges, including 116 structured infobox edges. Unique edge IDs and endpoint validation passed.
+- Added `extract_infobox_edges.py`, `semantic-extraction-001.json`, and `RELATIONSHIP-MATRIX-SEMANTIC-001.md`.
+- Packaged the expanded graph and entity index as `SR-Doc-Lore-Graph-Semantic-001.zip`.
+- Limitations retained: exact wikilinks only, five infobox families modeled, no template rendering, no plain-text alias resolution, no transitive edges, and no canon adjudication.
+- No Bronze/Silver source modifications, canon edits, PR, merge, or branch promotion.
