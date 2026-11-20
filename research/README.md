@@ -8,7 +8,7 @@ This directory contains source-grounded audit ledgers, tranche evidence, depende
 ## Start here
 
 0. **[Research assistant protocol](continuity/RESEARCH-ASSISTANT-PROTOCOL.md)** — mandatory evidence, citation, contradiction, and abstention contract for lore answers.
-1. **[RAG implementation plan](rag/README.md)** — architecture and next build steps. A local read-only lexical retrieval prototype is implemented; exact-title and captured-redirect lookup are now available.
+1. **[RAG implementation plan](rag/README.md)** — architecture and next build steps. A local read-only lexical retrieval prototype is implemented; exact-title/redirect lookup and date-bearing contrast retrieval are available.
 2. **[Evidence packet schema](rag/evidence-packet.schema.json)** — machine-readable handoff format.
 3. **[Initial evaluation set](rag/evaluation-set-001.md)** — 20 candidate questions; not yet scored.
 
@@ -36,7 +36,7 @@ See the master register for definitions and interpretation limits. In particular
 
 ## Research assistant / RAG
 
-The RAG workstream now includes a source-grounded answer protocol, evidence packet schema, 20-question evaluation seed, archive validator, section-aware chunk builder, SQLite FTS5 index builder, and evidence-packet search CLI. The initial build produced 7,598 unique chunks across 3,092 text-bearing pages, with metadata for all 3,579 page records. 487 records have no non-whitespace text, including three empty main-namespace pages. Default search is main namespace only; context namespaces require explicit inclusion. The packaged index is `SR-Doc-RAG-Index-001.zip`; detailed results are in `rag/chunk-build-report-001.json`, with smoke tests in `rag/retrieval-smoke-tests-001.json`. Formal evaluation and alias resolution remain outstanding.
+The RAG workstream now includes a source-grounded answer protocol, evidence packet schema, 20-question evaluation seed, archive validator, section-aware chunk builder, SQLite FTS5 index builder, and evidence-packet search CLI. The initial build produced 7,598 unique chunks across 3,092 text-bearing pages, with metadata for all 3,579 page records. 487 records have no non-whitespace text, including three empty main-namespace pages. Default search is main namespace only; context namespaces require explicit inclusion. The packaged index has been extended as `SR-Doc-RAG-Index-002.zip` (local artifact; not committed as a binary); detailed results are in `rag/chunk-build-report-001.json`, with smoke tests in `rag/retrieval-smoke-tests-001.json`. Alias resolution is implemented. First-pass contrast retrieval now surfaces date-bearing comparison candidates without adjudicating them; formal benchmark scoring and semantic contradiction evaluation remain outstanding.
 
 ## Lore graph/index
 
@@ -115,3 +115,8 @@ Talk, Thread, User, and other community namespaces are editorial/contextual evid
 ### RAG retrieval update — 2026-11-20
 
 The local SQLite FTS5 prototype now supports exact page IDs, lexical main-namespace search, exact captured titles, and direct Wikitext redirect resolution. Run `build_alias_index.py` after the base index build to populate title/redirect keys. Redirect aliases preserve original page ID and target provenance; unresolved and ambiguous targets are not guessed. See [RAG implementation details](rag/README.md).
+
+
+### RAG retrieval update — contrast pass 001
+
+The search CLI now accepts `--contrast` to diversify lexical matches across pages and surface passages containing multiple year ranges for manual comparison. Four regression checks pass locally, including the Second Chinese Civil War 2027–2048 / 2105–2111 conflict on page 1413. This feature produces review candidates, not adjudicated contradictions. See [RAG implementation details](rag/README.md) and [test_search.py](rag/test_search.py).
