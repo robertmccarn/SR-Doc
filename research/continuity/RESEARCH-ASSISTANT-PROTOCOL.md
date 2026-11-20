@@ -43,11 +43,12 @@ For every substantive question:
 1. Parse the question into entities, aliases, event concepts, time bounds, and requested level of detail.
 2. Resolve candidate entities using exact title/namespace first, then known aliases and carefully qualified fuzzy matches. If identity remains ambiguous, retain multiple candidates or ask a focused clarification.
 3. Search both lexical and semantic evidence where available. Search exact names, alternate names, key terms, and relevant date/event phrases.
-4. Use the lore graph to discover candidate neighbors and relationships, but treat wiki links, categories, year mentions, and extracted infobox edges according to their individual semantics.
-5. Retrieve source passages from original captured pages for each claim that may appear in the answer. Include relevant surrounding context, not isolated snippets alone.
-6. Search for contradictory, superseding, or temporally incompatible evidence. Do not stop after finding the first plausible passage.
-7. Inspect source namespace and source class. Community namespaces are context, not automatic canon.
-8. Record retrieval coverage and limitations. If only a subset of corpus/indexes was searched, say so when material.
+4. By default, retrieve lore answers from main-namespace pages only. Search Talk, Thread, User, Message Wall, and other context namespaces only when explicitly requested or when investigating editorial history; label those results as community/context evidence.
+5. Use the lore graph to discover candidate neighbors and relationships, but treat wiki links, categories, year mentions, and extracted infobox edges according to their individual semantics.
+6. Retrieve source passages from original captured pages for each claim that may appear in the answer. Include relevant surrounding context, not isolated snippets alone.
+7. Search for contradictory, superseding, or temporally incompatible evidence. Do not stop after finding the first plausible passage.
+8. Inspect source namespace and source class. Community namespaces are context, not automatic canon.
+9. Record retrieval coverage and limitations. If only a subset of corpus/indexes was searched, say so when material.
 
 A graph-only result is insufficient for a definitive narrative answer. A semantic match without a source passage is a lead, not evidence.
 
