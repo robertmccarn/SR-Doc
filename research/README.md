@@ -5,7 +5,7 @@ This folder contains source-grounded audit ledgers and notes. It does not alter 
 ## Current audit status — 2026-11-20
 
 - Page corpus: 3,579 manifest records; all 3,579 raw Wikitext paths are present in the supplied ZIP archive.
-- **Pages directly read and SHA-256 verified: 2,416 / 3,579 (67.50%).**
+- **Pages directly read and SHA-256 verified: 2,713 / 3,579 (75.80%).**
 - Ledger: **2,713 read; 29 unverified_prior_claim; 837 not_started.**
 - Main namespace: **431 / 507 read (85.01%).**
 - Latest completed tranche: manifest entries **2401–2700**, all namespaces; 300/300 SHA-256 matches; 297 new unique verified reads.
