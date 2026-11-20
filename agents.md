@@ -751,3 +751,20 @@ Main namespace progress: 446/507. Detailed source notes: research/page-notes/man
 Talk/Thread records provide historical editorial context only. Key leads include 2027 leader fates, Korean reunification dates, Halvidar family casualties, COVID-era timeline revisions, competing Space Force rank proposals, Terran/Natural distinction, US commonwealth count, and geographic/table errors. No binary media visually inspected; media review remains 0/900.
 
 Cumulative ledger: 3,309 read; 25 unverified_prior_claim; 245 not_started (3,579 total). Next tranche: 3301–3579 (279 records, final tranche). Continue on audit/continuity-research; do not alter Bronze captures, merge, or open a PR without user approval.
+
+
+
+# Addendum O — Final page tranche 3301–3579 and page-corpus completion
+## Appended 2026-11-20
+
+All 279 original Bronze Wikitext sources at manifest entries 3301–3579 were opened in original manifest order. SHA-256 matched pages.json for all 279; zero missing files and zero mismatches. Combined Wikitext size: 246,970 bytes. Baseline: 9 read, 25 unverified prior claims, 245 not started; tranche added 270 newly source-verified unique reads.
+
+Namespace distribution: File 90; Main 70; Talk 49; Thread 27; User 20; Message Wall 15; Template 7; Category 1. Empty sources: 46 File descriptions, 12 Message Walls, 3 Main pages. Seventeen redirects across Main/User/Message Wall.
+
+**The entire page corpus is complete: 3,579/3,579 read and SHA-256 verified; 0 unverified prior claims; 0 not started. Main namespace 507/507.** This completes the page-reading phase only. Binary media visual inspection remains 0/900 and is a separate outstanding audit.
+
+Detailed notes: research/page-notes/manifest-3301-3579.md. Major continuity/QA issues include White Tide/Second American Civil War vs Aztlan War naming conflict; presidential timeline and Cory Booker→Kamala Harris redirect; NDF/AGWEST/AGEAST battle/command chronology; Mars state profile consistency; interstellar craft class renames; quantum capacitors/energy transfer/Dyson sphere/gravitonics dependency chain; Alo/UAP population and atmospheric-pressure discrepancies; sophont list quality; Canadian and European constitutional transitions; religious schism chronology; and explicitly provisional post-2160 material.
+
+Talk/Thread sources are historical editorial context, not automatically canon. The 2020 discussions reveal point-of-divergence and COVID revision debates, candidate speculation, creator approval constraints, and community moderation around the 2160 cutoff.
+
+Next phase: reconcile the 900-record media manifest against physical archive files, investigate checksum/name mismatches, and visually inspect assets. Do not claim visual inspection until actually performed. Then synthesize cross-corpus continuity findings. Continue on audit/continuity-research; do not alter Bronze captures, merge, or open a PR without user approval.
