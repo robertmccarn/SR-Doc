@@ -115,3 +115,13 @@ Initial asset-to-page reconciliation for media manifest entries 1–300 is docum
 - The 240 exact matches account for 295 asset-to-page references. Across all 900 records: 792 exact references, 11 raw/template/thread-only mentions, 97 with no discovered reference, and 1,696 exact-reference edges.
 - Detailed note: `media-notes/crossref-601-900.md`. Raw mentions and absent references are not proof of rendered use or orphan status.
 - Initial media-to-page reference pass is complete. Next: aliases, redirects, template/module expansion, and context validation.
+
+
+## Dependency reconciliation — pass 1
+
+- Reconciled all 906 File-namespace page records against the 900 media-manifest records. All 900 asset page IDs resolve to File pages; six File pages are outside the media manifest, including three redirects (Gerald Ford, William McKinley, Eagle 7 Booster) and three other pages.
+- Identified 141 distinct extracted image titles without exact media-manifest counterparts. 128 are referenced only from Template namespace, five only from Module, three only from main namespace, two from both Template and Module, and the remaining three are User, Thread, and File namespace cases. These are mostly generic template/module dependencies, not 141 confirmed missing article images.
+- Independent raw scan found 441 manifest titles in explicit `[[File:...]]`/`[[Image:...]]` links (749 occurrences). None of the 108 assets without exact extracted references had an exact normalized explicit File/Image wikilink in the captured raw corpus.
+- Re-examined the 11 literal-only cases; most are obsolete flag aliases, prose/Thread links, or near-name matches. `Xanthe Flag.png` is a direct country-data flag-alias lead; rendered use remains unverified.
+- Detailed method, all six extra File pages, namespace distribution, literal-only contexts, and limitations: `media-notes/dependency-reconciliation-pass-001.md`.
+- Next: resolve template alias chains and prioritize article-level dependencies; do not classify no-reference assets as orphans without further evidence.
