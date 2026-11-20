@@ -299,3 +299,13 @@ Matched first 300 media records against extracted image references in all 3,579 
 - The governance document explicitly governs its own future changes and prohibits creating competing governance documents. Its path is intended to remain stable.
 - No evidence, ledger, Bronze source, manifest, or canon was modified.
 - All changed files were fetched and verified after the updates. No merge, PR, or branch promotion.
+
+
+## 2026-11-20 — Lore graph/index schema and navigation layer
+
+- Inspected the supplied SR-Doc archive structure and Silver extraction formats. The archive contains 3,579 Bronze Wikitext page records; Silver includes 11,462 parsed-link records and 4,447 extracted year mentions.
+- Declared full-corpus scope, provisional page/entity ontology, directional predicate contract, source provenance requirements, temporal handling, and certainty/evidence-strength separation.
+- Added `research/lore-index/README.md`, `AGENT_NAVIGATION_GUIDE.md`, `RELATIONSHIP_MATRIX.md`, and `schema.json` on `audit/continuity-research`.
+- The schema explicitly prevents wiki links, category assignments, and year mentions from being mistaken for in-world semantic claims. It requires edge-level provenance and prohibits unverified transitive inference.
+- A local prototype graph was generated for validation, but the generated JSON/Markdown datasets have not yet been committed to the repository. Repository integration and artifact verification remain outstanding.
+- No Bronze captures, manifests, Silver source files, canon pages, or existing audit ledgers were modified. No merge, PR, or branch promotion.
