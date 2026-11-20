@@ -222,12 +222,14 @@ Do not report a reliability percentage until the test set is fixed and answers a
 
 ## 10. First implementation tasks
 
-The first coding unit is implemented as `validate_archive.py`; it is read-only and should be run before every corpus build. It:
-1. Accept an explicit archive path and optional graph package path.
-2. Verify archive SHA-256, expected manifest files, page counts, and required JSONL presence.
-3. Enumerate exact source paths and report missing/duplicate page IDs.
-4. Emit a machine-readable inventory report without modifying the archive.
-5. Fail closed on count/hash/schema mismatch; never silently skip malformed records.
+The first coding unit is implemented as `validate_archive.py`; it accepts an explicit archive path and optional report-output path, and is read-only. It:
+1. Computes and records the archive SHA-256.
+2. Checks required Bronze manifest and Silver JSONL members, normalized ZIP path collisions, unique page IDs, expected manifest/JSONL counts, and JSONL parseability.
+3. Enumerates all page-manifest source paths and recomputes SHA-256 for each captured Wikitext file.
+4. Emits a machine-readable inventory report without modifying the archive.
+5. Exits nonzero on missing members, malformed records, duplicate IDs/paths, source hash mismatches, or count mismatches.
+
+The current validator does not yet validate the separate graph package, compare the archive hash to a pinned expected value, or deeply validate every Silver field schema; those remain follow-up hardening tasks.
 
 Next implement section-aware extraction and FTS5 indexing. Do not build embeddings before the lexical baseline is measured.
 
