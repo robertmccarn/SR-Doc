@@ -1,0 +1,30 @@
+{
+  "validator": "sr-doc-archive-validator/1.0",
+  "archive": "SR-Doc-Audit.zip",
+  "archive_sha256": "d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8",
+  "zip_entries": 8076,
+  "counts": {
+    "pages_manifest": 3579,
+    "assets_manifest": 900,
+    "page_source_files_verified": 3579,
+    "page_source_files_missing": 0,
+    "page_hash_mismatches": 0,
+    "silver_pages": 3579,
+    "silver_relations": 11462,
+    "silver_timeline": 4447,
+    "physical_asset_files": 899
+  },
+  "checks": {
+    "unique_page_ids": true,
+    "all_page_sources_present": true,
+    "all_page_hashes_match": true,
+    "silver_pages_jsonl_valid": true,
+    "silver_relations_jsonl_valid": true,
+    "silver_timeline_jsonl_valid": true,
+    "required_members_present": true
+  },
+  "errors": [],
+  "warnings": [],
+  "read_only": true,
+  "status": "PASS"
+}
