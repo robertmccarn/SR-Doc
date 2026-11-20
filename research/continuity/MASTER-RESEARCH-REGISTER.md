@@ -4,6 +4,14 @@
 **Working branch:** `audit/continuity-research`  
 **Purpose:** Canonical navigation, status, definitions, findings, and handoff for the research notes. This register supersedes stale progress summaries in older append-only notes, but does not replace their detailed evidence.
 
+## Research assistant / RAG workstream
+
+- Answer contract: `research/continuity/RESEARCH-ASSISTANT-PROTOCOL.md` — normative retrieval, evidence, citation, contradiction, and abstention rules for lore answers.
+- Implementation plan: `research/rag/README.md` — staged architecture, corpus contract, retrieval design, evaluation criteria, risks, and next coding task.
+- Evidence transport: `research/rag/evidence-packet.schema.json` — JSON Schema 1.0 for portable retrieved evidence packets.
+- Evaluation seed: `research/rag/evaluation-set-001.md` — 20 candidate questions across direct facts, entity resolution, timelines, relationships, contradictions, and abstention. Not yet scored or fully source-keyed.
+- **Current status:** governance/specification artifacts created; no runnable RAG ingestion, index, query service, or answer verifier exists yet. Next implementation unit is a read-only archive inventory/ingestion validator.
+
 ## Documentation governance
 
 - Normative maintenance protocol: `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
@@ -75,6 +83,13 @@ Independent raw-Wikitext scan found 441 distinct media-manifest titles in explic
 - Do not interpret 141 unmatched titles as 141 missing article images.
 
 ## Canonical note inventory
+
+### Research assistant / RAG
+- `research/continuity/RESEARCH-ASSISTANT-PROTOCOL.md` — normative answer and evidence-handling contract.
+- `research/rag/README.md` — architecture and staged implementation plan.
+- `research/rag/evidence-packet.schema.json` — machine-readable evidence packet schema.
+- `research/rag/evaluation-set-001.md` — initial 20-question evaluation set; authoring template, not scored.
+
 
 ### Core navigation and ledgers
 - `research/README.md` — concise project status and navigation.
