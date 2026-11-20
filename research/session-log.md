@@ -353,3 +353,15 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Updated the RAG plan, master register, and research README: archive validation is complete; next is section-aware chunk extraction with provenance, followed by SQLite FTS5 lexical retrieval. Embeddings remain deferred until lexical retrieval is evaluated.
 - The validator is read-only and does not modify Bronze/Silver source files. The archive hash identifies this exact ZIP; a different ZIP must be validated and will produce its own report.
 - No canon edits, merge, PR, or branch promotion.
+
+
+## 2026-11-20 — Section-aware corpus chunks and SQLite FTS5 retrieval baseline
+
+- Added `research/rag/build_index.py`: pins the validated source archive SHA-256, verifies every page Wikitext against the Bronze manifest, uses Silver heading offsets to segment page text, creates bounded chunks (1,800-character target with 180-character overlap), assigns stable chunk IDs, and builds page metadata, chunk, and FTS5 tables.
+- Added `research/rag/search.py`: performs lexical FTS5 search or exact page-ID retrieval and emits evidence packets carrying page ID, title, namespace, revision, source path, source SHA-256, archive snapshot, section path, character offsets, and chunk ID. Ordinary search is restricted to main namespace; `--include-context` opts into all namespaces. Explicit page-ID retrieval can inspect any namespace.
+- Executed the local build against the pinned archive. Result: 3,579 page metadata rows; 7,598 chunks with 7,598 unique IDs; 7,598 FTS rows; 3,092 pages with non-whitespace text. 487 records have no text chunks; three are main namespace pages with zero-byte Wikitext: New Lion City (3616), Lakota Republic (3698), and Vietnam (3744). Metadata for all 3,579 pages is retained.
+- Smoke-tested lexical retrieval for `Third Chinese Civil War 2105`, which returned the Third Chinese Civil War source page and relevant sections including First period of war (2105–2111). Tested page-ID retrieval for page 1408. These are smoke tests only, not a formal evaluation score.
+- Added `research/rag/chunk-build-report-001.json` and packaged the generated chunks plus SQLite database as `SR-Doc-RAG-Index-001.zip` (8.2 MB compressed). The generated database is a local build artifact, not committed as a binary Git object.
+- Updated the evidence packet schema to permit `context` source classification. The search CLI defaults to main namespace to avoid treating community/editorial material as lore evidence.
+- Remaining work: exact title alias/redirect resolution, benchmark answer keys, retrieval recall/citation evaluation, and contradiction-focused search. Embeddings remain deferred.
+- No Bronze/Silver source bytes, manifests, canon pages, or audit ledgers were modified. No merge, PR, or branch promotion.
