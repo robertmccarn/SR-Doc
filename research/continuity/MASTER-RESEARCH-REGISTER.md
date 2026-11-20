@@ -10,7 +10,7 @@
 - Implementation plan: `research/rag/README.md` — staged architecture, corpus contract, retrieval design, evaluation criteria, risks, and next coding task.
 - Evidence transport: `research/rag/evidence-packet.schema.json` — JSON Schema 1.0 for portable retrieved evidence packets.
 - Evaluation seed: `research/rag/evaluation-set-001.md` — 20 candidate questions across direct facts, entity resolution, timelines, relationships, contradictions, and abstention. Not yet scored or fully source-keyed.
-- **Current status:** governance/specification artifacts created; no runnable RAG ingestion, index, query service, or answer verifier exists yet. Next implementation unit is a read-only archive inventory/ingestion validator.
+- **Current status:** protocol/schema/evaluation seed and a read-only archive validator are committed. The supplied archive passed validation: SHA-256 `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`; 8,076 ZIP entries; 3,579/3,579 page source files present and hash-matched; 3,579 Silver pages, 11,462 relations, 4,447 timeline rows valid; 900 asset manifest records and 899 physical asset files. No lexical index or query service exists yet. Next: section-aware chunks and SQLite FTS5.
 
 ## Documentation governance
 
@@ -85,6 +85,8 @@ Independent raw-Wikitext scan found 441 distinct media-manifest titles in explic
 ## Canonical note inventory
 
 ### Research assistant / RAG
+- `research/rag/validate_archive.py` — read-only archive structure, page SHA-256, manifest count, and Silver JSONL validator.
+- `research/rag/archive-validation-001.json` — passing report for the supplied `SR-Doc-Audit.zip` snapshot.
 - `research/continuity/RESEARCH-ASSISTANT-PROTOCOL.md` — normative answer and evidence-handling contract.
 - `research/rag/README.md` — architecture and staged implementation plan.
 - `research/rag/evidence-packet.schema.json` — machine-readable evidence packet schema.
