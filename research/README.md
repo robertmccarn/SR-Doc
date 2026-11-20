@@ -36,7 +36,7 @@ See the master register for definitions and interpretation limits. In particular
 
 ## Research assistant / RAG
 
-The RAG workstream is in specification/readiness stage. The answer protocol, staged implementation plan, evidence packet schema, and 20-question evaluation seed are committed. No runnable retrieval service or indexed corpus is claimed yet. The next coding task is a read-only archive inventory/ingestion validator, followed by section-aware chunks and SQLite FTS5 lexical retrieval.
+The RAG workstream has a source-grounded answer protocol, staged plan, evidence packet schema, 20-question evaluation seed, and a read-only archive validator. The supplied archive passed: 3,579/3,579 page source files hash-matched; Silver counts 3,579 / 11,462 / 4,447; 900 asset manifest rows and 899 physical files. The archive SHA-256 and full report are recorded in `rag/archive-validation-001.json`. No lexical index or query service exists yet; next is section-aware chunk extraction and SQLite FTS5.
 
 ## Lore graph/index
 
