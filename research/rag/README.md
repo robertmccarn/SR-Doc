@@ -234,7 +234,27 @@ The archive validator does not yet validate the separate graph package or deeply
 
 The section-aware chunker and FTS5 lexical baseline are now implemented. Next: alias/redirect resolution, retrieval evaluation, and contradiction-oriented retrieval. Do not build embeddings before the lexical baseline is measured.
 
-## 11. Initial corpus and lexical baseline results\n\n- Archive SHA-256: `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`.\n- Page metadata rows: 3,579; text chunks: 7,598; unique chunk IDs: 7,598; FTS rows: 7,598.\n- Pages with non-whitespace source text: 3,092. Captured records without text chunks: 487; three are main-namespace pages with zero-byte Wikitext (`New Lion City`, `Lakota Republic`, `Vietnam`). Other zero-text records are largely File and Message Wall pages. Their page metadata remains searchable by page ID in the index.\n- Default lexical search is restricted to namespace 0. `--include-context` is required to search all namespaces; explicit page-ID retrieval can retrieve any namespace. This prevents Talk/Thread/User material from silently entering ordinary lore answers.\n- Test query `Third Chinese Civil War 2105` returned the source page and section passages, including `First period of war (2105-2111)`; page-ID lookup for 1408 returned its ordered passages. This is a smoke test, not a benchmark score.\n- Build output is packaged as `SR-Doc-RAG-Index-001.zip`; detailed counts are in `chunk-build-report-001.json`.\n\n## 12. Definition of done for the initial prototype
+### Rebuild and search
+
+From the repository root, with the validated source archive available locally:
+
+```powershell
+python research/rag/build_index.py .\\SR-Doc-Audit.zip --chunks chunks.jsonl --db srdoc_fts5.sqlite --report chunk-build-report.json
+python research/rag/search.py "Third Chinese Civil War 2105" --db srdoc_fts5.sqlite -k 8 --json
+```
+
+The builder rejects a different archive hash by default. Use `--allow-unpinned-archive` only when intentionally indexing a new snapshot, and retain its new build report. Search defaults to namespace 0; use `--include-context` only when editorial/community context is deliberately wanted. Retrieve a known page with `--page-id 1408 --db srdoc_fts5.sqlite --json`.
+
+## 11. Initial corpus and lexical baseline results
+
+- Archive SHA-256: `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`.
+- Page metadata rows: 3,579; text chunks: 7,598; unique chunk IDs: 7,598; FTS rows: 7,598.
+- Pages with non-whitespace source text: 3,092. Captured records without text chunks: 487; three are main-namespace pages with zero-byte Wikitext (`New Lion City`, `Lakota Republic`, `Vietnam`). Other zero-text records are largely File and Message Wall pages. Their page metadata remains searchable by page ID in the index.
+- Default lexical search is restricted to namespace 0. `--include-context` is required to search all namespaces; explicit page-ID retrieval can retrieve any namespace. This prevents Talk/Thread/User material from silently entering ordinary lore answers.
+- Test query `Third Chinese Civil War 2105` returned the source page and section passages, including `First period of war (2105-2111)`; page-ID lookup for 1408 returned its ordered passages. This is a smoke test, not a benchmark score.
+- Build output is packaged as `SR-Doc-RAG-Index-001.zip`; detailed counts are in `chunk-build-report-001.json`.
+
+## 12. Definition of done for the initial prototype
 
 The prototype is ready for informal use only when:
 - the source archive and snapshot are identified reproducibly;
