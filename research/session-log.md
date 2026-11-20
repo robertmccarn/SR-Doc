@@ -239,3 +239,12 @@ Matched first 300 media records against extracted image references in all 3,579 
 - The 284 exact matches represent 525 asset-to-page edges. Multiplicity and all 16 no-exact-reference assets are recorded in `research/media-notes/crossref-301-600.md`.
 - Cumulative entries 1–600: 552 exact references, seven raw/template-only mentions, 41 with no discovered reference, and 1,401 exact-reference edges. These are extracted-index findings, not rendered-use or orphan determinations.
 - Next: entries 601–900. Preserve source material and distinguish template/module aliases from direct page references.
+
+
+## 2026-11-20 — Cross-corpus media reconciliation tranche 601–900
+
+- Compared media manifest entries 601–900 against extracted `images` metadata across all 3,579 captured page records; for nonmatches, searched all raw Wikitext for exact filenames and space/underscore variants.
+- Exact extracted references: 240/300 (80.0%); 60 absent from extracted metadata. Four have raw filename mentions (three in Thread/comment records and one in President of the United States); 56 have no discovered literal mention.
+- The 240 exact matches represent 295 asset-to-page edges. Full no-reference list, raw-mention locations, and multiplicities are in `research/media-notes/crossref-601-900.md`.
+- Cumulative all-manifest results: 792 exact extracted references, 11 raw/template/thread-only mentions, 97 with no discovered reference, and 1,696 exact-reference edges. This reconciles the initial corpus-wide exact-title count of 792. These are extracted-index and raw-string results, not proof of rendered dependencies or orphan status.
+- The initial 900-asset cross-reference pass is complete. Next: reconcile filename aliases and redirects, expand template/module dependencies where feasible, and validate important assets against page context.
