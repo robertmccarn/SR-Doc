@@ -1,9 +1,9 @@
 # SR-Doc — AI session swap memory
 
 > **Role:** Compact, repo-backed handoff snapshot for AI work. This file is mutable working memory, not canon, source evidence, or a chronological log.
-> **Last verified against GitHub:** 2026-11-20
+ > **Last verified against GitHub:** 2026-11-20 (immediately before this swap refresh commit)
 > **Branch:** `audit/continuity-research`
-> **Branch HEAD at last verification:** `7d75aa432c11ba32f9f474d8df439a5df54f2ba1`
+> **Branch HEAD at last verification:** `ef0426be4e495d1579301b1ebfb38b0c622ef982`
 > **Maintainer:** User-directed SR-Doc workflow; agents may update this file under `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
 
 ## 1. Mission and standing constraints
@@ -89,7 +89,15 @@ Generated local index ZIP is `SR-Doc-RAG-Index-002.zip`; it is a build artifact,
 - Recent changed files include `research/rag/search.py`, `research/rag/test_search.py`, `research/rag/contrast-smoke-tests-001.json`, RAG README, master register, research README, session log, and `agents.md`.
 - No PR, merge, branch promotion, or canon/source-data edit was performed for that milestone.
 
-## 8. Session closeout checklist
+## 8. Memory system established
+
+- Canonical swap path: `.ai/swap.md`.
+- Memory procedures: section 12 of `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
+- Session startup pointer: `agents.md`.
+- Research navigation: `research/README.md`; canonical status pointer: `research/continuity/MASTER-RESEARCH-REGISTER.md`.
+- The setup itself is recorded in `research/session-log.md`. No secrets are stored here.
+
+## 9. Session closeout checklist
 
 Before ending a work session:
 - Verify branch and HEAD from GitHub.
