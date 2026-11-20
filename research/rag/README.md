@@ -166,11 +166,13 @@ Do not report a reliability percentage until the test set is fixed and answers a
 - [x] Define the research assistant answer protocol.
 - [x] Define the source/retrieval architecture and evidence packet.
 - [x] Define evaluation categories and initial acceptance target.
-- [ ] Add machine-readable schema and evaluation cases.
-- [ ] Review source archive reproducibility and ingestion inputs.
+- [x] Add machine-readable schema and evaluation cases.
+- [x] Review and validate the supplied source archive structure, hashes, and ingestion inputs.
 
 ### Phase 1 — Corpus preparation
-- [ ] Inventory exact Bronze/Silver archive paths and manifests.
+- [x] Inventory required Bronze/Silver archive paths and manifests; read-only validator committed at `validate_archive.py`.
+- [x] Verify supplied archive SHA-256, manifest counts, page source paths/hashes, and Silver JSONL structure; result: `archive-validation-001.json`.
+- [ ] Verify and document any additional source snapshot inputs (for example, separately distributed graph package) before indexing.
 - [ ] Verify archive hash and source counts at ingestion time.
 - [ ] Produce stable page and section/chunk JSONL with provenance.
 - [ ] Preserve original source bytes and hash linkage.
@@ -220,14 +222,14 @@ Do not report a reliability percentage until the test set is fixed and answers a
 
 ## 10. First implementation tasks
 
-The next coding unit should be a read-only corpus inventory/ingestion validator, not the full RAG stack. It should:
+The first coding unit is implemented as `validate_archive.py`; it is read-only and should be run before every corpus build. It:
 1. Accept an explicit archive path and optional graph package path.
 2. Verify archive SHA-256, expected manifest files, page counts, and required JSONL presence.
 3. Enumerate exact source paths and report missing/duplicate page IDs.
 4. Emit a machine-readable inventory report without modifying the archive.
 5. Fail closed on count/hash/schema mismatch; never silently skip malformed records.
 
-After that validator is reviewed, implement section-aware extraction and FTS5 indexing. Do not build embeddings before the lexical baseline is measured.
+Next implement section-aware extraction and FTS5 indexing. Do not build embeddings before the lexical baseline is measured.
 
 ## 11. Definition of done for the initial prototype
 
