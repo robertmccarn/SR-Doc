@@ -687,3 +687,19 @@ Cumulative page-ledger status: 1830 read; 65 unverified prior claims; 1684 not s
 ## Process note
 
 This tranche was retrieved from the repository's exact Bronze source paths listed in the committed page ledger. A full 300-file SHA-256 check was performed. For future large batches, keep per-page review type-sensitive: substantive Main articles need thematic notes; Talk/Thread material needs editorial-context notes; templates need parameter/alias review; File descriptions must not be confused with visual inspection of binary media.
+
+
+# Addendum K — Manifest tranche 2101–2400
+## Appended 2026-11-20
+
+- Source archive: user-provided `SR-Doc-Audit.zip` in the project Library (259,012,077 bytes; 8,076 ZIP entries; ZIP integrity test passed).
+- Archive manifest has 3,579 page records and all 3,579 raw Wikitext paths. Read all 300 source files at manifest entries 2101–2400 in manifest order and across all namespaces.
+- Recomputed SHA-256 for all 300 UTF-8 source files: 300/300 matched `pages.json`; zero mismatches.
+- Baseline ledger state for tranche: 10 read, 11 unverified_prior_claim, 279 not_started. All 300 now read; 290 new unique verified reads.
+- Namespace distribution: File 80; Thread 66; Template 51; Main 38; Talk 31; User 13; Category 11; Message Wall 6; Module 4.
+- Main namespace comprises 28 substantive pages and 10 redirects. Detailed page-level notes and redirects are in `research/page-notes/manifest-2101-2400.md`.
+- 62 File-description sources are empty and 18 nonempty; five Message Walls are empty. No binary media was visually inspected. Media inspection remains 0/900.
+- Important leads: Ahuiateteo project start in 2080s predates stated 2090 Vacuum Command creation; Vacuum Command vs Secretariat of Orbital Defense hierarchy unclear; UPG 2091 foundation wording says predecessor existed before WWIII (2051–55); Mediterranean Union 2076 prose vs 2077 infobox; US Army General of the Army list-count mismatches (12 vs 11 and three vs four); Venus distance/gravity values conflict with the actual planet; US state/territory list has malformed Ohio row and skipped territory number 3; Population growth talk explicitly says ignore figures pending revision.
+- Editorial context includes Venus colonial population dispersal, O'Neil ships/counterweight asteroids as city-like rather than state-like, alternate-history Mexican victory scenario, creator preferences for insect scale and portraits, US federal hierarchy, alien settlement patterns, translation/copying restrictions, and an unresolved question about Turkish operations in neutral Iran. Treat Talk/Thread content as context, not automatically canon.
+- Cumulative ledger: 2,416 read; 36 unverified prior claims; 1,127 not started. Main namespace: 413/507 read. Next tranche: 2401–2700.
+- Continue on `audit/continuity-research`. Preserve Bronze source wording and all contradictions; do not edit Bronze captures, merge, or open a PR without user approval.
