@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0.0",
+  "node": {
+    "required": ["id", "canonical_name", "entity_type", "namespace", "status"],
+    "optional": ["page_id", "source_path", "source_url", "revision_id", "aliases", "summary", "classification_method"],
+    "id_conventions": {
+      "entity": "ent:<stable-slug>",
+      "source_page": "page:<page_id>",
+      "category": "category:<stable-slug>",
+      "year": "year:<YYYY>"
+    }
+  },
+  "edge": {
+    "required": ["id", "source", "predicate", "target", "bidirectional", "inverse_predicate", "temporal_scope", "certainty", "evidence_strength", "evidence", "weight"],
+    "certainty_values": ["explicit_link", "explicit_metadata", "explicit_infobox_field", "explicit_text_extraction", "inferred", "unresolved"],
+    "evidence_strength_values": ["direct_structural", "structured_source_claim", "mention_only", "inferred"],
+    "weight_semantics": "Retrieval-priority hint only; not probability or truth score",
+    "temporal_scope": "Null unless the source provides an explicit temporal scope; a year mention is not a validity interval."
+  },
+  "rules": [
+    "Every edge has one source and one target; inverse traversal is explicit.",
+    "Every claim-bearing edge preserves source page ID, title, path, revision, and a locator.",
+    "Wiki links, category membership, and year mentions are not semantic in-world claims.",
+    "Contradictory claims remain separate and are surfaced in diagnostics.",
+    "Transitive semantic edges require independent validation of every hop."
+  ]
+}
