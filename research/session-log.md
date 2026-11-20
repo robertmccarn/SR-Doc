@@ -158,3 +158,18 @@
 - Detailed notes: research/page-notes/manifest-2401-2700.md.
 - Cumulative page ledger: 2713 read; 29 unverified prior claims; 837 not started (3,579 total). Main namespace: 431/507. Media visual inspection remains 0/900; no binary media was visually inspected.
 - Next tranche: manifest entries 2701–3000.
+
+
+## 2026-11-20 — All-namespace manifest tranche 2701–3000
+
+- Opened all 300 original Bronze Wikitext files in manifest order from SR-Doc-Audit.zip, across all namespaces.
+- Recomputed SHA-256 for each source: 300/300 matched pages.json; zero missing files and zero mismatches. Combined raw source size: 233,928 bytes.
+- Baseline ledger: 3 read, 1 unverified_prior_claim, 296 not_started. All 300 now marked read; 297 new unique verified reads.
+- Namespace distribution: File 105; Talk 91; Thread 47; Message Wall 16; User 16; Main 12; Template 12; Category 1.
+- Empty Wikitext: 88 (72 File descriptions, 16 Message Walls). Three redirects: List of countries by population -> Population growth; Zeus-class dreadnought -> Olympus-class dreadnought; Template:Progressive Democrat/meta/color -> Template:Progressive Democrat (United States)/meta/color.
+- Main namespace: 12 records; nine newly verified and three previously read. New reads: Neo-Jeffersonianism; Through a Dark Mirror; Tropical Antarctica; The American Troubles; Corey Marshall; United States Constitution; The Great Experiment; Zeus-class dreadnought; Venezuela. Previously read: List of countries by population; List of countries by population, 2160; International Space Station.
+- Reviewed 91 Talk and 47 Thread records. Key editorial context: four-tier Earth government; competing population totals and subspecies breakdown; proposed regional party strength and Liberal Party absorption; unresolved tactile-neural cyberattack question during India Crisis; ISS described as Ship-of-Theseus-like; proposed Mexican civil conflict as a plot direction. Not automatically canon.
+- Major continuity priorities: The Great Experiment's London Conference 2138, Mexican absorption bill 2140, and Fabian inauguration 2141; constitutional chronology; population-scope discrepancy; occupation/protectorate/free-association/annexation distinctions; Lachman-era political transformation; alternate-history isolation for Through a Dark Mirror; incomplete Venezuela later-war sections.
+- File descriptions only; no binary media visually inspected. Media review remains 0/900.
+- Detailed notes: research/page-notes/manifest-2701-3000.md.
+- Cumulative ledger: 3,010 read; 28 unverified_prior_claim; 541 not_started. Main namespace: 440/507. Next tranche: 3001–3300.
