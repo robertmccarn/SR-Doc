@@ -89,3 +89,8 @@ The 900-record asset manifest is being audited separately from page Wikitext. Ea
 - Detailed notes and mismatch register: `media-notes/manifest-301-600.md`.
 - Cumulative visual review: 600/900 (66.67%); 600/899 physical assets mapped; 531 exact matches and 69 discrepancies. The failed asset at page ID 3525 remains unresolved.
 - Next: manifest entries 601–900.
+
+
+## Media audit — complete
+
+All 900 media-manifest records have been reconciled against archive paths. There are 899 physical assets; entry 815 (page ID 3525, `File:K8ch1z55ucnz.png`) is the one failed/missing asset. All 899 available files were decoded/parsed and visually reviewed at contact-sheet thumbnail scale: 728 exact SHA-1/size matches, 171 mismatches, zero decode failures. The missing asset is not visually reviewable. See `research/media-ledger.csv` and the three tranche notes in `research/media-notes/`. This does not verify visual authenticity or semantic/canonical correctness. Next phase is cross-referencing media against Wikitext and synthesizing continuity findings.
