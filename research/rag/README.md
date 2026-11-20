@@ -1,6 +1,6 @@
 # RAG readiness and implementation plan
 
-**Status:** Initial implementation specification; no retrieval service is claimed to exist yet.
+**Status:** Read-only lexical retrieval prototype implemented; exact-title and captured-redirect resolution added (2026-11-20). No hosted retrieval service is claimed.
 **Working branch:** `audit/continuity-research`
 **Goal:** Make SR-Doc usable as a portable, source-grounded retrieval corpus for ChatGPT and later applications.
 
@@ -180,11 +180,11 @@ Do not report a reliability percentage until the test set is fixed and answers a
 
 ### Phase 2 — Lexical retrieval baseline
 - [x] Build SQLite FTS5 database from prepared chunks.
-- [x] Implement exact page-ID lookup and title/section/body lexical search. Alias resolution remains outstanding.
+- [x] Implement exact page-ID lookup and title/section/body lexical search. Exact title and explicit redirect lookup are available through `--title`.
 - [x] Return source passages with stable page/revision/hash/path/section/character-offset citations.
 - [x] Add CLI search command that emits evidence packets conforming to schema 1.0.
 - [x] Test exact-name/phrase retrieval and page-ID lookup against known corpus passages.
-- [ ] Add explicit title alias/redirect resolution and retrieval evaluation.
+- [x] Add exact title-key and captured Wikitext redirect resolution; redirect targets remain explicit mappings, not entity merges. Retrieval evaluation remains outstanding.
 
 ### Phase 3 — Graph-assisted and semantic retrieval
 - [ ] Load the versioned graph package as optional sidecar.
@@ -266,3 +266,13 @@ The prototype is ready for informal use only when:
 - the 20-case evaluation is scored and its limitations documented.
 
 This plan describes intended work. A checked box means the artifact or decision exists in the repository; it does not imply runtime functionality or a passing evaluation unless explicitly stated.
+
+
+## 10. Exact title and redirect resolution — pass 001
+
+- Added `build_alias_index.py`, a post-build step that reads the immutable archive manifest and raw redirect source text, then creates a `title_keys` table in SQLite. It stores normalized exact-title keys, original title/page IDs, redirect target title, resolved target page ID (only when unique), and resolution status.
+- Normalization is deliberately narrow: underscores become spaces, repeated whitespace is collapsed, and matching is case-insensitive. No fuzzy matching, namespace guessing, synonym inference, or entity consolidation.
+- Added `--title` to `search.py`. Exact title lookup returns its page; a captured redirect returns target-page evidence while retaining redirect source page ID/title in `resolved_entities.via_*`. Ambiguous and unresolved targets are not silently selected.
+- Build after base index: `python research/rag/build_alias_index.py SR-Doc-Audit.zip --db srdoc_fts5.sqlite`. Example: `python research/rag/search.py --title "Main Page" --db srdoc_fts5.sqlite --json`.
+- Local archive test: 3,764 title-key rows and 3,575 distinct normalized titles; 83 redirects uniquely resolved, 101 unresolved, one ambiguous. Smoke tests: Main Page → Second Renaissance Wikia (84→2); File:180px-Gerald Ford.jpg → File:Gerald Ford.jpg (288→285); exact Third Chinese Civil War → page 1408; unknown title abstains.
+- Limitations: first direct `#REDIRECT [[target]]` only. No redirect chains, fragments, namespace aliases, interwiki redirects, malformed syntax recovery, fuzzy matching, or automatic entity merging. Non-main namespace results are labelled context. No Bronze/Silver source bytes changed; SQLite remains a generated artifact.
