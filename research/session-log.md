@@ -120,3 +120,23 @@
 - Reviewed 36 country-data templates and 117 File-description pages. No binary media was visually inspected. Media review remains 0/900.
 - Detailed notes: `research/page-notes/manifest-1801-2100.md`.
 - Cumulative ledger: 2,126 read; 47 unverified prior claims; 1,406 not started (3,579 total). Main namespace: 385/507 read. Next tranche: 2101–2400.
+
+
+## 2026-11-20 — All-namespace manifest tranche 2101–2400
+
+- Opened the user-provided `SR-Doc-Audit.zip` from the project Library. ZIP size: 259,012,077 bytes; 8,076 entries; ZIP integrity check passed.
+- The archive includes the 3,579-record `bronze/manifests/pages.json` and all 3,579 raw Wikitext paths.
+- Read all 300 raw Bronze Wikitext files at manifest entries 2101–2400 in original manifest order, across all namespaces.
+- Recomputed SHA-256 for every raw UTF-8 source and compared it with the archive manifest: 300/300 matched; zero mismatches.
+- Baseline ledger statuses: 10 already read, 11 unverified prior claims, 279 not started. All 300 rows are now marked read, adding 290 new unique verified reads.
+- Namespace distribution: File descriptions 80; Thread 66; Template 51; Main 38; Talk 31; User 13; Category 11; Message Wall 6; Module 4.
+- Main namespace: 28 substantive pages and 10 redirects. Substantive pages include the German successor republics, Joaquín Andrade, Ir'ba, United States Army, Mexican Vacuum Command, Latin American Union/UPG, Third Agricultural Revolution, Chemical Element, Al-Hasa, Flora and Fauna of Venus, US state/territory lists, Oort Cloud, Mediterranean Union, Liberacion Party, PRC, Demographics, Population growth, American Empire, A State of Merit, Tanning the Donkey, The Great Deluge, Starbound, and Inevitable Tetrapods.
+- 62 of the 80 File-description Wikitext pages are empty; 18 contain category/description text. Five Message Walls are empty. These are reviewed Wikitext records, not binary media inspection.
+- Fourteen redirects were reviewed (10 Main, two User, one Message Wall, one Template). Spanish Empire and League of Nations point to external Wikipedia targets; Korean War (2018–2021) points to Korean Crisis.
+- Important continuity leads: Project Ahuiateteo is said to begin in the 2080s although the Mexican Vacuum Command is said to be created in 2090; the Vacuum Command and Secretariat of Orbital Defense hierarchy is ambiguous; UPG 2091 founding language references a predecessor “before World War III” (2051–55); Mediterranean Union prose 2076 vs infobox 2077; US Army General of the Army prose says 12 but lists 11, while General of the Armies prose says three holders but lists four; Venus distance/gravity figures conflict with actual Venus; US state/territory table has malformed Ohio row and skipped territory number 3; Population growth Talk explicitly says to ignore its population figures pending revision.
+- Editorial discussions preserve authorial guidance on colonial demographic dispersal on Venus, O'Neil ships/counterweights being city-like rather than states, an alternate-history Mexican victory scenario, limits on insect size and portrait accessories, US federal/commonwealth/state/county hierarchy, alien settlement patterns, translation/copying permission, and an unanswered question about Turkish operations in neutral Iran. These are not automatically canon.
+- Detailed notes: `research/page-notes/manifest-2101-2400.md`.
+- Cumulative page ledger: 2,416 read; 36 unverified prior claims; 1,127 not started (3,579 total). Main namespace: 413/507 read.
+- Media visual inspection remains 0/900. The ZIP has 899 physical asset files and the asset manifest has 900 records; file-description review does not count as visual inspection.
+- Next tranche: manifest entries 2401–2700.
+
