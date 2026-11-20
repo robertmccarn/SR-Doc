@@ -99,3 +99,11 @@ All 900 media-manifest records have been reconciled against archive paths. There
 ## Cross-corpus reconciliation — underway
 
 Initial asset-to-page reconciliation for media manifest entries 1–300 is documented in `research/media-notes/crossref-001-300.md`. Exact extracted page-image references are distinct from raw filename mentions and template aliases. Initial tranche: 268/300 exact extracted references; 32 without, of which six have raw/template filename mentions and 26 have no discovered literal mention. A corpus-wide first-pass title comparison found 792 exact asset matches, 108 assets without extracted references, and 141 extracted image titles without exact manifest counterparts. These are leads, not confirmed orphans/missing files. See the note for limitations and next steps.
+
+
+### Cross-corpus reconciliation — tranche 301–600
+
+- Manifest entries 301–600: 284/300 exact extracted page-image references; 16 absent from extracted metadata, of which one has a raw/template mention and 15 have no discovered literal filename mention.
+- The 284 exact matches account for 525 asset-to-page references. Combined with tranche 1, entries 1–600 have 552 exact matches, seven raw/template-only mentions, and 41 with no discovered reference.
+- Detailed note: `media-notes/crossref-301-600.md`. A raw/template mention is not proof of rendered use; absence from the extracted index is not proof of an orphan.
+- Next: manifest entries 601–900.
