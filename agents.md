@@ -778,3 +778,13 @@ Reviewed media manifest entries 1–300 in original order. Mapped every record t
 37 mismatches are exactly 18 bytes smaller than the manifest, likely metadata/comment differences; remaining mismatches have larger deltas. Do not treat a checksum mismatch as proof of visual corruption. Do not modify Bronze bytes or manifest values. Potential unconfirmed design-review leads: Flag of Dubai appears plain red; Flag of Patagonia appears red/green bicolor; Hispaniola asset appears as four plain color quadrants. See `research/media-notes/manifest-001-300.md` for full mismatch SHA-1 register and notes.
 
 Progress: 300/900 visually reviewed; 300/899 physical files mapped; 243 exact; 57 hash/size mismatches; zero missing within this batch. One known failed manifest record remains: page ID 3525, `File:K8ch1z55ucnz.png`. Next batch is manifest entries 301–600. Keep visual inspection separate from Wikitext review, preserve manifest order, and do not merge/open a PR without user approval.
+
+
+# Addendum Q — Media audit tranche 2 (manifest 301–600)
+## Appended 2026-11-20
+
+Reviewed media manifest entries 301–600 in original order. All 300 mapped to `bronze/assets/{page_id}-{filename}`. Recomputed SHA-1 and size: 288 exact, 12 mismatches, zero missing. All 300 decoded/parsed (269 PNG, 14 SVG, 12 JPG, 3 GIF, one JPEG, one extensionless raster). All 300 were visually reviewed in 12 contact sheets; no obvious blank, truncated, or corrupt asset at thumbnail scale. Generic silhouette portraits are intentional placeholders. Dense maps/charts should be examined at full resolution if later semantic review requires it.
+
+Mismatch indices: 303, 304, 307, 308, 331, 379, 549, 550, 551, 552, 556, 567. Full SHA-1 and size evidence in `research/media-notes/manifest-301-600.md` and `research/media-ledger.csv`. Larger deltas for Arch of Reunification, DMZ, Guadalupe Victoria portrait, and Mars 2050 warrant provenance follow-up. Several other mismatches are 18-byte deltas. Do not alter Bronze files or manifest values.
+
+Cumulative: 600/900 visually reviewed; 600/899 mapped; 531 exact matches; 69 mismatches; zero missing in reviewed tranches. The known failed manifest record page ID 3525 remains outside the reviewed range. Next batch is manifest entries 601–900. Preserve original manifest order and do not merge/open a PR without user approval.
