@@ -22,7 +22,7 @@
     }, "additionalProperties": true},
     "evidence": {"type": "array", "items": {"type": "object", "required": ["evidence_id", "source_class", "title", "text"], "properties": {
       "evidence_id": {"type": "string"},
-      "source_class": {"enum": ["primary", "structured_extraction", "audit", "synthesis", "community", "external"]},
+      "source_class": {"enum": ["primary", "structured_extraction", "audit", "synthesis", "community", "context", "external"]},
       "page_id": {"type": ["string", "null"]},
       "title": {"type": "string"},
       "namespace": {"type": ["string", "integer", "null"]},
