@@ -433,3 +433,9 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Confirmed Q20's exact title `Association of East Asia` has no page record, while the hyphenated `Association of East-Asia` page 1927 exists. The answer key requires abstention from silently equating the titles.
 - Updated the RAG README, master register, and research README. The answer key is a source-reviewed draft; maintainer sign-off and benchmark scoring remain pending. No retrieval recall/precision or reliability score is claimed.
 - No Bronze/Silver bytes, manifests, canon pages, or binary indexes were changed. No merge, PR, or branch promotion.
+
+
+## 2026-11-20 — Correction: exact evaluation locator boundary
+
+- Corrected Q09 and Q15 in `research/rag/evaluation-set-001.md`: the Second Chinese Civil War infobox `date` value occupies characters 114–125 (the field label begins at 109). The earlier draft's range ended one character early.
+- No source content or expected answer changed; only the locator was corrected against page 1413 revision 11017.
