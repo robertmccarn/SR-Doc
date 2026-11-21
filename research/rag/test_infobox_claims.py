@@ -23,6 +23,11 @@ class InfoboxParserTests(unittest.TestCase):
         self.assertEqual(len(parsed), 1)
         self.assertEqual([p["parameter_name"] for p in parsed[0][3]], ["value", "real"])
 
+    def test_template_namespace_prefix_is_recognized(self):
+        parsed = list(iter_infoboxes("{{Template:Infobox officeholder|name=[[Person]]}}"))
+        self.assertEqual(len(parsed), 1)
+        self.assertEqual(parsed[0][2], "Template:Infobox officeholder")
+
     def test_linked_entity_offsets_are_absolute(self):
         links = linked_entities("before [[Entity|label]] after", 100)
         self.assertEqual(links[0]["target"], "Entity")
