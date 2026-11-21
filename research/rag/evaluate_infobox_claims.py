@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Conservatively identify repeated infobox-field values within one source scope."""
+"""Conservatively compare infobox claims only when event scope is explicitly aligned."""
 from __future__ import annotations
 
 import argparse
@@ -15,36 +15,42 @@ def value_key(value: str) -> str:
 
 
 def evaluate_claims(claims: list[dict]) -> dict:
-    groups = defaultdict(list)
+    scoped_groups = defaultdict(list)
+    unscoped_groups = defaultdict(list)
+
     for claim in claims:
-        # A page is the subject identity; one exact infobox invocation and one exact
-        # parameter name provide the narrowest defensible event/field comparison scope.
-        key = (
-            str(claim.get("page_id")),
-            claim.get("template_instance_id"),
-            claim.get("normalized_parameter_name"),
-        )
-        groups[key].append(claim)
+        subject_id = str(claim.get("page_id"))
+        event_scope_id = claim.get("event_scope_id")
+        template_name = claim.get("template_name")
+        field_name = claim.get("normalized_parameter_name")
+        if event_scope_id:
+            key = (subject_id, str(event_scope_id), template_name, field_name)
+            scoped_groups[key].append(claim)
+        else:
+            # Repeated parameter names in one template are not enough to prove
+            # a shared event scope: officeholder infoboxes can encode multiple roles.
+            key = (subject_id, claim.get("template_instance_id"), template_name, field_name)
+            unscoped_groups[key].append(claim)
 
     candidates = []
-    for (page_id, instance_id, field_name), items in groups.items():
-        distinct = {}
+    for (page_id, event_scope_id, template_name, field_name), items in scoped_groups.items():
+        distinct = defaultdict(list)
         for item in items:
-            distinct.setdefault(value_key(item.get("raw_parameter_value", "")), []).append(item)
+            distinct[value_key(item.get("raw_parameter_value", ""))].append(item)
         if len(distinct) < 2:
             continue
         candidates.append({
             "candidate_id": f"IC{len(candidates) + 1:04d}",
             "subject_page_id": page_id,
             "subject_title": items[0].get("title"),
-            "template_name": items[0].get("template_name"),
-            "template_instance_id": instance_id,
+            "event_scope_id": event_scope_id,
+            "template_name": template_name,
             "parameter_name": items[0].get("parameter_name"),
             "normalized_parameter_name": field_name,
             "comparison_basis": {
                 "subject": "same captured page ID",
-                "event_scope": "same infobox invocation",
-                "field_semantics": "same exact normalized parameter name",
+                "event_scope": "explicit shared event_scope_id supplied by reviewed annotation",
+                "field_semantics": "same exact normalized parameter name within the same template family",
             },
             "distinct_raw_values": [
                 {
@@ -56,23 +62,53 @@ def evaluate_claims(claims: list[dict]) -> dict:
                 for normalized, value_items in distinct.items()
             ],
             "status": "candidate_conflict_requires_source_review",
-            "warning": "Competing values are surfaced, not adjudicated. Confirm template semantics and source context before classifying them.",
+            "warning": "Competing values are surfaced, not adjudicated. Confirm source context and field semantics before classifying them.",
+        })
+
+    unresolved = []
+    for (page_id, instance_id, template_name, field_name), items in unscoped_groups.items():
+        distinct = defaultdict(list)
+        for item in items:
+            distinct[value_key(item.get("raw_parameter_value", ""))].append(item)
+        if len(distinct) < 2:
+            continue
+        unresolved.append({
+            "subject_page_id": page_id,
+            "subject_title": items[0].get("title"),
+            "template_instance_id": instance_id,
+            "template_name": template_name,
+            "parameter_name": items[0].get("parameter_name"),
+            "normalized_parameter_name": field_name,
+            "status": "not_compared_event_scope_unresolved",
+            "distinct_raw_values": [
+                {
+                    "comparison_value": normalized,
+                    "claim_ids": [item.get("claim_id") for item in value_items],
+                    "raw_values": [item.get("raw_parameter_value") for item in value_items],
+                    "locators": [item.get("provenance", {}).get("locator") for item in value_items],
+                }
+                for normalized, value_items in distinct.items()
+            ],
+            "reason": "Repeated values share a page, infobox invocation, and parameter name, but may represent different roles/events or a multi-valued field. No event scope is inferred.",
         })
 
     return {
         "schema_version": "1.0",
         "claims_evaluated": len(claims),
         "comparison_policy": {
-            "compares_only": "claims sharing page ID, exact infobox invocation, and exact normalized parameter name",
+            "compares_only": "claims sharing page ID, explicit reviewed event_scope_id, template family, and exact normalized parameter name",
             "does_not_compare": [
+                "claims without an explicit event_scope_id",
                 "different page subjects without an explicit entity-equivalence mapping",
                 "different parameter names, even when both contain dates",
-                "claims with unknown or unaligned event scope",
+                "different template families",
             ],
             "normalization": "whitespace collapse only; original raw values remain in evidence",
         },
         "candidate_conflicts": candidates,
         "candidate_count": len(candidates),
+        "unresolved_comparisons": unresolved,
+        "unresolved_comparison_count": len(unresolved),
         "adjudication": "none",
     }
 
