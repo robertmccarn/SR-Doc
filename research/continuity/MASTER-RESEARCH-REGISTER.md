@@ -9,7 +9,7 @@
 - Answer contract: `research/continuity/RESEARCH-ASSISTANT-PROTOCOL.md` — normative retrieval, evidence, citation, contradiction, and abstention rules for lore answers.
 - Implementation plan: `research/rag/README.md` — staged architecture, corpus contract, retrieval design, evaluation criteria, risks, and next coding task.
 - Evidence transport: `research/rag/evidence-packet.schema.json` — JSON Schema 1.0 for portable retrieved evidence packets.
-- Evaluation seed: `research/rag/evaluation-set-001.md` — 20 candidate questions across direct facts, entity resolution, timelines, relationships, contradictions, and abstention. Not yet scored or fully source-keyed.
+- Evaluation seed: `research/rag/evaluation-set-001.md` — 20 source-keyed questions across direct facts, entity resolution, timelines, relationships, contradictions, and abstention. Page identities and critical claims have an independent archive cross-check; maintainer sign-off and scoring remain pending.
 - **Current status:** protocol/schema/evaluation seed, read-only archive validator, section-aware chunker, SQLite FTS5 index builder, exact-title/redirect index builder, evidence-packet search CLI, source-aware infobox claim extractor, claim schema, and conservative same-scope comparison CLI are committed. Archive SHA-256: `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`. Corpus: 3,579 page metadata rows, 7,598 unique chunks, 7,598 FTS rows; 3,092 pages have text chunks. 487 captured records have no non-whitespace text, including three empty main-namespace pages. Default lexical search is main namespace only; context namespaces require explicit inclusion. Exact title/redirect lookup is opt-in via `--title` and preserves redirect provenance. Smoke tests passed; no benchmark score yet.
 
 ## Documentation governance
@@ -263,3 +263,11 @@ The append-only session log deliberately retains chronology. It should not be re
 - Parser design uses brace-stack-aware Wikitext template scanning to handle nested templates and triple-brace parameters. A local parser-equivalent probe against the pinned archive identified 143 infobox invocations and 4,381 parameter candidates across 507 main-namespace pages. This is not a committed-CLI execution or a formal test result.
 - Runtime verification of the committed extractor/evaluator/tests is pending. The two repeated-parameter groups from the probe are documented as unresolved because their event scope is not established; they are not classified as conflicts. The 20-question evaluation seed now has a source-reviewed answer-key draft with exact page IDs and character locators; maintainer sign-off and scoring remain pending.
 - No Bronze/Silver source data, manifests, canon pages, or generated binary index were changed.
+
+
+## RAG — benchmark source verification pass 001
+
+- Independently re-read the ten Bronze page records used by `research/rag/evaluation-set-001.md` from the pinned archive and recomputed each source SHA-256 against the page manifest. All ten page IDs, exact titles, revision IDs, paths, and hashes matched.
+- Cross-checked the critical chronology/infobox claims used by the benchmark, including the distinct Second Chinese Civil War `date` and `combatant1` fields, Third Chinese Civil War phase labels, the UFC/FRoC 2108 transition, repeated 20th-century history fields, Joseph Loveridge's Chairman-role values, and the Association's 2140 establishment date.
+- Confirmed the referenced historical orthographic-projection SVG is not in the captured 900-record asset manifest; confirmed the exact-title absence cases for `UFC` and `Association of East Asia`, with the hyphenated page 1927 retained as a near-match only.
+- This is a targeted independent archive cross-check, not a fresh full-corpus validation, maintainer sign-off, exhaustive character-locator audit, committed CLI/test execution, or scored benchmark. The 20-case draft remains unapproved and unscored.
