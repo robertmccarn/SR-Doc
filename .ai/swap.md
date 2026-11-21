@@ -3,7 +3,7 @@
 > **Role:** Compact, repo-backed handoff snapshot for AI work. This file is mutable working memory, not canon, source evidence, or a chronological log.
 > **Last verified against GitHub: 2026-11-21 (after evaluation-set locator verification)
 > **Branch:** `audit/continuity-research`
-> **Branch HEAD before this swap refresh: 60ee996c6ebaa1ac3ba0c7b7ac3999aa2dbc5a3e
+> **Branch HEAD before this swap refresh: de6e1437a6dd8c14ec76978ec595f1131482a64b
 > **Maintainer:** User-directed SR-Doc workflow; agents may update this file under `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
 
 ## 1. Mission and standing constraints
@@ -90,7 +90,7 @@ Generated local index ZIP is `SR-Doc-RAG-Index-002.zip`; it is a build artifact,
 - Last verified HEAD before this swap refresh is recorded at the top of this file.
 - Latest milestone: five committed parser/comparison regression tests passed in GitHub Actions; continuity validation, compileall, and existing pytest suite also passed. The committed extractor/evaluator ran against the pinned archive; all 4,381 claims passed schema/offset/provenance validation, with deterministic repeat output. See `research/rag/infobox-claim-validation-001.json`.
 - New files: `research/rag/extract_infobox_claims.py`, `research/rag/evaluate_infobox_claims.py`, `research/rag/infobox-claim.schema.json`, `research/rag/test_infobox_claims.py`, `research/rag/infobox-claim-validation-001.json`.
-- Updated permanent docs: RAG README, infobox pass-001 note, master register, research README, session log, and `agents.md`.
+- Updated permanent docs: RAG README, infobox pass-001 note, evaluation set and locator report, master register, research README, session log, and `agents.md`.
 - No PR, merge, branch promotion, or canon/source-data edit was performed for that milestone.
 
 ## 8. Memory system established
