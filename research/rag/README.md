@@ -204,6 +204,7 @@ Do not report a reliability percentage until the test set is fixed and answers a
 
 ### Phase 5 — Evaluation and iteration
 - [x] Draft source-reviewed expected evidence page IDs, locators, answer elements, pitfalls, and abstention expectations for all 20 cases; maintainer sign-off is pending.
+- [x] Independently verify all ten source-page identities, 51 cited locator/content ranges, and seven exact-title/map-boundary checks against the pinned archive; correct Q16/Q17 locators. Maintainer sign-off and scoring remain pending.
 - [ ] Score retrieval and answer quality separately.
 - [ ] Fix corpus/chunk/retrieval failures before tuning prompts.
 - [ ] Record failure examples and regression tests.
@@ -305,7 +306,9 @@ Each claim retains original page ID/title, namespace, revision, archive SHA-256,
 
 Comparison is deliberately narrower than date-pattern matching. A `date` parameter and a date-like string embedded in `combatant1` are different fields and are not compared. Claims from different page subjects are not compared without an explicit entity-equivalence mapping. The extractor does not infer event scope: only a reviewed `event_scope_id` permits candidate comparison. Repeated parameters without that annotation are reported as unresolved, not as conflicts. Candidate conflicts require source review; no canonical value is selected.
 
-Important limitation: the committed CLI and unittest file have not yet been executed in this environment. A local parser-equivalent scan of the pinned archive was used to probe brace handling and coverage: 507 main-namespace pages, 143 infobox invocations, and 4,381 parameter candidates after correcting nested-brace matching. It surfaced two repeated-parameter groups whose event scope is unresolved; these are not classified as conflicts. See `infobox-claims-pass-001.md`. This probe is not a run of the committed CLI and is not a formal validation result. The next step is to execute the committed extractor and tests against the pinned ZIP, compare its report with this probe, inspect the two repeated-field unresolved groups, the source-keyed 20-question evaluation draft has since received an independent targeted archive cross-check of its ten page identities and critical source claims (see `evaluation-set-001.md`); obtain maintainer sign-off before scoring retrieval and answer quality separately.
+Committed runtime verification is complete for the pinned snapshot: the exact committed extractor emitted 4,381 claims from 507 main-namespace pages and 143 infobox invocations; all 4,381 records passed the claim schema, raw-value and linked-entity offsets, template bounds, and source-provenance checks. A second run was byte-identical. The evaluator found zero scoped candidate conflicts and retained the two repeated-parameter groups (page 636 `office`; page 1343 `order`) as unresolved. See `infobox-claim-validation-001.json` and `infobox-claims-pass-001.md`.
+
+The 20-case evaluation draft has also passed independent source-locator review: ten page identities, 51 cited range/content checks, and seven exact-title/map-boundary checks passed; Q16/Q17 locators were corrected. See `evaluation-locator-validation-001.json`. Maintainer sign-off remains pending before retrieval and answer scoring.
 
 Example:
 ```powershell
