@@ -1,0 +1,65 @@
+{
+  "report_id": "infobox-claim-validation-001",
+  "status": "PASS",
+  "execution_date": "2026-11-21",
+  "branch": "audit/continuity-research",
+  "archive": {
+    "filename": "SR-Doc-Audit.zip",
+    "sha256": "d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8",
+    "pinned_hash_match": true
+  },
+  "executed_sources": {
+    "extractor_path": "research/rag/extract_infobox_claims.py",
+    "extractor_git_blob_sha": "43e7395e720f6763b6c3fe037a8b3ed516c05783",
+    "schema_path": "research/rag/infobox-claim.schema.json",
+    "schema_git_blob_sha": "b5365269b5718b73b1f7f27a59bde06a9078eace",
+    "evaluator_path": "research/rag/evaluate_infobox_claims.py",
+    "evaluator_git_blob_sha": "c9d62274ddb1bf183af12d13f84803243d1e48e0"
+  },
+  "environment": {
+    "python": "3.13.5",
+    "jsonschema": "4.26.0",
+    "json_schema_draft": "2020-12"
+  },
+  "extraction": {
+    "namespace_scope": "main (namespace 0)",
+    "pages_scanned": 507,
+    "infobox_invocations": 143,
+    "parameter_claims": 4381,
+    "unique_claim_ids": 4381,
+    "source_errors": 0,
+    "output_sha256": "e7e951f8c9878b1c3bc69d7876ca8b24fdeac1d522eb595fcb3c346efe959e35",
+    "repeat_run_exit_code": 0,
+    "repeat_run_output_sha256": "e7e951f8c9878b1c3bc69d7876ca8b24fdeac1d522eb595fcb3c346efe959e35",
+    "repeat_run_byte_identical": true
+  },
+  "schema_validation": {
+    "records_validated": 4381,
+    "validation_errors": 0,
+    "raw_value_offset_mismatches": 0,
+    "template_range_boundary_errors": 0,
+    "value_outside_template_errors": 0,
+    "linked_entity_offset_mismatches": 0,
+    "linked_entity_outside_value_errors": 0,
+    "source_provenance_mismatches": 0
+  },
+  "evaluation": {
+    "claims_evaluated": 4381,
+    "candidate_conflicts": 0,
+    "unresolved_comparison_groups": 2,
+    "unresolved_groups": [
+      {
+        "page_id": "636",
+        "title": "United States presidential election, 2132",
+        "parameter": "office"
+      },
+      {
+        "page_id": "1343",
+        "title": "Joseph Loveridge",
+        "parameter": "order"
+      }
+    ],
+    "adjudication": "none"
+  },
+  "interpretation": "Committed extractor, schema, and evaluator source were verified against their Git blob SHAs before execution. All results are derived extraction/validation results for the pinned archive; they do not adjudicate lore or resolve the two unscoped repeated-parameter groups. The JSONL output is a local generated artifact and is not committed."
+}
