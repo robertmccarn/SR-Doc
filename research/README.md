@@ -13,7 +13,7 @@ This directory contains source-grounded audit ledgers, tranche evidence, depende
 0. **[Research assistant protocol](continuity/RESEARCH-ASSISTANT-PROTOCOL.md)** — mandatory evidence, citation, contradiction, and abstention contract for lore answers.
 1. **[RAG implementation plan](rag/README.md)** — architecture and next build steps. A local read-only lexical retrieval prototype is implemented; exact-title/redirect lookup and date-bearing contrast retrieval are available.
 2. **[Evidence packet schema](rag/evidence-packet.schema.json)** — machine-readable handoff format.
-3. **[Initial evaluation set](rag/evaluation-set-001.md)** — 20 source-keyed answer-key drafts with page IDs and locators; ten source-page identities and critical claims independently cross-checked against the pinned archive; maintainer sign-off and scoring pending.
+3. **[Initial evaluation set](rag/evaluation-set-001.md)** — 20 source-keyed answer-key drafts with page IDs and locators; ten source-page identities and critical claims independently cross-checked against the pinned archive; Q18's map reference is present in page metadata but its binary is missing from the asset archive; maintainer sign-off and scoring pending.
 - **[Infobox claim schema](rag/infobox-claim.schema.json)** — provenance-preserving derived parameter claim contract.
 - **[Infobox extractor](rag/extract_infobox_claims.py)** and **[conservative comparison](rag/evaluate_infobox_claims.py)** — raw values and explicitly scoped candidate review; runtime verification pending. See [pass-001 evidence](rag/infobox-claims-pass-001.md).
 
