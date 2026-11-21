@@ -201,7 +201,7 @@ Do not report a reliability percentage until the test set is fixed and answers a
 - [ ] Validate citations and abstention behavior manually.
 
 ### Phase 5 — Evaluation and iteration
-- [ ] Complete source-reviewed expected evidence and answer keys for all 20 benchmark cases.
+- [x] Draft source-reviewed expected evidence page IDs, locators, answer elements, pitfalls, and abstention expectations for all 20 cases; maintainer sign-off is pending.
 - [ ] Score retrieval and answer quality separately.
 - [ ] Fix corpus/chunk/retrieval failures before tuning prompts.
 - [ ] Record failure examples and regression tests.
@@ -302,7 +302,7 @@ Each claim retains original page ID/title, namespace, revision, archive SHA-256,
 
 Comparison is deliberately narrower than date-pattern matching. A `date` parameter and a date-like string embedded in `combatant1` are different fields and are not compared. Claims from different page subjects are not compared without an explicit entity-equivalence mapping. The extractor does not infer event scope: only a reviewed `event_scope_id` permits candidate comparison. Repeated parameters without that annotation are reported as unresolved, not as conflicts. Candidate conflicts require source review; no canonical value is selected.
 
-Important limitation: the committed CLI and unittest file have not yet been executed in this environment. A local parser-equivalent scan of the pinned archive was used to probe brace handling and coverage: 507 main-namespace pages, 143 infobox invocations, and 4,381 parameter candidates after correcting nested-brace matching. It surfaced two repeated-parameter groups whose event scope is unresolved; these are not classified as conflicts. See `infobox-claims-pass-001.md`. This probe is not a run of the committed CLI and is not a formal validation result. The next step is to execute the committed extractor and tests against the pinned ZIP, compare its report with this probe, inspect the two repeated-field unresolved groups, and add reviewed evidence keys to the 20-question evaluation seed.
+Important limitation: the committed CLI and unittest file have not yet been executed in this environment. A local parser-equivalent scan of the pinned archive was used to probe brace handling and coverage: 507 main-namespace pages, 143 infobox invocations, and 4,381 parameter candidates after correcting nested-brace matching. It surfaced two repeated-parameter groups whose event scope is unresolved; these are not classified as conflicts. See `infobox-claims-pass-001.md`. This probe is not a run of the committed CLI and is not a formal validation result. The next step is to execute the committed extractor and tests against the pinned ZIP, compare its report with this probe, inspect the two repeated-field unresolved groups, obtain maintainer sign-off on the source-keyed 20-question evaluation draft, and then score retrieval and answer quality separately.
 
 Example:
 ```powershell
