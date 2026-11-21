@@ -191,7 +191,7 @@ Do not report a reliability percentage until the test set is fixed and answers a
 - [ ] Implement entity resolution and bounded graph expansion.
 - [ ] Add embeddings only if evaluation shows lexical retrieval gaps.
 - [x] Add a first-pass date-bearing contrast mode that diversifies lexical results across pages and flags multiple year ranges in one passage as review candidates. This is retrieval support, not semantic contradiction adjudication.
-- [x] Add source-aware infobox parameter extraction and a conservative same-subject/same-infobox/same-field comparison pass; runtime corpus validation and broader semantic alignment remain outstanding.
+- [x] Add source-aware infobox parameter extraction and a conservative comparison CLI that requires explicit reviewed event-scope alignment in addition to subject/template/field matching; runtime corpus validation remains outstanding.
 - [ ] Preserve predicate direction and edge provenance.
 
 ### Phase 4 — ChatGPT workflow
