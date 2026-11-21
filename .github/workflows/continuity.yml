@@ -3,7 +3,8 @@ name: Narrative continuity
 on:
   pull_request:
   push:
-    branches: [main, master]
+    branches: [main, master, audit/continuity-research]
+  workflow_dispatch:
 
 jobs:
   validate:
@@ -14,6 +15,8 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install -r requirements-dev.txt
+      - name: Test source-aware infobox extraction and comparison
+        run: python -m unittest discover -s research/rag -p "test_infobox_claims.py" -v
       - run: python -m sr_doc.validate
       - run: python -m compileall -q sr_doc
       - run: pytest
