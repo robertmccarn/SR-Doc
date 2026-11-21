@@ -156,8 +156,8 @@
       "interpretation": "All expected page IDs were discovered, but eight exact locator ranges were not present in the first-stage top-k passages. A follow-up full-page fetch for the already retrieved page IDs covered all 55 registered ranges. This is conditional page-expansion coverage, not first-stage passage recall."
     },
     "entity_resolution": {
-      "exact_title_cases": 9,
-      "exact_title_correct": 9,
+      "exact_title_cases": 8,
+      "exact_title_correct": 8,
       "captured_redirect_cases": 1,
       "redirect_correct": 1,
       "redirect_example": {
