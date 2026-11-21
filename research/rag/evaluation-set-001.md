@@ -1,8 +1,8 @@
 # Initial RAG evaluation set — source-reviewed answer-key draft
 
-**Status:** All 20 questions now have candidate source page IDs, source locators, answer criteria, pitfalls, and abstention expectations. This is a source-reviewed draft, not a scored benchmark. Maintainer review/sign-off and retrieval/answer scoring remain pending.
-**Source snapshot:** Bronze archive SHA-256 `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`.
-**Review record:** Agent-assisted source review, 2026-11-20; independent maintainer sign-off pending.
+**Status:** Maintainer-approved baseline (2026-11-21). All 20 questions have source page IDs, locators, answer criteria, pitfalls, and abstention expectations. Retrieval benchmark pass 001 is recorded; answer-generation quality, generated-citation precision, and claim support remain unscored.
+**Source snapshot:** Bronze archive SHA-256 `d1af0775d69def6ef442b66393e3ad84db6cb6b9ecf9138170573fdfe0a02c8`.
+**Review record:** Source-locator review completed 2026-11-21; maintainer approved this set as the baseline on 2026-11-21. See `evaluation-locator-validation-001.json` and `retrieval-benchmark-pass-001.json`.
 
 ## Evaluation cases
 
@@ -89,3 +89,17 @@ Critical claim cross-checks included the Second Chinese Civil War's separate `da
 The ten registered page identities (IDs 655, 1927, 1319, 84, 2, 2418, 1413, 1408, 1343, and 649) were re-read and their page ID, exact title, revision, source path, and SHA-256 matched the pinned archive manifest. Fifty-one cited range/content checks passed; seven exact-title and missing-map boundary checks passed. Q18's map reference remains present in both page sources and their manifest `images` metadata but absent from the asset manifest and ZIP. Q19's full article body was reviewed and does not establish a named initiator's private motivation; Q20's exact unhyphenated title remains absent while the hyphenated near-title exists. Machine-readable result: `evaluation-locator-validation-001.json`.
 
 This is a source-locator verification correction, not maintainer sign-off, retrieval scoring, or an answer-quality benchmark. The evaluation set remains a draft pending maintainer review.
+
+## Maintainer approval and retrieval benchmark pass 001
+
+**Approval:** The maintainer approved this 20-case set as the baseline for benchmark scoring on 2026-11-21. The approved baseline is unchanged; query strings and retrieval settings are documented in the machine-readable run report.
+
+**Retrieval result:** All 19 cases with expected source pages retrieved every expected page ID within the top five unique page candidates (27 expected page-ID instances). Macro/micro page recall was 0.807/0.704 at rank 1, 0.982/0.963 at rank 2, and 1.000/1.000 at rank 5. Q07 resolved the captured redirect Main Page (page 84) to Second Renaissance Wikia (page 2), preserving the source page. Q20's exact-title lookup returned no evidence and did not fuzzy-merge the hyphenated near-title.
+
+**Passage-level result:** First-stage top-k passages covered 47/55 registered character ranges (85.5%). Eight ranges were missed across Q09, Q10, Q15, and Q16 even though their expected pages were retrieved. A follow-up full-page expansion for the already retrieved page IDs covered 55/55 ranges. This shows that page discovery is stronger than first-stage passage selection; page expansion is currently necessary for complete evidence coverage on these cases.
+
+**Precision and contradiction caveats:** Exact-title lookups were page-precise; ordinary lexical-query mode had macro unique-page precision 0.526; contrast mode at k=16 had 0.104. The contrast heuristic surfaced the known page-1413 multi-range candidate in both relevant cases, but also returned additional date-pattern candidates requiring source review. These are candidate leads, not adjudicated false positives or confirmed contradictions. A post-hoc k=2 sweep improved observed page precision on these same three queries, but is not adopted as a default because it was tuned on the evaluation set.
+
+**Evidence-packet contract correction:** Initial validation found 9/20 packets failed the schema because `exact_title` and `redirect_target` emitted by the search CLI were absent from the schema enum. The schema now permits the emitted statuses (`exact`, `exact_title`, `redirect_target`, `alias`, `ambiguous`, `ambiguous_exact_title`, `unresolved`). After the correction, all 20 captured packets passed JSON Schema Draft 2020-12 validation locally. Three standard-library contract tests were added for CI; GitHub Actions result is pending at the time of this entry.
+
+**Not scored in this pass:** generated-answer correctness, citation precision of answer claims, claim support rate, semantic contradiction precision, and automated abstention for Q18/Q19. The run used a local source-equivalent reconstruction of the index/search scripts; those local files were not byte-identical to the repository blobs. Treat these numbers as an exploratory baseline reproduction, not proof that the exact committed scripts ran against the archive. Full details and per-case outputs are summarized in `retrieval-benchmark-pass-001.json`.
