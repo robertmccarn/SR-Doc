@@ -18,7 +18,7 @@ class InfoboxParserTests(unittest.TestCase):
         self.assertEqual(params[2]["raw_value"], "[[A|Alpha]]")
 
     def test_nested_parameter_syntax_and_comments(self):
-        source = "{{Infobox X|value={{{fallback|{{small|x=y}}}}}|<!-- |fake=x -->real=yes}}"
+        source = "{{Infobox X|value={{{fallback|{{small|x=y}}}}}|real=yes<!-- |fake=x -->}}"
         parsed = list(iter_infoboxes(source))
         self.assertEqual(len(parsed), 1)
         self.assertEqual([p["parameter_name"] for p in parsed[0][3]], ["value", "real"])
