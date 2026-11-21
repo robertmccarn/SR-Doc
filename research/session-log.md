@@ -474,3 +474,15 @@ Matched first 300 media records against extracted image references in all 3,579 
 - GitHub Actions run `44925739208` on commit `7536b81674f72628dc5bebbff5b0b7cd6b615983` completed successfully. All five committed infobox parser/comparison tests passed under CPython 3.11.18. The continuity validator passed, `compileall -q sr_doc` passed, and the existing pytest suite passed (2 tests).
 - This is actual execution of the committed test file from a GitHub checkout, replacing the earlier pending-test status. It does not execute `extract_infobox_claims.py` against the uploaded Bronze archive because the archive is not available in the workflow checkout; CLI/archive comparison and JSON Schema validation remain outstanding.
 - Updated the pass-001 note, RAG README, master register, and research README. No source archive or canon was changed; no PR, merge, or branch promotion.
+
+
+## 2026-11-21 — Committed infobox extractor archive execution and schema validation
+
+- Retrieved the committed extractor, claim schema, and evaluator from `audit/continuity-research` and verified their Git blob SHAs before execution: extractor `43e7395e720f6763b6c3fe037a8b3ed516c05783`, schema `b5365269b5718b73b1f7f27a59bde06a9078eace`, evaluator `c9d62274ddb1bf183af12d13f84803243d1e48e0`.
+- Executed the exact extractor source against `/mnt/data/SR-Doc-Audit.zip`. The archive SHA-256 matched the pinned value. Result: PASS; 507 main-namespace pages, 143 infobox invocations, 4,381 parameter claims, 4,381 unique claim IDs, zero source errors. Counts match the earlier parser-equivalent development probe.
+- Validated all 4,381 emitted records against the committed JSON Schema Draft 2020-12 using `jsonschema` 4.26.0 under CPython 3.13.5: zero schema errors. Independently checked exact raw-value slices, template boundaries, value containment, linked-entity slices/containment, and source hash/provenance: zero mismatches.
+- Re-ran the extractor from the same exact source. Both runs exited 0 and produced byte-identical JSONL; output SHA-256 `e7e951f8c9878b1c3bc69d7876ca8b24fdeac1d522eb595fcb3c346efe959e35`.
+- Executed the exact committed evaluator source against all 4,381 claims: zero scoped candidate conflicts and two unresolved repeated-parameter groups (page 636 `office`; page 1343 `order`). No event scope was inferred and no claims were adjudicated.
+- Added `research/rag/infobox-claim-validation-001.json` and updated the pass-001 note, RAG README, master register, and research README. The generated JSONL/comparison outputs remain local derived artifacts and are not committed.
+- This closes the committed extractor/archive/schema execution gate for the pinned snapshot. Maintainer sign-off and scoring of the 20-question evaluation set, retrieval-quality measurement, and broader parser coverage remain outstanding.
+- No Bronze/Silver source bytes, manifests, lore canon, merge, PR, or branch promotion were changed or performed.
