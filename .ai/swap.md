@@ -42,7 +42,6 @@ Key files:
 - `research/rag/evaluation-set-001.md`
 - `research/rag/evaluation-locator-validation-001.json`
 - `research/rag/retrieval-benchmark-pass-001.json`
-- `research/rag/retrieval-benchmark-pass-001.json`
 - `research/rag/README.md`
 - `research/continuity/RESEARCH-ASSISTANT-PROTOCOL.md`
 
