@@ -448,3 +448,12 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Confirmed the historical orthographic-projection SVG named by pages 655 and 649 is absent from the 900-record asset manifest. Confirmed exact-title absence for `UFC` and `Association of East Asia`, while preserving the hyphenated page 1927 as a near-match only.
 - Updated the evaluation draft, RAG README, master register, research README, and agent handoff. The benchmark remains a draft: maintainer sign-off and scoring are pending. This was a targeted source cross-check, not an exhaustive character-offset audit, full-corpus validation, committed extractor/test run, or retrieval benchmark.
 - No Bronze/Silver bytes, manifests, canon pages, or generated binary indexes were modified. No merge, PR, or branch promotion.
+
+
+## 2026-11-20 — Correction: Q18 map reference versus missing asset
+
+- A targeted recheck of the pinned Bronze archive found that the prior evaluation draft and pass-001 verification text incorrectly described the historical orthographic-projection SVG as absent from the page manifest.
+- The filename `File:Republic of China (orthographic projection historical).svg` is present in the raw `image_map` fields on pages 649 and 655 and in both pages' extracted `images` arrays in `bronze/manifests/pages.json`.
+- The filename has no row in `bronze/manifests/assets.json` (900 records), and no matching physical binary exists in the ZIP. Corrected Q18 and the verification note to distinguish a captured reference from a missing captured asset. The exact-boundary abstention remains justified; no territory was inferred.
+- Updated the master register and research README. This corrects provenance wording only; no Bronze/Silver source, manifest, asset, or canon was changed.
+- No merge, PR, or branch promotion.
