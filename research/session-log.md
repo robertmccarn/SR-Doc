@@ -423,3 +423,13 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Updated the claim schema to permit an optional reviewed `event_scope_id`, the regression tests, RAG README, master register, and detailed note `research/rag/infobox-claims-pass-001.md`.
 - This supersedes the earlier same-infobox-instance comparison wording in this session's pass-001 entry. No event scope was inferred for either observed duplicate group.
 - No Bronze/Silver source bytes, manifests, or canon were modified. No merge, PR, or branch promotion.
+
+
+## 2026-11-20 — RAG 20-question evaluation seed source-keyed
+
+- Re-opened the pinned Bronze archive and reviewed primary Wikitext for the selected evaluation pages. Updated `research/rag/evaluation-set-001.md` with expected page IDs, exact captured titles/revisions, archive-relative source paths and SHA-256 values, character locators, answer elements, pitfalls, acceptable uncertainty, and abstention expectations for all 20 questions.
+- Replaced unresolved bracketed placeholders with source-backed cases. The set now covers direct facts, contextual abbreviation vs alias, exact redirect provenance, distinct entity identity, date/phase retrieval, infobox relationships, unresolved chronology, missing-map abstention, private-motive abstention, and exact-title absence with a hyphenated near-match.
+- Confirmed Q18's referenced historical orthographic-projection SVG is absent from both the page manifest and 900-record asset manifest in this archive snapshot. This does not establish that the asset never existed.
+- Confirmed Q20's exact title `Association of East Asia` has no page record, while the hyphenated `Association of East-Asia` page 1927 exists. The answer key requires abstention from silently equating the titles.
+- Updated the RAG README, master register, and research README. The answer key is a source-reviewed draft; maintainer sign-off and benchmark scoring remain pending. No retrieval recall/precision or reliability score is claimed.
+- No Bronze/Silver bytes, manifests, canon pages, or binary indexes were changed. No merge, PR, or branch promotion.
