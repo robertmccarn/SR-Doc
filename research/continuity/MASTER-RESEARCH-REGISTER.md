@@ -10,7 +10,7 @@
 - Implementation plan: `research/rag/README.md` — staged architecture, corpus contract, retrieval design, evaluation criteria, risks, and next coding task.
 - Evidence transport: `research/rag/evidence-packet.schema.json` — JSON Schema 1.0 for portable retrieved evidence packets.
 - Evaluation seed: `research/rag/evaluation-set-001.md` — 20 candidate questions across direct facts, entity resolution, timelines, relationships, contradictions, and abstention. Not yet scored or fully source-keyed.
-- **Current status:** protocol/schema/evaluation seed, read-only archive validator, section-aware chunker, SQLite FTS5 index builder, exact-title/redirect index builder, and evidence-packet search CLI are committed. Archive SHA-256: `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`. Corpus: 3,579 page metadata rows, 7,598 unique chunks, 7,598 FTS rows; 3,092 pages have text chunks. 487 captured records have no non-whitespace text, including three empty main-namespace pages. Default lexical search is main namespace only; context namespaces require explicit inclusion. Exact title/redirect lookup is opt-in via `--title` and preserves redirect provenance. Smoke tests passed; no benchmark score yet.
+- **Current status:** protocol/schema/evaluation seed, read-only archive validator, section-aware chunker, SQLite FTS5 index builder, exact-title/redirect index builder, evidence-packet search CLI, source-aware infobox claim extractor, claim schema, and conservative same-scope comparison CLI are committed. Archive SHA-256: `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`. Corpus: 3,579 page metadata rows, 7,598 unique chunks, 7,598 FTS rows; 3,092 pages have text chunks. 487 captured records have no non-whitespace text, including three empty main-namespace pages. Default lexical search is main namespace only; context namespaces require explicit inclusion. Exact title/redirect lookup is opt-in via `--title` and preserves redirect provenance. Smoke tests passed; no benchmark score yet.
 
 ## Documentation governance
 
@@ -93,6 +93,10 @@ Independent raw-Wikitext scan found 441 distinct media-manifest titles in explic
 - `research/rag/README.md` — architecture and staged implementation plan.
 - `research/rag/evidence-packet.schema.json` — machine-readable evidence packet schema.
 - `research/rag/evaluation-set-001.md` — initial 20-question evaluation set; authoring template, not scored.
+- `research/rag/extract_infobox_claims.py` — read-only, provenance-preserving infobox parameter claim extractor.
+- `research/rag/infobox-claim.schema.json` — machine-readable claim record contract.
+- `research/rag/evaluate_infobox_claims.py` — conservative comparison of repeated values in the same page/infobox/field scope.
+- `research/rag/test_infobox_claims.py` — parser/comparison regression tests; execution remains pending.
 
 
 ### Core navigation and ledgers
@@ -248,3 +252,13 @@ The append-only session log deliberately retains chronology. It should not be re
 - `agents.md` requires new sessions to verify Git state and read the swap first, then follow the existing documentation governance and source hierarchy.
 - Initial swap established on `audit/continuity-research` at 2026-11-20. It identifies source-aware infobox claim extraction and reviewed benchmark evidence as the next RAG work.
 - The swap is deliberately concise and replaceable; durable decisions must be promoted to permanent docs/ADRs and completed milestones to the append-only session log.
+
+
+## RAG — source-aware infobox claims and conservative comparison pass 001
+
+- Added a derived JSONL extractor that retains page ID/title, namespace, revision, archive snapshot hash, source path/hash, exact infobox template and invocation locator, parameter name/index, raw value, value character offsets, linked wikilink targets/display text/offsets, and explicit provenance.
+- Added a JSON Schema contract and a separate comparison CLI. Candidate comparisons require the same captured page subject, exact infobox invocation, and exact normalized parameter name. This avoids treating different date-bearing fields (for example, an event `date` field versus a date string inside `combatant1`) as equivalent claims.
+- Different page subjects are not compared absent an explicit entity-equivalence mapping. Different infobox invocations are not assumed to share event scope. Duplicate values in the same narrow scope are surfaced as candidates requiring source review; no claim is adjudicated.
+- Parser design uses brace-stack-aware Wikitext template scanning to handle nested templates and triple-brace parameters. A local parser-equivalent probe against the pinned archive identified 143 infobox invocations and 4,381 parameter candidates across 507 main-namespace pages. This is not a committed-CLI execution or a formal test result.
+- Runtime verification of the committed extractor/evaluator/tests is pending. The two repeated-field candidate groups from the probe require inspection. The 20-question evaluation seed remains unkeyed/unscored.
+- No Bronze/Silver source data, manifests, canon pages, or generated binary index were changed.
