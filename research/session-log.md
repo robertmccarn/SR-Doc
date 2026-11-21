@@ -517,3 +517,11 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Added `research/rag/test_evidence_packet_schema.py` and updated `.github/workflows/continuity.yml` to run its three standard-library contract tests. GitHub Actions run `44947776807` on commit `c48fe301eb416cb5feb56abec33cb15790b07196` succeeded: five infobox tests, three schema-contract tests, continuity validation, compileall, and two pytest tests all passed.
 - Added `research/rag/retrieval-benchmark-pass-001.json`; updated the approved evaluation set, RAG README, research README, master register, agent guide, and swap. Answer-generation correctness, generated citation precision, claim support, semantic contradiction precision, and automated Q18/Q19 abstention remain unscored.
 - No Bronze/Silver source bytes, manifests, lore canon, merge, PR, or branch promotion were changed or performed.
+
+
+## 2026-11-21 — Correction: Q09 date-value locator consistency
+
+- A post-benchmark audit found that Q09's table row still listed the full page-1413 `date` field range (chars 109–124), while the earlier locator correction and Q15 used the value-only range.
+- Rechecked page 1413 revision 11017 directly: the field label begins at char 109; the value `2027-2048` occupies chars 114–125. Updated Q09 to the value-only range and added the correction to `evaluation-locator-validation-001.json`.
+- The benchmark's locator-coverage counts are unchanged: the page-1413 lead chunk contains both ranges; the eight first-stage misses remain on page 1408 and the Q16 page 649/1927 sections. This is a locator convention correction, not a change to expected answers.
+- No Bronze/Silver source bytes, manifests, lore canon, merge, PR, or branch promotion were changed or performed.
