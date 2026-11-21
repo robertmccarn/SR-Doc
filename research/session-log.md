@@ -439,3 +439,12 @@ Matched first 300 media records against extracted image references in all 3,579 
 
 - Corrected Q09 and Q15 in `research/rag/evaluation-set-001.md`: the Second Chinese Civil War infobox `date` value occupies characters 114–125 (the field label begins at 109). The earlier draft's range ended one character early.
 - No source content or expected answer changed; only the locator was corrected against page 1413 revision 11017.
+
+
+## 2026-11-20 — RAG benchmark independent archive verification pass 001
+
+- Re-opened the pinned `SR-Doc-Audit.zip` and independently read the ten Bronze page records used by `research/rag/evaluation-set-001.md`. Recomputed source SHA-256 values against the page manifest; all ten page IDs, exact titles, revision IDs, paths, and hashes matched.
+- Cross-checked the critical source claims supporting the 20 cases: distinct Second Chinese Civil War `date` and `combatant1` values; Third Chinese Civil War phase labels; UFC/FRoC 2108 transition and succession fields; repeated historical-era entries; Joseph Loveridge's Chairman-role values; and the Association's 2140 establishment date.
+- Confirmed the historical orthographic-projection SVG named by pages 655 and 649 is absent from the 900-record asset manifest. Confirmed exact-title absence for `UFC` and `Association of East Asia`, while preserving the hyphenated page 1927 as a near-match only.
+- Updated the evaluation draft, RAG README, master register, research README, and agent handoff. The benchmark remains a draft: maintainer sign-off and scoring are pending. This was a targeted source cross-check, not an exhaustive character-offset audit, full-corpus validation, committed extractor/test run, or retrieval benchmark.
+- No Bronze/Silver bytes, manifests, canon pages, or generated binary indexes were modified. No merge, PR, or branch promotion.
