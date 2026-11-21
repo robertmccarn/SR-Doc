@@ -12,8 +12,25 @@
   "source_page_identity_validation": {
     "records_checked": 10,
     "records_passed": 10,
-    "page_ids": ["655", "1927", "1319", "84", "2", "2418", "1413", "1408", "1343", "649"],
-    "checks": ["page ID", "exact title", "revision ID", "archive-relative source path", "source SHA-256"]
+    "page_ids": [
+      "655",
+      "1927",
+      "1319",
+      "84",
+      "2",
+      "2418",
+      "1413",
+      "1408",
+      "1343",
+      "649"
+    ],
+    "checks": [
+      "page ID",
+      "exact title",
+      "revision ID",
+      "archive-relative source path",
+      "source SHA-256"
+    ]
   },
   "locator_validation": {
     "range_content_checks": 51,
@@ -53,6 +70,12 @@
       "case": "Q17",
       "issue": "The previous FRoC leader-years range 938-1006 included 1912 but omitted year_leader2=1949.",
       "corrected_locator": "page 649 chars 938-1027"
+    },
+    {
+      "case": "Q09",
+      "issue": "The table still used the full page-1413 date field range while Q15 and the earlier correction note used the value-only range.",
+      "corrected_locator": "page 1413 chars 114-125 (value); field label begins at char 109",
+      "verification": "Raw Wikitext slice checked against page 1413 revision 11017; value is 2027-2048."
     }
   ],
   "abstention_review": {
