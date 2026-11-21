@@ -3,7 +3,7 @@
 > **Role:** Compact, repo-backed handoff snapshot for AI work. This file is mutable working memory, not canon, source evidence, or a chronological log.
 > **Last verified against GitHub:** 2026-11-20 (pre-handoff refresh; see HEAD below)
 > **Branch:** `audit/continuity-research`
-> **Branch HEAD before this swap refresh:** `f0c7b636cf2bade031225938c4f5f186daa1e278`
+> **Branch HEAD before this swap refresh:** `b8f8567ce1652b6447ccef19a00f3e273f7a305f`
 > **Maintainer:** User-directed SR-Doc workflow; agents may update this file under `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
 
 ## 1. Mission and standing constraints
