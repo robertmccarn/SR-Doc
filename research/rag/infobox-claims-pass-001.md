@@ -1,6 +1,6 @@
 # RAG source-aware infobox claims — pass 001
 
-**Status:** Extractor, claim schema, and conservative comparison CLI committed. The five committed parser/comparison regression tests passed in GitHub Actions on 2026-11-21 (Python 3.11.18); the repository continuity validator, compileall step, and existing pytest suite also passed. The committed extractor CLI has not yet been executed against the pinned archive, and emitted records have not yet been validated against the JSON Schema.
+**Status:** Extractor, claim schema, and conservative comparison CLI committed and executed against the pinned archive on 2026-11-21. All 4,381 emitted records passed JSON Schema validation and source-offset/provenance checks; a second run was byte-identical. The five committed parser/comparison regression tests also passed in GitHub Actions (Python 3.11.18); the repository continuity validator, compileall step, and existing pytest suite passed in that CI run. Machine-readable runtime results: `infobox-claim-validation-001.json`.
 **Scope:** Main namespace (507 captured pages), pinned Bronze/Silver archive SHA-256 `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`.
 **Evidence class:** Derived parser probe plus direct source-locator observations. No canon adjudication.
 
@@ -63,3 +63,17 @@ The separate page 1408, **Third Chinese Civil War**, is a different page subject
 - Measure retrieval and candidate-comparison quality before adding embeddings.
 
 No Bronze/Silver source bytes, manifests, lore canon, or generated binary index were modified.
+
+
+## Committed CLI execution and schema validation — 2026-11-21
+
+The committed source files were fetched from `audit/continuity-research` and their Git blob SHAs verified before execution: extractor `43e7395e720f6763b6c3fe037a8b3ed516c05783`, schema `b5365269b5718b73b1f7f27a59bde06a9078eace`, and evaluator `c9d62274ddb1bf183af12d13f84803243d1e48e0`. The uploaded ZIP SHA-256 matched the pinned archive hash.
+
+- Extractor result: PASS; 507 main-namespace pages scanned, 143 infobox invocations, 4,381 parameter claims, 4,381 unique claim IDs, zero source errors.
+- Schema validation: 4,381/4,381 records valid under JSON Schema Draft 2020-12 using `jsonschema` 4.26.0. Zero errors.
+- Offset/provenance checks: zero raw-value slice mismatches, template-boundary errors, value-outside-template errors, linked-entity slice mismatches, linked-entity-outside-value errors, or source-provenance mismatches.
+- Determinism: a second full extraction exited 0 and produced byte-identical JSONL. SHA-256: `e7e951f8c9878b1c3bc69d7876ca8b24fdeac1d522eb595fcb3c346efe959e35`.
+- Evaluator: 4,381 claims processed; zero scoped candidate conflicts; two unscoped repeated-parameter groups remain unresolved (page 636 `office`; page 1343 `order`). No adjudication was performed.
+- Environment: CPython 3.13.5. The generated JSONL and comparison output remain local derived artifacts; the compact validation report is committed as `infobox-claim-validation-001.json`.
+
+This closes the committed extractor/archive/schema execution gate for the pinned snapshot. It does not score retrieval quality, sign off the 20-question evaluation set, or resolve the two event-scope ambiguities.
