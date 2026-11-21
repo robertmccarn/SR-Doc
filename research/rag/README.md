@@ -1,6 +1,6 @@
 # RAG readiness and implementation plan
 
-**Status:** Read-only lexical retrieval prototype implemented; exact-title/redirect lookup and date-bearing contrast retrieval are available (2026-11-20). No hosted retrieval service is claimed.
+**Status:** Read-only lexical retrieval prototype implemented; exact-title/redirect lookup and date-bearing contrast retrieval are available. Source-aware infobox extraction has now been executed against the pinned archive and all emitted records passed schema and offset validation (2026-11-21). No hosted retrieval service is claimed.
 **Working branch:** `audit/continuity-research`
 **Goal:** Make SR-Doc usable as a portable, source-grounded retrieval corpus for ChatGPT and later applications.
 
@@ -193,7 +193,7 @@ Do not report a reliability percentage until the test set is fixed and answers a
 - [x] Add a first-pass date-bearing contrast mode that diversifies lexical results across pages and flags multiple year ranges in one passage as review candidates. This is retrieval support, not semantic contradiction adjudication.
 - [x] Add source-aware infobox parameter extraction and a conservative comparison CLI that requires explicit reviewed event-scope alignment in addition to subject/template/field matching.
 - [x] Run the five committed parser/comparison regression tests in GitHub Actions (Python 3.11.18); all passed on 2026-11-21.
-- [ ] Execute the committed extractor against the pinned archive and validate emitted records against the claim schema.
+- [x] Execute the committed extractor against the pinned archive and validate emitted records against the claim schema; 4,381/4,381 records passed, with deterministic output and zero offset/provenance mismatches. See `infobox-claim-validation-001.json`.
 - [ ] Preserve predicate direction and edge provenance.
 
 ### Phase 4 — ChatGPT workflow
@@ -299,6 +299,7 @@ Added:
 - `infobox-claim.schema.json` — portable schema for the derived claim record.
 - `evaluate_infobox_claims.py` — compares values only when page ID (subject), an explicit reviewed `event_scope_id`, template family, and exact normalized parameter name (field meaning) all match. Repeated parameters without explicit event-scope annotation are retained as unresolved comparison groups, because they may represent distinct roles/events or multi-valued fields. It never adjudicates them.
 - `test_infobox_claims.py` — parser and comparison regression tests covering nested templates, nested parameter syntax, wikilink pipes/offsets, namespaced infobox templates, and scope gating.
+- `infobox-claim-validation-001.json` — committed-source execution report for the pinned archive, JSON Schema validation, exact offset/provenance checks, deterministic repeat run, and conservative evaluator output.
 
 Each claim retains original page ID/title, namespace, revision, archive SHA-256, source path and SHA-256, exact infobox template name, template invocation ID and character range, exact parameter name/index, raw parameter value, value character range, linked wikilink targets/display text and their offsets, and explicit provenance locators. The raw value is not normalized in the output.
 
