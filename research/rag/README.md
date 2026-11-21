@@ -302,13 +302,13 @@ Each claim retains original page ID/title, namespace, revision, archive SHA-256,
 
 Comparison is deliberately narrower than date-pattern matching. A `date` parameter and a date-like string embedded in `combatant1` are different fields and are not compared. Claims from different page subjects are not compared without an explicit entity-equivalence mapping. Different infobox invocations are not treated as the same event scope. Duplicate values within one exact subject/template/field scope may be emitted as `candidate_conflict_requires_source_review`; no canonical value is selected.
 
-Important limitation: the committed CLI and unittest file have not yet been executed in this environment. A local parser-equivalent scan of the pinned archive was used to probe brace handling and coverage: 507 main-namespace pages, 142 infobox invocations, and 4,381 parameter candidates after correcting nested-brace matching. This probe is not a run of the committed CLI and is not a formal validation result. The next step is to execute the committed extractor and tests against the pinned ZIP, compare its report with this probe, inspect the two repeated-field candidate groups, and add reviewed evidence keys to the 20-question evaluation seed.
+Important limitation: the committed CLI and unittest file have not yet been executed in this environment. A local parser-equivalent scan of the pinned archive was used to probe brace handling and coverage: 507 main-namespace pages, 143 infobox invocations, and 4,381 parameter candidates after correcting nested-brace matching. This probe is not a run of the committed CLI and is not a formal validation result. The next step is to execute the committed extractor and tests against the pinned ZIP, compare its report with this probe, inspect the two repeated-field candidate groups, and add reviewed evidence keys to the 20-question evaluation seed.
 
 Example:
 ```powershell
 python research/rag/extract_infobox_claims.py .\\SR-Doc-Audit.zip --output infobox-claims.jsonl --report infobox-claims-report.json
 python research/rag/evaluate_infobox_claims.py infobox-claims.jsonl --output infobox-claim-comparison.json
-python -m unittest research.rag.test_infobox_claims
+python research/rag/test_infobox_claims.py
 ```
 
 All outputs are derived artifacts; do not write them into Bronze/Silver source paths. The extractor defaults to main namespace; use `--include-context` only for an explicitly contextual/editorial extraction. No source capture, manifest, canon page, merge, PR, or branch promotion was changed or performed.
