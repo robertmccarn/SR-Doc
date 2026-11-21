@@ -3,7 +3,7 @@
 > **Role:** Compact, repo-backed handoff snapshot for AI work. This file is mutable working memory, not canon, source evidence, or a chronological log.
 > **Last verified against GitHub:** 2026-11-20 (pre-handoff refresh; see HEAD below)
 > **Branch:** `audit/continuity-research`
-> **Branch HEAD before this swap refresh:** `6337c49df3234b9c6f4cff28f1efbc3d22997b7d`
+> **Branch HEAD before this swap refresh:** `c9b54563a28871d416d05fdb151cc651ef826c24`
 > **Maintainer:** User-directed SR-Doc workflow; agents may update this file under `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
 
 ## 1. Mission and standing constraints
@@ -31,7 +31,7 @@ Implemented baseline:
 - Date-bearing contrast mode via `--contrast`; returns diversified lexical candidates and heuristic `date_signals`, flags multiple date ranges for human review.
 - Four contrast regression checks were recorded as passing against the uploaded version-002 SQLite index; see `research/rag/contrast-smoke-tests-001.json`. This is a smoke/regression check, not a benchmark.
 - Source-aware infobox extraction is now implemented in `research/rag/extract_infobox_claims.py`, with schema `research/rag/infobox-claim.schema.json` and conservative event-scoped comparison in `research/rag/evaluate_infobox_claims.py`. The evaluator requires same page subject, an explicit reviewed `event_scope_id`, template family, and exact normalized parameter name. Repeated parameters without event-scope annotation remain unresolved, not conflicts. Detailed evidence: `research/rag/infobox-claims-pass-001.md`.
-- Regression test source is `research/rag/test_infobox_claims.py`, and `research/rag/infobox-claims-pass-001.md`. The committed CLI/tests have not yet been executed. A separate local parser-equivalent archive probe found 143 infobox invocations and 4,381 parameter candidates across 507 main-namespace pages; treat this as a development probe, not committed-code verification.
+- Regression test source is `research/rag/test_infobox_claims.py`, and `research/rag/infobox-claims-pass-001.md`. The committed CLI/tests have not yet been executed. A separate local parser-equivalent archive probe found 143 infobox invocations and 4,381 parameter candidates across 507 main-namespace pages, including two repeated-parameter groups with unresolved event scope; treat this as a development probe, not committed-code verification. The 20-case answer-key draft is source-keyed but not signed off or scored.
 
 Key files:
 - `research/rag/build_index.py`
@@ -59,7 +59,7 @@ Generated local index ZIP is `SR-Doc-RAG-Index-002.zip`; it is a build artifact,
 2. Execute `extract_infobox_claims.py` against the pinned archive and compare its output/report with the development probe (143 invocations / 4,381 parameter candidates).
 3. Run `test_infobox_claims.py`; fix any parser/comparison regressions and record the exact command/result.
 4. Review the two repeated-parameter groups from the archive probe. They are unresolved because event scope is not established; do not classify them as conflicts without explicit reviewed `event_scope_id` annotations.
-5. Complete reviewed expected evidence/page IDs for the 20-question evaluation seed, then measure evidence recall, citation precision, and contradiction candidate recall/precision.
+5. Obtain maintainer sign-off on the source-keyed 20-question evaluation draft, then score evidence recall, citation precision, contradiction candidate recall, entity resolution, and abstention separately.
 6. Update this swap after the implementation milestone, plus master register/README/session log under documentation governance.
 
 ## 5. Open questions / blockers
