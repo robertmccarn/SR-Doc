@@ -457,3 +457,12 @@ Matched first 300 media records against extracted image references in all 3,579 
 - The filename has no row in `bronze/manifests/assets.json` (900 records), and no matching physical binary exists in the ZIP. Corrected Q18 and the verification note to distinguish a captured reference from a missing captured asset. The exact-boundary abstention remains justified; no territory was inferred.
 - Updated the master register and research README. This corrects provenance wording only; no Bronze/Silver source, manifest, asset, or canon was changed.
 - No merge, PR, or branch promotion.
+
+
+## 2026-11-20 — RAG infobox repeated-parameter source-context review
+
+- Re-opened the pinned Bronze Wikitext for page 636 (`United States presidential election, 2132`) and page 1343 (`Joseph Loveridge`) and verified the source hashes against the archive manifest.
+- Page 636's two `office` values occur in separate nominee blocks (`nominee1` and `nominee2`) with different candidate/location data between them. This makes distinct office/race context plausible, but the template does not explicitly define the mapping; both claims remain unscoped and unresolved.
+- Page 1343's two `order` values occur before the first `office` field; a later `order2=1st` occurs with `office2=Vice Chief of Staff of the Space Force`. The first two values cannot be assigned confidently to separate roles from Wikitext ordering alone. Both remain unresolved; no event scope was annotated.
+- Updated `research/rag/infobox-claims-pass-001.md` and the master register. This is contextual source review, not conflict adjudication or committed extractor/test execution.
+- No Bronze/Silver source bytes, manifests, or canon were changed. No merge, PR, or branch promotion.
