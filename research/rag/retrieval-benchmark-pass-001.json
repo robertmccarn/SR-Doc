@@ -1,0 +1,595 @@
+{
+  "report_id": "rag-evaluation-retrieval-pass-001",
+  "status": "PASS_WITH_LIMITATIONS",
+  "execution_date": "2026-11-21",
+  "maintainer_approval": {
+    "status": "approved",
+    "date": "2026-11-21",
+    "scope": "evaluation-set-001.md accepted as the baseline for benchmark scoring"
+  },
+  "archive": {
+    "filename": "SR-Doc-Audit.zip",
+    "sha256": "d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8",
+    "pinned_hash_match": true
+  },
+  "execution_method": {
+    "type": "local source-equivalent reconstruction",
+    "note": "The index/search logic was reconstructed locally from the branch source reviewed through GitHub. The local build_index.py, build_alias_index.py, and search.py files were not byte-identical to their Git blobs; therefore this is an exploratory benchmark reproduction, not a claim that those exact committed scripts were executed. Their source blob SHAs are recorded below.",
+    "committed_source_blob_shas": {
+      "research/rag/build_index.py": "7da767d9f2ce6693d95a11baefe095a02ebba596",
+      "research/rag/build_alias_index.py": "d687f14a7d43216a5ea68fc0b87938da9465a261",
+      "research/rag/search.py": "d1ddddec5c301e0e981371cd7a54307ceb727d94",
+      "research/rag/test_search.py": "7fac33dea56623632512b69125171bfcc3965c3e",
+      "research/rag/evidence-packet.schema.json": "3f931213a753aafe27029edc5a3d403f9b15dc61"
+    }
+  },
+  "environment": {
+    "python": "3.13.5",
+    "jsonschema": "4.26.0",
+    "sqlite_fts5": true
+  },
+  "index_build": {
+    "status": "PASS",
+    "page_records": 3579,
+    "silver_page_records": 3579,
+    "chunks": 7598,
+    "unique_chunk_ids": 7598,
+    "pages_with_text_chunks": 3092,
+    "pages_without_text_chunks": 487,
+    "main_namespace_pages_without_text_chunks": [
+      {
+        "page_id": "3616",
+        "title": "New Lion City"
+      },
+      {
+        "page_id": "3698",
+        "title": "Lakota Republic"
+      },
+      {
+        "page_id": "3744",
+        "title": "Vietnam"
+      }
+    ],
+    "title_key_rows": 3579,
+    "distinct_normalized_titles": 3575,
+    "redirects": {
+      "resolved": 83,
+      "unresolved": 101,
+      "ambiguous": 1
+    }
+  },
+  "retrieval": {
+    "cases": 20,
+    "cases_with_expected_source_pages": 19,
+    "expected_page_id_instances": 27,
+    "cases_with_all_expected_pages_found_within_top_5_unique_page_candidates": 19,
+    "page_recall_at_k": {
+      "1": {
+        "macro": 0.807,
+        "micro": 0.704
+      },
+      "2": {
+        "macro": 0.982,
+        "micro": 0.963
+      },
+      "3": {
+        "macro": 0.982,
+        "micro": 0.963
+      },
+      "5": {
+        "macro": 1,
+        "micro": 1
+      }
+    },
+    "unique_page_precision_by_mode": {
+      "exact_title": {
+        "cases": 9,
+        "macro": 1,
+        "micro": 1
+      },
+      "lexical_query": {
+        "cases": 7,
+        "macro": 0.526,
+        "micro": 0.481
+      },
+      "contrast_k16": {
+        "cases": 3,
+        "macro": 0.104,
+        "micro": 0.104
+      },
+      "overall": {
+        "macro": 0.684,
+        "micro": 0.321
+      }
+    },
+    "locator_coverage": {
+      "first_stage": {
+        "covered": 47,
+        "total": 55,
+        "rate": 0.8545
+      },
+      "after_full_page_expansion": {
+        "covered": 55,
+        "total": 55,
+        "rate": 1
+      },
+      "first_stage_misses": [
+        {
+          "case": "Q09",
+          "page_id": "1408",
+          "locators": [
+            "date",
+            "phase"
+          ]
+        },
+        {
+          "case": "Q10",
+          "page_id": "1408",
+          "locators": [
+            "date",
+            "combatants/phases"
+          ]
+        },
+        {
+          "case": "Q15",
+          "page_id": "1408",
+          "locators": [
+            "date",
+            "phase"
+          ]
+        },
+        {
+          "case": "Q16",
+          "page_id": "649",
+          "locators": [
+            "History/Foundation TBA"
+          ]
+        },
+        {
+          "case": "Q16",
+          "page_id": "1927",
+          "locators": [
+            "Association established_date1"
+          ]
+        }
+      ],
+      "interpretation": "All expected page IDs were discovered, but eight exact locator ranges were not present in the first-stage top-k passages. A follow-up full-page fetch for the already retrieved page IDs covered all 55 registered ranges. This is conditional page-expansion coverage, not first-stage passage recall."
+    },
+    "entity_resolution": {
+      "exact_title_cases": 9,
+      "exact_title_correct": 9,
+      "captured_redirect_cases": 1,
+      "redirect_correct": 1,
+      "redirect_example": {
+        "source_page_id": "84",
+        "source_title": "Main Page",
+        "target_page_id": "2",
+        "target_title": "Second Renaissance Wikia"
+      },
+      "exact_title_absence_cases": 1,
+      "absence_correct": 1,
+      "q06_abbreviation": "Lexical retrieval found page 655, but no formal UFC alias mapping is asserted."
+    },
+    "abstention": {
+      "q20": {
+        "result": "PASS",
+        "reason": "Exact title lookup returned no evidence and explicitly warned that no exact title/redirect matched; no fuzzy merge was made."
+      },
+      "q18": {
+        "result": "SOURCE_SUPPORTED_NOT_AUTOMATED",
+        "reason": "Both page references were retrieved; exact territorial boundary still requires abstention because the referenced map binary is absent from this archive snapshot."
+      },
+      "q19": {
+        "result": "SOURCE_SUPPORTED_NOT_AUTOMATED",
+        "reason": "Page 1413 was retrieved; source review found no named initiator's private motivation. Answer-generation abstention was not exercised."
+      }
+    },
+    "contradiction_candidates": {
+      "relevant_page_1413_surfaced_in_both_relevant_cases": true,
+      "cases": [
+        "Q09",
+        "Q15"
+      ],
+      "k16_candidate_counts": {
+        "Q09": 4,
+        "Q10": 4,
+        "Q15": 3
+      },
+      "other_page_candidate_occurrences": 8,
+      "other_candidate_page_ids": [
+        "88",
+        "96",
+        "1576"
+      ],
+      "semantic_precision": "NOT_SCORED",
+      "note": "Date-pattern candidates are review leads, not adjudicated contradictions. Additional candidates require source review."
+    },
+    "exploratory_contrast_cutoff_sweep": {
+      "k": 2,
+      "macro_page_recall": 1,
+      "macro_page_precision": 0.833,
+      "cases": 3,
+      "status": "POST_HOC_EXPLORATORY_ONLY",
+      "note": "The same three benchmark queries were used to inspect cutoff behavior. Do not adopt k=2 as a tuned default without a separate holdout set."
+    }
+  },
+  "evidence_packet_schema": {
+    "pre_fix": {
+      "valid_packets": 11,
+      "total_packets": 20,
+      "errors": 9,
+      "issue": "Search emitted exact_title and redirect_target resolution_status values absent from the schema enum."
+    },
+    "post_fix": {
+      "valid_packets": 20,
+      "total_packets": 20,
+      "errors": 0,
+      "validator": "jsonschema 4.26.0 / Draft 2020-12"
+    },
+    "ci_contract_tests": {
+      "tests": 3,
+      "local_result": "PASS",
+      "github_actions_result": "PENDING"
+    },
+    "schema_blob_sha": "3f931213a753aafe27029edc5a3d403f9b15dc61"
+  },
+  "not_scored": [
+    "answer generation accuracy",
+    "citation precision of generated answers",
+    "claim support rate",
+    "semantic contradiction precision",
+    "automated abstention for Q18/Q19"
+  ],
+  "cases": [
+    {
+      "id": "Q01",
+      "mode": "title",
+      "expected_page_ids": [
+        "655"
+      ],
+      "retrieved_unique_page_ids": [
+        "655"
+      ],
+      "first_stage_locator_coverage": {
+        "covered": 1,
+        "total": 1
+      }
+    },
+    {
+      "id": "Q02",
+      "mode": "title",
+      "expected_page_ids": [
+        "655"
+      ],
+      "retrieved_unique_page_ids": [
+        "655"
+      ],
+      "first_stage_locator_coverage": {
+        "covered": 2,
+        "total": 2
+      }
+    },
+    {
+      "id": "Q03",
+      "mode": "title",
+      "expected_page_ids": [
+        "1408"
+      ],
+      "retrieved_unique_page_ids": [
+        "1408"
+      ],
+      "first_stage_locator_coverage": {
+        "covered": 1,
+        "total": 1
+      }
+    },
+    {
+      "id": "Q04",
+      "mode": "title",
+      "expected_page_ids": [
+        "1927"
+      ],
+      "retrieved_unique_page_ids": [
+        "1927"
+      ],
+      "first_stage_locator_coverage": {
+        "covered": 1,
+        "total": 1
+      }
+    },
+    {
+      "id": "Q05",
+      "mode": "query",
+      "expected_page_ids": [
+        "1319"
+      ],
+      "retrieved_unique_page_ids": [
+        "1319",
+        "2418",
+        "217",
+        "1408"
+      ],
+      "first_stage_locator_coverage": {
+        "covered": 2,
+        "total": 2
+      }
+    },
+    {
+      "id": "Q06",
+      "mode": "query",
+      "expected_page_ids": [
+        "655"
+      ],
+      "retrieved_unique_page_ids": [
+        "655",
+        "1408",
+        "3244"
+      ],
+      "first_stage_locator_coverage": {
+        "covered": 1,
+        "total": 1
+      }
+    },
+    {
+      "id": "Q07",
+      "mode": "redirect",
+      "expected_page_ids": [
+        "2"
+      ],
+      "retrieved_unique_page_ids": [
+        "2"
+      ],
+      "first_stage_locator_coverage": null
+    },
+    {
+      "id": "Q08",
+      "mode": "query",
+      "expected_page_ids": [
+        "2418",
+        "655"
+      ],
+      "retrieved_unique_page_ids": [
+        "655",
+        "2418"
+      ],
+      "first_stage_locator_coverage": {
+        "covered": 2,
+        "total": 2
+      }
+    },
+    {
+      "id": "Q09",
+      "mode": "contrast",
+      "expected_page_ids": [
+        "1413",
+        "1408"
+      ],
+      "retrieved_unique_page_ids": [
+        "1413",
+        "1408",
+        "88",
+        "3578",
+        "96",
+        "655",
+        "2418",
+        "1597",
+        "1537",
+        "1379",
+        "1380",
+        "1576",
+        "3679",
+        "1373",
+        "1319",
+        "3651"
+      ],
+      "first_stage_locator_coverage": {
+        "covered": 2,
+        "total": 4
+      }
+    },
+    {
+      "id": "Q10",
+      "mode": "contrast",
+      "expected_page_ids": [
+        "1408"
+      ],
+      "retrieved_unique_page_ids": [
+        "1408",
+        "88",
+        "655",
+        "96",
+        "1413",
+        "1597",
+        "1537",
+        "2418",
+        "1379",
+        "1716",
+        "3578",
+        "1425",
+        "1576",
+        "1110",
+        "1536",
+        "1659"
+      ],
+      "first_stage_locator_coverage": {
+        "covered": 0,
+        "total": 2
+      }
+    },
+    {
+      "id": "Q11",
+      "mode": "query",
+      "expected_page_ids": [
+        "655",
+        "649"
+      ],
+      "retrieved_unique_page_ids": [
+        "655",
+        "649",
+        "1408"
+      ],
+      "first_stage_locator_coverage": {
+        "covered": 6,
+        "total": 6
+      }
+    },
+    {
+      "id": "Q12",
+      "mode": "title",
+      "expected_page_ids": [
+        "1413"
+      ],
+      "retrieved_unique_page_ids": [
+        "1413"
+      ],
+      "first_stage_locator_coverage": {
+        "covered": 2,
+        "total": 2
+      }
+    },
+    {
+      "id": "Q13",
+      "mode": "title",
+      "expected_page_ids": [
+        "1343"
+      ],
+      "retrieved_unique_page_ids": [
+        "1343"
+      ],
+      "first_stage_locator_coverage": {
+        "covered": 5,
+        "total": 5
+      }
+    },
+    {
+      "id": "Q14",
+      "mode": "title",
+      "expected_page_ids": [
+        "655"
+      ],
+      "retrieved_unique_page_ids": [
+        "655"
+      ],
+      "first_stage_locator_coverage": {
+        "covered": 4,
+        "total": 4
+      }
+    },
+    {
+      "id": "Q15",
+      "mode": "contrast",
+      "expected_page_ids": [
+        "1413",
+        "1408"
+      ],
+      "retrieved_unique_page_ids": [
+        "1408",
+        "1413",
+        "88",
+        "655",
+        "1597",
+        "1537",
+        "3578",
+        "1379",
+        "96",
+        "2418",
+        "1425",
+        "1373",
+        "1319",
+        "3679",
+        "1927",
+        "3651"
+      ],
+      "first_stage_locator_coverage": {
+        "covered": 2,
+        "total": 4
+      }
+    },
+    {
+      "id": "Q16",
+      "mode": "query",
+      "expected_page_ids": [
+        "655",
+        "649",
+        "1927"
+      ],
+      "retrieved_unique_page_ids": [
+        "649",
+        "655",
+        "1425",
+        "1927",
+        "3651"
+      ],
+      "first_stage_locator_coverage": {
+        "covered": 6,
+        "total": 8
+      }
+    },
+    {
+      "id": "Q17",
+      "mode": "query",
+      "expected_page_ids": [
+        "655",
+        "649"
+      ],
+      "retrieved_unique_page_ids": [
+        "649",
+        "655",
+        "1425",
+        "3271",
+        "2418",
+        "1580"
+      ],
+      "first_stage_locator_coverage": {
+        "covered": 6,
+        "total": 6
+      }
+    },
+    {
+      "id": "Q18",
+      "mode": "query",
+      "expected_page_ids": [
+        "649",
+        "655"
+      ],
+      "retrieved_unique_page_ids": [
+        "649",
+        "655",
+        "3578",
+        "2418"
+      ],
+      "first_stage_locator_coverage": {
+        "covered": 3,
+        "total": 3
+      }
+    },
+    {
+      "id": "Q19",
+      "mode": "title",
+      "expected_page_ids": [
+        "1413"
+      ],
+      "retrieved_unique_page_ids": [
+        "1413"
+      ],
+      "first_stage_locator_coverage": {
+        "covered": 1,
+        "total": 1
+      }
+    },
+    {
+      "id": "Q20",
+      "mode": "exact-title-absence",
+      "expected_page_ids": [],
+      "retrieved_unique_page_ids": [],
+      "first_stage_locator_coverage": null
+    }
+  ],
+  "limitations": [
+    "The search/index scripts used for this local benchmark were reconstructed from reviewed repository source but were not byte-identical to their Git blobs.",
+    "The query set and k values were constructed against the approved evaluation set; results are not a blind or held-out benchmark.",
+    "Page recall measures unique page IDs in returned passages; passage-level locator coverage is reported separately.",
+    "Full-page expansion was conditioned on the correct page already being retrieved.",
+    "Citation precision and answer quality require generated answer outputs and are not inferred from retrieval success."
+  ]
+}
