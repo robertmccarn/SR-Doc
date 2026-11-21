@@ -1,9 +1,9 @@
 # SR-Doc — AI session swap memory
 
 > **Role:** Compact, repo-backed handoff snapshot for AI work. This file is mutable working memory, not canon, source evidence, or a chronological log.
-> **Last verified against GitHub:** 2026-11-20 (immediately before this swap refresh commit)
+> **Last verified against GitHub:** 2026-11-20 (pre-handoff refresh; see HEAD below)
 > **Branch:** `audit/continuity-research`
-> **Branch HEAD at last verification:** `ef0426be4e495d1579301b1ebfb38b0c622ef982`
+> **Branch HEAD before this swap refresh:** `99656e6ddbcef575b04f68f7237f4e855a1faf36`
 > **Maintainer:** User-directed SR-Doc workflow; agents may update this file under `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
 
 ## 1. Mission and standing constraints
@@ -29,7 +29,9 @@ Implemented baseline:
 - SQLite FTS5 lexical retrieval; default namespace 0; explicit `--include-context`.
 - Exact page-ID lookup and exact title/direct redirect lookup via `--title`; aliases retain redirect provenance and do not merge identities.
 - Date-bearing contrast mode via `--contrast`; returns diversified lexical candidates and heuristic `date_signals`, flags multiple date ranges for human review.
-- Four regression checks recorded as passing against the uploaded version-002 SQLite index; see `research/rag/contrast-smoke-tests-001.json`. This is a smoke/regression check, not a benchmark.
+- Four contrast regression checks were recorded as passing against the uploaded version-002 SQLite index; see `research/rag/contrast-smoke-tests-001.json`. This is a smoke/regression check, not a benchmark.
+- Source-aware infobox extraction is now implemented in `research/rag/extract_infobox_claims.py`, with schema `research/rag/infobox-claim.schema.json` and conservative same-page/same-infobox/same-field comparison in `research/rag/evaluate_infobox_claims.py`.
+- Regression test source is `research/rag/test_infobox_claims.py`. The committed CLI/tests have not yet been executed. A separate local parser-equivalent archive probe found 143 infobox invocations and 4,381 parameter candidates across 507 main-namespace pages; treat this as a development probe, not committed-code verification.
 
 Key files:
 - `research/rag/build_index.py`
@@ -54,10 +56,10 @@ Generated local index ZIP is `SR-Doc-RAG-Index-002.zip`; it is a build artifact,
 ## 4. Immediate next steps
 
 1. Inspect the current branch and read this swap plus `agents.md`, `DOCUMENTATION-GOVERNANCE.md`, master register, RAG README, and recent session log.
-2. Build **source-aware infobox claim extraction**: preserve exact parameter names/values, page ID/title, revision, source hash, section/character locator, and raw source text. Do not infer semantics from date patterns alone.
-3. Add claim records to a separate derived artifact/table; never alter Bronze/Silver inputs.
-4. Compare claims only where subject/event/field semantics plausibly align. Emit candidate conflicts with supporting evidence IDs and explicit review status; never pick a canonical answer.
-5. Complete reviewed expected evidence/page IDs for the 20-question evaluation seed, then measure evidence recall and contradiction candidate recall/precision.
+2. Execute `extract_infobox_claims.py` against the pinned archive and compare its output/report with the development probe (143 invocations / 4,381 parameter candidates).
+3. Run `test_infobox_claims.py`; fix any parser/comparison regressions and record the exact command/result.
+4. Inspect the two repeated-field candidate groups from the archive probe. Preserve raw values and only surface candidate conflicts within identical subject/page, infobox invocation, and parameter-name scope.
+5. Complete reviewed expected evidence/page IDs for the 20-question evaluation seed, then measure evidence recall, citation precision, and contradiction candidate recall/precision.
 6. Update this swap after the implementation milestone, plus master register/README/session log under documentation governance.
 
 ## 5. Open questions / blockers
@@ -84,9 +86,10 @@ Generated local index ZIP is `SR-Doc-RAG-Index-002.zip`; it is a build artifact,
 
 - Repository: `robertmccarn/SR-Doc`
 - Branch: `audit/continuity-research`
-- Last verified HEAD: `7d75aa432c11ba32f9f474d8df439a5df54f2ba1`
-- Last milestone: date-bearing contrast retrieval pass 001.
-- Recent changed files include `research/rag/search.py`, `research/rag/test_search.py`, `research/rag/contrast-smoke-tests-001.json`, RAG README, master register, research README, session log, and `agents.md`.
+- Last verified HEAD before this handoff refresh: `99656e6ddbcef575b04f68f7237f4e855a1faf36`.
+- Latest milestone: source-aware infobox claim extraction and conservative same-scope comparison code committed; committed CLI/tests still need execution.
+- New files: `research/rag/extract_infobox_claims.py`, `research/rag/evaluate_infobox_claims.py`, `research/rag/infobox-claim.schema.json`, `research/rag/test_infobox_claims.py`.
+- Updated permanent docs: RAG README, master register, research README, and `agents.md`.
 - No PR, merge, branch promotion, or canon/source-data edit was performed for that milestone.
 
 ## 8. Memory system established
