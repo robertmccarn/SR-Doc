@@ -38,28 +38,28 @@ def find_template_end(text: str, start: int) -> int | None:
     """Return the exclusive end of a balanced {{...}} template, or None."""
     if not text.startswith("{{", start) or text.startswith("{{{", start):
         return None
-    depth = 0
-    i = start
+    stack = [2]
+    i = start + 2
     while i < len(text):
         skipped = _skip_comment(text, i)
         if skipped != i:
             i = skipped
             continue
         if text.startswith("{{{", i):
-            depth += 3
+            stack.append(3)
             i += 3
         elif text.startswith("{{", i):
-            depth += 2
+            stack.append(2)
             i += 2
-        elif text.startswith("}}}", i):
-            depth -= 3
+        elif text.startswith("}}}", i) and stack and stack[-1] == 3:
+            stack.pop()
             i += 3
-            if depth <= 0:
+            if not stack:
                 return i
-        elif text.startswith("}}", i):
-            depth -= 2
+        elif text.startswith("}}", i) and stack and stack[-1] == 2:
+            stack.pop()
             i += 2
-            if depth <= 0:
+            if not stack:
                 return i
         else:
             i += 1
@@ -69,7 +69,7 @@ def find_template_end(text: str, start: int) -> int | None:
 def split_top_level_ranges(text: str, start: int, end: int, delimiter: str) -> list[tuple[int, int]]:
     """Split on a delimiter outside nested templates, parameters, and wikilinks."""
     ranges = []
-    depth = 0
+    stack = []
     link_depth = 0
     segment_start = start
     i = start
@@ -79,16 +79,16 @@ def split_top_level_ranges(text: str, start: int, end: int, delimiter: str) -> l
             i = min(skipped, end)
             continue
         if text.startswith("{{{", i):
-            depth += 3
+            stack.append(3)
             i += 3
         elif text.startswith("{{", i):
-            depth += 2
+            stack.append(2)
             i += 2
-        elif text.startswith("}}}", i):
-            depth = max(0, depth - 3)
+        elif text.startswith("}}}", i) and stack and stack[-1] == 3:
+            stack.pop()
             i += 3
-        elif text.startswith("}}", i):
-            depth = max(0, depth - 2)
+        elif text.startswith("}}", i) and stack and stack[-1] == 2:
+            stack.pop()
             i += 2
         elif text.startswith("[[", i):
             link_depth += 1
@@ -96,7 +96,7 @@ def split_top_level_ranges(text: str, start: int, end: int, delimiter: str) -> l
         elif text.startswith("]]", i) and link_depth:
             link_depth -= 1
             i += 2
-        elif text.startswith(delimiter, i) and depth == 0 and link_depth == 0:
+        elif text.startswith(delimiter, i) and not stack and link_depth == 0:
             ranges.append((segment_start, i))
             i += len(delimiter)
             segment_start = i
