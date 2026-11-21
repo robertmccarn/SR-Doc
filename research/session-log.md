@@ -414,3 +414,12 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Local parser-equivalent scan of the pinned archive: 507 main-namespace pages, 143 infobox invocations, 4,381 parameter candidates, and two same-page/same-infobox/same-field groups with distinct values. This is a development probe, not execution of the committed CLI. The committed extractor, evaluator, and regression test file remain unexecuted; runtime verification is the immediate next task.
 - Updated RAG README, master register, research README, agents.md, and .ai/swap.md. The 20-question evaluation seed still lacks reviewed expected passages/page IDs and scoring.
 - No Bronze/Silver source files, manifests, lore canon, or binary index were changed. No merge, PR, or branch promotion.
+
+
+## 2026-11-20 — Correction: infobox comparison requires explicit event scope
+
+- A source review of the two repeated-parameter groups found on page 636 (`office`: Chairman of the ITC / Vice President) and page 1343 (`order`: United States Space Force 1st / 39th) showed that repeated values in one infobox may represent distinct roles or offices. Same page + same template invocation + same parameter name is not enough to establish a shared event scope.
+- Tightened `evaluate_infobox_claims.py`: it now compares only claims with the same page subject, an explicit reviewed `event_scope_id`, template family, and exact normalized parameter name. The extractor does not infer or populate event scope. Repeated parameters without that annotation are reported as `not_compared_event_scope_unresolved`, not as conflicts.
+- Updated the claim schema to permit an optional reviewed `event_scope_id`, the regression tests, RAG README, master register, and detailed note `research/rag/infobox-claims-pass-001.md`.
+- This supersedes the earlier same-infobox-instance comparison wording in this session's pass-001 entry. No event scope was inferred for either observed duplicate group.
+- No Bronze/Silver source bytes, manifests, or canon were modified. No merge, PR, or branch promotion.
