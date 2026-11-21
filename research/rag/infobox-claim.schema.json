@@ -1,0 +1,178 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://srdoc.invalid/research/rag/infobox-claim.schema.json",
+  "title": "SR-Doc source-aware infobox parameter claim",
+  "description": "A derived extraction record preserving the exact source parameter value and provenance. It is not an adjudicated lore fact.",
+  "type": "object",
+  "required": [
+    "claim_id",
+    "source_class",
+    "page_id",
+    "title",
+    "namespace",
+    "revision_id",
+    "capture_id",
+    "source_path",
+    "source_sha256",
+    "template_name",
+    "template_instance_id",
+    "template_char_start",
+    "template_char_end",
+    "parameter_index",
+    "parameter_name",
+    "normalized_parameter_name",
+    "raw_parameter_value",
+    "value_char_start",
+    "value_char_end",
+    "linked_entities",
+    "provenance"
+  ],
+  "properties": {
+    "claim_id": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{24}$"
+    },
+    "source_class": {
+      "enum": [
+        "primary",
+        "context"
+      ]
+    },
+    "page_id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "namespace": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "revision_id": {
+      "type": [
+        "integer",
+        "string",
+        "null"
+      ]
+    },
+    "capture_id": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "source_path": {
+      "type": "string"
+    },
+    "source_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "template_name": {
+      "type": "string"
+    },
+    "template_instance_id": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{24}$"
+    },
+    "template_char_start": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "template_char_end": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "parameter_index": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "parameter_name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "normalized_parameter_name": {
+      "type": "string"
+    },
+    "raw_parameter_value": {
+      "type": "string"
+    },
+    "value_char_start": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "value_char_end": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "linked_entities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "target",
+          "display",
+          "raw",
+          "char_start",
+          "char_end"
+        ],
+        "properties": {
+          "target": {
+            "type": "string"
+          },
+          "display": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "raw": {
+            "type": "string"
+          },
+          "char_start": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "char_end": {
+            "type": "integer",
+            "minimum": 0
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "required": [
+        "archive_sha256",
+        "source_path",
+        "source_sha256",
+        "locator",
+        "template_locator"
+      ],
+      "properties": {
+        "archive_sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "source_path": {
+          "type": "string"
+        },
+        "source_sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "locator": {
+          "type": "string"
+        },
+        "template_locator": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
