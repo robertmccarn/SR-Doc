@@ -466,3 +466,11 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Page 1343's two `order` values occur before the first `office` field; a later `order2=1st` occurs with `office2=Vice Chief of Staff of the Space Force`. The first two values cannot be assigned confidently to separate roles from Wikitext ordering alone. Both remain unresolved; no event scope was annotated.
 - Updated `research/rag/infobox-claims-pass-001.md` and the master register. This is contextual source review, not conflict adjudication or committed extractor/test execution.
 - No Bronze/Silver source bytes, manifests, or canon were changed. No merge, PR, or branch promotion.
+
+
+## 2026-11-21 — Committed infobox parser/comparison regression tests pass in CI
+
+- Updated `.github/workflows/continuity.yml` to run on pushes to `audit/continuity-research` and manual dispatch, and added an explicit `unittest` discovery step for `research/rag/test_infobox_claims.py`.
+- GitHub Actions run `44925739208` on commit `7536b81674f72628dc5bebbff5b0b7cd6b615983` completed successfully. All five committed infobox parser/comparison tests passed under CPython 3.11.18. The continuity validator passed, `compileall -q sr_doc` passed, and the existing pytest suite passed (2 tests).
+- This is actual execution of the committed test file from a GitHub checkout, replacing the earlier pending-test status. It does not execute `extract_infobox_claims.py` against the uploaded Bronze archive because the archive is not available in the workflow checkout; CLI/archive comparison and JSON Schema validation remain outstanding.
+- Updated the pass-001 note, RAG README, master register, and research README. No source archive or canon was changed; no PR, merge, or branch promotion.
