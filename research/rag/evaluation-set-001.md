@@ -1,32 +1,62 @@
-# Initial RAG evaluation set — authoring template
+# Initial RAG evaluation set — source-reviewed answer-key draft
 
-**Status:** Seed question set; not yet scored. Expected evidence page IDs and answer keys must be completed from source review before evaluation.
+**Status:** All 20 questions now have candidate source page IDs, source locators, answer criteria, pitfalls, and abstention expectations. This is a source-reviewed draft, not a scored benchmark. Maintainer review/sign-off and retrieval/answer scoring remain pending.
+**Source snapshot:** Bronze archive SHA-256 `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`.
+**Review record:** Agent-assisted source review, 2026-11-20; independent maintainer sign-off pending.
 
-| ID | Category | Question | Expected behavior / pitfall |
-|---|---|---|---|
-| Q01 | Direct fact | What is the stated capital of the People's Republic of China? | Retrieve exact page passage and cite it; do not use real-world knowledge. |
-| Q02 | Direct fact | What dates does the United Federation of China page give for its existence? | Quote the page's stated dates; distinguish page claim from historical consistency. |
-| Q03 | Direct fact | What is the stated duration of the Third Chinese Civil War? | Retrieve the conflict page and cite its dates. |
-| Q04 | Direct fact | Who is listed as the head of state of [choose a documented country]? | Resolve the exact page and relevant infobox field. |
-| Q05 | Direct fact | What does the Lost Decade (China) page say happened to China? | Summarize only supported text; avoid filling its narrative gaps. |
-| Q06 | Entity resolution | Is "UFC" an alias for the United Federation of China in the captured corpus? | Distinguish an explicit alias from a contextual abbreviation. |
-| Q07 | Entity resolution | Which page does the redirect [choose verified redirect] resolve to? | Follow captured redirect evidence; do not infer identity from similar titles. |
-| Q08 | Entity resolution | Are [two similar named entities] the same entity? | Require explicit identity evidence; otherwise retain ambiguity. |
-| Q09 | Timeline | When did the Second Chinese Civil War occur according to its infobox? | Report 2027–2048 and separately surface the incompatible combatant dates. |
-| Q10 | Timeline | What dates are given for the Third Chinese Civil War? | Report source dates and distinguish phases if stated. |
-| Q11 | Timeline | What is the documented relationship between the UFC and Federal Republic of China periods? | Surface the 2108 overlap and missing transition explanation; no invented succession. |
-| Q12 | Relationship | Which entities are listed as combatants in [choose conflict page]? | Use source infobox fields; label structured extraction as derived and cite source. |
-| Q13 | Relationship | Which office does [choose officeholder] hold, and in which entity? | Require exact linked infobox fields and source text. |
-| Q14 | Relationship | What predecessor/successor relationships are explicitly documented for [choose entity]? | Preserve predicate direction and verify each edge against source passage. |
-| Q15 | Contradiction | Why does the Second Chinese Civil War page include 2105–2111 among combatant dates despite its 2027–2048 infobox dates? | Present both claims; do not resolve without evidence. |
-| Q16 | Contradiction | How do the UFC and Federal Republic of China pages describe the 2108 transition? | Report the overlapping dates and absence of a documented transition; no invented explanation. |
-| Q17 | Contradiction | What historical dates appear in the modern Chinese-state infoboxes? | Identify stale 1911–1949 event data and explain source-level inconsistency. |
-| Q18 | Abstention | What was the exact territorial boundary of the Federal Republic of China in 2120? | Abstain unless a captured map or passage establishes it; missing map is not a boundary. |
-| Q19 | Abstention | What was the private motivation of the leader who initiated [choose event]? | Abstain unless a source explicitly documents motive; do not invent psychology. |
-| Q20 | Abstention | What happened in [choose event/page absent from captured corpus]? | State retrieval coverage and say not located; do not claim the event did not happen. |
+## Evaluation cases
 
-## Required answer key fields
+| ID | Category | Question | Expected source evidence | Expected answer elements / acceptance criteria | Pitfall / acceptable uncertainty | Abstain? |
+|---|---|---|---|---|---|---|
+| Q01 | Direct fact | What is the stated capital of the United Federation of China? | Page 655, `United Federation of China`, rev 10838, infobox `capital` chars 1437–1446 | State **Beijing**, explicitly as the captured infobox claim. | Do not substitute real-world knowledge or infer a capital from prose. | No |
+| Q02 | Direct fact | What dates does the United Federation of China page give for its existence? | Page 655, infobox `year_start` chars 224–229 and `year_end` chars 239–244 | Report **2058–2108** as the page's stated existence range. | Do not treat the infobox as independently verified chronology. | No |
+| Q03 | Direct fact | What dates does the Third Chinese Civil War page give for the conflict? | Page 1408, `Third Chinese Civil War`, rev 11531, infobox `date` chars 126–137 | Report **2105–2126**; preserve the page's separate phase labels if discussing phases. | Do not conflate the overall date range with combatant-specific phase ranges. | No |
+| Q04 | Direct fact | Who is listed as president of the Association of East-Asia? | Page 1927, `Association of East-Asia`, rev 11231, infobox `leader_title1` chars 409–434 and `leader_name1` chars 436–462 | State **Raku Li Kim**, listed under President. | Do not silently normalize the title's hyphenation. | No |
+| Q05 | Direct fact | What does the Lost Decade (China) page say happened to China? | Page 1319, `Lost Decade (China)`, rev 9584, lead chars 0–278 and causes passage chars 279–2050 | Summarize the page's account: commodities bubble/economic collapse; attempted reforms and purges; sea-level/refugee pressures; rebellion in frontier provinces and Tibet; fragmentation into regionalism and civil strife. | Attribute the account to the page. Do not import external history or fill narrative gaps. | No |
+| Q06 | Entity resolution | Is “UFC” an explicit alias or redirect for “United Federation of China” in the captured corpus? | Page 655, lead passage chars 2740–2900; exact-title inventory has no page titled `UFC` | Say the page uses “UFC” contextually after introducing the United Federation of China; no separate exact-title page or captured redirect establishes it as a formal alias. | A contextual abbreviation is not an alias-index entry. Do not merge identities solely on abbreviation. | No; answer with qualification |
+| Q07 | Entity resolution | Which page does the captured `Main Page` redirect resolve to? | Page 84, `Main Page`, rev 87, chars 0–38; target page 2, `Second Renaissance Wikia`, rev 11916 | Resolve page 84 → page 2, preserving redirect-source provenance. | Do not confuse the redirect page with the target page or discard the original ID. | No |
+| Q08 | Entity resolution | Are the People's Republic of China and the United Federation of China the same captured entity? | Page 2418, `People's Republic of China`, rev 11711, lead chars 0–44; page 655, UFC infobox predecessor `p1` chars 249–278 and lead chars 2600–2900 | Treat them as distinct captured page identities and distinct state claims; UFC's infobox lists the PRC as a predecessor. | Do not infer identity from shared geography or succession. | No; preserve uncertainty about broader lore identity |
+| Q09 | Timeline | When did the Second Chinese Civil War occur according to its infobox? | Page 1413, `Second Chinese Civil War`, rev 11017, `date` chars 109–124; `combatant1` chars 198–554 | Report the infobox range **2027–2048** and separately disclose the **2105–2111** date-like string embedded in `combatant1`. | Do not collapse the two values into one range or assume they describe the same field/event scope. | No; disclose competing source signals |
+| Q10 | Timeline | What dates are given for the Third Chinese Civil War, including its listed phases? | Page 1408, infobox `date` chars 121–137 and `combatant1`/`combatant2` chars 209–1832 | Report overall **2105–2126**; identify phase labels **2105–2111** and **2117–2126** for combatant1, and **2105–2108** plus **2117–2126** for combatant2. | Keep the field/side distinction; do not imply every combatant participated throughout the whole war. | No |
+| Q11 | Timeline | What relationship between the United Federation of China and Federal Republic of China periods is documented? | Page 655, UFC `year_end` chars 239–244 and `s1` chars 406–432; page 649, FRoC `year_start` chars 223–228 and `p1` chars 249–278 | State UFC ends 2108; FRoC begins 2108 and lists UFC as predecessor. Note that the transition narrative is not explained in the FRoC page, whose history is a stub. | The shared boundary year is not by itself proof of an overlap or a detailed transfer mechanism. | No; state the documented gap |
+| Q12 | Relationship | Which entities are listed as combatants in the Second Chinese Civil War infobox? | Page 1413, `combatant1` chars 198–554 and `combatant2` chars 566–1137 | Preserve the two sides as listed: side 1 includes People's Republic of China and Shanghai; side 2 includes Tibet, East Turkestan, Manchuria, Hainan, Macau, and Hong Kong. | Distinguish linked entities from plain text; do not infer alliances or command relationships beyond the infobox. | No |
+| Q13 | Relationship | What office, predecessor, successor, and term are listed for Joseph Loveridge's Chairman role? | Page 1343, `Joseph Loveridge`, rev 8656, `office` chars 169–207, `predecessor` 220–231, `successor` 242–260, `term_start` 272–291, `term_end` 301–317 | Report Chairman of the Joint Chiefs of Staff; predecessor Chet Singh; successor Rohan Mustafa; term January 25, 2141–July 15, 2149. | The page also lists a second office; do not conflate its term with the Chairman role. | No |
+| Q14 | Relationship | Which predecessor and successor values does the United Federation of China infobox explicitly list? | Page 655, infobox `p1` chars 249–278, `p2` 337–356, `s1` 406–432, and remaining `s2`–`s12` fields within template chars 0–2595 | Report predecessor fields: People's Republic of China; Republic of China. Report successor fields exactly: Federal Republic of China, Guangdong, Fujian, Wuyue, Jiangxi, Hunan, Zhuang, Yunnan, Manchuria, Hainan, Taiwan, Federated Provinces of the Yangtze. | These are infobox parameter claims, not a complete adjudicated political succession graph. Preserve the parameter labels. | No |
+| Q15 | Contradiction | Why does the Second Chinese Civil War page include 2105–2111 among combatant dates despite its 2027–2048 infobox date? | Page 1413, `date` chars 109–124 and `combatant1` chars 198–554; comparison page 1408, `date` chars 121–137 and first phase chars 324–333 | Present both source observations and note that page 1408 also uses 2105–2111 as a Third Chinese Civil War phase. State that the captured sources do not explain why the value appears on page 1413. | Do not invent copying error, retcon, shared event, or chronology. Different fields are not automatically competing claims. | Abstain from explaining the cause; disclose evidence |
+| Q16 | Contradiction | How do the United Federation of China and Federal Republic of China pages describe the 2108 transition and later successor? | Pages 655 and 649, dates/predecessor/successor fields above; page 1927, Association of East-Asia `established_date1` chars 635–670 | Report UFC end 2108; FRoC start 2108, predecessor UFC, successor Association of East-Asia; Association page states founded January 1, 2140. Note FRoC ends 2139 and its history text is TBA. | Do not invent the missing 2108–2140 political transition narrative. | No; explicitly state what remains unexplained |
+| Q17 | Contradiction | What historical dates appear in the modern Chinese-state infoboxes? | Page 655, `era` chars 1909–1923 and event/date fields chars 1935–2398; page 649, `era` chars 1116–1130, event/date fields chars 1142–1605, leader years chars 938–1006, statistics chars 1681–1686 | Identify UFC's “20th century” era and Xinhai Revolution/1911, 1927, 1937, 1947, 1948 events. Identify FRoC's “22nd century” era but similar 1911, 1927, 1937, 1947, 1948 entries, plus 1912/1949 leader years and 1912 statistics. | Preserve the literal data and flag the apparent historical-data carryover; do not silently repair it. | No; classify as unresolved source inconsistency |
+| Q18 | Abstention | What was the exact territorial boundary of the Federal Republic of China in 2120? | Page 649, `image_map` chars 666–726 and caption chars 727–835; page 655, `image_map` chars 1232–1292. Exact referenced SVG is absent from the page and asset manifests. | Abstain on exact boundary. State that the page references a historical orthographic-projection map, but the referenced binary is not present in this archive snapshot. | Do not infer territory from the caption, successor list, or a different map. Absence from this capture does not prove the map never existed. | Yes |
+| Q19 | Abstention | What was the private motivation of the leader who initiated the Second Chinese Civil War? | Page 1413, lead/body chars 1388–end; infobox chars 0–1388 | State that the captured page describes the opposing sides and conflict but does not establish a named initiator's private motivation. | Do not invent psychology or infer private intent from political context. | Yes |
+| Q20 | Abstention / exact-title coverage | What does the exact captured page titled “Association of East Asia” say about the entity's founding? | Exact title `Association of East Asia` has no page record. Near-title page 1927 is `Association of East-Asia`, rev 11231, infobox chars 0–1136. | Report that no exact-title page was found; optionally identify the hyphenated near-title as a possible lead, but do not answer as if it were the exact requested page without user-approved alias resolution. | Hyphenation difference is not an exact title match under the resolver's normalization rules. Do not claim the entity itself is absent. | Yes for exact-title answer; may surface near-match as unresolved |
 
-For each case, add: expected supporting page IDs; expected source passages/locators; required answer elements; known conflicting passages; acceptable inference; expected abstention (yes/no); reviewer and review date.
+## Source identity registry
 
-Do not score a question until its answer key is grounded in the captured source archive. Replace bracketed placeholders only after verifying candidate pages.
+All paths below are archive-relative Bronze Wikitext paths. SHA-256 values are from the captured page manifest and were checked against the archive bytes during source review.
+
+| Page ID | Exact captured title | Revision ID | Source path | Source SHA-256 |
+|---:|---|---:|---|---|
+| 655 | United Federation of China | 10838 | `bronze/pages/655/10838.wikitext` | `68ecd598dd32b59ab8bf61db5f4b6117cf10081b147b70a459425908a7419976` |
+| 1927 | Association of East-Asia | 11231 | `bronze/pages/1927/11231.wikitext` | `2dd1bcd0e262f0bdb38b4a059e38721631dfda62d2bd1bf0f69466e5d3cfd9ca` |
+| 1319 | Lost Decade (China) | 9584 | `bronze/pages/1319/9584.wikitext` | `4f68b317539abc63f954674bafcfd512c14924fe16bb639364a89e827bc0366b` |
+| 84 | Main Page | 87 | `bronze/pages/84/87.wikitext` | `fdfcaec1eeeb716bf60baccfeb8ec2eacf58fcbc429a7d76ab148777950235d2` |
+| 2 | Second Renaissance Wikia | 11916 | `bronze/pages/2/11916.wikitext` | `149914ab068a69dd4276f6f94ac43c07869784b5fc203704ee7316eef65cb4a7` |
+| 2418 | People's Republic of China | 11711 | `bronze/pages/2418/11711.wikitext` | `40a0b49cfbe7eb794a3b8671370a5a25a465cc43de6f20c8ca3ff28d431a4430` |
+| 1413 | Second Chinese Civil War | 11017 | `bronze/pages/1413/11017.wikitext` | `37ddc7dee36ca51457de1bbb691728c306cd3fc0152adc47f9077d37e6f8a0ed` |
+| 1408 | Third Chinese Civil War | 11531 | `bronze/pages/1408/11531.wikitext` | `22ae23c3a47ab639c70e38474dfe3b6b0484f53f9bb1acfd473c786138eceae6` |
+| 1343 | Joseph Loveridge | 8656 | `bronze/pages/1343/8656.wikitext` | `df452d37f70f684303de486610c1b76d9399180e46605ba3fd48780030bbaca9` |
+| 649 | Federal Republic of China | 10840 | `bronze/pages/649/10840.wikitext` | `c01c1de7ba631c5d963ac53dd50a573a21d6d02f8077090d72f32b831962c6c9` |
+
+## Scoring protocol
+
+Do not score the set until a maintainer has reviewed this answer-key draft.
+
+For each case, record:
+- expected evidence page IDs retrieved at k;
+- whether the exact expected passage/locator was returned;
+- answer-element coverage;
+- citation precision and source alignment;
+- contradiction disclosure where required;
+- abstention correctness;
+- any namespace leakage or title-resolution error.
+
+Report retrieval metrics separately from answer quality. In particular, distinguish evidence recall@k, citation precision, claim support rate, contradiction candidate recall, abstention quality, and entity-resolution accuracy. Do not report a single reliability percentage from this seed.
