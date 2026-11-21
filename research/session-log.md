@@ -497,3 +497,10 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Reconfirmed Q19 abstention from private-motivation claims against the full page body, and Q20 exact-title abstention: `Association of East Asia` is absent while `Association of East-Asia` exists as a distinct hyphenated title. Q18's map filename is in both pages' raw source and `images` metadata but absent from the asset manifest and ZIP.
 - Added `research/rag/evaluation-locator-validation-001.json` and corrected `research/rag/evaluation-set-001.md`. The set remains a draft pending maintainer sign-off; no retrieval or answer scoring was performed.
 - No Bronze/Silver source bytes, manifests, lore canon, merge, PR, or branch promotion were changed or performed.
+
+
+## 2026-11-21 — Correction: RAG README stale extractor status
+
+- A post-update consistency check found that `research/rag/README.md` still contained an older paragraph stating that the committed extractor had not been executed, despite the new runtime validation section and checked Phase 3 item.
+- Replaced the obsolete pending-status paragraph with the verified 4,381-record archive/schema/offset results and the 20-case locator-verification result. Added the completed 10-identity / 51-locator / seven-boundary-check milestone to Phase 5.
+- This corrects documentation status only; no source code, Bronze/Silver data, or lore canon changed. No merge, PR, or branch promotion.
