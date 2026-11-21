@@ -403,3 +403,14 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Updated `agents.md` to require branch/HEAD verification and swap-file reading at session start. Linked the swap and standards from `research/README.md`; registered the system in the master research register.
 - Authority rule: actual Git state and immutable source evidence outrank the swap; permanent docs/code/tests outrank summaries; chat history and model memory are historical clues only.
 - No credentials or secrets were added. No Bronze/Silver data or canon changed. No merge, PR, or branch promotion.
+
+
+## 2026-11-20 — RAG source-aware infobox claims and conservative comparison pass 001
+
+- Added `research/rag/extract_infobox_claims.py`, a read-only extractor for raw infobox parameters, plus `infobox-claim.schema.json`, `evaluate_infobox_claims.py`, and `test_infobox_claims.py`.
+- Each derived claim retains page ID/title, namespace, revision, archive snapshot hash, source path/hash, exact template name and invocation offsets, parameter name/index, unmodified raw value, value offsets, linked wikilink targets/display values/offsets, and provenance locators.
+- Comparison is deliberately conservative: only repeated values sharing the same page ID, exact infobox invocation, and exact normalized parameter name are compared. Different parameter names (including `date` versus date-like content in `combatant1`) and different page subjects are not compared absent explicit event/entity alignment. Candidate values are surfaced for review; no canon is selected.
+- Corrected nested-brace handling after a local probe showed the depth-counter approach missed some nested-template cases (including the Federal Republic of China infobox, page 649). The committed parser now tracks brace token types on a stack.
+- Local parser-equivalent scan of the pinned archive: 507 main-namespace pages, 143 infobox invocations, 4,381 parameter candidates, and two same-page/same-infobox/same-field groups with distinct values. This is a development probe, not execution of the committed CLI. The committed extractor, evaluator, and regression test file remain unexecuted; runtime verification is the immediate next task.
+- Updated RAG README, master register, research README, agents.md, and .ai/swap.md. The 20-question evaluation seed still lacks reviewed expected passages/page IDs and scoring.
+- No Bronze/Silver source files, manifests, lore canon, or binary index were changed. No merge, PR, or branch promotion.
