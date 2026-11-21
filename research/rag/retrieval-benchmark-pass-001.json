@@ -229,7 +229,16 @@
     "ci_contract_tests": {
       "tests": 3,
       "local_result": "PASS",
-      "github_actions_result": "PENDING"
+      "github_actions_result": "PASS",
+      "workflow_run_id": 44947776807,
+      "workflow_run_url": "https://github.com/robertmccarn/SR-Doc/actions/runs/44947776807",
+      "tested_commit": "c48fe301eb416cb5feb56abec33cb15790b07196",
+      "additional_ci_checks": {
+        "infobox_parser_comparison_tests": 5,
+        "continuity_validator": "PASS",
+        "compileall": "PASS",
+        "pytest_tests": 2
+      }
     },
     "schema_blob_sha": "3f931213a753aafe27029edc5a3d403f9b15dc61"
   },
