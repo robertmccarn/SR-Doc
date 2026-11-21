@@ -3,7 +3,7 @@
 > **Role:** Compact, repo-backed handoff snapshot for AI work. This file is mutable working memory, not canon, source evidence, or a chronological log.
 > **Last verified against GitHub:** 2026-11-20 (pre-handoff refresh; see HEAD below)
 > **Branch:** `audit/continuity-research`
-> **Branch HEAD before this swap refresh:** `b8f8567ce1652b6447ccef19a00f3e273f7a305f`
+> **Branch HEAD before this swap refresh:** `e230f161b4d5aec9121d3e87ad09867be3c30e5b`
 > **Maintainer:** User-directed SR-Doc workflow; agents may update this file under `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
 
 ## 1. Mission and standing constraints
@@ -58,7 +58,7 @@ Generated local index ZIP is `SR-Doc-RAG-Index-002.zip`; it is a build artifact,
 1. Inspect the current branch and read this swap plus `agents.md`, `DOCUMENTATION-GOVERNANCE.md`, master register, RAG README, and recent session log.
 2. Execute `extract_infobox_claims.py` against the pinned archive and compare its output/report with the development probe (143 invocations / 4,381 parameter candidates).
 3. Run `test_infobox_claims.py`; fix any parser/comparison regressions and record the exact command/result.
-4. Review the two repeated-parameter groups from the archive probe. They are unresolved because event scope is not established; do not classify them as conflicts without explicit reviewed `event_scope_id` annotations.
+4. Preserve the two inspected repeated-parameter groups (page 636 `office`; page 1343 `order`) as unresolved. Do not add `event_scope_id` annotations unless new source evidence establishes shared event scope.
 5. Obtain maintainer sign-off on the source-keyed 20-question evaluation draft, then score evidence recall, citation precision, contradiction candidate recall, entity resolution, and abstention separately.
 6. Update this swap after the implementation milestone, plus master register/README/session log under documentation governance.
 
