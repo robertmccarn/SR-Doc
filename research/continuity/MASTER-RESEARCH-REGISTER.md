@@ -94,7 +94,7 @@ Independent raw-Wikitext scan found 441 distinct media-manifest titles in explic
 - `research/rag/README.md` — architecture and staged implementation plan.
 - `research/rag/evidence-packet.schema.json` — machine-readable evidence packet schema.
 - `research/rag/evaluation-set-001.md` — 20-question maintainer-approved baseline answer key with page IDs, character locators, answer criteria, pitfalls, and abstention expectations; retrieval pass 001 recorded, answer-generation/citation scoring pending.
-- `research/rag/evaluation-locator-validation-001.json` — independent pinned-archive check of all ten source identities, 51 cited locator/content ranges, and seven exact-title/map-boundary conditions; Q16/Q17 locator corrections recorded.
+- `research/rag/evaluation-locator-validation-001.json` — independent pinned-archive check of all ten source identities, 51 cited locator/content ranges, and seven exact-title/map-boundary conditions; Q09/Q16/Q17 locator corrections recorded.
 - `research/rag/retrieval-benchmark-pass-001.json` — initial approved 20-case retrieval benchmark, per-case page discovery, first-stage/full-page locator coverage, entity/redirect/abstention results, precision caveats, and execution-source limitations.
 - `research/rag/extract_infobox_claims.py` — read-only, provenance-preserving infobox parameter claim extractor.
 - `research/rag/infobox-claim.schema.json` — machine-readable claim record contract.
