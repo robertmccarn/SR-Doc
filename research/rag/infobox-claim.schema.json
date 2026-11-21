@@ -172,6 +172,13 @@
         }
       },
       "additionalProperties": false
+    },
+    "event_scope_id": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Optional manually reviewed event-scope alignment key. The extractor does not infer or populate this field."
     }
   },
   "additionalProperties": false
