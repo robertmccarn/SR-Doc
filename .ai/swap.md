@@ -1,9 +1,9 @@
 # SR-Doc — AI session swap memory
 
 > **Role:** Compact, repo-backed handoff snapshot for AI work. This file is mutable working memory, not canon, source evidence, or a chronological log.
-> **Last verified against GitHub: 2026-11-20 (after Q18 provenance correction)
+> **Last verified against GitHub: 2026-11-20 (after infobox repeated-parameter source-context review)
 > **Branch:** `audit/continuity-research`
-> **Branch HEAD before this swap refresh: 6e675c7e0283a0d8375da563ea1a0d72a179190c
+> **Branch HEAD before this swap refresh: 80b25e5502153e76adab4b487534ad662416b997
 > **Maintainer:** User-directed SR-Doc workflow; agents may update this file under `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
 
 ## 1. Mission and standing constraints
@@ -58,7 +58,7 @@ Generated local index ZIP is `SR-Doc-RAG-Index-002.zip`; it is a build artifact,
 1. Inspect the current branch and read this swap plus `agents.md`, `DOCUMENTATION-GOVERNANCE.md`, master register, RAG README, and recent session log.
 2. Execute `extract_infobox_claims.py` against the pinned archive and compare its output/report with the development probe (143 invocations / 4,381 parameter candidates).
 3. Run `test_infobox_claims.py`; fix any parser/comparison regressions and record the exact command/result.
-4. Preserve the two inspected repeated-parameter groups (page 636 `office`; page 1343 `order`) as unresolved. Do not add `event_scope_id` annotations unless new source evidence establishes shared event scope.
+4. Keep the two reviewed repeated-parameter groups (page 636 `office`; page 1343 `order`) unresolved. No event-scope annotation is supported by the captured Wikitext.
 5. Obtain maintainer sign-off on the source-keyed 20-question evaluation draft. Ten source-page identities and critical claims have been independently cross-checked; Q18's reference-vs-binary distinction is corrected. Then score evidence recall, citation precision, contradiction candidate recall, entity resolution, and abstention separately.
 6. Update this swap after the implementation milestone, plus master register/README/session log under documentation governance.
 
