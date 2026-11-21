@@ -31,7 +31,8 @@ These figures are development-probe results, not output from an execution of the
    - Template: `Infobox election`
    - Parameter: `office`
    - Values at character ranges `733–754` and `996–1012`: `Chairman of the ITC`; `Vice President`.
-   - Interpretation: observed duplicate parameter values. They may describe separate offices; event scope is not established. Do not label them contradictory.
+   - Source-context review: the first value occurs inside the `nominee1` block, and the second occurs after the `nominee2` block begins. The surrounding fields describe different nominees and locations. This makes separate office/race context plausible, but the raw template does not explicitly define the parameter semantics or event mapping.
+   - Interpretation: retain both values as distinct raw claims. The surrounding layout is a reason not to call them contradictory; it does not establish a reviewed shared event scope.
 
 2. **Page 1343 — Joseph Loveridge**
    - Revision: `8656`
@@ -40,7 +41,8 @@ These figures are development-probe results, not output from an execution of the
    - Template: `Infobox officeholder`
    - Parameter: `order`
    - Values at character ranges `115–149` and `156–161`: `[[United States Space Force|1st]]`; `39th`.
-   - Interpretation: observed duplicate parameter values. They may refer to distinct offices/roles; event scope is not established. Do not label them contradictory.
+   - Source-context review: both `order` values occur before the first `office` field. A later `order2=1st` appears with `office2=Vice Chief of Staff of the Space Force`. The first two values therefore cannot be assigned confidently to separate roles from field ordering alone.
+   - Interpretation: retain both values as distinct raw claims. The second value may be the intended order for the Chairman role while the linked `1st` value may refer to a separate rank, but that is only a hypothesis; no event-scope annotation is justified.
 
 ## Explicit non-comparison example
 
@@ -56,8 +58,7 @@ The separate page 1408, **Third Chinese Civil War**, is a different page subject
 
 - Execute the committed extractor on the pinned ZIP; compare its report to the development probe.
 - Run `test_infobox_claims.py` and record exact output.
-- Review the two unscoped duplicate-parameter groups in source context.
-- Decide whether any reviewed, source-supported event-scope annotations are warranted; do not infer them from page proximity or matching date patterns.
+- Source-context review of both unscoped duplicate-parameter groups is complete and documented above. Keep both unresolved; no reviewed event-scope annotation is supported by the captured Wikitext alone.
 - Complete reviewed source passages, page IDs, answer criteria, and abstention expectations for all 20 RAG evaluation cases.
 - Measure retrieval and candidate-comparison quality before adding embeddings.
 
