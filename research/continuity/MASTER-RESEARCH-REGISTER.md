@@ -1,6 +1,6 @@
 # SR-Doc research — master register and audit status
 
-**Last reconciled:** 2026-11-20  
+**Last reconciled:** 2026-11-21  
 **Working branch:** `audit/continuity-research`  
 **Purpose:** Canonical navigation, status, definitions, findings, and handoff for the research notes. This register supersedes stale progress summaries in older append-only notes, but does not replace their detailed evidence.
 
@@ -11,6 +11,7 @@
 - Evidence transport: `research/rag/evidence-packet.schema.json` — JSON Schema 1.0 for portable retrieved evidence packets.
 - Evaluation seed: `research/rag/evaluation-set-001.md` — 20 source-keyed questions across direct facts, entity resolution, timelines, relationships, contradictions, and abstention. Ten page identities and critical claims have an independent archive cross-check. A targeted correction clarified Q18: the SVG reference is present in the raw page and page-manifest `images` metadata, but the binary is absent from the asset manifest and archive. Maintainer sign-off and scoring remain pending.
 - **Current status:** protocol/schema/evaluation seed, read-only archive validator, section-aware chunker, SQLite FTS5 index builder, exact-title/redirect index builder, evidence-packet search CLI, source-aware infobox claim extractor, claim schema, and conservative same-scope comparison CLI are committed. Archive SHA-256: `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`. Corpus: 3,579 page metadata rows, 7,598 unique chunks, 7,598 FTS rows; 3,092 pages have text chunks. 487 captured records have no non-whitespace text, including three empty main-namespace pages. Default lexical search is main namespace only; context namespaces require explicit inclusion. Exact title/redirect lookup is opt-in via `--title` and preserves redirect provenance. Smoke tests passed; no benchmark score yet.
+- **Infobox claim runtime verification (2026-11-21):** committed extractor executed against the pinned archive: 507 main-namespace pages, 143 infobox invocations, 4,381 claims, all IDs unique; 4,381/4,381 records passed JSON Schema Draft 2020-12 and exact offset/provenance checks. Repeat extraction was byte-identical. Evaluator retained two unscoped repeated-parameter groups as unresolved and produced zero scoped candidate conflicts. See `research/rag/infobox-claim-validation-001.json`.
 
 ## Documentation governance
 
@@ -96,7 +97,8 @@ Independent raw-Wikitext scan found 441 distinct media-manifest titles in explic
 - `research/rag/extract_infobox_claims.py` — read-only, provenance-preserving infobox parameter claim extractor.
 - `research/rag/infobox-claim.schema.json` — machine-readable claim record contract.
 - `research/rag/evaluate_infobox_claims.py` — comparison requiring same page subject, explicit reviewed `event_scope_id`, template family, and exact normalized parameter name; unscoped repeated parameters remain unresolved.
-- `research/rag/test_infobox_claims.py` — five parser/comparison regression tests; passed in GitHub Actions on 2026-11-21 under Python 3.11.18. The committed extractor CLI has not yet been run against the pinned ZIP; claim JSON Schema validation remains pending.
+- `research/rag/test_infobox_claims.py` — five parser/comparison regression tests; passed in GitHub Actions on 2026-11-21 under Python 3.11.18.
+- `research/rag/infobox-claim-validation-001.json` — committed extractor/evaluator execution report: 4,381 claims from the pinned ZIP, all schema/offset/provenance checks passed, repeat output byte-identical; two unscoped repeated fields remain unresolved.
 - `research/rag/infobox-claims-pass-001.md` — detailed method, development-probe coverage, unresolved repeated-parameter examples, and limitations.
 
 
