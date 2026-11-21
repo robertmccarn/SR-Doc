@@ -184,7 +184,7 @@ Do not report a reliability percentage until the test set is fixed and answers a
 - [x] Return source passages with stable page/revision/hash/path/section/character-offset citations.
 - [x] Add CLI search command that emits evidence packets conforming to schema 1.0.
 - [x] Test exact-name/phrase retrieval and page-ID lookup against known corpus passages.
-- [x] Add exact title-key and captured Wikitext redirect resolution; redirect targets remain explicit mappings, not entity merges. Retrieval evaluation remains outstanding.
+- [x] Add exact title-key and captured Wikitext redirect resolution; redirect targets remain explicit mappings, not entity merges. Initial retrieval benchmark pass 001 is complete; answer-generation and citation scoring remain outstanding.
 
 ### Phase 3 — Graph-assisted and semantic retrieval
 - [ ] Load the versioned graph package as optional sidecar.
@@ -203,9 +203,10 @@ Do not report a reliability percentage until the test set is fixed and answers a
 - [ ] Validate citations and abstention behavior manually.
 
 ### Phase 5 — Evaluation and iteration
-- [x] Draft source-reviewed expected evidence page IDs, locators, answer elements, pitfalls, and abstention expectations for all 20 cases; maintainer sign-off is pending.
-- [x] Independently verify all ten source-page identities, 51 cited locator/content ranges, and seven exact-title/map-boundary checks against the pinned archive; correct Q16/Q17 locators. Maintainer sign-off and scoring remain pending.
-- [ ] Score retrieval and answer quality separately.
+- [x] Draft source-reviewed expected evidence page IDs, locators, answer elements, pitfalls, and abstention expectations for all 20 cases; maintainer approved this baseline on 2026-11-21.
+- [x] Independently verify all ten source-page identities, 51 cited locator/content ranges, and seven exact-title/map-boundary checks against the pinned archive; correct Q16/Q17 locators. Maintainer approval received.
+- [x] Score initial retrieval page recall, passage-locator coverage, exact-title/redirect resolution, and exact-title abstention; results and limitations are recorded in `retrieval-benchmark-pass-001.json`.
+- [ ] Generate and score answer outputs for answer-element coverage, citation precision, claim support, contradiction disclosure, and abstention quality.
 - [ ] Fix corpus/chunk/retrieval failures before tuning prompts.
 - [ ] Record failure examples and regression tests.
 - [ ] Expand only after the initial acceptance target is met.
@@ -308,7 +309,7 @@ Comparison is deliberately narrower than date-pattern matching. A `date` paramet
 
 Committed runtime verification is complete for the pinned snapshot: the exact committed extractor emitted 4,381 claims from 507 main-namespace pages and 143 infobox invocations; all 4,381 records passed the claim schema, raw-value and linked-entity offsets, template bounds, and source-provenance checks. A second run was byte-identical. The evaluator found zero scoped candidate conflicts and retained the two repeated-parameter groups (page 636 `office`; page 1343 `order`) as unresolved. See `infobox-claim-validation-001.json` and `infobox-claims-pass-001.md`.
 
-The 20-case evaluation draft has also passed independent source-locator review: ten page identities, 51 cited range/content checks, and seven exact-title/map-boundary checks passed; Q16/Q17 locators were corrected. See `evaluation-locator-validation-001.json`. Maintainer sign-off remains pending before retrieval and answer scoring.
+The 20-case evaluation baseline was approved by the maintainer on 2026-11-21. Retrieval benchmark pass 001 found 100% expected-page recall by top five unique page candidates, but first-stage passage-locator coverage was 47/55 (85.5%); full-page expansion of already retrieved pages raised locator coverage to 55/55. Exact-title retrieval was precise, ordinary lexical retrieval had moderate candidate noise, and contrast mode at k=16 was noisy. See `retrieval-benchmark-pass-001.json`. Answer-generation/citation scoring remains outstanding.
 
 Example:
 ```powershell
