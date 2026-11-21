@@ -38,7 +38,7 @@ class InfoboxParserTests(unittest.TestCase):
     def test_comparison_requires_same_subject_instance_and_field(self):
         base = {
             "page_id": "1", "title": "Subject", "template_instance_id": "T1",
-            "normalized_parameter_name": "date", "parameter_name": "date",
+            "normalized_parameter_name": "date", "parameter_name": "date", "event_scope_id": "E1",
             "template_name": "Infobox X", "provenance": {"locator": "chars 1-5"},
         }
         claims = [
@@ -47,11 +47,15 @@ class InfoboxParserTests(unittest.TestCase):
             {**base, "claim_id": "c", "raw_parameter_value": " 2020-2021 "},
             {**base, "claim_id": "d", "page_id": "2", "raw_parameter_value": "1990-1991"},
             {**base, "claim_id": "e", "normalized_parameter_name": "combatant1", "raw_parameter_value": "2105-2111"},
+            {**base, "claim_id": "f", "event_scope_id": None, "normalized_parameter_name": "office", "template_instance_id": "T2", "raw_parameter_value": "Chair"},
+            {**base, "claim_id": "g", "event_scope_id": None, "normalized_parameter_name": "office", "template_instance_id": "T2", "raw_parameter_value": "Vice President"},
         ]
         result = evaluate_claims(claims)
         self.assertEqual(result["candidate_count"], 1)
         self.assertEqual(result["candidate_conflicts"][0]["subject_page_id"], "1")
         self.assertEqual(result["candidate_conflicts"][0]["status"], "candidate_conflict_requires_source_review")
+        self.assertEqual(result["unresolved_comparison_count"], 1)
+        self.assertEqual(result["unresolved_comparisons"][0]["status"], "not_compared_event_scope_unresolved")
 
 
 if __name__ == "__main__":
