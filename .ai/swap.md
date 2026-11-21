@@ -1,9 +1,9 @@
 # SR-Doc — AI session swap memory
 
 > **Role:** Compact, repo-backed handoff snapshot for AI work. This file is mutable working memory, not canon, source evidence, or a chronological log.
-> **Last verified against GitHub:** 2026-11-20 (before this swap refresh)
+> **Last verified against GitHub: 2026-11-20 (after Q18 provenance correction)
 > **Branch:** `audit/continuity-research`
-> **Branch HEAD before this swap refresh:** `7c44ba408d1699835183f7a01af3e4ab7f5829fb`
+> **Branch HEAD before this swap refresh: 6e675c7e0283a0d8375da563ea1a0d72a179190c
 > **Maintainer:** User-directed SR-Doc workflow; agents may update this file under `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
 
 ## 1. Mission and standing constraints
@@ -31,7 +31,7 @@ Implemented baseline:
 - Date-bearing contrast mode via `--contrast`; returns diversified lexical candidates and heuristic `date_signals`, flags multiple date ranges for human review.
 - Four contrast regression checks were recorded as passing against the uploaded version-002 SQLite index; see `research/rag/contrast-smoke-tests-001.json`. This is a smoke/regression check, not a benchmark.
 - Source-aware infobox extraction is now implemented in `research/rag/extract_infobox_claims.py`, with schema `research/rag/infobox-claim.schema.json` and conservative event-scoped comparison in `research/rag/evaluate_infobox_claims.py`. The evaluator requires same page subject, an explicit reviewed `event_scope_id`, template family, and exact normalized parameter name. Repeated parameters without event-scope annotation remain unresolved, not conflicts. Detailed evidence: `research/rag/infobox-claims-pass-001.md`.
-- Regression test source is `research/rag/test_infobox_claims.py`, and `research/rag/infobox-claims-pass-001.md`. The committed CLI/tests have not yet been executed. A separate local parser-equivalent archive probe found 143 infobox invocations and 4,381 parameter candidates across 507 main-namespace pages, including two repeated-parameter groups with unresolved event scope; treat this as a development probe, not committed-code verification. The 20-case answer-key draft is source-keyed but not signed off or scored.
+- Regression test source is `research/rag/test_infobox_claims.py`, and `research/rag/infobox-claims-pass-001.md`. The committed CLI/tests have not yet been executed. A separate local parser-equivalent archive probe found 143 infobox invocations and 4,381 parameter candidates across 507 main-namespace pages, including two repeated-parameter groups with unresolved event scope; treat this as a development probe, not committed-code verification. The 20-case answer-key draft is source-keyed but not signed off or scored. Q18's map reference is present in raw Wikitext and page-manifest `images` metadata, but its binary is absent from the asset manifest and ZIP; see the correction in `research/rag/evaluation-set-001.md`.
 
 Key files:
 - `research/rag/build_index.py`
@@ -59,7 +59,7 @@ Generated local index ZIP is `SR-Doc-RAG-Index-002.zip`; it is a build artifact,
 2. Execute `extract_infobox_claims.py` against the pinned archive and compare its output/report with the development probe (143 invocations / 4,381 parameter candidates).
 3. Run `test_infobox_claims.py`; fix any parser/comparison regressions and record the exact command/result.
 4. Preserve the two inspected repeated-parameter groups (page 636 `office`; page 1343 `order`) as unresolved. Do not add `event_scope_id` annotations unless new source evidence establishes shared event scope.
-5. Obtain maintainer sign-off on the source-keyed 20-question evaluation draft. Ten source-page identities and critical claims have now been independently cross-checked against the pinned archive; then score evidence recall, citation precision, contradiction candidate recall, entity resolution, and abstention separately.
+5. Obtain maintainer sign-off on the source-keyed 20-question evaluation draft. Ten source-page identities and critical claims have been independently cross-checked; Q18's reference-vs-binary distinction is corrected. Then score evidence recall, citation precision, contradiction candidate recall, entity resolution, and abstention separately.
 6. Update this swap after the implementation milestone, plus master register/README/session log under documentation governance.
 
 ## 5. Open questions / blockers
