@@ -1,6 +1,6 @@
 # RAG source-aware infobox claims — pass 001
 
-**Status:** Extractor, claim schema, and conservative comparison CLI committed. The committed CLI and regression tests still require runtime execution against the pinned archive.
+**Status:** Extractor, claim schema, and conservative comparison CLI committed. The five committed parser/comparison regression tests passed in GitHub Actions on 2026-11-21 (Python 3.11.18); the repository continuity validator, compileall step, and existing pytest suite also passed. The committed extractor CLI has not yet been executed against the pinned archive, and emitted records have not yet been validated against the JSON Schema.
 **Scope:** Main namespace (507 captured pages), pinned Bronze/Silver archive SHA-256 `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`.
 **Evidence class:** Derived parser probe plus direct source-locator observations. No canon adjudication.
 
@@ -20,7 +20,7 @@ A local parser-equivalent scan of the pinned archive, with brace-stack-aware mat
 - 4,381 parameter candidates.
 - Two repeated-parameter groups with distinct values and no established event scope.
 
-These figures are development-probe results, not output from an execution of the committed CLI. The committed extractor/evaluator and regression tests have not yet been run in the current environment.
+These figures remain development-probe results, not output from an execution of the committed CLI. The committed regression test file has now passed in GitHub Actions; the committed extractor/evaluator CLI still has not been run against the pinned archive.
 
 ## Unresolved repeated-parameter observations
 
@@ -56,8 +56,8 @@ The separate page 1408, **Third Chinese Civil War**, is a different page subject
 
 ## Limitations and next steps
 
-- Execute the committed extractor on the pinned ZIP; compare its report to the development probe.
-- Run `test_infobox_claims.py` and record exact output.
+- Execute the committed extractor on the pinned ZIP in an environment where the archive is available; compare its report to the development probe.
+- Validate every emitted claim record against `infobox-claim.schema.json` and check deterministic IDs/offset slices.
 - Source-context review of both unscoped duplicate-parameter groups is complete and documented above. Keep both unresolved; no reviewed event-scope annotation is supported by the captured Wikitext alone.
 - Complete reviewed source passages, page IDs, answer criteria, and abstention expectations for all 20 RAG evaluation cases.
 - Measure retrieval and candidate-comparison quality before adding embeddings.
