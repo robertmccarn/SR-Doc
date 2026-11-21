@@ -1,0 +1,68 @@
+{
+  "report_id": "evaluation-locator-validation-001",
+  "status": "PASS",
+  "execution_date": "2026-11-21",
+  "archive": {
+    "filename": "SR-Doc-Audit.zip",
+    "sha256": "d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8",
+    "pinned_hash_match": true
+  },
+  "evaluation_set": "research/rag/evaluation-set-001.md",
+  "review_scope": "All 20 evaluation cases; all ten registered source-page identities; cited character ranges and corpus-boundary claims were checked against the pinned Bronze archive and manifests.",
+  "source_page_identity_validation": {
+    "records_checked": 10,
+    "records_passed": 10,
+    "page_ids": ["655", "1927", "1319", "84", "2", "2418", "1413", "1408", "1343", "649"],
+    "checks": ["page ID", "exact title", "revision ID", "archive-relative source path", "source SHA-256"]
+  },
+  "locator_validation": {
+    "range_content_checks": 51,
+    "passed": 51,
+    "failed": 0,
+    "method": "Read exact Bronze Wikitext for each registered page and verify cited character slices contain the expected field/value/content tokens."
+  },
+  "corpus_boundary_checks": {
+    "checks": 7,
+    "passed": 7,
+    "results": {
+      "exact_UFC_title_absent": true,
+      "exact_Association_of_East_Asia_title_absent": true,
+      "hyphenated_Association_of_East-Asia_title_present": true,
+      "Q18_map_reference_in_page_649_images_metadata": true,
+      "Q18_map_reference_in_page_655_images_metadata": true,
+      "Q18_map_absent_from_asset_manifest": true,
+      "Q18_map_binary_absent_from_archive": true
+    }
+  },
+  "corrections": [
+    {
+      "case": "Q16",
+      "issue": "The previous page-649 successor locator 285-314 did not point to the s1 successor field.",
+      "corrected_locators": {
+        "FRoC_year_start": "223-228",
+        "FRoC_year_end": "229-244",
+        "FRoC_predecessor_p1": "249-278",
+        "FRoC_successor_s1": "321-349",
+        "FRoC_history_foundation_TBA": "1906-1940",
+        "UFC_year_end": "239-244",
+        "UFC_successor_s1": "406-432",
+        "Association_established_date1": "635-670"
+      }
+    },
+    {
+      "case": "Q17",
+      "issue": "The previous FRoC leader-years range 938-1006 included 1912 but omitted year_leader2=1949.",
+      "corrected_locator": "page 649 chars 938-1027"
+    }
+  ],
+  "abstention_review": {
+    "Q19": "The full captured Second Chinese Civil War article body describes the conflict, background, and aftermath but does not identify a named initiator's private motivation. The expected abstention remains appropriate.",
+    "Q18": "The map filename is present in both page source and page-manifest images metadata, but absent from the asset manifest and physical archive. Exact territorial-boundary abstention remains appropriate.",
+    "Q20": "The exact unhyphenated title is absent; the hyphenated near-title is present and is not silently equated."
+  },
+  "limitations": [
+    "This is source-locator and corpus-boundary verification, not maintainer sign-off.",
+    "No retrieval or answer scoring was performed.",
+    "The source snapshot does not establish that the missing Q18 map never existed."
+  ]
+}
