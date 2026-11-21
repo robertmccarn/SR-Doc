@@ -191,6 +191,7 @@ Do not report a reliability percentage until the test set is fixed and answers a
 - [ ] Implement entity resolution and bounded graph expansion.
 - [ ] Add embeddings only if evaluation shows lexical retrieval gaps.
 - [x] Add a first-pass date-bearing contrast mode that diversifies lexical results across pages and flags multiple year ranges in one passage as review candidates. This is retrieval support, not semantic contradiction adjudication.
+- [x] Add source-aware infobox parameter extraction and a conservative same-subject/same-infobox/same-field comparison pass; runtime corpus validation and broader semantic alignment remain outstanding.
 - [ ] Preserve predicate direction and edge provenance.
 
 ### Phase 4 — ChatGPT workflow
@@ -287,3 +288,27 @@ This plan describes intended work. A checked box means the artifact or decision 
 - Limitations: lexical OR retrieval can return loosely related pages; date regex is heuristic and does not parse infobox field labels or distinguish event dates from publication dates. Candidate recall/precision has not been benchmarked. No reliability percentage is claimed.
 - Example: `python research/rag/search.py "Second Chinese Civil War 2027 2048 2105 2111" --contrast --db srdoc_fts5.sqlite -k 16 --json`.
 - No Bronze/Silver source bytes or canon pages changed. The local SQLite database remains a generated artifact; no binary DB is committed.
+
+
+## 14. Source-aware infobox claims and conservative comparison — pass 001
+
+Added:
+- `extract_infobox_claims.py` — read-only Bronze ZIP extractor. It verifies the pinned archive identity and each selected page's manifest SHA-256, defaults to namespace 0, and emits one JSONL record per infobox parameter.
+- `infobox-claim.schema.json` — portable schema for the derived claim record.
+- `evaluate_infobox_claims.py` — groups repeated values only when page ID (subject), exact infobox invocation (narrow scope), and exact normalized parameter name (field meaning) all match. It surfaces competing values for review and never adjudicates them.
+- `test_infobox_claims.py` — parser and comparison regression tests covering nested templates, nested parameter syntax, wikilink pipes/offsets, namespaced infobox templates, and scope gating.
+
+Each claim retains original page ID/title, namespace, revision, archive SHA-256, source path and SHA-256, exact infobox template name, template invocation ID and character range, exact parameter name/index, raw parameter value, value character range, linked wikilink targets/display text and their offsets, and explicit provenance locators. The raw value is not normalized in the output.
+
+Comparison is deliberately narrower than date-pattern matching. A `date` parameter and a date-like string embedded in `combatant1` are different fields and are not compared. Claims from different page subjects are not compared without an explicit entity-equivalence mapping. Different infobox invocations are not treated as the same event scope. Duplicate values within one exact subject/template/field scope may be emitted as `candidate_conflict_requires_source_review`; no canonical value is selected.
+
+Important limitation: the committed CLI and unittest file have not yet been executed in this environment. A local parser-equivalent scan of the pinned archive was used to probe brace handling and coverage: 507 main-namespace pages, 142 infobox invocations, and 4,381 parameter candidates after correcting nested-brace matching. This probe is not a run of the committed CLI and is not a formal validation result. The next step is to execute the committed extractor and tests against the pinned ZIP, compare its report with this probe, inspect the two repeated-field candidate groups, and add reviewed evidence keys to the 20-question evaluation seed.
+
+Example:
+```powershell
+python research/rag/extract_infobox_claims.py .\\SR-Doc-Audit.zip --output infobox-claims.jsonl --report infobox-claims-report.json
+python research/rag/evaluate_infobox_claims.py infobox-claims.jsonl --output infobox-claim-comparison.json
+python -m unittest research.rag.test_infobox_claims
+```
+
+All outputs are derived artifacts; do not write them into Bronze/Silver source paths. The extractor defaults to main namespace; use `--include-context` only for an explicitly contextual/editorial extraction. No source capture, manifest, canon page, merge, PR, or branch promotion was changed or performed.
