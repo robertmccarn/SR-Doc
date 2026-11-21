@@ -146,7 +146,10 @@ def iter_infoboxes(text: str):
             end = find_template_end(text, i)
             if end is not None:
                 name, parameters = parse_template_parameters(text, i, end)
-                if name.casefold().replace("_", " ").startswith("infobox"):
+                normalized_name = name.casefold().replace("_", " ").strip()
+                if normalized_name.startswith("template:"):
+                    normalized_name = normalized_name[len("template:"):].strip()
+                if normalized_name.startswith("infobox"):
                     yield i, end, name, parameters
                 i += 2
                 continue
