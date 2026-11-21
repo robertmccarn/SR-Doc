@@ -60,3 +60,15 @@ For each case, record:
 - any namespace leakage or title-resolution error.
 
 Report retrieval metrics separately from answer quality. In particular, distinguish evidence recall@k, citation precision, claim support rate, contradiction candidate recall, abstention quality, and entity-resolution accuracy. Do not report a single reliability percentage from this seed.
+
+
+## Independent archive verification pass 001
+
+**Verification date:** 2026-11-20 (local session date)  
+**Archive:** `SR-Doc-Audit.zip`, SHA-256 `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`.
+
+A second source check read the Bronze page records directly from the supplied ZIP and recomputed their SHA-256 values against the page manifest. All ten page identities in the source registry matched their recorded page ID, exact title, revision ID, source path, and SHA-256: 655, 1927, 1319, 84, 2, 2418, 1413, 1408, 1343, and 649. The archive contains 3,579 page-manifest rows; this check was scoped to the ten records used by this evaluation set, not a new full-corpus validation run.
+
+Critical claim cross-checks included the Second Chinese Civil War's separate `date` and `combatant1` values; the Third Chinese Civil War's 2105–2111 and later phase labels; the UFC/FRoC 2108 boundary and predecessor/successor fields; the repeated 1911–1948 historical entries in both state infoboxes; Joseph Loveridge's Chairman-role fields; and the Association's January 1, 2140 establishment field. The historical orthographic-projection SVG named by pages 655 and 649 is absent from the 900-record asset manifest. The exact title `UFC` and exact title `Association of East Asia` are absent from the captured page-title inventory; the hyphenated `Association of East-Asia` page exists as page 1927.
+
+**Result:** The checked page identities and listed critical source claims agree with the captured Bronze records. This is an independent archive cross-check, not maintainer sign-off, a full review of every character locator, a committed extractor/test execution, or a retrieval/answer benchmark score. The evaluation set remains a draft pending maintainer review.
