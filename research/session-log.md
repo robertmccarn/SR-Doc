@@ -486,3 +486,14 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Added `research/rag/infobox-claim-validation-001.json` and updated the pass-001 note, RAG README, master register, and research README. The generated JSONL/comparison outputs remain local derived artifacts and are not committed.
 - This closes the committed extractor/archive/schema execution gate for the pinned snapshot. Maintainer sign-off and scoring of the 20-question evaluation set, retrieval-quality measurement, and broader parser coverage remain outstanding.
 - No Bronze/Silver source bytes, manifests, lore canon, merge, PR, or branch promotion were changed or performed.
+
+
+## 2026-11-21 — RAG evaluation-set locator verification correction 002
+
+- Re-read the ten Bronze source pages registered in `research/rag/evaluation-set-001.md` and rechecked page ID, exact title, revision, source path, and SHA-256 against the pinned archive manifest: 10/10 matched.
+- Checked 51 cited character-range/content slices across the 20 evaluation cases: 51/51 passed after correcting two locator defects. Also passed seven corpus-boundary checks covering exact-title/near-title resolution and Q18's source-reference, page-manifest metadata, asset-manifest absence, and physical-binary absence.
+- Corrected Q16: the FRoC successor `s1=Association of East-Asia` is at page 649 chars 321–349, not 285–314; added explicit FRoC `year_end` and History/Foundation TBA locators, plus the UFC successor locator.
+- Corrected Q17: page 649 chars 938–1006 included `year_leader1=1912` but omitted `year_leader2=1949`; extended the range to 938–1027.
+- Reconfirmed Q19 abstention from private-motivation claims against the full page body, and Q20 exact-title abstention: `Association of East Asia` is absent while `Association of East-Asia` exists as a distinct hyphenated title. Q18's map filename is in both pages' raw source and `images` metadata but absent from the asset manifest and ZIP.
+- Added `research/rag/evaluation-locator-validation-001.json` and corrected `research/rag/evaluation-set-001.md`. The set remains a draft pending maintainer sign-off; no retrieval or answer scoring was performed.
+- No Bronze/Silver source bytes, manifests, lore canon, merge, PR, or branch promotion were changed or performed.
