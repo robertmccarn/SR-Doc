@@ -76,7 +76,7 @@ These counts and definitions are maintained in the master register. If new verif
 
 ## Current next work
 
-Follow the ordered recommendations in the master register. The active implementation priority is the SR-Doc RAG workstream: exact title/redirect resolution and first-pass date-bearing contrast retrieval are implemented alongside section-aware chunks and SQLite FTS5 lexical retrieval. Next: complete the reviewed 20-question evidence benchmark and evaluate contrast candidate recall/precision; improve claim/infobox-aware comparisons without adjudicating canon. Embeddings remain deferred until lexical/alias evaluation exposes a measurable gap. The Chinese political-history Talk/Thread context and succession claim matrix remain outstanding research tasks; do not silently discard them.
+Follow the ordered recommendations in the master register. The active implementation priority is the SR-Doc RAG workstream. Section-aware chunks, SQLite FTS5 lexical retrieval, exact title/redirect resolution, date-bearing contrast retrieval, source-aware infobox parameter extraction, a claim schema, and conservative same-page/same-infobox/same-field comparison are implemented in code. Next: execute the committed extractor and regression tests against the pinned archive; inspect repeated-field candidates; then review expected passages/page IDs and answer criteria for the 20-question evaluation seed. Measure retrieval and claim-comparison quality before considering embeddings. Preserve the Chinese political-history Talk/Thread context and succession claim matrix as outstanding work; do not silently discard them.
 
 ## Reporting standard
 
