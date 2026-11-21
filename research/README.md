@@ -15,7 +15,7 @@ This directory contains source-grounded audit ledgers, tranche evidence, depende
 2. **[Evidence packet schema](rag/evidence-packet.schema.json)** — machine-readable handoff format.
 3. **[Initial evaluation set](rag/evaluation-set-001.md)** — 20 source-keyed answer-key drafts with page IDs and locators; ten source-page identities and critical claims independently cross-checked against the pinned archive; Q18's map reference is present in page metadata but its binary is missing from the asset archive; maintainer sign-off and scoring pending.
 - **[Infobox claim schema](rag/infobox-claim.schema.json)** — provenance-preserving derived parameter claim contract.
-- **[Infobox extractor](rag/extract_infobox_claims.py)** and **[conservative comparison](rag/evaluate_infobox_claims.py)** — raw values and explicitly scoped candidate review; runtime verification pending. See [pass-001 evidence](rag/infobox-claims-pass-001.md).
+- **[Infobox extractor](rag/extract_infobox_claims.py)** and **[conservative comparison](rag/evaluate_infobox_claims.py)** — raw values and explicitly scoped candidate review; five parser/comparison regression tests passed in GitHub Actions, while full archive extraction and schema validation remain pending. See [pass-001 evidence](rag/infobox-claims-pass-001.md).
 
 5. **[Documentation governance](continuity/DOCUMENTATION-GOVERNANCE.md)** — required protocol for all agent documentation changes.
 6. **[Master research register](continuity/MASTER-RESEARCH-REGISTER.md)** — canonical status, evidence hierarchy, reconciled counts, findings, full note inventory, and next work.
