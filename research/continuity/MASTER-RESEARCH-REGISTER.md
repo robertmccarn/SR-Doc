@@ -97,6 +97,7 @@ Independent raw-Wikitext scan found 441 distinct media-manifest titles in explic
 - `research/rag/infobox-claim.schema.json` — machine-readable claim record contract.
 - `research/rag/evaluate_infobox_claims.py` — conservative comparison of repeated values in the same page/infobox/field scope.
 - `research/rag/test_infobox_claims.py` — parser/comparison regression tests; execution remains pending.
+- `research/rag/infobox-claims-pass-001.md` — detailed method, development-probe coverage, unresolved repeated-parameter examples, and limitations.
 
 
 ### Core navigation and ledgers
