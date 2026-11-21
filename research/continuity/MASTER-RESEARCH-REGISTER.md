@@ -92,7 +92,7 @@ Independent raw-Wikitext scan found 441 distinct media-manifest titles in explic
 - `research/continuity/RESEARCH-ASSISTANT-PROTOCOL.md` — normative answer and evidence-handling contract.
 - `research/rag/README.md` — architecture and staged implementation plan.
 - `research/rag/evidence-packet.schema.json` — machine-readable evidence packet schema.
-- `research/rag/evaluation-set-001.md` — initial 20-question evaluation set; authoring template, not scored.
+- `research/rag/evaluation-set-001.md` — 20-question source-reviewed answer-key draft with page IDs, character locators, answer criteria, pitfalls, and abstention expectations; maintainer sign-off and scoring pending.
 - `research/rag/extract_infobox_claims.py` — read-only, provenance-preserving infobox parameter claim extractor.
 - `research/rag/infobox-claim.schema.json` — machine-readable claim record contract.
 - `research/rag/evaluate_infobox_claims.py` — comparison requiring same page subject, explicit reviewed `event_scope_id`, template family, and exact normalized parameter name; unscoped repeated parameters remain unresolved.
@@ -261,5 +261,5 @@ The append-only session log deliberately retains chronology. It should not be re
 - Added a JSON Schema contract and a separate comparison CLI. Candidate comparisons require the same captured page subject, an explicit reviewed `event_scope_id`, template family, and exact normalized parameter name. The extractor does not infer event scope. Repeated parameters without event-scope annotation are retained as unresolved comparison groups, not classified as conflicts. Different date-bearing fields (for example, an event `date` field versus a date string inside `combatant1`) are not compared.
 - Different page subjects are not compared absent an explicit entity-equivalence mapping. Different infobox invocations are not assumed to share event scope. Only manually reviewed scope annotations permit candidate comparison; no claim is adjudicated.
 - Parser design uses brace-stack-aware Wikitext template scanning to handle nested templates and triple-brace parameters. A local parser-equivalent probe against the pinned archive identified 143 infobox invocations and 4,381 parameter candidates across 507 main-namespace pages. This is not a committed-CLI execution or a formal test result.
-- Runtime verification of the committed extractor/evaluator/tests is pending. The two repeated-field candidate groups from the probe require inspection. The 20-question evaluation seed remains unkeyed/unscored.
+- Runtime verification of the committed extractor/evaluator/tests is pending. The two repeated-field candidate groups from the probe require inspection. The 20-question evaluation seed now has a source-reviewed answer-key draft with exact page IDs and character locators; maintainer sign-off and scoring remain pending.
 - No Bronze/Silver source data, manifests, canon pages, or generated binary index were changed.
