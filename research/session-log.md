@@ -666,3 +666,19 @@ Matched first 300 media records against extracted image references in all 3,579 
 - CSIS's May 2020 space-weapons report predates the claimed July 2020 test. The note now classifies the specific event as unsupported for lack of corroboration, not disproven by that earlier report.
 - No source data or canon changed; no tests or builds were run.
 
+
+
+## 2026-11-25 — Narrative audit validation tranche 002
+
+- Verified starting branch `experiment/corrected-realism` at HEAD `cbde12c17c507a74f3220858481a0930740e4f59`; read the current agent guide, documentation governance, master register, README, session log, swap, narrative-audit index, validation tranche 001, realism-first timeline, and dependency-discovery note before writing.
+- Reopened the uploaded `SR-Doc-Audit.zip`; recomputed archive SHA-256 as `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`.
+- Reproduced the full standalone-year claim-ledger gap using raw Bronze Wikitext and the exact token rule that excludes decade labels such as 2030s. Of 116 non-redirect Main pages with at least one standalone 2024–2040 year, 73 are represented in claim-ledger-001 and 43 are not: 17 with one mention, 12 with two, and 14 with three or more. The earlier 14-page count is a threshold subset, not the full gap.
+- Verified raw SHA-256 against the Bronze manifest for all 43 gap pages: 43/43 matched. Added `research/narrative-audit/claim-ledger-gap-002.csv` with page IDs, titles, revisions, hashes, raw paths, year counts, review status, and initial disposition.
+- Conducted targeted date-context review of all 29 additional gap pages. This is not a claim of 29 full semantic reads. Reopened nine priority pages for source context: 1366 Caribbean annexation, 318 Mars, 1431 Arya Kanzaki, 1436 Tactile-neural interface, 1998 Central Eurasian Union, 2136 Tanning the Donkey, 1715 Korea, 3484 New Korean Wave, and 2774 Project Rebirth.
+- Independently confirmed the NA-010 presidential chronology contradiction and expanded the conflict set to include page 1136's 2029/2052 Liberal Party founding conflict and page 1797's Garcia-incumbency assumption. Read page 1998 and found no direct Russian-dissolution dependency stated there.
+- Corrected the prior frog wording: ABC's 6 September 2025 report says Project Lazarus was put back on ice after repeated failures. The 2028 thylacine date remains an unsupported future forecast, not a disproven observed claim.
+- Updated the hypersonic evidence: the prior Navy CPS GAO citation is a program mismatch; GAO-26-108457 is the relevant HACM assessment. The Air Force confirmed the first HACM flight-test release on 6 October 2026; FY2027 fielding remains a high-risk program goal.
+- Verified 2025–2026 NATO context: NATO's official roster remains 32; the Iran conflict produced allied access/basing disagreements and a public US withdrawal threat; US rotational force posture was reduced; the Greenland dispute culminated in a November 2026 security agreement that preserves Danish sovereignty while expanding US military access. Public Guyana records reviewed support security cooperation but do not substantiate the fictional launch-complex/free-association mechanism.
+- Reassessed outer-planet missions, space elevators, BCI/haptics, Korean reunification, ISS orbital transfer, Serbia/Bosnia territorial change, and Hong Kong independence. Full findings and source URLs are in `research/narrative-audit/validation-tranche-002.md`.
+- Created `research/narrative-audit/validation-tranche-002.md` and `claim-ledger-gap-002.csv`; synchronized this register, README, and master narrative audit. The 262-page post-2041 universe remains a discovery set, with zero pages formally classified in the page-level survival map; no regions are complete.
+- No tests, builds, or RAG CLI commands were run. No canon, Bronze/Silver source bytes, manifests, or RAG implementation changed. No PR, merge, or branch promotion occurred.
