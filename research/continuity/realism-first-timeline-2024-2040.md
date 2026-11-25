@@ -3,7 +3,7 @@
 **Decision:** The maintainer selected a realism-first retcon on 2026-11-25 and explicitly directed that the setting must not depart from authentic realism before 2041.
 **Status:** Approved editorial direction; non-canon working proposal. This is not yet an authorized edit to accepted lore pages.
 **Branch:** `experiment/corrected-realism`
-**Source archive:** `SR-Doc-Audit.zip`, SHA-256 `d1af0775d69def6ef442b66393e3ad84db6cb6b9ecf9138170573fdfe0a02c8`.
+**Source archive:** `SR-Doc-Audit.zip`, SHA-256 `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`.
 **Related evidence:** [corrected-realism audit pass 001](corrected-realism-audit-001.md); [superseded 2024–2034 exploratory proposal](corrected-realism-proposal-001.md). **Geopolitical research integration:** [Geopolitical forecast research and multi-factor integration, 2024–2040](geopolitical-forecast-integration-001.md).
 
 ## 1. Binding editorial rule
