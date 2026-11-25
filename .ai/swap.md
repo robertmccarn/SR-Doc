@@ -1,9 +1,9 @@
 # SR-Doc — AI session swap memory
 
 > **Role:** Compact, repo-backed handoff snapshot for AI work. This file is mutable working memory, not canon, source evidence, or a chronological log.
-> **Last verified against GitHub:** 2026-11-25 (after realism-first retcon decision and timeline update)
+> **Last verified against GitHub:** 2026-11-25 (after Friedman / GPF / Stratfor-RANE research integration)
 > **Branch:** `experiment/corrected-realism`
-> **Branch HEAD before this swap refresh:** `9171b18e18332b00e011142542a7b216fb13468e`
+> **Branch HEAD before this swap refresh:** `d37e081fa61d7ff6f5d096628cd9b32e508c9119`
 > **Maintainer:** User-directed SR-Doc workflow; agents may update this file under `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
 
 ## 1. Mission and standing constraints
@@ -24,10 +24,10 @@ Continue the source-grounded SR-Doc corpus audit and research-assistant/RAG impl
 **Current branch: non-canon realism-first retcon through 2040.**
 - Binding decision (2026-11-25): no departure from authentic real-world scientific, technological, demographic, economic, institutional, military, or geopolitical plausibility before 2041.
 - Current editorial authority: `research/continuity/realism-first-timeline-2024-2040.md`.
-- Multi-factor research integration: `research/continuity/geopolitical-forecast-integration-001.md`. Climate is one driver among many; include political institutions, demographics, supply chains, AI/technology, energy/minerals, finance, military competition, trade, culture/information, public health, geography, and regional agency. Correctly distinguish Friedman personal work, GPF company/team forecasts, and Stratfor/RANE institutional forecasts. Forecasts are scenario inputs, not canon facts.
+- Multi-factor research integration: `research/continuity/geopolitical-forecast-integration-001.md`. Climate is one driver among many; include political institutions, demographics, supply chains, AI/technology, energy/minerals, finance, military competition, trade, culture/information, public health, geography, and regional agency. Correctly distinguish Friedman personal work, GPF company/team forecasts, and Stratfor/RANE institutional forecasts. Forecasts are scenario inputs, not canon facts. The note includes primary-source findings, regional implications, a forecast scorecard protocol, public/paywalled source access, RSS/API findings, and IEA critical-mineral context.
 - Source audit: `research/continuity/corrected-realism-audit-001.md` (13 relevant Bronze page hashes matched the pinned archive manifest).
 - Superseded historical draft: `research/continuity/corrected-realism-proposal-001.md`. Retain for source inventory/history only; do not implement its 2024–2034 chronology.
-- The replacement note distinguishes observed history through 2026-11-25 from conditional 2027–2040 scenarios, defines hard constraints, records the retcon matrix, and lists known dependent pages plus validation gates.
+- The replacement note distinguishes observed history through 2026-11-25 from conditional 2027–2040 scenarios, defines hard constraints, records the retcon matrix, and lists known dependent pages plus validation gates. Its section 3A now embeds the multi-factor geopolitical architecture and regional lenses.
 - Required retcons: remove the global Flood/near-30m sea-level curve and extreme death/displacement totals; remove the global Great Famine and extraordinary mortality; remove the 2027–2048 Second Chinese Civil War and Three Gorges Dam trigger; reduce White Tide to bounded domestic extremism at most; remove Russian dissolution/nuclear seizure and Turkish occupation/pipeline; remove the 2023/2026 crewed Mars program and 2029–2033 terraforming; remove unsupported U.S. 400m population, 90m displacement, and wholesale housing seizure.
 - No canon edits, Bronze/Silver modifications, manifest changes, RAG implementation changes, PR, merge, or branch promotion are authorized. A later canon-edit phase requires separate explicit approval.
 
