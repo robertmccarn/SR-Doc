@@ -1,7 +1,7 @@
 # SR-Doc research — master register and audit status
 
 **Last reconciled:** 2026-11-24  
-**Working branch:** `audit/continuity-research`  
+**Working branch:** `experiment/corrected-realism`  
 **Purpose:** Canonical navigation, status, definitions, findings, and handoff for the research notes. This register supersedes stale progress summaries in older append-only notes, but does not replace their detailed evidence.
 
 ## Non-canon editorial experiment — corrected realism
