@@ -234,7 +234,7 @@ The append-only session log deliberately retains chronology. It should not be re
 
 ## Safety rails
 
-- Branch: `audit/continuity-research`.
+- Current editorial working branch: `experiment/corrected-realism`; the base `audit/continuity-research` remains the read-only research baseline for this offshoot.
 - No merge, PR, branch promotion, or canon edits without explicit user approval.
 - Bronze source data is immutable.
 - Report only work actually performed and distinguish confirmed source facts from hypotheses.
