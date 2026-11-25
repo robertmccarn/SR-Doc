@@ -556,3 +556,10 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Checked external references and corrected source descriptions: IPCC AR6 sea-level and Greenland timescales; World Bank Groundswell's 216m modeled internal climate migration; GRFC 2025 / FAO drivers; NASA 2024 Mars architecture/EDL challenges; CBO's 357m 2035 Social Security area population measure; CSIS's 2025 U.S. civil-war assessment.
 - Created `research/continuity/corrected-realism-audit-001.md`; updated `research/continuity/corrected-realism-proposal-001.md`, `agents.md`, master register, README, and this session log. The proposal now labels major retcons and preserves unresolved source conflicts rather than presenting the revised chronology as source fact. `.ai/swap.md` is refreshed last.
 - No tests were run; this was a documentation/source-audit work unit. No Bronze/Silver source bytes, manifests, accepted canon pages, or RAG implementation files were changed. No merge, PR, or branch promotion was performed.
+
+
+## 2026-11-25 — Correction: final corrected-realism branch delta
+
+- The initial audit comparison correctly recorded five changed paths at the start of audit pass 001. The audit then added `research/continuity/corrected-realism-audit-001.md` and updated `agents.md`, bringing the final branch delta to seven changed paths relative to `audit/continuity-research` and 24 commits ahead, zero behind.
+- Updated the audit note, README, and master register to distinguish the initial five-file comparison from the final seven-file branch state. All seven final changed paths were reviewed or created and re-fetched for verification. Unchanged inherited files were not re-audited wholesale; their existing audit status remains that of the base branch.
+- No source data, canon, PR, merge, or branch promotion was changed or performed.
