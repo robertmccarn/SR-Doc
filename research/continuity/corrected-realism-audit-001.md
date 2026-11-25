@@ -55,11 +55,11 @@ Recomputed the supplied archive SHA-256 and read the source Wikitext bytes direc
 | 820 | Revolutions of 2027 | 10502 | `a0f42588a345ca8607dcb941bc1924253febb5a0b2d36c71a74a4a3ad5448410` |
 | 3593 | White Tide | 11507 | `fc966186af90ddc0e86b539b3c65072b205bd04595553bf828e8830e22eade7f` |
 | 3592 | Alexandria Ocasio-Cortez | 11998 | `363f335ca819bf3f41e12a31d493790aaf5bd92694cd5b4ac5867c7d13054d7d` |
-| 1670 | Great Reset | 11160 | `04c423f0e21ed9bd05ac831c52403f4849cd6f27` |
+| 1670 | Great Reset | 11160 | `cf2bf09dbc0caa1eb974f13e38b038ec8c0ac4d4bf7d32fdf6aca60be95c898d` |
 | 1139 | American colonization of Mars | 11951 | `588a048da99a89a22af6949a5a3dbdd5f9ecb0e3f526748b2ad2c2fb9483819b` |
 | 638 | Mars Corporation | 10394 | `b5899d99b1609e85e96913d30b69b1738c90d2a2ba322b7783016c30131e5b5e` |
 | 1423 | Turkey | 8788 | `ae73c53856985c1758ab78468045f2ab89805d4b4eb822793549d56d9cd4016a` |
-| 1683 | Russian Republic | 11554 | `01a3961fbea71014689b902cf4273298a0f0a009` |
+| 1683 | Russian Republic | 11554 | `4dfb15a09e9a11748212de2dc248da6e9a3a2607c8c0c3bfeb3e29019425ed20` |
 | 1413 | Second Chinese Civil War | 11017 | `37ddc7dee36ca51457de1bbb691728c306cd3fc0152adc47f9077d37e6f8a0ed` |
 
 The table lists source hashes as stored in the supplied archive manifest; direct SHA-256 recomputation matched each value.
