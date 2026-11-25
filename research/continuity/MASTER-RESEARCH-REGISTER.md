@@ -1,13 +1,14 @@
 # SR-Doc research — master register and audit status
 
-**Last reconciled:** 2026-11-24  
+**Last reconciled:** 2026-11-25  
 **Working branch:** `experiment/corrected-realism`  
 **Purpose:** Canonical navigation, status, definitions, findings, and handoff for the research notes. This register supersedes stale progress summaries in older append-only notes, but does not replace their detailed evidence.
 
 ## Non-canon editorial experiment — corrected realism
+- **Branch audit:** `research/continuity/corrected-realism-audit-001.md` — audited all five paths changed against the audit base, reviewed `agents.md` and governance, verified 13 cited Bronze source records against the pinned archive manifest, and checked external calibration references. The audit corrected source/date/scale claims and records unresolved editorial choices. No canon/source data changed.
 
 - **Proposal:** `research/continuity/corrected-realism-proposal-001.md` — proposed realism-oriented alternate-history treatment of the 2024–2034 timeline, grounded in selected captured main-namespace pages and external climate, migration, food-security, demographic, spaceflight, and political-violence references.
-- **Status:** Editorial proposal only. It does not alter accepted canon, Bronze/Silver source data, manifests, or the audit branch. It recommends revised causal mechanisms and pacing for the Flood, Great Famine, Market Crash, White Tide, China/Russia instability, Turkey's regional influence, American Renewal, immigration, and Mars/outer-planet development.
+- **Status:** Editorial proposal only. It does not alter accepted canon, Bronze/Silver source data, manifests, or the audit branch. It recommends revised causal mechanisms and pacing for the Flood, Great Famine, Market Crash, White Tide, China/Russia instability, Turkey's regional influence, American Renewal, immigration, and Mars/outer-planet development. The audit pass identifies major retcon choices around the 2027–2048 Second Chinese Civil War, White Tide scale, Flood mortality/displacement, and the 2023–2033 Mars program; see the audit note.
 - **Important source conflict identified:** Timeline page 88 (revision 11722) calls 2026 the first crewed Mars mission, while Mars Corporation page 638 (revision 10394) and American colonization of Mars page 1139 (revision 11951) describe a crewed Meridian Base landing in 2023. The proposal flags this for an explicit editorial decision.
 - **Working branch:** `experiment/corrected-realism`, created from `audit/continuity-research` HEAD `d93184ad0f78af7b96d264e2bd00d95a8bd61736`. No canon edit or branch promotion was performed.
 
