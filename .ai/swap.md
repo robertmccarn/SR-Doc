@@ -2,7 +2,7 @@
 
 **Repository:** robertmccarn/SR-Doc  
 **Working branch:** experiment/corrected-realism  
-**Branch HEAD before this swap refresh:** 829823096e824b8c8dfe10a9268e265ea1a9175c  
+**Branch HEAD before this swap refresh:** 8d51150a995e557bc509fc1d3376ff5cf32793f8  
 **Last verified:** 2026-11-25  
 **Current workstream:** Independent narrative audit, validation tranche 001 complete; post-2041 survival map in progress.
 
