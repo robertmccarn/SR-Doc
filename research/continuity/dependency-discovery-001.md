@@ -13,7 +13,7 @@ The scan covered the pinned Bronze Wikitext and Silver metadata in `SR-Doc-Audit
 - **Silver metadata:** 3,579 page rows, 11,462 parsed `wiki_link` relation records, and 4,447 year-mention records.
 - **Exact-phrase corpus scan:** 107 unique Main-namespace pages contain at least one scoped event/entity phrase. The group counts overlap; they must not be summed.
 - **Direct relationship graph:** 148 Silver `wiki_link` edges point to the scoped canonical target titles, originating from 73 unique source pages: 145 edges from Main pages, two from User pages, and one from a Template page.
-- **Claim ledger:** `claim-ledger-001.csv` contains 245 grouped source observations with page/revision/hash, location, old value/evidence, proposed disposition, confidence, and dependent-page list. Row counts are grouped observations, not unique pages or graph edges.
+- **Claim ledger:** `claim-ledger-001.csv` contains 242 grouped source observations with page/revision/hash, location, old value/evidence, proposed disposition, confidence, and dependent-page list. Row counts are grouped observations, not unique pages or graph edges.
 
 No accepted canon, Bronze/Silver source data, manifests, or RAG implementation files were changed.
 
@@ -98,12 +98,12 @@ The 245 ledger rows are grouped source observations:
 |---|---:|
 | Direct wikilink observation | 127 |
 | Text-only mention | 65 |
-| Numeric claim / value | 35 |
-| Timeline field | 3 |
+| Numeric claim / value | 31 |
+| Timeline field | 4 |
 | Redirect | 3 |
 | Template / infobox use | 6 |
 | Category membership | 6 |
-| **Total** | **245** |
+| **Total** | **242** |
 
 The 127 direct-link rows group page/claim observations; the authoritative graph-edge count is the separate 148 figure above. Do not equate rows, edges, and unique pages.
 
