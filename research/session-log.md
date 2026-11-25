@@ -534,3 +534,14 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Important limitation: answers were composed from the retrieval benchmark's recorded page IDs plus full-page expansion and direct Bronze review. The committed search CLI did not generate the evidence packets or answers in this pass. The retrieval benchmark remains an exploratory source-equivalent reconstruction; automated citation precision and independent claim-support scoring remain unmeasured. The 20/20 result is not a production reliability estimate.
 - Updated the master register, RAG README, research README, and agent handoff. No source archive, Bronze/Silver bytes, manifests, canon, retrieval code, or approved evaluation questions were changed.
 - No merge, pull request, or branch promotion was performed.
+
+
+## 2026-11-25 — Non-canon corrected-realism proposal, 2024–2034
+
+- Created the offshoot branch `experiment/corrected-realism` from `audit/continuity-research` at `d93184ad0f78af7b96d264e2bd00d95a8bd61736`; no changes were made to the audit branch.
+- Added `research/continuity/corrected-realism-proposal-001.md`, a non-canon editorial proposal for revising the 2024–2034 timeline. It retains the setting's climate, food, economic, political, geopolitical, and space-development themes while recommending slower physical timescales, compound causes, regional variation, and more credible institutional/logistical transitions.
+- Reviewed captured main-namespace source records for the timeline (page 88/rev 11722), Flood (637/11837), Great Famine (2027/11558), Market Crash (642/11984), Revolutions of 2027 (820/10502), White Tide (3593/11507), Alexandria Ocasio-Cortez (3592/11998), Great Reset (1670/11160), Mars Corporation (638/10394), American colonization of Mars (1139/11951), Turkey (1423/8788), and Russia (1683/11554). The proposal preserves source identity and does not modify these records.
+- Identified a source-internal Mars chronology conflict: Mars Corporation page 638 and American colonization of Mars page 1139 describe a crewed Meridian Base landing in 2023, while timeline page 88 calls 2026 the first crewed Mars mission. The proposal presents a realism-first retcon and a lore-preserving exception as separate choices.
+- Calibrated recommendations against IPCC AR6 sea-level assessments, World Bank Groundswell climate-migration scenarios, FAO food-crisis analysis, NASA Moon-to-Mars planning, CBO January 2026 demographic projections, and a CSIS 2025 assessment of U.S. civil-war risk. Links and scope limitations are recorded in the proposal.
+- Updated the master register and research README with navigation/status pointers. No tests were run; this is a research/editorial document change, not a code change.
+- No Bronze/Silver source bytes, manifests, accepted canon pages, or RAG implementation files were changed. No merge, pull request, or branch promotion was performed.
