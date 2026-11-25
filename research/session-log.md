@@ -563,3 +563,9 @@ Matched first 300 media records against extracted image references in all 3,579 
 - The initial audit comparison correctly recorded five changed paths at the start of audit pass 001. The audit then added `research/continuity/corrected-realism-audit-001.md` and updated `agents.md`, bringing the final branch delta to seven changed paths relative to `audit/continuity-research` and 24 commits ahead, zero behind.
 - Updated the audit note, README, and master register to distinguish the initial five-file comparison from the final seven-file branch state. All seven final changed paths were reviewed or created and re-fetched for verification. Unchanged inherited files were not re-audited wholesale; their existing audit status remains that of the base branch.
 - No source data, canon, PR, merge, or branch promotion was changed or performed.
+
+
+## 2026-11-25 — Final closeout count correction
+
+- Final GitHub comparison at closeout confirms `experiment/corrected-realism` is 29 commits ahead of `audit/continuity-research`, zero behind, with seven changed paths. The prior 24-commit figure in the preceding correction was an intermediate snapshot before the remaining documentation synchronization commits; the seven-path file set is unchanged.
+- Updated the audit note and swap memory to use the final closeout count. No source data, canon, PR, merge, or branch promotion was changed or performed.
