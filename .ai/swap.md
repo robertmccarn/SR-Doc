@@ -1,16 +1,16 @@
 # SR-Doc — AI session swap memory
 
 > **Role:** Compact, repo-backed handoff snapshot for AI work. This file is mutable working memory, not canon, source evidence, or a chronological log.
-> **Last verified against GitHub:** 2026-11-25 (after corrected-realism editorial proposal)
+> **Last verified against GitHub:** 2026-11-25 (after corrected-realism branch audit pass 001)
 > **Branch:** `experiment/corrected-realism`
-> **Branch HEAD before this swap refresh:** `983e7b36484e4cef652911a69fb43ea9718c35eb`
+> **Branch HEAD before this swap refresh:** `4a912546566fdbd48972f6ae86be2f68f862b05d`
 > **Maintainer:** User-directed SR-Doc workflow; agents may update this file under `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
 
 ## 1. Mission and standing constraints
 
 Continue the source-grounded SR-Doc corpus audit and research-assistant/RAG implementation. The `experiment/corrected-realism` branch is a user-authorized, non-canon editorial offshoot; its proposal must not be mistaken for accepted lore. The repository and captured source data—not chat history, model memory, or this swap file—are authoritative.
 
-- Work on `audit/continuity-research` unless explicitly directed otherwise.
+- Current user-designated working branch is `experiment/corrected-realism`; work here unless explicitly directed otherwise. Treat `audit/continuity-research` at `d93184ad0f78af7b96d264e2bd00d95a8bd61736` as the read-only base for this offshoot.
 - No merge, PR, branch promotion, canon edit, or Bronze/Silver source modification without explicit user approval.
 - Bronze captures/manifests are immutable evidence.
 - Preserve contradictions; never silently adjudicate or normalize claims.
@@ -21,7 +21,14 @@ Continue the source-grounded SR-Doc corpus audit and research-assistant/RAG impl
 
 ## 2. Active workstream
 
-**RAG: source-aware claim extraction and contradiction evaluation.**
+**Current branch: non-canon corrected-realism editorial audit.**
+- Proposal: `research/continuity/corrected-realism-proposal-001.md`.
+- Audit report: `research/continuity/corrected-realism-audit-001.md`.
+- Audit pass 001 verified 13 relevant Bronze page hashes against the pinned archive manifest and reviewed all five paths changed relative to the audit base, plus `agents.md` and governance. No canon/source-data edits were made.
+- Material decisions remain open: Flood mortality/displacement and sea-level curve; Great Famine 2032/2033 endpoint and three episodes; Second Chinese Civil War 2027–2048; White Tide's WIP scale and 2033/2035 endpoints; 2023 Mars landing and 2029–2033 terraforming; Turkey/Russia timeline-only geopolitical claims.
+- Do not edit canon or source pages as part of this editorial branch without a separate explicit authorization.
+
+**Inherited baseline: RAG source-aware claim extraction and contradiction evaluation.**
 
 Implemented baseline:
 - Read-only archive validator; pinned archive SHA-256: `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`.
@@ -58,11 +65,14 @@ Generated local index ZIP is `SR-Doc-RAG-Index-002.zip`; it is a build artifact,
 
 ## 4. Immediate next steps
 
-1. Inspect the current branch and read this swap plus `agents.md`, `DOCUMENTATION-GOVERNANCE.md`, master register, RAG README, and recent session log.
-2. Close the retrieval reproducibility gap: verify and execute the exact committed `build_index.py`, `build_alias_index.py`, and `search.py` Git blobs against the pinned archive, then regenerate the 20 evidence packets. The answer-generation pass 001 note contains manual source-grounded answers from the benchmark's retrieved page IDs plus full-page expansion; it is not a CLI-generated answer test or independent score. The retrieval benchmark remains exploratory because its local scripts were source-equivalent reconstructions, not byte-identical Git blobs.
-3. Improve first-stage passage selection: Q09/Q10/Q15 missed page-1408 infobox/phase locators, and Q16 missed the FRoC history stub and Association establishment field until full-page expansion. Q09's page-1413 date-value locator was normalized to chars 114–125 in the evaluation set; see correction 003.
-4. Keep the two reviewed repeated-parameter groups (page 636 `office`; page 1343 `order`) unresolved. No event-scope annotation is supported by the captured Wikitext.
-5. Continue the broader parser-coverage review and preserve the Chinese political-history Talk/Thread context and succession claim matrix.
+1. Continue from `research/continuity/corrected-realism-audit-001.md` and `research/continuity/corrected-realism-proposal-001.md`; keep this branch non-canon.
+2. Resolve the editorial mode: realism-first retcon versus lore-preserving technology divergence.
+3. Reconcile the Second Chinese Civil War's 2027–2048 source date with the revised 2024–2034 chronology.
+4. Choose the intended White Tide scale and reconcile the WIP article's multi-million force/casualty claims, 2028–2035 infobox, 2033 Battle of Salmon endpoint, and the timeline's 2028–2031 range.
+5. Define the Flood's sea-level curve, 300m death estimate, and 2.4bn displacement categories; reconcile Great Famine's 2032/2033 end date and mortality accounting.
+6. Decide whether the 2023 Mars expedition remains canon; if retconned, revise the full 2025–2033 colony/terraforming sequence, not only the first landing date.
+7. Only after these decisions, produce a full replacement timeline and dependency checklist. Do not edit Bronze/canon pages without separate explicit authorization.
+8. Deferred RAG task on the audit baseline: execute exact committed index/search Git blobs against the pinned archive and regenerate evidence packets; preserve the benchmark pass-001 reconstruction caveat until then.
 
 ## 5. Open questions / blockers
 
@@ -87,13 +97,14 @@ Generated local index ZIP is `SR-Doc-RAG-Index-002.zip`; it is a build artifact,
 ## 7. Recent repository state
 
 - Repository: `robertmccarn/SR-Doc`
-- Branch: `audit/continuity-research`
+- Branch: `experiment/corrected-realism`
+- Base: `audit/continuity-research` at `d93184ad0f78af7b96d264e2bd00d95a8bd61736` (read-only reference)
 - Last verified HEAD before this swap refresh is recorded at the top of this file.
 - Latest milestone: five committed parser/comparison regression tests passed in GitHub Actions; continuity validation, compileall, and existing pytest suite also passed. The committed extractor/evaluator ran against the pinned archive; all 4,381 claims passed schema/offset/provenance validation, with deterministic repeat output. See `research/rag/infobox-claim-validation-001.json`.
 - New files: `research/rag/extract_infobox_claims.py`, `research/rag/evaluate_infobox_claims.py`, `research/rag/infobox-claim.schema.json`, `research/rag/test_infobox_claims.py`, `research/rag/infobox-claim-validation-001.json`.
 - Updated permanent docs: RAG README, infobox pass-001 note, evaluation set and locator report, master register, research README, session log, and `agents.md`.
 - No PR, merge, branch promotion, or canon/source-data edit was performed for that milestone.
-- Current offshoot: `experiment/corrected-realism`, branched from audit HEAD `d93184ad0f78af7b96d264e2bd00d95a8bd61736`. Proposal: `research/continuity/corrected-realism-proposal-001.md`. This is non-canon editorial analysis only; no Bronze/Silver or canon page was changed. It proposes a more gradual, compound 2024–2034 crisis sequence and flags the 2023-vs-2026 crewed Mars source conflict. External calibration sources (IPCC, World Bank, FAO, NASA, CBO, CSIS) are linked in the proposal. Master register, research README, and session log have navigation/chronology updates.
+- Current branch: `experiment/corrected-realism`, branched from audit HEAD `d93184ad0f78af7b96d264e2bd00d95a8bd61736`. Proposal and audit: `research/continuity/corrected-realism-proposal-001.md` and `research/continuity/corrected-realism-audit-001.md`. Audited all five changed paths against base, plus agent/governance instructions; verified 13 Bronze source hashes and external calibration references. Key unresolved decisions include Chinese Civil War 2027–2048, White Tide scale, Flood mortality/displacement, Great Famine dates, and Mars 2023–2033 technology. Master register, README, agent guide, session log, and swap are synchronized. No tests, canon edits, PR, merge, or branch promotion.
 
 ## 8. Memory system established
 
