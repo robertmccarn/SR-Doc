@@ -149,3 +149,13 @@ The local SQLite FTS5 prototype now supports exact page IDs, lexical main-namesp
 ### RAG retrieval update — contrast pass 001
 
 The search CLI now accepts `--contrast` to diversify lexical matches across pages and surface passages containing multiple year ranges for manual comparison. Four regression checks pass locally, including the Second Chinese Civil War 2027–2048 / 2105–2111 conflict on page 1413. This feature produces review candidates, not adjudicated contradictions. See [RAG implementation details](rag/README.md) and [test_search.py](rag/test_search.py).
+
+
+### Narrative audit update — validation tranche 002
+
+The original 14-page exact-year gap was a three-mention threshold subset. A repeatable standalone-year scan now identifies **43 non-redirect Main pages** missing from claim-ledger-001: 17 with one mention, 12 with two, and 14 with three or more. All 43 raw hashes match the Bronze manifest; the 29 additional pages received targeted date-context review, not full semantic review.
+
+- [Validation tranche 002](narrative-audit/validation-tranche-002.md) — independent review of Claude's follow-up report, 2025–2026 observed-baseline additions, and new cross-page findings.
+- [Claim-ledger gap 002](narrative-audit/claim-ledger-gap-002.csv) — all 43 missing pages with IDs, revisions, raw hashes, exact-year counts, source paths, and initial dispositions.
+
+Key corrections: the US presidential chronology is a direct contradiction; page 1998 does not establish a direct Russian-dissolution dependency; the gastric-brooding frog project was put back on ice after unsuccessful embryo work; and the 2026 HACM test status updates the hypersonic review. The post-2041 page-level survival map and all 11 regional audits remain incomplete.
