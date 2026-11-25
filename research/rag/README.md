@@ -206,7 +206,7 @@ Do not report a reliability percentage until the test set is fixed and answers a
 - [x] Draft source-reviewed expected evidence page IDs, locators, answer elements, pitfalls, and abstention expectations for all 20 cases; maintainer approved this baseline on 2026-11-21.
 - [x] Independently verify all ten source-page identities, 51 cited locator/content ranges, and seven exact-title/map-boundary checks against the pinned archive; correct Q16/Q17 locators. Maintainer approval received.
 - [x] Score initial retrieval page recall, passage-locator coverage, exact-title/redirect resolution, and exact-title abstention; results and limitations are recorded in `retrieval-benchmark-pass-001.json`.
-- [ ] Generate and score answer outputs for answer-element coverage, citation precision, claim support, contradiction disclosure, and abstention quality.
+- [x] Draft and manually score 20 source-grounded answer outputs for answer-key coverage, citation/provenance, contradiction disclosure, and abstention; 20/20 met the approved answer criteria. This was manual source review, not CLI-generated answer evaluation or independent scoring. See `answer-generation-pass-001.md`.
 - [ ] Fix corpus/chunk/retrieval failures before tuning prompts.
 - [ ] Record failure examples and regression tests.
 - [ ] Expand only after the initial acceptance target is met.
@@ -258,6 +258,14 @@ The builder rejects a different archive hash by default. Use `--allow-unpinned-a
 - Default lexical search is restricted to namespace 0. `--include-context` is required to search all namespaces; explicit page-ID retrieval can retrieve any namespace. This prevents Talk/Thread/User material from silently entering ordinary lore answers.
 - Test query `Third Chinese Civil War 2105` returned the source page and section passages, including `First period of war (2105-2111)`; page-ID lookup for 1408 returned its ordered passages. This is a smoke test, not a benchmark score.
 - Build output is packaged as `SR-Doc-RAG-Index-001.zip`; detailed counts are in `chunk-build-report-001.json`.
+
+## 13. Answer-generation and citation evaluation — pass 001
+
+- Added `answer-generation-pass-001.md` with source-grounded outputs for all 20 maintainer-approved questions.
+- Manual scoring: 20/20 answer-key criteria met; 20/20 cases include source/evidence citations; 4/4 contradiction-disclosure cases handled; 3/3 required abstention/qualified-absence cases handled; no unsupported factual claims were identified in the same-pass review.
+- These are manual answer-key compliance results, not a runtime test of model generation from CLI evidence packets. The answers were composed from the benchmark's retrieved page IDs plus full-page expansion and direct Bronze source review. Automated citation precision and independent claim-support scores remain unmeasured.
+- The retrieval benchmark's source-equivalent reconstruction caveat remains open. Next: run exact committed index/search Git blobs against the pinned archive, regenerate evidence packets, then add a separate answer-generation runtime and independent/blind scoring pass.
+- Do not change the approved 20-case baseline based on this pass.
 
 ## 12. Definition of done for the initial prototype
 
