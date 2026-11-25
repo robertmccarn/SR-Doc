@@ -4,6 +4,13 @@
 **Working branch:** `audit/continuity-research`  
 **Purpose:** Canonical navigation, status, definitions, findings, and handoff for the research notes. This register supersedes stale progress summaries in older append-only notes, but does not replace their detailed evidence.
 
+## Non-canon editorial experiment — corrected realism
+
+- **Proposal:** `research/continuity/corrected-realism-proposal-001.md` — proposed realism-oriented alternate-history treatment of the 2024–2034 timeline, grounded in selected captured main-namespace pages and external climate, migration, food-security, demographic, spaceflight, and political-violence references.
+- **Status:** Editorial proposal only. It does not alter accepted canon, Bronze/Silver source data, manifests, or the audit branch. It recommends revised causal mechanisms and pacing for the Flood, Great Famine, Market Crash, White Tide, China/Russia instability, Turkey's regional influence, American Renewal, immigration, and Mars/outer-planet development.
+- **Important source conflict identified:** Timeline page 88 (revision 11722) calls 2026 the first crewed Mars mission, while Mars Corporation page 638 (revision 10394) and American colonization of Mars page 1139 (revision 11951) describe a crewed Meridian Base landing in 2023. The proposal flags this for an explicit editorial decision.
+- **Working branch:** `experiment/corrected-realism`, created from `audit/continuity-research` HEAD `d93184ad0f78af7b96d264e2bd00d95a8bd61736`. No canon edit or branch promotion was performed.
+
 ## Research assistant / RAG workstream
 
 - Answer contract: `research/continuity/RESEARCH-ASSISTANT-PROTOCOL.md` — normative retrieval, evidence, citation, contradiction, and abstention rules for lore answers.
