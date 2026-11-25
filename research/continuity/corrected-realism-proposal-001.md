@@ -1,14 +1,15 @@
-# Corrected-realism editorial proposal — 2024–2034
+# Superseded exploratory proposal — corrected realism, 2024–2034
 
-**Status:** Non-canon editorial experiment / proposed alternate-history revision.  
+**Status:** Superseded exploratory draft. Retained for its source inventory and historical reasoning; its proposed chronology is no longer the working recommendation.  
 **Branch:** `experiment/corrected-realism`  
 **Base:** `audit/continuity-research` at `d93184ad0f78af7b96d264e2bd00d95a8bd61736`  
 **Scope:** Major-events timeline, 2024–2034, with implications for linked climate, famine, political, economic, geopolitical, and space-exploration pages.  
 **Source archive:** `SR-Doc-Audit.zip`, SHA-256 `d1af0775d69def6ef442b66393e3ad84db6cb6b9ecf9138170573fdfe0a02c8`.  
 **Canon status:** Nothing in this proposal changes captured Bronze/Silver data or accepted lore. It is an editorial proposal only.
-**Audit:** See [corrected-realism branch audit pass 001](corrected-realism-audit-001.md) for source-hash verification, branch-file review, corrected chronology, and unresolved retcon decisions.
+**Decision (2026-11-25):** The maintainer selected a realism-first retcon and directed that the setting must not depart from authentic realism before 2041. This document's proposed 2024–2034 chronology is superseded in full. Use [Realism-first continuity baseline and replacement timeline, 2024–2040](realism-first-timeline-2024-2040.md) as the current editorial authority. **Do not implement this older chronology or treat its open decisions as current.**
+**Audit:** See [corrected-realism branch audit pass 001](corrected-realism-audit-001.md) for the original source-hash verification and branch-file review.
 
-## 1. Executive recommendation
+## 1. Historical draft recommendation (superseded on 2026-11-25)
 
 Retain the setting's central historical direction: climate stress and ecological disruption, food insecurity, migration, economic instability, political polarization, a changing balance of power, and the beginning of a larger space economy. Revise the *mechanisms, scale, and timing* so that the developments emerge through compounding shocks and institutional responses rather than a chain of near-instant global catastrophes.
 

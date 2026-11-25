@@ -208,3 +208,21 @@ The linked external sources were checked against current accessible publication 
 The original proposal's central realism thesis remains sound: preserve the setting's systemic upheaval but make causal mechanisms, scale, geography, logistics, and timescales explicit. However, several recommended changes would materially alter existing canon rather than merely clarify it. The proposal now labels those choices as retcons and records the source claims that must be reconciled.
 
 **Verification:** archive SHA-256 recomputed; 13 source page hashes matched their manifest values; all five branch-changed files reviewed; `agents.md` and governance reviewed; external reference pages checked. No automated tests were run. No Bronze/Silver source, manifest, accepted canon page, or RAG implementation file was changed. No PR, merge, or branch promotion was performed.
+
+
+## 7. Maintainer decision and superseding realism baseline — 2026-11-25
+
+The maintainer selected **realism-first retcon** and added the binding constraint: **do not diverge from authentic realism until after 2040**.
+
+This resolves the editorial-mode question in section 5. It also resolves the direction of the previously open retcon questions:
+- The 2026 seven-metre/2041 near-30-metre Flood curve, 300m mortality, and 2.4bn displacement claims are removed from the realism-first chronology.
+- The 2024–2033 global Great Famine and its 40m / 100m–500m mortality claims are removed; regional acute food crises remain plausible and must be independently grounded.
+- The 2027–2048 Second Chinese Civil War, Three Gorges Dam failure trigger, and 100m displacement claim are removed from the pre-2041 timeline.
+- White Tide is reduced from a multi-state civil war to, at most, bounded domestic extremism and political violence. State secession, mass mobilization, multi-million casualties, and the Battle of Salmon civil-war endpoint are removed.
+- The 2023/2026 crewed Mars claims and the 2029–2033 magnetosphere/asteroid/terraforming sequence are removed. No crewed Mars landing or permanent Mars settlement is assumed through 2040.
+- Russian dissolution/NATO-UN nuclear-stockpile seizure and Turkish Arabia occupation/Arctic–Bosporus pipeline are removed from the pre-2041 chronology.
+- The 400m U.S. population target, 90m displacement claim, wholesale housing seizure, and instantaneous national retirement-system replacement are removed.
+
+The new authoritative editorial framework is [realism-first-timeline-2024-2040.md](realism-first-timeline-2024-2040.md). It contains the replacement chronology, hard constraints, source calibration, retcon matrix, dependency checklist, and validation gates. The earlier [corrected-realism-proposal-001.md](corrected-realism-proposal-001.md) is retained as a superseded draft; its detailed source inventory remains useful, but its chronology must not be implemented.
+
+**Scope/authority:** this decision authorizes editorial planning and documentation updates on `experiment/corrected-realism`. It does not authorize edits to accepted canon pages, Bronze/Silver data, manifests, or RAG implementation; nor does it authorize merge, PR, or branch promotion. A later canon-edit phase requires separate explicit approval.

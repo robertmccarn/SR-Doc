@@ -97,10 +97,13 @@ The RAG workstream now includes a source-grounded answer protocol, evidence pack
 - `continuity/MASTER-RESEARCH-REGISTER.md` — canonical synthesis and complete note inventory.
 - `continuity/agents-md-history-2026-11-20.md` — verbatim preservation of the former long `agents.md`; archival only, not current guidance.
 
-## Non-canon editorial experiment
-- **[Corrected-realism branch audit pass 001](continuity/corrected-realism-audit-001.md)** — reviewed all seven final paths changed relative to the audit base, the operating guide, 13 source records with manifest hash checks, and external realism references. Records source conflicts and corrections; no canon changes.
+## Non-canon editorial experiment — realism-first retcon
 
-- **[Corrected-realism proposal, 2024–2034](continuity/corrected-realism-proposal-001.md)** — alternate-history editorial proposal to make the Flood, Great Famine, Market Crash, White Tide, geopolitical fragmentation, American Renewal, and space-exploration chronology more consistent with external scientific and institutional context. Proposal only; no canon or Bronze/Silver source data changed.
+- **[Realism-first continuity baseline and replacement timeline, 2024–2040](continuity/realism-first-timeline-2024-2040.md)** — current editorial authority following the maintainer's 2026-11-25 decision. No departure from authentic realism through 2040; the first deliberate divergence may begin in 2041. Includes chronology, retcon matrix, page dependency checklist, and pre-canon validation gates.
+- **[Corrected-realism branch audit pass 001](continuity/corrected-realism-audit-001.md)** — original source-hash audit: 13 relevant Bronze records matched the pinned archive manifest; documents the source conflicts and evidence.
+- **[Superseded exploratory proposal, 2024–2034](continuity/corrected-realism-proposal-001.md)** — retained for source inventory and historical reasoning only. Its proposed chronology is superseded and must not be implemented.
+
+The realism-first direction authorizes documentation and editorial planning on this branch only. It does not authorize edits to accepted canon, Bronze/Silver source data, manifests, merges, pull requests, or branch promotion.
 
 ## Method and status definitions
 

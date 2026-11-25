@@ -1,14 +1,14 @@
 # SR-Doc — AI session swap memory
 
 > **Role:** Compact, repo-backed handoff snapshot for AI work. This file is mutable working memory, not canon, source evidence, or a chronological log.
-> **Last verified against GitHub:** 2026-11-25 (after corrected-realism branch audit pass 001)
+> **Last verified against GitHub:** 2026-11-25 (after realism-first retcon decision and timeline update)
 > **Branch:** `experiment/corrected-realism`
-> **Branch HEAD before this swap refresh:** `afa28cc7ddd0d52790f8c6e60675c98f77db5df7`
+> **Branch HEAD before this swap refresh:** `9171b18e18332b00e011142542a7b216fb13468e`
 > **Maintainer:** User-directed SR-Doc workflow; agents may update this file under `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
 
 ## 1. Mission and standing constraints
 
-Continue the source-grounded SR-Doc corpus audit and research-assistant/RAG implementation. The `experiment/corrected-realism` branch is a user-authorized, non-canon editorial offshoot; its proposal must not be mistaken for accepted lore. The repository and captured source data—not chat history, model memory, or this swap file—are authoritative.
+Continue the source-grounded SR-Doc corpus audit and research-assistant/RAG implementation. The `experiment/corrected-realism` branch is a user-authorized, non-canon editorial offshoot. The maintainer has selected a realism-first retcon: no departure from authentic realism before 2041. The current editorial authority is `research/continuity/realism-first-timeline-2024-2040.md`. The repository and captured source data—not chat history, model memory, or this swap file—are authoritative.
 
 - Current user-designated working branch is `experiment/corrected-realism`; work here unless explicitly directed otherwise. Treat `audit/continuity-research` at `d93184ad0f78af7b96d264e2bd00d95a8bd61736` as the read-only base for this offshoot.
 - No merge, PR, branch promotion, canon edit, or Bronze/Silver source modification without explicit user approval.
@@ -21,39 +21,16 @@ Continue the source-grounded SR-Doc corpus audit and research-assistant/RAG impl
 
 ## 2. Active workstream
 
-**Current branch: non-canon corrected-realism editorial audit.**
-- Proposal: `research/continuity/corrected-realism-proposal-001.md`.
-- Audit report: `research/continuity/corrected-realism-audit-001.md`.
-- Audit pass 001 verified 13 relevant Bronze page hashes against the pinned archive manifest and reviewed all five paths changed relative to the audit base, plus `agents.md` and governance. No canon/source-data edits were made.
-- Material decisions remain open: Flood mortality/displacement and sea-level curve; Great Famine 2032/2033 endpoint and three episodes; Second Chinese Civil War 2027–2048; White Tide's WIP scale and 2033/2035 endpoints; 2023 Mars landing and 2029–2033 terraforming; Turkey/Russia timeline-only geopolitical claims.
-- Do not edit canon or source pages as part of this editorial branch without a separate explicit authorization.
+**Current branch: non-canon realism-first retcon through 2040.**
+- Binding decision (2026-11-25): no departure from authentic real-world scientific, technological, demographic, economic, institutional, military, or geopolitical plausibility before 2041.
+- Current editorial authority: `research/continuity/realism-first-timeline-2024-2040.md`.
+- Source audit: `research/continuity/corrected-realism-audit-001.md` (13 relevant Bronze page hashes matched the pinned archive manifest).
+- Superseded historical draft: `research/continuity/corrected-realism-proposal-001.md`. Retain for source inventory/history only; do not implement its 2024–2034 chronology.
+- The replacement note distinguishes observed history through 2026-11-25 from conditional 2027–2040 scenarios, defines hard constraints, records the retcon matrix, and lists known dependent pages plus validation gates.
+- Required retcons: remove the global Flood/near-30m sea-level curve and extreme death/displacement totals; remove the global Great Famine and extraordinary mortality; remove the 2027–2048 Second Chinese Civil War and Three Gorges Dam trigger; reduce White Tide to bounded domestic extremism at most; remove Russian dissolution/nuclear seizure and Turkish occupation/pipeline; remove the 2023/2026 crewed Mars program and 2029–2033 terraforming; remove unsupported U.S. 400m population, 90m displacement, and wholesale housing seizure.
+- No canon edits, Bronze/Silver modifications, manifest changes, RAG implementation changes, PR, merge, or branch promotion are authorized. A later canon-edit phase requires separate explicit approval.
 
 **Inherited baseline: RAG source-aware claim extraction and contradiction evaluation.**
-
-Implemented baseline:
-- Read-only archive validator; pinned archive SHA-256: `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`.
-- Section-aware chunk builder: 3,579 page metadata rows; 7,598 chunks; 3,092 pages with text; 487 records without non-whitespace chunks.
-- SQLite FTS5 lexical retrieval; default namespace 0; explicit `--include-context`.
-- Exact page-ID lookup and exact title/direct redirect lookup via `--title`; aliases retain redirect provenance and do not merge identities.
-- Date-bearing contrast mode via `--contrast`; returns diversified lexical candidates and heuristic `date_signals`, flags multiple date ranges for human review.
-- Four contrast regression checks were recorded as passing against the uploaded version-002 SQLite index; see `research/rag/contrast-smoke-tests-001.json`. This is a smoke/regression check, not a benchmark.
-- Source-aware infobox extraction is now implemented in `research/rag/extract_infobox_claims.py`, with schema `research/rag/infobox-claim.schema.json` and conservative event-scoped comparison in `research/rag/evaluate_infobox_claims.py`. The evaluator requires same page subject, an explicit reviewed `event_scope_id`, template family, and exact normalized parameter name. Repeated parameters without event-scope annotation remain unresolved, not conflicts. Detailed evidence: `research/rag/infobox-claims-pass-001.md`.
-- Regression test source is `research/rag/test_infobox_claims.py`, and `research/rag/infobox-claims-pass-001.md`. The five committed parser/comparison regression tests passed in GitHub Actions (run 44925739208, Python 3.11.18). The committed extractor, schema, and evaluator sources were subsequently verified against their Git blob SHAs and executed against the pinned ZIP: 507 main-namespace pages, 143 infobox invocations, 4,381 claims, 4,381 unique IDs, zero source errors; all claims passed JSON Schema and exact offset/provenance checks; a second run was byte-identical. Evaluator output: zero scoped conflict candidates and two unresolved groups (page 636 `office`; page 1343 `order`). Machine report: `research/rag/infobox-claim-validation-001.json`. The 20-case evaluation baseline has passed independent source-locator review: all ten registered source identities, 51 cited locator/content ranges, and seven title/map-boundary checks passed; Q09/Q16/Q17 locator corrections are recorded in `research/rag/evaluation-locator-validation-001.json`. Maintainer approval received 2026-11-21; retrieval pass 001 records page recall, locator coverage, entity/redirect resolution, and schema correction. All 20 evidence packets now validate against the updated schema. Q18's map reference is present in raw Wikitext and page-manifest `images` metadata, but its binary is absent from the asset manifest and ZIP; see the correction in `research/rag/evaluation-set-001.md`. Manual answer-generation pass 001 is now recorded in `research/rag/answer-generation-pass-001.md`: 20/20 answer-key criteria met, 20/20 cited cases, 4/4 contradiction disclosures, and 3/3 required abstention/qualified-absence cases. This was manual source-grounded composition from retrieved page IDs plus full-page expansion, not CLI-generated answers or independent scoring; automated citation precision and independent claim-support remain unmeasured.
-
-Key files:
-- `research/rag/build_index.py`
-- `research/rag/build_alias_index.py`
-- `research/rag/search.py`
-- `research/rag/test_search.py`
-- `research/rag/evidence-packet.schema.json`
-- `research/rag/evaluation-set-001.md`
-- `research/rag/evaluation-locator-validation-001.json`
-- `research/rag/retrieval-benchmark-pass-001.json`
-- `research/rag/answer-generation-pass-001.md`
-- `research/rag/README.md`
-- `research/continuity/RESEARCH-ASSISTANT-PROTOCOL.md`
-
-Generated local index ZIP is `SR-Doc-RAG-Index-002.zip`; it is a build artifact, not a committed database. Rebuild from the exact validated archive and run the alias-index builder after the base index builder.
 
 ## 3. Current known test case / continuity issue
 
@@ -65,14 +42,12 @@ Generated local index ZIP is `SR-Doc-RAG-Index-002.zip`; it is a build artifact,
 
 ## 4. Immediate next steps
 
-1. Continue from `research/continuity/corrected-realism-audit-001.md` and `research/continuity/corrected-realism-proposal-001.md`; keep this branch non-canon.
-2. Resolve the editorial mode: realism-first retcon versus lore-preserving technology divergence.
-3. Reconcile the Second Chinese Civil War's 2027–2048 source date with the revised 2024–2034 chronology.
-4. Choose the intended White Tide scale and reconcile the WIP article's multi-million force/casualty claims, 2028–2035 infobox, 2033 Battle of Salmon endpoint, and the timeline's 2028–2031 range.
-5. Define the Flood's sea-level curve, 300m death estimate, and 2.4bn displacement categories; reconcile Great Famine's 2032/2033 end date and mortality accounting.
-6. Decide whether the 2023 Mars expedition remains canon; if retconned, revise the full 2025–2033 colony/terraforming sequence, not only the first landing date.
-7. Only after these decisions, produce a full replacement timeline and dependency checklist. Do not edit Bronze/canon pages without separate explicit authorization.
-8. Deferred RAG task on the audit baseline: execute exact committed index/search Git blobs against the pinned archive and regenerate evidence packets; preserve the benchmark pass-001 reconstruction caveat until then.
+1. Continue from `research/continuity/realism-first-timeline-2024-2040.md`; do not use the superseded 2024–2034 chronology as the working recommendation.
+2. Perform dependency discovery for every retired event, entity, date, number, and consequence: exact titles, page links, categories, redirects, infoboxes, text mentions, and transclusions. Distinguish direct dependencies from mere mentions.
+3. Build a claim ledger with source page/revision, old value, proposed disposition, evidence, confidence, and every dependent page.
+4. Reconcile the timeline and dependent pages together; validate quantitative definitions, institutions, logistics, science/technology readiness, and event start/peak/end/aftermath dates.
+5. Do not edit accepted canon until the user separately authorizes a canon-edit phase.
+6. Deferred RAG task on the audit baseline: execute exact committed index/search Git blobs against the pinned archive and regenerate evidence packets; preserve the benchmark pass-001 reconstruction caveat until then.
 
 ## 5. Open questions / blockers
 

@@ -574,3 +574,14 @@ Matched first 300 media records against extracted image references in all 3,579 
 ## 2026-11-25 — Note on branch comparison counts
 
 - The ahead/behind values recorded in the preceding closeout entries were intermediate snapshots while sequential documentation commits were still being made. They are historical checkpoints, not durable branch state. The stable comparison result for this work unit is the seven changed paths relative to `audit/continuity-research`; verify the live branch ref for current HEAD and ancestry.
+
+
+## 2026-11-25 — Maintainer selects realism-first retcon through 2040
+
+- The maintainer selected **realism-first retcon** and set the binding editorial constraint: no departure from authentic real-world realism before 2041.
+- Created `research/continuity/realism-first-timeline-2024-2040.md` as the current non-canon editorial authority. It distinguishes observed history through 2026-11-25 from conditional future scenarios, defines hard prohibitions, lays out a 2024–2040 replacement chronology, maps source claims to retcon dispositions, and enumerates dependent pages and validation gates.
+- Superseded the earlier 2024–2034 proposal as a working chronology while retaining it for source inventory and historical reasoning. Updated the audit note, master register, README, agent guide, and swap handoff to reflect the maintainer's decision.
+- Major pre-2041 retcons: remove the global Flood/near-30m sea-level curve and extreme death/displacement totals; remove the global Great Famine and extraordinary mortality; remove the 2027–2048 Second Chinese Civil War and Three Gorges Dam trigger; reduce White Tide to bounded domestic extremism at most; remove Russian dissolution/nuclear seizure and Turkish occupation/pipeline; remove the 2023/2026 crewed Mars program and 2029–2033 terraforming; remove unsupported U.S. 400m population, 90m displacement, and wholesale housing seizure claims.
+- Calibration references include IPCC AR6 sea-level ranges, FAO/FSIN 2025–2026 food-security reporting, CBO's January 2026 demographic outlook, and NASA's 2024–2025 Moon-to-Mars architecture and Mars engineering material. Future dates remain scenarios, not forecasts.
+- No automated tests were run; this was a documentation and editorial-planning change. No Bronze/Silver source bytes, manifests, accepted canon pages, or RAG implementation files were changed. No PR, merge, or branch promotion was performed.
+- A later canon-edit phase requires separate explicit user approval.
