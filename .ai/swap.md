@@ -1,105 +1,115 @@
-# SR-Doc — AI session swap memory
+# SR-Doc — Agent Swap / Current Working State
 
-> **Role:** Compact, repo-backed handoff snapshot for AI work. This file is mutable working memory, not canon, source evidence, or a chronological log.
-> **Last verified against GitHub:** 2026-11-25 (after Flood claim reconciliation pass 001)
-> **Branch:** `experiment/corrected-realism`
-> **Branch HEAD before this swap refresh:** `21d3b4e43a8c2ee3c8ba16ac04215d678cef60c3`
-> **Maintainer:** User-directed SR-Doc workflow; agents may update this file under `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
+**Repository:** robertmccarn/SR-Doc  
+**Working branch:** experiment/corrected-realism  
+**Branch HEAD before this swap refresh:** 829823096e824b8c8dfe10a9268e265ea1a9175c  
+**Last verified:** 2026-11-25  
+**Current workstream:** Independent narrative audit, validation tranche 001 complete; post-2041 survival map in progress.
 
-## 1. Mission and standing constraints
+## Start here
 
-Continue the source-grounded SR-Doc corpus audit and research-assistant/RAG implementation. The `experiment/corrected-realism` branch is a user-authorized, non-canon editorial offshoot. The maintainer has selected a realism-first retcon: no departure from authentic realism before 2041. The current editorial authority is `research/continuity/realism-first-timeline-2024-2040.md`. The repository and captured source data—not chat history, model memory, or this swap file—are authoritative.
+Read in this order:
+1. agents.md
+2. this file
+3. research/continuity/DOCUMENTATION-GOVERNANCE.md
+4. research/continuity/MASTER-RESEARCH-REGISTER.md
+5. research/README.md
+6. research/narrative-audit/MASTER-NARRATIVE-AUDIT.md
+7. research/narrative-audit/validation-tranche-001.md
+8. research/narrative-audit/POST-2041-LINK-DISCOVERY-001.md
+9. research/continuity/realism-first-timeline-2024-2040.md
+10. research/session-log.md
 
-- Current user-designated working branch is `experiment/corrected-realism`; work here unless explicitly directed otherwise. Treat `audit/continuity-research` at `d93184ad0f78af7b96d264e2bd00d95a8bd61736` as the read-only base for this offshoot.
-- No merge, PR, branch promotion, canon edit, or Bronze/Silver source modification without explicit user approval.
-- Bronze captures/manifests are immutable evidence.
-- Preserve contradictions; never silently adjudicate or normalize claims.
-- Distinguish observed, computed, inferred, hypothesis, and unresolved.
-- Main namespace is the default lore evidence. Talk/Thread/User/community namespaces are contextual/editorial and require explicit opt-in.
-- Do not claim tests or builds ran unless execution actually succeeded. Record test scope and limitations.
-- Never place credentials, tokens, private keys, personal secrets, or other sensitive data here.
+The repository is the source of truth. Do not rely on chat history when a repository record exists.
 
-## 2. Active workstream
+## Governing editorial constraint
 
-**Current branch: non-canon realism-first retcon through 2040.**
-- Binding decision (2026-11-25): no departure from authentic real-world scientific, technological, demographic, economic, institutional, military, or geopolitical plausibility before 2041.
-- Current editorial authority: `research/continuity/realism-first-timeline-2024-2040.md`.
-- Multi-factor research integration: `research/continuity/geopolitical-forecast-integration-001.md`. Climate is one driver among many; include political institutions, demographics, supply chains, AI/technology, energy/minerals, finance, military competition, trade, culture/information, public health, geography, and regional agency. Correctly distinguish Friedman personal work, GPF company/team forecasts, and Stratfor/RANE institutional forecasts. Forecasts are scenario inputs, not canon facts. The note includes primary-source findings, regional implications, a forecast scorecard protocol, public/paywalled source access, RSS/API findings, and IEA critical-mineral context.
-- Source audit: `research/continuity/corrected-realism-audit-001.md` (13 relevant Bronze page hashes matched the pinned archive manifest).
-- Dependency discovery pass 001: `research/continuity/dependency-discovery-001.md` and `research/continuity/claim-ledger-001.csv`. Flood claim reconciliation pass 001 is complete: `research/continuity/flood-claim-reconciliation-001.md` and `.csv` cover all 58 Main-namespace Flood phrase-hit pages; 58/58 raw page hashes matched the Bronze manifest; 35 canonical direct-link edges across 29 pages; page-local causal/indirect/incidental classification. This is a focused context-window review, not full semantic review of all page text. A closeout reconciliation corrected a prose typo: the CSV has 243 data rows (244 lines including header), matching the README, master register, and category subtotals. Pinned Bronze archive SHA-256 `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`; all 3,579 raw Wikitext hashes matched the manifest. Exact phrase hits span 107 unique Main pages; Silver graph has 148 direct-link edges from 73 sources. Ledger: 243 grouped rows (127 direct-link observations, 66 text-only mentions, 31 numeric claims, four timeline fields, three redirects, six template/infobox-use records, six category memberships). Context namespace hits are separately recorded. No built RAG index was available, so no RAG CLI query ran.
-- Dependency findings preserve source conflicts: Great Famine 2032/2033 and three episodes; Flood 300m deaths versus 300m people without basic needs; Mars 2023 versus 2026 first-crewed mission; Russia 2138/2139 end-year. AOC remains a real-world person page; future presidency is not required. Meridian Base and Galileo II have no dedicated Main pages. Page 1423 Turkey is an inferred review candidate, not an exact phrase hit.
-- Superseded historical draft: `research/continuity/corrected-realism-proposal-001.md`. Retain for source inventory/history only; do not implement its 2024–2034 chronology.
-- The replacement note distinguishes observed history through 2026-11-25 from conditional 2027–2040 scenarios, defines hard constraints, records the retcon matrix, and lists known dependent pages plus validation gates. Its section 3A now embeds the multi-factor geopolitical architecture and regional lenses.
-- Required retcons: remove the global Flood/near-30m sea-level curve and extreme death/displacement totals; remove the global Great Famine and extraordinary mortality; remove the 2027–2048 Second Chinese Civil War and Three Gorges Dam trigger; reduce White Tide to bounded domestic extremism at most; remove Russian dissolution/nuclear seizure and Turkish occupation/pipeline; remove the 2023/2026 crewed Mars program and 2029–2033 terraforming; remove unsupported U.S. 400m population, 90m displacement, and wholesale housing seizure.
-- No canon edits, Bronze/Silver modifications, manifest changes, RAG implementation changes, PR, merge, or branch promotion are authorized. A later canon-edit phase requires separate explicit approval.
+There must be no departure from authentic real-world scientific, technological, demographic, economic, institutional, military, or geopolitical plausibility before 2041. Deliberate divergence may begin in 2041 or later, but later developments must remain causally and physically coherent.
 
-**Inherited baseline: RAG source-aware claim extraction and contradiction evaluation.**
+Climate is one factor among many, not a universal master cause. Evaluate institutions, demographics, supply chains, technology, energy and minerals, finance, military competition, trade, culture and information, public health, geography, and regional agency.
 
-## 3. Current known test case / continuity issue
+Distinguish observed history, forecast, scenario assumption, inference, hypothesis, and unresolved claim. Preserve contradictions; do not silently reconcile them. A wiki link is not proof of causality.
 
-- Page 1413, **Second Chinese Civil War**, contains infobox dates 2027–2048 and a combatant period marked 2105–2111.
-- Page 1408, **Third Chinese Civil War**, covers phases beginning in 2105 and extending through 2126.
-- The contrast retriever surfaces the page-1413 multi-range passage and page 1408 for comparison.
-- This is a confirmed source-level inconsistency candidate, not a resolved chronology. Field labels, event scope, and any creator/community explanation still need review.
-- The date regex is heuristic; it does not parse infobox field semantics. Lexical OR matching can be noisy. Retrieval pass 001 found all expected pages by top five unique candidates, but first-stage locator coverage was 47/55; full-page expansion raised it to 55/55. Contrast candidate precision remains noisy and no semantic contradiction precision is claimed.
+## Operational boundaries
 
-## 4. Immediate next steps
+- Work only on experiment/corrected-realism unless the maintainer explicitly changes the instruction.
+- This is a non-canon editorial branch.
+- Do not modify accepted canon, Bronze or Silver source data, manifests, or RAG implementation without explicit authorization.
+- Research and audit documentation may be updated in accordance with DOCUMENTATION-GOVERNANCE.md.
+- Do not create or merge PRs, merge branches, or promote the branch without explicit approval.
+- Never claim tests, builds, RAG CLI runs, or validation that were not actually executed.
+- Use Bronze Wikitext as primary evidence; use Silver for navigation and parsed metadata.
+- When the user requests corpus-page tranches, use the established 300-page batch size. The current narrative audit is a bounded thematic workflow, not a substitute for the corpus inventory.
+- Update the master register, README, session log, and swap file when warranted. Update the swap file last.
 
-1. Use `research/continuity/dependency-discovery-001.md` and `claim-ledger-001.csv` as the completed pass-001 dependency baseline; verify any claim against the captured Bronze source before proposing a change.
-2. Reconcile the Great Famine / Market Crash / Revolutions / Great Reset cluster next, treating the linked causal chain together. Use the Flood reconciliation as the page-local model; distinguish causal dependencies from incidental mentions and preserve all source conflicts.
-3. Prepare a page-by-page non-canon change proposal covering the timeline and dependent pages, with observed/computed/inferred/hypothesis/unresolved labels and explicit acceptance criteria.
-4. Keep the realism-first constraint: no divergence from authentic realism before 2041; climate remains one pressure among many; no single global event explains multiple regions.
-5. Do not edit accepted canon until the user separately authorizes a canon-edit phase.
-6. Deferred RAG task: the built SQLite/chunk index was absent from the supplied archive and branch tree; only attempt a CLI reproduction when the index artifact is available, and preserve the benchmark pass-001 reconstruction caveat.
+## Completed work
 
-## 5. Open questions / blockers
+### Repository continuity and Flood reconciliation
 
-- What is the most reliable extraction boundary for infobox templates without a full MediaWiki renderer? Raw template parameter parsing may need nested-brace-aware parsing.
-- Which of the observed infobox template families should be supported first? Start with the already audited high-value families and document exclusions.
-- How should claim identity be represented so repeated dates for different phases are not mistaken for conflicts?
-- The 20-question evaluation set is maintainer-approved; retrieval pass 001 and manual answer-generation pass 001 are recorded. Automated answer-generation, citation precision, and independent claim-support evaluation remain pending.
-- Redirect-chain resolution, namespace aliases, and broader entity aliases remain out of scope for the current resolver pass.
-- The contrast heuristic is not a semantic contradiction detector.
+The branch contains the repo-backed continuity system:
+- agents.md
+- .ai/swap.md
+- research/continuity/DOCUMENTATION-GOVERNANCE.md
+- research/continuity/MASTER-RESEARCH-REGISTER.md
+- research/README.md
+- research/session-log.md
 
-## 6. Durable decisions
+Flood claim reconciliation 001 reviewed 58 Main-namespace phrase-hit pages. The note records 58/58 source hash matches, 35 canonical direct-link edges across 29 pages, and explicit cautions against treating phrase hits or links as complete semantic dependency coverage. See research/continuity/flood-claim-reconciliation-001.md and its CSV.
 
-- Repository is the knowledge authority; this file is a compact pointer/status snapshot only.
-- Keep working memory separate from permanent research evidence and from the append-only session log.
-- Bronze/Silver are immutable; all extraction and indexing is derived and reproducible.
-- Keep lexical retrieval as the baseline. Defer embeddings until measured retrieval gaps justify them.
-- Redirect mappings preserve original page identity and provenance; no fuzzy entity merge.
-- Retrieval may surface conflicting candidates; only human/source review can classify or resolve them.
-- Default lore retrieval excludes community namespaces.
-- Do not merge, open PRs, promote branches, or edit canon without explicit approval.
+### Narrative audit validation tranche 001
 
-## 7. Recent repository state
+Audited starting HEAD: fdec89ff1221a36fa360630b0d7607b7c7d2f95d.
 
-- Repository: `robertmccarn/SR-Doc`
-- Branch: `experiment/corrected-realism`
-- Base: `audit/continuity-research` at `d93184ad0f78af7b96d264e2bd00d95a8bd61736` (read-only reference)
-- Last verified HEAD before this swap refresh is recorded at the top of this file.
-- Latest continuity milestone: Flood claim reconciliation pass 001 added a 58-page page-level CSV and findings note; all 58 raw page hashes matched the Bronze manifest; 35 canonical direct-link edges were found across 29 phrase-hit pages. README, master register, and append-only session log were updated. No tests/builds/RAG CLI ran; no canon, Bronze/Silver, manifest, or RAG implementation files changed. Final branch HEAD before this swap refresh: `43561ef75ee3b1bb71f00c822cb64ce0c5837cac`.
-- Prior RAG milestone: five committed parser/comparison regression tests passed in GitHub Actions; continuity validation, compileall, and existing pytest suite also passed. The committed extractor/evaluator ran against the pinned archive; all 4,381 claims passed schema/offset/provenance validation, with deterministic repeat output. See `research/rag/infobox-claim-validation-001.json`.
-- New files: `research/rag/extract_infobox_claims.py`, `research/rag/evaluate_infobox_claims.py`, `research/rag/infobox-claim.schema.json`, `research/rag/test_infobox_claims.py`, `research/rag/infobox-claim-validation-001.json`.
-- Updated permanent docs: RAG README, infobox pass-001 note, evaluation set and locator report, master register, research README, session log, and `agents.md`.
-- No PR, merge, branch promotion, or canon/source-data edit was performed for that milestone.
-- Current branch: `experiment/corrected-realism`, branched from audit HEAD `d93184ad0f78af7b96d264e2bd00d95a8bd61736`. Proposal and audit: `research/continuity/corrected-realism-proposal-001.md` and `research/continuity/corrected-realism-audit-001.md`. Audited all five changed paths against base, plus agent/governance instructions; verified 13 Bronze source hashes and external calibration references. Key unresolved decisions include Chinese Civil War 2027–2048, White Tide scale, Flood mortality/displacement, Great Famine dates, and Mars 2023–2033 technology. Master register, README, agent guide, session log, and swap are synchronized. No tests, canon edits, PR, merge, or branch promotion.
+Twenty-eight Bronze pages were reviewed at varying depth: 19 full reads and 9 partial reads. All 28 raw SHA-256 values matched the Bronze manifest.
 
-## 8. Memory system established
+Fourteen exact-year pages with at least three discrete 2024–2040 year mentions were confirmed absent from claim-ledger-001.csv:
+97 Little Cold War; 1317 De-Extinction; 1651 Korean reunification; 1702 List of World War III weapons; 1445 President of Mexico; 272 Earth; 1796 United States presidential election, 2040; 1936 Flags of the United States; 2356 List of states and territories of the United States; 1266 Reed Chen; 2136 Tanning the Donkey; 1262 Maya Garcia; 1431 Arya Kanzaki; 1739 Terran diaspora.
 
-- Canonical swap path: `.ai/swap.md`.
-- Memory procedures: section 12 of `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
-- Session startup pointer: `agents.md`.
-- Research navigation: `research/README.md`; canonical status pointer: `research/continuity/MASTER-RESEARCH-REGISTER.md`.
-- The setup itself is recorded in `research/session-log.md`. No secrets are stored here.
+Additional recursive pages reviewed: 3484 New Korean Wave, 1234 Hypersonic Weapons, 2774 Project Rebirth, 1715 Korea, 1436 Tactile-neural interface, 1998 Central Eurasian Union, 88 Timeline of major events, 1683 Russia, 1729 Treaty of Odessa, 1438 Eurasian Coalition, 1366 Caribbean annexation, 1479 Orbital Command Stations, 318 Mars, and 961 Trump-Russia scandal.
 
-## 9. Session closeout checklist
+Audit artifacts:
+- research/narrative-audit/MASTER-NARRATIVE-AUDIT.md
+- research/narrative-audit/validation-tranche-001.md
+- research/narrative-audit/POST-2041-LINK-DISCOVERY-001.md
+- research/narrative-audit/page-review-001.csv
 
-Before ending a work session:
-- Verify branch and HEAD from GitHub.
-- Update current state, decisions, blockers, and immediate next steps here.
-- Remove completed items from the active list; retain durable decisions.
-- Promote durable technical decisions to permanent docs/ADRs and implementation to code/tests.
-- Update master register/README/session log when required by governance.
-- Re-fetch changed files and verify committed content.
-- Record the resulting HEAD SHA and whether any tests actually ran.
+## Current verified metrics
+
+- 507 Main-namespace pages; 357 non-redirect Main pages.
+- 116 non-redirect pages contain discrete 2024–2040 year mentions (117 including redirects).
+- 262 non-redirect pages contain discrete 2041+ year mentions.
+- 82 pages mention both periods; 34 mention only 2024–2040; 180 mention only 2041+; 61 mention neither.
+- 14 exact-year pages are confirmed absent from the existing claim ledger.
+- The 262-page count is discovery only. It is not a semantic audit completion count.
+- A link-level scan found 27 future-dated pages linking to Mars, 20 to The Flood, 10 to The Refreeze, 7 to Earth Working Group, 8 each to Great Reset and White Tide, and other clusters. These counts are not causal classifications.
+
+## Important validated findings and corrections
+
+1. Archive SHA-256 of the uploaded SR-Doc-Audit.zip is:
+   d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8
+   The 63-character transcription was incorrect. Five current research documents were corrected. Historical session-log entries remain unchanged under the append-only rule; the correction is appended.
+2. Page 1445's 2024 Mexican presidential succession conflicts with the observed 2024 election and Claudia Sheinbaum's 1 October 2024 inauguration.
+3. Page 1317's claim of a successful 2024 gastric-brooding frog de-extinction is false; the Lazarus Project did not produce a living frog.
+4. Page 97's assertion that Western European states withdrew from NATO in the mid-2020s is unsupported; the official NATO roster still has 32 members.
+5. Page 961 misstates the Mueller report as establishing a Trump-campaign/Russia conspiracy and overstates the 2024 Supreme Court immunity ruling.
+6. Pages 318, 1739, and 1431 contain a pre-2041 Mars settlement/terraforming/Titan mission cluster that conflicts with the realism-first rule and contains a 2023/2026 chronology conflict.
+7. Page 1366 ties Caribbean annexation to retired Flood and displacement premises; pages 272, 2356, and 1936 repeat the US expansion sequence and disagree on Puerto Rico's date.
+8. Pages 2136, 1262, 1266, and 1796 do not share a reconciled US party-system chronology.
+9. Pages 1702 and 1234 contain unsupported pre-2041 hypersonic/orbital-strike claims; page 1234 also has an apparent 2028/2113 chronology inversion.
+10. Page 1479's 2033–2040 Orbital Command Stations and page 1436's 2028–2034 tactile-neural interface claims need technology audits.
+11. Page 1651's Korean reunification chain depends on the Great Famine, but a December 2026 aid cut may be anticipatory rather than a strict cause-after-effect error.
+12. Claude's claim that the Russia 2029 accounts are three incompatible narratives was too strong. A staged sequence may reconcile May 2029 Union State collapse/successor formation, August 2029 formal Russian Federation collapse, 2029–2038 nuclear-security operations, and the 2034 Treaty of Odessa. The prose needs clarification; the 2138/2139 end-date conflict remains.
+
+## Next work
+
+1. Continue the 262-page post-2041 survival map in bounded semantic batches. Classify pages as direct dependency, latent dependency, independent, or unresolved, with a counterfactual for each. Start with Flood, Mars, Great Famine/Korea, Russia/Eurasia, and US territorial expansion.
+2. Continue the observed-baseline sweep across 2022–2026 claims, prioritizing pages 97, 961, 1317, 1445, 318, 1234, and 1366.
+3. Complete the Russia/Eurasia regional chain: pages 97, 1683, 1729, 1438, 1998, 961, and related successor-state, Turkish, Polish, and Japanese pages.
+4. Reconcile the US party-system and election chronology.
+5. Return to the Great Famine / Market Crash / Revolutions / Great Reset cluster.
+
+## Safety and closeout
+
+No canon, Bronze/Silver data, manifests, or RAG implementation changes were made in validation tranche 001. No tests, builds, or RAG CLI runs were executed. No PR, merge, or branch promotion was performed.
+
+At the end of each tranche, verify the current branch and HEAD, update the master register and README, append the session log, refresh this swap file last, and report the actual final HEAD and verification results.
