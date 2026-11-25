@@ -1,7 +1,7 @@
 # SR-Doc research workspace
 
 **Last reconciled:** 2026-11-24  
-**Working branch:** `audit/continuity-research`
+**Working branch:** `experiment/corrected-realism`
 
 This directory contains source-grounded audit ledgers, tranche evidence, dependency analysis, and continuity investigations. It does not alter or replace Bronze captures, Silver transformations, or Gold proposals. Bronze source files and manifests remain immutable.
 
@@ -96,6 +96,10 @@ The RAG workstream now includes a source-grounded answer protocol, evidence pack
 - `continuity/DOCUMENTATION-GOVERNANCE.md` — normative, self-referencing documentation maintenance protocol.
 - `continuity/MASTER-RESEARCH-REGISTER.md` — canonical synthesis and complete note inventory.
 - `continuity/agents-md-history-2026-11-20.md` — verbatim preservation of the former long `agents.md`; archival only, not current guidance.
+
+## Non-canon editorial experiment
+
+- **[Corrected-realism proposal, 2024–2034](continuity/corrected-realism-proposal-001.md)** — alternate-history editorial proposal to make the Flood, Great Famine, Market Crash, White Tide, geopolitical fragmentation, American Renewal, and space-exploration chronology more consistent with external scientific and institutional context. Proposal only; no canon or Bronze/Silver source data changed.
 
 ## Method and status definitions
 
