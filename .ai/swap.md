@@ -1,9 +1,9 @@
 # SR-Doc — AI session swap memory
 
 > **Role:** Compact, repo-backed handoff snapshot for AI work. This file is mutable working memory, not canon, source evidence, or a chronological log.
-> **Last verified against GitHub: 2026-11-21 (after successful schema-contract CI run and benchmark documentation)
+> **Last verified against GitHub:** 2026-11-24 (after answer-generation evaluation pass 001)
 > **Branch:** `audit/continuity-research`
-> **Branch HEAD before this swap refresh: ebd6724c361cbcde2ba3005ff59e420cf883cb79
+> **Branch HEAD before this swap refresh:** `61213374e76aee4910f4e1cfadb208badeb26256`
 > **Maintainer:** User-directed SR-Doc workflow; agents may update this file under `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
 
 ## 1. Mission and standing constraints
@@ -31,7 +31,7 @@ Implemented baseline:
 - Date-bearing contrast mode via `--contrast`; returns diversified lexical candidates and heuristic `date_signals`, flags multiple date ranges for human review.
 - Four contrast regression checks were recorded as passing against the uploaded version-002 SQLite index; see `research/rag/contrast-smoke-tests-001.json`. This is a smoke/regression check, not a benchmark.
 - Source-aware infobox extraction is now implemented in `research/rag/extract_infobox_claims.py`, with schema `research/rag/infobox-claim.schema.json` and conservative event-scoped comparison in `research/rag/evaluate_infobox_claims.py`. The evaluator requires same page subject, an explicit reviewed `event_scope_id`, template family, and exact normalized parameter name. Repeated parameters without event-scope annotation remain unresolved, not conflicts. Detailed evidence: `research/rag/infobox-claims-pass-001.md`.
-- Regression test source is `research/rag/test_infobox_claims.py`, and `research/rag/infobox-claims-pass-001.md`. The five committed parser/comparison regression tests passed in GitHub Actions (run 44925739208, Python 3.11.18). The committed extractor, schema, and evaluator sources were subsequently verified against their Git blob SHAs and executed against the pinned ZIP: 507 main-namespace pages, 143 infobox invocations, 4,381 claims, 4,381 unique IDs, zero source errors; all claims passed JSON Schema and exact offset/provenance checks; a second run was byte-identical. Evaluator output: zero scoped conflict candidates and two unresolved groups (page 636 `office`; page 1343 `order`). Machine report: `research/rag/infobox-claim-validation-001.json`. The 20-case evaluation baseline has passed independent source-locator review: all ten registered source identities, 51 cited locator/content ranges, and seven title/map-boundary checks passed; Q09/Q16/Q17 locator corrections are recorded in `research/rag/evaluation-locator-validation-001.json`. Maintainer approval received 2026-11-21; retrieval pass 001 records page recall, locator coverage, entity/redirect resolution, and schema correction. All 20 evidence packets now validate against the updated schema. Q18's map reference is present in raw Wikitext and page-manifest `images` metadata, but its binary is absent from the asset manifest and ZIP; see the correction in `research/rag/evaluation-set-001.md`.
+- Regression test source is `research/rag/test_infobox_claims.py`, and `research/rag/infobox-claims-pass-001.md`. The five committed parser/comparison regression tests passed in GitHub Actions (run 44925739208, Python 3.11.18). The committed extractor, schema, and evaluator sources were subsequently verified against their Git blob SHAs and executed against the pinned ZIP: 507 main-namespace pages, 143 infobox invocations, 4,381 claims, 4,381 unique IDs, zero source errors; all claims passed JSON Schema and exact offset/provenance checks; a second run was byte-identical. Evaluator output: zero scoped conflict candidates and two unresolved groups (page 636 `office`; page 1343 `order`). Machine report: `research/rag/infobox-claim-validation-001.json`. The 20-case evaluation baseline has passed independent source-locator review: all ten registered source identities, 51 cited locator/content ranges, and seven title/map-boundary checks passed; Q09/Q16/Q17 locator corrections are recorded in `research/rag/evaluation-locator-validation-001.json`. Maintainer approval received 2026-11-21; retrieval pass 001 records page recall, locator coverage, entity/redirect resolution, and schema correction. All 20 evidence packets now validate against the updated schema. Q18's map reference is present in raw Wikitext and page-manifest `images` metadata, but its binary is absent from the asset manifest and ZIP; see the correction in `research/rag/evaluation-set-001.md`. Manual answer-generation pass 001 is now recorded in `research/rag/answer-generation-pass-001.md`: 20/20 answer-key criteria met, 20/20 cited cases, 4/4 contradiction disclosures, and 3/3 required abstention/qualified-absence cases. This was manual source-grounded composition from retrieved page IDs plus full-page expansion, not CLI-generated answers or independent scoring; automated citation precision and independent claim-support remain unmeasured.
 
 Key files:
 - `research/rag/build_index.py`
@@ -42,6 +42,7 @@ Key files:
 - `research/rag/evaluation-set-001.md`
 - `research/rag/evaluation-locator-validation-001.json`
 - `research/rag/retrieval-benchmark-pass-001.json`
+- `research/rag/answer-generation-pass-001.md`
 - `research/rag/README.md`
 - `research/continuity/RESEARCH-ASSISTANT-PROTOCOL.md`
 
@@ -58,10 +59,9 @@ Generated local index ZIP is `SR-Doc-RAG-Index-002.zip`; it is a build artifact,
 ## 4. Immediate next steps
 
 1. Inspect the current branch and read this swap plus `agents.md`, `DOCUMENTATION-GOVERNANCE.md`, master register, RAG README, and recent session log.
-2. Generate answer outputs from the retrieved evidence packets and score answer-element coverage, claim support, citation precision, contradiction disclosure, and abstention separately. Retrieval pass 001 is exploratory because local index/search scripts were source-equivalent reconstructions, not byte-identical Git blobs.
+2. Close the retrieval reproducibility gap: verify and execute the exact committed `build_index.py`, `build_alias_index.py`, and `search.py` Git blobs against the pinned archive, then regenerate the 20 evidence packets. The answer-generation pass 001 note contains manual source-grounded answers from the benchmark's retrieved page IDs plus full-page expansion; it is not a CLI-generated answer test or independent score. The retrieval benchmark remains exploratory because its local scripts were source-equivalent reconstructions, not byte-identical Git blobs.
 3. Improve first-stage passage selection: Q09/Q10/Q15 missed page-1408 infobox/phase locators, and Q16 missed the FRoC history stub and Association establishment field until full-page expansion. Q09's page-1413 date-value locator was normalized to chars 114–125 in the evaluation set; see correction 003.
 4. Keep the two reviewed repeated-parameter groups (page 636 `office`; page 1343 `order`) unresolved. No event-scope annotation is supported by the captured Wikitext.
-5. Preserve the two unresolved event-scope groups; do not infer event_scope_id from layout alone.
 6. Continue the broader parser-coverage review and preserve the Chinese political-history Talk/Thread context and succession claim matrix.
 
 ## 5. Open questions / blockers
@@ -69,7 +69,7 @@ Generated local index ZIP is `SR-Doc-RAG-Index-002.zip`; it is a build artifact,
 - What is the most reliable extraction boundary for infobox templates without a full MediaWiki renderer? Raw template parameter parsing may need nested-brace-aware parsing.
 - Which of the observed infobox template families should be supported first? Start with the already audited high-value families and document exclusions.
 - How should claim identity be represented so repeated dates for different phases are not mistaken for conflicts?
-- The 20-question evaluation set is maintainer-approved; retrieval pass 001 is recorded. Answer-generation/citation scoring remains pending.
+- The 20-question evaluation set is maintainer-approved; retrieval pass 001 and manual answer-generation pass 001 are recorded. Automated answer-generation, citation precision, and independent claim-support evaluation remain pending.
 - Redirect-chain resolution, namespace aliases, and broader entity aliases remain out of scope for the current resolver pass.
 - The contrast heuristic is not a semantic contradiction detector.
 
