@@ -1,9 +1,9 @@
 # SR-Doc — AI session swap memory
 
 > **Role:** Compact, repo-backed handoff snapshot for AI work. This file is mutable working memory, not canon, source evidence, or a chronological log.
-> **Last verified against GitHub:** 2026-11-25 (after Friedman / GPF / Stratfor-RANE research integration)
+ > **Last verified against GitHub:** 2026-11-25 (after retired-claim dependency discovery pass 001)
 > **Branch:** `experiment/corrected-realism`
-> **Branch HEAD before this swap refresh:** `d37e081fa61d7ff6f5d096628cd9b32e508c9119`
+> **Branch HEAD before this swap refresh:** `c2c943272d23b9c83cd186a282ec500a9cda50aa`
 > **Maintainer:** User-directed SR-Doc workflow; agents may update this file under `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
 
 ## 1. Mission and standing constraints
@@ -26,6 +26,8 @@ Continue the source-grounded SR-Doc corpus audit and research-assistant/RAG impl
 - Current editorial authority: `research/continuity/realism-first-timeline-2024-2040.md`.
 - Multi-factor research integration: `research/continuity/geopolitical-forecast-integration-001.md`. Climate is one driver among many; include political institutions, demographics, supply chains, AI/technology, energy/minerals, finance, military competition, trade, culture/information, public health, geography, and regional agency. Correctly distinguish Friedman personal work, GPF company/team forecasts, and Stratfor/RANE institutional forecasts. Forecasts are scenario inputs, not canon facts. The note includes primary-source findings, regional implications, a forecast scorecard protocol, public/paywalled source access, RSS/API findings, and IEA critical-mineral context.
 - Source audit: `research/continuity/corrected-realism-audit-001.md` (13 relevant Bronze page hashes matched the pinned archive manifest).
+- Dependency discovery pass 001: `research/continuity/dependency-discovery-001.md` and `research/continuity/claim-ledger-001.csv`. Pinned Bronze archive SHA-256 `d1af0775d69def6ef442b66393e3ad84db6cb6b9ecf9138170573fdfe0a02c8`; all 3,579 raw Wikitext hashes matched the manifest. Exact phrase hits span 107 unique Main pages; Silver graph has 148 direct-link edges from 73 sources. Ledger: 242 grouped rows, including direct links, text mentions, numeric claims, redirects, template/infobox use and categories. Context namespace hits are separately recorded. No built RAG index was available, so no RAG CLI query ran.
+- Dependency findings preserve source conflicts: Great Famine 2032/2033 and three episodes; Flood 300m deaths versus 300m people without basic needs; Mars 2023 versus 2026 first-crewed mission; Russia 2138/2139 end-year. AOC remains a real-world person page; future presidency is not required. Meridian Base and Galileo II have no dedicated Main pages. Page 1423 Turkey is an inferred review candidate, not an exact phrase hit.
 - Superseded historical draft: `research/continuity/corrected-realism-proposal-001.md`. Retain for source inventory/history only; do not implement its 2024–2034 chronology.
 - The replacement note distinguishes observed history through 2026-11-25 from conditional 2027–2040 scenarios, defines hard constraints, records the retcon matrix, and lists known dependent pages plus validation gates. Its section 3A now embeds the multi-factor geopolitical architecture and regional lenses.
 - Required retcons: remove the global Flood/near-30m sea-level curve and extreme death/displacement totals; remove the global Great Famine and extraordinary mortality; remove the 2027–2048 Second Chinese Civil War and Three Gorges Dam trigger; reduce White Tide to bounded domestic extremism at most; remove Russian dissolution/nuclear seizure and Turkish occupation/pipeline; remove the 2023/2026 crewed Mars program and 2029–2033 terraforming; remove unsupported U.S. 400m population, 90m displacement, and wholesale housing seizure.
@@ -43,12 +45,12 @@ Continue the source-grounded SR-Doc corpus audit and research-assistant/RAG impl
 
 ## 4. Immediate next steps
 
-1. Continue from `research/continuity/realism-first-timeline-2024-2040.md`; do not use the superseded 2024–2034 chronology as the working recommendation.
-2. Perform dependency discovery for every retired event, entity, date, number, and consequence: exact titles, page links, categories, redirects, infoboxes, text mentions, and transclusions. Distinguish direct dependencies from mere mentions.
-3. Build a claim ledger with source page/revision, old value, proposed disposition, evidence, confidence, and every dependent page.
-4. Reconcile the timeline and dependent pages together; validate quantitative definitions, institutions, logistics, science/technology readiness, and event start/peak/end/aftermath dates.
+1. Use `research/continuity/dependency-discovery-001.md` and `claim-ledger-001.csv` as the completed pass-001 dependency baseline; verify any claim against the captured Bronze source before proposing a change.
+2. Continue claim-by-claim reconciliation across the 107 Main-namespace phrase-hit pages and 148 parsed direct-link edges. Distinguish causal dependencies from incidental mentions; preserve all source conflicts.
+3. Prepare a page-by-page non-canon change proposal covering the timeline and dependent pages, with observed/computed/inferred/hypothesis/unresolved labels and explicit acceptance criteria.
+4. Keep the realism-first constraint: no divergence from authentic realism before 2041; climate remains one pressure among many; no single global event explains multiple regions.
 5. Do not edit accepted canon until the user separately authorizes a canon-edit phase.
-6. Deferred RAG task on the audit baseline: execute exact committed index/search Git blobs against the pinned archive and regenerate evidence packets; preserve the benchmark pass-001 reconstruction caveat until then.
+6. Deferred RAG task: the built SQLite/chunk index was absent from the supplied archive and branch tree; only attempt a CLI reproduction when the index artifact is available, and preserve the benchmark pass-001 reconstruction caveat.
 
 ## 5. Open questions / blockers
 
@@ -76,6 +78,7 @@ Continue the source-grounded SR-Doc corpus audit and research-assistant/RAG impl
 - Branch: `experiment/corrected-realism`
 - Base: `audit/continuity-research` at `d93184ad0f78af7b96d264e2bd00d95a8bd61736` (read-only reference)
 - Last verified HEAD before this swap refresh is recorded at the top of this file.
+- Latest dependency-discovery milestone: committed ledger and method/results note; updated README, master register, and append-only session log. No tests/builds/RAG CLI ran; no Bronze/Silver, manifest, canon, or RAG implementation files changed. Final branch HEAD before this swap refresh: `c2c943272d23b9c83cd186a282ec500a9cda50aa`.
 - Latest milestone: five committed parser/comparison regression tests passed in GitHub Actions; continuity validation, compileall, and existing pytest suite also passed. The committed extractor/evaluator ran against the pinned archive; all 4,381 claims passed schema/offset/provenance validation, with deterministic repeat output. See `research/rag/infobox-claim-validation-001.json`.
 - New files: `research/rag/extract_infobox_claims.py`, `research/rag/evaluate_infobox_claims.py`, `research/rag/infobox-claim.schema.json`, `research/rag/test_infobox_claims.py`, `research/rag/infobox-claim-validation-001.json`.
 - Updated permanent docs: RAG README, infobox pass-001 note, evaluation set and locator report, master register, research README, session log, and `agents.md`.
