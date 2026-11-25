@@ -631,3 +631,13 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Reconciled `research/continuity/dependency-discovery-001.md` against the committed `claim-ledger-001.csv`: the CSV contains 243 data rows (244 lines including its header), matching the executive result, the dependency-type subtotals, README, master register, and swap.
 - Corrected a single prose typo that called the ledger 245 rows. No ledger observations or source data changed; the 243-row count remains authoritative.
 - Re-fetched the branch head and the changed files during closeout. No tests, builds, or RAG CLI commands were run; no canon, Bronze, Silver, manifest, or RAG implementation files were changed.
+
+
+## 2026-11-25 — Flood claim reconciliation pass 001
+
+- Completed a bounded reconciliation of all 58 Main-namespace pages returned by the dependency-discovery Flood phrase search. Reviewed local source context around matches, parsed-link evidence, and the established timeline/audit findings; assigned page-local semantic dependency classes rather than treating every link as causal.
+- Recomputed raw SHA-256 for all 58 page files from the pinned archive; **58/58 matched** their Bronze manifest values. The tranche contains 35 canonical `The Flood` parsed-link edges across 29 phrase-hit pages; 29 phrase-hit pages have no canonical parsed link.
+- Added `research/continuity/flood-claim-reconciliation-001.md` and `flood-claim-reconciliation-001.csv`. The review classifies two primary source/chronology pages, 37 direct causal/structural dependencies, 11 indirect/downstream dependencies, four cultural/summary references, three incidental/poll references, and one regional-climate exception.
+- Key distinction preserved: page 637's 300m global deaths and separate 300m Chinese population without basic needs are different claims. Page 1919 remains unresolved; page 1391 is a regional-climate exception, not support for a global Flood.
+- Updated `research/README.md` and `research/continuity/MASTER-RESEARCH-REGISTER.md`. The review is a focused context-window reconciliation, not a complete semantic review of every sentence or an exhaustive search for indirect dependencies outside the exact phrase-hit set.
+- No tests, builds, RAG CLI commands, or external research were run. No accepted canon, Bronze/Silver source data, manifests, or RAG implementation files were changed. No PR, merge, or branch promotion was performed.
