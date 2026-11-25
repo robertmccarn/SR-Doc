@@ -103,7 +103,7 @@ Nine priority pages reopened for source context: 1366 Caribbean annexation, 318 
 - Regions complete: 0 of 11.
 
 Pinned archive SHA-256:
-`d1af0775d69def6ef442b66393e3ad84db6cb6b9ecf9138170573fdfe0a02c8`
+`d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`
 
 ## Important validated findings and corrections
 
