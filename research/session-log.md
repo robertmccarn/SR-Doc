@@ -624,3 +624,10 @@ Matched first 300 media records against extracted image references in all 3,579 
 
 - Re-ran `sha256sum` and Python SHA-256 over the 259,012,077-byte `SR-Doc-Audit.zip`. The verified digest is `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`.
 - Corrected a one-character transcription error in `dependency-discovery-001.md`. Earlier entries in this session log are retained as historical; the corrected digest above is authoritative for this pass.
+
+
+## 2026-11-25 — Dependency-discovery note count correction
+
+- Reconciled `research/continuity/dependency-discovery-001.md` against the committed `claim-ledger-001.csv`: the CSV contains 243 data rows (244 lines including its header), matching the executive result, the dependency-type subtotals, README, master register, and swap.
+- Corrected a single prose typo that called the ledger 245 rows. No ledger observations or source data changed; the 243-row count remains authoritative.
+- Re-fetched the branch head and the changed files during closeout. No tests, builds, or RAG CLI commands were run; no canon, Bronze, Silver, manifest, or RAG implementation files were changed.
