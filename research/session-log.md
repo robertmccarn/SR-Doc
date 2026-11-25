@@ -658,3 +658,11 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Documentation artifacts were committed in sequential file updates; latest verified pre-closeout branch HEAD was 8b291dd023e67cf9b371b6c452e71d1a6bf89045.
 - Next: continue the 262-page post-2041 survival map in bounded semantic batches, then finish the observed-baseline and Russia/Eurasia workstreams.
 
+## 2026-11-25 — Evidence wording correction to validation tranche 001
+
+- Refined three statements in research/narrative-audit/validation-tranche-001.md after checking the source text directly.
+- NASA's current page says Mars population is zero, describes work toward crewed missions as early as the 2030s, and gives an example 2039 round trip; the note no longer states as a current fact that NASA has no formal Mars program.
+- GAO-26-107974 supports the Navy CPS shipboard test delay to 2027 and a 24-month schedule delay. The note no longer asserts unverified Army LRHW or Air Force HACM milestones from the inaccessible large GAO PDF.
+- CSIS's May 2020 space-weapons report predates the claimed July 2020 test. The note now classifies the specific event as unsupported for lack of corroboration, not disproven by that earlier report.
+- No source data or canon changed; no tests or builds were run.
+
