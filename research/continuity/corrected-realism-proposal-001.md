@@ -4,7 +4,7 @@
 **Branch:** `experiment/corrected-realism`  
 **Base:** `audit/continuity-research` at `d93184ad0f78af7b96d264e2bd00d95a8bd61736`  
 **Scope:** Major-events timeline, 2024–2034, with implications for linked climate, famine, political, economic, geopolitical, and space-exploration pages.  
-**Source archive:** `SR-Doc-Audit.zip`, SHA-256 `d1af0775d69def6ef442b66393e3ad84db6cb6b9ecf9138170573fdfe0a02c8`.  
+**Source archive:** `SR-Doc-Audit.zip`, SHA-256 `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`.  
 **Canon status:** Nothing in this proposal changes captured Bronze/Silver data or accepted lore. It is an editorial proposal only.
 **Decision (2026-11-25):** The maintainer selected a realism-first retcon and directed that the setting must not depart from authentic realism before 2041. This document's proposed 2024–2034 chronology is superseded in full. Use [Realism-first continuity baseline and replacement timeline, 2024–2040](realism-first-timeline-2024-2040.md) as the current editorial authority. **Do not implement this older chronology or treat its open decisions as current.**
 **Audit:** See [corrected-realism branch audit pass 001](corrected-realism-audit-001.md) for the original source-hash verification and branch-file review.
