@@ -147,7 +147,7 @@ The pages do not form a consistent chronology:
 - Page 1431, Arya Kanzaki, revision 3110, assumes a 2027 Mars trip and a 400-day expedition from Mars to Titan in 2036–2038.
 - The 2023 settlement claim and the 2026 first-crewed-mission claim conflict unless the pages distinguish launch, arrival, settlement, and mission type.
 
-NASA's page updated 27 March 2026 lists Mars population as zero and gives an example round-trip mission in 2039. NASA has no formal human Mars program. The 2026 Mars landing, mass settlement, 2030 terraforming, and 2036–2038 Titan expedition are not compatible with the current baseline. The current realism-first timeline already prohibits a pre-2041 crewed Mars landing, permanent colony, and terraforming; these pages must be explicitly added to its dependency map.
+NASA's current public page, updated 27 March 2026, lists Mars population as zero, says the agency is advancing technologies for crewed missions as early as the 2030s, and gives an example round-trip mission in 2039. That is a planning horizon, not evidence of a 2026 landing or an operational mass-settlement program. The 2026 Mars landing, mass settlement, 2030 terraforming, and 2036–2038 Titan expedition are not compatible with the current baseline. The current realism-first timeline already prohibits a pre-2041 crewed Mars landing, permanent colony, and terraforming; these pages must be explicitly added to its dependency map.
 
 ### NA-009 — Caribbean annexation is directly tied to retired Flood premises and has internal date conflicts
 
@@ -195,9 +195,9 @@ The page also describes the July 2024 Supreme Court decision as a ruling that pr
 
 Page 1702, List of World War III weapons, revision 11938, lists a US BGM-711 Scorpion hypersonic cruise missile in service from 2021. Page 1234, Hypersonic Weapons, revision 9496, describes an AGM-25 Scorpion as the first operational hypersonic cruise missile in 2027. These entries require identification and reconciliation.
 
-GAO's 2026 assessments show that US hypersonic programs were still undergoing delayed testing and fielding. The Army's first LRHW battery was delayed into 2026; the Navy's Conventional Prompt Strike shipboard flight testing was pushed to 2027; the Air Force's HACM remained in prototype/testing stages. This makes a US operational hypersonic cruise missile in 2021 unsupported by the observed baseline. A 2027 operational date is also more aggressive than the public test schedule and needs qualification.
+GAO's 17 July 2026 assessment reports that the Navy's Conventional Prompt Strike shipboard flight testing, originally scheduled for 2025, had been pushed to 2027; the program was also 24 months behind schedule and below its production-rate goal. This public program status does not support a US hypersonic cruise missile already operational in 2021. A 2027 operational date is more aggressive than the public test schedule and needs qualification; other US hypersonic programs require separate review.
 
-Page 1234 also asserts that the US conducted a space-to-Earth orbital kinetic weapon test on 18 July 2020. CSIS's open-source assessments state that there were no open-source examples of a space-based global-strike weapon being tested. A 2026 US disclosure of weapons in orbit does not establish that the systems are kinetic or that a 2020 orbital bombardment test occurred. Treat the specific 2020 claim as unsupported, not as a verified historical event.
+Page 1234 also asserts that the US conducted a space-to-Earth orbital kinetic weapon test on 18 July 2020. CSIS's May 2020 assessment stated that there were no open-source examples of a space-based global-strike weapon being tested at that time. That report predates the page's alleged July 2020 test and therefore cannot disprove it. No independent public corroboration for the specific 18 July 2020 test was found in this tranche. Treat the claim as unsupported, not as proven impossible or as verified history.
 
 Page 1234 places a Mexican orbital-weapon deployment in 2028 in a section discussing the Mexican Vacuum Command's emergence in 2113. This is an apparent chronology inversion, likely a typo, but must remain unresolved until the authorial intent is established.
 
@@ -256,7 +256,6 @@ These are explicit link counts, not causal-dependency counts. A linked page may 
 - UNSW, early-stage cloned embryos of extinct frog, 15 March 2013: https://www.unsw.edu.au/newsroom/news/2013/03/scientists-produce-cloned-embryos-of-extinct-frog
 - NASA, Humans to Mars, page updated 27 March 2026: https://www.nasa.gov/humans-in-space/humans-to-mars/
 - GAO, Navy Ship Modernization / Conventional Prompt Strike, 17 July 2026: https://www.gao.gov/products/gao-26-107974
-- GAO, Weapon Systems Annual Assessment 2026: https://www.gao.gov/assets/gao-26-108457.pdf
 - CSIS, International Perspectives on Space Weapons, 2020: https://aerospace.csis.org/wp-content/uploads/2020/05/Harrison_IntlPerspectivesSpaceWeapons-compressed.pdf
 - CSIS, Space Threat Assessment 2025: https://www.csis.org/analysis/space-threat-assessment-2025
 - Nature Biotechnology, China approves brain chip to overcome paralysis, 17 April 2026: https://www.nature.com/articles/s41587-026-03101-8
