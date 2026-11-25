@@ -1,0 +1,78 @@
+# Master Narrative Audit
+
+**Status:** IN PROGRESS — independent audit and validation tranches are underway  
+**Repository:** robertmccarn/SR-Doc  
+**Branch:** experiment/corrected-realism  
+**Snapshot audited:** fdec89ff1221a36fa360630b0d7607b7c7d2f95d  
+**Audit date:** 2026-11-25
+
+## Purpose and authority
+
+This is the audit-specific index and status record for the realism-first narrative audit. It does not replace the repository-wide MASTER-RESEARCH-REGISTER.md or the governing documentation protocol.
+
+The audit is read-only with respect to source lore. Repository writeback is limited to research and audit documentation. Do not modify accepted canon, Bronze or Silver source data, manifests, or RAG implementation without explicit authorization.
+
+The governing editorial constraint remains: no departure from authentic real-world scientific, technological, demographic, economic, institutional, military, or geopolitical plausibility before 2041. Later divergence may be deliberate, but it must remain causally and physically coherent.
+
+Climate is one factor among many. The audit must account for political institutions, demographics, supply chains, technology, energy and minerals, finance, military competition, trade, culture and information, public health, geography, and regional agency.
+
+## Current progress snapshot
+
+| Metric | Current result | Interpretation |
+|---|---:|---|
+| Main-namespace pages | 507 | Bronze manifest inventory |
+| Non-redirect Main pages | 357 | Semantic page universe |
+| Pages with discrete 2024–2040 year mentions | 116 | Whole-year scan; 117 if redirects are included |
+| Pages with discrete 2041+ year mentions | 262 | Discovery count, not semantic classification |
+| Pages mentioning both periods | 82 | Potential continuity bridges |
+| Pages with 2024–2040 only | 34 | Pre-divergence material without an explicit later year |
+| Pages with 2041+ only | 180 | Post-divergence material needing dependency tests |
+| Pages reviewed in validation tranche 001 | 28 | 19 full reads, 9 partial reads |
+| Bronze raw hashes verified in tranche 001 | 28/28 | All matched manifest raw_sha256 |
+| Unledgered pages meeting exact-year threshold | 14 | Confirmed absent from claim-ledger-001.csv |
+| Regions fully completed | 0 of 11 | Russia/Eurasia received only a partial pass |
+
+The 262-page count is a discovery metric. It does not mean 262 pages have been semantically audited or that all 262 depend on the Flood or another retired premise.
+
+## Audit modules
+
+| Module | Status | Current artifact |
+|---|---|---|
+| Independent handoff validation | First tranche complete, partial audit | validation-tranche-001.md |
+| Bronze page provenance | 28 pages checked | page-review-001.csv |
+| Post-2041 dependency discovery | Initial link-level map complete; semantic map pending | POST-2041-LINK-DISCOVERY-001.md |
+| Narrative architecture | Pending |
+| Causal dependency register | Pending |
+| Regional audits | Russia/Eurasia partial; all other regions pending |
+| Chronology and contradictions | Initial findings in validation-tranche-001.md; consolidated register pending |
+| Technology and institutions | Initial findings in validation-tranche-001.md; full module pending |
+| Narrative quality assessment | Pending |
+| Retcon and reconstruction register | Pending; no new retcon approved |
+
+## Priority findings from the first validation tranche
+
+1. The post-2041 dependency problem is real and large: 262 non-redirect Main pages contain at least one discrete year from 2041 onward. A page-by-page survival map is required before any pre-2041 premise is removed.
+2. Fourteen pages with at least three discrete year mentions from 2024–2040 are absent from the current claim ledger. A further five pages were discovered through recursive dependency review, even though they do not meet that exact-year threshold.
+3. Several observed-baseline claims require correction or disposition, including the 2024 Mexican presidential succession, the claimed 2024 gastric-brooding frog de-extinction, the Little Cold War article's NATO withdrawal statement, and the Trump-Russia scandal article's claim that the Mueller investigation established a conspiracy.
+4. The Russia 2029 chronology is under-specified, but Claude's claim that three incompatible accounts have been established is too strong. The dates may describe successive events: Union State collapse, successor-state formation, formal Russian Federation dissolution, and later nuclear-security operations.
+5. The Mars settlement and terraforming cluster, Caribbean annexation chain, Korean reunification chain, US party-system chronology, orbital command stations, hypersonic weapons, and tactile-neural interface all need cross-page reconciliation against the 2041 rule.
+
+## Current tranche artifacts
+
+- [Validation tranche 001](validation-tranche-001.md)
+- [Post-2041 link discovery 001](POST-2041-LINK-DISCOVERY-001.md)
+- [Page review and provenance CSV](page-review-001.csv)
+
+## Next audit work
+
+1. Continue the post-2041 survival map in bounded batches. For each page, distinguish independent future development, latent dependency, direct dependency, and unresolved relationship. Do not treat a wiki link as proof of causality.
+2. Continue the observed-baseline sweep, prioritizing pages 97, 961, 1317, 1445, 318, 1234, and 1366.
+3. Complete the Russia/Eurasia sequence across pages 97, 1683, 1729, 1438, 1998, and related pages, including the Turkey/Arabia and Treaty of Odessa chains.
+4. Reconcile the US party-system and election chronology across pages 2136, 1262, 1266, 1796, and related political-party pages.
+5. Then continue the Great Famine / Market Crash / Revolutions / Great Reset cluster.
+
+## Completion standard
+
+A page is complete only after its substantive narrative content has been examined, relevant claims have been extracted, dependencies have been tested, and contradictions have been recorded. Search hits, link edges, year counts, and hash verification are discovery or provenance work—not semantic completion.
+
+Every tranche must report its exact scope, reviewed pages, partial reads, external checks, unresolved questions, and next bounded work unit.
