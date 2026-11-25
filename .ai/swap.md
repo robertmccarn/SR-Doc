@@ -62,7 +62,7 @@ Generated local index ZIP is `SR-Doc-RAG-Index-002.zip`; it is a build artifact,
 2. Close the retrieval reproducibility gap: verify and execute the exact committed `build_index.py`, `build_alias_index.py`, and `search.py` Git blobs against the pinned archive, then regenerate the 20 evidence packets. The answer-generation pass 001 note contains manual source-grounded answers from the benchmark's retrieved page IDs plus full-page expansion; it is not a CLI-generated answer test or independent score. The retrieval benchmark remains exploratory because its local scripts were source-equivalent reconstructions, not byte-identical Git blobs.
 3. Improve first-stage passage selection: Q09/Q10/Q15 missed page-1408 infobox/phase locators, and Q16 missed the FRoC history stub and Association establishment field until full-page expansion. Q09's page-1413 date-value locator was normalized to chars 114–125 in the evaluation set; see correction 003.
 4. Keep the two reviewed repeated-parameter groups (page 636 `office`; page 1343 `order`) unresolved. No event-scope annotation is supported by the captured Wikitext.
-6. Continue the broader parser-coverage review and preserve the Chinese political-history Talk/Thread context and succession claim matrix.
+5. Continue the broader parser-coverage review and preserve the Chinese political-history Talk/Thread context and succession claim matrix.
 
 ## 5. Open questions / blockers
 
