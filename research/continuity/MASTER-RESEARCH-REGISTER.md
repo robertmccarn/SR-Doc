@@ -307,3 +307,20 @@ The earlier Chinese political-history workstream remains important but is deferr
 - Cross-checked the critical chronology/infobox claims used by the benchmark, including the distinct Second Chinese Civil War `date` and `combatant1` fields, Third Chinese Civil War phase labels, the UFC/FRoC 2108 transition, repeated 20th-century history fields, Joseph Loveridge's Chairman-role values, and the Association's 2140 establishment date.
 - Confirmed the referenced historical orthographic-projection SVG is not in the captured 900-record asset manifest; confirmed the exact-title absence cases for `UFC` and `Association of East Asia`, with the hyphenated page 1927 retained as a near-match only.
 - At the time of this source-verification pass, the work was a targeted archive cross-check, not a fresh full-corpus validation, maintainer sign-off, exhaustive locator audit, committed CLI/test execution, or scored benchmark. Later milestones supersede the approval/scoring status: the maintainer approved the baseline and retrieval pass 001 is recorded in `research/rag/retrieval-benchmark-pass-001.json`. This remains an exploratory retrieval reproduction; answer-generation/citation scoring is still outstanding.
+
+
+## Narrative audit — validation tranche 002
+
+**Current status:** The first 14-page exact-year gap was a threshold subset, not the full ledger gap. The repeatable standalone-year scan now identifies **43 non-redirect Main pages** with at least one discrete 2024–2040 year that are absent from `claim-ledger-001.csv`. The complete provenance/disposition inventory is `research/narrative-audit/claim-ledger-gap-002.csv`; the independent source and baseline review is `research/narrative-audit/validation-tranche-002.md`.
+
+- Method: raw Bronze Wikitext scan with standalone four-digit year tokens 2024–2040; decade labels such as 2030s are excluded.
+- Coverage: 116 pages contain at least one such year; 73 are represented in claim-ledger-001; 43 are not. The gap contains 17 one-mention pages, 12 two-mention pages, and 14 pages with three or more mentions. The prior 14-page count is the last category, not the complete gap.
+- Provenance: 43/43 gap-page raw SHA-256 values match the pinned Bronze manifest. The additional 29 pages received targeted year-context review, not full semantic review.
+- Independent corrections: Claude's direct US presidential chronology contradiction is confirmed; the 2025–2026 observed baseline shows US-origin NATO stress rather than Western European withdrawals; the frog project's "put on ice" status is supported by 2025 reporting; the GAO Navy CPS citation is not HACM evidence, and the first HACM flight-test release occurred in October 2026.
+- New dependencies: pages 1405/1426 (crewed Jupiter/Saturn), 1685/2127 (space elevators), 1715/3484 (Korean reunification), 1739/1431/2127/3662 (Mars settlement/mission), 3099 (ISS LEO-to-GEO transfer), 3494 (Serbia/Bosnia), and 3651 (Hong Kong independence) require explicit disposition.
+- Page 1998 Central Eurasian Union was read; no direct dependency on the 2029 Russian dissolution is stated. Do not infer one from the name.
+- The 2041+ page universe remains 262 discovery candidates; zero pages have been formally classified in the full page-level survival map. No regions are complete.
+
+The tranche also records a bounded 2025–2026 observed-baseline update: NATO remains at 32 members; Iran-war disagreements, US force-posture reductions, and the Greenland dispute are real alliance stresses; the November Greenland agreement preserves Danish sovereignty while expanding US military access. The full sources, qualifications, and limitations are in validation-tranche-002.md.
+
+No canon, Bronze/Silver source data, manifests, or RAG implementation changed. No tests, builds, RAG CLI runs, PRs, merges, or branch promotion occurred.
