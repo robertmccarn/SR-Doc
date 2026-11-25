@@ -29,7 +29,7 @@ Climate is one factor among many. The audit must account for political instituti
 | Pages with 2041+ only | 180 | Post-divergence material needing dependency tests |
 | Pages reviewed in validation tranche 001 | 28 | 19 full reads, 9 partial reads |
 | Bronze raw hashes verified in tranche 001 | 28/28 | All matched manifest raw_sha256 |
-| Unledgered pages meeting exact-year threshold | 14 | Confirmed absent from claim-ledger-001.csv |
+| Unledgered pages with at least one standalone 2024–2040 year | 43 | Complete gap scan; 14 are the prior three-mention subset |
 | Regions fully completed | 0 of 11 | Russia/Eurasia received only a partial pass |
 
 The 262-page count is a discovery metric. It does not mean 262 pages have been semantically audited or that all 262 depend on the Flood or another retired premise.
@@ -38,8 +38,8 @@ The 262-page count is a discovery metric. It does not mean 262 pages have been s
 
 | Module | Status | Current artifact |
 |---|---|---|
-| Independent handoff validation | First tranche complete, partial audit | validation-tranche-001.md |
-| Bronze page provenance | 28 pages checked | page-review-001.csv |
+| Independent handoff validation | Tranches 001 and 002 complete; full audit pending | validation-tranche-001.md; validation-tranche-002.md |
+| Bronze page provenance | 28 tranche-001 pages plus 43 gap-page hashes | page-review-001.csv; claim-ledger-gap-002.csv |
 | Post-2041 dependency discovery | Initial link-level map complete; semantic map pending | POST-2041-LINK-DISCOVERY-001.md |
 | Narrative architecture | Pending |
 | Causal dependency register | Pending |
@@ -52,7 +52,7 @@ The 262-page count is a discovery metric. It does not mean 262 pages have been s
 ## Priority findings from the first validation tranche
 
 1. The post-2041 dependency problem is real and large: 262 non-redirect Main pages contain at least one discrete year from 2041 onward. A page-by-page survival map is required before any pre-2041 premise is removed.
-2. Fourteen pages with at least three discrete year mentions from 2024–2040 are absent from the current claim ledger. A further five pages were discovered through recursive dependency review, even though they do not meet that exact-year threshold.
+2. The complete standalone-year gap is 43 pages missing from claim-ledger-001.csv (17 with one mention, 12 with two, 14 with three or more). The earlier 14-page figure was only the three-or-more subset. All 43 raw hashes match the Bronze manifest; the 29 additional pages received targeted date-context review.
 3. Several observed-baseline claims require correction or disposition, including the 2024 Mexican presidential succession, the claimed 2024 gastric-brooding frog de-extinction, the Little Cold War article's NATO withdrawal statement, and the Trump-Russia scandal article's claim that the Mueller investigation established a conspiracy.
 4. The Russia 2029 chronology is under-specified, but Claude's claim that three incompatible accounts have been established is too strong. The dates may describe successive events: Union State collapse, successor-state formation, formal Russian Federation dissolution, and later nuclear-security operations.
 5. The Mars settlement and terraforming cluster, Caribbean annexation chain, Korean reunification chain, US party-system chronology, orbital command stations, hypersonic weapons, and tactile-neural interface all need cross-page reconciliation against the 2041 rule.
@@ -62,6 +62,8 @@ The 262-page count is a discovery metric. It does not mean 262 pages have been s
 - [Validation tranche 001](validation-tranche-001.md)
 - [Post-2041 link discovery 001](POST-2041-LINK-DISCOVERY-001.md)
 - [Page review and provenance CSV](page-review-001.csv)
+- [Validation tranche 002](validation-tranche-002.md)
+- [Claim-ledger gap 002 CSV](claim-ledger-gap-002.csv)
 
 ## Next audit work
 
@@ -76,3 +78,18 @@ The 262-page count is a discovery metric. It does not mean 262 pages have been s
 A page is complete only after its substantive narrative content has been examined, relevant claims have been extracted, dependencies have been tested, and contradictions have been recorded. Search hits, link edges, year counts, and hash verification are discovery or provenance work—not semantic completion.
 
 Every tranche must report its exact scope, reviewed pages, partial reads, external checks, unresolved questions, and next bounded work unit.
+
+
+## Validation tranche 002 — current reconciled status
+
+- The 43-page standalone 2024–2040 claim-ledger gap is confirmed. The 14 pages identified in tranche 001 are the three-or-more-mention subset; 29 additional pages were found at the one-or-more threshold.
+- All 43 gap-page source hashes match the pinned Bronze manifest. The 29 additional pages received targeted date-context review, not full semantic review.
+- Claude's NA-010 direct presidential chronology contradiction is confirmed and expanded by page 1136's internal 2029/2052 Liberal Party founding conflict and page 1797's Garcia-incumbency conflict.
+- The observed 2025–2026 baseline shows US-origin NATO stress (Iran-war disagreements, force-posture reductions, and Greenland pressure), while NATO membership remains at 32. The page-97 Western European withdrawal mechanism is wrong.
+- The prior tranche's statement that Project Lazarus was "put on ice" is supported by ABC's 2025 account; this means paused after failure, not necessarily permanently abandoned.
+- The relevant GAO evidence for Raytheon's HACM is GAO-26-108457, not the Navy CPS program. HACM's first flight-test release occurred in October 2026; FY2027 fielding remains a risky program target.
+- Page 1998 does not establish direct Russian-dissolution succession. Page 1729's 2034 Treaty of Odessa does depend on former Russian Federation territory and conflicts with the no-dissolution-through-2040 constraint.
+- Outer-planet crewed missions, space elevators, Mars settlements, Korean reunification, ISS transfer to GEO, Serbia/Bosnia territorial change, and Hong Kong independence have been added to the targeted review queue.
+- Full evidence and external references: `research/narrative-audit/validation-tranche-002.md`. Complete page-level provenance/dispositions: `research/narrative-audit/claim-ledger-gap-002.csv`.
+
+No source lore, canon, Bronze/Silver data, manifests, or RAG implementation changed. No tests, builds, RAG CLI runs, PRs, merges, or branch promotion occurred.
