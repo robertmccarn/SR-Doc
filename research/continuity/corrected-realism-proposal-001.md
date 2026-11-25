@@ -19,7 +19,7 @@ The existing 2024–2034 timeline is not simply pessimistic; several of its phys
 4. Recast White Tide as an escalating domestic insurgency and constitutional crisis, with sporadic organized violence, local militia enclaves, sabotage, attempted seizures, and federal/state confrontation. Do not begin with multiple state governments successfully seceding and fighting a conventional multi-state civil war unless the preceding institutional breakdown is developed.
 5. Slow Chinese and Russian fragmentation. Show elite splits, fiscal stress, provincial bargaining, military loyalty problems, and regional autonomy before any state collapse or sustained civil war. A nuclear-armed Russia is not plausibly occupied by NATO/UN forces in a straightforward weapons-seizure campaign.
 6. Reframe Turkey's rise as expanding regional leverage, security partnerships, basing, trade, energy transit, and interventions rather than a rapid occupation of Arabia and a single Arctic-to-Bosporus oil pipeline.
-7. Move the first crewed Mars landing later, or explicitly retain it as a major alternate-technology premise. The captured Mars sources already conflict: the 2023 Mars Corporation account says a crewed expedition landed at Meridian Base, while the 2026 major-events timeline calls its mission the first crewed Mars mission. A corrected-realism version should not preserve both claims.
+7. Move the first crewed Mars landing later, or explicitly retain it as a major alternate-technology premise. The captured Mars sources conflict directly: Mars Corporation page 638 (revision 10394) says three ships carrying 100 people landed at Meridian Base on April 26, 2023; the 2026 major-events timeline calls the 2026 mission Mars Corporation's first manned mission. The colonization page also places aggressive terraforming preparation in 2029, asteroid deorbiting in 2030, and solar mirrors in 2033. A realism-first retcon must revise this entire early-Mars sequence, not merely move one landing date.
 8. Recast American Renewal as a contested, multi-year package of resilience spending, housing acquisition/buyouts, infrastructure, healthcare, and retirement reform—not the rapid seizure and replacement of millions of suburban homes or the immediate abolition of private retirement arrangements.
 
 The desired result is still a turbulent and frightening decade. It becomes more convincing by making catastrophe cumulative, politically mediated, unevenly distributed, and difficult to govern.
@@ -40,10 +40,13 @@ This proposal compares claims in the captured main-namespace source records with
 | White Tide (page 3593) | 11507 | `bronze/pages/3593/11507.wikitext` | Insurrection, separatist forces, civil-war framing and aftermath |
 | Alexandria Ocasio-Cortez (page 3592) | 11998 | `bronze/pages/3592/11998.wikitext` | Presidency, American Renewal, 2032 political realignment |
 | Great Reset (page 1670) | 11160 | `bronze/pages/1670/11160.wikitext` | Background political/economic transformation |
-| American colonization of Mars (page 1139) | 11951 | `bronze/pages/1139/11951.wikitext` | Mars program architecture and 2020s crewed mission development |
+| American colonization of Mars (page 1139) | 11951 | `bronze/pages/1139/11951.wikitext` | Early colony context, 2029 terraforming program, 2030 asteroid deorbiting, and 2033 solar mirrors |
+| Second Chinese Civil War (page 1413) | 11017 | `bronze/pages/1413/11017.wikitext` | 2027–2048 infobox date, coastal displacement, drought, and Three Gorges Dam failure as the conflict's described trigger |
 | Mars Corporation (page 638) | 10394 | `bronze/pages/638/10394.wikitext` | Meridian Base landing in April 2023 and early settlement claims |
-| Turkey (page 1423) | 8788 | `bronze/pages/1423/8788.wikitext` | Turkey's political and geopolitical context |
-| Russia (page 1683) | 11554 | `bronze/pages/1683/11554.wikitext` | Russian state and geopolitical context |
+| Turkey (page 1423) | 8788 | `bronze/pages/1423/8788.wikitext` | Turkey's 2010s expansion of influence in Syria, Iraq, and the Levant; later Arabia/Arctic pipeline claims are timeline-only |
+| Russian Republic (page 1683) | 11554 | `bronze/pages/1683/11554.wikitext` | Successor-state account: Russian Republic dated 2029–2139 in infobox but 2029–2138 in prose |
+
+The supplied 3,579-record page manifest contains no dedicated main-namespace article titled **Rise of Turkey** or **Dissolution of the Russian Federation**. The latter appears as a timeline event; the Russia article is about the later Russian Republic. The proposal treats those event descriptions as timeline claims, not as fully corroborated dedicated histories.
 
 The source pages are not all equally developed. Some timeline entries are much more detailed than their linked articles, and some pages are marked as works in progress. This proposal therefore identifies editorial directions rather than claiming that every underlying event has a fully audited causal chain.
 
@@ -51,19 +54,19 @@ The source pages are not all equally developed. Some timeline entries are much m
 
 These references are calibration points, not deterministic forecasts:
 
-- **IPCC AR6, Working Group I, Summary for Policymakers:** likely global mean sea-level rise by 2100 is approximately 0.28–0.55 m under a very-low-emissions scenario and 0.63–1.01 m under a very-high-emissions scenario, relative to 1995–2014. The IPCC notes deep uncertainty and low-likelihood, high-impact outcomes approaching 2 m by 2100 and 5 m by 2150; it also emphasizes that sea level continues rising over centuries to millennia. Complete Greenland ice-sheet loss is a multi-century-to-millennial process, not a 2026 event.  
+- **IPCC AR6, Working Group I, Summary for Policymakers:** likely global mean sea-level rise by 2100 is approximately 0.28–0.55 m under a very-low-emissions scenario and 0.63–1.01 m under a very-high-emissions scenario, relative to 1995–2014. The IPCC notes deep uncertainty and low-likelihood, high-impact outcomes approaching 2 m by 2100 and 5 m by 2150; it also emphasizes that sea level continues rising over centuries to millennia. Complete loss of the Greenland Ice Sheet is a multi-century-to-millennial process, not a 2026 event. IPCC AR6 notes that the full Greenland contribution is about 7 m and that complete loss would take a millennium or more under sustained warming in the assessed range; this does not establish the mass or behavior of the fictional 'South Greenland Ice Sheet' as a distinct sector.  
   https://www.ipcc.ch/report/ar6/wg1/chapter/summary-for-policymakers/  
   https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-9/
-- **World Bank, Groundswell (2021):** under its modeled scenario, climate change could force up to 216 million people to migrate *within their own countries* across six regions by 2050; hotspots could emerge as early as 2030. This is already an enormous humanitarian and political challenge, but it is not an estimate of 2.4 billion people displaced by a single event.  
+- **World Bank, Groundswell (2021):** under its modeled scenario, climate change could force up to 216 million people to migrate *within their own countries* across six regions by 2050; hotspots could emerge as early as 2030. This is a scenario estimate for internal climate migration, not a cap or direct comparator for all displacement categories, and it does not validate the source's 2.4-billion initial-Flood displacement claim.  
   https://www.worldbank.org/en/news/press-release/2021/09/13/climate-change-could-force-216-million-people-to-migrate-within-their-own-countries-by-2050
-- **FAO / Global Report on Food Crises 2025:** current food crises show how conflict, economic shocks, climate extremes, structural fragility, displacement, funding, and humanitarian access interact. This supports a compound and regionally uneven famine narrative rather than a single physical cause producing uniform global famine.  
-  https://www.fao.org/family-farming/detail/en/c/1749065/  
-  https://www.fao.org/emergencies/appeals/global-appeal/en
-- **NASA, Humans to Mars and Moon-to-Mars architecture:** NASA describes human Mars exploration as a future objective requiring development of life support, food, power, radiation protection, communications, shelter, mission abort strategies, and long-duration operations. Its 2024 architecture update describes lunar exploration as preparation for future crewed Mars missions.  
-  https://www.nasa.gov/humans-in-space/humans-to-mars/  
+- **Global Report on Food Crises 2025 / FAO:** the report describes interlinked, mutually reinforcing drivers, including conflict, weather extremes, and economic shocks, and emphasizes structural vulnerability and humanitarian access. This is a strong model for a compound, uneven food crisis rather than a single physical cause producing uniform global famine.  
+  https://www.fsinplatform.org/sites/default/files/resources/files/GRFC2025-September%20Update-FullReport.pdf  
+  https://www.fao.org/director-general/speeches/details/launch-of-the-2025-global-report-on-food-crises--statement/
+- **NASA, Moon-to-Mars architecture and Mars engineering:** NASA's 2024 architecture update describes lunar exploration as preparation for future crewed Mars missions. Its Mars entry, descent, and landing white paper details unresolved engineering work; NASA's architecture papers also identify mission-abort, surface-power, round-trip mass, and human-health challenges. These are planning documents, not proof that a Mars mission cannot happen earlier under fictional technology.  
   https://www.nasa.gov/news-release/nasa-outlines-latest-moon-to-mars-plans-in-2024-architecture-update/  
+  https://www.nasa.gov/wp-content/uploads/2024/12/acr24-mars-edl-challenges.pdf  
   https://www.nasa.gov/architecture-white-papers/
-- **Congressional Budget Office, The Demographic Outlook: 2026 to 2056 (January 2026):** projects the U.S. population at about 357 million in 2035 under its baseline, with aging and slower population growth. This is not a ceiling in an alternate history, but a rise to 400 million by 2035 would require a conspicuous and sustained migration/fertility divergence that the story should explain.  
+- **Congressional Budget Office, The Demographic Outlook: 2026 to 2056 (January 2026):** projects the *Social Security area population* at 357 million in 2035 under its baseline. That measure should not be casually equated with every Census Bureau resident-population series. It is not a ceiling in an alternate history, but a rise to 400 million by 2035 would require a conspicuous and sustained migration/fertility divergence that the story should explain.  
   https://www.cbo.gov/publication/61994
 - **CSIS, “Is the United States Headed Toward a Civil War?” (September 16, 2025):** argues that the near-term risk of an actual U.S. civil war was negligible in 2025, while sporadic political violence was a more credible risk. This is one expert assessment, not a guarantee; it does support distinguishing insurgency/terrorism from a conventional civil war.  
   https://www.csis.org/analysis/united-states-headed-toward-civil-war
@@ -95,7 +98,7 @@ This is the recommended narrative spine. Dates are proposed editorial placements
 
 - Keep **The Flood** as the name of a defining historical period, but stop treating it as a single Greenland ice-sheet collapse that raises global sea level seven meters in a few days.
 - A sequence of unusually destructive storm surges, river floods, coastal erosion, land subsidence, saltwater intrusion, and infrastructure failures devastates selected low-lying coastal regions.
-- A major Greenland glacier or ice-shelf calving event can produce dramatic regional waves and draw global attention to ice-sheet instability. It does not add meters to global mean sea level.
+- A major Greenland glacier or ice-shelf calving event can produce severe local or regional hazards and draw global attention to ice-sheet instability. It does not by itself add meters to global mean sea level. The Flood article says meltwater 'slowly' raised sea levels toward seven meters; the major-events timeline compresses the description into a 2026 event. The editorial problem is the implied rate and global magnitude, not a claim that the article literally says the entire rise happened in a single day.
 - Governments evacuate exposed neighborhoods and ports, impose temporary building moratoria, and begin managed retreat. The most damaging effects are concentrated in vulnerable deltas, subsiding cities, and places with inadequate protective infrastructure.
 - North Atlantic fisheries experience severe regional losses from warming, marine heatwaves, ecosystem change, pollution, and disrupted ports. Avoid describing freshwater melt as instant basin-wide desalination.
 - Displacement grows through repeated evacuations and livelihood loss. Use cumulative regional totals over years; distinguish internally displaced people, cross-border refugees, people temporarily evacuated, and people whose homes are permanently uninhabitable.
@@ -104,6 +107,8 @@ This is the recommended narrative spine. Dates are proposed editorial placements
 
 ### 2027 — The Great Famine and Market Crash
 
+- The source article itself distinguishes three episodes later grouped under the Great Famine: the Famine of 2024, the Great Famine of 2027, and the American Famine of 2029–2031. Preserve that useful structure. The timeline page gives the overall famine period as 2024–2032, while the dedicated Great Famine page gives 2024–2033; this one-year discrepancy needs an editorial decision.
+- The 2024 episode is attributed by the source to the disruption of Russian and Ukrainian grain/fertilizer exports and is assigned 40 million deaths. Treat that as a separate in-universe claim requiring demographic accounting, not as an automatic consequence of the later Flood.
 - The Great Famine reaches its most severe phase as the 2024–2026 regional crises overlap with crop failures, export controls, shipping disruption, conflict, high fertilizer prices, and the loss of some productive coastal land.
 - Rice-dependent countries face acute stress, but the specific claim that global rice output is halved should be replaced with a more localized set of harvest failures and trade interruptions unless the story supplies a credible global production mechanism.
 - The UN and major agricultural states accelerate drought-resistant crops, crop insurance, seed distribution, fertilizer substitution, food reserves, and controlled research into alternative proteins. These interventions mitigate but do not quickly eliminate hunger.
@@ -138,7 +143,7 @@ This is the recommended narrative spine. Dates are proposed editorial placements
 
 - China experiences escalating economic and political instability: property and local-government debt, unemployment, food-price grievances, center–province disputes, leadership factionalism, and public anger over emergency measures.
 - Some provinces demand greater fiscal and administrative autonomy. There are strikes, protests, elite purges, and localized violence. The central government remains intact at this stage.
-- A Chinese civil war should be delayed until a clearly described rupture: a split in the senior leadership, competing military commands, a failed succession, or a breakdown of central authority. If the story wants a 2027–2034 war, it needs to establish these mechanisms earlier and show how the People's Liberation Army fragments.
+- The captured Second Chinese Civil War page (1413/revision 11017) already dates the war 2027–2048 and describes coastal displacement, drought, and the Three Gorges Dam failure as the immediate trigger. Moving its onset beyond 2034 would be a major retcon. For a continuity-preserving realism edit, retain a 2027 onset but make the initial conflict geographically limited and politically/operationally intelligible, then show escalation and changing fronts over time. If realism-first retiming is preferred, explicitly revise the 2027–2048 infobox and the 2024–2032 timeline entry together.
 - Russia faces war exhaustion, sanctions, demographic and fiscal pressures, elite succession uncertainty, and regional resentment. Federal subjects bargain for greater autonomy; some local security forces and officials become unreliable.
 - Nuclear security becomes a major international concern. The credible first response is diplomacy, arms-control talks, technical monitoring, and contingency planning—not an uncomplicated NATO/UN ground invasion to seize nuclear weapons from a disintegrating state.
 
@@ -187,10 +192,10 @@ This is the recommended narrative spine. Dates are proposed editorial placements
 
 | Existing element | Recommended edit | Why |
 |---|---|---|
-| 2026 Greenland ice sheet falls into Atlantic; sea level rises 7 m | Replace with major calving/ice-shelf event plus severe regional storm-surge disasters; global sea-level rise remains gradual | Ice-sheet mass loss and sea-level response occur over long timescales; the Greenland ice sheet's full contribution is about 7 m but not on a days-to-years schedule |
-| 2.4 billion people displaced immediately | Use tens of millions displaced over successive years and regions; reserve billions for cumulative exposure/affected population or a much longer horizon | Distinguish internal displacement, cross-border migration, evacuation, exposure, and permanent relocation |
+| 2026 South Greenland ice-sheet sector slips into Atlantic; sea level rises toward 7 m | Replace with a major regional ice/ocean disaster plus severe coastal flooding; global mean sea level remains gradual | IPCC AR6 assesses full Greenland Ice Sheet loss on multi-century-to-millennial timescales; the source does not quantify the mass of its distinct 'South Greenland' sector |
+| 2.4 billion people displaced by the initial Flood | Treat the figure as a source claim requiring a defined category and period; do not call it 'immediate' because the source does not use that word. Build separate totals for temporary evacuation, internal displacement, cross-border refugees, and permanent relocation | World Bank Groundswell measures modeled internal climate migration, not all displacement; the two figures are not directly comparable |
 | Great Famine directly caused by ocean desalination | Make it a compound food-system crisis: conflict, fertilizer/fuel prices, export controls, climate extremes, shipping, crop disease, and unequal access | Better matches observed drivers of food crises |
-| 40 million deaths in 2024 | Remove or greatly qualify unless the story supplies a specific global mortality mechanism and reliable in-universe accounting | A single-year global toll at that scale needs exceptional substantiation |
+| 40 million deaths in the 2024 famine and 100–500 million across the Great Famine period | Preserve these as separate source claims pending an in-universe demographic reconciliation; explain causes, geography, excess mortality, overlap, and counting period before revising totals | The dedicated article gives both figures and identifies three famine episodes; the number is not independently validated by the captured source |
 | Global rice production cut in half | Replace with severe regional rice losses and trade shocks, or explain a truly global multi-basin crop failure | A single North Atlantic coastal disaster does not explain worldwide rice collapse |
 | Baby Boomer retirement causes universal full employment and crash | Keep aging and sectoral labor scarcity; add migration, automation, later retirement, productivity, and uneven labor demand | Demographic aging is real but does not mechanically produce universal labor shortage or financial collapse |
 | Market Crash of 2027 caused by labor shortage and housing collapse | Compound credit/insurance/property/sovereign debt/food-energy inflation crisis, with a specific trigger | Gives the crash multiple plausible transmission channels |
@@ -204,7 +209,7 @@ This is the recommended narrative spine. Dates are proposed editorial placements
 | Government seizes millions of suburban houses | Voluntary buyouts, targeted eminent domain, public housing, reconstruction grants, and redevelopment | More plausible legally, administratively, and politically |
 | Private retirement programs completely replaced by Social Security | Gradual pension, tax, and Social Security reforms over multiple legislative cycles | Retirement systems are deeply embedded in law, finance, and household wealth |
 | Digital currency introduced to control inflation | Payment-system modernization, programmable public benefits, settlement efficiency, and financial oversight; monetary policy still controls inflation | Digitization alone does not reduce inflation |
-| First crewed Mars mission in 2026 | Move first crewed landing later, or define 2026 as a later expedition/expansion if the 2023 Mars landing remains canon | NASA's current Mars planning is preparatory and identifies major unresolved engineering and human-health challenges |
+| First crewed Mars mission in 2026, after a 2023 landing of 100 people | Decide whether to retcon the 2023 landing and all downstream early-colony/terraforming milestones, or retain the early Mars program as an explicit technological divergence | MarsCorp page 638 says three ships carrying 100 people landed in 2023; page 1139 places aggressive terraforming in 2029, asteroid deorbiting in 2030, and solar mirrors in 2033 |
 | Galileo II launches to mine Jupiter in 2030 | Found company and launch robotic precursor missions; reach Jupiter later, with resource exploitation much later | Outer-planet logistics, energy, communications, and return economics are far beyond a 2030 commercial operation |
 
 ## 6. Critical continuity decisions
@@ -217,31 +222,31 @@ Page 88 currently says the South Greenland Ice Sheet falls into the Atlantic in 
 
 **Recommendation:** preserve the name and political significance of The Flood, but make it a long-running compound coastal disaster beginning in the mid-2020s. Reserve multi-meter global sea-level rise for much later centuries, unless the setting explicitly introduces a non-natural mechanism.
 
-### B. The Great Famine's death toll and causal structure
+### B. The Great Famine's dates, phases, and mortality accounting
 
-Page 2027 gives a 2024–2033 period, estimates deaths from 100 million to half a billion, and separately describes a 40-million-death famine in 2024. Its own explanation includes Black Sea trade disruption, fertilizer and grain exports, regional rice dependency, and the later Flood.
+The timeline page 88 dates the famine 2024–2032; dedicated page 2027 gives 2024–2033. The dedicated article explicitly says historians once treated it as three separate events: the Famine of 2024, the Great Famine of 2027, and the American Famine of 2029–2031. It assigns 40 million deaths to the 2024 episode and gives an aggregate range of 100 million to 500 million for the broader period. It also attributes the 2024 episode to the disruption of Russian and Ukrainian grain/fertilizer exports, while later phases involve the Flood, ports, arable land, fishing, rice dependency, and the American livestock-feed system.
 
-**Recommendation:** distinguish the 2024 famine, 2027 global food-price and supply shock, and 2029–2031 regional American food crisis as separate phases that later historians group under the Great Famine. This structure already exists in the article and should be foregrounded. Reduce or qualify the aggregate death toll unless supported by a clearer in-universe demographic accounting.
+**Recommendation:** retain the three-phase structure; reconcile 2032 versus 2033; and publish a transparent mortality model that distinguishes deaths by episode, geography, cause, direct starvation, disease, displacement, and overlap. Do not silently add the 40-million figure to the aggregate range or assume it is excluded.
 
-### C. Mars chronology
+### C. Mars chronology and the wider terraforming program
 
-Page 638 (Mars Corporation, revision 10394) says MarsCorp landed at Meridian Base on April 26, 2023, and page 1139 (American colonization of Mars, revision 11951) describes the early 2020s human Mars architecture. Page 88 (revision 11722) then calls 2026 the first manned mission.
+MarsCorp page 638 (revision 10394) says three ships carrying 100 people departed in March 2023 and landed at Meridian Base on April 26, 2023; it also names a 2025 New Richmond colony. Timeline page 88 calls the 2026 mission the first manned mission. American colonization of Mars page 1139 (revision 11951) then describes aggressive terraforming planning in 2029, asteroid deorbiting in 2030, genetically modified terraforming agents, and seven large Mars solar mirrors deployed in 2033. These are multiple linked technological divergences, not one isolated date error.
 
-**Recommendation:** choose one of two editorial directions:
-- **Realism-first retcon (recommended):** convert the 2023 landing into an uncrewed precursor or cancel the date; place the first crewed Mars landing in the late 2030s or later.
-- **Lore-preserving exception:** retain a 2023/2026 human Mars presence but explicitly identify it as the setting's major technological divergence from real-world aerospace capability. This is not a realism correction.
+**Recommendation:** choose one coherent path:
+- **Realism-first retcon:** move the first crewed landing to a later decade, and also move or substantially redesign the 2025 colony, 2029 magnetoshield/terraforming program, 2030 asteroid deorbiting, 2033 mirrors, and biosphere engineering. The first landing alone cannot be changed without rewriting the downstream program.
+- **Lore-preserving exception:** retain the 2023 human expedition and later terraforming milestones, but explicitly treat the propulsion, launch cadence, autonomous construction, planetary engineering, and life-support capabilities as the setting's major technology divergence. The 2026 'first manned mission' line must then be changed to a later expedition or expansion, not another first landing.
 
-### D. White Tide's war classification
+### D. White Tide's scale, chronology, and classification
 
-Page 3593 describes a multi-party conflict and gives 2028–2035 dates in its infobox, while the major-events timeline gives 2028–2031. The article describes a Battle of Salmon in 2033 as a commonly accepted endpoint of the principal fighting, with federal raids continuing afterward.
+Page 3593 is explicitly marked WIP. Its infobox dates the conflict 2028–2035, lists federal and foreign allies against multiple pretender states, and gives force strengths of 8.9 million and 8.1 million plus 8.55 million and 4.45 million casualties. Its prose calls the conflict the Second American Civil War, says it began with the Columbus Insurrection in late 2028, and treats the Battle of Salmon in 2033 as the usual endpoint of hostilities; the aftermath nevertheless describes federal occupation of much of the Midwest through the 2030s. Timeline page 88 dates White Tide 2028–2031. The AOC article (page 3592) separately claims nearly 90 million Americans displaced by January 2029 and 39 states facing terrorism/armed insurrection by November 30, 2029.
 
-**Recommendation:** align the main timeline with 2028–2035 as the broader insurgency/security campaign, and describe 2033 as the end of the principal organized armed phase. Avoid calling it a conventional civil war unless the story establishes sustained organized warfare and a meaningful split in state authority.
+**Recommendation:** first decide whether White Tide is a short insurgency, a multi-sided civil war, or a longer security campaign with a principal combat phase ending in 2033. Reconcile the 2028–2031 timeline, 2028–2035 infobox, and 2033 narrative endpoint. Treat the multi-million force/casualty figures and 90-million displacement claim as high-priority quantitative claims requiring explicit definitions, geographic/temporal scope, and a population/mobilization model. If realism-first reduces the conflict to an insurgency, that is a substantive canon retcon, not merely a wording adjustment.
 
-### E. Russian Federation dissolution
+### E. Russian Federation dissolution and successor-state chronology
 
-Page 88 describes NATO and UN forces entering the former Russian Federation to secure nuclear stockpiles and conducting a series of wars. This should not be treated as a routine peacekeeping operation.
+Timeline page 88 is the only captured main-namespace source located for the 2029–2038 'Dissolution of the Russian Federation' event and its NATO/UN nuclear-security incursions. Russian Republic page 1683 is a successor-state article: its infobox dates the republic 2029–2139, while its prose says 2029–2138; it attributes the republic's foundation to the collapse of the Union State and Russia's balkanization at the end of the Little Cold War. It does not independently document the nine-year NATO/UN operation or nuclear stockpile campaign.
 
-**Recommendation:** establish a domestic succession/federal crisis first, then a narrowly scoped international nuclear-security crisis. Any foreign deployment should have a specific legal basis, invitation, negotiated agreement, or clear escalation trigger. The political and military risk of nuclear command fragmentation should become a major plot driver.
+**Recommendation:** establish a domestic succession/federal crisis first, then a narrowly scoped international nuclear-security crisis. Any foreign deployment should have a specific legal basis, invitation, negotiated agreement, or clear escalation trigger. Reconcile 2138 versus 2139 in the successor-state page if that later period is revised; do not treat the timeline event as a fully corroborated history.
 
 ## 7. Tone and narrative principles to preserve
 
@@ -285,7 +290,8 @@ Do not begin editing Bronze source pages as part of this proposal. Any future ca
 - This is a qualitative plausibility edit, not a quantitative climate, demographic, macroeconomic, or military simulation.
 - IPCC projections are global mean sea-level ranges; local relative sea level can differ due to subsidence, uplift, currents, and regional ocean dynamics.
 - World Bank climate-migration estimates are scenario-dependent and focus on internal migration, not all forms of displacement.
-- CBO demographic projections are a baseline under specified laws and assumptions, not a prediction that binds an alternate history.
+- CBO's 357-million 2035 figure is the report's Social Security area population measure, not a generic interchangeable population series. The projection is a baseline under specified laws and assumptions, not a prediction that binds an alternate history.
+- The 2024–2034 revised chronology is not a full retcon specification for every downstream page. Mars terraforming, the Second Chinese Civil War, White Tide, and the Great Famine each have dependent chronology and scale claims that require synchronized revision.
 - Civil-war assessments are contingent and should not be read as guarantees about future political stability.
 - The current captured source may contain additional pages, Talk discussions, and later chronology claims that have not been exhaustively reviewed for this editorial proposal. The proposal uses selected main-namespace pages and a bounded 2024–2034 scope.
 - Before canon editing, the maintainer should decide whether the Mars 2023 landing is a deliberate technological divergence or an error to retcon, and whether the Flood is a literal global sea-level event or a historical label for a sequence of coastal disasters.
