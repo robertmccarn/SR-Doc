@@ -6,7 +6,7 @@
 **Base branch:** `audit/continuity-research`  
 **Base commit:** `d93184ad0f78af7b96d264e2bd00d95a8bd61736`  
 **Archive:** `SR-Doc-Audit.zip`  
-**Archive SHA-256:** `d1af0775d69def6ef442b66393e3ad84db6cb6b9ecf9138170573fdfe0a02c8`  
+**Archive SHA-256:** `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`  
 **Status:** Documentation/editorial audit. No canon or source-data edits.
 
 ## 1. Executive result
