@@ -4,7 +4,7 @@
 **Status:** Approved editorial direction; non-canon working proposal. This is not yet an authorized edit to accepted lore pages.
 **Branch:** `experiment/corrected-realism`
 **Source archive:** `SR-Doc-Audit.zip`, SHA-256 `d1af0775d69def6ef442b66393e3ad84db6cb6b9ecf9138170573fdfe0a02c8`.
-**Related evidence:** [corrected-realism audit pass 001](corrected-realism-audit-001.md); [superseded 2024–2034 exploratory proposal](corrected-realism-proposal-001.md).
+**Related evidence:** [corrected-realism audit pass 001](corrected-realism-audit-001.md); [superseded 2024–2034 exploratory proposal](corrected-realism-proposal-001.md). **Geopolitical research integration:** [Geopolitical forecast research and multi-factor integration, 2024–2040](geopolitical-forecast-integration-001.md).
 
 ## 1. Binding editorial rule
 
@@ -66,7 +66,7 @@ NASA's public Artemis material records Artemis II as a crewed lunar flyby in Apr
 
 ## 3. Replacement chronology, 2024–2040
 
-This is a realism envelope and narrative framework, not a deterministic forecast. Events after the cutoff should be phrased as possibilities, policy choices, or developments contingent on specified triggers. Specific future election winners, wars, crashes, and disasters must not be asserted as inevitable.
+This is a realism envelope and narrative framework, not a deterministic forecast. Events after the cutoff should be phrased as possibilities, policy choices, or developments contingent on specified triggers. Specific future election winners, wars, crashes, and disasters must not be asserted as inevitable. The chronology is multi-causal: climate is one pressure among many, not the default explanation for political, economic, demographic, technological, or security developments. Apply the interaction model and regional scenario cautions in [geopolitical forecast research and multi-factor integration](geopolitical-forecast-integration-001.md).
 
 ### 2024 — Historical baseline
 
@@ -182,6 +182,41 @@ This is a realism envelope and narrative framework, not a deterministic forecast
 - Through December 31, 2040, retain real-world physical laws, credible technology readiness, plausible demographics, institutional continuity, and realistic logistics.
 - The world may be warmer, more urbanized, older, more automated, more politically strained, and more exposed to climate hazards. It is not yet a post-apocalyptic world, a multi-state U.S. civil-war map, a collapsed nuclear order, or a terraformed solar system.
 - Use 2040 as the last year of the realism baseline. Any major departure begins in 2041 or later and must be identified as the point of divergence, with its own causal and technological explanation.
+
+## 3A. Multi-factor geopolitical architecture
+
+The maintainer specifically directed that climate must not be the primary catalyst for the setting's transformation. The 2024–2040 period should instead emerge from overlapping, partly independent pressures: geography and strategic position; political institutions and legitimacy; demographics and migration; industrial structure and supply chains; AI, automation, and digital infrastructure; energy and critical minerals; finance and fiscal capacity; military competition; trade and international institutions; climate and water; public health; culture and information; and science/space infrastructure.
+
+This approach is supported as a useful analytical method—not as a canon forecast—by GPF's integrated model of geography, economy, politics, military power, technology, culture, and neighboring communities, and by RANE/Stratfor's 2025–2035 focus on multipolarity, national self-interest, middle powers, AI, energy transition, space, and cyberspace. See [geopolitical-forecast-integration-001.md](geopolitical-forecast-integration-001.md) for primary-source findings, access notes, and scenario implications.
+
+### Narrative rules
+
+- No single global event should explain every major development. Each regional crisis needs its own proximate causes and local political context.
+- Climate hazards should usually act through exposure, infrastructure, insurance, water governance, agricultural conditions, and state capacity. They can amplify other pressures but are not a universal root cause.
+- AI and automation should act through compute, electricity, semiconductors, skilled labor, capital, regulation, cybersecurity, and organizational adoption—not as autonomous magic.
+- Supply-chain disruption should identify a specific component/material, concentrated supplier or route, inventory buffer, substitution options, and affected downstream industries.
+- Demographic aging and migration should affect labor, pensions, health systems, housing, military recruitment, and electoral coalitions gradually and unevenly.
+- Geopolitical forecasts should inspire conditional scenarios, never establish that an event has happened or must happen. Forecast claims must be attributed to Friedman personally, GPF, or Stratfor/RANE correctly.
+- For major states, preserve competing adaptation and deterioration pathways. Do not choose collapse merely because it is dramatic.
+
+### Regional lenses to carry through the chronology
+
+- **United States/North America:** late-2020s institutional and socioeconomic strain, federalism, generational bargaining, fiscal limits, immigration, AI labor effects, industrial policy, and alliance burden-sharing; no deterministic civil war.
+- **Europe:** defense capacity, energy and export dependence, migration, historical borderlands, EU reform, Germany's industrial position, and Poland's growing relative weight; no assumed EU collapse.
+- **Russia/post-Soviet space:** strategic depth, resource revenue, sanctions, demographics, military capacity, elite cohesion, and nuclear deterrence; weakness does not equal imminent breakup.
+- **China/East Asia:** aging, debt/property adjustment, employment, export competition, technology controls, energy/food security, regional inequality, Taiwan, maritime routes, and Japanese defense posture; tension does not equal civil war.
+- **Turkey/Middle East:** geography, defense industry, trade corridors, diplomacy, selective intervention, Syria, South Caucasus, Arab relations, domestic fiscal/political constraints; influence does not mean imperial restoration.
+- **Africa/Latin America/Global South:** local agency, debt, mineral value chains, food/fuel imports, urbanization, ports, security, infrastructure, and bargaining among external powers; resource endowment alone does not guarantee power.
+
+### Updated interpretation of the year-by-year chronology
+
+- **2024–2026:** pandemic aftereffects, wars and sanctions, inflation and interest-rate adjustment, industrial policy, AI/compute investment, energy transition bottlenecks, critical-mineral concentration, and climate-related regional losses occur concurrently.
+- **2027–2029:** political responses, elections, fiscal constraints, defense burden-sharing, migration politics, industrial subsidies, AI labor impacts, cyber incidents, and supply-chain dependencies interact. A U.S. institutional crisis can be central without becoming civil war.
+- **2030–2032:** aging, pension/health costs, automation, power and grid buildout, mineral competition, regional security alignments, and contested trade regimes expose the consequences of earlier decisions.
+- **2033–2035:** adaptation is uneven: Europe debates integration and defense; China manages economic/demographic constraints; Japan adjusts defense posture; Turkey exploits selected regional openings; the United States renegotiates its role and social contract.
+- **2036–2040:** the order becomes more transactional and technologically contested, but not uniformly collapsed. Compute, electricity, minerals, skilled labor, and trusted supply chains remain strategic assets.
+
+This is a multi-factor scenario architecture, not a prediction that each listed trend will occur in every year.
 
 ## 4. Retcon matrix and source disposition
 

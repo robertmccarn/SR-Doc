@@ -5,6 +5,7 @@
 **Purpose:** Canonical navigation, status, definitions, findings, and handoff for the research notes. This register supersedes stale progress summaries in older append-only notes, but does not replace their detailed evidence.
 
 ## Non-canon editorial experiment — realism-first retcon
+- **Geopolitical forecast integration:** [Geopolitical forecast research and multi-factor integration, 2024–2040](geopolitical-forecast-integration-001.md) synthesizes George Friedman, GPF, and Stratfor/RANE primary materials; distinguishes personal and institutional attribution; records public/paywalled access and RSS/API findings; and supplies a multi-domain causal framework. Climate is explicitly one driver among many. Forecasts are scenario inputs, not canon facts.
 
 - **Binding maintainer decision (2026-11-25):** realism-first retcon; no departure from authentic real-world scientific, technological, demographic, economic, institutional, military, or geopolitical plausibility through 2040-12-31. The first deliberate alternate-history divergence may begin in 2041 or later.
 - **Current editorial authority:** [Realism-first continuity baseline and replacement timeline, 2024–2040](realism-first-timeline-2024-2040.md). This document defines the realism envelope, observed-versus-scenario boundary, revised 2024–2040 chronology, retcon matrix, page dependency checklist, and validation gates.

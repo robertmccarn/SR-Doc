@@ -98,6 +98,7 @@ The RAG workstream now includes a source-grounded answer protocol, evidence pack
 - `continuity/agents-md-history-2026-11-20.md` — verbatim preservation of the former long `agents.md`; archival only, not current guidance.
 
 ## Non-canon editorial experiment — realism-first retcon
+- **[Geopolitical forecast research and multi-factor integration, 2024–2040](continuity/geopolitical-forecast-integration-001.md)** — primary-source synthesis of George Friedman, GPF, and Stratfor/RANE; multi-domain scenario framework; regional implications; forecast scorecard method; RSS/API/paywall/source-collection notes. Explicitly prevents climate from becoming a universal master cause.
 
 - **[Realism-first continuity baseline and replacement timeline, 2024–2040](continuity/realism-first-timeline-2024-2040.md)** — current editorial authority following the maintainer's 2026-11-25 decision. No departure from authentic realism through 2040; the first deliberate divergence may begin in 2041. Includes chronology, retcon matrix, page dependency checklist, and pre-canon validation gates.
 - **[Corrected-realism branch audit pass 001](continuity/corrected-realism-audit-001.md)** — original source-hash audit: 13 relevant Bronze records matched the pinned archive manifest; documents the source conflicts and evidence.

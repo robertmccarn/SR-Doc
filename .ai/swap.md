@@ -24,6 +24,7 @@ Continue the source-grounded SR-Doc corpus audit and research-assistant/RAG impl
 **Current branch: non-canon realism-first retcon through 2040.**
 - Binding decision (2026-11-25): no departure from authentic real-world scientific, technological, demographic, economic, institutional, military, or geopolitical plausibility before 2041.
 - Current editorial authority: `research/continuity/realism-first-timeline-2024-2040.md`.
+- Multi-factor research integration: `research/continuity/geopolitical-forecast-integration-001.md`. Climate is one driver among many; include political institutions, demographics, supply chains, AI/technology, energy/minerals, finance, military competition, trade, culture/information, public health, geography, and regional agency. Correctly distinguish Friedman personal work, GPF company/team forecasts, and Stratfor/RANE institutional forecasts. Forecasts are scenario inputs, not canon facts.
 - Source audit: `research/continuity/corrected-realism-audit-001.md` (13 relevant Bronze page hashes matched the pinned archive manifest).
 - Superseded historical draft: `research/continuity/corrected-realism-proposal-001.md`. Retain for source inventory/history only; do not implement its 2024–2034 chronology.
 - The replacement note distinguishes observed history through 2026-11-25 from conditional 2027–2040 scenarios, defines hard constraints, records the retcon matrix, and lists known dependent pages plus validation gates.
