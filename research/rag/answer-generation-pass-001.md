@@ -117,7 +117,7 @@ Do not combine these results into a single reliability percentage. The 20/20 res
 
 **Answer:** The overall infobox range is 2105–2126. The combatant blocks separately label phases 2105–2111 and 2117–2126 under `combatant1`, and 2105–2108 and 2117–2126 under `combatant2`. These field labels do not establish that every listed participant fought throughout the entire overall period.
 
-**Evidence:** Page 1408, revision 11531, `bronze/pages/1408/11531.wikitext`, overall date chars 120–137; `combatant1` phase/participant block chars 209–~930; `combatant2` phase/participant block chars 931–~1832. Main namespace.
+**Evidence:** Page 1408, revision 11531, `bronze/pages/1408/11531.wikitext`, overall date chars 120–137; `combatant1` phase/participant block `combatant1` block chars 197–1105; `combatant2` block chars 1106–1831. Main namespace.
 
 **Score:** PASS — overall range and side-specific phase labels remain distinct.
 
@@ -149,7 +149,7 @@ Do not combine these results into a single reliability percentage. The 20/20 res
 
 **Answer:** The UFC infobox lists two predecessors: People's Republic of China and Republic of China. It lists twelve successors: Federal Republic of China, Guangdong, Fujian, Wuyue, Jiangxi, Hunan, Zhuang, Yunnan, Manchuria, Hainan, Taiwan, and Federated Provinces of the Yangtze. These are the infobox's explicit parameter values, not an independently adjudicated political succession graph.
 
-**Evidence:** Page 655, revision 10838, `bronze/pages/655/10838.wikitext`, predecessor/successor fields `p1`–`p2` and `s1`–`s12`, chars 246–~1110. Main namespace.
+**Evidence:** Page 655, revision 10838, `bronze/pages/655/10838.wikitext`, predecessor/successor fields `p1`–`p2` and `s1`–`s12`, chars 246–918. Main namespace.
 
 **Score:** PASS — all listed values preserved and correctly qualified.
 
