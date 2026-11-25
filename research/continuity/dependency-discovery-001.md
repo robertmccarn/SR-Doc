@@ -92,7 +92,7 @@ Namespace breakdown of those 148 edges: 145 from Main pages, two from User pages
 
 ### 3.3 CSV dependency-type counts
 
-The 245 ledger rows are grouped source observations:
+The 243 ledger rows are grouped source observations:
 
 | Ledger dependency type | Rows |
 |---|---:|
