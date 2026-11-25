@@ -641,3 +641,20 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Key distinction preserved: page 637's 300m global deaths and separate 300m Chinese population without basic needs are different claims. Page 1919 remains unresolved; page 1391 is a regional-climate exception, not support for a global Flood.
 - Updated `research/README.md` and `research/continuity/MASTER-RESEARCH-REGISTER.md`. The review is a focused context-window reconciliation, not a complete semantic review of every sentence or an exhaustive search for indirect dependencies outside the exact phrase-hit set.
 - No tests, builds, RAG CLI commands, or external research were run. No accepted canon, Bronze/Silver source data, manifests, or RAG implementation files were changed. No PR, merge, or branch promotion was performed.
+
+## 2026-11-25 — Narrative audit validation tranche 001
+
+- Continued from Claude's read-only audit handoff on experiment/corrected-realism. Starting audited HEAD: fdec89ff1221a36fa360630b0d7607b7c7d2f95d.
+- Re-read governing documentation and the realism-first timeline before making documentation changes.
+- Reviewed 28 Bronze pages at varying depth (19 full, 9 partial). Recomputed and checked 28/28 raw SHA-256 values against bronze/manifests/pages.json.
+- Confirmed 14 exact-year pages with at least three discrete 2024–2040 year mentions are absent from claim-ledger-001.csv. Page 1998 is a separate downstream candidate. Five additional recursive pages were reviewed outside the threshold.
+- Recomputed the corpus discovery counts using whole-year, word-boundary matching: 116 non-redirect Main pages mention 2024–2040; 262 mention 2041+; 82 mention both. These are discovery metrics, not semantic audit completion.
+- Created research/narrative-audit/MASTER-NARRATIVE-AUDIT.md, validation-tranche-001.md, POST-2041-LINK-DISCOVERY-001.md, and page-review-001.csv. Updated research/continuity/MASTER-RESEARCH-REGISTER.md and research/README.md.
+- Corrected the verified archive SHA-256 in five current research documents. The uploaded SR-Doc-Audit.zip hashes to d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8. Earlier session-log entries containing the 63-character transcription are intentionally preserved; this append-only entry supersedes them.
+- Key findings include observed-baseline errors in the Mexico 2024 succession, gastric-brooding frog de-extinction, NATO membership, and Trump-Russia/Mueller account; a major Mars/terraforming dependency cluster; Caribbean annexation/Flood dependencies; party-system continuity conflicts; and pre-2041 orbital/hypersonic/neural technology claims.
+- Corrected Claude's Russia assessment: May and August 2029 dates may describe successive Union State and Russian Federation events; incompatibility is not established. Corrected the Korean chronology assessment: China may cut aid in anticipation of a 2027 famine, so cause-after-effect is not proven.
+- External checks included official Mexico election records, NATO membership, the Mueller report, the Supreme Court's 2024 immunity ruling, NASA Mars planning, Lazarus Project status, GAO hypersonic program status, CSIS space-weapons assessments, BCI developments, Guyana-US defense cooperation, ISW front-line assessments, the August 2025 summits, and the November 2026 Abu Dhabi talks.
+- No canon, Bronze/Silver source data, manifests, or RAG implementation changes. No tests, builds, RAG CLI runs, PRs, merges, or branch promotion.
+- Documentation artifacts were committed in sequential file updates; latest verified pre-closeout branch HEAD was 8b291dd023e67cf9b371b6c452e71d1a6bf89045.
+- Next: continue the 262-page post-2041 survival map in bounded semantic batches, then finish the observed-baseline and Russia/Eurasia workstreams.
+
