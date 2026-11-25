@@ -1,14 +1,14 @@
 # SR-Doc — AI session swap memory
 
 > **Role:** Compact, repo-backed handoff snapshot for AI work. This file is mutable working memory, not canon, source evidence, or a chronological log.
-> **Last verified against GitHub:** 2026-11-24 (after answer-generation evaluation pass 001)
-> **Branch:** `audit/continuity-research`
-> **Branch HEAD before this swap refresh:** `ba7f7ea8adede4f6267fcf10d2d889014c78c883`
+> **Last verified against GitHub:** 2026-11-25 (after corrected-realism editorial proposal)
+> **Branch:** `experiment/corrected-realism`
+> **Branch HEAD before this swap refresh:** `80f44becd86b4c02fdd0a871850b22c9fc416167`
 > **Maintainer:** User-directed SR-Doc workflow; agents may update this file under `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
 
 ## 1. Mission and standing constraints
 
-Continue the source-grounded SR-Doc corpus audit and research-assistant/RAG implementation. The repository and captured source data—not chat history, model memory, or this swap file—are authoritative.
+Continue the source-grounded SR-Doc corpus audit and research-assistant/RAG implementation. The `experiment/corrected-realism` branch is a user-authorized, non-canon editorial offshoot; its proposal must not be mistaken for accepted lore. The repository and captured source data—not chat history, model memory, or this swap file—are authoritative.
 
 - Work on `audit/continuity-research` unless explicitly directed otherwise.
 - No merge, PR, branch promotion, canon edit, or Bronze/Silver source modification without explicit user approval.
@@ -93,6 +93,7 @@ Generated local index ZIP is `SR-Doc-RAG-Index-002.zip`; it is a build artifact,
 - New files: `research/rag/extract_infobox_claims.py`, `research/rag/evaluate_infobox_claims.py`, `research/rag/infobox-claim.schema.json`, `research/rag/test_infobox_claims.py`, `research/rag/infobox-claim-validation-001.json`.
 - Updated permanent docs: RAG README, infobox pass-001 note, evaluation set and locator report, master register, research README, session log, and `agents.md`.
 - No PR, merge, branch promotion, or canon/source-data edit was performed for that milestone.
+- Current offshoot: `experiment/corrected-realism`, branched from audit HEAD `d93184ad0f78af7b96d264e2bd00d95a8bd61736`. Proposal: `research/continuity/corrected-realism-proposal-001.md`. This is non-canon editorial analysis only; no Bronze/Silver or canon page was changed. It proposes a more gradual, compound 2024–2034 crisis sequence and flags the 2023-vs-2026 crewed Mars source conflict. External calibration sources (IPCC, World Bank, FAO, NASA, CBO, CSIS) are linked in the proposal. Master register, research README, and session log have navigation/chronology updates.
 
 ## 8. Memory system established
 
