@@ -108,6 +108,17 @@ The RAG workstream now includes a source-grounded answer protocol, evidence pack
 
 The realism-first direction authorizes documentation and editorial planning on this branch only. It does not authorize edits to accepted canon, Bronze/Silver source data, manifests, merges, pull requests, or branch promotion.
 
+## Narrative audit — active
+
+The independent narrative audit is being conducted on the non-canon editorial branch. It is read-only with respect to canon and Bronze/Silver source data; writeback is limited to research documentation.
+
+- [Master Narrative Audit](narrative-audit/MASTER-NARRATIVE-AUDIT.md) — scope, status, metrics, and work queue.
+- [Validation tranche 001](narrative-audit/validation-tranche-001.md) — validation of Claude's first handoff, observed-baseline findings, and cross-page continuity issues.
+- [Post-2041 link discovery 001](narrative-audit/POST-2041-LINK-DISCOVERY-001.md) — 262-page discovery counts and link-level dependency candidates; not a causal classification.
+- [Page review 001 CSV](narrative-audit/page-review-001.csv) — page IDs, revision IDs, source paths, raw hashes, and review depth.
+
+First tranche: 28 Bronze pages reviewed at varying depth (19 full, 9 partial), 28/28 source hashes matched the Bronze manifest, and 14 unledgered exact-year pages were confirmed. The 262-page post-2041 survival map remains unclassified and incomplete.
+
 ## Method and status definitions
 
 - **Page read/verified:** exact Bronze Wikitext path was opened/read and SHA-256 matched the page manifest.
