@@ -618,3 +618,9 @@ Matched first 300 media records against extracted image references in all 3,579 
 - A final reconciliation found one Main-namespace exact-phrase hit on page 1937 `Australia` where “The Flood” appears in a File-link caption. An overly broad exclusion had dropped the entire line from the ledger even though the article text also discussed the Flood.
 - Removed that exclusion and regenerated the CSV. The final ledger now contains **243** grouped observations: 127 direct-link observations, 66 text-only mentions, 31 numeric claims, four timeline fields, three redirects, six template/infobox-use records, and six category-membership records. The exact-phrase union is **107** unique Main-namespace pages.
 - Reconciled the dependency note, README, and master register to 243/66. The earlier 242/65 counts in the preceding session entry are retained as historical and superseded by this correction.
+
+
+## 2026-11-25 — Correction: pinned audit archive checksum transcription
+
+- Re-ran `sha256sum` and Python SHA-256 over the 259,012,077-byte `SR-Doc-Audit.zip`. The verified digest is `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`.
+- Corrected a one-character transcription error in `dependency-discovery-001.md`. Earlier entries in this session log are retained as historical; the corrected digest above is authoritative for this pass.
