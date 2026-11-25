@@ -1,6 +1,6 @@
 # SR-Doc research workspace
 
-**Last reconciled:** 2026-11-21  
+**Last reconciled:** 2026-11-24  
 **Working branch:** `audit/continuity-research`
 
 This directory contains source-grounded audit ledgers, tranche evidence, dependency analysis, and continuity investigations. It does not alter or replace Bronze captures, Silver transformations, or Gold proposals. Bronze source files and manifests remain immutable.
@@ -13,10 +13,11 @@ This directory contains source-grounded audit ledgers, tranche evidence, depende
 0. **[Research assistant protocol](continuity/RESEARCH-ASSISTANT-PROTOCOL.md)** — mandatory evidence, citation, contradiction, and abstention contract for lore answers.
 1. **[RAG implementation plan](rag/README.md)** — architecture and next build steps. A local read-only lexical retrieval prototype is implemented; exact-title/redirect lookup and date-bearing contrast retrieval are available.
 2. **[Evidence packet schema](rag/evidence-packet.schema.json)** — machine-readable handoff format.
-3. **[Initial evaluation set](rag/evaluation-set-001.md)** — 20-case baseline approved by the maintainer; all ten source identities, 51 locator/content ranges, and seven title/map-boundary checks passed. Retrieval pass 001 found all expected pages within top five unique candidates, with 47/55 first-stage locator coverage and 55/55 after full-page expansion. Answer-generation and citation scoring remain pending. See [locator validation](rag/evaluation-locator-validation-001.json) and [retrieval benchmark](rag/retrieval-benchmark-pass-001.json).
+3. **[Initial evaluation set](rag/evaluation-set-001.md)** — 20-case baseline approved by the maintainer; all ten source identities, 51 locator/content ranges, and seven title/map-boundary checks passed. Retrieval pass 001 found all expected pages within top five unique candidates, with 47/55 first-stage locator coverage and 55/55 after full-page expansion. Manual answer-generation pass 001 now records 20/20 answer-key-compliant outputs, including all required contradiction disclosures and abstentions; this is not a runtime or independent-scoring result. See [locator validation](rag/evaluation-locator-validation-001.json), [retrieval benchmark](rag/retrieval-benchmark-pass-001.json), and [answer-generation evaluation](rag/answer-generation-pass-001.md).
 - **[Infobox claim schema](rag/infobox-claim.schema.json)** — provenance-preserving derived parameter claim contract.
 - **[Infobox extractor](rag/extract_infobox_claims.py)** and **[conservative comparison](rag/evaluate_infobox_claims.py)** — raw values and explicitly scoped candidate review; five parser/comparison regression tests passed in GitHub Actions, and the committed extractor ran against the pinned archive with 4,381/4,381 claims passing schema and offset/provenance validation. See [validation report](rag/infobox-claim-validation-001.json) and [pass-001 evidence](rag/infobox-claims-pass-001.md).
 - **[Retrieval benchmark pass 001](rag/retrieval-benchmark-pass-001.json)** — approved 20-case baseline; page recall, first-stage/full-page locator coverage, exact-title/redirect resolution, schema findings, precision caveats, and unscored answer metrics.
+- **[Answer-generation evaluation pass 001](rag/answer-generation-pass-001.md)** — 20 source-grounded manual answers; 20/20 answer-key compliance, contradiction disclosure, and abstention checks, with explicit runtime/independence limitations.
 
 5. **[Documentation governance](continuity/DOCUMENTATION-GOVERNANCE.md)** — required protocol for all agent documentation changes.
 6. **[Master research register](continuity/MASTER-RESEARCH-REGISTER.md)** — canonical status, evidence hierarchy, reconciled counts, findings, full note inventory, and next work.
