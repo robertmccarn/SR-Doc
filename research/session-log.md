@@ -525,3 +525,12 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Rechecked page 1413 revision 11017 directly: the field label begins at char 109; the value `2027-2048` occupies chars 114–125. Updated Q09 to the value-only range and added the correction to `evaluation-locator-validation-001.json`.
 - The benchmark's locator-coverage counts are unchanged: the page-1413 lead chunk contains both ranges; the eight first-stage misses remain on page 1408 and the Q16 page 649/1927 sections. This is a locator convention correction, not a change to expected answers.
 - No Bronze/Silver source bytes, manifests, lore canon, merge, PR, or branch promotion were changed or performed.
+
+## 2026-11-24 — RAG answer-generation and citation evaluation pass 001
+
+- Re-verified `audit/continuity-research` at parent HEAD `c867876993903e988ff14ed0777967d9d66467ec` and re-read the swap, governance protocol, research assistant protocol, approved 20-case evaluation set, and retrieval benchmark report.
+- Recomputed the supplied `SR-Doc-Audit.zip` SHA-256: `d1af0775d69def6ef442b66393e3ad84db6cb6b9ecf9138170573fdfe0a02c8`. Read the ten registered Bronze source records directly from the ZIP, using their captured page IDs/revisions and source offsets.
+- Drafted all 20 answer outputs in `research/rag/answer-generation-pass-001.md`. Manual answer-key scoring: 20/20 criteria met; 20/20 cases cited; 4/4 contradiction disclosures (Q09, Q15–Q17); 3/3 abstention/qualified-absence cases (Q18–Q20). No unsupported factual claims were identified in the same-pass review.
+- Important limitation: answers were composed from the retrieval benchmark's recorded page IDs plus full-page expansion and direct Bronze review. The committed search CLI did not generate the evidence packets or answers in this pass. The retrieval benchmark remains an exploratory source-equivalent reconstruction; automated citation precision and independent claim-support scoring remain unmeasured. The 20/20 result is not a production reliability estimate.
+- Updated the master register, RAG README, research README, and agent handoff. No source archive, Bronze/Silver bytes, manifests, canon, retrieval code, or approved evaluation questions were changed.
+- No merge, pull request, or branch promotion was performed.
