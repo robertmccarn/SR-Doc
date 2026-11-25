@@ -1,7 +1,7 @@
 # Initial RAG evaluation set — source-reviewed answer-key draft
 
 **Status:** Maintainer-approved baseline (2026-11-21). All 20 questions have source page IDs, locators, answer criteria, pitfalls, and abstention expectations. Retrieval benchmark pass 001 is recorded; answer-generation quality, generated-citation precision, and claim support remain unscored.
-**Source snapshot:** Bronze archive SHA-256 `d1af0775d69def6ef442b66393e3ad84db6cb6b9ecf9138170573fdfe0a02c8`.
+**Source snapshot:** Bronze archive SHA-256 `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`.
 **Review record:** Source-locator review completed 2026-11-21; maintainer approved this set as the baseline on 2026-11-21. See `evaluation-locator-validation-001.json` and `retrieval-benchmark-pass-001.json`.
 
 ## Evaluation cases
