@@ -569,3 +569,8 @@ Matched first 300 media records against extracted image references in all 3,579 
 
 - Final GitHub comparison at closeout confirms `experiment/corrected-realism` is 29 commits ahead of `audit/continuity-research`, zero behind, with seven changed paths. The prior 24-commit figure in the preceding correction was an intermediate snapshot before the remaining documentation synchronization commits; the seven-path file set is unchanged.
 - Updated the audit note and swap memory to use the final closeout count. No source data, canon, PR, merge, or branch promotion was changed or performed.
+
+
+## 2026-11-25 — Note on branch comparison counts
+
+- The ahead/behind values recorded in the preceding closeout entries were intermediate snapshots while sequential documentation commits were still being made. They are historical checkpoints, not durable branch state. The stable comparison result for this work unit is the seven changed paths relative to `audit/continuity-research`; verify the live branch ref for current HEAD and ancestry.
