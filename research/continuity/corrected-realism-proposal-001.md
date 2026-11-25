@@ -6,6 +6,7 @@
 **Scope:** Major-events timeline, 2024–2034, with implications for linked climate, famine, political, economic, geopolitical, and space-exploration pages.  
 **Source archive:** `SR-Doc-Audit.zip`, SHA-256 `d1af0775d69def6ef442b66393e3ad84db6cb6b9ecf9138170573fdfe0a02c8`.  
 **Canon status:** Nothing in this proposal changes captured Bronze/Silver data or accepted lore. It is an editorial proposal only.
+**Audit:** See [corrected-realism branch audit pass 001](corrected-realism-audit-001.md) for source-hash verification, branch-file review, corrected chronology, and unresolved retcon decisions.
 
 ## 1. Executive recommendation
 
