@@ -11,7 +11,7 @@
 
 ## 1. Executive result
 
-The branch was seven commits ahead of the audit base and changed five paths: `.ai/swap.md`, `research/README.md`, `research/continuity/MASTER-RESEARCH-REGISTER.md`, `research/continuity/corrected-realism-proposal-001.md`, and `research/session-log.md`. All five changed files were reviewed. The branch operating guide (`agents.md`) and normative documentation governance file were also read because the user designated this branch as the current working branch.
+At the start of the audit, the branch was seven commits ahead of the audit base and changed five paths: `.ai/swap.md`, `research/README.md`, `research/continuity/MASTER-RESEARCH-REGISTER.md`, `research/continuity/corrected-realism-proposal-001.md`, and `research/session-log.md`. All five were reviewed. The branch operating guide (`agents.md`) and normative documentation governance file were also read because the user designated this branch as the current working branch. The audit then added this audit report and updated `agents.md`; the final branch comparison therefore contains seven changed paths and 24 commits ahead of the base. All seven final changed paths were reviewed or created and re-fetched for verification. Unchanged inherited repository files were not re-audited wholesale; their existing audit status remains that of the base branch.
 
 The original proposal had a useful high-level direction, but it under-reconciled several source claims and contained a few overstatements. This audit identified and corrected the following material issues:
 
