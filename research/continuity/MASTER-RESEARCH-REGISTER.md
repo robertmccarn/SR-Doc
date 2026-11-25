@@ -232,13 +232,28 @@ The append-only session log deliberately retains chronology. It should not be re
 - Added `research/lore-index/extract_infobox_edges.py`, `semantic-extraction-001.json`, and `RELATIONSHIP-MATRIX-SEMANTIC-001.md`.
 - Scope limitations: five of ten observed infobox template families modeled; 23 calls across election, government agency, company, military unit, and international-organization templates remain unmodeled. Only exact wikilinks are resolved; plain-text values are not guessed. Raw Wikitext parameters are inspected, not MediaWiki-rendered. Edges are source claims, not adjudicated canon.
 
+## Narrative audit — validation tranche 001
+
+**Status:** First independent handoff validation and targeted narrative review completed; full narrative audit remains in progress.
+
+- Snapshot: branch experiment/corrected-realism, HEAD fdec89ff1221a36fa360630b0d7607b7c7d2f95d.
+- New artifacts: research/narrative-audit/MASTER-NARRATIVE-AUDIT.md, validation-tranche-001.md, POST-2041-LINK-DISCOVERY-001.md, and page-review-001.csv.
+- Twenty-eight Bronze pages reviewed at varying depth (19 full, 9 partial); all 28 raw hashes matched the Bronze manifest.
+- Fourteen exact-year pages were confirmed absent from claim-ledger-001.csv. Page 1998 is a separate downstream candidate; five additional recursive pages were reviewed even though they do not meet the exact-year threshold.
+- Exact-year discovery: 116 non-redirect Main pages mention 2024–2040; 262 mention 2041 or later; 82 mention both. These are discovery counts, not semantic completion metrics.
+- Key issues include the 2024 Mexican presidential succession, 2024 gastric-brooding frog de-extinction, Little Cold War NATO membership claim, Trump-Russia/Mueller claim, Mars settlement/terraforming chronology, Caribbean annexation dependencies, US party-system continuity, hypersonic/orbital-weapons claims, and the 2029 Russia succession sequence.
+- Claude's Russia finding was narrowed: the dates may describe successive events rather than three incompatible accounts. Korean famine chronology may be anticipatory rather than strictly cause-after-effect.
+- Archive SHA-256 was independently recomputed from SR-Doc-Audit.zip. Five current documents were corrected; historical session-log entries remain untouched under append-only policy.
+
 ## Next recommended work
 
-1. Review relevant Talk/Thread editorial discussions for the Chinese succession and civil-war chronology, distinguishing creator intent from canon text.
-2. Resolve canonical title and source availability for Association of East Asia.
-3. Recover the historical orthographic projection map from an authorized captured/source location if available; do not infer or redraw its territorial content.
-4. Build a claim/evidence matrix for the Chinese succession (dates, government, leaders, territorial claims, war phases, successor entities) before proposing any edits.
-5. Continue other high-impact continuity audits only after choosing a bounded topic and enumerating the exact source pages.
+1. **Post-2041 survival map:** classify the 262 discrete-year pages in bounded batches as independent, latent dependency, direct dependency, or unresolved. Start with Flood, Mars, Great Famine, Russia/Eurasia, and US territorial expansion clusters. Link edges are discovery evidence only.
+2. **Observed-baseline sweep:** review 2022–2026 claims across pages 97, 961, 1317, 1445, 318, 1234, and 1366, then expand recursively.
+3. **Russia/Eurasia regional chain:** complete pages 97, 1683, 1729, 1438, 1998, 961, and related successor-state, Turkish, Polish, and Japanese pages.
+4. **US political continuity:** reconcile pages 2136, 1262, 1266, and 1796 with the party-system and election pages.
+5. **Return to the Great Famine / Market Crash / Revolutions / Great Reset cluster** after the current cross-domain dependencies have been mapped.
+
+The earlier Chinese political-history workstream remains important but is deferred behind the active narrative dependency and observed-baseline audit.
 
 ## Safety rails
 
