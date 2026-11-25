@@ -1,7 +1,7 @@
 # SR-Doc — AI session swap memory
 
 > **Role:** Compact, repo-backed handoff snapshot for AI work. This file is mutable working memory, not canon, source evidence, or a chronological log.
-> **Last verified against GitHub:** 2026-11-25 (after retired-claim dependency discovery pass 001)
+> **Last verified against GitHub:** 2026-11-25 (after Flood claim reconciliation pass 001)
 > **Branch:** `experiment/corrected-realism`
 > **Branch HEAD before this swap refresh:** `21d3b4e43a8c2ee3c8ba16ac04215d678cef60c3`
 > **Maintainer:** User-directed SR-Doc workflow; agents may update this file under `research/continuity/DOCUMENTATION-GOVERNANCE.md`.
@@ -78,8 +78,8 @@ Continue the source-grounded SR-Doc corpus audit and research-assistant/RAG impl
 - Branch: `experiment/corrected-realism`
 - Base: `audit/continuity-research` at `d93184ad0f78af7b96d264e2bd00d95a8bd61736` (read-only reference)
 - Last verified HEAD before this swap refresh is recorded at the top of this file.
-- Latest dependency-discovery milestone: committed ledger and method/results note; updated README, master register, and append-only session log. No tests/builds/RAG CLI ran; no Bronze/Silver, manifest, canon, or RAG implementation files changed. Final branch HEAD before this swap refresh: `656b799585066f01264acbe477c695ef56a55e03`.
-- Latest milestone: five committed parser/comparison regression tests passed in GitHub Actions; continuity validation, compileall, and existing pytest suite also passed. The committed extractor/evaluator ran against the pinned archive; all 4,381 claims passed schema/offset/provenance validation, with deterministic repeat output. See `research/rag/infobox-claim-validation-001.json`.
+- Latest continuity milestone: Flood claim reconciliation pass 001 added a 58-page page-level CSV and findings note; all 58 raw page hashes matched the Bronze manifest; 35 canonical direct-link edges were found across 29 phrase-hit pages. README, master register, and append-only session log were updated. No tests/builds/RAG CLI ran; no canon, Bronze/Silver, manifest, or RAG implementation files changed. Final branch HEAD before this swap refresh: `43561ef75ee3b1bb71f00c822cb64ce0c5837cac`.
+- Prior RAG milestone: five committed parser/comparison regression tests passed in GitHub Actions; continuity validation, compileall, and existing pytest suite also passed. The committed extractor/evaluator ran against the pinned archive; all 4,381 claims passed schema/offset/provenance validation, with deterministic repeat output. See `research/rag/infobox-claim-validation-001.json`.
 - New files: `research/rag/extract_infobox_claims.py`, `research/rag/evaluate_infobox_claims.py`, `research/rag/infobox-claim.schema.json`, `research/rag/test_infobox_claims.py`, `research/rag/infobox-claim-validation-001.json`.
 - Updated permanent docs: RAG README, infobox pass-001 note, evaluation set and locator report, master register, research README, session log, and `agents.md`.
 - No PR, merge, branch promotion, or canon/source-data edit was performed for that milestone.
