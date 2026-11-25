@@ -8,7 +8,7 @@
 
 The scan covered the pinned Bronze Wikitext and Silver metadata in `SR-Doc-Audit.zip`, plus the repository's page ledger and available RAG assets.
 
-- **Bronze corpus:** 3,579 page records, including 507 Main-namespace pages. The archive SHA-256 is `d1af0775d69def6ef442b66393e3ad84db6cb6b9ecf9138170573fdfe0a02c8`. All 3,579 raw Wikitext files were SHA-256 checked against `bronze/manifests/pages.json`; **3,579/3,579 matched**.
+- **Bronze corpus:** 3,579 page records, including 507 Main-namespace pages. The archive SHA-256 is `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`. All 3,579 raw Wikitext files were SHA-256 checked against `bronze/manifests/pages.json`; **3,579/3,579 matched**.
 - **Page ledger:** key source records were cross-checked against `research/page-ledger.csv` for page ID, title, revision, raw path and SHA-256. The ledger itself is an index, not a substitute for the captured source bytes.
 - **Silver metadata:** 3,579 page rows, 11,462 parsed `wiki_link` relation records, and 4,447 year-mention records.
 - **Exact-phrase corpus scan:** 107 unique Main-namespace pages contain at least one scoped event/entity phrase. The group counts overlap; they must not be summed.
