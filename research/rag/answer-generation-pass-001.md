@@ -4,7 +4,7 @@
 **Date:** 2026-11-24  
 **Branch:** `audit/continuity-research`  
 **Baseline:** Maintainer-approved `evaluation-set-001.md` (20 cases, approved 2026-11-21).  
-**Pinned Bronze archive SHA-256:** `d1af0775d69def6ef442b66393e3ad84db6cb6b9ecf9138170573fdfe0a02c8`.  
+**Pinned Bronze archive SHA-256:** `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`.  
 **Parent HEAD before this pass:** `c867876993903e988ff14ed0777967d9d66467ec`.
 
 ## 1. Executive result
