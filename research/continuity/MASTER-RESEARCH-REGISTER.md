@@ -324,3 +324,12 @@ The earlier Chinese political-history workstream remains important but is deferr
 The tranche also records a bounded 2025–2026 observed-baseline update: NATO remains at 32 members; Iran-war disagreements, US force-posture reductions, and the Greenland dispute are real alliance stresses; the November Greenland agreement preserves Danish sovereignty while expanding US military access. The full sources, qualifications, and limitations are in validation-tranche-002.md.
 
 No canon, Bronze/Silver source data, manifests, or RAG implementation changed. No tests, builds, RAG CLI runs, PRs, merges, or branch promotion occurred.
+
+
+## Chronology proposal register 001 — conversation-origin, non-canon
+
+- [Chronology proposal register 001](chronology-proposal-register-001.md) records 16 maintainer-supplied chronology proposals and their reported relationships to existing Bronze lore.
+- **Every entry is PROPOSAL, conversation-origin, not canon, not approved.** The register preserves conflicts and competing values; it does not edit or supersede the realism-first timeline.
+- Reported conflicts include page 214's six presidential succession slots, page 1106's 2045 Earth Working Group origin, page 88's Balkan Crisis/Japanese Resurgence/Meridian Base/China/Prometheus/Augment Rights entries, page 107's WWIII and armistice chronology, and page 1438's Eurasian Coalition.
+- Page relationships are registered from the maintainer's 2026-11-27 instruction and reported Claude findings; the register explicitly marks them as not independently re-fetched/re-hashed in this work unit.
+- Open maintainer decisions include real-person and pre-2041 named-president policy, replacement/refinement of Japanese Far East lore, Kura-Araxes/Neum mapping, Earth Working Group re-founding, armistice-stage chronology, Prometheus mechanism, and Augment Rights dates.
