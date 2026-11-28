@@ -151,6 +151,11 @@ The local SQLite FTS5 prototype now supports exact page IDs, lexical main-namesp
 The search CLI now accepts `--contrast` to diversify lexical matches across pages and surface passages containing multiple year ranges for manual comparison. Four regression checks pass locally, including the Second Chinese Civil War 2027–2048 / 2105–2111 conflict on page 1413. This feature produces review candidates, not adjudicated contradictions. See [RAG implementation details](rag/README.md) and [test_search.py](rag/test_search.py).
 
 
+## Chronology proposals — non-canon register 001
+
+- [Chronology proposal register 001](continuity/chronology-proposal-register-001.md) — 16 conversation-origin proposals, each explicitly **not canon and not approved**, with reported relationships to existing Bronze chronology and maintainer decisions. The realism-first timeline is unchanged.
+- These are proposal records, not validated claims or approved events. Their Bronze relationships still require exact source re-fetch and provenance verification.
+
 ### Narrative audit update — validation tranche 002
 
 The original 14-page exact-year gap was a three-mention threshold subset. A repeatable standalone-year scan now identifies **43 non-redirect Main pages** missing from claim-ledger-001: 17 with one mention, 12 with two, and 14 with three or more. All 43 raw hashes match the Bronze manifest; the 29 additional pages received targeted date-context review, not full semantic review.
