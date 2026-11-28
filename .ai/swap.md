@@ -2,9 +2,9 @@
 
 **Repository:** robertmccarn/SR-Doc  
 **Working branch:** experiment/corrected-realism  
-**HEAD before this swap refresh:** aff0e114531a4a50fc62b411beb2934279fec0d6  
-**Last verified:** 2026-11-25  
-**Current workstream:** Narrative audit validation tranche 002 complete; 43-page ledger-gap inventory established; full semantic audit and post-2041 dependency map remain in progress.
+**Historical HEAD marker (before an earlier swap refresh; not current):** aff0e114531a4a50fc62b411beb2934279fec0d6  
+**Last verified:** 2026-11-27  
+**Current workstream:** Narrative audit tranche 002 complete; chronology proposal register 001 created as non-canon conversation-origin material; independent review pending before tranche 003. The 43-page gap inventory is established; the full semantic audit and post-2041 dependency map remain in progress.
 
 ## Start here
 
@@ -13,14 +13,15 @@ Read in this order:
 2. this file
 3. `research/continuity/DOCUMENTATION-GOVERNANCE.md`
 4. `research/continuity/MASTER-RESEARCH-REGISTER.md`
-5. `research/README.md`
-6. `research/narrative-audit/MASTER-NARRATIVE-AUDIT.md`
-7. `research/narrative-audit/validation-tranche-002.md`
-8. `research/narrative-audit/claim-ledger-gap-002.csv`
-9. `research/narrative-audit/validation-tranche-001.md`
-10. `research/narrative-audit/POST-2041-LINK-DISCOVERY-001.md`
-11. `research/continuity/realism-first-timeline-2024-2040.md`
-12. `research/session-log.md`
+5. `research/continuity/chronology-proposal-register-001.md`
+6. `research/README.md`
+7. `research/narrative-audit/MASTER-NARRATIVE-AUDIT.md`
+8. `research/narrative-audit/validation-tranche-002.md`
+9. `research/narrative-audit/claim-ledger-gap-002.csv`
+10. `research/narrative-audit/validation-tranche-001.md`
+11. `research/narrative-audit/POST-2041-LINK-DISCOVERY-001.md`
+12. `research/continuity/realism-first-timeline-2024-2040.md`
+13. `research/session-log.md`
 
 The repository is the source of truth. Verify Git state and current file versions before acting.
 
@@ -104,6 +105,13 @@ Nine priority pages reopened for source context: 1366 Caribbean annexation, 318 
 
 Pinned archive SHA-256:
 `d1af0775d69def6ef442b66393e3ad84db66cb6b9ecf9138170573fdfe0a02c8`
+
+## Chronology proposal register 001
+
+- `research/continuity/chronology-proposal-register-001.md` contains 16 conversation-origin proposals. Every entry is **PROPOSAL, conversation-origin, not canon, not approved**.
+- The register preserves reported relationships to pages 88, 94, 107, 1106, 1438, and 214. It does not edit the realism-first timeline or resolve conflicts.
+- Source relationships were supplied in the maintainer's 2026-11-27 instruction; independent Bronze re-fetch/hash verification remains outstanding.
+- Master register, research README, and append-only session log have been synchronized. The next action is to send the exact commit packet for independent review; do not begin tranche 003 until that review is answered.
 
 ## Important validated findings and corrections
 
