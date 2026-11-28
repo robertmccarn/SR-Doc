@@ -682,3 +682,14 @@ Matched first 300 media records against extracted image references in all 3,579 
 - Reassessed outer-planet missions, space elevators, BCI/haptics, Korean reunification, ISS orbital transfer, Serbia/Bosnia territorial change, and Hong Kong independence. Full findings and source URLs are in `research/narrative-audit/validation-tranche-002.md`.
 - Created `research/narrative-audit/validation-tranche-002.md` and `claim-ledger-gap-002.csv`; synchronized this register, README, and master narrative audit. The 262-page post-2041 universe remains a discovery set, with zero pages formally classified in the page-level survival map; no regions are complete.
 - No tests, builds, or RAG CLI commands were run. No canon, Bronze/Silver source bytes, manifests, or RAG implementation changed. No PR, merge, or branch promotion occurred.
+
+
+## 2026-11-27 — Chronology proposal register 001
+
+- Verified `experiment/corrected-realism` against GitHub before writing. It was identical to audited HEAD `1f47d4cb4cbd842212372083ea954f21da29c685` (zero commits ahead/behind).
+- Created `research/continuity/chronology-proposal-register-001.md` to register 16 conversation-origin chronology proposals. Every entry is explicitly marked **PROPOSAL, conversation-origin, not canon, not approved**.
+- Recorded reported relationships to Bronze pages 88, 94, 107, 1106, 1438, and 214, including conflicts, overlaps, name collision, date consistency, and unresolved relationships. No conflict was reconciled and no chronology was approved.
+- The register states its verification boundary: page relationships and search results were supplied in the maintainer's task instruction / reported Claude findings; this work unit did not independently re-fetch or re-hash all cited Bronze pages.
+- Added the register to `research/continuity/MASTER-RESEARCH-REGISTER.md` and `research/README.md`.
+- No external sources, tests, builds, RAG CLI runs, or tranche-003 page reads were performed. No canon, Bronze/Silver, manifests, or RAG implementation files were changed. No PR, merge, or branch promotion occurred.
+- Current write sequence: proposal register created, master register and README synchronized. Final branch HEAD will be verified after the swap refresh.
